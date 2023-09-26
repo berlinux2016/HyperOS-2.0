@@ -1,7 +1,7 @@
 # ![logo](https://i41.servimg.com/u/f41/18/23/59/53/miui-113.png)  
 # MIUI V15 German Translation on Xiaomi.eu
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI15.svg)](https://github.com/berlinux2016/MIUI145/issues "GitHub issues")
+[![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI15.svg)](https://github.com/berlinux2016/MIUI15/issues "GitHub issues")
 
 ## Introduction
 
