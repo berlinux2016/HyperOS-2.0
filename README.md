@@ -1,11 +1,11 @@
 # ![logo](German/extras/HyperOS.png)
-# Xiaomi HyperOS (MIUI 15) German Translation on Xiaomi.eu
+# Xiaomi HyperOS - German Translation on Xiaomi.eu
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI15.svg)](https://github.com/berlinux2016/MIUI15/issues "GitHub issues")
 
 ## Introduction
 
-This repository contains the german translation of the Xiaomi HyperOS (MIUI 15) Weekly ROM Releases from [xiaomi.eu](https://xiaomi.eu/community/forums/miui-rom-releases.103/) and other MIUI custom ROMs.
+This repository contains the German translation of the Xiaomi HyperOS Weekly/Stable ROM releases from [xiaomi.eu](https://xiaomi.eu/community/forums/miui-rom-releases.103/) and other MIUI custom ROMs.
 
 All strings were translated by the community - special thanks go to:
 
