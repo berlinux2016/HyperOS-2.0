@@ -1,4 +1,4 @@
-# ![logo](German/extras/HyperOS.png)
+# ![logo](HyperOS.png)
 # Xiaomi HyperOS - German Translation on Xiaomi.eu
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/berlinux2016/MIUI15.svg)](https://github.com/berlinux2016/MIUI15/issues "GitHub issues")
