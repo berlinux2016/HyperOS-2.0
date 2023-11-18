@@ -34,7 +34,7 @@
     <string name="activate_fail_notification_title">Synchronisation reaktivieren</string>
     <string name="activating">Aktivieren…</string>
     <string name="address">Adresse</string>
-    <string name="after_reset_need_restore_system_app">Anscheinend haben Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um MIUI normal zu verwenden.</string>
+    <string name="after_reset_need_restore_system_app">Anscheinend haben Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um das Gerät normal zu verwenden.</string>
     <string name="afternoon"></string>
     <string name="agree">Zustimmen</string>
     <string name="allow_notify">Benachrichtigungen zulassen</string>
@@ -47,7 +47,7 @@
     <string name="check_phone_error_title">Sync ist aus</string>
     <string name="check_phone_io_error">Netzwerkfehler</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
-    <string name="click_to_restore">Wiederherstellen von Systemelementen, um MIUI nach einem Werksreset normal zu verwenden. Zum Starten tippen.</string>
+    <string name="click_to_restore">Systemelemente wiederherstellen, um das Gerät nach einem Werksreset normal zu verwenden. Zum Starten tippen.</string>
     <string name="close">Schließen</string>
     <string name="com_android_deskclock">Uhr</string>
     <string name="com_android_email">E-Mail</string>
@@ -333,7 +333,7 @@ Beachten Sie, dass diese App eine Internetverbindung und die folgenden Genehmigu
     <string name="system_app_restore_completed">Erfolgreich wiederhergestellt</string>
     <string name="system_app_restore_completed_detail">Alle Systemelemente erfolgreich wiederhergestellt</string>
     <string name="system_app_restore_failed">Ein Fehler ist aufgetreten</string>
-    <string name="system_app_restore_failed_detail">Systemelemente wurden nicht wiederhergestellt. Netzwerkeinstellungen prüfen und das Gerät nicht neu starten oder ausschalten, bis die Elemente vollständig wiederhergestellt sind. Taste unten antippen, um es erneut zu versuchen.</string>
+    <string name="system_app_restore_failed_detail">Systemelemente wurden nicht wiederhergestellt. Netzwerkeinstellungen prüfen und das Gerät nicht neu starten oder ausschalten, bis die Elemente vollständig wiederhergestellt sind. Auf Taste unten tippen, um es erneut zu versuchen.</string>
     <string name="system_restore">Elemente wiederherstellen</string>
     <string name="tap_to_update_system_app">Tippen, um System-Apps zu aktualisieren</string>
     <string name="tell_you_later">Später</string>
