@@ -5,7 +5,7 @@
 (* For all other bugs, please use the forum under: https://xiaomi.eu/community/forums/bugs.20/ *)
 (**********************************************************************************************************)
 (* Please fill in the fields below: *) --->
-- **MIUI Version:** X.X.X
-- **Device name:** Mi XYZ
+- **HyperOS version:** X.X.X
+- **Device name:** Xiaomi XYZ
 
 **Screenshot/Description:**
