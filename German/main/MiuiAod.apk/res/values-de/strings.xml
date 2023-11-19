@@ -49,9 +49,9 @@
     <string name="aod_lock_screen_date">EE, d. MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d. MMMM</string>
     <string name="aod_lock_screen_date_12_signature">dd.MM.</string>
-    <string name="aod_lock_screen_date_12_smartcover">EE\ndd.MM.</string>
+    <string name="aod_lock_screen_date_12_smartcover">d.M.</string>
     <string name="aod_lock_screen_date_lunar">EE, d.MM.</string>
-    <string name="aod_lock_screen_date_signature">dd.MM.</string>
+    <string name="aod_lock_screen_date_signature">d.M.</string>
     <string name="aod_lock_screen_date_smartcover">EE\ndd.MM.</string>
     <string name="aod_lock_screen_date_smartcover_b">EE, dd.MM.</string>
     <string name="aod_mode_preview">Vorschau</string>
@@ -130,7 +130,7 @@
     <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd.</string>
     <string name="fmt_date_numeric_month">MM.</string>
-    <string name="fmt_date_numeric_month_day">dd.MM.</string>
+    <string name="fmt_date_numeric_month_day">d.M.</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
@@ -154,8 +154,8 @@
     <string name="format_lunar_calendar_month_day">dd.MM.</string>
     <string name="format_lunar_calendar_month_day_desc">Datum nach traditionellem chinesischen Kalender: %s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, Datum nach traditionellem chinesischen Kalender: %3$s, Feiertag: %4$s</string>
-    <string name="format_month_day_style1">d MMM</string>
-    <string name="format_month_day_style2">d.M</string>
+    <string name="format_month_day_style1">d. MMM</string>
+    <string name="format_month_day_style2">d.M.</string>
     <string name="format_month_day_week">EEE, dd. MMM</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, Datum nach traditionellem chinesischen Kalender: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, Feiertag: %4$s</string>
@@ -302,12 +302,22 @@
     <string name="minimalist_clock">Einfache Uhr</string>
     <string name="miui_clock_city_name_local">Lokal</string>
     <string name="miui_clock_city_name_second">Zweite Uhr</string>
-    <string name="miui_magazine_c_clock_style2_date">d.M EE</string>
+    <string name="miui_lock_screen_date">EEE, dd. MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd. MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEE
+dd. MMM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">EEE
+dd. MMM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d.M."</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d.M."</string>
+    <string name="miui_magazine_c_clock_style2_date">d.M. EE</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd. MMM</string>
     <string name="miui_magazine_clock_date">d.M</string>
     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
     <string name="miui_rhombus_clock_date">dd. MMMM</string>
-    <string name="miui_smart_frame_clock_date">d.M</string>
+    <string name="miui_smart_frame_clock_date">d.M.</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
@@ -502,7 +512,7 @@
     <string name="sunrise_time_format_tomorrow_desc">Morgiger Sonnenaufgang: %s</string>
     <string name="sunset_time_format">Sonnenuntergang %s</string>
     <string name="sunset_time_format_desc">Sonnenuntergang: %s</string>
-    <string name="super_wallpaper_date">EEEE\ndd.MM.</string>
+    <string name="super_wallpaper_date">EE\ndd.MM.</string>
     <string name="super_wallpaper_date_inter">EEEE\ndd.MM.</string>
     <string name="super_wallpaper_date_lunar">EEEE\ndd.MM.</string>
     <string name="temporary_style">Für 10 Sekunden nach Antippen</string>
@@ -528,7 +538,6 @@
     <string name="the_forth_day">Vierter Tag</string>
     <string name="the_hksar_establishment_day">HKSAR Gründungstag</string>
     <string name="the_international_womens_day">Weltfrauentag</string>
-    <string name="the_laba_festival">Laba Festival</string>
     <string name="the_labour_day">1. Mai</string>
     <string name="the_lantern_festival">Laternenfest</string>
     <string name="the_mid_autumn_festival">Mitte-Herbst-Festival</string>
