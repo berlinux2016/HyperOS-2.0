@@ -773,7 +773,7 @@
     <string name="sns_content_default">Foto teilen</string>
     <string name="sns_desc_image_preview">Nachrichtenvorschau</string>
     <string name="sns_desc_preview_weibo">Weibo Nachrichtenvorschau</string>
-    <string name="sns_footer_text">Mit MIUI 7 erstellt</string>
+    <string name="sns_footer_text">Mit Mi Notizen erstellt</string>
     <string name="sns_hint_content">Nachricht eingeben</string>
     <string name="sns_hint_title">Betreff (Optional)</string>
     <string name="sns_message_disconnect">Netzwerkverbindungsfehler. Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.</string>

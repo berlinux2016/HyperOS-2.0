@@ -220,14 +220,9 @@
     <string name="not_sent_recently">Keine zuletzt geöffneten</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="notch_and_status_bar_setting">Kontrollzentrum &amp; Statusleiste</string>
-    <string name="notification_aggregate_description1">MIUI kann Push-Benachrichtigungen und Werbenachrichten automatisch gruppieren, so dass Ihre Benachrichtigung weniger überfüllt ist.</string>
-    <string name="notification_aggregate_description2">Unsere Algorithmen analysieren den Benachrichtigungsinhalt und wenden diese Funktion nicht auf wichtige Instant Messenger-Benachrichtigungen und -Warnungen an. Wenn Sie feststellen, dass wichtige Benachrichtigungen versehentlich gruppiert sind, melden Sie das gefundene Problem mit unserer \"Feedback\"-Funktion.</string>
-    <string name="notification_aggregate_summary">MIUI erlauben, Benachrichtigungen automatisch zu gruppieren</string>
-    <string name="notification_aggregate_summary_inner">Gruppen- und Werbebenachrichtigungen automatisch einschalten</string>
-    <string name="notification_aggregate_title">Gruppenbenachrichtigungen</string>
     <string name="notification_display_setting">Benachrichtigungs-\nleiste</string>
     <string name="notification_display_style">Benachrichtigungsstil</string>
-    <string name="notification_fold_description1">Benachrichtigungsordner wurde in MIUI 9 eingeführt. Diese Funktion filtert unwichtige Benachrichtigungen und legt sie in einem separaten Ordner ab.</string>
+    <string name="notification_fold_description1">Mit dem Benachrichtigungsordner können Sie unwichtige Benachrichtigungen filtern und in einem separaten Ordner ablegen.</string>
     <string name="notification_fold_description2">MIUI merkt sich, welche Benachrichtigungen Sie antippen, und verwendet dann mehrere Kriterien, um festzustellen, ob sie wichtig sind.</string>
     <string name="notification_fold_description3">Wenn Benachrichtigungen, die Sie für wichtig halten, immer noch in den Benachrichtigungsordner gelangen, melden Sie solche Probleme an uns. Wir freuen uns über Ihr Feedback.</string>
     <string name="notification_fold_footer_icon_summary">App-Symbole anzeigen, wenn unwichtige Benachrichtigungen gruppiert werden</string>

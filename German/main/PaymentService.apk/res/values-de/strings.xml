@@ -410,7 +410,6 @@
     <string name="mibi_setting_confirm_revoke_agreement">Widerruf bestätigen</string>
     <string name="mibi_setting_confirm_revoke_service">Logout bestätigen</string>
     <string name="mibi_setting_perm_setting_dialog_confirm">Ja, ich weiß</string>
-    <string name="mibi_setting_perm_setting_dialog_msg">Mi Coin-Berechtigungsänderungen werden in MIUI 10 und niedrigeren Versionen nicht unterstützt. Wenn Sie die Berechtigungen ändern müssen, aktualisieren Sie bitte das MIUI-System auf MIUI 11 und höhere Versionen.</string>
     <string name="mibi_setting_perm_setting_dialog_title">Einstellungstipps</string>
     <string name="mibi_setting_privacy_management">Verwaltung der Datenschutzerklärung</string>
     <string name="mibi_setting_revoke_service">Stornierung des Mi Coin-Dienstes</string>

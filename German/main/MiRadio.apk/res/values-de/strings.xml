@@ -641,7 +641,6 @@ Diesen Code bitte an den Techniker senden."</string>
     <string name="metered_play_toast_with_beyond_data">Mobile Daten zum Abspielen von Titeln verwenden. Überschreitung des Limits um %s</string>
     <string name="metered_play_toast_with_data">Mobile Daten zum Abspielen von Titeln verwenden, %s übrig</string>
     <string name="midnight">Nacht</string>
-    <string name="milink_unavaliable_please_update">Mi Link ist nicht verfügbar. MIUI aktualisieren.</string>
     <string name="missing_title">"'Unbekannt'"</string>
     <string name="miui_fm_description">Viele Internet-Radiostationen</string>
     <string name="miui_music">Mi Music</string>

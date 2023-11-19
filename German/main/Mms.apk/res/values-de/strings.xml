@@ -502,7 +502,7 @@
     <string name="mx_filter_message_from_stranger_dialog_title">Mi-Nachrichten von unbekannten Nummern blockieren</string>
     <string name="mx_filter_message_from_stranger_summary">Nur Mi-Nachrichten von Ihren Kontakten zulassen</string>
     <string name="mx_main_purpose">Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer kostenlos über das Internet senden.\nFür die Aktivierung von Mi Message ist eine ausgehende SMS-Nachricht erforderlich. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
-    <string name="mx_main_purpose_short">Mi Message erlaubt es MIUI-Benutzern, kostenlose SMS- und MMS-Nachrichten zu senden und zu empfangen.</string>
+    <string name="mx_main_purpose_short">Mi Message erlaubt es Xiaomi-Benutzern, kostenlose SMS- und MMS-Nachrichten zu senden und zu empfangen.</string>
     <string name="mx_on_sim_1">Mi Message SIM-Steckplatz 1</string>
     <string name="mx_on_sim_2">Mi Message SIM-Steckplatz 2</string>
     <string name="mx_online">Aktiviert</string>

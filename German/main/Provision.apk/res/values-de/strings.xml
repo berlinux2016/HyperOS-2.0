@@ -62,8 +62,7 @@
     <string name="carousel_privacy"><Data>Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> unseres vertrauenswürdigen Drittanbieters, bevor Sie Hintergrundkarussell nutzen.</Data></string>
     <string name="carousel_setting">Sperrbildschirm einrichten</string>
     <string name="carousel_setting_sub">Hintergrundkarussell zeigt Ihnen jedes Mal neue Geschichten, wenn Sie Ihr Gerät entsperren</string>
-    <string name="carrier_introduction">"Um Ihnen einen besseren Service zu bieten, kann Ihr Gerät regelmäßig Informationen über die Geräteversion, Geräteidentifikationsdaten (inkl. IMEI/IMSI/MSISDN/MAC-Adresse, MEID/ICCID) und ungefähre Standortinformationen (inkl. Basisstations-ID) an den Mobilfunkanbieter über WLAN, mobiles Datennetz oder kostenlose SMS senden. Der Mobilfunkanbieter verpflichtet sich, relevante Informationen nur zu analysieren, um die Qualität der Dienstleistungen zu verbessern oder maßgeschneiderte Dienstleistungen oder Technologien anzubieten, und wird relevante Informationen nicht an Dritte in irgendeiner Form weitergeben, die Sie persönlich identifiziert. Die spezifische Mobilfunkanbietererklärung hat Vorrang. Erkundigen Sie sich bei Ihrem Mobilfunkanbieter nach den Kosten für die Nutzung dieses Dienstes."</string>
-    <string name="carrier_introduction_china">Um Ihnen bessere Dienste anzubieten, können Prozesse, die auf Ihrem Gerät laufen (inkl. SystemHelper, RegService und Carrier Services), regelmäßig Informationen zu Ihrem Gerät und Ihrer SIM-Karte (inkl. IMEI, IMSI, MSISDN, MEID, ICCID, MAC-Adresse, MIUI-Version, Android-Version, Gerätemodell und grundlegende Hardwarespezifikationen) sowie ungefähre Standortinformationen (inkl. Region, Koordinaten, Bereichskennung und Basisstations-ID) über WLAN, mobiles Datennetz oder kostenlose SMS an den Betreiber senden. Der Betreiber verspricht, die relevanten Informationen nur zu analysieren, um die Qualität der Dienste zu verbessern oder um kundenspezifische Dienste oder Technologien bereitzustellen, und wird die relevanten Informationen nicht an Dritte in irgendeiner Form weitergeben, die Sie persönlich identifiziert. Maßgeblich ist die jeweilige Erklärung des Netzbetreibers. Erkundigen Sie sich bei Ihrem Netzbetreiber nach den Kosten für die Nutzung dieses Dienstes.</string>
+    <string name="carrier_introduction_china">Um Ihnen bessere Dienste anzubieten, können Prozesse, die auf Ihrem Gerät laufen (inkl. SystemHelper, RegService und Carrier Services), regelmäßig Informationen zu Ihrem Gerät und Ihrer SIM-Karte (inkl. IMEI, IMSI, MSISDN, MEID, ICCID, MAC-Adresse, Systemversion, Android-Version, Gerätemodell und grundlegende Hardwarespezifikationen) sowie ungefähre Standortinformationen (inkl. Region, Koordinaten, Bereichskennung und Basisstations-ID) über WLAN, mobiles Datennetz oder kostenlose SMS an den Anbieter senden. Der Anbieter verspricht, die relevanten Informationen nur zu analysieren, um die Qualität der Dienste zu verbessern oder um kundenspezifische Dienste oder Technologien bereitzustellen, und wird die relevanten Informationen nicht an Dritte in irgendeiner Form weitergeben, die Sie persönlich identifiziert. Maßgeblich ist die jeweilige Erklärung des Netzbetreibers. Erkundigen Sie sich bei Ihrem Netzbetreiber nach den Kosten für die Nutzung dieses Dienstes.</string>
     <string name="check_box_label"><Data>Wenn Sie diese Funktion aktivieren, stimmen Sie der &lt;a href=%1$s>Xiaomi Interconnectivity Services Datenschutzerklärung&lt;/a> zu.</Data></string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="clock_introduction">Sie können diese App verwenden, um die Zeit anzuzeigen, sowie Timer, Weltuhr, Stoppuhr, Wecker einstellen und vieles mehr.</string>
@@ -125,7 +124,7 @@
     <string name="exclusive_member_merchandise">Exklusive Waren</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="fast_application_introduction">Quick Apps Service Framework ist ein grundlegender Framework-Dienst, der die Verteilung und den Betrieb von Quick Apps unterstützt.</string>
-    <string name="fast_pairing_introduction">Mi Link nutzt die Bluetooth-Funktionen von MIUI, um schnell eine Verbindung zu Bluetooth-Geräten in der Nähe herzustellen.</string>
+    <string name="fast_pairing_introduction">Mit Mi Link können Sie sich schnell mit Bluetooth-Geräten verbinden.</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -156,8 +155,9 @@
     <string name="font_settings_title">Schriftarteneinstellungen</string>
     <string name="font_use_case_text_example">Körper</string>
     <string name="font_use_case_title_example">Titel</string>
-    <string name="framework_introduction">Mit Xiaomi Service Framework können Sie Xiaomi-Konto, Mi Push, Analytics und MIUI BI verwenden.</string>
-    <string name="framwork_base_service">Um Ihnen diese Dienste anzubieten, muss sich Xiaomi Service Framework (Xiaomi-Konto, Mi Push, Analytics, MIUI BI) mit dem Internet verbinden, auf Ihre Rufnummer, IMEI und IMSI zugreifen und Ihrem Gerät erlauben, Push-Benachrichtigungen zu erhalten</string>
+    <string name="framework_introduction">Das Xiaomi Service Framework (Mi Push and Analytics) ist ein grundlegender Systemdienst, der Push-Benachrichtigungen, Risikoprävention, Statistiken und Analysefunktionen bietet. Um diese Dienste anzubieten, müssen wir relevante und notwendige persönliche Daten sammeln und verarbeiten. Bei der Erfassung und Verarbeitung solcher Daten halten wir uns an geltende Gesetze, Vorschriften und andere normative Dokumente.</string>
+    <string name="framwork_base_service">"Um Push-Benachrichtigungen bereitzustellen, müssen wir Gerätekennungen (OAID und verschlüsselte Android-ID), Informationen über die Apps, die den Push-Dienst nutzen (z. B. Name des App-Pakets, Version und Laufzeitstatus), den Gerätehersteller, das Gerätemodell, den Gerätespeicher, die Betriebssystemversion, die Region, den Namen des SIM-Kartenanbieters, den aktuellen Netzwerktyp und den WLAN-Status erfassen. Sie können die Art und Weise, wie Sie Push-Benachrichtigungen erhalten, in Einstellungen ändern, und wir werden Ihnen Push-Benachrichtigungen basierend auf Ihren Präferenzen zur Verfügung stellen, für die wir auch die Daten über Ihre Präferenzen sammeln, inkl. der Frage, ob Sie sich entscheiden, Benachrichtigungen zu blockieren oder nicht, und ob Sie zulassen, dass sie auf dem Sperrbildschirm erscheinen.
+Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benötigen wir die Erlaubnis, uns mit dem Netzwerk zu verbinden und auf Ihren Standort, die IMEI, die IMSI, die Gerätekennungen (OAID, MAC-Adresse und verschlüsselte Android-ID), den Gerätehersteller, das Gerätemodell, den Gerätespeicher, die Betriebssystemversion, die Region und den aktuellen Netzwerktyp zuzugreifen. Die oben genannten Daten werden einmal pro Tag erfasst, solange Sie dieses Gerät verwenden."</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -175,37 +175,6 @@
     <string name="input_method_setting">Tastatur wählen</string>
     <string name="install_preinstall_app">Apps laden…</string>
     <string name="interconnection_communication_introduction">Mit den Xiaomi Internet Communication Services können Sie andere Xiaomi-Geräte entdecken, verbinden und mit ihnen kommunizieren.</string>
-    <string name="interconnection_service_summary">"Die Xiaomi Interconnectivity Services erlauben es Ihren Geräten, drahtlos miteinander zu interagieren. Zu diesen Diensten gehören Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share und Casting.
-Um normal arbeiten zu können, benötigen diese Dienste eine Internetverbindung und die folgenden Berechtigungen:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009WLAN ein- und ausschalten
-\u0009\u0009Für die Übertragung von Elementen über WLAN
-\u0009\u0009Audio aufnehmen
-\u0009\u0009Für die Übertragung der Audiowiedergabe an angeschlossene Geräte während des Castings oder der Bildschirmspiegelung
-\u0009\u0009Speicherzugriff
-\u0009\u0009Zum kabellosen Übertragen und Empfangen von Dateien
-\u0009\u0009Mi Share:
-\u0009\u0009Zugriff auf und Speichern von Dateien und Fotos auf Ihrem Gerät
-\u0009\u0009Zum kabellosen Übertragen und Empfangen von Dateien
-\u0009\u0009Standortzugriff
-\u0009\u0009Zur Übertragung von Elementen an Geräte in der Nähe über WLAN und Bluetooth
-\u0009\u0009Bluetooth ein- und ausschalten
-\u0009\u0009Um Geräte in der Nähe zu finden
-\u0009\u0009WLAN ein- und ausschalten
-\u0009\u0009Zum Finden von Geräten in der Nähe und zur kabellosen Übertragung von Dateien
-\u0009\u0009Verbindung mit Geräten in der Nähe
-\u0009\u0009Zum Finden von Geräten in der Nähe und zum Verbinden mit ihnen
-\u0009\u0009Casting:
-\u0009\u0009Bluetooth ein- und ausschalten
-\u0009\u0009Um Geräte in der Nähe zu finden
-\u0009\u0009WLAN ein- und ausschalten
-\u0009\u0009Um Geräte in der Nähe zu finden
-\u0009\u0009Standortzugriff
-\u0009\u0009Um Infos über Geräte in der Nähe zu erhalten
-\u0009\u0009Audio aufnehmen
-\u0009\u0009Für die Übertragung der Audiowiedergabe an den angeschlossenen Computer während des Castings
-Wenn Sie nicht zustimmen, können Sie die Xiaomi Interconnectivity Services nicht nutzen.
-Änderungen der Funktionen sind vorbehalten. Einige der oben genannten Funktionen sind ggf. nicht auf allen Gerätemodellen oder für alle Systemversionen verfügbar. Prüfen Sie die Kompatibilität auf der MIUI-Website (www.miui.com)."</string>
     <string name="interconnection_service_summary_china">"Xiaomi Interconnectivity Services erlauben Ihren Geräten, drahtlos miteinander zu interagieren. Zu diesen Diensten gehören Mi Smart Play, Übertragung, App-Weitergabe, Startbildschirm+, gemeinsame Zwischenablage, geräteübergreifende Bilderfassung, Netzwerkunterstützung, gemeinsame Tastaturen und Mäuse, gemeinsame Kamera und Mi Smart Hub. Damit Xiaomi Interconnectivity Services normal funktionieren, benötigen sie eine Internetverbindung und folgende Berechtigungen:
 \u0009\u0009Mi Smart Play und Übertragung:
 \u0009\u0009Bluetooth ein- oder ausschalten
@@ -284,7 +253,6 @@ Die verfügbaren Vernetzungsdienste können sich je nach Systemversion und Gerä
     <string name="location_introduction">Standortdienste nutzen Ortung, um standortspezifische Dienste anzubieten.</string>
     <string name="location_introduction_qcom">Standortdienste nutzen Ortung, um standortspezifische Dienste anzubieten. Wenn Ihr Gerät Standortdienste nutzt, stellt das QCC-Modul eine Netzwerkverbindung her, um den Ortungsprozess zu beschleunigen.</string>
     <string name="location_location">Notfallrettungsorganisationen können auf Anfrage Ihren aktuellen Standort erfahren</string>
-    <string name="location_miui">Um MIUI zu verwenden, müssen Sie den oben genannten Bedingungen zustimmen</string>
     <string name="lockscreen_introduction">Hintergrundkarussell erlaubt Ihnen, täglich frische Bilder an Ihren Sperrbildschirm zu senden.</string>
     <string name="member_exclusive_medal">Mitgliedschaftsabzeichen</string>
     <string name="membership_rights_tip">Mit Xiaomi-Konto anmelden, um exklusive Vorteile zu erhalten</string>
@@ -377,7 +345,7 @@ Die verfügbaren Vernetzungsdienste können sich je nach Systemversion und Gerä
     <string name="other_settings">Grundeinstellungen</string>
     <string name="other_settings_ad_dialog_agree">Einschalten</string>
     <string name="other_settings_ad_dialog_content">Wenn personalisierte Werbung aus ist, sehen Sie immer noch die gleiche Menge an Werbung wie bei aktivierter Funktion. Die Werbung ist dann jedoch nicht mehr relevant, da sie nicht auf Ihren persönlichen Vorlieben basiert.</string>
-    <string name="other_settings_ad_dialog_content_for_global">Wenn personalisierte Werbung aus ist, sehen Sie immer noch die gleiche Menge an Werbung in den MIUI-System-Apps wie bei aktivierter Funktion. Die Anzeigen von Xiaomi und Drittanbieter-Plattformen sind dann jedoch nicht mehr relevant, da sie nicht auf Ihren persönlichen Vorlieben basieren.</string>
+    <string name="other_settings_ad_dialog_content_for_global">Wenn personalisierte Werbung aus ist, sehen Sie immer noch die gleiche Menge an Werbung in den System-Apps wie bei aktivierter Funktion. Die Anzeigen von Xiaomi und Drittanbieter-Plattformen sind dann jedoch nicht mehr relevant, da sie nicht auf Ihren persönlichen Vorlieben basieren.</string>
     <string name="other_settings_ad_dialog_disagree">Ausschalten</string>
     <string name="other_settings_ad_disable_summary">Persönliche Werbung einschalten</string>
     <string name="other_settings_ad_enable">Personalisierte Werbung vorschlagen</string>
@@ -387,9 +355,9 @@ Die verfügbaren Vernetzungsdienste können sich je nach Systemversion und Gerä
     <string name="other_settings_alarm_assistance_summary">Sie können Ihre Standortdaten über SMS oder mobile Daten automatisch an die Polizei senden, während Sie die 110, 120, 119 oder 122 anrufen. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor Sie diese Funktion nutzen.</string>
     <string name="other_settings_alarm_assistance_user">Nutzervereinbarung</string>
     <string name="other_settings_auto_update">Automatisch aktualisieren</string>
-    <string name="other_settings_auto_update_summary">MIUI wählt den besten Zeitpunkt für die Installation von Updates aus</string>
-    <string name="other_settings_auto_update_summary_v1">MIUI erlauben, den besten Zeitpunkt für den Download und die Installation von Updates zu wählen. Ihr Gerät wird automatisch neu gestartet, um die Änderungen anzuwenden.</string>
-    <string name="other_settings_enhanced_lockscreen">Erleben Sie einen verbesserten Sperrbildschirm</string>
+    <string name="other_settings_auto_update_summary">Das System wählt den besten Zeitpunkt für den Download und die Installation von Updates aus. Ihr Gerät wird automatisch neu gestartet, um die Änderungen anzuwenden.</string>
+    <string name="other_settings_auto_update_summary_v1">Dem System erlauben, den besten Zeitpunkt für den Download und die Installation von Updates zu wählen. Ihr Gerät wird automatisch neu gestartet, um die Änderungen anzuwenden.</string>
+    <string name="other_settings_enhanced_lockscreen">Hintergrund-Karussell</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance für Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Datenschutzerklärung</string>
     <string name="other_settings_enhanced_lockscreen_summary">"Lassen Sie sich täglich kuratierte Bilder und Geschichten auf Ihrem Sperrbildschirm anzeigen. %1$s und %2$s"</string>
@@ -398,18 +366,18 @@ Die verfügbaren Vernetzungsdienste können sich je nach Systemversion und Gerä
     <string name="other_settings_get_apps_summary">Aktualisieren Sie System- und Partner-Apps von Drittanbietern über GetApps, um deren neueste Funktionen zu verwenden.\nSie können automatische Updates unter GetApps > Einstellungen > Automatische Updates deaktivieren.</string>
     <string name="other_settings_location">Standort</string>
     <string name="other_settings_location_summary">Apps und Webseiten den Standortzugriff erlauben, um standortbezogene Dienste anzubieten.</string>
-    <string name="other_settings_quality_service">MIUI Daemon-Berechtigungen</string>
-    <string name="other_settings_quality_service_summary">MIUI Daemon wird verwendet, um die Systemstabilität und -leistung zu verbessern. Um normal zu arbeiten, benötigt dieser Dienst Berechtigungen für den Zugriff und das Speichern von Elementen im Gerätespeicher.</string>
-    <string name="other_settings_upload_debug_log_detail">"Helfen Sie, Ihr MIUI-Gerät zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies wird dazu beitragen, die Akkulaufzeit, die MIUI-System- und App-Stabilität und mehr zu verbessern.
-Die Daten, die Sie senden, enthalten allgemeine Informationen über Ihr Gerät und Ihre Nutzung (z.B. Akkustand, System- und App-Aktivitäten und Fehler). Die Daten werden verwendet, um MIUI-Geräte zu verbessern.
-Wenn Sie diese Funktion deaktivieren, hat dies keinen Einfluss auf die Fähigkeit Ihres Geräts, Informationen zu senden, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigt werden.
-Um diese Funktion zu steuern, suchen Sie in den Einstellungen nach \"Nutzung und Diagnose\"."</string>
-    <string name="other_settings_upload_debug_log_summary">Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.</string>
+    <string name="other_settings_quality_service">System-Daemon-Berechtigungen</string>
+    <string name="other_settings_quality_service_summary">System Daemon wird verwendet, um die Systemstabilität und -leistung zu verbessern. Um normal zu arbeiten, benötigt dieser Dienst Berechtigungen für den Zugriff und das Speichern von Elementen im Gerätespeicher.</string>
+    <string name="other_settings_upload_debug_log_detail">"Helfen Sie mit, Ihr Erlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. So können Sie die Akkulaufzeit, die System- und App-Stabilität und vieles mehr verbessern.
+Die Daten, die Sie senden, enthalten allgemeine Informationen über Ihr Gerät und Ihre Nutzung (z.B. Akkustand, System- und App-Aktivitäten und Fehler). Die Daten werden verwendet, um Xiaomi-Geräte zu verbessern.
+Die Deaktivierung dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit erforderlichen Informationen zu senden.
+Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > Datenschutz > Nutzung und Diagnose steuern."</string>
+    <string name="other_settings_upload_debug_log_summary">Helfen Sie mit, Ihr Erlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. So können Sie die Akkulaufzeit, die System- und App-Stabilität und vieles mehr verbessern.</string>
     <string name="other_settings_upload_debug_log_title">Nutzungs- und Diagnosedaten senden</string>
-    <string name="other_settings_user_experience">Programm zur Benutzererfahrung</string>
+    <string name="other_settings_user_experience">Benutzererfahrungsprogramm</string>
     <string name="other_settings_user_experience_summary">Helfen Sie uns, unsere Produkte und Dienstleistungen zu verbessern, indem Sie uns Ihre Nutzungsstatistiken und Analysen mitteilen.</string>
     <string name="other_settings_user_experience_summary_index">Details anzeigen</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon erlaubt Ihnen, Daten von Ihrem Gerät zu übertragen, wenn dessen Bildschirm beschädigt ist.</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon erlaubt Ihnen, Daten von Ihrem Gerät zu übertragen, wenn dessen Bildschirm beschädigt ist.</string>
     <string name="permission_access_calendar">Kalenderzugriff</string>
     <string name="permission_access_calendar_fast_application_summary">Damit Quick Apps auf den Kalender zugreifen können;</string>
     <string name="permission_account">Zugriff Kontendaten</string>
@@ -426,7 +394,7 @@ Um diese Funktion zu steuern, suchen Sie in den Einstellungen nach \"Nutzung und
     <string name="permission_clock_info_introduction">Zum Alarmdaten speichern</string>
     <string name="permission_contact">Kontaktezugriffe</string>
     <string name="permission_contact_describe">Zugriff auf Kontakte</string>
-    <string name="permission_contact_describe_MIUIDaemon_summary">Zur Prüfung Ihrer Identität;</string>
+    <string name="permission_contact_describe_MIUIDaemon_summary">Zur Verifizierung Ihrer Identität</string>
     <string name="permission_contact_describe_bluetooth_summary">Damit Ihre anderen kompatiblen Geräte, die Sie mit diesem Gerät verbinden, auf Kontakte zugreifen können. Dies geschieht nur, wenn Sie Bluetooth einschalten oder Ihre Kontakte bearbeiten, während Bluetooth eingeschaltet ist.</string>
     <string name="permission_contact_describe_desktop_summary">Für die Verwendung der Notfallkontaktfunktion auf der Startseite im Lite-Modus und die Anzeige von Gesprächsbenachrichtigungen;</string>
     <string name="permission_contact_describe_message_summary">Zur Anzeige der entsprechenden Kontaktinfos von SMS und MMS;</string>
@@ -675,7 +643,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="servicestate_title">Erklärung zur Basisdiensten</string>
     <string name="setting_locale">Region einrichten…</string>
     <string name="shut_down">Schließen</string>
-    <string name="sim_activation_introduction">Der SIM-Karten-Aktivierungsdienst prüft die Daten der aktuell eingelegten SIM-Karte, um sicherzustellen, dass die MIUI-Dienste normal funktionieren können. Zu diesen Diensten gehören Gerät suchen, Mi Message, das Erstellen von Mi-Konten mithilfe von Rufnummern und das Synchronisieren von Nachrichten und Anruflisten.</string>
+    <string name="sim_activation_introduction">Der SIM-Karten-Aktivierungsdienst prüft die Daten der aktuell eingelegten SIM-Karte, um sicherzustellen, dass die Systemdienste normal funktionieren. Zu diesen Diensten gehören Gerät finden, Mi Message, das Erstellen von Xiaomi-Konten mithilfe von Rufnummern und das Synchronisieren von Nachrichten und Anruflisten.</string>
     <string name="sim_card_detecting">SIM-Karte prüfen…</string>
     <string name="sim_card_detecting_check">SIM-Karte nicht gefunden. Achten Sie darauf, dass die SIM-Karte richtig installiert ist und Sie über genügend Guthaben verfügen.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Verbindung zu mobilen Datennetzen zulassen? In diesem Fall wird die eingelegte SIM-Karte zur Verbindung mit mobilen Datennetzen verwendet.</string>
@@ -733,7 +701,6 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="systemdesktop_introduction">Das Startbildschirm-Service-Plugin bietet Ihnen grundlegende Funktionen wie Startbildschirm, System-UI und Screenshots.</string>
     <string name="term_condition_detail">Erhalten Sie täglich atemberaubende Bilder und spannende Geschichten auf Ihren Sperrbildschirm. Diese Funktion verwendet Ihre Daten nicht ohne Ihre Zustimmung zur Personalisierung. Lesen und akzeptieren Sie die &lt;a href =%1$s>Datenschutzerklärung&lt;/a> und &lt;a href =%2$s>Nutzervereinbarung&lt;/a> des Inhalte-Drittanbieters, bevor Sie diese Funktion nutzen.</string>
     <string name="terms_of_use">Allgemeine Geschäftsbedingungen</string>
-    <string name="terms_of_use_label">Lesen Sie unsere Nutzungsbedingungen und Datenschutzerklärung, um zu verstehen, welche Informationen wir sammeln, wie wir sie verwenden und welche Möglichkeiten Ihnen zur Verfügung stehen.\nSie müssen unsere Nutzungsbedingungen und Datenschutzerklärung akzeptieren, bevor Sie MIUI verwenden können.\nBestandteile von %s und Xiaomi-Konto verbinden sich mit dem Internet und erfassen Ihren Standort.</string>
     <string name="terms_of_use_label_Mistore">Mi Store System-Plugin</string>
     <string name="terms_of_use_label_RMS">Rechteverwaltung</string>
     <string name="terms_of_use_label_ai_assistant">KI-Assistent</string>
@@ -765,8 +732,6 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="terms_of_use_label_use_location_and_network_global">Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, verbinden sich die folgenden Dienste mit dem Netzwerk und greifen auf Ihren Standort zu:</string>
     <string name="terms_of_use_label_use_network_china">Bevor Sie MIUI verwenden, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren.Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Dienste mit dem Netz verbunden:</string>
     <string name="terms_of_use_label_wallpaper">Hintergrund</string>
-    <string name="terms_of_use_lable_apps">Mi Dienste, Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Gerät finden, Startbildschirm, Spiele, MIUI Daemon, MSA-Systemkomponenten, Übersetzungsdienste, Quick Apps, Infoassistent, Statistiken, Mi Link</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Mi Dienste, Xiaomi Cloud, Gerät finden, Startbildschirm, Spiele, MIUI Daemon, MSA-Systemkomponenten, Übersetzungsdienst, MIUI SDK, Quick Apps, Infoassistent, Statistik, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 Sie müssen die Facemoji Datenschutzerklärung akzeptieren, bevor Sie diese Funktion nutzen können."</string>
     <string name="terms_of_use_lable_default_input_method_kika">"
@@ -833,11 +798,6 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="user_agreement">Nutzervereinbarung</string>
-    <string name="user_agreement_declare">Bevor Sie MIUI nutzen, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Apps und Dienste mit dem Netzwerk verbunden: Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Cloud-Backup, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet Communication Services, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI Einstellung und Updater. Die folgenden Apps und Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu: Smart Cards, Rechteverwaltung und Smart Services.</string>
-    <string name="user_agreement_declare_v1">Bevor Sie MIUI nutzen, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Apps und Dienste mit dem Netzwerk verbunden: Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Cloud-Backup, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet Communication Services, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI Einstellung und Updater. Die folgenden Apps und Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu: Smart Cards, Rechteverwaltung und Smart Services.</string>
-    <string name="user_agreement_declare_gmscore">Bevor Sie MIUI nutzen, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Apps und Dienste mit dem Netzwerk verbunden: Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Cloud-Backup, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet Communication Services, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI Einstellung und Updater. Die folgenden Apps und Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu: Smart Cards, Rechteverwaltung, ConfigUpdater und Smart Services.</string>
-    <string name="user_agreement_declare_wifi_device">Bevor Sie MIUI nutzen, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Apps und Dienste mit dem Netzwerk verbunden: Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Cloud-Backup, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet Communication Services, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI Einstellung und Updater. Die folgenden Apps und Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu: Smart Cards, Rechteverwaltung und Smart Services.</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">Bevor Sie MIUI nutzen, müssen Sie unsere Nutzervereinbarung und Datenschutzerklärung lesen und akzeptieren. Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn Ihr Gerät aktiviert ist, werden die folgenden Apps und Dienste mit dem Netzwerk verbunden: Mi SIM-Aktivierungsdienste, Xiaomi Cloud, Cloud-Backup, Gerät finden, Startbildschirm, Häufige Sätze, Xiaomi Internet Communication Services, Übersetzungsdienst, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, KI Assistent, Akku und Leistung, Stromdetektor, Joyose, OS KI Einstellung und Updater. Die folgenden Apps und Dienste verbinden sich mit dem Netzwerk und greifen auf Ihren Standort zu: Smart Cards, Rechteverwaltung, ConfigUpdater und Smart Services.</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="voice_assist_desp">"Sagen Sie \"Mi KI\" in Ihr Telefon. Mi KI erkennt Ihre Stimme und ist in der Lage, Ihr Gerät zu steuern.</string>

@@ -789,7 +789,7 @@
     <string name="metered_serious_alert_msg_with_data">Sie haben noch %s Datenvolumen übrig. Trotzdem über mobile Datenverbindung wiedergeben?</string>
     <string name="metered_serious_allow">Trotzdem wiedergeben</string>
     <string name="midnight">Nacht</string>
-    <string name="milink_unavaliable_please_update">Mi Link nicht verfügbar. MIUI-Update notwendig.</string>
+    <string name="milink_unavaliable_please_update">Mi Link nicht verfügbar. Aktualisieren Sie MIUI.</string>
     <string name="millions_songs">Millionen von Titeln</string>
     <string name="mine_data">Daten</string>
     <string name="missing_title">&lt;Unbekannt&gt;</string>
@@ -1446,7 +1446,7 @@
     <string name="settings_search_title_main">Musik</string>
     <string name="settings_search_title_notification">Musikbenachrichtigungen</string>
     <string name="settings_search_title_vip_service">Premiumtitel</string>
-    <string name="share_append_text">Aus @MIUI</string>
+    <string name="share_append_text">Von @MIUI</string>
     <string name="share_chooser_title">Teilen</string>
     <string name="share_description">Aus Mi Music</string>
     <string name="share_end_note">Aus Mi Music</string>
