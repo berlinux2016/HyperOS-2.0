@@ -312,7 +312,7 @@ dd. MMM"</string>
 d.M."</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 d.M."</string>
-    <string name="miui_magazine_c_clock_style2_date">d.M. EE</string>
+    <string name="miui_magazine_c_clock_style2_date">EE, d.M.</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd. MMM</string>
     <string name="miui_magazine_clock_date">d.M</string>
     <string name="miui_magazine_clock_date_content_description">dd.MM</string>
