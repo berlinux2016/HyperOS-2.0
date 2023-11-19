@@ -246,7 +246,7 @@
     <string name="grant_dialog_storage_category_title">Diese App erfordert Zugriffsberechtigungen auf die Galerie und Nachrichten in Social Media-Apps</string>
     <string name="grant_dialog_storage_gallery_title">Fotos und Videos, die mit der Kamera gemacht wurden</string>
     <string name="grant_dialog_storage_sociality_title">Nachrichten in Social Media-Apps</string>
-    <string name="group_audio">Musi und Audio</string>
+    <string name="group_audio">Musik und Audio</string>
     <string name="group_call">Telefon</string>
     <string name="group_connect_device">Vernetzung</string>
     <string name="group_file">Dateien und Dokumente</string>
