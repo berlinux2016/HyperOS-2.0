@@ -6146,6 +6146,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="untrust_app_perm_oaid">Zugriff auf Ihre virtuelle ID erlauben</string>
     <string name="untrust_app_perm_title">App von einer unbekannten Quelle</string>
     <string name="untrust_app_perm_warn">Diese App stammt aus einer unbekannten Quelle und stellt evtl. ein Sicherheitsrisiko dar. Sie kann die unten aufgeführten Berechtigungen verwenden, die Ihre Privatsphäre zu gefährden. Gewähren Sie diese Berechtigungen nur nach reiflicher Überlegung.</string>
+    <string name="unused_apps_switch">App-Aktivität pausieren, wenn sie nicht verwendet wird</string>
+    <string name="unused_apps_switch_summary">Berechtigungen entfernen, temporäre Dateien löschen und Benachrichtigungen stoppen</string>
     <string name="updating_diagnostic_botton">Daten analysieren…</string>
     <string name="upgrade_tvm_component_desc">Um die Sicherheit Ihrer Transaktionen zu gewährleisten, aktualisieren Sie das Plugin Telefontastenkomponente über Sicherheit.</string>
     <string name="upgrade_tvm_component_title">Plugin Telefontastenkomponente aktualisieren</string>
