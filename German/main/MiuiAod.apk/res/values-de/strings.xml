@@ -154,8 +154,8 @@
     <string name="format_lunar_calendar_month_day">dd.MM.</string>
     <string name="format_lunar_calendar_month_day_desc">Datum nach traditionellem chinesischen Kalender: %s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, Datum nach traditionellem chinesischen Kalender: %3$s, Feiertag: %4$s</string>
-    <string name="format_month_day_style1">d/MMM</string>
-    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_style1">d MMM</string>
+    <string name="format_month_day_style2">d.M</string>
     <string name="format_month_day_week">EEE, dd. MMM</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, Datum nach traditionellem chinesischen Kalender: %4$s</string>
     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, Feiertag: %4$s</string>
@@ -304,10 +304,10 @@
     <string name="miui_clock_city_name_second">Zweite Uhr</string>
     <string name="miui_magazine_c_clock_style2_date">EE dd.MM.</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd. MMM</string>
-    <string name="miui_magazine_clock_date">dd.MM.</string>
-    <string name="miui_magazine_clock_date_content_description">dd.MM.</string>
+    <string name="miui_magazine_clock_date">d.M.</string>
+    <string name="miui_magazine_clock_date_content_description">d.M.</string>
     <string name="miui_rhombus_clock_date">dd. MMMM</string>
-    <string name="miui_smart_frame_clock_date">dd.MM.</string>
+    <string name="miui_smart_frame_clock_date">d.M.</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
