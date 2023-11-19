@@ -2,7 +2,6 @@
 <resources>
     <string name="action_call">Anruf %s</string>
     <string name="action_text">Text %s</string>
-    <string name="app_name">Tags</string>
     <string name="button_done">Fertig</string>
     <string name="call_notification_answer_action">Annehmen</string>
     <string name="call_notification_decline_action">Ablehnen</string>

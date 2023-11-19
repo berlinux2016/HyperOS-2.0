@@ -40,7 +40,7 @@
     <string name="auto_start_warning_deny">Verweigern</string>
     <string name="auto_start_warning_title">Automatischen Start von %s erlauben?</string>
     <string name="autofill">"Autom. ausfüllen "</string>
-    <string name="autofill_save_message">MIUI erlauben, Ihre Konten und Passwörter zu speichern?</string>
+    <string name="autofill_save_message">Xiaomi erlauben, Ihre Konten und Passwörter zu speichern?</string>
     <string name="autofill_save_ok">Erlauben</string>
     <string name="autofill_save_sub_message">Sie können Ihre Passwörter unter Einstellungen &gt; Fingerabdrücke, Gesichtsdaten und Bildschirmsperre &gt; %s anzeigen und verwalten.</string>
     <string name="autofill_save_title">Passwörter automatisch speichern</string>
@@ -366,7 +366,6 @@
     <string name="onehour">30 Min</string>
     <string name="open_close_tip_action">OK</string>
     <string name="open_close_tip_content">Aktionsleiste gedrückt halten und hochwischen, um das Popup zu schließen</string>
-    <string name="open_miui_optimization">Erst MIUI-Optimierung einschalten</string>
     <string name="open_system_optimization">Erst Systemoptimierung einschalten</string>
     <string name="other_ime">Weitere Tastaturen</string>
     <string name="package_delete_confirm_step_1">%s deinstallieren?</string>
@@ -472,7 +471,7 @@
     <string name="security_permission_failed_text">Interner Fehler, später erneut versuchen</string>
     <string name="security_permission_network_failed_text">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="security_permission_open_wifi_settings">WLAN-Einstellungen öffnen</string>
-    <string name="security_permission_validate_warning">Danke, dass Sie helfen, MIUI zu verbessern!</string>
+    <string name="security_permission_validate_warning">Danke, dass Sie helfen, Xiaomi zu verbessern!</string>
     <string name="security_permission_wifi_and_data_opened_text">WLAN und mobile Daten eingeschaltet</string>
     <string name="security_permission_xiaomi_account_missed_text">Xiaomi-Konto-ID eingeben</string>
     <string name="security_share_text">Datenschutz</string>

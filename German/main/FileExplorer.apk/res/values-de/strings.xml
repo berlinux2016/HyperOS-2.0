@@ -77,7 +77,6 @@
     <string name="bind_phone_failed_tip">Rufnummer kann nicht hinzugefügt werden</string>
     <string name="bind_phone_success_tip">Rufnummer erfolgreich hinzugefügt</string>
     <string name="bind_success_tip">Erfolgreich hinzugefügt</string>
-    <string name="black_list">Sie wurden blockiert. Schreiben Sie Ihr Feedback im MIUI Forum, um zu erfahren warum.</string>
     <string name="by_date">Geändert am</string>
     <string name="by_size">Größe</string>
     <string name="by_type">Typ</string>

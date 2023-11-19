@@ -68,7 +68,6 @@
     <string name="app_installing_not_allow">"Sie haben die Installation von %1$s blockiert. "</string>
     <string name="app_installing_not_allow_1">"%1$s wurde an der Installation einer App gehindert. "</string>
     <string name="app_installing_toast">Warten, bis alle laufenden Installationen abgeschlossen sind und erneut versuchen</string>
-    <string name="app_name">Package Installer</string>
     <string name="app_name_unknown">Ungenau</string>
     <string name="app_non_put_on_the_shelf">Nicht verfügbar</string>
     <string name="app_not_found_dlg_text">App wurde nicht in der Liste der installierten Apps gefunden</string>
@@ -342,7 +341,6 @@
     <string name="install_failed_invalid_apk">Paket ist offenbar beschädigt</string>
     <string name="install_failed_msg">%1$s wurde nicht auf Ihrem Telefon installiert</string>
     <string name="install_failed_msg_tablet">%1$s wurde nicht auf Ihrem Gerät installiert</string>
-    <string name="install_failed_system_incompatible">Diese App ist nicht mit MIUI kompatibel</string>
     <string name="install_finished_notification_summary">Tippen, um Speicherplatz freizugeben</string>
     <string name="install_finished_notification_title">%1$s erfolgreich installiert. Sie können %2$s an Speicherplatz freigeben.</string>
     <string name="install_from_appstore_hint">Wir empfehlen Ihnen, die App aus dem <u><font color="#91c727">App Store</font></u> zu installieren</string>

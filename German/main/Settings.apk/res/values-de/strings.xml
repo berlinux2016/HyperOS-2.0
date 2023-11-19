@@ -10500,8 +10500,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="unused_apps">Nicht verwendete Apps</string>
     <string name="unused_apps_category">Einstellungen nicht verwendete Apps</string>
     <string name="unused_apps_summary">{count, plural, =1 {# ungenutzte App} other {# ungenutzte Apps} }</string>
-    <string name="unused_apps_switch">Berechtigungen entfernen und Speicherplatz freigeben</string>
-    <string name="unused_apps_switch_summary">Berechtigungen entfernen, temporäre Dateien löschen und Benachrichtigungen beenden</string>
+    <string name="unused_apps_switch">App-Aktivität pausieren, wenn sie nicht verwendet wird</string>
+    <string name="unused_apps_switch_summary">Berechtigungen entfernen, temporäre Dateien löschen und Benachrichtigungen stoppen</string>
     <string name="update_new_version">Update ist verfügbar</string>
     <string name="update_progress_for_updates">Aktualisieren (%s)</string>
     <string name="update_sourceinfo_btn_txt">Quellenangaben aktualisieren</string>
@@ -10512,7 +10512,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="uplmn_settings_summary">Bevorzugte PLMNs in Prioritätsreihenfolge festlegen</string>
     <string name="uplmn_settings_title">Benutzergesteuertes PLMN</string>
     <string name="upload_audio_log">Audio-Protokollierung starten</string>
-    <string name="upload_debug_log_detail">Helfen Sie, Ihr MIUI-Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die MIUI-System- und -App-Stabilität und mehr zu verbessern.\nDie Daten, die Sie senden, enthalten allgemeine Infos über Ihr Gerät und wie Sie es verwenden (z. B. Akkustand, System- und App-Aktivität und Fehler). Die Daten werden verwendet, um MIUI-Geräte zu verbessern.\nDeaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigten Infos zu senden.</string>
+    <string name="upload_debug_log_detail">Helfen Sie, Ihr Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die System- und -App-Stabilität und mehr zu verbessern.\nDie Daten, die Sie senden, enthalten allgemeine Infos über Ihr Gerät und wie Sie es verwenden (z. B. Akkustand, System- und App-Aktivität und Fehler). Die Daten werden verwendet, um unsere Geräte zu verbessern.\nDeaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigten Infos zu senden.</string>
     <string name="upload_debug_log_summary">Daten teilen, um MIUI zu verbessern</string>
     <string name="upload_debug_log_title">Nutzung und Diagnose</string>
     <string name="upload_gps_log">GPS-Protokollierung starten</string>

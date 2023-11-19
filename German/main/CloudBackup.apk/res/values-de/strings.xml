@@ -590,7 +590,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="unselected">Nicht ausgewählt</string>
-    <string name="unsupported_home">MIUI auf die neueste Version aktualisieren</string>
+    <string name="unsupported_home">System auf die neueste Version aktualisieren</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="wait_icon_download">App-Symbol herunterladen</string>

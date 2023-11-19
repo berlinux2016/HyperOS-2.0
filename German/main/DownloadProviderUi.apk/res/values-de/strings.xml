@@ -37,7 +37,7 @@
     <string name="all_share_files_content">Ausgewählte Dateien wurden bereits gelöscht</string>
     <string name="all_the_internet">Alle Netzwerke</string>
     <string name="app_downloads">%s Downloads</string>
-    <string name="app_name">Einstellung</string>
+    <string name="app_name">Einstellungen</string>
     <string name="auth_activity_title">Xunlei-Konto</string>
     <string name="auth_fail">Authorisierung fehlgeschlagen</string>
     <string name="average_speed">Durchschnittsgeschwindigkeit</string>

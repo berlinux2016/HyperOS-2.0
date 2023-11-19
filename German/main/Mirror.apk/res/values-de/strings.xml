@@ -26,7 +26,6 @@
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbolsperre</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="app_name">MIUI+</string>
     <string name="app_no_storage_permission">Zuerst %1$s den Speicherzugriff unter Einstellungen > Apps > %2$s > Berechtigungen erlauben</string>
     <string name="app_not_support_subscreen">Dieses Fenster kann nicht maximiert werden</string>
     <string name="app_opened_in_new_window">Diese App wurde in einem neuen Fenster geöffnet</string>
@@ -37,13 +36,9 @@
     <string name="cancel_button">Abbrechen</string>
     <string name="cast_mcc_tips_button_cancel">Ignorieren</string>
     <string name="cast_mcc_tips_button_ok">Einstellungen</string>
-    <string name="cast_mcc_tips_message">Um Verzögerungen bei der Verwendung von MIUI+ zu vermeiden, beide Geräte mit demselben WLAN verbinden.</string>
-    <string name="cast_mcc_tips_message_china">Um Verzögerungen bei der Verwendung von MIUI+ zu vermeiden, verbinden Sie beide Geräte mit demselben WLAN.</string>
-    <string name="cast_mcc_tips_title">WLAN-Einstellungen ändern</string>
     <string name="cast_mcc_tips_title_china">WLAN-Einstellungen ändern</string>
     <string name="circulate_cta_agree">Zustimmen</string>
     <string name="circulate_cta_all_purpose">Startbildschirm+ ist ein Teil der Xiaomi Interconnectivity Services. Damit können Sie die Startbildschirme anderer verbundener Geräte anzeigen und mit ihnen interagieren. Um normal zu funktionieren, benötigt dieser Dienst eine Internetverbindung und folgende Berechtigungen:</string>
-    <string name="circulate_cta_desc_phone">Willkommen bei Mi Smart Hub! Sie können diese App verwenden, um Bildschirminhalte zu übertragen, Multimedia-Wiedergabe zwischen Geräten zu übertragen, Mi Smart Play, MIUI+ und App-Handoff zu verwenden. Diese App benötigt eine Internetverbindung und die folgenden Berechtigungen, um normal zu funktionieren:</string>
     <string name="circulate_cta_desc_phone_miui15_14">Willkommen bei Xiaomi Interconnectivity! Mit dieser App können Sie Bildschirminhalte übertragen, die Multimedia-Wiedergabe auf andere Geräte verlagern, Mi Smart Play, die Geräteverbindungsfunktionen und die App-Weitergabe nutzen. Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um normal zu funktionieren:</string>
     <string name="circulate_cta_exit">Nicht zustimmen</string>
     <string name="circulate_cta_new_app_name">Startbildschirm+</string>
@@ -96,8 +91,6 @@
     <string name="enable_wifi_alert_cancel">Abbrechen</string>
     <string name="enable_wifi_alert_message">WLAN einschalten, um eine Verbindung zu anderen Geräten herzustellen. Jetzt einschalten?</string>
     <string name="enable_wifi_alert_message_china">WLAN einschalten, um eine Verbindung zu anderen Geräten herzustellen. Jetzt einschalten?</string>
-    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ erlaubt Ihnen, nahtlos zwischen den Geräten zu wechseln, wenn Sie die mit Ihrem Telefon aufgenommenen Fotos auf Ihrem Tablet bearbeiten müssen. WLAN einschalten, um die Übergabe zu nutzen?</string>
-    <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ ermöglicht Ihnen, nahtlos zwischen den Geräten zu wechseln, wenn Sie die mit Ihrem Telefon aufgenommenen Fotos auf Ihrem Tablet bearbeiten müssen. WLAN einschalten, um die Weiterleitung zu verwenden?</string>
     <string name="enable_wifi_alert_ok">Einschalten</string>
     <string name="enable_wifi_alert_title">WLAN einschalten</string>
     <string name="enable_wifi_alert_title_china">WLAN einschalten</string>
@@ -163,7 +156,6 @@
     <string name="hint_unlock_password">Passwort zum Entsperren eingeben</string>
     <string name="http_buffer_size">HTTP Cache-Größe size</string>
     <string name="invisible_mode_dialog_cancel">Abbrechen</string>
-    <string name="invisible_mode_dialog_message">MIUI+ Screen Combo nicht möglich, wenn Sie inkognito sind. Zuerst den Inkognito-Modus ausschalten.</string>
     <string name="invisible_mode_dialog_positive">Ausschalten</string>
     <string name="invisible_mode_dialog_title">Sie sind inkognito</string>
     <string name="invisible_mode_toast">Zuerst den Inkognito-Modus ausschalten</string>
@@ -202,8 +194,6 @@
     <string name="low_battery_notification_content">Weniger als %2$s Akku verbleiben auf %1$s</string>
     <string name="low_battery_notification_content_default">Telefonakku ist schwächer als %1$s</string>
     <string name="low_battery_notification_title">Niedriger Akkustand</string>
-    <string name="low_version_dialog_message">Aktualisieren Sie MIUI+ auf Ihrem Computer oder laden Sie die neueste Version von plus.miui.com herunter.</string>
-    <string name="low_version_dialog_title">MIUI+ aktualisieren</string>
     <string name="message_log">Nachrichten-Protokolle</string>
     <string name="midnight">Nacht</string>
     <string name="mirror_call_closed">Dieser Anruf wurde von einem anderen Gerät beantwortet</string>
@@ -314,8 +304,6 @@
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass WLAN und Bluetooth auf beiden Geräten aktiviert sind.</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass WLAN und Bluetooth auf beiden Geräten aktiviert sind.</string>
     <string name="nfc_no_xiaomi_account">Anscheinend haben Sie sich nicht bei Ihrem Xiaomi-Konto angemeldet. Um Elemente zu übertragen, melden Sie sich bei dem Xiaomi-Konto an, das Sie auf Ihrem Tablet verwenden.</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass Sie WLAN und Bluetooth sowohl auf Ihrem Telefon als auch auf Ihrem Computer aktiviert haben und dass auf Ihrem Computer MIUI+ läuft.</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbindung zum Computer nicht möglich. Stellen Sie sicher, dass Sie WLAN und Bluetooth sowohl auf Ihrem Telefon als auch auf Ihrem Computer aktiviert haben und dass auf Ihrem Computer MIUI+ läuft.</string>
     <string name="nfc_wifi_and_bluetooth">WLAN und Bluetooth einschalten</string>
     <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>
@@ -387,7 +375,6 @@
     <string name="pad_settings_pc_use_tile">Über diese Funktion</string>
     <string name="pad_settings_phone_handoff_summary">Weiterleitung mit Apps, Zwischenablage, Videos und anderen Elementen auf dem anderen Gerät verwenden, das mit Ihrem Xiaomi-Konto verbunden ist</string>
     <string name="pad_settings_phone_handoff_title">Weiterleitung</string>
-    <string name="pad_settings_scanner_summary">MIUI+ über einen QR-Code verbinden</string>
     <string name="pad_settings_trusted_delete_dialog_msg">Wenn Sie das Gerät aus der Liste entfernt haben, können Sie nicht mehr automatisch eine Verbindung zu diesem Gerät herstellen.</string>
     <string name="pad_settings_trusted_tips">Automatische Verbindung zu ausgewählten Geräten in der Nähe, wenn Bluetooth und WLAN an sind</string>
     <string name="pad_settings_trusted_tips_china">Automatische Verbindung zu ausgewählten Geräten in der Nähe, wenn Bluetooth und WLAN an sind</string>
@@ -401,7 +388,6 @@
     <string name="pc_cooperate_guide_task">Aufgaben anzeigen</string>
     <string name="pc_cooperate_guide_undo">Rückgängig (Ctrl+Z)</string>
     <string name="pc_low_version_toast">Software auf Ihrem Computer aktualisieren</string>
-    <string name="pc_settings_current_device_tip">Verbinden Sie sich automatisch mit einem Computer - mit geöffnetem MIUI+ und angemeldet mit demselben Xiaomi-Konto</string>
     <string name="pcmode_not_support_multi_window">PC-Modus unterstützt nicht die Anzeige mehrerer Fenster</string>
     <string name="phone_pad_app_introduction_summary">Aufgaben in derselben App auf Ihrem Tablet fortsetzen</string>
     <string name="phone_pad_doc_introduction_summary">Dokumentenbearbeitung auf verschiedenen Geräten teilen und Änderungen am gewünschten Ort speichern</string>
@@ -420,13 +406,11 @@
     <string name="phone_pc_message_introduction_title">Geteilte Zwischenablage</string>
     <string name="phone_settings_current_device_tip">Automatisch mit anderen Telefonen verbinden, die mit Ihrem Xiaomi-Konto verbunden sind</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="privacy_all_purpose">Willkommen bei MIUI+! Mit dieser App können Sie Ihr Telefon mit einem Computer verbinden und zwei Geräte zu einer Arbeitsstation kombinieren.</string>
     <string name="privacy_describe_change_wifi_state">Um Geräte zu verbinden und Dateien über WLAN zu übertragen</string>
     <string name="privacy_describe_change_wifi_state_china">Für die Verbindung von Geräten und die Übertragung von Dateien über WLAN</string>
     <string name="privacy_describe_location">Um PC in der Nähe zu finden und Dateien zu übertragen</string>
     <string name="privacy_describe_record_audio">Um die Audiowiedergabe auf Ihren PC umzuleiten</string>
     <string name="privacy_describe_storage">Zum Senden und Empfangen von Dateien</string>
-    <string name="privacy_pad_all_purpose">Willkommen bei MIUI+! Mit dieser App können Sie Ihre Mobilgeräte zu einer Arbeitsstation kombinieren. MIUI+ ermöglicht es Ihnen, die Apps Ihres Telefons auf Ihrem Tablet zu nutzen, Anrufe auf einem anderen Gerät anzunehmen, die gemeinsame Zwischenablage zu verwenden, Elemente zu übertragen und Bildschirminhalte zu teilen.</string>
     <string name="privacy_pad_describe_change_wifi_state">Für das Übertragen von Bildschirminhalten</string>
     <string name="privacy_pad_describe_record_audio">Zum Übertragen der Audiowiedergabe auf ein anderes Gerät während des Castings</string>
     <string name="privacy_pad_describe_storage">Zum Übertragen von Elementen zwischen Geräten</string>
@@ -439,7 +423,6 @@
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
     <string name="save_failed">Speichern nicht möglich</string>
-    <string name="scanner_lower_version_toast">MIUI+ am Computer aktualisieren, um zu verbinden</string>
     <string name="scanner_uninstalled_text">Anscheinend ist der Scanner nicht auf Ihrem Gerät installiert. Installieren Sie zuerst den Scanner.</string>
     <string name="scanner_uninstalled_title">Scanner installieren</string>
     <string name="screen_connecting">Verbinden…</string>
@@ -503,7 +486,7 @@
     <string name="settings_history_none">Noch keine Elemente hier</string>
     <string name="settings_history_today_connect_time">Heute %1$s</string>
     <string name="settings_history_yesterday_connect_time">Gestern %1$s</string>
-    <string name="settings_home">MIUI+</string>
+    <string name="settings_home">Verbundene Geräte</string>
     <string name="settings_home_device_disconnect">Trennen</string>
     <string name="settings_home_device_group">Verbundenes Gerät</string>
     <string name="settings_home_sub_title">Ihr Telefon und Ihren Computer zu einer Arbeitsstation kombinieren</string>
@@ -525,7 +508,6 @@
     <string name="settings_phone">Telefon</string>
     <string name="settings_phone_handoff_title">Automatisch verbinden</string>
     <string name="settings_privacy_policy">Datenschutzerklärung</string>
-    <string name="settings_scanner_summary">Mit MIUI+ über einen QR-Code verbinden</string>
     <string name="settings_trusted">Automatisch verbinden</string>
     <string name="settings_trusted_delete">Entfernen</string>
     <string name="settings_trusted_delete_dialog_msg">Sie können keine automatische Verbindung zu diesem Gerät herstellen, wenn Sie es aus der Liste entfernen.</string>
@@ -660,20 +642,19 @@
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
     <string name="worker_authorization_loading">Einen Moment…</string>
-    <string name="worker_authorization_message">Verwenden Sie nach der Verbindung MIUI+ auf Ihrem Computer, um Elemente auf Ihrem Mobilgerät zu verwalten.</string>
+    <string name="worker_authorization_message">Nach dem Verbinden können Sie Ihren Computer verwenden, um Elemente auf diesem Gerät zu verwalten.</string>
     <string name="worker_authorization_title">Jetzt verbinden?</string>
     <string name="worker_authorization_trusted">Immer verbinden</string>
     <string name="worker_authorization_trusted_only_once">Einmal verbinden</string>
     <string name="worker_authorized">%1$s hat Ihre Anfrage akzeptiert</string>
     <string name="worker_connect_cancel_tips">Abbrechen</string>
-    <string name="worker_connect_fail_btn_retry">Erneutr versuchen</string>
-    <string name="worker_connect_fail_message">Ein Netzwerkfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
+    <string name="worker_connect_fail_btn_retry">Erneut versuchen</string>
+    <string name="worker_connect_fail_message">Ein Netzwerkfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="worker_connect_fail_title">Verbinden nicht möglich</string>
     <string name="worker_connect_help">Hilfe</string>
     <string name="worker_connecting_message">Verbinden…</string>
     <string name="worker_try_join_in_connected_state">Erfolgreich verbunden</string>
     <string name="worker_try_join_in_connecting_state">Geräte verbinden…</string>
-    <string name="worker_try_join_pc_when_pad_adv_connected">Dieses Gerät ist jetzt mit einem anderen Gerät verbunden. Etwas warten und erneut versuchen.</string>
-    <string name="worker_try_join_pc_when_pad_adv_connected_title">MIUI+ verbinden nicht möglich</string>
+    <string name="worker_try_join_pc_when_pad_adv_connected">Dieses Gerät ist jetzt mit einem anderen Gerät verbunden. Einen Moment warten und erneut versuchen.</string>
     <string name="yesterday">Gestern</string>
 </resources>

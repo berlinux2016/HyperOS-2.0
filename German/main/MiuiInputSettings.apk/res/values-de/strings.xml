@@ -73,9 +73,6 @@
     <string name="double_click_power_key">Power-Taste zweimal drücken</string>
     <string name="double_click_volume_down_when_lock">Zweimal auf Lautstärke leiser drücken, wenn der Bildschirm gesperrt ist</string>
     <string name="double_knock">Knöchel-Doppeltipp</string>
-    <string name="dump_log">Problembezogene Protokolle abrufen</string>
-    <string name="dump_log_summary">Diese Funktion ist für die Generierung des %s-Log in der Beta-Version von MIUI vorgesehen. Verwenden Sie sie mit Vorsicht.\nSie können die generierten Protokolle im Dateimanager ansehen.</string>
-    <string name="dump_log_title">Über diese Funktion</string>
     <string name="early_morning">Morgen</string>
     <string name="edge_mode_state_summary">Bereich um gewölbte Kanten reagiert nicht auf Berührung</string>
     <string name="edge_mode_state_title">Versehentliche Berührungen an den Kanten ignorieren</string>

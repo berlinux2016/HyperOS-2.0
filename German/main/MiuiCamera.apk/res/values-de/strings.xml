@@ -405,7 +405,7 @@
     <string name="aperture_near_range_tip">Blende kann bei Nahaufnahmen nicht eingestellt werden</string>
     <string name="aperture_no_wide_camera_tip">Blende kann nur für die Hauptkamera eingestellt werden</string>
     <string name="app_details">"App-Details: "</string>
-    <string name="app_name">Einstellung</string>
+    <string name="app_name">Einstellungen</string>
     <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
     <string name="audio_map_summary_tip">Lautstärke des linken und rechten Kanals in Echtzeit überwachen und mit dem Schieberegler einstellen</string>
     <string name="auto">Auto</string>

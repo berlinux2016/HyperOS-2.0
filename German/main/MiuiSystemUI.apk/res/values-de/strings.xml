@@ -631,7 +631,6 @@
     <string name="dialog_forget_password_cancel">Abbrechen</string>
     <string name="dialog_forget_password_message">Wenn Sie Ihren PUK-Code vergessen haben, können Sie diese eSIM deaktivieren, um den Zugriff auf Ihr Gerät nicht zu verlieren. Danach können Sie Ihren Anbieter kontaktieren, um Hilfe zu erhalten.</string>
     <string name="dialog_forget_password_ok">Deaktivieren</string>
-    <string name="dialog_message_fake_cell_detect_error">Infos zu dieser Nachricht korrigieren? Dazu muss MIUI die Rufnummer (%1$s), den Inhalt der Nachricht und die Informationen über den nahegelegenen Standort auf seine Server hochladen.</string>
     <string name="dialog_title_fake_cell_detect_error">Korrektur</string>
     <string name="direct_boot_unaware_dialog_message">Hinweis: Nach einem Neustart startet diese App erst, wenn Sie Ihr Telefon entsperrt haben.</string>
     <string name="disabled_by_admin">Vom Administrator deaktiviert</string>
@@ -2220,7 +2219,6 @@
     <string name="slice_permission_text_2">- Sie kann Aktionen in %1$s ausführen</string>
     <string name="slice_permission_title">%1$s erlauben, Teile aus %2$s anzuzeigen?</string>
     <string name="small_window_guide_title">Popups</string>
-    <string name="small_window_notification_text">Tippen, um mehr über diese MIUI %d-Funktion zu erfahren</string>
     <string name="small_window_notification_title">Popups</string>
     <string name="snoozeHourOptions">{count, plural, =1 {# Stunde} =2 {# Stunden} few {# Stunden} other {# Stunden} }</string>
     <string name="snoozeMinuteOptions">{count, plural, =1 {# Minute} few {# Minuten} other {# Minuten} }</string>

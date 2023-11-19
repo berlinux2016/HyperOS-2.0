@@ -29,7 +29,7 @@
     <string name="app_description_content">Kompass ist eine System-App. Nach der Deinstallation können Sie sie nicht mehr zum Prüfen von Richtungen, Koordinaten, Luftdruck und aktueller Höhe verwenden.</string>
     <string name="app_description_title">Kompass deinstallieren?</string>
     <string name="app_label">Kompass</string>
-    <string name="app_name">Einstellung </string>
+    <string name="app_name">Einstellungen</string>
     <string name="calibrate_failed">Höhenkalibrierung fehlgeschlagen</string>
     <string name="calibrate_failed_no_location">Kalibrierung fehlgeschlagen. Ein Standortfehler ist aufgetreten.</string>
     <string name="calibrate_failed_timeout">Kalibrierung fehlgeschlagen. Ein Serverfehler ist aufgetreten.</string>
@@ -97,7 +97,7 @@
     <string name="friday_shortest">F</string>
     <string name="get_location">Standortzugriff</string>
     <string name="guide_toast">Zum Kalibrieren bewegen Sie Ihr Gerät wie unten gezeigt.</string>
-    <string name="invisible_mode_dialog_message">Kamera kann jetzt nicht verwendet werden. Inkognito-Modus in Einstellungen ausschalten, um die Kamera verwenden zu können.</string>
+    <string name="invisible_mode_dialog_message">Kamera kann jetzt nicht verwendet werden. Inkognito-Modus in Einstellungen ausschalten, um Kamera zu verwenden.</string>
     <string name="invisible_mode_dialog_negative">Abbrechen</string>
     <string name="invisible_mode_dialog_positive">Einstellungen</string>
     <string name="invisible_mode_dialog_title">Sie sind inkognito</string>

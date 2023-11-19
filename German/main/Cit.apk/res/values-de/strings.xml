@@ -513,7 +513,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
     <string name="cit_nfc_sim_check_summary">Vergewissern Sie sich, dass der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden, nur zwei NFC-SIM-Karten gleichzeitig vorhanden sind und bei korrektem Status ist es bestanden.</string>
     <string name="cit_no_sim_check_summary">Vergewissern Sie sich, dass das Gerät keine SIM-Karte hat!</string>
     <string name="cit_no_sim_check_title">Keine SIM-Karte</string>
-    <string name="cit_not_available">Dieser Test ist auf dieser Version von MIUI nicht verfügbar</string>
+    <string name="cit_not_available">Dieser Test ist auf dieser System-Version nicht verfügbar</string>
     <string name="cit_notificationlight">Benachrichtigungslicht</string>
     <string name="cit_notificationlight_off">Benachrichtigungslicht aus</string>
     <string name="cit_notificationlight_on">Benachrichtigungslicht an</string>

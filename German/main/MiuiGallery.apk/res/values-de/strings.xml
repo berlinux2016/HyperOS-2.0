@@ -324,7 +324,7 @@
     <string name="alert_secret_album_message_new">Wischen Sie in \"Alben\" nach unten, um private Elemente anzuzeigen.</string>
     <string name="alert_secret_album_title">So zeigen Sie versteckte Alben an</string>
     <string name="alert_secret_album_title_new">Erfolgreich hinzugefügt</string>
-    <string name="alert_selection_description">MIUI analysiert ähnliche Fotos und markiert die besten Aufnahmen für Sie.</string>
+    <string name="alert_selection_description">Galerie analysiert ähnliche Fotos und markiert die besten Aufnahmen für Sie.</string>
     <string name="alert_selection_title">Beste Aufnahme auswählen</string>
     <string name="all_faces">Alle Fotos mit Personen</string>
     <string name="all_items_synced">Alle Alben wurden mit der Xiaomi Cloud synchronisiert</string>
@@ -1411,7 +1411,7 @@
     <string name="image_invalid_path">Ungültiger Pfad</string>
     <string name="image_not_found">Foto wurde nicht gefunden</string>
     <string name="image_quota_fulfiled">Zu viele Fotos. Nicht mehr benötigte Fotos löschen und erneut versuchen.</string>
-    <string name="image_selection_summary">MIUI analysiert ähnliche Fotos und markiert die besten Aufnahmen für Sie. Schalten Sie diese Funktion aus, um Markierungen auf Fotos zu entfernen.</string>
+    <string name="image_selection_summary">Galerie analysiert ähnliche Fotos und markiert die besten Aufnahmen für Sie. Schalten Sie diese Funktion aus, um Markierungen auf Fotos zu entfernen.</string>
     <string name="image_selection_title">Bestes Foto auswählen</string>
     <string name="image_with_time">Foto aufgenommen %s</string>
     <string name="image_with_time_and_location">Foto aufgenommen %1$s | Standort: %2$s</string>
@@ -2598,7 +2598,7 @@
     <string name="search_feedback_task_request_award_failed">Belohnung nicht erhalten. Versuchen Sie es später erneut.</string>
     <string name="search_feedback_task_requesting_award">Belohnung erhalten…</string>
     <string name="search_feedback_user_notice">Ich habe %s gelesen und stimme zu.</string>
-    <string name="search_feedback_user_policy">MIUI Gallery KI Algorithmus-Programm Datenschutzerklärung</string>
+    <string name="search_feedback_user_policy">Galerie KI Algorithmus-Programm Datenschutzerklärung</string>
     <string name="search_hint">Fotos suchen</string>
     <string name="search_image_result_title">Suchergebnisse</string>
     <string name="search_login_now">Anmelden</string>
@@ -3492,7 +3492,7 @@
     <string name="video_tags_enter">Markierungen anzeigen</string>
     <string name="video_with_time">Video aufgenommen %s</string>
     <string name="video_with_time_and_location">Video aufgenommen %1$s | Standort: %2$s</string>
-    <string name="view_by_gallery_tip">MIUI Galerie</string>
+    <string name="view_by_gallery_tip">Galerie</string>
     <string name="view_face_album">Album anzeigen</string>
     <string name="view_more_face_desc">Weitere Personen anzeigen</string>
     <string name="vlog_audio_changyang">Freizeit</string>

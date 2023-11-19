@@ -47,7 +47,7 @@
     <string name="alert_volume_summary">Klingeltonlautstärke für Wecker und Timer einstellen</string>
     <string name="alert_xiaoai_ringtone_desc">Mi KI spricht…</string>
     <string name="app_label">Uhr</string>
-    <string name="app_name">Einstellung</string>
+    <string name="app_name">Einstellungen</string>
     <string name="auto_silence_entries1">Nie</string>
     <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> Minute</string>
     <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> Minuten</string>

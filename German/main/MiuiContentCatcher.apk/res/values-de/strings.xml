@@ -25,7 +25,7 @@
     <string name="auth_fingerprint_content_message">Legen Sie Ihren Finger auf den Sensor</string>
     <string name="auth_fingerprint_content_message_error">Fingerabdruck wurde nicht gescannt, erneut versuchen</string>
     <string name="auth_fingerprint_title">Fingerabdruck prüfen</string>
-    <string name="autofill_description">MIUI kann Ihre Passwörter verschlüsseln und speichern, sodass Sie sie jederzeit automatisch eingeben können. Xiaomi kann Ihre verschlüsselten Passwörter nicht lesen.</string>
+    <string name="autofill_description">Xiaomi kann Ihre Passwörter verschlüsseln und speichern, sodass Sie sie jederzeit automatisch eingeben können. Wir können Ihre verschlüsselten Passwörter nicht lesen.</string>
     <string name="autofill_hint_email_address">Konto</string>
     <string name="autofill_hint_password">Passwort</string>
     <string name="autofill_hint_phone">Rufnummer</string>
@@ -234,7 +234,7 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
-    <string name="using_miui_autofill_message">Um Passwörter automatisch einzugeben, speichert MIUI Ihre Kontodaten und Passwörter auf Ihrem Gerät.</string>
+    <string name="using_miui_autofill_message">Um Passwörter automatisch einzugeben, speichern wir Ihre Kontodaten und Passwörter auf Ihrem Gerät.</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="wednesday">Mittwoch</string>

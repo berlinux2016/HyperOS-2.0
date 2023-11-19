@@ -868,8 +868,6 @@
     <string name="unstable_dialog_title">Android-Entwickler-Vorschauprogramm</string>
     <string name="upgrade_remove_small_window_in_recents">Sie können die Seitenleiste verwenden, um Apps in Popups zu öffnen</string>
     <string name="use_theme_screen_cells_title">Erlaubt dem Thema, das Bildschirmlayout zu überschreiben</string>
-    <string name="user_query_notification_text">Ist die Desktop-Bedienung komfortabel? Wird die Animation flüssig dargestellt? Erzählen Sie uns von der Teilnahme an der Umfrage!</string>
-    <string name="user_query_notification_title">Der MIUI System-Desktop lädt Sie zur Teilnahme an der Nutzungsumfrage ein</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="wallpaper">Hintergrund</string>

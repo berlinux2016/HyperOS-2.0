@@ -59,11 +59,6 @@
     <string name="appcirculate_toast_success_3">Übertragen…</string>
     <string name="ask_for_using_camera">Gerät entsperren, um Berechtigung zu erteilen</string>
     <string name="audio_record_des">Zur Übertragung von Audio von Ihrem Mobilgerät auf externe Monitore</string>
-    <string name="auth_MIUI_and_phone_model">Diese Seite ist nur für\nMIUI 13 Betatester verfügbar.</string>
-    <string name="auth_check_loading">Einen Moment…</string>
-    <string name="auth_no_user">Diese Seite ist nur für Betatester verfügbar.\nIn Einstellungen > Xiaomi-Konto am Xiaomi-Konto anmelden, um Berechtigungen zu synchronisieren.</string>
-    <string name="auth_phone_model">Diese Seite kann auf diesem Gerät nicht angezeigt werden.</string>
-    <string name="auth_show_to_test_user">Diese Seite ist nur für Betatester verfügbar.</string>
     <string name="ball_hint_connect_fail">Aktion konnte nicht ausgeführt werden. Etwas warten und erneut versuchen.</string>
     <string name="ball_hint_text_loading">Einen Moment…</string>
     <string name="ball_hint_text_success">Erfolgreich verbunden</string>
@@ -179,8 +174,7 @@
     <string name="circulate_cta_agree">Zustimmen</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_lite_phone">Xiaomi Interconnectivity Services ermöglichen es Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
-    <string name="circulate_cta_desc_pad">Willkommen zu Mi Smart Hub! Diese App erlaubt Ihnen, Casting und Mi Smart Play zu verwenden und die Wiedergabe von Multimediadateien von einem Ihrer Geräte auf ein anderes zu übertragen. Diese App muss sich mit dem Internet verbinden und benötigt die folgenden Berechtigungen, um normal zu funktionieren:</string>
-    <string name="circulate_cta_desc_phone">Willkommen zu Mi Smart Hub! Diese App erlaubt Ihnen, Casting, Mi Smart Play und MIUI+ zu verwenden und Aufgaben auf einem Ihrer Geräte zu beginnen und dann nahtlos zu einem anderen Gerät zu wechseln. Diese App muss sich mit dem Internet verbinden und benötigt die folgenden Berechtigungen, um normal zu funktionieren:</string>
+    <string name="circulate_cta_desc_phone">Xiaomi Interconnectivity Services ermöglichen es Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
     <string name="circulate_cta_exit">Beenden</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Zum Verbinden von Geräten und Übertragen von Daten zwischen ihnen</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Für den Zugriff auf die Liste der auf einem mobilen Gerät installierten Apps und die Bildschirmspiegelung auf Computer</string>

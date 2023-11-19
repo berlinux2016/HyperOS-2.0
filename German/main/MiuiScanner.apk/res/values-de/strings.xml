@@ -343,7 +343,7 @@
     <string name="intelligent_participle">Sätze</string>
     <string name="intelligent_recognition">Erkennen</string>
     <string name="jd_shopping_title">Auf JD suchen</string>
-    <string name="keywords_search_code">Scanner;Scannen;QR Code;QR;Erkennung;Barcode;Barcodes;Produkt;Produkte;Alipay;WeChat;Wie scanne ich QR Codes;How to scan barcode;Wie scanne ich;MIUI Scanner</string>
+    <string name="keywords_search_code">Scanner;Scannen;QR Code;QR;Erkennung;Barcode;Barcodes;Produkt;Produkte;Alipay;WeChat;Wie scanne ich QR Codes;Wie scannt man Barcodes;Wie scanne ich;MIUI Scanner</string>
     <string name="keywords_search_document">Scanner;Scanne Dokumente;Scanne Dokumente;OCR;Scanne Texte;Scanne</string>
     <string name="keywords_search_namecard">Scanner;Visitenkarte;Visitenkarten;Scanne;Scanne Katen;Karte;Karten;Kontakte;Kontakt</string>
     <string name="keywords_search_settings">Scanner;Netzwerkeinstellungen</string>

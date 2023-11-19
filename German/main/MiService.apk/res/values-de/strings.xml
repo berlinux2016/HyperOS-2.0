@@ -66,12 +66,10 @@
 Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern unterstützt. Sie können die Liste der unterstützten Geräte auf der offiziellen Website der jeweiligen Marke überprüfen."</string>
     <string name="miui_guide_accessibility_image_desc">Bild</string>
     <string name="miui_guide_clear_db_service">\"Dienste &amp; Feedback\" Sprach-Cache leeren…</string>
-    <string name="miui_guide_footer_desc">Das Einsteigerhandbuch wurde entwickelt, um Ihnen zu helfen, mehr über Ihr Gerät und MIUI zu erfahren. Einige Bilder und Videos im Leitfaden wurden nur zu Referenzzwecken erstellt und können vom tatsächlichen Produkt abweichen. Die in diesem Handbuch beschriebenen Funktionen können je nach Gerätemodell, MIUI-Version und Einsatzumgebung variieren.</string>
     <string name="miui_guide_item_complete">Fertig gestellt</string>
     <string name="miui_guide_item_new">Neu</string>
     <string name="miui_guide_item_progress">Fertig gestellt %1$d/%2$d</string>
     <string name="miui_guide_menu_privacy">Datenschutzerklärung</string>
-    <string name="miui_guide_top_bar_sub_title">Erfahren, was MIUI leisten kann</string>
     <string name="miui_guide_top_bar_title">Einsteigerhandbuch</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -147,7 +145,7 @@ Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern un
     <string name="permission_imei_disable_desc">Dieser App erlauben, eine Internetverbindung herzustellen.</string>
     <string name="permission_imei_enable_desc">Dieser App erlauben, eine Internetverbindung herzustellen und die oben aufgeführten obligatorischen Berechtigungen erteilen.</string>
     <string name="permission_location_introduce">Zur Anzeige nahegelegener Servicepunkte</string>
-    <string name="permission_main_purpose">Anzeigen von MIUI-Feature-Demos, Übermitteln von Feedback und Beantragung von Kundendienstleistungen.</string>
+    <string name="permission_main_purpose">Anzeigen von Funktionsdemos, Übermitteln von Feedback und Beantragung von Kundendienstleistungen</string>
     <string name="permission_privacy">Datenschutzerklärung (obligatorisch)</string>
     <string name="permission_region_version_msg">&lt;Data>Vor der Verwendung von Dienste &amp; Feedback, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren.&lt;/Data></string>
     <string name="permission_select_all">Alles auswählen</string>

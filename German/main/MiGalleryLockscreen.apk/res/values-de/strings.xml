@@ -282,7 +282,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="from_migallerylockscreen">Vom MIUI Hintergrundkarussell</string>
+    <string name="from_migallerylockscreen">Vom Mi Hintergrundkarussell</string>
     <string name="get_account_no_permission">Um sich anzumelden, legen Sie bitte die Berechtigung zum Benutzerkontozugriff fest:</string>
     <string name="get_back_pwd">Passwort zurücksetzen</string>
     <string name="get_ph_ticket">Code erhalten</string>
@@ -1196,11 +1196,11 @@ dd.MM."</string>
     <string name="theme_apply_success">Erfolgreich angewendet</string>
     <string name="theme_applying">Anwenden…</string>
     <string name="theme_close_maml">Hintergrundkarussellbilder ersetzen den Sperrbildschirmhintergrund</string>
-    <string name="theme_des">Hintergrundkarussell unterstützt nur das Standardthema von MIUI. Stellen Sie das Standardthema ein, um Hintergrundkarussell zu verwenden.</string>
+    <string name="theme_des">Standardthema anwenden und Hintergrundkarussell wieder einschalten</string>
     <string name="theme_des_lock_style">Standard-Sperrbildschirm anwenden und Hintergrundkarussell wieder einschalten</string>
-    <string name="theme_des_maml">Andere Komponenten des aktuellen Themas sind nicht betroffen. Thema wird aktualisiert, um Änderungen anzuwenden.</string>
-    <string name="theme_ok">Standardthema einstellen</string>
-    <string name="theme_title">Sie verwenden nicht das Standardthema</string>
+    <string name="theme_des_maml">Dies kann ein paar Sekunden dauern. Andere Komponenten des aktuellen Themas sind davon nicht betroffen. Thema wird aktualisiert, um die Änderungen anzuwenden.</string>
+    <string name="theme_ok">Einstellungen</string>
+    <string name="theme_title">Zum Standardthema wechseln</string>
     <string name="theme_title_lock_style">Zum Standard-Sperrbildschirm wechseln</string>
     <string name="theme_title_subscribe">Hintergrundkarussell abonnieren</string>
     <string name="thursday">Donnerstag</string>

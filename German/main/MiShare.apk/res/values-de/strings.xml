@@ -232,8 +232,8 @@
     <string name="nfc_connecting">Verbinden…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Um die Geräte zu verbinden, schalten Sie zuerst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Um die Geräte zu verbinden, schalten Sie zuerst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbinden fehlgeschlagen. Vergewissern Sie sich, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbinden fehlgeschlagen. Vergewissern Sie sich, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbinden mit PC fehlgeschlagen. Vergewissern Sie sich, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbinden mit PC fehlgeschlagen. Vergewissern Sie sich, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
     <string name="nfc_wifi_and_bluetooth">WLAN und Bluetooth einschalten</string>
     <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>

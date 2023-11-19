@@ -29,7 +29,7 @@
     <string name="alert_message_delete_record_title">Aufnahme löschen</string>
     <string name="all_record">Alle Aufnahmen</string>
     <string name="allowed">Gewährt</string>
-    <string name="app_name">Recorder</string>
+    <string name="app_name">Rekorder</string>
     <string name="app_record">App-Aufnahmen</string>
     <string name="app_record_preference_title">Sprachanruf-Rekorder</string>
     <string name="back">Zurück</string>
@@ -152,7 +152,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="head_set_tip_dialog_title">Internes Mikrofon verwenden</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="invalid_argument">Ungültiges Argument</string>
-    <string name="invisible_mode_dialog_message">Im Inkognito-Modus kann das Mikrofon nicht verwendet werden. Erst den Inkognito-Modus ausschalten.</string>
+    <string name="invisible_mode_dialog_message">Kamera kann jetzt nicht verwendet werden. Inkognito-Modus in Einstellungen ausschalten, um Kamera zu verwenden.</string>
     <string name="invisible_mode_dialog_negative">Abbrechen</string>
     <string name="invisible_mode_dialog_positive">Ausschalten</string>
     <string name="invisible_mode_dialog_title">Sie sind inkognito</string>

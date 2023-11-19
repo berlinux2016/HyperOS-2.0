@@ -60,7 +60,7 @@
     <string name="all_list_empty">Keine Kontakte</string>
     <string name="antispam_mark_my_contribution">Anderen Benutzern zeigen, dass ich diese Nummer markiert habe</string>
     <string name="antispam_provider_format">Als Spam markiert von %s</string>
-    <string name="app_name">Einstellung</string>
+    <string name="app_name">Einstellungen</string>
     <string name="attach_photo_dialog_title">Kontaktbild</string>
     <string name="audio_chat">Sprachchat</string>
     <string name="auto_nickname">Auto</string>
