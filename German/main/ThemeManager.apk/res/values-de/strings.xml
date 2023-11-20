@@ -552,7 +552,7 @@ Dieses Video hat keinen Ton. Die andere Person hört Ihren Klingelton, während 
     <string name="incall_show_remove_success">Profilvideo erfolgreich entfernt</string>
     <string name="incall_show_title">Profilvideos</string>
     <string name="incompatible_dialog_cancel">Nicht anwenden</string>
-    <string name="incompatible_dialog_message">Dieses Thema ist noch nicht vollständig kompatibel mit dieser MIUI-Version. Einige Seiten funktionieren eventuell nicht richtig.</string>
+    <string name="incompatible_dialog_message">Dieses Thema ist noch nicht vollständig kompatibel mit dieser Systemversion. Einige Seiten funktionieren eventuell nicht richtig.</string>
     <string name="incompatible_dialog_ok">Verstanden</string>
     <string name="incompatible_dialog_title">Kompatibilitätsprobleme</string>
     <string name="install_clock">Sie haben die Uhr noch nicht installiert. Jetzt herunterladen?</string>
@@ -671,7 +671,7 @@ dd.MM."</string>
     <string name="miuishare_account_login_ok">Anmelden</string>
     <string name="miuishare_account_need_activate">Weitergabe an Weibo erfordert das Weibo-Konto, das Ihrem Xiaomi-Konto zugeordnet ist. Aktivieren Sie Ihr Xiaomi-Konto, um fortzufahren.</string>
     <string name="miuishare_account_need_login">Weitergabe an Weibo erfordert das Weibo-Konto, das Ihrem Xiaomi-Konto zugeordnet ist. Melden Sie sich bei Ihrem Xiaomi-Konto an, um fortzufahren.</string>
-    <string name="miuishare_app_name">MIUI-Share</string>
+    <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">Seht euch den Hintergrund an, den ich gefunden habe!</string>
     <string name="miuishare_no_network">Netzwerkverbindung nicht möglich</string>
     <string name="miuishare_please_retry">Informationen nicht verfügbar. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -832,7 +832,7 @@ Auf Bildschirm tippen, um neu zu laden."</string>
     <string name="online_precust_scenery">Landschaft</string>
     <string name="online_search_hint">Online suchen</string>
     <string name="order_list">Bestellverlauf</string>
-    <string name="ota_recovery_theme_dialog_message">Einige Elemente des zuvor genutzten Themas sind eventuell nicht mit der neuen MIUI-Version kompatibel. Inkompatible Elemente werden durch Standardoptionen ersetzt.</string>
+    <string name="ota_recovery_theme_dialog_message">Einige Elemente des zuvor genutzten Themas sind eventuell nicht mit der neuen Systemversion kompatibel. Inkompatible Elemente werden durch Standardoptionen ersetzt.</string>
     <string name="ota_recovery_theme_dialog_title">Wiederherstellen des Original-Themas</string>
     <string name="ota_recovery_theme_notity_btn">Wiederherstellen</string>
     <string name="ota_recovery_theme_notity_content">Sie können zu dem Thema zurückgehen, das Sie vor dem Update genutzt haben.</string>
@@ -1128,8 +1128,8 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_exchange_has_used">Eingegebener Code wurde bereits verwendet</string>
     <string name="resource_exchange_hint">Gutscheincode eingeben</string>
     <string name="resource_exchange_purchase_unkown_error">Ein unbekannter Fehler ist aufgetreten. Anmelden unter http://market.xiaomi.com, um Ihren Zahlungsstatus anzuzeigen.</string>
-    <string name="resource_exchange_share_code_content">Sie haben einen Gutscheincode für das Thema %1$s im MIUI Theme Store erhalten. Code lautet: %2$s. Drücken Sie %3$s, um ihn jetzt einzulösen.</string>
-    <string name="resource_exchange_share_code_dlg_content">Gutscheincode für Ihr gekauftes Thema %1$s: %2$s. Wenn Sie Ihn an einen anderen MIUI Benutzer senden, kann er/sie ihn dazu verwenden, das Thema herunterzuladen.</string>
+    <string name="resource_exchange_share_code_content">Sie haben einen Gutscheincode für das Thema %1$s in MIUI Themen erhalten. Code lautet: %2$s. Drücken Sie %3$s, um ihn jetzt einzulösen.</string>
+    <string name="resource_exchange_share_code_dlg_content">Gutscheincode für Ihr gekauftes Thema %1$s: %2$s. Wenn Sie ihn an andere Xiaomi-Nutzer senden, können sie ihn dazu verwenden, das Thema herunterzuladen.</string>
     <string name="resource_exchange_share_code_dlg_title">Senden</string>
     <string name="resource_exchange_success">Erfolgreich eingelöst</string>
     <string name="resource_exchange_unavailable">Dieser Artikel ist derzeit nicht verfügbar</string>
@@ -1326,7 +1326,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="share_content_text_first_theme">Ausprobieren! \"%1$s\"-Thema verleiht Ihrem Telefon ein völlig neues Aussehen.</string>
     <string name="share_content_text_first_wallpaper">Ausprobieren! \"%1$s\"-Hintergrund verleiht Ihrem Telefon einen völlig neuen Look.</string>
     <string name="share_content_text_second">Finden Sie Ihren eigenen Stil in %1$s!</string>
-    <string name="share_content_topic">\ #MIUI Personalisierung #</string>
+    <string name="share_content_topic">\#Xiaomi Themen#</string>
     <string name="share_copy_theme_url">Themen-URL kopieren</string>
     <string name="share_copy_url_success">Erfolgreich kopiert</string>
     <string name="share_copy_wallpaper_url">Hintergrund-URL kopieren</string>
@@ -1772,7 +1772,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_static">Statisch</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Einstellungen</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Anwenden</string>
-    <string name="warning_miui_optimization_closed_dialog_message">Anscheinend haben Sie die MIUI-Optimierung nicht aktiviert. Ohne sie wird dieses Thema beim Anwenden nicht richtig funktionieren. Sie können es trotzdem anwenden oder die MIUI-Optimierung in den Einstellungen aktivieren.</string>
+    <string name="warning_miui_optimization_closed_dialog_message">Anscheinend haben Sie die Systemoptimierung nicht aktiviert. Ohne sie wird dieses Thema beim Anwenden nicht richtig funktionieren. Sie können es trotzdem anwenden oder die Systemoptimierung in den Einstellungen aktivieren.</string>
     <string name="warning_miui_optimization_closed_dialog_title">Achtung</string>
     <string name="warning_subscribe_wallpaper_group_content">Sie haben Diashow am Startbildschirm eingeschaltet. %1$s wird am Startbildschirm angewendet.</string>
     <string name="weather_no_data">Keine Wetterdaten</string>

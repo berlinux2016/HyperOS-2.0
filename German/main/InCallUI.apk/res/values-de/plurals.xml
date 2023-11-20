@@ -30,8 +30,8 @@
         <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="antispam_marked_count">
-        <item quantity="other">Von %d MIUI Benutzern gemeldet</item>
-        <item quantity="one">Von %d MIUI Benutzer gemeldet</item>
+        <item quantity="other">Von %d Xiaomi-Nutzern gemeldet</item>
+        <item quantity="one">Von %d Xiaomi-Nutzer gemeldet</item>
     </plurals>
     <plurals name="auto_disconnect_timer_tip">
         <item quantity="other">Auflegen in %1$s Sekunden…</item>

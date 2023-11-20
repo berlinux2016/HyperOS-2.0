@@ -342,7 +342,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="debug_networking_category">Networking</string>
     <string name="debug_view_attributes">Aktivieren der View-Attributprüfung</string>
     <string name="decline_incoming_call">Ablehnen</string>
-    <string name="default_dialer_reset_prompt">Anscheinend sind bei der Verwendung von %s mehrere Fehler aufgetreten. Jetzt den MIUI-Dialer zu deiner Standard-Telefon-App machen?</string>
+    <string name="default_dialer_reset_prompt">Anscheinend sind bei der Verwendung von %s mehrere Fehler aufgetreten. Jetzt den System-Dialer zu Ihrer Standard-Telefon-App machen?</string>
     <string name="delete_blob_confirmation_text">Sind Sie sicher, dass Sie diese gemeinsamen Daten löschen wollen?</string>
     <string name="delete_blob_text">Gemeinsame Daten löschen</string>
     <string name="delete_icon_description">Entsperren</string>
@@ -629,7 +629,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="notification_channel_in_call_service_crash">Abgestürzte Telefon-Apps</string>
     <string name="notification_channel_incoming_call">Eingehende Anrufe</string>
     <string name="notification_channel_missed_call">Entgangene Anrufe</string>
-    <string name="notification_crashedInCallService_body">Deine Telefon-App \"%s\" ist abgestürzt. Der Anruf wurde mit der auf deinem Gerät vorinstallierten App fortgesetzt.</string>
+    <string name="notification_crashedInCallService_body">Ihre Telefon-App \"%s\" ist abgestürzt. Der Anruf wurde mit der auf dem Gerät vorinstallierten App fortgesetzt.</string>
     <string name="notification_crashedInCallService_title">Abgestürzte Telefon-App</string>
     <string name="notification_disconnectedCall_body">Der Anruf mit %s wurde beendet, weil ein Notruf getätigt wurde.</string>
     <string name="notification_disconnectedCall_generic_body">Der Anruf wurde beendet, weil ein Notruf getätigt wurde.</string>
@@ -948,15 +948,15 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="usb_audio_disable_routing_summary">Automatische Weiterleitung zu USB-Audio-Peripheriegeräten deaktivieren</string>
     <string name="use_system_language_to_select_input_method_subtypes">Systemsprachen verwenden</string>
     <string name="userCallActivityLabel">Telefon</string>
-    <string name="user_add_profile_item_summary">Du kannst den Zugriff auf Apps und Inhalte aus deinem Konto beschränken.</string>
+    <string name="user_add_profile_item_summary">Sie können den Zugriff auf Apps und Inhalte aus Ihrem Konto beschränken.</string>
     <string name="user_add_profile_item_title">Eingeschränkte Profile</string>
     <string name="user_add_user_item_summary">Die Benutzer haben eigene Apps und Inhalte.</string>
     <string name="user_add_user_item_title">Benutzer</string>
-    <string name="user_add_user_message_long">"Du kannst dieses Gerät zusammen mit anderen nutzen, indem du weitere Benutzer erstellst. Jeder erhält einen eigenen Bereich, in dem er Apps, den Hintergrund usw. personalisieren kann. Außerdem lassen sich Geräteeinstellungen wie WLAN ändern, die sich auf alle Benutzer auswirken.
+    <string name="user_add_user_message_long">"Sie können dieses Gerät zusammen mit anderen nutzen, indem Sie weitere Benutzer erstellen. Jeder erhält einen eigenen Bereich, in dem er Apps, den Hintergrund usw. personalisieren kann. Außerdem lassen sich Geräteeinstellungen wie WLAN ändern, die sich auf alle Benutzer auswirken.
 
-Wenn du einen neuen Benutzer hinzufügst, muss dieser seinen Bereich einrichten.
+Wenn Sie einen neuen Benutzer hinzufügen, muss dieser seinen Bereich einrichten.
 
-Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Bedienungshilfen-Einstellungen und -Dienste werden möglicherweise nicht auf den neuen Benutzer übertragen."</string>
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Bedienungshilfen-Einstellungen und -Dienste werden evtl. nicht auf den neuen Benutzer übertragen."</string>
     <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss dieser seinen Bereich einrichten.
 
 Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
@@ -967,7 +967,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="user_image_photo_selector">Foto wählen</string>
     <string name="user_image_take_photo">Foto aufnehmen</string>
     <string name="user_info_settings_title">Benutzerinfo</string>
-    <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils musst du eine Displaysperre einrichten, um deine Apps und personenbezogenen Daten zu schützen.</string>
+    <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, um Ihre Apps und personenbezogenen Daten zu schützen.</string>
     <string name="user_new_profile_name">Neues Profil</string>
     <string name="user_new_user_name">Neuer Benutzer</string>
     <string name="user_nickname">Spitzname</string>

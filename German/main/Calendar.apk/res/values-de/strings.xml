@@ -1045,7 +1045,7 @@ Netzwerkeinstellungen prüfen und erneut versuchen."</string>
     <string name="setting">Einstellungen</string>
     <string name="setting_about_calendar_version">Kalenderversion:</string>
     <string name="setting_about_imei">IMEI:</string>
-    <string name="setting_about_miui_version">MIUI-Version:</string>
+    <string name="setting_about_miui_version">OS-Version:</string>
     <string name="setting_about_summary">Version:</string>
     <string name="setting_accounts">Kalenderkonten</string>
     <string name="setting_change_language">Kalendersprache wählen</string>

@@ -146,7 +146,7 @@
     <string name="adb_install_no_network">Netzwerkverbindung aufbauen und erneut versuchen</string>
     <string name="adb_install_open">Erlauben…</string>
     <string name="adb_install_open_error">Nicht erlaubt, Netzwerkverbindung prüfen</string>
-    <string name="adb_install_reject_notiy">Installatio̱n %s via USB nicht erlaubt</string>
+    <string name="adb_install_reject_notiy">%s Installatio̱n via USB nicht erlaubt</string>
     <string name="adb_install_reject_notiy_desc">Sie können die Installation via USB in den Entwickleroptionen erlauben</string>
     <string name="adb_login_xiaomi_account">Erst im Xiaomi-Konto anmelden</string>
     <string name="add_auto_task_desktop_icon">Startbildschirm-Verknüpfung hinzufügen</string>
@@ -154,9 +154,9 @@
     <string name="add_done">Erfolgreich hinzugefügt</string>
     <string name="add_game">Spiel hinzufügen</string>
     <string name="add_game_notification_summary">Tippen zum Starten &amp; Geschwindigkeit erhöhen</string>
-    <string name="add_miservice_dialog_content">%s erfordert, dass Sie das Xiaomi Serviceframework zu den Ausnahmen hinzufügen. Sie könnten Benachrichtigungen von MIUI System- oder Drittanbieter-Apps erhalten.</string>
+    <string name="add_miservice_dialog_content">%s erfordert, dass Sie das Xiaomi Serviceframework zu den Ausnahmen hinzufügen. Sie könnten Benachrichtigungen von unseren integrierten Apps und anderen Drittanbieter-Apps erhalten.</string>
     <string name="add_miservice_dialog_title">Xiaomi Serviceframework</string>
-    <string name="add_to_whitelist_button">Datenroamingausnahmen</string>
+    <string name="add_to_whitelist_button">Datenroaming-Ausnahmen</string>
     <string name="add_whitelist">Zu Ausnahmen hinzufügen</string>
     <string name="added_game_notification_summary">Spiel jetzt starten</string>
     <string name="added_game_notification_title">%s ist jetzt im Game Turbo</string>
@@ -254,11 +254,11 @@
     <string name="antivirus_website_check_status">AN</string>
     <string name="antivirus_website_check_title">Sicheres Surfen im Internet</string>
     <string name="apn_exception_modify_summary">Standard Carrier Access Point wird nicht verwendet oder modifiziert</string>
-    <string name="apn_exception_summary">Zugangspunktnamen vom Mobilfunkanbieter prüfen</string>
+    <string name="apn_exception_summary">Zugangspunktnamen vom Anbieter prüfen</string>
     <string name="apn_exception_title">APN-Konfigurationen prüfen</string>
     <string name="apn_exception_wap_summary">WAP ist jetzt instabil. Zu NET wechseln.</string>
-    <string name="app_behavior_about_content_no_link">MIUI kann zeigen, wann andere Apps gestartet, automatisch gestartet, Berechtigungen verwendet und sensible Aktionen ausgeführt wurden. Wegen Kompatibilitätsproblemen mit der Android-Version sind einige dieser Aufnahmen evtl. nicht korrekt. Wenn Sie einen Datensatz über das Verhalten einer App finden, der nicht korrekt ist, melden Sie ihn uns über die App \"Dienste &amp; Feedback\".</string>
-    <string name="app_behavior_about_negative">Feedback</string>
+    <string name="app_behavior_about_content_no_link">Das System kann anzeigen, wann Apps andere Apps starteten, automatisch starteten, Berechtigungen verwendeten und sensible Aktionen durchführten. Wegen Kompatibilitätsproblemen mit der Android-Version sind einige dieser Aufnahmen evtl. nicht korrekt. Wenn Sie einen Datensatz über das Verhalten einer App finden, der nicht korrekt ist, melden Sie ihn uns über die App \"Dienste &amp; Feedback\".</string>
+    <string name="app_behavior_about_negative">Unstimmigkeiten melden</string>
     <string name="app_behavior_about_positive">Verstanden</string>
     <string name="app_behavior_about_setting">Einstellungen</string>
     <string name="app_behavior_access_gallery">%1s-Zugriff auf Galerie</string>
@@ -459,7 +459,7 @@
     <string name="app_manager_app_version_name">"Version: "</string>
     <string name="app_manager_appupdate_remind">Über Updates benachrichtigen</string>
     <string name="app_manager_as_dlg_msg">Damit Apps automatisch gestartet werden können, wird zusätzliche RAM- und Akkuleistung benötigt. Trotzdem erlauben?</string>
-    <string name="app_manager_as_dlg_msg_new">Wenn Sie einer App den Autostart erlauben, kann dies den Speicherbedarf und die Akkunutzung erhöhen. MIUI optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
+    <string name="app_manager_as_dlg_msg_new">Wenn Sie einer App den Autostart erlauben, kann dies den Speicherbedarf und die Akkunutzung erhöhen. Ihr Gerät optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
     <string name="app_manager_as_dlg_title">Achtung</string>
     <string name="app_manager_back">Zurück</string>
     <string name="app_manager_bipartition">Dual Apps</string>
@@ -528,7 +528,7 @@
     <string name="app_manager_permission_notify_title">Benachrichtigung</string>
     <string name="app_manager_permission_power_saving_title">Stromsparen</string>
     <string name="app_manager_permission_summary_reject">Alles beschränken</string>
-    <string name="app_manager_powerkeeper_miui_auto">MIUI Stromsparen</string>
+    <string name="app_manager_powerkeeper_miui_auto">Stromsparen</string>
     <string name="app_manager_powerkeeper_no_bg">Hintergrundaktivität beschränken</string>
     <string name="app_manager_powerkeeper_no_restrict">Keine Beschränkungen</string>
     <string name="app_manager_powerkeeper_restrict_bg">Hintergrund-Apps beschränken</string>
@@ -560,7 +560,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_manager_uninstall">Deinstallieren</string>
     <string name="app_manager_uninstall_button_text">Deinstallieren</string>
     <string name="app_manager_uninstall_notify_title">Selten verwendete Apps deinstallieren</string>
-    <string name="app_manager_uninstall_protected_dlg_msg">Deinstallation von System-Apps kann dazu führen, dass einige MIUI-Komponenten nicht ordnungsgemäß funktionieren. Trotzdem deinstallieren?</string>
+    <string name="app_manager_uninstall_protected_dlg_msg">Deinstallation von System-Apps kann dazu führen, dass einige Systemkomponenten nicht ordnungsgemäß funktionieren. Trotzdem deinstallieren?</string>
     <string name="app_manager_uninstall_protected_dlg_title">System-Apps deinstallieren</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Entsprechende Dual Apps werden zusammen mit den App-Daten gelöscht</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Durch die Deinstallation der Dual Apps werden alle App-Daten entfernt</string>
@@ -744,7 +744,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="apps_item_sms_default_set_success">Erfolgreich eingestellt!</string>
     <string name="apps_item_sms_reset_button_text">Standardeinstellungen wiederherstellen</string>
     <string name="apps_item_sms_title">Standard-Nachrichten-App wurde ersetzt</string>
-    <string name="apps_item_summary_sms">%s verwaltet jetzt Ihre SMS. Für ein stabileres und sichereres Erlebnis verwenden Sie stattdessen die System-App von MIUI.</string>
+    <string name="apps_item_summary_sms">%s verwaltet jetzt Ihre SMS. Für ein stabileres und sichereres Erlebnis verwenden Sie stattdessen die System-App.</string>
     <string name="apps_item_summary_system_rooted">Root-Zugriff wurde gewährt. Um Sicherheitsrisiken zu vermeiden, verwenden Sie die Standardeinstellungen.</string>
     <string name="apps_item_summary_system_update">Einige Fehler wurden in dieser Version behoben, um Zahlungen sicherer zu machen.</string>
     <string name="apps_item_title_system">Systemupdate</string>
@@ -772,7 +772,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_start_close">Einschränken</string>
     <string name="auto_start_hint">Achtung</string>
     <string name="auto_start_hint_desc">%1$s kann eingehende Nachrichten nicht in Echtzeit empfangen, wenn Sie Autostart ausschalten. Trotzdem ausschalten?</string>
-    <string name="auto_start_tips">MIUI optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
+    <string name="auto_start_tips">Diese Funktion optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Geräteleistung zu verbessern.</string>
     <string name="auto_task_allow_suggestion">Smarte Aufgabenvorschläge</string>
     <string name="auto_task_available_device">Verfügbare Geräte</string>
     <string name="auto_task_condition_choose_battery_level_down">Wenn der Akku einen bestimmten Wert erreicht</string>
@@ -911,7 +911,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="back_description_securitycenter">Zurück</string>
     <string name="back_modifypassword">Zurück zur Änderung des Passworttyps</string>
     <string name="back_sound_data">Schalten Sie mobile Daten ein und versuchen Sie es erneut.</string>
-    <string name="back_sound_fail">Einstellen nicht möglich. Die Einstellungen des Mobilfunkanbieters wurden geändert. Aktuelle SIM-Karte als Ihre Datenkarte einstellen, mit dem Netzwerk verbinden und erneut versuchen.</string>
+    <string name="back_sound_fail">Einstellen nicht möglich. Die Einstellungen des Anbieters wurden geändert. Aktuelle SIM-Karte als Ihre Datenkarte einstellen, mit dem Netzwerk verbinden und erneut versuchen.</string>
     <string name="back_sound_success">Erfolgreich gesetzt</string>
     <string name="back_sound_support">Erst WLAN ausschalten</string>
     <string name="back_sound_support_china">Erst WLAN ausschalten</string>
@@ -1237,10 +1237,10 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_sms_report">Bericht per SMS</string>
     <string name="card_tc_failed">Kalibrieren nicht möglich</string>
     <string name="card_tc_failed_content">"Mögliche Gründe:
-1. Mobilfunkanbieter reagieren am Anfang und am Ende eines Monats langsamer. Versuchen Sie es erneut in ein paar Tagen.
+1. Anbieter reagieren am Anfang und am Ende eines Monats langsamer. Versuchen Sie es erneut in ein paar Tagen.
 2. Wenn Sie zum ersten Mal kalibrieren, ist eine Netzwerk-Anforderungsschablone erforderlich. Verbinden Sie sich mit dem Netzwerk und versuchen Sie es erneut.
-3. Ihr Mobilfunkanbieter unterstützt evtl. nicht das Senden von Textnachrichten mit den verbleibenden Daten und dem Telefonguthaben. Wenden Sie sich an Ihren Mobilfunkanbieter, um mehr zu erfahren.
-4. Ein Fehler in den Mobilfunkanbieterdaten kann vorkommen. Versuchen Sie die Mobilfunkanbieterdiagnose, um das Problem zu lösen.
+3. Ihr Anbieter unterstützt evtl. nicht das Senden von Textnachrichten mit den verbleibenden Daten und dem Telefonguthaben. Wenden Sie sich an Ihren Anbieter, um mehr zu erfahren.
+4. Ein Fehler in den Anbieterdaten kann vorkommen. Versuchen Sie die Anbieterdiagnose, um das Problem zu lösen.
 5. Nichts scheint zu helfen? Tippen Sie auf \"Bericht per SMS\", um Ihr Feedback an Xiaomi per Textnachricht zu senden."</string>
     <string name="card_uninstall_button_text">Verwalten</string>
     <string name="card_uninstall_summary">Selten verwendete Apps deinstallieren, um Speicherplatz freizugeben</string>
@@ -1403,18 +1403,17 @@ Sie verlieren keine App-Daten."</string>
     <string name="cs_title_pickup">Rauschunterdrückung</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra HD-Modus</string>
-    <string name="cta_HIPS_Perm_Location_Desc">Für die Verwendung Ihrer Standortdaten in der MIUI-Warnzentrale, dem Notfall-SOS, dem App-Stromsparen und dem Zahlungssicherheitsscanner sowie für die Aktivierung des ungefähren Standorts</string>
-    <string name="cta_agree_desc">Dieser App die Internetverbindung erlauben und die optionalen Berechtigungen erteilen, um alle ihre Funktionen zu verwenden.</string>
+    <string name="cta_HIPS_Perm_Location_Desc">Für die Verwendung Ihrer Standortdaten in der Warnzentrale, Notfall-SOS, beim App-Stromsparen und im Zahlungssicherheitsscanner sowie für die Aktivierung des ungefähren Standorts</string>
+    <string name="cta_agree_desc">Um unsere Dienste zu nutzen, erlauben Sie dieser App die Internetverbindung und gewähren Sie die oben aufgeführten Berechtigungen.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
     <string name="cta_close_dialog_content">Wenn Sie Sicherheit den Internet- und Standortzugriff beschränken, können Sie keine Erdbebenwarnungen erhalten oder Virendefinitionen und Sperrlisteninformationen aktualisieren. Ihr Gerät wird unsicherer. Trotzdem einschränken?</string>
     <string name="cta_close_dialog_ok">Einschränken</string>
     <string name="cta_close_dialog_title">Zugriff einschränken</string>
-    <string name="cta_dialog_msg">&lt;Data>Sie müssen unsere &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Datenschutzerklärung&lt;/a> akzeptieren, bevor Sie die App Sicherheit verwenden. Diese muss sich auch mit dem Internet verbinden und auf Ihren Standort zugreifen, um normal zu arbeiten und die Virendefinitionen auf dem neuesten Stand zu halten. Zustimmen?&lt;/Data></string>
-    <string name="cta_dialog_negative">Ablehnen</string>
+    <string name="cta_dialog_negative">Beenden</string>
     <string name="cta_dialog_positive">Zustimmen</string>
     <string name="cta_dialog_title">Internetverbindung</string>
-    <string name="cta_main_purpose">Willkommen bei Sicherheit! Mit Sicherheit und seinen Modulen (inkl. MIUI-Sicherheitskomponenten, Systemdienste und Joyose) können Sie Speicherplatz freigeben, Ihr Gerät auf Viren scannen, den Akkuverbrauch kontrollieren, Ihr Gerät für Spiele optimieren, Apps verwalten, Frühwarnungen bei Erdbeben erhalten und mehr. MIUI-Sicherheitskomponenten stellen eine Internetverbindung her und führen Sicherheitsscans durch, während Sie Apps installieren und Zahlungen vornehmen.</string>
-    <string name="cta_main_purpose_new">Willkommen bei Sicherheit! Mit Sicherheit und seinen Modulen (inkl. MIUI-Sicherheitskomponenten, Sicherheits- und Systemdiensten und Joyose) können Sie Speicherplatz freigeben, Ihr Gerät auf Viren scannen, den Akkuverbrauch kontrollieren, Ihr Gerät für Spiele optimieren, Apps verwalten, Frühwarnungen bei Erdbeben erhalten und mehr. MIUI-Sicherheitskomponenten stellen eine Internetverbindung her und führen Sicherheitsscans durch, während Sie Apps installieren und Zahlungen vornehmen.</string>
+    <string name="cta_main_purpose">Willkommen bei Sicherheit! Mit Sicherheit und seinen Modulen (inkl. Systemsicherheitskomponenten, Systemdienste, Joyose und Bereinigung) können Sie Speicherplatz freigeben, Ihr Gerät auf Viren scannen, den Akkuverbrauch kontrollieren, Ihr Gerät für Spiele optimieren, Apps verwalten, Frühwarnungen bei Erdbeben erhalten und mehr. Systemsicherheitskomponenten stellen eine Internetverbindung her und führen Sicherheitsscans durch, während Sie Apps installieren und Zahlungen vornehmen.</string>
+    <string name="cta_main_purpose_new">Willkommen bei Sicherheit! Mit Sicherheit und seinen Modulen (inkl. Systemsicherheitskomponenten, Systemdienste, Joyose und Bereinigung) können Sie Speicherplatz freigeben, Ihr Gerät auf Viren scannen, den Akkuverbrauch kontrollieren, Ihr Gerät für Spiele optimieren, Apps verwalten, Frühwarnungen bei Erdbeben erhalten und mehr. Systemsicherheitskomponenten stellen eine Internetverbindung her und führen Sicherheitsscans durch, während Sie Apps installieren und Zahlungen vornehmen.</string>
     <string name="cta_settings">Internetverbindung und Standortzugriff erlauben</string>
     <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Für die Verwendung der Sperrliste und Anrufe an Notfallkontakte bei Erdbebenwarnungen</string>
@@ -1426,15 +1425,15 @@ Sie verlieren keine App-Daten."</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Zur Verwendung der Sperrliste und zum Senden von Kalibrierungsmeldungen an Ihren Anbieter</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Zum Löschen von Nachrichten aus Ihrer Sperrliste</string>
     <string name="custom_define_permission_desc_android.permission.group.SENSORS">Zum Erkennen seismischer Wellen für die Erdbebenüberwachung</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Für die Bereitstellung der für Ihren Standort relevanten Funktionen in der MIUI-Warnzentrale, Notfall-SOS, App-Stromsparen, Zahlungssicherheitsscanner und ungefähre Standortbestimmung</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Für die Bereitstellung der für Ihren Standort relevanten Funktionen in der Warnzentrale, Notfall-SOS, App-Stromsparen, Zahlungssicherheitsscanner und ungefähre Standortbestimmung</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Für die Audioaufnahme bei Verwendung von Game Turbo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Zum Leeren des Papierkorbs und zur Durchführung von Antiviren-Scans</string>
     <string name="customize_limit_pkg">%s (benutzerdefiniert)</string>
     <string name="customizer_mode_user_define_name">Meine Regeln</string>
-    <string name="daily_card_setting_fragment_daily_card_brand">Mobilfunkanbieter</string>
-    <string name="daily_card_setting_fragment_daily_card_brand_value">Mobilfunkanbieter auswählen</string>
+    <string name="daily_card_setting_fragment_daily_card_brand">Anbieter</string>
+    <string name="daily_card_setting_fragment_daily_card_brand_value">Anbieter auswählen</string>
     <string name="daily_card_setting_fragment_daily_card_setting">Einstellungen täglicher Datentarif</string>
-    <string name="daily_card_setting_fragment_daily_card_summary">MIUI setzt Datenlimits und Apps mit unbegrenzten Daten entsprechend dem von Ihnen gewählten Mobilfunkanbieter. Wenn Ihr Mobilfunkanbieter nicht aufgeführt ist, wählen Sie \"Andere\" und erstellen Sie Ihren täglichen Datentarif manuell.</string>
+    <string name="daily_card_setting_fragment_daily_card_summary">Wir setzen Datenlimits und Apps mit unbegrenzten Daten entsprechend dem von Ihnen gewählten Anbieter. Wenn Ihr Anbieter nicht aufgeführt ist, wählen Sie \"Andere\" und erstellen Sie Ihren täglichen Datentarif manuell.</string>
     <string name="daily_card_setting_fragment_daily_package">Tägliches Datenlimit</string>
     <string name="daily_card_setting_fragment_month_package">Monatliches Datenpaket</string>
     <string name="daily_card_setting_fragment_package_summary">Wenn Ihr täglicher Datentarif ein monatliches Datenpaket enthält, wird es vor dem Tagespaket verwendet.</string>
@@ -1452,18 +1451,18 @@ Sie verlieren keine App-Daten."</string>
     <string name="data_local_processing_and_storage_detail">Ihre Eingaben werden auf diesem Gerät gespeichert und verarbeitet und nicht in die Cloud hochgeladen.</string>
     <string name="data_network_blocked_notification_title">Keine Internetverbindung</string>
     <string name="data_usage_correction_timeout_title">Zeitüberschreitung bei Synchronisation der Datennutzung</string>
-    <string name="data_usage_disabled_dialog">Sie haben das Limit des Datentarifs erreicht. Wenn Sie Ihr Limit überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+    <string name="data_usage_disabled_dialog">Sie haben das Limit des Datentarifs erreicht. Wenn Sie Ihr Limit überschreiten, kann Ihr Anbieter Ihnen zusätzliche Kosten berechnen.</string>
     <string name="data_usage_disabled_dialog_enable">Mobile Daten einschalten</string>
     <string name="data_usage_leisure_warning_body">Tippen, um Datennutzungsdetails anzuzeigen</string>
     <string name="data_usage_leisure_warning_title">Datennutzungslimit über Verbrauchsgrenze</string>
     <string name="data_usage_limit_body">Tippen, um mobile Daten einzuschalten</string>
-    <string name="data_usage_mobile_dialog_title">Sie haben bereits 5 GB mobile Daten genutzt. MIUI hat mobile Daten ausgeschaltet.</string>
+    <string name="data_usage_mobile_dialog_title">Sie haben bereits 5 GB mobile Daten genutzt. Mobile Daten wurden ausgeschaltet.</string>
     <string name="data_usage_mobile_limit_title">Datenlimit erreicht</string>
     <string name="data_usage_no_total_package_body">Tippen, um Datenlimit einzustellen</string>
     <string name="data_usage_no_total_package_body_dual">Kein Datenlimit für %s eingestellt</string>
     <string name="data_usage_no_total_package_title">Datennutzungslimit einstellen</string>
-    <string name="data_usage_protected_dialog_message">MIUI hat mobile Daten abgeschaltet, um zusätzliche Mobilfunkanbieterkosten zu verhindern.\nIhr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile Daten wieder einschalten.</string>
-    <string name="data_usage_protected_notify_message">MIUI hat mobile Daten abgeschaltet, um zusätzliche Mobilfunkanbieterkosten zu verhindern.</string>
+    <string name="data_usage_protected_dialog_message">Mobile Daten wurden ausgeschaltet, um zusätzliche Anbieterkosten zu verhindern.\nIhr Anbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie mobile Daten wieder einschalten.</string>
+    <string name="data_usage_protected_notify_message">Mobile Daten wurde ausgeschaltet, um zusätzliche Anbieterkosten zu verhindern.</string>
     <string name="data_usage_protected_notify_title">Sie haben bereits 5 GB mobile Daten genutzt.</string>
     <string name="data_usage_warning_body">Tippen, um Datennutzungsdetails anzuzeigen</string>
     <string name="data_usage_warning_body_notify">Tippen, um Details anzusehen</string>
@@ -1518,8 +1517,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_button_yes">Ja</string>
     <string name="dialog_change_package_type_summary">Änderung des Datentarifs setzt alle Einstellungen zur Datennutzung (z. B. Datenlimits) auf die Standardwerte zurück. Datentarif jetzt ändern?</string>
     <string name="dialog_change_package_type_title">Datentarif ändern</string>
-    <string name="dialog_msg_auto_start_declare">Einige Apps können falsch anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie die Berechtigungen, die einzelnen Apps unter Einstellungen &gt; Apps gewährt wurden.</string>
-    <string name="dialog_msg_auto_start_declare_global">Einige Apps können falsch anzeigen, dass MIUI sie am Starten gehindert hat. Prüfen Sie die Berechtigungen, einzelnen Apps in den Einstellungen gewährt wurden.</string>
+    <string name="dialog_msg_auto_start_declare">Einige Apps können falsch anzeigen, dass das System sie am Starten gehindert hat. Prüfen Sie die Berechtigungen, die einzelnen Apps in Einstellungen gewährt wurden.</string>
+    <string name="dialog_msg_auto_start_declare_global">Einige Apps können falsch anzeigen, dass das System sie am Starten gehindert hat. Prüfen Sie die Berechtigungen, die einzelnen Apps in Einstellungen gewährt wurden.</string>
     <string name="dialog_msg_create_icon_content">Startbildschirm-Verknüpfung jetzt hinzufügen?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Nicht mehr anzeigen</string>
     <string name="dialog_msg_delete_icon_content_pad">Mit Sicherheit können Sie den Papierkorb auf Ihrem Gerät leeren, Viren finden und neutralisieren, den Akku schonen, Berechtigungen verwalten und vieles mehr.</string>
@@ -1539,7 +1538,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_roaming_message">Erlauben Sie dieser App, mobile Daten beim Roaming zu verwenden?</string>
     <string name="dialog_roaming_title">Datenroaming</string>
     <string name="dialog_roaming_warning_checkbox">Nicht wieder anzeigen</string>
-    <string name="dialog_roaming_warning_message">Ihr Mobilfunkanbieter berechnet Kosten, wenn internationales Datenraoming eingeschaltet ist. Trotzdem einschalten?</string>
+    <string name="dialog_roaming_warning_message">Ihr Anbieter berechnet Kosten, wenn internationales Datenraoming eingeschaltet ist. Trotzdem einschalten?</string>
     <string name="dialog_roaming_warning_ok">Einschalten</string>
     <string name="dialog_skt_roaming_warning_cancel">Ablehnen</string>
     <string name="dialog_skt_roaming_warning_message">"Lesen und akzeptieren Sie die folgenden Bedingungen, um Daten-Roaming zu nutzen. Es können internationale Daten-Roaming-Kosten anfallen. Ohne Daten-Roaming-Tarif können erhebliche Kosten für Apps anfallen, die sich automatisch aktualisieren, z. B. Apps für soziale Netzwerke, E-Mail und Wetter.
@@ -1840,7 +1839,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_monitor_summary2">Erdbebenalarmbezogene Informationen melden.</string>
     <string name="ew_monitor_summary3">Mehr Menschen helfen, Erdbebenwarnungen schneller zu erhalten.</string>
     <string name="ew_monitor_support">Technische Unterstützung durch das Chengdu Hi-tech Disaster Reduction Institute</string>
-    <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi-/Redmi-Geräten und MIUI-Versionen unterstützt.</string>
+    <string name="ew_monitor_support_rom">*Diese Funktion wird von ausgewählten Xiaomi-/Redmi-Geräten und Systemversionen unterstützt.</string>
     <string name="ew_monitor_thanks_tips">Vielen Dank, für die \nfreiwillige Erdbebenüberwachung, Nummer %s!</string>
     <string name="ew_monitor_title">Freiwillige Erdbebenüberwachung</string>
     <string name="ew_monitor_title_spilt">Freiwillige \nErdbebenüberwachung</string>
@@ -1850,7 +1849,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_push_message">Geschätzte Intensität: %s. Erwarten Sie ein leichtes Beben in Ihrer Nähe.</string>
     <string name="ew_push_title">Erdbebenwarnung für %s</string>
     <string name="ew_safe_place_no_maps_tips">Suche jetzt nicht möglich. Zuerst Baidu Maps oder Amap installieren.</string>
-    <string name="ew_setting_desc_message">MIUI schätzt die Intensität des Erdbebens auf der Grundlage seiner Stärke, der Lage des Epizentrums und Ihres Standortes ein. Je größer die geschätzte Intensität, desto verheerender wird das Erdbeben in Ihrem Gebiet sein.</string>
+    <string name="ew_setting_desc_message">Wir schätzen die Intensität des Erdbebens anhand seiner Stärke, der Lage des Epizentrums und Ihres Standortes ein. Je größer die geschätzte Intensität, desto verheerender wird das Erdbeben in Ihrem Gebiet sein.</string>
     <string name="ew_setting_desc_title">Wie ist die geschätzte Intensität?</string>
     <string name="ew_setting_more_title">Erfahren Sie mehr über Erdbebenwarnungen</string>
     <string name="ew_setting_normal_push_message">Wenn die geschätzte Intensität niedriger als die Warnschwelle ist</string>
@@ -1867,7 +1866,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_settings_set_level_summary">Warnungen über Erdbeben erhalten, wenn deren Intensität %s oder höher ist</string>
     <string name="ew_settings_set_level_title">Schwellenwert Erdbebenwarnung einstellen</string>
     <string name="ew_signature_default">Chengdu High-Tech-Forschungsinstitut für Katastrophenvorsorge Kontinentales Erdbeben-Warnzentrum</string>
-    <string name="ew_sleep_mode_alert_content">Um sicherzustellen, dass Sie Erdbebenwarnungen erhalten können, wird MIUI den Schlafmodus deaktivieren. Hintergrund-Apps, NFC, Bluetooth, GPS, mobile Daten und WLAN werden normal funktionieren, auch wenn Sie schlafen. Erdbebenwarnung jetzt einschalten?</string>
+    <string name="ew_sleep_mode_alert_content">Um sicherzustellen, dass Sie Erdbebenwarnungen erhalten können, wird der Schlafmodus ausgeschaltet. Hintergrund-Apps, NFC, Bluetooth, GPS, mobile Daten und WLAN werden normal funktionieren, auch wenn Sie schlafen. Erdbebenwarnung jetzt einschalten?</string>
     <string name="ew_sleep_mode_alert_title">Erdbebenwarnung</string>
     <string name="ew_subscribe_area_title">Hinzugefügte Gebiete verwalten</string>
     <string name="ew_subscribe_city">Hinzugefügte Gebiete</string>
@@ -1991,7 +1990,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="firewall_network_restrict_notify_mobile">Mobile Daten</string>
     <string name="firewall_partial">Einigen Apps erlauben, sich folgendermaßen zu verbinden</string>
     <string name="firewall_restrict_all">Allen Apps verbieten, sich folgendermaßen zu verbinden</string>
-    <string name="firewall_restrict_android_dialog_content">Damit Ihr Telefon ordnungsgemäß funktioniert, benötigen einige Android-System-Apps eine Internetverbindung. Diese Apps verwenden Ihre Datenverbindung und können geringe Kosten bei Ihrem Mobilfunkanbieter verursachen.</string>
+    <string name="firewall_restrict_android_dialog_content">Damit Ihr Telefon ordnungsgemäß funktioniert, benötigen einige Android-System-Apps eine Internetverbindung. Diese Apps verwenden Ihre Datenverbindung und können geringe Kosten bei Ihrem Anbieter verursachen.</string>
     <string name="firewall_restrict_android_dialog_title">Achtung</string>
     <string name="firewall_restrict_data">Mobile Datennutzung einschränken</string>
     <string name="firewall_restrict_notify_title">%s hat keinen Internetzugriff</string>
@@ -2059,7 +2058,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="first_settings_default_location_subtitle">Ortsangaben aus freigegebenen Fotos entfernen</string>
     <string name="first_settings_default_location_title">Teilen ohne Ortsangaben als Standard</string>
     <string name="first_settings_share_enable">Plaketten \"Sicheres Teilen\" hinzufügen</string>
-    <string name="first_settings_share_enable_subtitle">Elemente, die Sie auf WeChat teilen, erscheinen mit einer MIUI-Plakette</string>
+    <string name="first_settings_share_enable_subtitle">Elemente, die Sie auf WeChat teilen, erscheinen mit einer Plakette</string>
     <string name="first_settings_subtitle">Hier sind die sicheren Elemente für die gemeinsame Nutzung, die Ihnen zur Verfügung stehen:</string>
     <string name="first_settings_title">Privatsphäre schützen</string>
     <string name="five_percent_total_pkg">%s (5%% der monatlichen Daten)</string>
@@ -2126,7 +2125,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="function_auto_reject_detail_new">"Über diese Funktion:
 %1$d. Während Sie spielen, werden alle eingehenden Anrufe auf der SIM-Karte ohne mobilen Datendienst automatisch abgewiesen.
 %2$d. Sie werden über verpasste Anrufe benachrichtigt, und Ihr Gesprächspartner hört eine Audionachricht, die besagt, dass Sie im Moment beschäftigt sind.
-%3$d. Diese Funktion wird nur von Mobilfunkanbietern auf dem chinesischen Festland unterstützt."</string>
+%3$d. Diese Funktion wird nur von Anbietern auf dem chinesischen Festland unterstützt."</string>
     <string name="function_auto_reject_title">VoLTE-Anrufe an SIM-Karten ohne Datendienst ablehnen</string>
     <string name="function_close">Aus</string>
     <string name="function_gwsd_detail">"Über diese Funktion:
@@ -2733,13 +2732,13 @@ Sie verlieren keine App-Daten."</string>
     <string name="gtb_start_phone_accelerate">Steigern</string>
     <string name="gtb_voice_changer">Sprachwandler</string>
     <string name="gtb_wlan_speed_tips">Mi WLAN verwenden…</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;u>Falscher Mobilfunkanbieter?&lt;/u>&lt;/font>"</string>
-    <string name="guide_operator_text">"Ihr aktueller Mobilfunkanbieter: "</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;u>Falscher Anbieter?&lt;/u>&lt;/font>"</string>
+    <string name="guide_operator_text">"Ihr aktueller Anbieter: "</string>
     <string name="guide_quck_open">Einschalten</string>
-    <string name="guide_second_text">Wenn Sie Ihren Netzbertreiber eingestellt haben, wird MIUI Ihre mobile Datennutzung täglich durch kostenlose SMS überwachen. Wenn MIUI erkennt, dass Sie Ihr Datenlimit überschritten haben, wird Ihr Gerät vom Netz getrennt und Sie erhalten eine Benachrichtigung.</string>
+    <string name="guide_second_text">Wenn Sie Ihren Anbieter eingestellt haben, werden wir Ihre mobile Datennutzung täglich durch kostenlose Anbieter-SMS überwachen. Wenn wir erkennen, dass Sie Ihr Datenlimit überschritten haben, werden Sie vom Netzwerk getrennt und benachrichtigt.</string>
     <string name="guide_wait_setting">Nicht jetzt</string>
     <string name="handle_bar_summary_wifi_unknown">Unbekannt</string>
-    <string name="handle_title_abnormal">Das entleert den Akku</string>
+    <string name="handle_title_abnormal">Akku wird entladen</string>
     <string name="handle_title_details">Akkuverbrauchsdetails</string>
     <string name="handle_title_network">WLAN-Sicherheit</string>
     <string name="handle_title_pay_env">Zahlungsumgebung</string>
@@ -2846,22 +2845,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="item_usb_debug">USB-Debugging</string>
     <string name="item_virus">Virendefinitionen automatisch aktualisieren</string>
     <string name="item_virus_lib">Virendatenbank automatisch aktualisieren</string>
-    <string name="keywords_antispam">Sperrliste;Block;Schwarze Liste;Smart Blocklist;Betrug;Sales;Agents;Anrufsperrliste;SMS Sperrliste;blacklist;Kontakte sperren</string>
-    <string name="keywords_antivirus">Virus;Risiko;Antivirus;Scan;Zahlungssicherheit prüfen;Zahlungssicherheit;Sichere Bezahlung;Sichere Zahlungen;Zahlungsschutz;Zahlungen schützen;geschützte Zahlungen;Sichere Zone;Zahlungszone</string>
-    <string name="keywords_app_permissions">Berechtigungen;Standort;Zugriff auf Kontakte;Berechtigungen;App-Berechtigungen</string>
-    <string name="keywords_auto_restart">Autostart;Berechtigungen;Autostart;Autostart;Autostart verwalten;MIUI Autostart;App Autostart;Autostart Apps;Verketteter Start;Startverkettung;ausgelöster Start</string>
-    <string name="keywords_buy_flow">Daten;Mobile Daten;Daten kaufen;Mobile Daten kaufen;Daten aufladen;Datentarif</string>
-    <string name="keywords_cleanmaster">Müll;Löschen;Bereinigen;Geschwindigkeit;Speicher;Cache</string>
-    <string name="keywords_gamebooster">Game;Turbo;Speed Booster;Leistungsmodus;Nicht stören;Spiele;Spielen;Geschwindigkeit;boost</string>
-    <string name="keywords_monthreport">Bericht;Monatlicher Bericht;Jahresbericht;Sicherheitsbericht</string>
-    <string name="keywords_networkassistant_1">Daten;Verkehr</string>
-    <string name="keywords_networkassistant_2">Daten;Datentarif</string>
-    <string name="keywords_networkassistant_4">Verbindung;Internet;Test</string>
-    <string name="keywords_powercenter">Strom sparen;Überhitzen;Einschalten;Ausschalten;Akku;Drain;Batterie;Akkuprobleme;Strom;Entleerung;Erhitzung;Stromsparen</string>
-    <string name="keywords_powercenter_powerrank">Stromverbrauch</string>
-    <string name="keywords_securitycenter">Sicherheit;Physikalische Prüfung;Scannen</string>
-    <string name="keywords_securitycenter_settings">Akkuverbrauch;Autostart verwalten;Über USB installieren;App-Berechtigungen;Mobile Daten kaufen;Blockliste;Datennutzung;Datenverbrauch;Datentarif kalibrieren;Testnetzwerk;Akku sparen;Heizung;Einschalten;Ausschalten;Akku;Entleeren;Akkuprobleme;Strom;Akkusparen;Stromsparen;Stromsparmodus;Stromsparmodus;Akkusparmodus;Autostart;Berechtigungen;Autostart;Autostart;MIUI Autostart;App-Autostart;Autostart-Apps;Kettenstart;Start;Ausgelöster Start;USB-Installation;vom Computer installieren;ADB installieren;ADB-Installation;Ort;Kontaktezugriff;Daten;mobile Daten;Kaufdaten;Aufladedaten;Datentarif;Block;Schwarze Liste;Smart-Blockliste;Betrug;Verkäufe;Agenten;Anrufblockliste;Nachrichtenblockliste;Nachrichtenblockliste;SMS-Blockliste;Schwarze Liste;Blockliste;Blockliste;Betrug;Blockkontakt;Blockkontakte;Traffic;Kalibrieren;Verbindung;Internet;Test;Akkuverbrauch;Akku-Optimierung;Stromverbrauch;Spiel;Speed Booster;Ruhm des Königs;Performance-Modus;DND</string>
-    <string name="keywords_usb_install">USB installieren;vom Computer installieren;mit ADB installieren</string>
     <string name="label_callwait">Anrufbenachrichtigung</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="last_check_canceled">Letzte Suche wurde abgebrochen</string>
@@ -2870,14 +2853,14 @@ Sie verlieren keine App-Daten."</string>
     <string name="legal_workday_invalidate">Mo-Fr (Feiertagsinfo abgelaufen)</string>
     <string name="legal_workday_invalidate_message">Tippen, um die Feiertagsinfos zu aktualisieren</string>
     <string name="legal_workday_message">(Feiertage überspringen)</string>
-    <string name="leisure_usage_dialog_message">Ihr Datennutzungslimit wurde erreicht.\nIhr Mobilfunkanbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mobile Datenverbindung weiter verwenden.</string>
+    <string name="leisure_usage_dialog_message">Ihr Datennutzungslimit wurde erreicht.\nIhr Anbieter kann Ihnen zusätzliche Kosten berechnen, wenn Sie die mobile Datenverbindung weiter verwenden.</string>
     <string name="leisure_usage_dialog_title">Ihr Datennutzungslimit wurde erreicht, Datenverbindung ist ausgeschaltet</string>
     <string name="limit_speed_by_quota">Unbegrenzte Datennutzung. Die Geschwindigkeit wird reduziert, wenn das Limit überschritten wird.</string>
     <string name="list_empty_text">Leer</string>
     <string name="load_only_under_wlan">Nur über WLAN laden</string>
     <string name="loading">Einen Moment…</string>
     <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Daten enthalten %d/%d</string>
-    <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler an MIUI zu senden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät aus.</string>
+    <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler zu melden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät.</string>
     <string name="lock_all_title">Alle Apps sperren</string>
     <string name="lock_mode_title">Apps geschützt</string>
     <string name="lock_screen_business_hongbao_message">Von %1$s</string>
@@ -3114,8 +3097,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="midrop_post_notification_contentText">Probieren Sie Mi Drop. Es ist schnell und werbefrei.</string>
     <string name="midrop_post_notification_contentTitle">Sie müssen Dateien übertragen?</string>
     <string name="miui_blur_location">Ungefährer Standort</string>
-    <string name="miui_optimization_close_final_tip">MIUI-Optimierung ausschalten?</string>
-    <string name="miui_optimization_close_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Benutzer evtl. nicht geeignet. Abschalten der MIUI-Optimierung könnte die folgenden Änderungen mit sich bringen:</string>
+    <string name="miui_optimization_close_final_tip">Systemoptimierung ausschalten?</string>
+    <string name="miui_optimization_close_title">Diese Funktion ist für Entwickler gedacht und für allgemeine Benutzer evtl. nicht geeignet. Abschalten der Systemoptimierung könnte die folgenden Änderungen mit sich bringen:</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
@@ -3266,7 +3249,7 @@ Sie verlieren keine App-Daten."</string>
 1. Stellen Sie sicher, dass Sie Ihr Datenlimit nicht überschritten haben.
 2. Wenn Sie Ihr Guthaben gerade aufgeladen haben, starten Sie Ihr Telefon neu und versuchen es erneut.
 3. Die Signalstärke ist an Ihrem Standort evtl. zu schwach."</string>
-    <string name="network_operator_exception_summary">SIM-Karte wurde nicht aktiviert. Stellen Sie sicher, dass die SIM-Karte eingesteckt und Ihr Datentarif vom Mobilfunkanbieter freigeschaltet ist.</string>
+    <string name="network_operator_exception_summary">SIM-Karte wurde nicht aktiviert. Stellen Sie sicher, dass die SIM-Karte eingesteckt und Ihr Datentarif vom Anbieter freigeschaltet ist.</string>
     <string name="network_permission_exception_tips">Diese Funktion muss mobile Daten verwenden, um normal zu funktionieren.</string>
     <string name="network_roaming_exception_tips">Während des Roamings kann mobile Datenverbindung nicht zur Netzwerkverbindung verwendet werden</string>
     <string name="network_route_exception_detail">"Evtl. liegt der Fehler bei Ihrem Router:
@@ -3281,7 +3264,7 @@ Lesen Sie die Bedienungsanleitung Ihres Routers und setzen Sie den Router auf We
 <b>5. Stellen Sie sicher, dass der Router korrekt verbunden ist</b>
 Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
     <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
-1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Mobilfunkanbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
+1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Anbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 2. Wenn Sie zwei SIM-Karten verwenden, versuchen Sie es mit der anderen SIM-Karte und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 3. Stellen Sie sicher, das Ihre SIM-Karte und der zugehörige SIM-Slot nicht beschädigt sind. Prüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Slot eingesteckt ist."</string>
     <string name="network_speed_for_apps_close">Beenden erzwingen</string>
@@ -3291,7 +3274,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="network_speed_for_apps_title">Verbindung</string>
     <string name="network_speed_for_apps_total">Verbindungsgeschwindigkeit</string>
     <string name="network_test_speed">WLAN-Geschwindigkeit testen</string>
-    <string name="network_traffic_warning_text">MIUI kann hier keine Datennutzungsstatistik für einzelne System-Apps berechnen. Sie können die Datennutzungsinfos in den App-Details sehen, falls diese App mobile Daten aktiv nutzt.</string>
+    <string name="network_traffic_warning_text">Wir können hier keine Datennutzungsstatistik für einzelne System-Apps berechnen. Sie können die Datennutzungsinfos in den App-Details sehen, falls diese App mobile Daten aktiv nutzt.</string>
     <string name="network_traffic_warning_title">Datennutzung für System-Apps</string>
     <string name="networkchanged_exception_summary">Netzwerkverbindung wurde gewechselt. Erneut testen.</string>
     <string name="networkchanged_exception_title">Verbindung gewechselt</string>
@@ -3516,7 +3499,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="open_now">App erlauben, mobile Datenverbindung zu nutzen</string>
     <string name="open_right_now">Jetzt öffnen</string>
     <string name="open_wlan_title">App erlauben, WLAN ein- und auszuschalten</string>
-    <string name="operator_diagnostic">Mobilfunkanbieterdiagnose</string>
+    <string name="operator_diagnostic">Anbieterdiagnose</string>
     <string name="operator_location_settings">Anbieter und Standort einstellen</string>
     <string name="operator_location_settings_message">Ihr Anbieter und Ihr Standort konnten nicht erkannt werden. Sie können jetzt keine Warnungen für das Telefonguthaben und die Datennutzung einstellen.</string>
     <string name="operator_name_virtual_operator">Virtueller Betreiber</string>
@@ -3534,7 +3517,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="optimize_result_button_onekey_open">Einschalten</string>
     <string name="optimize_result_button_onekey_restore">Wiederherst.</string>
     <string name="optimize_result_button_open_now">Einschalten</string>
-    <string name="optimize_result_button_operators_diagnose">Mobilfunkanbieterdiagnose</string>
+    <string name="optimize_result_button_operators_diagnose">Anbieterdiagnose</string>
     <string name="optimize_result_button_purchase">Kaufen</string>
     <string name="optimize_result_button_purchase_flow">Alle anzeigen</string>
     <string name="optimize_result_button_realname_now">Verifizieren</string>
@@ -3542,7 +3525,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="optimize_result_button_update_now">Aktualisieren</string>
     <string name="optimize_result_header_view_summary">Mehr Geschwindigkeit</string>
     <string name="optimize_result_summary_sucurity_risk">Einige Sicherheitsfunktionen sind deaktiviert. Schalten Sie diese ein, um Ihr Gerät sicherer zu machen:</string>
-    <string name="optimize_result_summary_system_default_settings">Verwendung von MIUI-Apps erhöht Stabilität und Sicherheit Ihres Systems</string>
+    <string name="optimize_result_summary_system_default_settings">Verwendung von Standard-Apps erhöht Stabilität und Sicherheit Ihres Systems</string>
     <string name="optimize_result_title_sucurity_risk">Sicherheitsrisiken gefunden</string>
     <string name="optimize_result_title_system_default_settings">Standard-Systemeinstellungen wurden geändert</string>
     <string name="optimize_result_title_uninstall_apps">Apps deinstallieren</string>
@@ -3660,7 +3643,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_fast_charge_notifi_switch_title">Über Erhöhung benachrichtigen</string>
     <string name="pc_fast_charge_notifi_title">%d W-Laden</string>
     <string name="pc_fast_charge_notifi_title_on">Erhöhung der Ladegeschwindigkeit beenden</string>
-    <string name="pc_fast_charge_switch_summary">Einschalten, um den Ladevorgang zu beschleunigen. MIUI priorisiert die Ladegeschwindigkeit und gewährleistet gleichzeitig die Sicherheit Ihres Geräts. Je schwächer Ihr Akku ist, desto schneller wird er geladen. Diese Funktion kann Ihr Gerät erwärmen.</string>
+    <string name="pc_fast_charge_switch_summary">Einschalten, um den Ladevorgang zu beschleunigen. Diese Funktion priorisiert die Ladegeschwindigkeit und gewährleistet gleichzeitig die Sicherheit Ihres Geräts. Je schwächer Ihr Akku ist, desto schneller wird er geladen. Diese Funktion kann Ihr Gerät erwärmen.</string>
     <string name="pc_fast_charge_switch_summary_new">Erinnern, die Ladegeschwindigkeit zu erhöhen, wenn das mitgelieferte Ladegerät angeschlossen ist und der Akku unter den eingestellten Wert fällt</string>
     <string name="pc_fast_charge_switch_title">Ladegeschwindigkeit erhöhen</string>
     <string name="pc_fast_charge_switch_toast_message">Änderungen werden beim nächsten Laden des Geräts übernommen</string>
@@ -3820,7 +3803,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_dont_disturb">Diese Berechtigung erlaubt Apps, den DND-Modus ein- und auszuschalten.</string>
     <string name="permission_instruction_draw_overlay">Diese Berechtigung erlaubt Apps, Popups über jeder anderen Schnittstelle auf Ihrem Gerät anzuzeigen, was die normale Verwendung anderer Apps beeinträchtigen kann. Bösartige Apps können diese Berechtigung nutzen, um private Daten (z. B. Passwörter) durch transparente Popups zu lesen oder zu sammeln.</string>
     <string name="permission_instruction_external_storage">Diese Berechtigung erlaubt Apps den Zugriff auf Fotos, Medien und Dateien auf Ihrem Gerät. Seien Sie vorsichtig mit dieser Berechtigung, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
-    <string name="permission_instruction_gallery">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
+    <string name="permission_instruction_gallery">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, lässt das System Sie entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie zugreifen sollen, um Ihre Privatsphäre zu schützen. Da Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_get_accounts">Diese Berechtigung erlaubt Apps den Zugriff auf die Liste der auf Ihrem Gerät gespeicherten Konten. Diese Liste könnte alle Ihre persönlichen Konten enthalten, die durch installierte Apps erstellt wurden, sowie die Konten von Social Media-Plattformen und Kommunikationstools.</string>
     <string name="permission_instruction_get_identifier">Zugriff auf Gerätekennung</string>
     <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen am Startbildschirm zu erstellen.</string>
@@ -3859,8 +3842,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_send_sms">Diese Berechtigung erlaubt Apps, Textnachrichten zu versenden, was zusätzliche Kosten verursachen kann. Bösartige Apps können diese Berechtigung nutzen, um ohne Ihre Zustimmung kostenpflichtige Nachrichten zu versenden.</string>
     <string name="permission_instruction_shake">Mit dieser Berechtigung können Apps die Ausrichtung und Bewegung Ihres Geräts verfolgen (z. B. Schütteln, Kippen und Drehen)</string>
     <string name="permission_instruction_show_locked">Diese Berechtigung erlaubt Apps, Elemente auf Ihrem Sperrbildschirm anzuzeigen. Bösartige Apps können diese Berechtigung nutzen, um Ihnen lästige Werbung zu zeigen.</string>
-    <string name="permission_instruction_sociality">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, können Sie in MIUI entscheiden, ob diese Apps auch auf die in Social Media-Apps erzeugten Dateien zugreifen sollen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
-    <string name="permission_instruction_storage">Wenn Sie Apps erlauben, auf Dateien in ihren eigenen Ordnern zuzugreifen, können Sie in MIUI entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie und auf Dateien, die in Social Media-Apps erstellt wurden, zugreifen dürfen, um Ihre Privatsphäre zu schützen. Da die Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
+    <string name="permission_instruction_sociality">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, lässt das System Sie entscheiden, ob diese Apps auch auf die in Social Media-Apps erzeugten Dateien zugreifen sollen, um Ihre Privatsphäre zu schützen. Da Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
+    <string name="permission_instruction_storage">Wenn Sie Apps den Zugriff auf Dateien in ihren eigenen Ordnern erlauben, lässt das System Sie entscheiden, ob diese Apps auch auf die Elemente in Ihrer Galerie und auf Dateien, die in Social Media-Apps erstellt wurden, zugreifen sollen, um Ihre Privatsphäre zu schützen. Da Apps mit Android-API-Level 29 oder höher bereits Speicherpartitionen unterstützen, wird dieser Schalter für sie nicht bereitgestellt.</string>
     <string name="permission_instruction_touch_pay">Diese Berechtigung erlaubt Apps, kontaktlose Zahlungen durchzuführen.</string>
     <string name="permission_instruction_transfer_data_to_other_devices">Daten an andere Geräte übertragen</string>
     <string name="permission_instruction_use_sip">Diese Berechtigung erlaubt Apps die Verwendung von SIP-Videodiensten.</string>
@@ -4046,7 +4029,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_center_dialog_msg_bottom">Sie können die Akkulaufzeit um bis zu %1$d Std %2$d Min verlängern. Stromsparmodus einschalten?</string>
     <string name="power_center_dialog_msg_title">%1$s einschalten, um zusätzliche Zeit zu erhalten. Die folgenden Aktionen werden durchgeführt, um den Akku zu schonen:</string>
     <string name="power_center_dialog_msg_title_screen_on">Sie erhalten %1$s an Bildschirmzeit, wenn Sie diese Funktion einschalten. Hier sind die Maßnahmen, die den Akku schonen:</string>
-    <string name="power_center_dialog_msg_top">Wenn Stromsparen eingeschaltet ist, führt MIUI die folgenden Optimierungen durch:</string>
+    <string name="power_center_dialog_msg_top">Wenn Stromsparen eingeschaltet ist, werden folgende Optimierungen durchgeführt:</string>
     <string name="power_center_hints_scan_danger_result">Akkuprobleme jetzt beheben</string>
     <string name="power_center_list_item_auto_brightness">Bildschirmhelligkeit autom. anpassen</string>
     <string name="power_center_list_item_battery_status_time">Std</string>
@@ -4064,7 +4047,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_center_night_charge_noti_title">Optimiertes Laden ist an</string>
     <string name="power_center_night_charge_protection">Optimiertes Laden</string>
     <string name="power_center_night_charge_protection_setting">Weitere Optionen finden Sie unter Sicherheit &gt; Akku</string>
-    <string name="power_center_night_charge_protection_summary">Um die Akku-Alterung zu reduzieren, lernt MIUI aus Ihrer täglichen Laderoutine, um unnötiges Dauerladen zu reduzieren</string>
+    <string name="power_center_night_charge_protection_summary">Um die Akku-Alterung zu reduzieren, lernt Ihr Gerät aus Ihrer täglichen Laderoutine, um unnötiges Dauerladen zu reduzieren</string>
     <string name="power_center_one_key_save">Optimieren</string>
     <string name="power_center_ontime_boot">Einschalten planen</string>
     <string name="power_center_ontime_shutdown">Ausschalten planen</string>
@@ -4142,8 +4125,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_consume_rank_title">Stromverbrauch</string>
     <string name="power_customize_giveup_change">Änderungen verwerfen?</string>
     <string name="power_dailog_night_charge_protection_done">Verstanden</string>
-    <string name="power_dailog_night_charge_protection_summary">Anscheinend ist Ihr Akku die meiste Zeit voll geladen, was seine Alterung beschleunigen kann. MIUI hat das optimierte Laden für Sie aktiviert, um solche Probleme zu vermeiden.</string>
-    <string name="power_dailog_night_charge_protection_summary_new">Anscheinend halten Sie den Akku dieses Geräts oft voll geladen, was seine Alterung beschleunigen kann. Nächtlicher Ladeschutz wurde aktiviert, um die Ladedauer automatisch anzupassen und die Langlebigkeit des Akkus zu erhalten.</string>
+    <string name="power_dailog_night_charge_protection_summary">Anscheinend ist Ihr Akku die meiste Zeit voll geladen, was seine Alterung beschleunigen kann. Optimiertes Laden wurde jetzt eingeschaltet, um solche Probleme zu vermeiden.</string>
+    <string name="power_dailog_night_charge_protection_summary_new">Anscheinend halten Sie den Akku dieses Geräts oft voll geladen, was seine Alterung beschleunigen kann. Nächtlicher Ladeschutz wurde eingeschaltet, um die Ladedauer automatisch anzupassen und die Langlebigkeit des Akkus zu erhalten.</string>
     <string name="power_dialog_cancel">Abbrechen</string>
     <string name="power_dialog_performance_mode_checkbox">Auf %d Hz-Aktualisierungsrate umschalten</string>
     <string name="power_dialog_super_save_msg">"Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen ein und verringert die Leistung Ihres Geräts, um die Grundfunktionen (z. B. Anrufe, SMS und Verbindungen zum Netzwerk) so lange wie möglich verfügbar zu halten. Ultra-Stromsparen einschalten?"</string>
@@ -4309,7 +4292,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pp_app_permission_settings">App-Berechtigungen</string>
     <string name="pp_app_permission_settings_detail">Apps die Verwendung von datenschutzbezogenen Berechtigungen erlauben</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Zwischenablage schützen</string>
-    <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI wird entscheiden, ob Apps auf Ihre Zwischenablage zugreifen dürfen. Wenn dies der Fall ist, erhalten Sie eine Benachrichtigung.</string>
+    <string name="pp_app_reads_clipboard_smart_reminder_detail">Ihr Gerät wird entscheiden, ob Apps auf Ihre Zwischenablage zugreifen dürfen. Wenn dies der Fall ist, erhalten Sie eine Benachrichtigung.</string>
     <string name="pp_app_warning_permission_tips">Benachrichtigungen über App-Verhalten erhalten</string>
     <string name="pp_app_warning_permission_tips_detail">Benachrichtigungen erhalten, wenn Apps auf Ihren Standort zugreifen, Audio aufnehmen oder eine Kamera verwenden</string>
     <string name="pp_block_mac">Zugriff auf MAC-Adresse einschränken</string>
@@ -4334,7 +4317,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pp_interception_net_visit_content_manager">Schützen von Galerie- und Social Media-App-Dateien</string>
     <string name="pp_interception_net_visit_content_manager_detail">Auswählen, welche Apps auf die Galerie und die Dateien aus Ihren Social Media-Apps zugreifen dürfen</string>
     <string name="pp_lab_compact_blur_location">Apps, die auf den ungefähren Standort zugreifen</string>
-    <string name="pp_lab_compact_blur_location_summary">Wählen Sie \"Standard\", um die ungefähre Standortfunktion von Android zu verwenden, oder \"Alle\", um zu MIUI zu wechseln.</string>
+    <string name="pp_lab_compact_blur_location_summary">Wählen Sie \"Standard\", um die ungefähre Standortfunktion von Android zu verwenden, oder \"Alle\", um zusätzliche Systemressourcen zu nutzen, die alle Apps unterstützen."</string>
     <string name="pp_local_msg">Standortinfo</string>
     <string name="pp_manage_apps_location_information">Apps den Zugriff auf Ihren Standort erlauben</string>
     <string name="pp_manage_track">Tracker überwachen</string>
@@ -4352,7 +4335,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pp_privacy_lab_blur_location">Ungefährer Standort</string>
     <string name="pp_privacy_lab_blur_location_summary">Standortinfo entpersonalisieren, damit Apps den ungefähren Standort lesen dürfen</string>
     <string name="pp_privacy_lab_clipboard">Zwischenablage schützen</string>
-    <string name="pp_privacy_lab_clipboard_summary">MIUI erlauben zu entscheiden, ob eine App auf die Zwischenablage zugreifen darf und ob Benachrichtigungen empfangen werden dürfen, falls ja.</string>
+    <string name="pp_privacy_lab_clipboard_summary">Ihrem Gerät erlauben zu entscheiden, ob eine App auf die Zwischenablage zugreifen darf und ob Benachrichtigungen empfangen werden dürfen, falls ja.</string>
     <string name="pp_privacy_lab_operator_get_number">Genehmigung für den Zugriff auf die Rufnummer anfordern</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Apps verpflichten, Sie um Erlaubnis zu fragen, wenn sie zur Anmeldung auf Ihre Rufnummer zugreifen wollen</string>
     <string name="pp_privacy_lab_operator_introduction">Vorsicht</string>
@@ -4389,8 +4372,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pp_virtual_identity_summary">Eine virtuelle ID (OAID) kann anstelle Ihrer realen Kennung an Apps weitergegeben werden. Sie schützt Ihre Privatsphäre und erlaubt es Ihnen, zu kontrollieren, wie Apps Ihr Verhalten verfolgen.</string>
     <string name="precise_location_title">Genauer Standort</string>
     <string name="pref_about_traffic_title">Datennutzungseinstellungen</string>
-    <string name="pref_adjust_data_usage">Mobilfunkanbieter-Nachrichtenvorlage</string>
-    <string name="pref_adjust_data_usage_summary">Nach dem Ändern der Kalibrierungsvorlage verwendet MIUI diese, um die Datennutzungsstatistik von Ihrem Mobilfunkanbieter zu erhalten</string>
+    <string name="pref_adjust_data_usage">Anbieter-Nachrichtenvorlage</string>
+    <string name="pref_adjust_data_usage_summary">Nach Änderung der Kalibrierungsvorlage verwendet Xiaomi diese, um die Datennutzungsstatistik von Ihrem Anbieter zu erhalten</string>
     <string name="pref_adjust_data_usage_value">Geändert</string>
     <string name="pref_adjust_traffic_data">Datennutzung einstellen</string>
     <string name="pref_allow_connect_network_title">Datenroaming</string>
@@ -4432,8 +4415,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pref_more_settings">Weitere Einstellungen</string>
     <string name="pref_new_installed_preconfig_title">Standard für neue Apps</string>
     <string name="pref_normal_traffic_limit">Wenn das Datenvolumen aufgebraucht ist</string>
-    <string name="pref_open_adjust_traffic">Synchronisation der Datennutzungsstatistik mit dem Mobilfunkanbieter</string>
-    <string name="pref_operator_not_set">Kein Mobilfunkanbieter eingestellt</string>
+    <string name="pref_open_adjust_traffic">Synchronisation der Datennutzungsstatistik mit dem Anbieter</string>
+    <string name="pref_operator_not_set">Kein Anbieter eingestellt</string>
     <string name="pref_over_traffic_limit">Wenn Sie Ihr Datenvolumen überschreiten</string>
     <string name="pref_package_traffic_settings">Datentarif</string>
     <string name="pref_pkg_begin_date">Datum Nutzungsrücksetzung</string>
@@ -4442,7 +4425,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pref_roaming_setting_gategory">Einstellungen</string>
     <string name="pref_special_package_setting">Benutzerdef. Datenvolumen</string>
     <string name="pref_special_package_setting_summary">Verwalten Sie Datenlimit, Aufladepakete, tägliches Datenvolumen und bestimmte Daten</string>
-    <string name="pref_summary_upload_data_usage">Informieren Sie uns über Ihre Datennutzung, damit wir die MIUI Dienste verbessern können. Die Berichterstattung erfolgt gemäß unserer Datenschutzerklärung.</string>
+    <string name="pref_summary_upload_data_usage">Melden Sie uns Ihre Nutzungsdaten, damit wir unsere Produkte und Dienste verbessern können. Der Meldeprozess erfolgt in Übereinstimmung mit unserer Datenschutzerklärung.</string>
     <string name="pref_title_declaration">Wichtiger Hinweis</string>
     <string name="pref_title_diagnostics_show_float_notification">Popup-Benachrichtigungen</string>
     <string name="pref_title_manual_check_virus_db_update">Auf Updates prüfen</string>
@@ -4514,17 +4497,17 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_dialog_call_item_1">Zugriff auf Geräteinfos</string>
     <string name="privacy_dialog_call_item_2">Telefonieren</string>
     <string name="privacy_dialog_call_item_3">Zugriff auf Gerätestatus</string>
-    <string name="privacy_dialog_call_message">Standardmäßig erlaubt MIUI den Drittanbieter-Apps nicht, Folgendes zu tun:</string>
+    <string name="privacy_dialog_call_message">Standardmäßig erlaubt das System den Drittanbieter-Apps nicht, Folgendes zu tun:</string>
     <string name="privacy_dialog_call_result">Sie können weiterhin Drittanbieter-Apps und -Dienste normal nutzen. Sollten Sie dennoch auf Probleme stoßen, können Sie uns gerne eine Nachricht senden.</string>
     <string name="privacy_dialog_call_title">Anrufe schützen</string>
-    <string name="privacy_dialog_camera_message">Um Ihre Privatsphäre zu schützen, erlaubt MIUI Apps nicht, Ihre Kamera im Hintergrund zu verwenden.</string>
+    <string name="privacy_dialog_camera_message">Um Ihre Privatsphäre zu schützen, erlaubt das System Apps nicht, Ihre Kamera im Hintergrund zu verwenden.</string>
     <string name="privacy_dialog_camera_title">Kamera im Hintergrund einschränken</string>
     <string name="privacy_dialog_content_part1">Willkommen bei Sicherheit! Diese App prüft Ihr Gerät auf Müll und Viren und erlaubt Ihnen, Apps zu verwalten, die mobile Datennutzung zu kontrollieren, Anrufe und Nachrichten zu blockieren und vieles mehr.</string>
     <string name="privacy_dialog_content_part2"><Data>Sicherheit muss die notwendigen persönlichen Informationen sammeln, um Ihnen ihre Dienste anbieten und ihre Funktionen zu verbessern. Wie wir mit den gesammelten Informationen umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Datenschutzerklärung von Sicherheit jederzeit in den Einstellungen zurückziehen.</Data></string>
     <string name="privacy_dialog_content_part3"><Data>Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Sicherheit nutzen. Wenn Sie mit der Nutzung der vorgenannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.</Data></string>
-    <string name="privacy_dialog_danger_mission_message">Android hat mehrere risikoreiche Berechtigungen (z. B. die Erlaubnis, Ihnen Push-Benachrichtigungen zu senden). Um Ihre Privatsphäre zu schützen, wird MIUI Sie fragen, ob Sie ein solches Verhalten erlauben, und Ihnen Einschränkungsoptionen anbieten.</string>
+    <string name="privacy_dialog_danger_mission_message">Android hat mehrere risikoreiche Berechtigungen (z. B. die Erlaubnis, Ihnen Push-Benachrichtigungen zu senden). Um Ihre Privatsphäre zu schützen, wird das System Sie fragen, ob Sie ein solches Verhalten erlauben, und Ihnen Einschränkungsoptionen anbieten.</string>
     <string name="privacy_dialog_danger_mission_title">Berechtigungen mit hohem Risiko</string>
-    <string name="privacy_dialog_message">Bei einer Internetverbindung wird diese Nachricht zusammen mit der Mobilfunkanbieterinfo verschlüsselt und auf den Mi Server hochgeladen, um die Datennutzungsüberwachung zu verbessern.</string>
+    <string name="privacy_dialog_message">Bei einer Internetverbindung wird diese Nachricht zusammen mit der Anbieterinfo verschlüsselt und auf den Mi Server hochgeladen, um die Datennutzungsüberwachung zu verbessern.</string>
     <string name="privacy_dialog_negative_button_text">Verlassen</string>
     <string name="privacy_dialog_ok">Verstanden</string>
     <string name="privacy_dialog_ok_with_num">Verstanden (%ss)</string>
@@ -4575,7 +4558,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_look_all_permission_times">Alle Apps</string>
     <string name="privacy_look_privacy">Datenschutzerklärung</string>
     <string name="privacy_manage_title">Verwalten</string>
-    <string name="privacy_mask_summary">Anstelle Ihres realen Identifikators wird MIUI eine virtuelle ID (OAID) für Drittanbieter-Apps bereitstellen. Sie verhindert, dass Apps Ihr Verhalten und Ihre Präferenzen verfolgen können, und schützt Ihre Privatsphäre.</string>
+    <string name="privacy_mask_summary">Anstelle Ihres realen Identifikators wird das System eine virtuelle ID (OAID) für Drittanbieter-Apps bereitstellen. Sie verhindert, dass Apps Ihr Verhalten und Ihre Präferenzen verfolgen können, und schützt Ihre Privatsphäre.</string>
     <string name="privacy_mask_title">Virtuelle ID ist an</string>
     <string name="privacy_mode_dialog_title">Gastmodus</string>
     <string name="privacy_more_info_title">Mehr über Funktionen zum Datenschutz erfahren</string>
@@ -4607,7 +4590,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_pop_location">Standortzugriff heute</string>
     <string name="privacy_pop_record">Audioaufnahme heute</string>
     <string name="privacy_pop_storage">Speicherzugriff heute</string>
-    <string name="privacy_prompt_tc_sms_report_message">Ihre Rufnummer und Mobilfunkanbieterdetails werden verschlüsselt und auf den Mi Server hochgeladen, um Ihre Datennutzungsdetails zu aktualisieren.</string>
+    <string name="privacy_prompt_tc_sms_report_message">Ihre Rufnummer und Anbieterdetails werden verschlüsselt und auf den Mi Server hochgeladen, um Ihre Datennutzungsdetails zu aktualisieren.</string>
     <string name="privacy_prompt_upload">Hochladen</string>
     <string name="privacy_protect_summary">Ihre persönlichen Daten schützen</string>
     <string name="privacy_protect_title">Datenschutz</string>
@@ -4719,7 +4702,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_show_password_summary">Passwörter für kurze Zeit sichtbar machen</string>
     <string name="privacy_special_permission_summary">Überwachen, wie Apps sensible Berechtigungen verwenden</string>
     <string name="privacy_special_permission_title">Besondere Berechtigungen</string>
-    <string name="privacy_summary">Mehr über den Datenschutz in MIUI erfahren</string>
+    <string name="privacy_summary">Erfahren Sie mehr über Datenschutz</string>
     <string name="privacy_thumbnail_blur_category_financial">Finanzen</string>
     <string name="privacy_thumbnail_blur_category_other">Weitere</string>
     <string name="privacy_thumbnail_blur_category_photography">Foto &amp; Video</string>
@@ -4750,7 +4733,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="protect_screen_information">Ihr Bildschirm ist geschützt</string>
     <string name="protect_screen_information_detail">Sie können keinen Screenshot machen oder Ihren Bildschirm aufnehmen, während Sie tippen.</string>
     <string name="protocol_exception_title">Netzwerkprotokolldiagnose</string>
-    <string name="protocol_loop_back_exception_summary">Loop-Back-Test fehlgeschlagen. Um den Fehler an MIUI zu melden, öffnen Sie die Fehlerberichtapp und senden Sie den Bericht von Ihrem Gerät.</string>
+    <string name="protocol_loop_back_exception_summary">Loop-Back-Test fehlgeschlagen. Um dieses Problem zu melden, gehen Sie zur Feedback-App und senden Sie ein Protokoll Ihres Geräts.</string>
     <string name="provision_back">Zurück</string>
     <string name="provision_next">Weiter</string>
     <string name="provision_skip_underline">Überspringen</string>
@@ -4882,7 +4865,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="safe_result_item_info_system_antivirus">Schutz vor Phishing</string>
     <string name="safe_result_item_info_system_root">Root-Sicherheit</string>
     <string name="safe_result_item_info_system_scan">Zahlungsüberwachung ist eingeschaltet</string>
-    <string name="safe_result_item_info_system_version">MIUI ist aktuell</string>
+    <string name="safe_result_item_info_system_version">Das System ist aktuell</string>
     <string name="safepay_alert_dialog_button_continue">Fortsetzen</string>
     <string name="safepay_alert_dialog_button_fix">Mehr erfahren</string>
     <string name="safety">Sicherheit</string>
@@ -4978,7 +4961,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="settings_privacy_revoke_desc">Durch Schalter aus widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Sicherheit.</string>
     <string name="settings_privacy_revoke_title">Zustimmung widerrufen</string>
     <string name="settings_privacy_settings_title">Datenschutz</string>
-    <string name="settings_share_enable_summary">Elemente, die Sie auf WeChat teilen, erscheinen mit einer MIUI-Plakette</string>
+    <string name="settings_share_enable_summary">Elemente, die Sie auf WeChat teilen, erscheinen mit einer Plakette</string>
     <string name="settings_share_info">Hier sind die sicheren Freigabeoptionen, die für die von Galerie und Dateimanager freigegebenen Elemente verfügbar sind:</string>
     <string name="settings_show_detail">Details anzeigen</string>
     <string name="settings_tip">Gehen Sie zu Galerie > Einstellungen, um weitere Optionen anzuzeigen</string>
@@ -5159,7 +5142,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_background_risk_dialog_summary">, bitte beachten Sie die Warnungen für eventuell unsichere Zahlungen</string>
     <string name="sp_background_risk_dialog_summary_new">Das derzeitige Zahlungsumfeld könnte Sicherheitsrisiken bergen. Nehmen Sie sich etwas Zeit, um mehr zu erfahren.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem öffentlichen WLAN verbunden, das unsicher sein kann. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
-    <string name="sp_background_risk_dialog_title">Risiko von MIUI erkannt</string>
+    <string name="sp_background_risk_dialog_title">Risiko erkannt</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Meldung über öffentliches WLAN</string>
     <string name="sp_background_risk_type_messaging">Systemnachrichten-App hat sich geändert</string>
     <string name="sp_background_risk_type_root">System ist gerootet</string>
@@ -5182,7 +5165,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_lock_screen_password_summary">Bildschirmsperre einstellen</string>
     <string name="sp_lock_screen_password_title">Bildschirmsperre</string>
     <string name="sp_micare_summary">Persönliche Sicherheit</string>
-    <string name="sp_micare_title">MIUI-Warnzentrale</string>
+    <string name="sp_micare_title">Warnzentrale</string>
     <string name="sp_monitored_apps_count_zero">Bezahl-Apps sind nicht geschützt</string>
     <string name="sp_monitored_apps_list_title">Zahlungssicherheit</string>
     <string name="sp_more_security_settings">Zusätzliche Einstellungen</string>
@@ -5535,7 +5518,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="suggest_to_use_mi_sim">Mi SIM verwenden, um zu verhindern, dass Sie zusätzliche Anbieterkosten generieren.</string>
     <string name="summary_app_lock_disable">Schützen Sie Ihre Daten mit App-Sperren</string>
     <string name="summary_app_update_new">Apps aktualisieren, um auf neue Funktionen zuzugreifen</string>
-    <string name="summary_auto_update">MIUI wird die am besten geeignete Zeit wählen, um Updates herunterzuladen und zu installieren</string>
+    <string name="summary_auto_update">Diese Funktion wird die am besten geeignete Zeit wählen, um Updates herunterzuladen und zu installieren</string>
     <string name="summary_background_connection">Sie haben die Hintergrundverbindung für diese App eingeschränkt.</string>
     <string name="summary_block_calls_from_cantacts">Anrufe von Kontakten werden blockiert</string>
     <string name="summary_block_calls_from_strangers">Anrufe von Fremden werden blockiert</string>
@@ -5584,7 +5567,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="summary_miui_update">Update für %s verfügbar</string>
     <string name="summary_mms">Spam-SMS automatisch blockieren</string>
     <string name="summary_network_switch">Sicherheits-App den Internetzugriff erlauben</string>
-    <string name="summary_never_flow_verify">Diese Nummer wurde von Ihrem Mobilfunkanbieter nicht verifiziert</string>
+    <string name="summary_never_flow_verify">Diese Nummer wurde von Ihrem Anbieter nicht verifiziert</string>
     <string name="summary_open_flashligt">Lampe einschalten</string>
     <string name="summary_open_phone_check">Sicherheitsscan durchführen</string>
     <string name="summary_password_manager">Mit dem Passwortmanager können Sie Ihre Passwörter verschlüsseln und in der Cloud speichern</string>
@@ -5598,7 +5581,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="summary_result_screen_brightness_format">Bildschirmhelligkeit auf %s einstellen</string>
     <string name="summary_safe_mode">Risiken während der Installation neutralisieren</string>
     <string name="summary_show_notification">Cache löschen, Akkustatus anzeigen und Elemente in der Benachrichtigungsleiste blockieren</string>
-    <string name="summary_telecom_operator">Monatliche Datennutzung über Ihren Mobilfunkanbieter abfragen</string>
+    <string name="summary_telecom_operator">Monatliche Datennutzung über Ihren Anbieter abfragen</string>
     <string name="summary_usb">Verhindern, dass Malware über USB übertragen wird</string>
     <string name="summary_virus">Viren entfernen, damit Ihr Gerät sicher bleibt</string>
     <string name="summary_virus_cloudscan">Hochladen von App-Namen und Details und scannen mit Online-Virendefinitionen</string>
@@ -5732,52 +5715,13 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="task_summary_open_zen_mode">DND-Modus einschalten</string>
     <string name="task_title_charge">Laden</string>
     <string name="tc_cmd_invalid">Vorlage ist ungültig</string>
-    <string name="tc_diagnostic_all_error_notification_summary">Tippen, um ein Problem zu melden</string>
-    <string name="tc_diagnostic_all_error_notification_title">Diagnose kann nicht abgeschlossen werden</string>
-    <string name="tc_diagnostic_brand_error_notification_summary">Tippen, um Netzwerktyp festzulegen</string>
-    <string name="tc_diagnostic_brand_error_notification_title">Falscher Netzwerktyp</string>
-    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Mobilfunkanbietername&lt;br/>&lt;br/>Setze: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Aktueller Mobilfunkanbieter: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_complete">Fertig</string>
-    <string name="tc_diagnostic_fragment_default">"Über Diagnose
-1. Das Gerät stellt eine Verbindung zum Mobilfunkanbieter her, sendet eine kostenlose Nachricht und wartet auf die Antwort des Mobilfunkanbieters. Das kann bis zu 5 Minuten dauern.
-2. Sie können die Seite während der Diagnose verlassen, sie wird im Hintergrund ausgeführt."</string>
-    <string name="tc_diagnostic_location_error_notification_summary">Antippen, um Standort anzupassen</string>
-    <string name="tc_diagnostic_location_error_notification_title">Falscher Standort</string>
-    <string name="tc_diagnostic_notification_sumarry">Tippen, um Ergebnisse anzuzeigen</string>
-    <string name="tc_diagnostic_notification_summary">Anpassung 5-mal hintereinander fehlgeschlagen. Tippen, um Diagnose zu starten.</string>
-    <string name="tc_diagnostic_notification_title">Mobilfunkanbieterdiagnose</string>
-    <string name="tc_diagnostic_onekey_repair_botton">Beheben</string>
-    <string name="tc_diagnostic_operator_error_notification_summary">Tippen, um die Mobilfunkanbietereinstellungen zu ändern</string>
-    <string name="tc_diagnostic_operator_error_notification_title">Falscher Mobilfunkanbieter</string>
-    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Mobilfunkanbieter&lt;br/>&lt;br/>Setze Mobilfunkanbieter: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Aktueller Mobilfunkanbieter: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_and_continue">Beheben und fortfahren</string>
-    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Diagnose abgeschlossen, Standortprobleme behoben.&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Diagnose abgeschlossen, Standort- und Mobilfunkanbieterprobleme behoben.&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_success_toast">Erfolgreich geändert</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Ergebnis: Diagnose wurde nicht abgeschlossen.&lt;br/>&lt;br/>Diesen Fehler melden, um MIUI Diagnosetools zu verbessern.&lt;/font>"</string>
-    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Ergebnis: Falscher Standort&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Aktueller Standort: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_status_error_brand">Mobilfunkanbieter wurde nicht ermittelt</string>
-    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Fehler&lt;/font>"</string>
-    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Keine Netzwerkverbindung&lt;/font>"</string>
-    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Info nicht erhalten&lt;/font>"</string>
-    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Korrekt&lt;/font>"</string>
-    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Mobilfunkanbieter antwortet&lt;/font>"</string>
-    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Zeitüberschreitung&lt;/font>"</string>
-    <string name="tc_diagnostic_status_updating">Testen…</string>
-    <string name="tc_diagnostic_success_notification_summary">Dieses Problem melden, um MIUI Diagnosetools zu verbessern</string>
-    <string name="tc_diagnostic_success_notification_title">Mobilfunkanbieter korrekt</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Ergebnis: Mobilfunkanbieter korrekt eingestellt&lt;br/>&lt;br/>Anpassung nicht vollständig:&lt;br/>1. Am Monatsanfang oder -ende können die Netzwerkstatistiken eventuell nicht zuverlässig sein.&lt;br/>2. Funktionen der Sicherheits-App wurden nicht aktualisiert.&lt;br/>&lt;br/>Diesen Fehler melden, um die MIUI Diagnosetools zu verbessern.&lt;/font>"</string>
-    <string name="tc_diagnostic_title">Mobilfunkanbieterdiagnose</string>
-    <string name="tc_diagnostic_upload_button">Melden</string>
-    <string name="tc_diagnostic_upload_no_network">Vielen Dank für Ihr Feedback! Ihr Report wird gesendet, sobald eine Internetverbindung verfügbar ist.</string>
-    <string name="tc_diagnostic_upload_success">Vielen Dank für Ihr Feedback!</string>
     <string name="tc_get_cmd_error">Keine Vorlage erhalten</string>
     <string name="tc_parse_error">SMS wurde nicht analysiert</string>
     <string name="tc_receive_timeout">Zeitüberschreitung Kalibrierung</string>
     <string name="tc_send_sms_error">SMS wurde nicht gesendet</string>
     <string name="tc_sms_report_direction">SMS-Abfragecode</string>
     <string name="tc_sms_report_do_report">Senden</string>
-    <string name="tc_sms_report_get_default">Für SMS, die verwendet werden, um die Datennutzungsinfos von Ihrem Mobilfunkanbieter zu erhalten, entstehen Ihnen keine Kosten.</string>
+    <string name="tc_sms_report_get_default">Für SMS, die verwendet werden, um die Datennutzungsinfos von Ihrem Anbieter zu erhalten, entstehen Ihnen keine Kosten.</string>
     <string name="tc_sms_report_get_sms">SMS erhalten</string>
     <string name="tc_sms_report_get_sms2">SMS erhalten</string>
     <string name="tc_sms_report_get_sms_again">SMS aktualisieren</string>
@@ -5798,11 +5742,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Stellen Sie sicher, dass der eingegebene Code korrekt ist.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Datennutzungs-SMS anfordern fehlgeschlagen</string>
     <string name="tc_sms_report_receive_content">Inhalt Datennutzungsreport-SMS (Nutzungsbericht bestätigen)</string>
-    <string name="tc_sms_report_receive_content_null">Helfen Sie mit bei der Verbesserung dieser Funktion!&lt;br/>So geht\'s:&lt;br/>1. Gehen Sie auf \"SMS-Befehl prüfen\" und \"Empfängernummer\"&lt;br/>2. Wählen Sie \"SMS-Vorlage abrufen\"&lt;br/>3. Warten Sie auf die SMS Ihres Mobilfunkanbieters &lt;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
+    <string name="tc_sms_report_receive_content_null">Helfen Sie mit bei der Verbesserung dieser Funktion!&lt;br/>So geht\'s:&lt;br/>1. Gehen Sie auf \"SMS-Befehl prüfen\" und \"Empfängernummer\"&lt;br/>2. Wählen Sie \"SMS-Vorlage abrufen\"&lt;br/>3. Warten Sie auf die SMS Ihres Anbieters &lt;br/>4. Wählen Sie \"Zu MIUI hochladen\"</string>
     <string name="tc_sms_report_receive_num">Nummer des Empfängers</string>
-    <string name="tc_sms_report_send_num">Mobilfunkanbieternummer</string>
+    <string name="tc_sms_report_send_num">Anbieternummer</string>
     <string name="tc_sms_report_summary">Helfen Sie uns, diese Funktion zu verbessern, indem Sie uns einen fehlerhaften Datennutzungsreport oder Aktualisierungsfehler melden</string>
-    <string name="tc_sms_report_tips_dialog_message">Eine SMS wird an Ihren Mobilfunkanbieter geschickt, um die aktuellsten Datennutzungsinfos zu erhalten. Wenn Sie der Meinung sind, dass die Info nicht korrekt ist, senden Sie uns Ihr Feedback.</string>
+    <string name="tc_sms_report_tips_dialog_message">Eine SMS wird an Ihren Anbieter geschickt, um die aktuellsten Datennutzungsinfos zu erhalten. Wenn Sie der Meinung sind, dass die Info nicht korrekt ist, senden Sie uns Ihr Feedback.</string>
     <string name="tc_sms_report_tips_dialog_title">Datennutzungs-SMS</string>
     <string name="tc_sms_report_title">Datennutzungsfehler melden</string>
     <string name="tc_sms_report_toast_text">Details abrufen…</string>
@@ -5883,7 +5827,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="thermal_tips_message">Spielen im Leistungsmodus kann zu Überhitzungsproblemen führen</string>
     <string name="thermal_tips_title">Achtung</string>
     <string name="third_application">Installierte Apps</string>
-    <string name="third_desktop_dialog_content">Da Launcher-Apps von Drittanbietern zu Problemen wie Datenlecks, abnormem Akkuverbrauch und Verzögerungen usw. führen können, können nur von MIUI verifizierte Apps als Standard-Launcher eingestellt werden.</string>
+    <string name="third_desktop_dialog_content">Da Launcher-Apps von Drittanbietern zu Problemen wie Datenlecks, abnormem Akkuverbrauch und Verzögerungen usw. führen können, können nur verifizierte Apps als Standard-Launcher eingestellt werden.</string>
     <string name="third_desktop_dialog_ok">Verstanden</string>
     <string name="third_desktop_dialog_title">Fehler</string>
     <string name="three_percent_total_pkg">%s (3%% der monatlichen Daten)</string>
@@ -5964,7 +5908,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="title_limit_traffic_per_day">Tägliches Datenlimit</string>
     <string name="title_mifi_insurance">Erweiterte Garantie</string>
     <string name="title_miui_update">Update vorhanden</string>
-    <string name="title_miui_update_latest">MIUI ist aktuell</string>
+    <string name="title_miui_update_latest">Das System ist aktuell</string>
     <string name="title_mms_no">Nachrichtenfilter aus</string>
     <string name="title_mms_yes">Nachrichtenfilter an</string>
     <string name="title_more_setting">Weitere Einstellungen</string>
@@ -6049,7 +5993,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="traffic_alarm">Alarm einstellen</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Monatstarif geändert auf %s</string>
     <string name="traffic_alert_auto_modify_notification_titile">Datentarif aktualisiert</string>
-    <string name="traffic_alert_auto_modify_package_summary">Datenpakete automatisch anpassen, je nach Mobilfunkanbieterinfo</string>
+    <string name="traffic_alert_auto_modify_package_summary">Datenpakete automatisch anpassen, je nach Anbieterinfo</string>
     <string name="traffic_calculation">Die Datenübertragung wird pro Tag berechnet, z. B. 1 Yuan/1GB/Tag</string>
     <string name="traffic_config_alert_auto_modify">Datentarif automatisch aktualisieren</string>
     <string name="traffic_config_alert_body">Ihr Datentarif zeigt: %s.\nÜbernehmen?</string>
@@ -6063,8 +6007,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="traffic_config_alert_title">%s Korrektur</string>
     <string name="traffic_correction_failed">Info nicht verfügbar</string>
     <string name="traffic_correction_failed_tips">Datentarif wurde nicht geprüft. Stellen Sie sicher, dass die Anbietereinstellungen korrekt sind, oder stellen Sie Ihren Tarif manuell ein.</string>
-    <string name="traffic_correction_start_correction">Mit Mobilfunkanbieterserver verbinden…</string>
-    <string name="traffic_correction_start_correction_failed">Anforderung fehlgeschlagen. Bitte Mobilfunkanbietereinstellungen prüfen.</string>
+    <string name="traffic_correction_start_correction">Mit Anbieterserver verbinden…</string>
+    <string name="traffic_correction_start_correction_failed">Anforderung fehlgeschlagen. Bitte Anbietereinstellungen prüfen.</string>
     <string name="traffic_correction_success">Datennutzung aktualisiert</string>
     <string name="traffic_correction_success_notify_message">Details anzeigen</string>
     <string name="traffic_limit_error_alert_body">Ihr verbliebenes Datenvolumen für diesen Monat (%1$s) ist höher als Ihr Monatstarif (%2$s). Monatstarif ändern?</string>
@@ -6086,23 +6030,23 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="traffic_setting_fragment_daily_summary">Mobile Daten werden täglich aktualisiert</string>
     <string name="traffic_setting_fragment_daily_title">Täglicher Datentarif</string>
     <string name="traffic_setting_fragment_default">Auswählen</string>
-    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;u>Nicht sicher über den Mobilfunkanbieter?&lt;/u>&lt;/font>"</string>
+    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;u>Nicht sicher über den Anbieter?&lt;/u>&lt;/font>"</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Nicht mehr anzeigen</string>
     <string name="traffic_setting_fragment_month_summary">Mobile Daten und Gesprächsverlauf werden monatlich aktualisiert</string>
     <string name="traffic_setting_fragment_month_title">Monatlicher Datentarif</string>
     <string name="traffic_setting_fragment_next">Weiter</string>
     <string name="traffic_setting_fragment_not_limited_summary">Unbegrenzte mobile Datenoptionen</string>
     <string name="traffic_setting_fragment_not_limited_title">Unbegrenzter Datentarif</string>
-    <string name="traffic_setting_fragment_operator">Mobilfunkanbieter</string>
-    <string name="traffic_setting_fragment_operator_setting">Mobilfunkanbietereinstellungen</string>
+    <string name="traffic_setting_fragment_operator">Anbieter</string>
+    <string name="traffic_setting_fragment_operator_setting">Anbietereinstellungen</string>
     <string name="traffic_setting_fragment_packege_type">Datentarifeinstellungen</string>
     <string name="traffic_setting_fragment_province">Provinz</string>
-    <string name="traffic_setting_fragment_send_num">Nummer des Mobilfunkanbieters</string>
+    <string name="traffic_setting_fragment_send_num">Nummer des Anbieters</string>
     <string name="traffic_setting_fragment_send_num_tips">Rufnummer eingeben</string>
     <string name="traffic_setting_fragment_sms_content">Nachrichteninhalt</string>
     <string name="traffic_setting_fragment_sms_content_tips">Tippen Sie hier Ihre Nachricht ein</string>
     <string name="traffic_setting_fragment_title">Datennutzungsabfrage</string>
-    <string name="traffic_setting_fragment_title_guide">Mobilfunkanbieter und Datentarife</string>
+    <string name="traffic_setting_fragment_title_guide">Anbieter und Datentarife</string>
     <string name="traffic_to_limit_warning">Sie haben %s Ihres Datenlimits verbraucht</string>
     <string name="traffic_usage_warning_body">Sie haben diesen Monat bereits %s der mobilen Daten genutzt.</string>
     <string name="traffic_usage_warning_body_go_to_mi_sim">Sie haben diesen Monat bereits %s an mobilen Daten verbraucht. Tippen, um Mi SIM zu verwenden.</string>
@@ -6316,7 +6260,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="warningcenter_action_check">Anzeigen</string>
     <string name="warningcenter_alert_home">Standort</string>
     <string name="warningcenter_alert_room">Raum</string>
-    <string name="warningcenter_alert_source">MIUI-Warnzentrale | Datenquelle: %s</string>
+    <string name="warningcenter_alert_source">Warnzentrale | Datenquelle: %s</string>
     <string name="warningcenter_alert_time">Zeit</string>
     <string name="warningcenter_alert_warning_time">Empfangszeit: %s</string>
     <string name="warningcenter_disaster_all">Alle Warnungen</string>
@@ -6403,7 +6347,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="warningcenter_policeassist_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="warningcenter_policeassist_title">Notfallstandort</string>
     <string name="warningcenter_smarthome">Mi Home</string>
-    <string name="warningcenter_title">MIUI-Warnzentrale</string>
+    <string name="warningcenter_title">Warnzentrale</string>
     <string name="website">Webseite</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>

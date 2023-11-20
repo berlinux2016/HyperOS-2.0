@@ -7,7 +7,6 @@
     <string name="barcode_install_back">Zurück</string>
     <string name="barcode_install_cancel">Abbrechen</string>
     <string name="barcode_install_confirm">Installieren</string>
-    <string name="barcode_system_unmatch">Aktualisieren Sie MIUI vor der Scannerinstallation</string>
     <string name="barcode_to_install">Scanner installieren, um fortzusetzen</string>
     <string name="barcode_uninstalled">Scanner nicht installiert</string>
     <string name="choose_search_engine">Standardsuchmaschine auswählen</string>
@@ -102,7 +101,6 @@
     <string name="update_check">Auf Updates prüfen</string>
     <string name="update_right_now">Aktualisieren</string>
     <string name="update_title">Update verfügbar</string>
-    <string name="updated_title">MIUI ist auf dem neuesten Stand</string>
     <string name="voice_search_hint_title">Sprechen:</string>
     <string name="web_search_results">Websuchergebnisse</string>
     <string name="xiaomi_search_label">Ergebnisse</string>

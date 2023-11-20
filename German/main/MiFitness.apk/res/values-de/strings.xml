@@ -1284,7 +1284,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="face_save_fail_same_photo">Dieses Foto wurde bereits hinzugefügt</string>
     <string name="face_save_use">Anwenden</string>
     <string name="face_screen_off">Always-On-Display</string>
-    <string name="face_screen_off_tips">Um das \"Always-On-Display\" auf deinem tragbaren Gerät zu verwenden, gehe zu Einstellungen > Bildschirm und Always-On-Display einschalten.</string>
+    <string name="face_screen_off_tips">Um das \"Always-On-Display\" auf dem tragbaren Gerät zu verwenden, gehen Sie zu Einstellungen > Bildschirm und Always-On-Display einschalten.</string>
     <string name="face_select_del">Siehaben noch keine Elemente ausgewählt</string>
     <string name="face_size">Größe: %1$.2f MB</string>
     <string name="face_size_author">Größe: %1$.2f MB | Autor: %2$s</string>
@@ -1910,7 +1910,7 @@ Bitte beachten Sie, dass die Daten zum hohen Puls weder für medizinische Zwecke
 Wenn Sie Ihre Kopfhörer verwenden, misst die App Ihre Kopfhörerbelastung. Geräusche über 60 Dezibel gelten als laut, und über 80 Dezibel gelten sie als sehr laut. Hohe Lautstärken können zu vorübergehendem oder sogar dauerhaftem Hörverlust führen.
 Um Ihr Gehör bei lauten Aktivitäten zu schützen, sollten Sie Ohrstöpsel tragen, Kopfhörer mit Geräuschunterdrückung verwenden oder sich von lauten Geräuschen fernhalten."</string>
     <string name="health_home_data_sync_toast">Daten konnten nicht synchronisiert werden</string>
-    <string name="health_home_net_connect_toast">Überprüfe deine Netzwerkeinstellungen und versuche es erneut</string>
+    <string name="health_home_net_connect_toast">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="health_hrm_abnormal_high">Hohe Puls</string>
     <string name="health_hrm_abnormal_low">Niedriger Puls</string>
     <string name="health_hrm_add">Daten hinzufügen</string>
@@ -1928,10 +1928,10 @@ Bitte beachten Sie, dass die Daten zum niedrigen Puls weder für medizinische Zw
     <string name="health_hrm_understand_abnormal_low_title">Mehr erfahren</string>
     <string name="health_keep_sporting">Fortsetzen</string>
     <string name="health_light_sleep_percentage">Leichtschlaf</string>
-    <string name="health_login_no_desc">Melde dich an, um dein Gerät zu synchronisieren</string>
+    <string name="health_login_no_desc">Melden Sie sich an, um Ihr Gerät zu synchronisieren</string>
     <string name="health_login_no_title">Anmelden</string>
     <string name="health_login_part_desc">Alle Angaben helfen, die Genauigkeit der Trainingsdaten zu verbessern.</string>
-    <string name="health_login_part_title">Vervollständige dein Profil</string>
+    <string name="health_login_part_title">Vervollständigen Sie Ihr Profil</string>
     <string name="health_main_health_status">Mein Gesundheitsprogramm</string>
     <string name="health_main_mine_personal_info">Mein Profil</string>
     <string name="health_main_tab_health_name">Gesundheit</string>

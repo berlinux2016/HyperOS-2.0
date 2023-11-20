@@ -1811,7 +1811,7 @@
     <string name="whitelist_add_failed">Dateien hinzufügen nicht möglich</string>
     <string name="whitelist_desc_1">Wenn Mi Music die gesuchten Titel nicht auf dem Gerät findet, können Sie sie manuell hinzufügen.</string>
     <string name="whitelist_desc_2">Diese Dateien werden auch dann angezeigt, wenn die Dateigröße und die Titellänge nicht übereinstimmen oder sie sich in versteckten Ordnern befinden.</string>
-    <string name="whitelist_dialog_content">Gelöschte Dateien erscheinen nicht mehr in den Ausnahmen von Mi Music, werden aber nicht von deinem Gerät gelöscht. Jetzt löschen?</string>
+    <string name="whitelist_dialog_content">Gelöschte Dateien erscheinen nicht mehr in den Ausnahmen von Mi Music, werden aber nicht von Ihrem Gerät gelöscht. Jetzt löschen?</string>
     <string name="whitelist_dialog_title">Dateien löschen?</string>
     <string name="whitelist_entrance_desc">Manuell Dateien hinzufügen, die Mi Music nicht automatisch findet</string>
     <string name="whitelist_entrance_text_1">"Titel nicht gefunden? "</string>

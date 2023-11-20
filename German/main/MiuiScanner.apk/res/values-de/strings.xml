@@ -440,7 +440,7 @@
     <string name="monday_short">Mo</string>
     <string name="monday_shortest">M</string>
     <string name="monitor_low_android">ANDROID-Version zu niedrig</string>
-    <string name="monitor_low_miui">MIUI-Version zu niedrig</string>
+    <string name="monitor_low_miui">OS-Version zu niedrig</string>
     <string name="monitor_unsupport_device">Gerät wird derzeit nicht unterstützt</string>
     <string name="month_april_shortest">A</string>
     <string name="month_august_shortest">A</string>

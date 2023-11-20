@@ -39,7 +39,7 @@
     <string name="abc_slices_permission_request">%1$s möchte %2$s Teile anzeigen</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="about_ad_service_instructions">Über Werbedienste und Datenschutz</string>
-    <string name="about_ad_service_instructions_for_global">Über Werbedienste und Datenschutz in MIUI-System-Apps</string>
+    <string name="about_ad_service_instructions_for_global">Über Werbedienste und Datenschutz in System-Apps</string>
     <string name="about_phone_device_name_warning">Ihr Gerätename ist für Apps auf Ihrem Telefon sichtbar. Er kann auch von anderen Personen gesehen werden, wenn Sie sich mit Bluetooth-Geräten verbinden oder einen WLAN-Hotspot einrichten.</string>
     <string name="about_phone_enter_xiaomi_net">Mehr erfahren</string>
     <string name="about_settings">Über das Telefon</string>
@@ -678,7 +678,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="allow_mock_modem">Scheinmodem zulassen</string>
     <string name="allow_mock_modem_summary">Diesem Gerät die Ausführung des Scheinmodem-Dienstes zum Testen von Geräten erlauben. Aktivieren Sie dies nicht während der normalen Nutzung des Telefons.</string>
     <string name="allow_oaid_used">Virtuelle ID verwenden</string>
-    <string name="allow_oaid_used_desc">MIUI stellt installierten Apps keine virtuelle ID (OAID) zur Verfügung. Einige Funktionen für persönliche Empfehlungen könnten deshalb nicht richtig funktionieren.</string>
+    <string name="allow_oaid_used_desc">Das System stellt installierten Apps keine virtuelle ID (OAID) zur Verfügung. Einige Funktionen für persönliche Empfehlungen könnten deshalb nicht richtig funktionieren.</string>
     <string name="allow_ongoing_title">Dauerhafte Benachrichtigungen zulassen</string>
     <string name="allow_overlay_description">Diese Berechtigung erlaubt es einer App, über anderen Apps angezeigt zu werden und kann die Bedienung und Anzeige anderer Apps beeinträchtigen</string>
     <string name="allow_sound">Ton erlauben</string>
@@ -1374,7 +1374,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="biometric_settings_category_use_face_fingerprint">Gesicht oder Fingerabdruck verwenden, um</string>
     <string name="biometric_settings_category_ways_to_unlock">Arten der Entsperrung</string>
     <string name="biometric_settings_category_ways_to_use">Gesicht und Fingerabdruck verwenden für</string>
-    <string name="biometric_settings_hand_back_to_guardian">Telefon an deine Eltern zurückgeben</string>
+    <string name="biometric_settings_hand_back_to_guardian">Telefon an die Eltern zurückgeben</string>
     <string name="biometric_settings_intro">Wenn Sie die Gesichts- und Fingerabdrucksperre einrichten, fragt Ihr Telefon nach Ihrem Fingerabdruck, wenn Sie eine Maske tragen oder sich in einem dunklen Bereich befinden.</string>
     <string name="biometric_settings_intro_with_activeunlock">Wenn Sie Gesichtsentsperrung und Fingerabdrucksperre einrichten, fragt Ihr Telefon nach Ihrem Fingerabdruck, wenn Sie eine Maske tragen oder sich in einem dunklen Bereich befinden. \n\nSie können mit Ihrer Uhr entsperren, wenn Ihr Gesicht oder Ihr Fingerabdruck nicht erkannt wird.</string>
     <string name="biometric_settings_intro_with_face">Sie können mit Ihrer Uhr entsperren, wenn Ihr Gesicht nicht erkannt wird.</string>
@@ -1940,7 +1940,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bt_audio_share_switch_title">Audio teilen</string>
     <string name="bt_audiorepair_dialog_open_success">Erfolgreich behoben. Warten, bis sich das Gerät wieder verbindet.</string>
     <string name="bt_audiorepair_dialog_openok">Beheben</string>
-    <string name="bt_audiorepair_open_dialog_summary">MIUI erkennt und behebt die Probleme, die das Bluetooth-Audio-Stottern verursachen. Während dieses Vorgangs wird Bluetooth neu gestartet. Diese Seite nicht verlassen, bis Sie die Ergebnisse sehen.</string>
+    <string name="bt_audiorepair_open_dialog_summary">Das System erkennt und behebt die Probleme, die das Bluetooth-Audio-Stottern verursachen. Während dieses Vorgangs wird Bluetooth neu gestartet. Bleiben Sie auf dieser Seite, bis Sie die Ergebnisse sehen.</string>
     <string name="bt_audiorepair_open_dialog_title">Audio-Stottern beheben</string>
     <string name="bt_audiorepair_pre_title">Audio-Stottern beheben</string>
     <string name="bt_audiorepair_summary">Audio-Stottern bei verbundenen Bluetooth-Geräten beheben</string>
@@ -2293,8 +2293,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="close_gesture">Mit Geste schließen</string>
     <string name="close_hotspot_hint">Tragbaren Hotspot vor der Übertragung ausschalten</string>
     <string name="close_lid_display_settings_title">Nach dem Falten</string>
-    <string name="close_miui_optimization_title">MIUI Optimierung abschalten</string>
-    <string name="close_optimization_message">Textlayout, Konten und andere Teile von MIUI können nach dem Ausschalten dieser Funktion betroffen sein.</string>
+    <string name="close_miui_optimization_title">Systemoptimierung abschalten</string>
+    <string name="close_optimization_message">Textlayout, Konten und andere Teile des Systems können nach dem Ausschalten dieser Funktion betroffen sein.</string>
     <string name="close_optimization_option">Ausschalten</string>
     <string name="close_privacy_thumbnail_blur_title">Vorschau wird nicht verwischt</string>
     <string name="close_sdcard_optimization_title">Optimierung SD-Karte ausschalten</string>
@@ -3057,16 +3057,16 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="device_internal_memory">Interner Speicher</string>
     <string name="device_mall_card_title">Verfügbare Leistungen prüfen</string>
     <string name="device_miui_more">Mehr anzeigen</string>
-    <string name="device_miui_version">MIUI-Version</string>
-    <string name="device_miui_version_for_POCO">MIUI Version (Für POCO)</string>
-    <string name="device_miui_version_parameters">MIUI-Version</string>
+    <string name="device_miui_version">OS-Version</string>
+    <string name="device_miui_version_for_POCO">OS-Version (Für POCO)</string>
+    <string name="device_miui_version_parameters">OS-Version</string>
     <string name="device_name">Gerätename</string>
     <string name="device_name_input_error">Gerätename wurde nicht gespeichert</string>
     <string name="device_name_input_hint">Name eingeben</string>
     <string name="device_name_input_overlength">Wortgrenze überschritten</string>
     <string name="device_name_usage_point">Dieser Name wird bei Bluetooth-Verbindungen, Tethering usw. angezeigt</string>
     <string name="device_oaid">Virtuelle ID verwalten</string>
-    <string name="device_oaid_desc">Anstelle Ihrer eindeutigen ID gibt MIUI den installierten Apps eine virtuelle ID (OAID). Sie verhindert, dass Apps Ihr Verhalten und Ihre Präferenzen verfolgen können, und schützt Ihre Privatsphäre.</string>
+    <string name="device_oaid_desc">Anstelle Ihrer eindeutigen ID gibt das System den installierten Apps eine virtuelle ID (OAID). Sie verhindert, dass Apps Ihr Verhalten und Ihre Präferenzen verfolgen können, und schützt Ihre Privatsphäre.</string>
     <string name="device_oaid_title">Virtuelle ID</string>
     <string name="device_opcust_version">Betreiberversion</string>
     <string name="device_picker">Bluetooth-Geräteauswahl</string>
@@ -3096,7 +3096,6 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="dialog_chose_item">Wählen Sie ein Element aus, das angezeigt werden soll</string>
     <string name="dialog_content_login">Für das Update mit Ihrem Xiaomi-Konto anmelden?</string>
     <string name="dialog_esim_button_negative">Abbrechen</string>
-    <string name="dialog_msg_auto_start_declare">Einige Apps können irrtümlich anzeigen, dass MIUI sie am Start gehindert hat. Prüfen Sie die erteilten Berechtigungen einzelner Apps unter Einstellungen &gt; Apps.</string>
     <string name="dialog_network_priority_title">Priorität</string>
     <string name="dialog_no">Nein</string>
     <string name="dialog_restrict_all_mobile_summary">%s mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
@@ -3286,7 +3285,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="double_twist_for_camera_mode_title">Kamera wechseln</string>
     <string name="doublepress_summary">Wiedergabe abspielen und anhalten</string>
     <string name="doublepress_title">Doppeldruckbewegung durchführen</string>
-    <string name="download_current_rom">Aktuellste Version von MIUI erhalten</string>
+    <string name="download_current_rom">Aktuellste OS-Version erhalten</string>
     <string name="downloading_description">Herunterladen…</string>
     <string name="doze_always_on_summary">Diese Funktion erhöht den Stromverbrauch des Systems. Sie wird ausgeschaltet, wenn Ihr Gerät längere Zeit dunkel bleibt oder wenn Einschränkungen für den Stromsparmodus gelten.</string>
     <string name="doze_always_on_title">Immer an</string>
@@ -5986,8 +5985,6 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_virtual_surround_summary">Verbessert die Klangtiefe bei Audio- und Videowiedergabe über Kopfhörer. Diese Funktion funktioniert nicht, wenn %s-Kanal-Audio wiedergegeben wird.</string>
     <string name="miheadset_voiceIncrease">Stimme verbessern</string>
     <string name="miheadset_voice_control_summary">Wenn diese Funktion an ist, können Sie Mi KI anweisen, Ihr Gerät per Sprachbefehl zu navigieren oder die Audiowiedergabe zu steuern</string>
-    <string name="miliao_account_guide">Melden Sie sich mit Ihrem Xiaomi-Konto von überall bei Xiaomi Cloud, MIUI Theme Store und anderen Mi Diensten an.</string>
-    <string name="miliao_account_login">Mit Mi Talk anmelden</string>
     <string name="mishow_disable_password_setting">Passwörter können im Demo-Modus nicht festgelegt werden</string>
     <string name="miui_accessibility_asr_summary">Audio umwandeln und Text speichern</string>
     <string name="miui_allow_alarm">Wecker</string>
@@ -5999,7 +5996,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
     <string name="miui_device_control_description">Apps anzeigen, die Gerätesteuerung unterstützen, um kompatible Smart Home-Geräte steuern zu können</string>
     <string name="miui_enable_service_title">Dienst führt folgende Aktionen durch:</string>
-    <string name="miui_experience_optimization">MIUI-Optimierung einschalten</string>
+    <string name="miui_experience_optimization">Systemoptimierung einschalten</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Abbrechen</string>
     <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">Für beste Ergebnisse bei der Verwendung von Gesichtsentsperrung, erlauben Sie Ihrem Gerät nicht, die Bildschirmhelligkeit automatisch anzupassen</string>
     <string name="miui_face_data_input_dialog_title_for_sensor_light_virtual">Gesichtsentsperrung</string>
@@ -6027,7 +6024,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_lab_feature_applied">Angewendet</string>
     <string name="miui_lab_feature_off">Aus</string>
     <string name="miui_lab_feature_on">An</string>
-    <string name="miui_lab_features">MIUI Lab-Funktionen</string>
+    <string name="miui_lab_features">Lab-Funktionen</string>
     <string name="miui_lab_gallery_search_desc">Verbesserte Bildsuche</string>
     <string name="miui_lab_gallery_search_title">Fotos in der Galerie finden</string>
     <string name="miui_lab_gesture_desc">Physische Tasten deaktivieren und Gesten im Vollbildmodus genießen</string>
@@ -6036,7 +6033,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_lab_install_drive_mode_error">Wurde nicht installiert, erneut versuchen.</string>
     <string name="miui_lab_install_drive_mode_summary">Automodus ist eine System-App. Installation erfordert keine Internetverbindung.</string>
     <string name="miui_lab_install_drive_mode_title">Automodus installieren</string>
-    <string name="miui_lab_settings">MIUI Lab</string>
+    <string name="miui_lab_settings">Lab</string>
     <string name="miui_lab_slogan">Lernen. Erkunden. Entdecken.</string>
     <string name="miui_lab_super_resolution_desc">Bilder schärfer machen</string>
     <string name="miui_lab_super_resolution_title">Superauflösung</string>
@@ -6048,7 +6045,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_nfc_dialog_positive">Abbrechen</string>
     <string name="miui_nfc_dialog_title">NFC ausschalten</string>
     <string name="miui_nfc_mi_pay_summary">Mi Pay, Fahrkarten, Schlüsselkarten</string>
-    <string name="miui_optimization_disabled">MIUI-Optimierung ausschalten</string>
+    <string name="miui_optimization_disabled">Systemoptimierung ausschalten</string>
     <string name="miui_sos_around_photo_summary">%d Fotos der Front- und Rückkamera an die Textnachricht anhängen, die an Ihre Notfallkontakte gesendet wird</string>
     <string name="miui_sos_around_photo_title">Fotos anhängen</string>
     <string name="miui_sos_around_voice_summary">%d-Sek-Audioaufnahme an die Textnachricht anhängen, die an Ihre Notfallkontakte gesendet wird</string>
@@ -6716,9 +6713,9 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="no_services">Keine aktiven Dienste</string>
     <string name="no_suggested_app">Keine App-Vorschläge</string>
     <string name="no_trust_agents">Keine verfügbaren vertrauenswürdigen Geräte</string>
-    <string name="no_update_found">Neueste MIUI-Version ist bereits installiert</string>
-    <string name="no_updates_found">Neueste MIUI-Version ist bereits installiert</string>
-    <string name="no_updates_warning">Für Ihr Telefon wurden keine Updates gefunden</string>
+    <string name="no_update_found">Jetzige Version ist aktuell.</string>
+    <string name="no_updates_found">Keine Updates verfügbar. Jetzige Version ist aktuell.</string>
+    <string name="no_updates_warning">Zurzeit sind keine Updates verfügbar</string>
     <string name="no_updates_warning2">Wir informieren Sie, wenn ein Update verfügbar ist</string>
     <string name="no_vr_listeners">Keine installierten Apps wurden angefordert, um als VR Hilfeservice ausgeführt zu werden</string>
     <string name="noise_suppression">Rauschunterdrückung</string>
@@ -7002,7 +6999,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="open_demo_mode_warning_message">Nach dem Einschalten zeigt die Statusleiste immer eine feste Zeit, ein vollständiges Signal- und Batteriesymbol an. Sie können diesen Modus verlassen, indem Sie ihn ausschalten oder das Telefon neu starten</string>
     <string name="open_game_accelerate">Game Turbo einschalten</string>
     <string name="open_haptic_feedback">Haptisches Feedback</string>
-    <string name="open_miui_optimization_title">MIUI-Optimierung einschalten</string>
+    <string name="open_miui_optimization_title">Systemoptimierung einschalten</string>
     <string name="open_optimization_message">Aktivieren Sie die Optimierung, um eine reibungslosere, schnellere Benutzeroberfläche zu erhalten.</string>
     <string name="open_optimization_option">Einschalten</string>
     <string name="open_privacy_thumbnail_blur_title">Vorschau wird bei ausgewählten Apps verwischt</string>
@@ -7053,32 +7050,9 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="owner_info_settings_summary">Keine</string>
     <string name="owner_info_settings_title">Info zum Eigentümer</string>
     <string name="owner_space">Hauptprofil</string>
-    <string name="p2p_summary_enable_GPS">Diese Funktion funktioniert, wenn die Standortdienste eingeschaltet sind</string>
     <string name="packages_subtitle">Enthaltene Pakete</string>
     <string name="pad_add_fingerprint_finish_message">Fortfahren, um auf weitere Einstellungen zuzugreifen</string>
     <string name="pad_add_fingerprint_message">Legen Sie Ihren Finger auf die Power-Taste</string>
-    <string name="pad_backup_summary">Sichern und Wiederherstellen von Elementen auf diesem Gerät</string>
-    <string name="pad_backup_title">Mobilgerät</string>
-    <string name="pad_computer_backup_summary">Sichern und Wiederherstellen von Elementen mit einem Computer</string>
-    <string name="pad_flash_drive_backup_enable">USB-Laufwerk zum Sichern oder Wiederherstellen von Elementen verwenden</string>
-    <string name="pad_how_backup_content">"Sie können Sicherungen lokal oder in der Cloud speichern. Lokale Sicherungen können auf Ihrem Mobilgerät, Computer oder USB-Laufwerk gespeichert werden.
-\nMobilgerät
-Systemeinstellungen, Konten, App-Daten und andere Elemente in einer separaten Datei auf Ihrem Gerät (MIUI-backup-AllBackup) sichern. Hinweis: Durch das Zurücksetzen auf die Werkseinstellungen werden diese Sicherungen dauerhaft gelöscht. Denken Sie daran, Sicherungen auf Ihren Computer zu kopieren.
-\nComputer
-Sicherung auf diesem Gerät erstellen, dann zu MIUI-backup-AllBackup gehen und die Sicherung per USB-Kabel auf Ihren Computer kopieren.
-\nUSB-Laufwerk
-Systemeinstellungen, Konten, App-Daten und andere Elemente auf einem USB-Laufwerk speichern.
-\nXiaomi Cloud
-Kontakte, Fotos, Videos, App-Liste, Systemeinstellungen und das Startbildschirm-Layout mit der Cloud synchronisieren."</string>
-    <string name="pad_how_restore_backup_content">"Hier erfahren Sie, wie Sie Elemente wiederherstellen können, die mit verschiedenen Methoden gesichert wurden:
-\nMobilgerät
-Auf \"Mobilgerät\" tippen, die Option zum Wiederherstellen von Elementen suchen und die Sicherung auswählen, um fortzufahren.
-\nComputer
-Sicherung von Ihrem Computer über ein USB-Kabel auf MIUI-backup-AllBackup kopieren und die Elemente von Ihrem Mobilgerät wiederherstellen.
-\nUSB-Laufwerk
-Sicherung von Ihrem USB-Laufwerk nach MIUI-backup-AllBackup kopieren und die Option zur Wiederherstellung von Elementen von einem USB-Laufwerk wählen, um fortzufahren.
-\nXiaomi Cloud
-Xiaomi Cloud öffnen und Elemente von dort wiederherstellen."</string>
     <string name="page_layout_1">Sonntag, 16. August</string>
     <string name="page_layout_10">Einstellungen</string>
     <string name="page_layout_11">Wetter</string>
@@ -7909,7 +7883,7 @@ UT Interface: %5$s"</string>
     <string name="resident_timezone_summary">Duale Uhr</string>
     <string name="resolution_fhd_summary" formatted="false">%d×%d (schont den Akku)</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (sorgt für Klarheit)</string>
-    <string name="resolution_sub_title">MIUI könnte die im Hintergrund laufenden Apps schließen, während die Auflösung gewechselt wird</string>
+    <string name="resolution_sub_title">Das System könnte die im Hintergrund laufenden Apps schließen, wenn die Auflösung gewechselt wird</string>
     <string name="resolver_settings_label">Sortieren</string>
     <string name="resource_ringtone_volume_mute">Ihr Klingelton ist auf lautlos eingestellt</string>
     <string name="restore">Wiederherstellen</string>
@@ -8282,7 +8256,7 @@ UT Interface: %5$s"</string>
     <string name="se_wallet_hce">HCE Wallet verwenden</string>
     <string name="se_wallet_uicc">SIM%1$s Bezahlung verwenden</string>
     <string name="se_wallet_uicc_jp">SIM %1$s Wallet (Kann nicht automatisch gewählt werden)</string>
-    <string name="search_about_settings">Über das Gerät;Modellnummer;Android-Version;MIUI Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
+    <string name="search_about_settings">Über das Gerät;Modellnummer;Android-Version;OS-Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
     <string name="search_accelerometer_title">Bildschirm automatisch drehen;Bildschirm drehen;Ausrichtung;Hochformat;Querformat</string>
     <string name="search_access_control">Datenschutzeinstellungen;Sicherheit Datenschutz; Gast; Gast; Gastmodus</string>
     <string name="search_accessibility_captioning_title">Untertitel</string>
@@ -9391,9 +9365,6 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Nach Auswahl einklappen</string>
     <string name="status_bar_settings_toggle_position">Schalteranordnung</string>
     <string name="status_bar_settings_user_fold">Benachrichtigungsordner</string>
-    <string name="status_bar_settings_user_fold_description1">Benachrichtigungsordner wurden in MIUI 9 eingeführt. Diese Funktion filtert unwichtige Benachrichtigungen und legt sie in einem separaten Ordner ab.</string>
-    <string name="status_bar_settings_user_fold_description2">MIUI merkt sich, auf welche Benachrichtigungen Sie tippen, und bestimmt anhand mehrerer Kriterien, ob sie wichtig sind.</string>
-    <string name="status_bar_settings_user_fold_description3">Wenn wichtige Benachrichtigungen immer noch in den Benachrichtigungsordner gehen, melden Sie uns solche Probleme. Wir freuen uns über Ihr Feedback.</string>
     <string name="status_bar_settings_user_fold_disable">Aus</string>
     <string name="status_bar_settings_user_fold_enable">An</string>
     <string name="status_bar_settings_user_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt</string>
@@ -10417,7 +10388,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="uninstall_device_admin">App deinstallieren</string>
     <string name="uninstall_dlg_msg">Deinstallieren löscht auch die App-Daten</string>
     <string name="uninstall_dlg_title">Jetzt deinstallieren?</string>
-    <string name="uninstall_protected_dlg_msg">Deinstallation von System-Apps verhindert eventuell einwandfreie Funktion einiger MIUI Komponenten, trotzdem deinstallieren?</string>
+    <string name="uninstall_protected_dlg_msg">Deinstallation von System-Apps kann dazu führen, dass einige Systemkomponenten nicht mehr richtig funktionieren. Trotzdem deinstallieren?</string>
     <string name="uninstall_protected_dlg_title">System-Apps deinstallieren</string>
     <string name="uninstall_text">Entfernen</string>
     <string name="uninstall_with_xspace_app_dlg_msg">Entsprechende Dual Apps werden zusammen mit deren Daten entfernt</string>
@@ -10510,7 +10481,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="uplmn_settings_title">Benutzergesteuertes PLMN</string>
     <string name="upload_audio_log">Audio-Protokollierung starten</string>
     <string name="upload_debug_log_detail">Helfen Sie, Ihr Geräteerlebnis zu verbessern, indem Sie automatisch Diagnose-, Geräte- und App-Nutzungsdaten an Xiaomi senden. Dies hilft, die Akkulaufzeit, die System- und -App-Stabilität und mehr zu verbessern.\nDie Daten, die Sie senden, enthalten allgemeine Infos über Ihr Gerät und wie Sie es verwenden (z. B. Akkustand, System- und App-Aktivität und Fehler). Die Daten werden verwendet, um unsere Geräte zu verbessern.\nDeaktivieren dieser Funktion hat keinen Einfluss auf die Fähigkeit Ihres Geräts, die für wichtige Dienste wie Systemaktualisierungen und Sicherheit benötigten Infos zu senden.</string>
-    <string name="upload_debug_log_summary">Daten teilen, um MIUI zu verbessern</string>
+    <string name="upload_debug_log_summary">Teilen Sie Daten, um uns zu helfen, uns zu verbessern</string>
     <string name="upload_debug_log_title">Nutzung und Diagnose</string>
     <string name="upload_gps_log">GPS-Protokollierung starten</string>
     <string name="upload_modem_log">Modem-Protokollierung starten</string>
@@ -10688,9 +10659,9 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="use_otg_file_transfers_summary">Langsames Laden mit 500mA und Dateien übertragen</string>
     <string name="use_otg_title">USB-OTG</string>
     <string name="use_personalized_ad_service">Personalisierte Werbung anzeigen</string>
-    <string name="use_personalized_ad_service_for_global">MIUI-Werbung personalisieren</string>
-    <string name="use_personalized_ad_service_summary">Wenn Empfehlungen aus sind, sehen Sie immer noch die gleiche Menge Werbung wie bei aktivierter Funktion, jedoch nicht auf der Grundlage Ihrer Verhaltensdaten oder Ihrer persönlichen Daten.</string>
-    <string name="use_personalized_ad_service_summary_for_global">Nach dem Deaktivieren dieser Funktion wird in den MIUI-System-Apps weiterhin Werbung angezeigt, aber die Werbung wird nicht mehr anhand Ihrer Interessen personalisiert.</string>
+    <string name="use_personalized_ad_service_for_global">Werbung personalisieren</string>
+    <string name="use_personalized_ad_service_summary">Wenn personalisierte Werbeempfehlungen aus sind, sehen Sie immer noch die gleiche Anzahl an Werbung, wie wenn die Funktion eingeschaltet ist. Die Werbung ist jedoch nicht mehr relevant, da sie nicht auf Ihren persönlichen Vorlieben basiert.</string>
+    <string name="use_personalized_ad_service_summary_for_global">Wenn personalisierte Werbeempfehlungen aus sind, sehen Sie in System-Apps immer noch die gleiche Anzahl an Werbung, wie wenn die Funktion eingeschaltet ist. Die Werbung von Xiaomi und Drittanbieter-Plattformen wird jedoch nicht mehr relevant sein, da sie nicht auf Ihren persönlichen Vorlieben basiert.</string>
     <string name="use_privacy_password_immediate">Verwenden</string>
     <string name="use_system_language_to_select_input_method_subtypes">Systemsprache verwenden</string>
     <string name="use_system_preference">Systemvoreinstellung verwenden (Standard)</string>
@@ -11473,7 +11444,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_property">WLAN-Eigenschaften</string>
     <string name="wifi_protection_on">AN</string>
     <string name="wifi_protection_settings_title">Schutz vor WLAN-Sondierungsanfragen</string>
-    <string name="wifi_protection_tip">MIUI schützt Ihre persönlichen Daten vor WLAN-Sondierungsanfragen von zufälligen MAC-Adressen und WLAN-Sondierungsschnüffeln, wenn Ihr Gerät nach WLAN sucht.</string>
+    <string name="wifi_protection_tip">Xiaomi schützt Ihre persönlichen Daten vor WLAN-Sondierungsanfragen von zufälligen MAC-Adressen und WLAN-Sondierungsschnüfflern, wenn Ihr Gerät nach WLAN sucht.</string>
     <string name="wifi_quick_toggle_summary">WLAN einschalten</string>
     <string name="wifi_quick_toggle_title">WLAN</string>
     <string name="wifi_region_summary">Erfordert einen WLAN-Neustart, um wirksam zu werden</string>
@@ -11580,22 +11551,22 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_share_add_summary">Wenn Sie Ihr öffentliches WLAN teilen, können Sie auch auf das WLAN von anderen Benutzern zugreifen</string>
     <string name="wifi_share_connect">Verbinden</string>
     <string name="wifi_share_connected_summary">Sie sind mit einem öffentlichen WLAN verbunden, das von einem anderen Benutzer bereitgestellt wurde</string>
-    <string name="wifi_share_connected_title">MIUI geteiltes WLAN</string>
+    <string name="wifi_share_connected_title">System hat WLAN geteilt</string>
     <string name="wifi_share_count">Sie haben %d Netzwerke geteilt</string>
     <string name="wifi_share_current_network">Aktuelles Netzwerk</string>
     <string name="wifi_share_know">Verstanden</string>
     <string name="wifi_share_list_empty">Keine geteilten Netzwerke gefunden</string>
     <string name="wifi_share_login">WLAN teilen</string>
-    <string name="wifi_share_login_summary">Wenn das WLAN öffentlich ist, können Sie es mit anderen MIUI Benutzern teilen</string>
-    <string name="wifi_share_notification_summary">MIUI hat Sie mit einem öffentlichen WLAN verbunden</string>
+    <string name="wifi_share_login_summary">Wenn das WLAN öffentlich ist, können Sie es mit anderen Xiaomi-Nutzern teilen</string>
+    <string name="wifi_share_notification_summary">Sie wurden mit einem öffentlichen WLAN verbunden</string>
     <string name="wifi_share_other_network">Andere Netzwerke</string>
     <string name="wifi_share_qrcode_finish">Fertig</string>
     <string name="wifi_share_qrcode_summary">QR-Code mit der Kamera scannen</string>
     <string name="wifi_share_qrcode_title">WLAN teilen</string>
     <string name="wifi_share_show_network">Netzwerke anzeigen</string>
-    <string name="wifi_share_summary1">MIUI Benutzer können öffentliche WLAN-Netze (Cafes, Restaurants, Hotels usw.) miteinander teilen</string>
-    <string name="wifi_share_summary2">Wenn ein anderer MIUI Benutzer ein Netzwerk teilt, können Sie sich direkt ohne Passwort verbinden</string>
-    <string name="wifi_share_summary3">Geben Sie etwas zurück, indem auch Sie Ihr WLAN mit anderen MIUI Benutzern teilen</string>
+    <string name="wifi_share_summary1">Xiaomi-Nutzer können öffentliche WLAN-Netze (Cafes, Restaurants, Hotels usw.) miteinander teilen</string>
+    <string name="wifi_share_summary2">Wenn ein anderer Xiaomi-Nutzer ein Netzwerk teilt, können Sie sich direkt ohne Passwort verbinden</string>
+    <string name="wifi_share_summary3">Geben Sie etwas zurück, indem auch Sie Ihr WLAN mit anderen Xiaomi-Nutzern teilen</string>
     <string name="wifi_share_turn_off">Aus</string>
     <string name="wifi_share_turn_on">An</string>
     <string name="wifi_share_upload">Teilen</string>
