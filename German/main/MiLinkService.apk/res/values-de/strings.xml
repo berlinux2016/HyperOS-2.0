@@ -325,6 +325,7 @@
     <string name="connect_settings_summary"><Data>Erkennen Sie automatisch Geräte in Ihrer Nähe, die an Ihrem Xiaomi Konto angemeldet sind, und verbinden Sie sie miteinander, um eine Vielzahl von Aufgaben auf mehreren Geräten auszuführen. &lt;a href=%1$s>Mehr erfahren&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Erlauben Sie Ihren Geräten, drahtlos miteinander zu interagieren</string>
     <string name="connect_settings_summary_corp_phone">Beantworten Sie Anrufe auf Tablets oder Computern in der Nähe, die an Ihrem Xiaomi Konto angemeldet sind</string>
+    <string name="connect_settings_summary_hyper_mind">Passen Sie Geräte in der Nähe automatisch an Ihre Bedürfnisse an, basierend auf Ihrem Nutzungsverhalten. Diese Funktion wird von Mi KI unterstützt.</string>
     <string name="connect_settings_summary_relay_app">Aufgaben in derselben App auf einem anderen Gerät fortsetzen</string>
     <string name="connect_settings_summary_share_clipboard">Text und Bilder auf anderen Geräten innerhalb von %d Minuten nach dem Kopieren auf diesem Gerät einfügen</string>
     <string name="connect_settings_summary_share_launcher_pad">Anzeigen und Interagieren mit dem Startbildschirm von Telefonen in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind</string>
@@ -527,6 +528,10 @@
     <string name="help_page_text_55">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Wireless Display, Screen Mirroring oder Multiple Screens bezeichnet. Lesen Sie die folgenden Informationen, um zu erfahren, wie Sie Miracast aktivieren können. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
     <string name="help_page_text_55_global">Wenn Sie keine Netzwerkverbindung herstellen können, prüfen Sie, ob Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Wireless Display/Kabelloses Display, Screen Mirroring oder Multiple Screens bezeichnet. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
     <string name="help_page_text_end">Wenn Ihre Gerätemarke hier nicht aufgeführt ist, wenden Sie sich an den Hersteller, um mehr über die Übertragungsfunktionalität zu erfahren.</string>
+    <string name="hyper_mind_close_warning">Achtung</string>
+    <string name="hyper_mind_close_warning_checkbox">Nicht mehr anzeigen</string>
+    <string name="hyper_mind_close_warning_content">HyperMind hört auf, Daten zu sammeln und Ihr Nutzungsverhalten zu lernen, wenn Sie es ausschalten. Wenn Sie die bereits erfassten Daten löschen möchten, &lt;a href=%1$s>tippen Sie hier&lt;/a>.</string>
+    <string name="hyper_mind_close_warning_ok">Verstanden</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="invisible_mode_dialog_content">Im Inkognito-Modus kann Übertragen nicht verwendet werden. Erst den Inkognito-Modus ausschalten.</string>
     <string name="invisible_mode_dialog_content_audio_relay">Im Inkognito-Modus kann die Wiedergabe nicht übertragen werden. Erst den Inkognito-Modus ausschalten.</string>

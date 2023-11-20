@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Apps kombinieren</item>
+        <item>Vernetzung/Apps kombinieren</item>
+        <item>Fahrzeugfunktionen</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Vernetzung</item>
+        <item>Vernetzung/Vernetzung</item>
+        <item>Gerätevernetzung, Gerätevernetzungsdienste, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, Smarte Verbindung, Mi Smart Hub, Vernetzung, Duo, Xiaomi Telefon, Xiaomi Laptop, Multiscreen, Duet, übertragen, Apps kombinieren, Übergabe, App-Übergabe, Spiegeln, Xiaomi Okösystem, Geräteverbindung</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Datenschutz</item>
+        <item>Vernetzung/Datenschutz</item>
+        <item>Datenschutz und Vernetzung, Datenschutz</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Vernetzungsdienste</item>
+        <item>Vernetzung/Vernetzungsdienste</item>
+        <item>Vernetzungsdienste</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>App-Übergabe</item>
+        <item>Vernetzung/App-Übergabe</item>
+        <item>Apps übertragen, Übergabe, übertragen</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Anrufe</item>
+        <item>Vernetzung/Anrufe</item>
+        <item>Anrufe</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Netzwerkassistent</item>
+        <item>Vernetzung/Netzwerkassistent</item>
+        <item>Netzwerkassistent, Tethering, Hotspot teilen</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Startbildschirm+</item>
+        <item>Vernetzung/Startbildschirm+</item>
+        <item>Startbildschirm+, Mi Smart Hub, Bildschirm teilen</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Zwischenablage</item>
+        <item>Vernetzung/Zwischenablage</item>
+        <item>Zwischenablage</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Geräteübergreifende Benachrichtigungen</item>
+        <item>Vernetzung/Benachrichtigungen</item>
+        <item>Geräteübergreifende Benachrichtigungen</item>
+    </string-array>
+</resources>
