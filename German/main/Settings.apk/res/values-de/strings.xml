@@ -10037,6 +10037,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="toast_allows_restricted_settings_successfully">Eingeschränkte Einstellungen für %s erlaubt</string>
     <string name="toast_ap_works_wifi_display_disable">Hotspot vor dem Übertragen ausschalten</string>
     <string name="toast_apply_font_fail">Schriftart nicht einstellbar</string>
+    <string name="toast_bluetooth_disable">"Bluetooth kann nicht aktiviert werden. Offenbar wurde das Bluetooth-Modul neu installiert oder der Bluetooth-Zugriff wurde eingeschränkt."</string>
     <string name="toast_disconnect_earphone">Kopfhörer trennen und erneut versuchen</string>
     <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
     <string name="toast_need_login">Melden Sie sich in Ihrem Xiaomi-Konto an</string>
