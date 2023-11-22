@@ -1582,6 +1582,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bluetooth_disable_mi_fast_connect_summary">Mi Fast Connect Funktion deaktivieren</string>
     <string name="bluetooth_disable_profile_message">Ausgeschaltet: %1$s Von: %2$s</string>
     <string name="bluetooth_disable_profile_title">Profil ausschalten?</string>
+    <string name="bluetooth_disable_toast">"Bluetooth kann nicht aktiviert werden. Offenbar wurde die Bluetooth-Funktionalität eingeschränkt."</string>
     <string name="bluetooth_disabled">Deaktiviert</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s wird von Audiomedien getrennt</string>
     <string name="bluetooth_disconnect_all_profiles">Ihr Telefon wird von %1$s getrennt</string>
@@ -6590,6 +6591,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="nfc_main_switch_title">NFC verwenden</string>
     <string name="nfc_more_details">Mehr erfahren</string>
     <string name="nfc_more_title">Mehr…</string>
+    <string name="nfc_notification_mode_title">Erinnerungen zum Lesen der NFC-Karte</string>
     <string name="nfc_payment_btn_text_set_deault">Standard einstellen</string>
     <string name="nfc_payment_btn_text_update">Aktualisieren</string>
     <string name="nfc_payment_default">Zahlungsstandard</string>
