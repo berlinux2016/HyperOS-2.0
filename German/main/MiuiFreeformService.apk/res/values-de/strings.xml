@@ -33,6 +33,9 @@
     <string name="copy">Kopieren</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+    <string name="desktop_btn_cancel">Abbrechen</string>
+    <string name="desktop_mode_guide_summary">Im Arbeitsplatzmodus können Sie mehrere Apps in Popup-Fenstern öffnen, indem Sie auf deren Symbole im App-Dock tippen.</string>
+    <string name="desktop_mode_guide_title">Arbeitsplatz</string>
     <string name="dock_location_left">Links</string>
     <string name="dock_location_right">Rechts</string>
     <string name="dock_location_title">Ort des App-Docks</string>
@@ -201,6 +204,9 @@
     <string name="midnight">Nacht</string>
     <string name="miui_bubbles_notification">Sprechblasen</string>
     <string name="miui_bubbles_notification_status_opened">An</string>
+    <string name="miui_desktop_mode_settings">Arbeitsplatz</string>
+    <string name="miui_desktop_mode_settings_title">Arbeitsplatz</string>
+    <string name="miui_desktop_mode_video_description">Tippen Sie auf App-Symbole im Dock, um Apps in Popup-Fenstern zu öffnen. Sie können den Arbeitsplatzmodus im Kontrollzentrum ein- und ausschalten.</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
@@ -268,8 +274,8 @@
     <string name="operation_guide_title">Anleitungen</string>
     <string name="other_advanced_settings">Weitere Einstellungen</string>
     <string name="other_operations_title">Andere Anleitungen</string>
-    <string name="pin_toast">Hochschieben und drücken, um diese App zu lösen</string>
-    <string name="pin_toast_nav">Zurück- und Vorschau-Tasten gedrückt halten, um diese App zu lösen</string>
+    <string name="pin_toast">Vom unteren Bildschirmrand nach oben schieben und anhalten, um diese App zu lösen</string>
+    <string name="pin_toast_nav">Zurück- und Vorschautaste gedrückt halten, um diese App zu lösen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>

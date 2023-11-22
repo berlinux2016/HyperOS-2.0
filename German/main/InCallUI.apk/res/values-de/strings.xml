@@ -80,7 +80,7 @@
     <string name="call_progress_info_user_busy">Der andere Teilnehmer ist gerade beschäftigt. Bitte rufen Sie später zurück.</string>
     <string name="call_progress_info_user_call_rejected">Ihre Nummer ist derzeit außer Betrieb</string>
     <string name="call_record_wait_label">Warten</string>
-    <string name="call_recording_deny_permission_msg">Erlaubnis zur Aufnahme verweigert, Aufnehmen nicht möglich</string>
+    <string name="call_recording_deny_permission_msg">Aufnahme nicht möglich. Erst in Einstellungen Berechtigungen gewähren.</string>
     <string name="call_recording_error_low_storage">Nicht genügend Speicher</string>
     <string name="call_recording_error_privacy">Im Gastmodus kann nicht aufgenommen werden</string>
     <string name="call_recording_error_sd_access">Kein Zugriff auf SD-Karte</string>
@@ -346,8 +346,10 @@
     <string name="remind_unlock_screen_message">Gerät entsperren, um \"%s\" zu verwenden. Jetzt entsperren?</string>
     <string name="respond_via_sms_custom_message">Eigene SMS</string>
     <string name="satellite_call_failed">Signal unterbrochen. Erneut versuchen.</string>
+    <string name="satellite_diable_earpiece">Ohrhörer kann bei Satellitenanrufen nicht verwendet werden</string>
     <string name="satellite_dialog_button">Popup-Fenster</string>
     <string name="satellite_dialog_cancel">Abbrechen</string>
+    <string name="satellite_state_connecting">Verbinden… (%ds)</string>
     <string name="satellite_guide_down">Neigen Sie Ihr Gerät nach unten, \num den Ball in den blauen Bereich zu bringen</string>
     <string name="satellite_guide_found">Satellit gefunden</string>
     <string name="satellite_guide_left">Neigen Sie Ihr Gerät nach links, \num das Satellitensymbol in den blauen Bereich zu bringen</string>

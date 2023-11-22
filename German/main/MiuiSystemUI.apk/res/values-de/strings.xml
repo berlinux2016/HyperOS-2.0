@@ -894,6 +894,7 @@
     <string name="format_day_week_desc">Tag des Monats: %1$s, %2$s</string>
     <string name="format_lunar_calendar_month_day">dd.MM.</string>
     <string name="format_lunar_calendar_month_day_desc">Datum nach traditionellem chinesischen Kalender: %s</string>
+    <string name="format_month_day_desc">%2$s. %1$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, Datum nach traditionellem chinesischen Kalender: %3$s, Feiertag: %4$s</string>
     <string name="format_month_day_style1">d/MMM</string>
     <string name="format_month_day_style2">d/M</string>
@@ -1341,14 +1342,18 @@
     <string name="miui_keyboard_shortcut_click">Tippen</string>
     <string name="miui_keyboard_shortcut_double_click">Doppeltipp</string>
     <string name="miui_keyboard_shortcut_system_dock">App-Dock anzeigen</string>
-    <string name="miui_keyboard_shortcut_system_quickly_recent">Zwischen den letzten Apps wechseln</string>
+    <string name="miui_keyboard_shortcut_system_quickly_recent">Zwischen letzten Apps wechseln</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetooth-Gerät entsperrt</string>
     <string name="miui_lock_screen_date">EEEE dd.MM.</string>
     <string name="miui_lock_screen_date_12">EEEE dd.MM.</string>
-    <string name="miui_lock_screen_date_two_lines">EEEE\ndd.MM.</string>
-    <string name="miui_lock_screen_date_two_lines_12">EEEE\ndd.MM.</string>
-    <string name="miui_lock_screen_large_date">EEE\ndd.MM.</string>
-    <string name="miui_lock_screen_large_date_12">EEE\ndd.MM.</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM."</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM."</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd.MM."</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM."</string>
     <string name="miui_magazine_c_clock_style2_date">EE dd.MM.</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd. MMM</string>
     <string name="miui_magazine_clock_date">dd.MM.</string>
@@ -1364,6 +1369,7 @@
     <string name="miui_notification_menu_title_not_allow">Einschränken</string>
     <string name="miui_notification_menu_unfocus">Benachrichtigungs-Spotlight ausschalten</string>
     <string name="miui_notification_menu_unfold">Als wichtig markieren</string>
+    <string name="miui_restart_button_description">Neustart für beste Darstellung</string>
     <string name="miui_rhombus_clock_date">dd. MMMM</string>
     <string name="miui_screen_rotation_freeze_message">Bildschirmausrichtung im Querformat gesperrt</string>
     <string name="miui_smart_frame_clock_date">dd.MM.</string>
@@ -2085,21 +2091,16 @@
     <string name="saturday_shortest">S</string>
     <string name="save">Speichern</string>
     <string name="screen_capturing_disabled_by_policy_dialog_title">Von Ihrem IT-Admin gesperrt</string>
-    <string name="screen_pinning_can_open_other_apps">Angepinnte App kann andere Apps öffnen</string>
-    <string name="screen_pinning_description">Dadurch bleibt er im Blickfeld, bis Sie ihn lösen. Home- und Power-Taste gleichzeitig gedrückt halten, um die Verbindung zu lösen.</string>
-    <string name="screen_pinning_description_accessible">Dadurch bleibt er im Blickfeld, bis Sie ihn lösen. Home- und Power-Taste gleichzeitig gedrückt halten, um die Verbindung zu lösen.</string>
-    <string name="screen_pinning_description_gestural">So bleibt sie sichtbar, bis Sie die Anheftung aufheben. Nach oben wischen &amp; halten, um die Anheftung zu lösen.</string>
-    <string name="screen_pinning_description_recents_invisible">So bleibt sie sichtbar, bis Sie die Anheftung aufheben. Zurück und Home berühren &amp; halten, um die Anheftung zu lösen.</string>
-    <string name="screen_pinning_description_recents_invisible_accessible">So bleibt sie sichtbar, bis Sie die Anheftung aufheben. Home berühren &amp; halten, um die Anheftung zu lösen.</string>
+    <string name="screen_pinning_description_gesture_mode">Diese App bleibt in Letzte Apps, bis Sie sie durch Schieben vom unteren Bildschirmrand nach oben und Anhalten wieder lösen.</string>
+    <string name="screen_pinning_description_navigation_mode">Diese App bleibt in Letzte Apps, bis Sie sie durch gedrückt Halten der Zurück- und Vorschautaste wieder lösen.</string>
     <string name="screen_pinning_exit">App gelöst</string>
-    <string name="screen_pinning_exposes_personal_data">Personenbezogene Daten können zugänglich sein (z. B. Kontakte und E-Mail-Inhalte).</string>
-    <string name="screen_pinning_negative">Nein danke</string>
     <string name="screen_pinning_positive">Alles klar</string>
-    <string name="screen_pinning_start">App angeheftet</string>
-    <string name="screen_pinning_title">Bildschirm ist angepinnt</string>
-    <string name="screen_pinning_toast">Tasten Zurück und Übersicht berühren &amp; halten, um diese App wieder zu lösen</string>
-    <string name="screen_pinning_toast_gesture_nav">Nach oben wischen &amp; halten, um diese App zu lösen</string>
+    <string name="screen_pinning_title_gesture_mode">Diese App ist angeheftet</string>
+    <string name="screen_pinning_title_navigation_mode">Diese App ist angeheftet</string>
+    <string name="screen_pinning_toast_gesture_mode">Vom unteren Bildschirmrand nach oben schieben und anhalten, um diese App zu lösen</string>
+    <string name="screen_pinning_toast_navigation_mode">Zurück- und Vorschautaste gedrückt halten, um diese App zu lösen</string>
     <string name="screen_pinning_toast_recents_invisible">Tasten Zurück und Home berühren &amp; halten, um diese App zu lösen</string>
+    <string name="screen_pinning_toast_start">Diese App ist angeheftet</string>
     <string name="screen_recording_announcement">Bildschirmaufnahme gestartet</string>
     <string name="screen_share_permission_app_selector_title">Eine App teilen oder aufnehmen</string>
     <string name="screen_stopped_recording_announcement">Bildschirmaufnahme gestoppt</string>

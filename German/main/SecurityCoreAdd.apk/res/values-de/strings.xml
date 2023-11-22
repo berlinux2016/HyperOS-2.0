@@ -37,7 +37,7 @@
     <string name="airspace_users_full">Mehr Speicherplatz schaffen nicht möglich</string>
     <string name="alwaysUsePrompt">Meine Wahl merken</string>
     <string name="appData">Installierte Apps</string>
-    <string name="app_name">Sicherheitskernkomponenten</string>
+    <string name="app_name">Plugin Systemfunktionen</string>
     <string name="app_switch_key">Letzte Apps</string>
     <string name="application_label">Eingabeeinstellungen</string>
     <string name="auto_disable_screenbuttons_ask">Zum Deaktivieren fragen</string>
@@ -89,6 +89,8 @@
     <string name="can_not_switch_when_extreme_endurance_battery_active">Zweitprofil kann wegen niedrigem Akku nicht verwendet werden</string>
     <string name="can_not_switch_when_green_kid_active">Wechsel zum Zweitprofil wird durch Kindersicherung eingeschränkt</string>
     <string name="can_not_switch_when_green_kid_active_new">Wechsel zum Zweitprofil nicht möglich, wenn Family Guard eingeschaltet ist</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Zurück- und Vorschautaste gedrückt halten, um diese App zu lösen</string>
+    <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Vom unteren Bildschirmrand nach oben schieben und anhalten, um diese App zu lösen</string>
     <string name="can_not_switch_when_super_power_active">Bei aktiviertem Ultra-Stromsparen ist der Profilwechsel nicht möglich</string>
     <string name="cancelClosePassword">Nicht ausschalten</string>
     <string name="cancel_button">Abbrechen</string>
@@ -406,6 +408,7 @@
     <string name="keyboard_function_summary_first_line">·Gedrückt halten, um Kürzel anzuzeigen.</string>
     <string name="keyboard_function_summary_second_line">·NFC-Bereich der Tastatur mit einem Telefon berühren, das mit demselben Konto angemeldet ist, um den Bildschirm zu übertragen. Wählen Sie eine Datei oder ein Foto für die einfache Übertragung zwischen Geräten aus.</string>
     <string name="keyboard_funtion_key">Funktionstaste</string>
+    <string name="keyboard_layout_arabic">Arabisch</string>
     <string name="keyboard_layout_default_label">Standard</string>
     <string name="keyboard_layout_dialog_setup_button">Tastaturlayouts einrichten</string>
     <string name="keyboard_layout_dialog_switch_hint">Zum Umschalten Strg+Leertaste drücken</string>

@@ -185,7 +185,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="document_file_size">Dateigröße: %s</string>
     <string name="document_preview_cancel_text">Laden beenden</string>
     <string name="document_preview_download_failed">Laden fehlgeschlagen. Erneut versuchen.</string>
-    <string name="download_done">Erfolgreich heruntergeladen</string>
+    <string name="download_done">Vollständig heruntergeladen</string>
     <string name="download_done_info_for_sys_title">Erfolgreich heruntergeladen. Tippen zum Anzeigen.</string>
     <string name="download_fail">Herunterladen nicht möglich</string>
     <string name="download_failed">Herunterladen nicht möglich</string>
@@ -870,7 +870,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="update_no_update">Aktuelle Version ist auf dem neuesten Stand</string>
     <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>
     <string name="update_progress_dialog_content">Herunterladen…</string>
-    <string name="upload_done">Erfolgreich hochgeladen</string>
+    <string name="upload_done">Vollständig hochgeladen</string>
     <string name="upload_done_info_for_sys_title">Erfolgreich hochgeladen. Tippen zum Anzeigen.</string>
     <string name="upload_error_log">Hochlade-Protokoll</string>
     <string name="upload_fail">Hochladen nicht möglich</string>

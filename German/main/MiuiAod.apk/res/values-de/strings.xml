@@ -52,7 +52,8 @@
     <string name="aod_lock_screen_date_12_smartcover">d.M.</string>
     <string name="aod_lock_screen_date_lunar">EE, d.MM.</string>
     <string name="aod_lock_screen_date_signature">d.M.</string>
-    <string name="aod_lock_screen_date_smartcover">EE\ndd.MM.</string>
+    <string name="aod_lock_screen_date_smartcover">"EE
+dd.MM."</string>
     <string name="aod_lock_screen_date_smartcover_b">EE, dd.MM.</string>
     <string name="aod_mode_preview">Vorschau</string>
     <string name="aod_mode_style">Uhrstil und Hintergrund</string>
@@ -130,7 +131,7 @@
     <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
     <string name="fmt_date_numeric_day">dd.</string>
     <string name="fmt_date_numeric_month">MM.</string>
-    <string name="fmt_date_numeric_month_day">d.M.</string>
+    <string name="fmt_date_numeric_month_day">dd.MM.</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
@@ -153,6 +154,8 @@
     <string name="format_day_week_desc">Tag des Monats: %1$s, %2$s</string>
     <string name="format_lunar_calendar_month_day">dd.MM.</string>
     <string name="format_lunar_calendar_month_day_desc">Datum nach traditionellem chinesischen Kalender: %s</string>
+    <string name="format_month_and_day">%2$s.%1$s</string>
+    <string name="format_month_day_desc">%2$s. %1$s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, Datum nach traditionellem chinesischen Kalender: %3$s, Feiertag: %4$s</string>
     <string name="format_month_day_style1">d. MMM</string>
     <string name="format_month_day_style2">d.M.</string>

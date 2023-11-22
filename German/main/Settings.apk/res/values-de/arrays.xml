@@ -708,6 +708,14 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Netzwerk langsam wegen schwacher Signalstärke</item>
         <item>Verschieben…</item>
     </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>Zahlungs-, Zugangs- und Smart Home-Karten</item>
+        <item>Bluetooth-Kopplung, drahtlose Verbindung und Smart Home-Karten</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>Alle Karten</item>
+        <item>Vom System erkannte Karten</item>
+    </string-array>
     <string-array name="nfc_payment_favor">
         <item>Immer</item>
         <item>Sofern keine andere Zahlungs-App geöffnet ist</item>
