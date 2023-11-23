@@ -237,6 +237,10 @@
         <item quantity="other">%s Apps dürfen Benachrichtungen anzeigen</item>
         <item quantity="one">%s App darf Benachrichtigungen anzeigen</item>
     </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d Berechtigungen bearbeiten</item>
+        <item quantity="one">%1$d Berechtigung bearbeiten</item>
+    </plurals>
     <plurals name="string_after_int_minute">
         <item quantity="other">Nach %d Min</item>
         <item quantity="one">Nach %d Min</item>

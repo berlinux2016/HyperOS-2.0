@@ -1299,6 +1299,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="click_to_set_personalized_reminder">Warnungen einstellen</string>
     <string name="click_to_set_traffic">Zum Einstellen tippen</string>
     <string name="clipboard_ai_allow">Entscheide für mich</string>
+    <string name="clipboard_ai_allow_summary">Lässt das System feststellen, ob eine App auf den Inhalt der Zwischenablage zugreifen kann und erinnert Sie daran, wenn sie dies tut</string>
     <string name="close">Schließen</string>
     <string name="close_callwait">Aus</string>
     <string name="cmcc_app_check_dialog_message">Um die Reparatur abzuschließen, starten Sie Ihr Gerät neu.</string>
@@ -2767,6 +2768,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="hot">Beliebt</string>
     <string name="hot_today">Heute beliebt</string>
     <string name="i_know">Verstanden</string>
+    <string name="i_know_time">Verstanden (%d)</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="icon_created_settings_preference">Hinzugefügt</string>
     <string name="ignore_special_app">Die von der ausgewählten App verbrauchten Daten sind nicht in den Paketdaten enthalten</string>
@@ -2849,6 +2851,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="last_check_canceled">Letzte Suche wurde abgebrochen</string>
     <string name="later">Später</string>
+    <string name="launch_instant_app">Öffnen</string>
     <string name="legal_workday">Gesetzliche Arbeitstage</string>
     <string name="legal_workday_invalidate">Mo-Fr (Feiertagsinfo abgelaufen)</string>
     <string name="legal_workday_invalidate_message">Tippen, um die Feiertagsinfos zu aktualisieren</string>
@@ -2861,6 +2864,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="loading">Einen Moment…</string>
     <string name="loading_text_format" formatted="false">Prüfen, ob Fotos private Daten enthalten %d/%d</string>
     <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler zu melden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät.</string>
+    <string name="location">Standort</string>
     <string name="lock_all_title">Alle Apps sperren</string>
     <string name="lock_mode_title">Apps geschützt</string>
     <string name="lock_screen_business_hongbao_message">Von %1$s</string>
@@ -3539,6 +3543,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="optmizingbar_title_clear">Cache leeren</string>
     <string name="optmizingbar_title_security">Sicherheit</string>
     <string name="optmizingbar_title_system">Systemsicherheit</string>
+    <string name="order_bh_net_empty">Hier ist noch nichts</string>
     <string name="order_bh_net_error">Kein Netzwerk</string>
     <string name="organization">Firma</string>
     <string name="other">Andere Einstellungen</string>
@@ -3666,6 +3671,20 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_hight_refresh_rate_reminder_summary">Verwendung einer höheren Bildwiederholrate. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
     <string name="pc_hight_refresh_rate_reminder_title">Video mit hoher Bildrate ansehen</string>
     <string name="pc_install_manager">Installation via USB</string>
+    <string name="pc_keywords_fast_charge">Schnellladen</string>
+    <string name="pc_keywords_low_power_consumption_save">Stromsparen</string>
+    <string name="pc_keywords_low_power_mode">Stromsparmodus</string>
+    <string name="pc_keywords_navigation_discharge">Laden während der Navigation beenden</string>
+    <string name="pc_keywords_night_mode">Nachtmodus</string>
+    <string name="pc_keywords_night_protect">Akkuschutz bei Nacht</string>
+    <string name="pc_keywords_reverse_charge">Umkehrladen</string>
+    <string name="pc_keywords_sleep_mode">Schlafmodus</string>
+    <string name="pc_keywords_sleep_protect">Akkuschutz beim Schlafen</string>
+    <string name="pc_keywords_sleep_save_mode">Nachtstromsparen</string>
+    <string name="pc_keywords_summary_battery_protect">Um die Alterung des Akkus zu verringern, lernt das System aus Ihrer täglichen Laderoutine, um unnötige Dauerladungen zu reduzieren</string>
+    <string name="pc_keywords_summary_low_power_consume">5G-Konnektivität in bestimmten Szenarien weniger stromhungrig machen</string>
+    <string name="pc_keywords_summary_navigation">Bei Verwendung von Navigations-Apps wird der Ladevorgang automatisch beendet, wenn der Akku einen bestimmten Wert erreicht</string>
+    <string name="pc_keywords_summary_night_save">Automatisches Abschalten einiger Funktionen, um den Akku zu schonen, wenn Schlafen erkannt wird</string>
     <string name="pc_low_batterty_got_it">Verstanden</string>
     <string name="pc_low_battery_fast_charge">Laden beschleunigen</string>
     <string name="pc_low_battery_fast_charge_summary">Schließen Sie das mitgelieferte Ladegerät an, um den Ladevorgang zu beschleunigen, wenn der Bildschirm aus und der Akku leer ist. Diese Funktion kann Ihr Gerät aufheizen.</string>
@@ -3771,6 +3790,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_action_reject">Verweigern</string>
     <string name="permission_action_tag">Datenschutz</string>
     <string name="permission_action_virtual">Leere Nachrichten zurücksenden</string>
+    <string name="permission_action_virtual_common_summary">Gewährt Apps die erforderlichen Berechtigungen, gibt aber leere Meldungen zurück, um Ihre Privatsphäre zu schützen</string>
     <string name="permission_action_virtual_phone_summary">Apps die entsprechenden Berechtigungen erteilen, aber ihnen nicht erlauben, auf die echte Rufnummer der SIM-Karte zuzugreifen</string>
     <string name="permission_close_permission_control_dialog_msg">Wenn die Rechteverwaltung ausgeschaltet ist, werden Apps nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen.</string>
     <string name="permission_close_permission_control_dialog_title">Ausschalten?</string>
@@ -3809,6 +3829,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_install_shortcuts">Diese Berechtigung erlaubt Apps, Verknüpfungen am Startbildschirm zu erstellen.</string>
     <string name="permission_instruction_install_unknown_source">Diese Berechtigung erlaubt Apps, andere Apps auf Ihrem Gerät zu installieren. Bösartige Apps nutzen diese Berechtigung, um Apps ohne Ihre Bestätigung zu installieren.</string>
     <string name="permission_instruction_location">Wenn Sie diese Berechtigung erteilen, verwenden Apps Netzwerke oder Satellitenortung, um auf Ihren Standort zuzugreifen. Sie können Apps, die diese Funktion unterstützen, erlauben, nur auf Ihren ungefähren Standort zuzugreifen.</string>
+    <string name="permission_instruction_mac_adress">Auf die MAC-Adresse dieses Geräts zugreifen</string>
     <string name="permission_instruction_media_audio">Wenn Sie diese Berechtigung erteilen, kann die App auf Musik und andere Audiodaten auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_media_files">Wenn Sie diese Berechtigung erteilen, kann die App auf die Dateien und Dokumente auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_modify_audio_settings">Diese Berechtigung erlaubt Apps, Audio-Einstellungen zu ändern (z. B. die Lautstärke ohne Ihre Bestätigung anzupassen). Evtl. können Sie die Lautstärke in einigen Apps nicht regeln, wenn Sie ihnen diese Berechtigung nicht erteilen.</string>
@@ -3823,6 +3844,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_read_clipboard">Diese Berechtigung erlaubt Apps, alle von Ihnen kopierten Inhalte zu lesen, die private Daten enthalten können (z. B. Kontodaten, Bankkartennummern und Passwörter).</string>
     <string name="permission_instruction_read_contacts">Diese Berechtigung erlaubt Apps den Zugriff auf die auf Ihrem Gerät gespeicherten Kontaktinformationen. Diese Informationen können die Häufigkeit Ihrer Kommunikation mit bestimmten Kontakten über Anrufe, E-Mails und andere Methoden enthalten. Diese Berechtigung erlaubt Apps auch, Kontakte zu speichern. Bösartige Apps können diese Berechtigung verwenden, um Kontakte ohne Ihre Zustimmung freizugeben.</string>
     <string name="permission_instruction_read_history">Zugriff auf Browserverlauf</string>
+    <string name="permission_instruction_read_imei">Auf die IMEI dieses Geräts zugreifen</string>
     <string name="permission_instruction_read_media_pic">Wenn Sie diese Berechtigung erteilen, kann die App auf Fotos und Videos auf Ihrem Telefon zugreifen. Bitte beachten Sie, dass diese persönlichen Informationen sehr wichtig sind und Sie bei der Erteilung dieser Erlaubnis an die App vorsichtig sein sollten, um eine unnötige Offenlegung privater Informationen zu vermeiden.</string>
     <string name="permission_instruction_read_notify_sms">Diese Berechtigung erlaubt Apps, auf Ihrem Gerät oder Ihrer SIM-Karte gespeicherte Benachrichtigungstexte zu lesen.</string>
     <string name="permission_instruction_read_phone_state">Diese Berechtigung erlaubt Apps den Zugriff auf Ihre Rufnummer, IMEI, IMSI und andere Gerätekennungen. Apps verwenden diese Berechtigung normalerweise, um festzustellen, ob Ihre Anrufe weitergeleitet werden. Wenn Sie eine virtuelle Geräte-ID verwenden, können Apps nicht auf Ihre tatsächlichen Gerätekennungen zugreifen.</string>
@@ -3857,6 +3879,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_permission_control_closed_desc_dialog_msg">Apps werden nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen. Sie können diese Funktion in den Rechteeinstellungen einschalten.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
     <string name="permission_precise_location">Genauer Standort</string>
+    <string name="permission_precise_location_sumary">Wenn diese Funktion ausgeschaltet ist, können Apps nur auf Ihren ungefähren Standort zugreifen</string>
     <string name="permission_share_uid">Genauer Standort</string>
     <string name="permission_upgrade_more">Weitere Datenschutzfunktionen anzeigen</string>
     <string name="permission_upgrade_privacy_title">Berechtigungen für Audioaufnahme und Kontaktezugriff haben jetzt eine Option, die es Ihnen erlaubt, solche Berechtigungen nur zu erteilen, während Sie die entsprechenden App verwenden. Um die Privatsphäre Ihrer persönlichen Daten zu schützen, führen die Apps diese Aktionen nicht im Hintergrund aus.</string>
@@ -3926,10 +3949,13 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_usage_deny_w_contacts_once">%1$s | Dieser App wurde die Bearbeitung Ihrer Kontakte verweigert</string>
     <string name="permission_usage_deny_wake_path_once">%1$s | Dieser App wurde der Autostart von %2$s verweigert</string>
     <string name="permission_usage_deny_wakepath_once">%1$s | Verweigert</string>
+    <string name="permission_usage_media_aural_app">%1s griff auf Musik und Audio zu</string>
+    <string name="permission_usage_media_visual_app">%1s griff auf Fotos und Videos zu</string>
     <string name="permission_usage_now">Jetzt</string>
     <string name="permission_usage_now_access">Jetzt zugreifen</string>
     <string name="permission_usage_projection_screen_once">%1$s | Zugriff auf oder Aufnahme von Bildschirminhalt</string>
     <string name="permission_usage_projection_screen_use">Zugriff auf oder Aufnahme von Bildschirminhalt</string>
+    <string name="permission_usage_projection_screen_use_app">%1s griff auf den Bildschirminhalt zu oder zeichnete ihn auf</string>
     <string name="permission_usage_terminal_camera_once">%1$s | Diese App hat die Kamera dieses Geräts verwendet</string>
     <string name="permission_usage_terminal_camera_use">Diese App verwendet die Kamera dieses Geräts</string>
     <string name="permission_usage_terminal_screen_once">%1$s | Diese App verwendete den Bildschirm dieses Geräts</string>

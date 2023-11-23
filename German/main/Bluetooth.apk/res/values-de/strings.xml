@@ -60,6 +60,9 @@
     <string name="bluetooth_sap_notif_ticker">Bluetooth SIM-Zugriff</string>
     <string name="bluetooth_sap_notif_title">Bluetooth SIM-Zugriff</string>
     <string name="broadcast_notification_name">Übertragungsstatus</string>
+    <string name="bt_Auracast_audio_share_notification_content">Tippen, um Optionen anzuzeigen</string>
+    <string name="bt_Auracast_audio_share_notification_title">Audio teilen</string>
+    <string name="bt_audio_share_assistant_notification_title">Dem Radio in der Nähe zuhören</string>
     <string name="bt_audio_share_notification_content">Tippen, um Optionen anzuzeigen</string>
     <string name="bt_audio_share_notification_title">Audio teilen</string>
     <string name="bt_enable_cancel">Abbrechen</string>
@@ -163,6 +166,7 @@
     <string name="mi_audio_relay_phone_name">Xiaomi-Telefon</string>
     <string name="mi_audio_relay_title">Wiedergabegeräte auswählen</string>
     <string name="midnight">Nacht</string>
+    <string name="miheadset_close_broadcast_audio">Sendung schließen</string>
     <string name="miui_transfer_history_title">Bluetooth-Übertragungen</string>
     <string name="miui_transfer_inbound_title">Empfangen</string>
     <string name="miui_transfer_outbound_title">Gesendet</string>
@@ -228,6 +232,8 @@
     <string name="not_exist_file">Keine Datei</string>
     <string name="not_exist_file_desc">Datei ist nicht vorhanden</string>
     <string name="noti_caption">%1$s erfolgreich, %2$s fehlgeschlagen</string>
+    <string name="notice_Auracast_audio_share_disconnected">Kein Teilen von Audio mehr wegen unterbrochener Verbindung</string>
+    <string name="notice_audio_share_classic_disconnected">Audio teilen gestoppt</string>
     <string name="notice_audio_share_disconnected">Kein Teilen von Audio mehr wegen unterbrochener Verbindung</string>
     <string name="notification_received">Bluetooth-Freigabe: %1$s empfangen</string>
     <string name="notification_received_fail">Bluetooth-Freigabe: Datei %1$s nicht empfangen</string>
