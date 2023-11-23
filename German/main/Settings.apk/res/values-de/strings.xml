@@ -903,11 +903,13 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="assist_gesture_sensitivity_title">Empfindlichkeit</string>
     <string name="assist_gesture_title">Hilfsgeste</string>
     <string name="assistance_category_title">Eingabehilfen</string>
+    <string name="assistant_add_fail">Zuhören geht jetzt nicht. Einen Moment warten und erneut versuchen.</string>
     <string name="assistant_corner_gesture_summary">Von einer unteren Ecke nach oben wischen, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_corner_gesture_title">Wischen zum Aufrufen des Assistenten</string>
     <string name="assistant_gesture_category_title">Digitaler Assistent</string>
     <string name="assistant_long_press_home_gesture_summary">Home-Taste gedrückt halten, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_long_press_home_gesture_title">Home für Assistenten gedrückt halten</string>
+    <string name="assistant_operate_timeout">Anfrage abgebrochen. Erneut versuchen.</string>
     <string name="assistant_security_warning_agree">Zustimmen</string>
     <string name="assisted_gps">Unterstütztes GPS verwenden</string>
     <string name="assisted_gps_disabled">Server zur Unterstützung von GPS verwenden (Ausschalten, um GPS-Leistung zu verbessern)</string>
@@ -933,11 +935,12 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="audio_share_cancel">Nein danke</string>
     <string name="audio_share_confirm">Teilen</string>
     <string name="audio_synced">Audio synchronisiert</string>
+    <string name="auracast_scan_not_support">Nicht mit kompatiblen Ohrhörern verbunden. Keine Sendungen in der Nähe gefunden.</string>
     <string name="auto_adjst_effect_summary">Automatische Anpassung der Farbtemperatur an das Umgebungslicht</string>
     <string name="auto_adjust_effect_title">Farbtemperatur automatisch anpassen</string>
     <string name="auto_anc_closed">Aus</string>
     <string name="auto_anc_fifteen_recover">%d Sek</string>
-    <string name="auto_anc_five_recover">%d sSek</string>
+    <string name="auto_anc_five_recover">%d Sek</string>
     <string name="auto_anc_not_recover">Weiter</string>
     <string name="auto_anc_ten_recover">%d Sek</string>
     <string name="auto_backup">Regelmäßige Sicherung planen</string>
@@ -1040,6 +1043,10 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="automatic_storage_manager_text">Um Speicher freizugeben, entfernt der Speichermanager gesicherte Fotos und Videos von Ihrem Gerät.</string>
     <string name="automatic_system_heap_dump_summary">Automatisch Heap-Dump für das Android-System erfassen, wenn es zu viel Speicher verbraucht</string>
     <string name="automatic_system_heap_dump_title">Automatisch System-Heap-Dumps erfassen</string>
+    <string name="autoui_mode_guide_text">Optimieren Sie In-App-Layouts für kompatible Apps, um das visuelle Erlebnis zu verbessern</string>
+    <string name="autoui_mode_name">App-Layout optimieren</string>
+    <string name="autoui_mode_no_support_apps">Keine kompatiblen Apps gefunden</string>
+    <string name="autoui_search_hint">Apps suchen</string>
     <string name="available_size">%s verfügbar</string>
     <string name="available_via_app">Verfügbar über %1$s</string>
     <string name="available_virtual_keyboard_category">Verfügbare virtuelle Tastatur</string>
@@ -1458,6 +1465,12 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bluetooth_audio_share_request_disable_title">Gerät wechseln?</string>
     <string name="bluetooth_audio_share_request_disconnect">Wenn Sie jetzt die Verbindung trennen, werden Ihre Geräte bei der nächsten Verbindung nicht mehr automatisch Audio teilen. Verbindung trotzdem trennen?</string>
     <string name="bluetooth_audoi_share">" | Audio teilen"</string>
+    <string name="bluetooth_auracast_assist_add_source">Zuhören</string>
+    <string name="bluetooth_auracast_password_input_hint">Verbindungscode eingeben</string>
+    <string name="bluetooth_auracast_source_and_assistant_text">Audio an andere Geräte senden und nach Audiosendungen in der Nähe suchen</string>
+    <string name="bluetooth_auracast_source_available_connect">Sendungen in der Nähe</string>
+    <string name="bluetooth_auracast_source_explain_summary">Wenn aktiviert, können Personen in der Nähe mit einem Verbindungscode Audio von Ihrem Gerät empfangen</string>
+    <string name="bluetooth_auracast_source_opend_summary">"Verbindungscode: "</string>
     <string name="bluetooth_auto_connect">Automatisch verbinden</string>
     <string name="bluetooth_battery_level">Akku %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s Akku, R: %2$s Akku</string>
@@ -4315,6 +4328,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="guest_reset_guest_dialog_title">Gast zurücksetzen?</string>
     <string name="guest_resetting">Gast zurücksetzen…</string>
     <string name="guide_button_text">Verstanden</string>
+    <string name="guide_summary_1">Audio an Geräte in der Nähe senden</string>
+    <string name="guide_summary_2">Von anderen Personen geteilte Sendungen anhören</string>
     <string name="guide_text_center">In der Mitte des Bildschirms gerade nach oben wischen. \nBereich zur Bestätigung der Bildschirmsperre wird mittig ausgerichtet.</string>
     <string name="guide_text_left">Von der unteren linken Ecke aus gerade nach oben wischen. \nBereich zur Bestätigung der Bildschirmsperre wird nach links verschoben.</string>
     <string name="guide_text_right">Von der unteren rechten Ecke aus gerade nach oben wischen. \nBereich zur Bestätigung der Bildschirmsperre wird nach rechts verschoben.</string>
@@ -5683,6 +5698,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="max_aspect_settings_all_app_display_loading">Einen Moment…</string>
     <string name="max_fingerprint_number_reached">Mehr als 5 Fingerabdrücke können nicht gespeichert werden. Um einen weiteren hinzuzufügen, müssen Sie zuerst einen löschen.</string>
     <string name="max_fingerprint_reached_toast">Sie können bis zu 5 Fingerabdrücke hinzufügen</string>
+    <string name="max_fps_right_value">Bis zu %s Hz</string>
     <string name="max_number_of_processes">Höchstens %d Prozesse</string>
     <string name="maximum_memory_use">Maximaler Speicherverbrauch</string>
     <string name="mbn_version">MBN-Version</string>
@@ -5720,6 +5736,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="media_output_title">Medien abspielen auf</string>
     <string name="media_transfer_default_device_name">Verbundenes Gerät</string>
     <string name="media_transfer_dock_speaker_device_name">Dock-Lautsprecher</string>
+    <string name="media_transfer_external_device_name">Externes Gerät</string>
     <string name="media_transfer_this_device_name">Dieses Gerät</string>
     <string name="media_transfer_this_phone">Dieses Telefon</string>
     <string name="media_transfer_wired_device_name">Kabelgebundenes Audiogerät</string>
@@ -5797,6 +5814,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mi_pay_summary">Buskarte/Mi Pay/Schlüsselkarte</string>
     <string name="mi_service_app_detail">Angaben zur Datennutzung</string>
     <string name="mi_upi_settings">Mi Pay-Konto</string>
+    <string name="mibi_cta_CANCEL">Abbrechen</string>
+    <string name="mibi_cta_CheckBox">Nicht mehr anzeigen</string>
+    <string name="mibi_cta_description">"Um Tethering zu nutzen, ist ein Abo erforderlich. Wenn Sie kein Abonnement haben, wenden Sie sich bitte an My au.
+%s"</string>
     <string name="mic_toggle_description">Für Apps und Dienste. Wenn diese Einstellung deaktiviert ist, werden Mikrofondaten ggf. trotzdem weitergegeben, wenn Sie eine Notrufnummer anrufen.</string>
     <string name="mic_toggle_title">Mikrofonzugriff</string>
     <string name="micloud_service_summary">App-Liste synchronisieren, Systemeinstellungen und Startbildschirm-Layout sichern</string>
@@ -5995,6 +6016,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_bubbles_notification">Sprechblasen</string>
     <string name="miui_bubbles_notification_status_opened">An</string>
     <string name="miui_data_usage_menu_metered">Mobile Hotspots</string>
+    <string name="miui_desktop_mode_settings">Arbeitsplatz</string>
     <string name="miui_device_control_description">Apps anzeigen, die Gerätesteuerung unterstützen, um kompatible Smart Home-Geräte steuern zu können</string>
     <string name="miui_enable_service_title">Dienst führt folgende Aktionen durch:</string>
     <string name="miui_experience_optimization">Systemoptimierung einschalten</string>
@@ -7122,6 +7144,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="password">Passwort</string>
     <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
     <string name="password_and_security">Passwörter &amp; Sicherheit</string>
+    <string name="password_check_fail">Falscher Code</string>
     <string name="password_entrance_title">Bildschirmsperre festlegen</string>
     <string name="password_guard">Passwort</string>
     <string name="password_null">Passwort kann nicht leer sein</string>
@@ -9011,6 +9034,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="sim_combination_warning_notification_title">Problem mit SIM-Kombination</string>
     <string name="sim_disable_sim_lock">SIM entsperren</string>
     <string name="sim_editor_title">SIM %1$d</string>
+    <string name="sim_enable_sim_lock">SIM sperren</string>
     <string name="sim_enter_cancel">Abbrechen</string>
     <string name="sim_enter_new">Neue SIM-PIN</string>
     <string name="sim_enter_old">Alte SIM-PIN</string>
