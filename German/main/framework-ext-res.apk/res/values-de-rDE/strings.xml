@@ -119,6 +119,10 @@
     <string name="device_status_waiting">Einen Moment…</string>
     <string name="device_xiaomi">Mi-Telefon</string>
     <string name="dewdrops">Morgentau</string>
+    <string name="dialog_enable_mic_btn_negative">Abbrechen</string>
+    <string name="dialog_enable_mic_btn_positive">Einschalten</string>
+    <string name="dialog_enable_mic_message">Um diese Funktion zu nutzen, schalten Sie zuerst das Mikrofon ein.</string>
+    <string name="dialog_enable_mic_title">Mikrofon einschalten</string>
     <string name="digitaluniverse">Digitales Universum (Stereo)</string>
     <string name="disable_nfc">Für kabelloses Laden NFC ausgeschaltet</string>
     <string name="disable_nfc_haptic_reverse">NFC und Vibration für das kabellose Umkehrladen ausgeschaltet</string>
@@ -567,6 +571,8 @@
     <string name="tip_for_phone_and_camera">Gerät falten, um den integrierten Lautsprecher oder die Frontkamera zu verwenden</string>
     <string name="tip_use_front_camera">Gerät falten, um die \ndie Frontkamera zu verwenden</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="toast_mic_muted">Mikrofon ist aus</string>
+    <string name="toast_mic_unmuted">Mikrofon ist an</string>
     <string name="tof_music_support_scene_des">Unterstützt Musikplayer-Steuerungen</string>
     <string name="tof_office_support_scene_des">Unterstützt Word-Dokumente und PowerPoint-Präsentationen</string>
     <string name="tof_short_video_support_scene_des">Unterstützt Umschalten zwischen Videos</string>
@@ -609,6 +615,7 @@
     <string name="wallpaper_group_curves_title">Kurven</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dynamischer Nebel</string>
     <string name="wallpaper_group_geometric_title">Geometrie</string>
+    <string name="wallpaper_group_glassy_light_title">Geschichtetes Glas</string>
     <string name="wallpaper_group_light_cycles_title">Neonkreise</string>
     <string name="wallpaper_group_macaron_title">Kiesel</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalismus</string>
@@ -617,7 +624,7 @@
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen und andere</string>
     <string name="wallpaper_group_natural_texture_title">Naturmuster</string>
     <string name="wallpaper_group_petros_koublis_title">Tagträume</string>
-    <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universität von Arizona</string>
+    <string name="wallpaper_group_shadow_geometry_title">Geometrie der Schatten</string>
     <string name="wallpaper_overlapping_space_title">Form und Schatten</string>
     <string name="wallpaper_submerged_wing_title">Texturen</string>
     <string name="waterdrop_preview">Tröpfchen</string>

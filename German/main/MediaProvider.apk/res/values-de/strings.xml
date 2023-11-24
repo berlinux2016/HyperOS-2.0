@@ -104,9 +104,10 @@
     <string name="picker_banner_cloud_dismiss_button">Ablehnen</string>
     <string name="picker_banner_cloud_first_time_available_desc">Sie können Fotos vom %1$s-Konto %2$s wählen</string>
     <string name="picker_banner_cloud_first_time_available_title">Gesicherte Fotos jetzt enthalten</string>
+    <string name="picker_browse">Durchsuchen...</string>
     <string name="picker_category_camera">Kamera</string>
     <string name="picker_category_favorites">Favoriten</string>
-    <string name="picker_cloud_sync">Cloud media now available from %1$s</string>
+    <string name="picker_cloud_sync">Cloud-Medien jetzt verfügbar von %1$s</string>
     <string name="picker_error_dialog_body">Internetverbindung prüfen und erneut versuchen</string>
     <string name="picker_error_dialog_positive_action">Wiederholen</string>
     <string name="picker_error_dialog_title">Probleme beim Abspielen des Videos</string>
@@ -134,7 +135,7 @@
     <string name="picker_settings_selection_message">Zugriff auf Cloud-Medien von</string>
     <string name="picker_settings_system_settings_menu_title">Cloud-Medien-App</string>
     <string name="picker_settings_title">Cloud-Medien-App</string>
-    <string name="picker_settings_toast_error">Die Cloud-Medien-App kann zurzeit nicht geändert werden.</string>
+    <string name="picker_settings_toast_error">Cloud-Medien-App kann zurzeit nicht geändert werden.</string>
     <string name="picker_unmute_video">Videostummschaltung aufheben</string>
     <string name="picker_video_item_content_desc">Video aufgenommen am %1$s mit einer Dauer von %2$s</string>
     <string name="picker_view_selected">Gewähltes anzeigen</string>
