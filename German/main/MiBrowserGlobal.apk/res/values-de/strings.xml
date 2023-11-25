@@ -494,11 +494,6 @@
     <string name="debug_user_firebase_config_search_hint">Konfiguration suchen</string>
     <string name="debug_youtube_file">YouTube-Datei debuggen</string>
     <string name="debug_youtube_in_release">Youtube im Release debuggen</string>
-    <string name="decompress">Entpacken</string>
-    <string name="decompress_fail">Entpacken nicht möglich</string>
-    <string name="decompress_success">Erfolgreich entpackt</string>
-    <string name="decompress_view">Anzeigen</string>
-    <string name="decompress_viewer_label">Archivverwalter (Mi Browser)</string>
     <string name="decompressed_files">Entpackte Dateien</string>
     <string name="deeplink_intrercept_hint">Dieses Popup schlägt vor, eine App zu öffnen.</string>
     <string name="deeplink_intrercept_second_hint">Die Website ist im Begriff, eine App zu öffnen. Diese Aktion wurde vorerst gestoppt.</string>
@@ -1471,6 +1466,10 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="news_load_failed">Tippen, um es erneut zu versuchen</string>
     <string name="news_loading">Laden…</string>
     <string name="news_native_see_all">Kompletter Artikel</string>
+    <string name="news_video_history">Verlauf</string>
+    <string name="news_video_history_empty">Hier ist noch nichts</string>
+    <string name="news_video_invisible_item">Dieses Video kann nicht angezeigt werden</string>
+    <string name="news_video_no_more_videos">Das ist alles für den Moment</string>
     <string name="next">Weiter</string>
     <string name="nf_choose_reason">Beschreiben Sie das Problem</string>
     <string name="nf_content_promo_label">PROMO</string>
@@ -2528,6 +2527,9 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="video_downloader_retry">Erneut versuchen</string>
     <string name="video_downloading_group">Herunterladen</string>
     <string name="video_edit">Bearbeiten</string>
+    <string name="video_feedback_description">Wir sammeln und verwenden die von Ihnen oben eingegebenen Daten, um Ihre Nutzererfahrung zu verbessern. Um mehr darüber zu erfahren, wie wir Ihre persönlichen Daten sammeln und verarbeiten, lesen Sie bitte unsere Datenschutzerklärung.</string>
+    <string name="video_feedback_description_title">Diese Daten werden nur für Inhaltsempfehlungen verwendet</string>
+    <string name="video_feedback_not_sumbit_toast">Wählen Sie eine Antwort vor dem Absenden</string>
     <string name="video_float_window_text">Popup-Video</string>
     <string name="video_fragment_name_collections">Favoriten</string>
     <string name="video_fragment_name_download">Offline-Video</string>

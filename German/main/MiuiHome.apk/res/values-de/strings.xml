@@ -780,6 +780,7 @@
     <string name="switch_screen_button_order">Tasten spiegeln</string>
     <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
     <string name="system_shortcuts_edit">Bearbeiten</string>
+    <string name="system_shortcuts_icon_remove">Entfernen</string>
     <string name="system_shortcuts_more_operation">App-Info</string>
     <string name="system_shortcuts_remove">Entfernen</string>
     <string name="system_text">Automatisch</string>
