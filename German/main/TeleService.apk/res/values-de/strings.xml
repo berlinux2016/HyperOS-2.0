@@ -2110,6 +2110,8 @@
     <string name="vm_change_pin_old_pin">Alte PIN</string>
     <string name="vm_change_pin_progress_message">Bitte warten</string>
     <string name="vm_changed">Sprachboxnummer geändert</string>
+    <string name="voice_link_switch_summary">Daten-SIM verwenden, um Telefonate zu unterstützen, wenn keine Internetverbindung besteht</string>
+    <string name="voice_link_switch_title">Datenunterstütztes Telefonieren</string>
     <string name="voice_number_setting_primary_user_only">Sprachboxeinstellungen können nur vom Hauptbenutzer geändert werden</string>
     <string name="voice_privacy">Datenschutz für Sprachnotizen</string>
     <string name="voice_privacy_summary">Erweiterten Datenschutzmodus aktivieren</string>

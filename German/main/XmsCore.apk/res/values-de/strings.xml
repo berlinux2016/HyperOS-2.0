@@ -20,6 +20,8 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="after_reset_need_restore_system_app">Anscheinend haben Sie einen Werksreset durchgeführt. Mit Netzwerk verbinden und Systemelemente wiederherstellen, um das Gerät normal zu verwenden.</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="app_disable_description_content">Deaktivierung dieser App kann dazu führen, dass einige Systemfunktionen nicht richtig funktionieren.</string>
+    <string name="app_disable_description_title">System SDK deaktivieren?</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="click_to_restore">Systemelemente wiederherstellen, um das Gerät nach einem Werksreset normal zu verwenden. Zum Starten tippen.</string>
     <string name="close">Schließen</string>

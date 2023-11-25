@@ -334,6 +334,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="disconnect_device">Gerät trennen</string>
     <string name="early_morning">Morgen</string>
     <string name="easy_tether_auto_connect_summary">Mobilen Hotspot automatisch einschalten und eine Verbindung herstellen, wenn Geräte in der Nähe mit demselben Konto Internetzugang benötigen</string>
+    <string name="easy_tether_auto_connect_toast">Verbunden mit dem Hotspot von %1$s. Legen Sie in diesem Gerät unter Einstellungen > Persönlicher Hotspot Datenlimits fest.</string>
     <string name="easy_tether_cancel">Abbrechen</string>
     <string name="easy_tether_confirm">Bestätigen</string>
     <string name="easy_tether_next_auto_connect">Nächstes Mal automatisch verbinden?</string>
@@ -372,6 +373,7 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="fast_connect_connection_fail">Verbinden nicht möglich</string>
     <string name="fast_connect_device_battery">Akku</string>
     <string name="fast_connect_device_box">Ladebox</string>
+    <string name="fast_connect_device_button_audio_share_fail">Verstanden</string>
     <string name="fast_connect_device_connect_cancel">Abbrechen</string>
     <string name="fast_connect_device_connect_ok">Verbinden</string>
     <string name="fast_connect_device_connect_retry">Wiederholen</string>
@@ -562,6 +564,15 @@ Drücken Sie \"Löschen und konvertieren…\", um fortzufahren."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Passwörter stimmen nicht überein</string>
     <string name="local_backup_password_toast_success">Neues Sicherungspasswort festgelegt</string>
     <string name="local_backup_password_toast_validation_failure">Sicherungspasswort wurde nicht festgelegt</string>
+    <string name="lyra_account_ap_summary">Bei Ihrem Xiaomi-Konto angemeldeten Tablets und Computern in der Nähe erlauben, den Hotspot auf diesem Gerät einzuschalten und sich mit ihm zu verbinden</string>
+    <string name="lyra_account_ap_title">Netzwerkunterstützung</string>
+    <string name="lyra_auto_connect_cancel">Abbrechen</string>
+    <string name="lyra_auto_connect_check_box">Bei Ihrem Xiaomi-Konto angemeldete Geräte automatisch verbinden (Sie können diese Funktion später in Einstellungen deaktivieren)</string>
+    <string name="lyra_auto_connect_confirm">Verbinden</string>
+    <string name="lyra_auto_connect_header">%1$s Hotspot</string>
+    <string name="lyra_auto_connect_msg">Anscheinend ist dieses Gerät nicht mit dem Netzwerk verbunden. Sie können eine Verbindung zu diesem Hotspot herstellen.</string>
+    <string name="lyra_auto_connect_summary">Hotspot automatisch einschalten und mit Ihrem Xiaomi-Konto angemeldete Geräte in der Nähe damit verbinden, wenn sie nicht mit dem Netzwerk verbunden sind</string>
+    <string name="lyra_auto_connect_title">Hotspot automatisch einschalten</string>
     <string name="managed_user_title">Alle Arbeits-Apps</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_selection">Stunde auswählen</string>

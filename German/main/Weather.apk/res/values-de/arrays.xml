@@ -107,14 +107,14 @@
         <item>Bewölkt</item>
         <item>Bedeckt</item>
         <item>Neblig</item>
-        <item>Starkregen/Sturm</item>
+        <item>Starkregen</item>
         <item>Platzregen</item>
-        <item>Regen/Sturm</item>
-        <item>Gewitter/Sturm</item>
+        <item>Regensturm</item>
+        <item>Gewitter</item>
         <item>Regen</item>
-        <item>Starker Regen</item>
+        <item>Schwere Regenfälle</item>
         <item>Mäßiger Regen</item>
-        <item>Leichter Regen</item>
+        <item>Nieselregen</item>
         <item>Schneeregen</item>
         <item>Schneesturm</item>
         <item>Schneefall</item>
@@ -126,10 +126,9 @@
         <item>Sand</item>
         <item>Staubsturm</item>
         <item>Hagel</item>
-        <item>Staub</item>
+        <item>Feinstaub</item>
         <item>Dunst</item>
         <item>Gefrierender Regen</item>
-        <item>Keine Daten</item>
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>

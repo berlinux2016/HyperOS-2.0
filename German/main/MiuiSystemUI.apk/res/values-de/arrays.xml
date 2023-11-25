@@ -1,30 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="battery_options">
-        <item>Immer Prozente anzeigen</item>
-        <item>Prozente beim Laden anzeigen (Standard)</item>
+        <item>Immer Prozent anzeigen</item>
+        <item>Prozent beim Laden anzeigen (Standard)</item>
         <item>Symbol nicht anzeigen</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Stunden, Minuten und Sekunden anzeigen</item>
-        <item>Stunden und Minuten anzeigen (Standard)</item>
+        <item>Stunde, Minute und Sekunde anzeigen</item>
+        <item>Stunde und Minute anzeigen (Standard)</item>
         <item>Symbol nicht anzeigen</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Standard)</item>
-        <item>OpenGL (Skia)</item>
-    </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Aus</item>
-        <item>30 Minuten</item>
-        <item>1 Stunde</item>
-        <item>2 Stunden</item>
-        <item>8 Stunden</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Zwischenablage</item>
         <item>Tastencode</item>
-        <item>Tastatur Umschalter</item>
+        <item>Drehen bestätigen, Tastaturumschalter</item>
         <item>Keine</item>
     </string-array>
     <string-array name="nav_bar_layouts">
@@ -83,10 +72,20 @@
         <item>Aus</item>
         <item>AN</item>
     </string-array>
+    <string-array name="tile_states_dream">
+        <item>Nicht verfügbar</item>
+        <item>Aus</item>
+        <item>An</item>
+    </string-array>
     <string-array name="tile_states_flashlight">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
         <item>AN</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Nicht verfügbar</item>
+        <item>Aus</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_hotspot">
         <item>Nicht verfügbar</item>
@@ -117,6 +116,16 @@
         <item>Nicht verfügbar</item>
         <item>Aus</item>
         <item>AN</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Nicht verfügbar</item>
+        <item>Aus</item>
+        <item>An</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Nicht verfügbar</item>
+        <item>Aus</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>Nicht verfügbar</item>
@@ -158,34 +167,11 @@
         <item>Aus</item>
         <item>AN</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>Klar</item>
-        <item>Wolkig</item>
-        <item>Bedeckt</item>
-        <item>Neblig</item>
-        <item>Starkregen</item>
-        <item>Platzregen</item>
-        <item>Regensturm</item>
-        <item>Gewitter</item>
-        <item>Schauer</item>
-        <item>Schwere Regenfälle</item>
-        <item>Mäßiger Regen</item>
-        <item>Leichter Regen</item>
-        <item>Schneeregen</item>
-        <item>Schneesturm</item>
-        <item>Schneefall</item>
-        <item>Starker Schneefall</item>
-        <item>Mäßiger Schneefall</item>
-        <item>Leichter Schneefall</item>
-        <item>Starker Sandsturm</item>
-        <item>Sandsturm</item>
-        <item>Sand</item>
-        <item>Windig</item>
-        <item>Hagel</item>
-        <item>Staub</item>
-        <item>Nebel</item>
-        <item>Gefrierender Regen</item>
-        <item>Keine Daten</item>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Nach links bewegen</item>
+        <item>Nach unten bewegen</item>
+        <item>Nach rechts bewegen</item>
+        <item>Nach oben bewegen</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>

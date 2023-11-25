@@ -336,6 +336,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="multi_desktop_mode">Arbeitsplatz</string>
     <string name="night">Abend</string>
     <string name="no_avaliable_application">Keine Apps verfügbar</string>
     <string name="noon">Mittag</string>

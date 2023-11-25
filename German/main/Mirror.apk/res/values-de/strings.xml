@@ -323,6 +323,7 @@
     <string name="notify_connected_message">Sie können mit diesem PC Dateien übertragen und mit Ihrem Telefon interagieren</string>
     <string name="notify_connected_message_pad">Fahren Sie mit den App-Aufgaben auf dem verbundenen Computer fort oder verwenden Sie dieses Gerät als Bildschirmerweiterung</string>
     <string name="notify_connected_title">Mit %1$s verbunden</string>
+    <string name="ok_button">Verstanden</string>
     <string name="open_folder">Anzeigen</string>
     <string name="pad_fullscreen_sink_activity_label">Mein Telefon</string>
     <string name="pad_mirror_device_locked_tips_1">Gerät ist gesperrt</string>
