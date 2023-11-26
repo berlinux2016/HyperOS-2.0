@@ -430,7 +430,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_app_order_search_normal">Apps mit normaler Priorität</string>
     <string name="restore_app_order_search_prior">Apps mit hoher Priorität</string>
     <string name="restore_app_order_title">Wiederhergestellte Elemente priorisieren</string>
-    <string name="restore_header_backup_size">Sicherungsgröße: %s</string>
     <string name="restore_cloud_backup_to_phone">Elemente aus Cloud wiederherstellen</string>
     <string name="restore_data_summary">Diese Funktion benötigt eine Internetverbindung</string>
     <string name="restore_data_title">Daten wiederherstellen</string>
@@ -452,6 +451,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_from_cloud">Wiederherstellen aus Cloud-Sicherung</string>
     <string name="restore_from_mimover">Von Ihrem alten Gerät mit Mi Mover übertragen</string>
     <string name="restore_from_this_device">Sicherung wählen</string>
+    <string name="restore_header_backup_size">Sicherungsgröße: %s</string>
     <string name="restore_header_msg">Vergewissern Sie sich vor der Wiederherstellung von WeChat-Daten, dass WeChat nicht auf diesem Gerät installiert ist. Öffnen oder verwenden Sie WeChat nicht, während die Daten wiederhergestellt werden.</string>
     <string name="restore_header_title">Gesamtgröße: %s</string>
     <string name="restore_header_title2">Sicherungen insgesamt: %s</string>
