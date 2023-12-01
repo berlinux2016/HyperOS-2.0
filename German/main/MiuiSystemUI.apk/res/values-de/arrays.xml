@@ -57,6 +57,11 @@
         <item>Aus</item>
         <item>AN</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Nicht verfügbar</item>
+        <item>Aus</item>
+        <item>An</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>Nicht verfügbar</item>
         <item>Aus</item>

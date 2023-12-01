@@ -1942,7 +1942,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_absVolume_open_dialog_summary">Wegen Kompatibilitätsproblemen können einige Bluetooth-Geräte anormale Lautstärkepegel aufweisen, die durch Ausschalten dieser Funktion behoben werden können.</string>
     <string name="bt_absVolume_open_dialog_title">Achtung</string>
-    <string name="bt_absVolume_pre_title">Absolute Lautstärke</string>
+    <string name="bt_absVolume_pre_title">Lautstärke konstant halten</string>
     <string name="bt_absVolume_summary">Lautstärke der Bluetooth-Geräte und des Telefons strikt einheitlich halten. Sie können diese Funktion ein- und ausschalten, wenn keine Medien im Hintergrund abgespielt werden.</string>
     <string name="bt_always_show_icon">Bluetooth-Symbol nicht in der Statusleiste anzeigen</string>
     <string name="bt_always_show_icon_summary">Bluetooth-Symbol nur in der Benachrichtigungsleiste und im Kontrollzentrum anzeigen</string>
@@ -7208,6 +7208,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="phone_info_label">Über das Telefon</string>
     <string name="phone_language">Sprache</string>
     <string name="photo_data">Fotos und Videos</string>
+    <string name="photography_handle_title">Kameragriff</string>
     <string name="physical_keyboard_title">Physische Tastatur</string>
     <string name="pick_up_gesture_wakeup_title">Gerät zum Aufwecken anheben</string>
     <string name="picker_text">Zeitauswahl</string>

@@ -129,6 +129,7 @@
         <item>Feinstaub</item>
         <item>Dunst</item>
         <item>Gefrierender Regen</item>
+        <item></item>
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>

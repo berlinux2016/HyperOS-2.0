@@ -549,6 +549,7 @@
     <string name="pa_setting_app_usage_auth_close_auth">Ausschalten</string>
     <string name="pa_setting_app_usage_auth_dialog_message">Sie können das Widget \"App-Vorschläge\" nicht mehr verwenden, wenn Sie diese Funktion deaktivieren. Trotzdem ausschalten?</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Vorsicht</string>
+    <string name="pa_setting_new_simplify_title_bar">Infoassistent</string>
     <string name="pa_setting_perm_empty">Noch nichts da</string>
     <string name="pa_setting_personalized_recommenddation_swicth_summary">Erhalten Sie Widget-Empfehlungen basierend auf Ihren Interessen</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Personalisierte Empfehlungen</string>
@@ -720,6 +721,10 @@
     <string name="pa_widget_menu_edit">Bearbeiten</string>
     <string name="pa_widget_menu_edit_card_in_stack">\"%s\" bearbeiten</string>
     <string name="pa_widget_menu_edit_stack">Gruppe bearbeiten</string>
+    <string name="pa_widget_menu_improve_edit">Bearbeiten</string>
+    <string name="pa_widget_menu_improve_remove">Entfernen</string>
+    <string name="pa_widget_menu_improve_remove_card_in_stack">\"%s\" entfernen</string>
+    <string name="pa_widget_menu_improve_replace">Ersetzen</string>
     <string name="pa_widget_menu_remove">Entfernen</string>
     <string name="pa_widget_menu_remove_card_in_stack">\"%s\" entfernen</string>
     <string name="pa_widget_menu_replace">Wechseln</string>

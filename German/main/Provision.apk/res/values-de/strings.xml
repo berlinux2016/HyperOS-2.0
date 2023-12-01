@@ -109,6 +109,7 @@
     <string name="disagreement_mi_account_abnormal">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie die Xiaomi-Konto-Dienste nicht nutzen. Sie können die Xiaomi-Konto-Dienste jederzeit unter Einstellungen > Xiaomi-Konto ein- oder ausschalten.</string>
     <string name="disagreement_service_not_working_properly">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie diese App nicht nutzen.</string>
     <string name="disagreement_service_not_working_properly_settings">Wenn Sie diesen Berechtigungen nicht zustimmen, kann dieser Dienst nicht normal funktionieren.</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">Wenn Sie diese Berechtigungen nicht erteilen, kann der Dienst nicht normal funktionieren.</string>
     <string name="disagreement_terminate_bluetooth">Wenn Sie diese Berechtigungen nicht erteilen möchten, können Sie Bluetooth nicht verwenden. In Einstellungen > Bluetooth können Sie Bluetooth ein- und ausschalten und Bluetooth-Geräte hinzufügen.</string>
     <string name="disagreement_terminate_miuidaemon">Wir verwenden die Berechtigungen nur, wenn Sie mit der Übertragung von Daten von Ihrem Gerät beginnen, wenn der Bildschirm beschädigt ist. Wenn Sie nicht zustimmen, diese Berechtigungen zu gewähren, können Sie diese App nicht verwenden.</string>
     <string name="disagreement_terminate_service">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen. In solchen Fällen können Sie in den Einstellungen die Berechtigungen deinstallieren, abmelden oder einschränken.</string>
@@ -254,6 +255,8 @@ Die verfügbaren Vernetzungsdienste können sich je nach Systemversion und Gerä
     <string name="location_introduction_qcom">Standortdienste nutzen Ortung, um standortspezifische Dienste anzubieten. Wenn Ihr Gerät Standortdienste nutzt, stellt das QCC-Modul eine Netzwerkverbindung her, um den Ortungsprozess zu beschleunigen.</string>
     <string name="location_location">Notfallrettungsorganisationen können auf Anfrage Ihren aktuellen Standort erfahren</string>
     <string name="lockscreen_introduction">Hintergrundkarussell erlaubt Ihnen, täglich frische Bilder an Ihren Sperrbildschirm zu senden.</string>
+    <string name="media_storage_devices">Medienspeichergeräte</string>
+    <string name="media_storage_introduction">Dieser Dienst erlaubt Apps den Zugriff auf und das Speichern von Fotos, Videos, Audio und Dateien.</string>
     <string name="member_exclusive_medal">Mitgliedschaftsabzeichen</string>
     <string name="membership_rights_tip">Mit Xiaomi-Konto anmelden, um exklusive Vorteile zu erhalten</string>
     <string name="message_introduction">Mit dieser App können Sie SMS senden und empfangen.</string>
@@ -427,6 +430,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="permission_login_introduction">Zur Systemkontenanmeldung und -Verwaltung</string>
     <string name="permission_make_a_call">Anrufen</string>
     <string name="permission_make_a_call_fast_application_summary">Damit Quick Apps telefonieren können;</string>
+    <string name="permission_media_storage_summary">Zur Prüfung, wie Apps datenschutzbezogene Berechtigungen beim Zugriff auf Dateien verwenden</string>
     <string name="permission_message_introduction">Zum Senden von Nachrichten an gesperrte Kontakte</string>
     <string name="permission_number">Zugriff auf Rufnummer</string>
     <string name="permission_number_introduction">Zum Herstellen einer Bluetooth-Verbindung mit Fahrzeugsystemen und Bluetooth-Ohrhörern</string>
