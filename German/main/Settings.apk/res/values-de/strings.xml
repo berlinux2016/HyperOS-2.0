@@ -29,7 +29,6 @@
     <string name="abc_slice_error">Verbinden nicht möglich</string>
     <string name="abc_slice_more">Mehr</string>
     <string name="abc_slice_permission_allow">Erlauben</string>
-    <string name="abc_slice_permission_checkbox">%1$s erlauben, Teile einer beliebigen App anzuzeigen</string>
     <string name="abc_slice_permission_deny">Verweigern</string>
     <string name="abc_slice_permission_text_1">- Sie kann Infos aus %1$s lesen</string>
     <string name="abc_slice_permission_text_2">- Sie kann Aktionen innerhalb von %1$s ausführen</string>
@@ -44,7 +43,6 @@
     <string name="about_phone_enter_xiaomi_net">Mehr erfahren</string>
     <string name="about_settings">Über das Telefon</string>
     <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
-    <string name="about_summary">Auf Android %1$s aktualisiert</string>
     <string name="ac_enable_summary">Passwort erforderlich, um die App zu öffnen</string>
     <string name="ac_enable_title">Apps sperren</string>
     <string name="ac_privacy_mode_sum">Zum Beenden des Gastmodus ist ein Passwort erforderlich</string>
@@ -68,9 +66,8 @@
     <string name="accessibility_audio_description_summary">Sie hören eine Beschreibung des Geschehens am Bildschirm in unterstützten Filmen und Serien</string>
     <string name="accessibility_autoclick_about_title">Über Autoklick (Verweilzeit)</string>
     <string name="accessibility_autoclick_custom_title">Benutzerdefiniert</string>
-    <string name="accessibility_autoclick_default_title">Aus</string>
-    <string name="accessibility_autoclick_delay_preference_title">Vor dem Tippen verzögern</string>
-    <string name="accessibility_autoclick_description">Wenn Sie eine Maus verwenden, können Sie den Cursor auf automatisch reagieren einstellen, wenn er sich für eine bestimmte Zeit nicht mehr bewegt.</string>
+    <string name="accessibility_autoclick_default_title">Autoklick aus</string>
+    <string name="accessibility_autoclick_description">Autoclick kann hilfreich sein, wenn das Klicken mit der Maus schwierig ist</string>
     <string name="accessibility_autoclick_footer_learn_more_content_description">Mehr über Autoklick (Verweildauer) erfahren</string>
     <string name="accessibility_autoclick_intro_text">Sie können eine angeschlossene Maus so einstellen, dass sie automatisch klickt, wenn sich der Cursor eine bestimmte Zeit lang nicht bewegt</string>
     <string name="accessibility_autoclick_long_summary">1 Sekunde</string>
@@ -86,11 +83,17 @@
     <string name="accessibility_back">Zurück</string>
     <string name="accessibility_banner_message_dismiss">Verwerfen</string>
     <string name="accessibility_button_about_title">Über Eingabehilfen-Taste</string>
-    <string name="accessibility_button_description">"Eingabehilfen können von jedem Bildschirm aus schnell genutzt werden.\n\nGehen Sie dazu zu den Eingabehilfeneinstellungen und wählen Sie eine Funktion. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfentaste aus."</string>
+    <string name="accessibility_button_description"><b>Für den Einstieg</b>"
+1. Gehen Sie zu den Eingabehilfen-Einstellungen.
+2. Wählen Sie eine Funktion und tippen Sie auf die Verknüpfung.
+3. Wählen Sie die Taste für den Zugriff auf die Funktion."</string>
     <string name="accessibility_button_fade_summary">Blendet nach ein paar Sekunden aus, damit man den Bildschirm besser sehen kann</string>
     <string name="accessibility_button_fade_title">Ausblenden bei Nichtgebrauch</string>
     <string name="accessibility_button_gesture_about_title">Über Eingabehilfen-Taste &amp; Gesten</string>
-    <string name="accessibility_button_gesture_description">"Barrierefreie Funktionen sind von jedem Bildschirm aus schnell zugänglich.\n\nGehen Sie zu den Eingabehilfen-Einstellungen und wählen Sie eine Funktion aus. Tippen Sie auf die Verknüpfung und wählen Sie die Eingabehilfetaste.\n\nUm stattdessen die Eingabehilfetaste in der Navigationsleiste zu verwenden, wechseln Sie zur 2- oder 3-Tasten-Navigation."</string>
+    <string name="accessibility_button_gesture_description"><b>Für den Einstieg</b>"
+1. Gehen Sie zu den Eingabehilfen-Einstellungen.
+2. Wählen Sie eine Funktion und tippen Sie auf die Verknüpfung.
+3. Wählen Sie, ob Sie eine Taste oder eine Geste für den Funktionszugriff verwenden möchten."</string>
     <string name="accessibility_button_gesture_footer_learn_more_content_description">Mehr über Eingabehilfen-Taste &amp; Gesten erfahren</string>
     <string name="accessibility_button_gesture_title">Eingabehilfentaste &amp; -geste</string>
     <string name="accessibility_button_high_label">Nicht transparent</string>
@@ -152,7 +155,6 @@
     <string name="accessibility_display_inversion_preference_title">Farbumkehrung</string>
     <string name="accessibility_display_inversion_shortcut_title">Farbumkehr-Verknüpfung</string>
     <string name="accessibility_display_inversion_switch_title">Farbumkehr verwenden</string>
-    <string name="accessibility_display_title">Bildschirm</string>
     <string name="accessibility_enable">Eingabehilfen</string>
     <string name="accessibility_ethernet_disconnected">Ethernet getrennt</string>
     <string name="accessibility_feature_or_input_method_not_allowed">Von Ihrer Firma nicht erlaubt</string>
@@ -8038,8 +8040,6 @@ UT Interface: %5$s"</string>
     <string name="scheduled_style">Zeitplan</string>
     <string name="screen">Bildschirm</string>
     <string name="screen_brightness">Bildschirmhelligkeit</string>
-    <string name="screen_button">Bildschirmtasten</string>
-    <string name="screen_button_tips">Nach unten ziehen, um die Bildschirmtasten zu verbergen</string>
     <string name="screen_cancel">Abbrechen</string>
     <string name="screen_color_and_optimize">Farben &amp; Kontrast</string>
     <string name="screen_color_and_optimize_disabled">Farbschema und Farbtemperatur im Lesemodus nicht einstellbar</string>
