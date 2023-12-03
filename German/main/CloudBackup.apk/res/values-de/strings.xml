@@ -258,7 +258,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="fmt_date_numeric_day">dd.</string>
     <string name="fmt_date_numeric_month">MM.</string>
     <string name="fmt_date_numeric_month_day">dd.MM.</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">MM.yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d. MMM</string>
