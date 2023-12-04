@@ -186,10 +186,10 @@
     <string name="miui_device_name">Android</string>
     <string name="miui_lock_screen_date">EEEE, d. MMMM</string>
     <string name="miui_lock_screen_date_12">EEEE, d. MMMM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-d. MMMM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-d. MMMM"</string>
+    <string name="miui_lock_screen_date_two_lines">"dd. MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd. MMM
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
 dd.MM."</string>
     <string name="miui_lock_screen_large_date_12">"EEE

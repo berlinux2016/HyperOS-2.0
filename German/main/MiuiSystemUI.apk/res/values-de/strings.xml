@@ -907,7 +907,7 @@
     <string name="format_month_day_week_solar_desc">%3$s, %2$s. %1$s, Feiertag: %4$s</string>
     <string name="format_solar_lunar_calendar_month_day_desc">Feiertag: %1$s, Datum nach traditionellem chinesischem Kalender: %2$s</string>
     <string name="format_week_day_style1">EE d.</string>
-    <string name="format_week_day_style1_desc">%2$s, Tag des Monats: %1$s</string>
+    <string name="format_week_day_style1_desc">%1$s, Tag des Monats: %2$s</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -1350,10 +1350,10 @@
     <string name="miui_keyguard_ble_unlock_succeed_msg">Mit Bluetooth-Gerät entsperrt</string>
     <string name="miui_lock_screen_date">EEEE dd.MM.</string>
     <string name="miui_lock_screen_date_12">EEEE dd.MM.</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MM."</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MM."</string>
+    <string name="miui_lock_screen_date_two_lines">"dd. MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd. MMM
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
 dd.MM."</string>
     <string name="miui_lock_screen_large_date_12">"EEE
