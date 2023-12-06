@@ -179,7 +179,7 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="ssl_error_untrusted">Das Zertifikat ist nicht von einer vertrauenswürdigen Zertifizierungsstelle ausgestellt. Trotzdem verwenden?</string>
+    <string name="ssl_error_untrusted">Dieses Zertifikat ist nicht von einer vertrauenswürdigen Stelle. Trotzdem verwenden?</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
