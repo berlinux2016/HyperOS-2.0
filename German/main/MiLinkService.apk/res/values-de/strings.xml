@@ -295,8 +295,9 @@
     <string name="clipboard_cancel_sync">Abbrechen</string>
     <string name="clipboard_loading">Einfügen von %1$s</string>
     <string name="close">Schließen</string>
-    <string name="close_auxiliary_wifi_hint">\"WLAN-Geschwindigkeit erhöhen\" ausschalten, um übertragen zu können</string>
-    <string name="close_auxiliary_wifi_hint_china">\"WLAN-Geschwindigkeit erhöhen\" ausschalten, um übertragen zu können</string>
+    <string name="close_auxiliary_wifi_hint">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um übertragen zu können</string>
+    <string name="close_auxiliary_wifi_hint_china">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um übertragen zu können</string>
+    <string name="close_dp_casting_hint">Kabel trennen und erneut versuchen</string>
     <string name="close_hotspot_hint">Tragbaren Hotspot vor der Übertragung ausschalten</string>
     <string name="close_hotspot_hint_DFS">Um Elemente auf einen Fernseher zu übertragen, schalten Sie erst den Hotspot aus.</string>
     <string name="close_invisible_mode_dialog_cancel">Abbrechen</string>
@@ -356,6 +357,7 @@
     <string name="device_type_name_phone">Telefon</string>
     <string name="dialog_can_not_find_device">Keine Geräte in der Nähe gefunden</string>
     <string name="dialog_cancle">Abbrechen</string>
+    <string name="dialog_close">Ausschalten</string>
     <string name="dialog_connect_fail">Verbindung fehlgeschlagen</string>
     <string name="dialog_connect_retry">Tippen Sie, um es erneut zu versuchen</string>
     <string name="dialog_connect_verify_perssion">Autorisieren Sie zuerst das Übertragen auf Ihrem Fernseher</string>
@@ -380,6 +382,9 @@
     <string name="dialog_retry">Erneut versuchen</string>
     <string name="dialog_scan_message">%1$d. Verbinden Sie sowohl Ihr Gerät als auch Ihren TV mit demselben WLAN.\n\n%2$d. Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. \"Hilfe\" ansehen, um mehr zu erfahren.</string>
     <string name="dialog_scan_message_china">%1$d. Verbinden Sie sowohl Ihr Gerät als auch Ihren TV mit demselben WLAN.\n\n%2$d. Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. \"Hilfe\" ansehen, um mehr zu erfahren.</string>
+    <string name="dialog_scanning_close_dual_wifi_china">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um übertragen zu können. Jetzt ausschalten?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um übertragen zu können. Jetzt ausschalten?</string>
+    <string name="dialog_scanning_close_tethering">Hotspot ausschalten, um eine Übertragung durchzuführen. Hotspot jetzt ausschalten?</string>
     <string name="dialog_scanning_device">Nach Geräten in der Nähe suchen…</string>
     <string name="dialog_scanning_precondition">WLAN und Bluetooth auf Ihrem Telefon einschalten, um die kabellose Anzeige zu verwenden.</string>
     <string name="dialog_scanning_precondition_new_china">WLAN, Bluetooth und Ortungsdienste einschalten, um die kabellose Anzeige zu verwenden. Jetzt einschalten?</string>
@@ -387,8 +392,9 @@
     <string name="dialog_select_tv">Gerät wählen (%1$d)</string>
     <string name="dialog_show_help">Hilfe</string>
     <string name="disconnect">Übertragung stoppen</string>
+    <string name="dp_casting_start_hint">Über Kabel verbunden. Übertragung ist abgeschlossen.</string>
     <string name="dual_wifi_warning_china">Duales WLAN ausschalten und erneut versuchen</string>
-    <string name="dual_wifi_warning_global">Duales Wi-Fi ausschalten und erneut versuchen</string>
+    <string name="dual_wifi_warning_global">Duales WLAN ausschalten und erneut versuchen</string>
     <string name="early_morning">Morgen</string>
     <string name="enable_screen_projection_summary">Bildschirminhalt auf einen externen Monitor übertragen</string>
     <string name="enable_screen_projection_summary_new">Bildschirm eines Mobilgeräts auf TV-Geräte und andere externe Monitore in der Nähe übertragen</string>
@@ -458,6 +464,9 @@
     <string name="hang_up_alert_dialog_content">Übertragen wird nicht unterbrochen, wenn der Bildschirm Ihres Telefons ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch. Drücken Sie die Power-Taste, um den Bildschirm wieder einzuschalten.</string>
     <string name="hang_up_alert_dialog_neg">Abbrechen</string>
     <string name="hang_up_alert_dialog_title">Im Begriff, bei ausgeschaltetem Bildschirm zu übertragen…</string>
+    <string name="head_toast_connecting">Verbinden…</string>
+    <string name="head_toast_fail">Verbinden fehlgeschlagen</string>
+    <string name="head_toast_success">Erfolgreich verbunden</string>
     <string name="headset_circulate_connect_success">verbunden</string>
     <string name="headset_content_description">Ohrhörer mit diesem Gerät verbunden. Zum Aktivieren doppelt drücken. Mit zwei Fingern drücken und ziehen, um die Wiedergabe zu übertragen.</string>
     <string name="help_page_text_01">Hilfe</string>
@@ -889,6 +898,7 @@
     <string name="sever_stream_control_btn_preview">Vorschau</string>
     <string name="sever_stream_control_btn_resume">Fortsetzen</string>
     <string name="sever_stream_push_state_idle">Vorschau ist aus auf diesem Gerät</string>
+    <string name="sever_stream_push_state_idle2">Vorschau ist aus</string>
     <string name="sever_stream_push_state_pause">Pausiert</string>
     <string name="sever_stream_push_state_pushing">Kamera-Feed freigeben…</string>
     <string name="share_desktop_with_car">Startbildschirm für Auto freigeben</string>

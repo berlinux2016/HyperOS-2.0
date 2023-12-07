@@ -349,7 +349,6 @@
     <string name="satellite_diable_earpiece">Ohrhörer kann bei Satellitenanrufen nicht verwendet werden</string>
     <string name="satellite_dialog_button">Popup-Fenster</string>
     <string name="satellite_dialog_cancel">Abbrechen</string>
-    <string name="satellite_state_connecting">Verbinden… (%ds)</string>
     <string name="satellite_guide_down">Neigen Sie Ihr Gerät nach unten, \num den Ball in den blauen Bereich zu bringen</string>
     <string name="satellite_guide_found">Satellit gefunden</string>
     <string name="satellite_guide_left">Neigen Sie Ihr Gerät nach links, \num das Satellitensymbol in den blauen Bereich zu bringen</string>
@@ -361,6 +360,7 @@
     <string name="satellite_state">Gerät nicht bewegen</string>
     <string name="satellite_state_connected">Mit Satellit verbunden. Gerät nicht bewegen.</string>
     <string name="satellite_state_connected_floating">Gerät nicht bewegen</string>
+    <string name="satellite_state_connecting">Verbinden… (%ds)</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
