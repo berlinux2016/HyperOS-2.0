@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_abort">Zurück</string>
+    <string name="action_bar_label">Am Netzwerk anmelden</string>
+    <string name="action_bar_title">Bei %1$s anmelden</string>
+    <string name="action_continue">Fortfahren</string>
+    <string name="action_do_not_use_network">Dieses Netzwerk nicht verwenden</string>
+    <string name="action_use_network">Dieses Netzwerk so wie es ist verwenden</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
+    <string name="cancel_pending_downloads">Download abgebrochen</string>
+    <string name="channel_description_download_progress">Benachrichtigungen über den Fortschritt von Datei-Downloads</string>
+    <string name="channel_description_downloads">Benachrichtigungen über abgeschlossene oder abgebrochene Downloads</string>
+    <string name="channel_name_download_progress">Download-Fortschritt</string>
+    <string name="custom_scheme_example">Zum Beispiel kann die Anmeldeseite eine bestimmte App zur Authentifizierung erfordern</string>
+    <string name="custom_scheme_warning">Das Netzwerk, auf das Sie zugreifen wollen, verlangt das Öffnen einer anderen App.</string>
+    <string name="download_completed">Download vollständig</string>
+    <string name="downloading_paramfile">%1$s herunterladen</string>
+    <string name="error_continue_via_browser">Trotzdem über den Browser fortfahren</string>
+    <string name="error_downloading_paramfile">%1$s herunterladen fehlgeschlagen</string>
+    <string name="file_too_large_cancel_download">Datei zu groß, herunterladen abgebrochen</string>
+    <string name="no_bypass_error_vpnwarning">Außerdem ist es nicht möglich, diesen Fehler zu umgehen, da auf dem Gerät gerade ein VPN läuft.</string>
+    <string name="page_info">Seiteninfo</string>
+    <string name="page_info_address">Adresse:</string>
+    <string name="ssl_error_date_invalid">Dieses Zertifikat hat ein ungültiges Datum.</string>
+    <string name="ssl_error_example">Zum Beispiel darf die Anmeldeseite nicht zu der angezeigten Organisation gehören.</string>
+    <string name="ssl_error_expired">Dieses Zertifikat ist abgelaufen.</string>
+    <string name="ssl_error_invalid">Dieses Zertifikat ist ungültig.</string>
+    <string name="ssl_error_mismatch">Der Name der Seite stimmt nicht mit dem Namen auf dem Zertifikat überein.</string>
+    <string name="ssl_error_not_yet_valid">Dieses Zertifikat ist noch nicht gültig.</string>
+    <string name="ssl_error_unknown">Unbekannter Zertifikatsfehler</string>
+    <string name="ssl_error_untrusted">Dieses Zertifikat ist nicht von einer vertrauenswürdigen Stelle.</string>
+    <string name="ssl_error_view_certificate">Zertifikat anzeigen</string>
+    <string name="ssl_error_warning">Das Netzwerk, auf das Sie zugreifen wollen, hat Sicherheitsprobleme.</string>
+    <string name="ssl_security_warning_title">Sicherheitswarnung</string>
+</resources>
