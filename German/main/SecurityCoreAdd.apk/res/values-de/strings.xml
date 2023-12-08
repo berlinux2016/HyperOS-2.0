@@ -883,6 +883,7 @@
     <string name="stylus_connect_fail_not_match_tablet">Stift ist nicht kompatibel mit dem Tablet</string>
     <string name="stylus_connect_fail_not_open_gps">Verbinden nicht möglich. Standortdienste einschalten und erneut versuchen.</string>
     <string name="stylus_connecting">Verbinden…</string>
+    <string name="stylus_dislocation_summary">Befestigen Sie den Stift hier</string>
     <string name="stylus_focus_welcome">Treffen Sie Xiaomi Focus Pen</string>
     <string name="stylus_function_and_action">Funktionen</string>
     <string name="stylus_function_summary">Funktionen</string>
@@ -1026,7 +1027,7 @@
     <string name="tof_learn_gesture_error_try_again">Geste wurde nicht erkannt. Handposition anpassen und erneut versuchen.</string>
     <string name="tof_learn_gesture_operation_success">Fertig!</string>
     <string name="tof_learn_gesture_position_tip">Halten Sie Ihre Hand %1$d bis %2$d cm von der Kamera entfernt und führen Sie die Geste aus, wenn das Handsymbol erscheint</string>
-    <string name="tof_learn_incall_date">Freitag</string>
+    <string name="tof_learn_incall_date">Do</string>
     <string name="tof_learn_incall_from">Von Ihrem Xiaomi 13</string>
     <string name="tof_learn_up_gesture_position_tip">Halten Sie Ihre Hand %1$d bis %2$d cm von der Kamera entfernt, Handfläche nach unten, und führen Sie die Geste aus, wenn das Handsymbol erscheint</string>
     <string name="tof_learn_wave_down">Geste \"Nach unten winken\" lernen</string>

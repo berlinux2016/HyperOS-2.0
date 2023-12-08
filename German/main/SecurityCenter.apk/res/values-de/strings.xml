@@ -392,46 +392,14 @@
     <string name="app_behavior_record_open">Einschalten</string>
     <string name="app_behavior_record_open_content_text">App-Verhaltensaufzeichnungen zeigen, was Apps tun und helfen Ihnen, Sicherheitsrisiken zu vermeiden.</string>
     <string name="app_behavior_record_setting_button_title">Verhalten der Systemdienste anzeigen</string>
-    <string name="app_behavior_record_setting_show_system">Verhalten der Systemdienste anzeigen</string>
     <string name="app_behavior_record_setting_show_system_desc">Option einschalten, um das Verhalten der grundlegenden Systemdienste anzuzeigen. Um die Stabilität des Systems zu gewährleisten, verwenden diese Dienste die erforderlichen Berechtigungen, von denen einige nicht eingeschränkt werden können.</string>
     <string name="app_behavior_record_setting_show_system_title">Verhalten der Systemdienste anzeigen</string>
     <string name="app_behavior_record_setting_title">Verhaltensaufzeichnungen</string>
     <string name="app_behavior_record_show_system">System-Apps anzeigen</string>
-    <string name="app_behavior_search">Suchen</string>
-    <string name="app_behavior_sensor">%1s-Zugriff auf Sensordaten</string>
-    <string name="app_behavior_sensor_single">Diese App griff auf Sensordaten zu</string>
-    <string name="app_behavior_settings_category_perm">An Rechteverwendung erinnern</string>
-    <string name="app_behavior_settings_category_privacy">Datenschutz</string>
-    <string name="app_behavior_settings_perm_tips">Wenn die App Standort-, Aufnahme- und Fotoberechtigungen verwendet, wird die entsprechende Genehmigungsaufforderung in der Statusleiste angezeigt</string>
-    <string name="app_behavior_settings_privacy_tips">Wenn die App Ihre Kontakte, Anrufliste und andere Informationen im Hintergrund liest oder schreibt, sendet sie eine Benachrichtigung, um Sie daran zu erinnern</string>
     <string name="app_behavior_share_file">Dateien teilen</string>
     <string name="app_behavior_share_picture">Bilder teilen</string>
-    <string name="app_behavior_sms_read">%1s liest SMS</string>
-    <string name="app_behavior_sms_read_single">Diese App liest SMS</string>
-    <string name="app_behavior_sms_send">%1s sendet SMS</string>
-    <string name="app_behavior_sms_send_single">Diese App sendet SMS</string>
-    <string name="app_behavior_start_from_app" formatted="false">%1s wurde von %2s gestartet</string>
-    <string name="app_behavior_start_from_app_single">Durch %1s gestarted</string>
-    <string name="app_behavior_start_from_launcher">%1s-Start durch Desktop-Symbol</string>
-    <string name="app_behavior_start_from_launcher_single">Start durch Desktop-Symbol</string>
-    <string name="app_behavior_start_from_notification">%1s-Start durch Benachrichtigung</string>
-    <string name="app_behavior_start_from_notification_single">Start durch Benachrichtigung</string>
-    <string name="app_behavior_start_from_recent">%1s startete mit der letzten Aufgabe</string>
-    <string name="app_behavior_start_from_recent_single">Mit den letzten Aufgaben beginnen</string>
-    <string name="app_behavior_start_from_widget">%1s wurde durch ein Widget gestartet</string>
-    <string name="app_behavior_start_from_widget_single">Diese App wurde durch ein Widget gestartet</string>
-    <string name="app_behavior_storage">%1s-Zugriff auf Dateien oder Speicherung dieser</string>
-    <string name="app_behavior_storage_bg">%1s-Zugriff auf Dateien oder Speicherung dieser im Hintergrund</string>
-    <string name="app_behavior_storage_bg_single">Diese App griff auf Dateien zu oder speicherte sie im Hintergrund</string>
-    <string name="app_behavior_storage_single">Diese App griff auf Dateien zu oder speicherte diese</string>
-    <string name="app_behavior_this_run">Einmal</string>
     <string name="app_behavior_time_today">Heute</string>
     <string name="app_behavior_time_yesterday">Gestern</string>
-    <string name="app_behavior_wakepath" formatted="false">%1s startet %2s</string>
-    <string name="app_behavior_wakepath_single">Diese App startete %2s</string>
-    <string name="app_behavior_warning_audio_title">%1s nimmt Audio im Hintergrund auf</string>
-    <string name="app_behavior_warning_content">Diesen Prozess beenden, wenn Sie es nicht erlaubt haben</string>
-    <string name="app_behavior_warning_location_title">%1s-Standortzugriff</string>
     <string name="app_bg_restrict_dialog_message">Einschränkung der Hintergrund-Netzwerkverbindung kann dazu führen, dass die App nicht normal funktioniert. Z. B. ist es nicht mehr möglich, Nachrichten zu empfangen oder Inhalte zu aktualisieren.</string>
     <string name="app_check_no_issue">Keine Probleme mit dem Akku. Cool!</string>
     <string name="app_classification_activity_label">Alle Apps</string>
@@ -439,6 +407,8 @@
     <string name="app_classification_search_all">Alle</string>
     <string name="app_classification_search_hint">Nach Apps suchen</string>
     <string name="app_classification_suggest_app">Vorschläge</string>
+    <string name="app_disable_dlg_positive">App deaktivieren</string>
+    <string name="app_disable_dlg_text">Wenn Sie diese App deaktivieren, funktionieren das System und andere Apps ggf. nicht mehr richtig. Diese System-App kann nicht deinstalliert werden. Sie wird ausgeblendet, wenn Sie sie deaktivieren möchten.</string>
     <string name="app_error_tip_for_launcher">Ihre Gerätehardware oder die Androidversion können Kompatibilitätsprobleme verursachen und einige Apps dazu bringen, sich falsch zu verhalten, einzufrieren oder abzustürzen. Wenn Sie auf solche Probleme stoßen, senden Sie Ihr Feedback an die App-Entwickler.</string>
     <string name="app_error_tip_for_store">Ihre Gerätehardware oder die Androidversion können Kompatibilitätsprobleme verursachen, sodass einige Apps nicht installiert werden können. Wenn Sie auf solche Probleme stoßen oder einige Apps sich falsch verhalten, einfrieren oder abstürzen, warten Sie, bis die App-Entwickler Bugs behoben haben und versuchen Sie, die App erneut zu installieren.</string>
     <string name="app_info_all_services_label">Alle Dienste</string>
@@ -484,7 +454,6 @@
     <string name="app_manager_details_title">App-Info</string>
     <string name="app_manager_details_traffic_title">Datennutzung</string>
     <string name="app_manager_disable">Nicht erlauben</string>
-    <string name="app_manager_disable_dlg_text">Wenn Sie diese App deaktivieren, arbeiten andere Apps evtl. nicht mehr wie vorgesehen</string>
     <string name="app_manager_disable_dlg_title">System-App deaktivieren?</string>
     <string name="app_manager_disable_text">Deaktivieren</string>
     <string name="app_manager_disabled">Deaktiviert</string>
@@ -587,7 +556,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_name_securitycenter">Sicherheit</string>
     <string name="app_name_securitycenter_new">Sicherheit</string>
     <string name="app_not_installed_toast">App ist nicht auf Ihrem Gerät installiert</string>
-    <string name="app_perm_manager_service">Rechteverwaltungsdienste</string>
     <string name="app_permission_use_group_calendar">Kalender</string>
     <string name="app_permission_use_group_calendar_des">Kalenderinformationen lesen und hinzufügen</string>
     <string name="app_permission_use_group_camera">Kamera</string>
@@ -650,9 +618,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_running_tip_dialog_title">%1$s beenden</string>
     <string name="app_running_tip_uninstall">Diese App deinstallieren</string>
     <string name="app_settings_link">Zusätzliche Einstellungen in der App</string>
-    <string name="app_statusbar_audio_now">Aufnahme</string>
-    <string name="app_statusbar_camera_now">Fotografieren</string>
-    <string name="app_statusbar_location_now">Positionierung</string>
     <string name="app_usage_half_year">Letzte %d Monate</string>
     <string name="app_usage_more_year">Vor mehr als %d Jahr/en</string>
     <string name="app_usage_never">Lange nicht verwendet</string>
@@ -1997,6 +1962,10 @@ Sie verlieren keine App-Daten."</string>
     <string name="firewall_restrict_notify_title">%s hat keinen Internetzugriff</string>
     <string name="firewall_restrict_wlan">WLAN-Verbindung einschränken</string>
     <string name="firewall_rule_group_title_roaming">Datenroaming</string>
+    <string name="firewall_statement_msg">Wegen Systembeschränkungen und Qualitätsanforderungen des Anbieters kann es vorkommen, dass einige wenige Apps weiterhin mobile Daten verwenden, auch wenn sie ausgeschaltet sind. Wenn dies der Fall ist, lassen Sie es uns unter Dienste &amp; Feedback wissen.</string>
+    <string name="firewall_statement_no_more">Nicht mher erinnern</string>
+    <string name="firewall_statement_ok">Verstanden</string>
+    <string name="firewall_statement_title">Achtung</string>
     <string name="firewall_system_title">System-App-Verbindungen</string>
     <string name="firewall_temp_rule_reason">%2$s hat die Internetverbindung für %1$s eingeschränkt</string>
     <string name="firewall_wifi">WLAN</string>
@@ -2161,6 +2130,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="gallery_confirm_start_activity">%s ist nicht berechtigt, auf Ihre Galerie- und Social Media-Apps zuzugreifen. Diese App möchte auf Bilder zugreifen, die auf diesem Gerät gespeichert sind, um Elemente zu teilen. Erlauben?</string>
     <string name="game_ad_recommendation">Jeder spielt</string>
     <string name="game_anti_disturb_msg">Spiel nicht stören</string>
+    <string name="game_balance_more_setting_title">Weitere Einstellungen</string>
+    <string name="game_balance_vision_enhance_subtitle">Kontrast erhöhen und Details für Spiele verbessern</string>
+    <string name="game_balance_vision_enhance_title">Verbesserte Grafik</string>
     <string name="game_booster_close">Game Turbo deaktiviert</string>
     <string name="game_booster_intro">Über Game Turbo</string>
     <string name="game_booster_jump_webview">Einen Moment…</string>
@@ -2170,6 +2142,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="game_manual_record_setting_setting">Einstellungen</string>
     <string name="game_manual_record_setting_title">Schlüsselmomente</string>
     <string name="game_more_improve">Hintergrundaktivitäten und Downloadgeschwindigkeit einschränken, um Akku und Bandbreite fürs Spielen aufzuheben</string>
+    <string name="game_performance_wild_mode">Ultimativer Modus</string>
+    <string name="game_performance_wild_mode_tips">Einschalten, um die Geräteleistung zu verbessern \n(Ihr Gerät wird sich erhitzen und mehr Akku verbrauchen)</string>
     <string name="game_setting">Spieleinstellungen</string>
     <string name="game_video_net_data">Mobile Daten</string>
     <string name="game_video_network_eror">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -2271,6 +2245,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_advance_settings_vibration_4d">4D-Vibration</string>
     <string name="gb_advance_settings_vibration_4d_summary">Bei Schüssen im Spiel vibrieren</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Bei Abschüssen im Spiel vibrieren</string>
+    <string name="gb_all_hight_display">Hohe Bildwiederholrate</string>
+    <string name="gb_all_hight_display_sub_title">120 Hz für alle Szenarien</string>
     <string name="gb_already_in_game_list_tips">Dieses Element ist bereits unter den hinzugefügten Spielen. Kann hier nicht hinzugefügt werden.</string>
     <string name="gb_already_in_video_list_tips">Dieses Element ist bereits unter den hinzugefügten Video-Apps. Kann hier nicht hinzugefügt werden.</string>
     <string name="gb_application_not_find">Noch nichts da</string>
@@ -2402,6 +2378,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_performace_tips_title">Für ein besseres Erlebnis in den Leistungsmodus wechseln</string>
     <string name="gb_performance_balance">Ausgeglichen</string>
     <string name="gb_performance_balance_tips">Ausgeglichener Modus spart Strom\nbei gleichzeitiger Senkung der Aktualisierungsrate und Temperaturgrenzen</string>
+    <string name="gb_performance_enhance">Hochleistung</string>
+    <string name="gb_performance_enhance_sub_title">Leistung vor Stromverbrauch stellen</string>
     <string name="gb_performance_high">Leistung</string>
     <string name="gb_performance_mode">Spielmodus</string>
     <string name="gb_performance_tips">Leistungsmodus verbessert die Grafikleistung,\nerhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Geräts</string>
@@ -2528,6 +2506,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Ihre Abos sind abgelaufen. Abo jetzt erneuern, um von den Vorteilen zu profitieren!</string>
     <string name="gb_voice_changer_user_vip_expired">Abgelaufen</string>
     <string name="gb_voice_changer_user_vip_remain_time">Ablaufdatum: %s</string>
+    <string name="gb_wild_mode_game_performance_enhance">Leistung für Spiele verbessern</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">Schlüsselmomente Ihrer \nSpielsitzungen aufnehmen</string>
     <string name="gb_wonderful_video_cancel">Abbrechen</string>
     <string name="gb_wonderful_video_checkall">Alle wählen</string>
@@ -2697,6 +2676,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gtb_guide_gtb_game_new">Neu</string>
     <string name="gtb_guide_gtb_line_new">Leistungsmodus in Game Turbo probieren!</string>
     <string name="gtb_guide_gtb_line_new_global">Wischen, um Game Turbo zu öffnen</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Probieren Sie den ultimativen Modus in Game Turbo aus, um Ihr Spielerlebnis auf den nächsten Level zu bringen</string>
     <string name="gtb_guide_gtb_line_xspace">Steigern Sie Ihr Spiel mit dem brandneuen Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Andere Apps während des Spiels verwenden</string>
     <string name="gtb_guide_small_window_app_title">Popups</string>
@@ -3601,8 +3581,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_abnormal_scan_reason_use_GPS">Verwendet zu oft Standortdienste</string>
     <string name="pc_abnormal_scan_reason_wake_system">System wird zu oft geweckt</string>
     <string name="pc_activity_title">Akku optimieren</string>
+    <string name="pc_always_charge_protect_summary">Nur Laden bis zu %1$s zulassen, um den Akku gesund zu erhalten</string>
+    <string name="pc_always_charge_protect_title">Begrenztes Laden</string>
     <string name="pc_batery_information">Akkuinfo</string>
     <string name="pc_batery_protection">Akkuschutz</string>
+    <string name="pc_battery_charge_protect">Ladeschutz</string>
     <string name="pc_battery_chart_loading">Einen Moment…</string>
     <string name="pc_battery_detail_curve_reference_now">Jetzt</string>
     <string name="pc_battery_detail_device_item_title">Statistik zum\nStromverbrauch</string>
@@ -3663,6 +3646,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_hidemode_performance">Leistung</string>
     <string name="pc_hidemode_performance_title">Leistungsmodus</string>
     <string name="pc_hidemode_power_save">Stromsparen</string>
+    <string name="pc_high_temp_discharge_reminder">Laden Sie Ihr Gerät. Der Akku kann beschädigt werden, wenn das Gerät bei niedrigem Akkustand überhitzt.</string>
     <string name="pc_high_temp_protection_noti_bt_text">Verstanden</string>
     <string name="pc_high_temp_protection_noti_summary">Hotspots, mobile Daten und Standortdienste können jetzt nicht verwendet werden</string>
     <string name="pc_high_temp_protection_noti_summary2">Hotspots können jetzt nicht verwendet werden</string>
@@ -3671,6 +3655,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_hight_refresh_rate_reminder_summary">Verwendung einer höheren Bildwiederholrate. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
     <string name="pc_hight_refresh_rate_reminder_title">Video mit hoher Bildrate ansehen</string>
     <string name="pc_install_manager">Installation via USB</string>
+    <string name="pc_intellect_charge_protect_summary">Laden anpassen anhand von Nutzungsszenarien</string>
+    <string name="pc_intellect_charge_protect_title">Optimiertes Laden</string>
     <string name="pc_keywords_fast_charge">Schnellladen</string>
     <string name="pc_keywords_low_power_consumption_save">Stromsparen</string>
     <string name="pc_keywords_low_power_mode">Stromsparmodus</string>
@@ -3705,6 +3691,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_night_sleep_mode_summary">Einige Funktionen automatisch ausschalten, um den Akku zu schonen, wenn Schlaf erkannt wird</string>
     <string name="pc_night_sleep_mode_title">Nachtmodus</string>
     <string name="pc_no_more_remind">Nicht erinnern</string>
+    <string name="pc_ordinary_charge_summary">Immer bis zu %1$s laden</string>
+    <string name="pc_ordinary_charge_title">Normales Laden</string>
     <string name="pc_performance_mode_dialog_summary">Ihr Gerät kann für %s im Leistungsmodus arbeiten. Beachten Sie, dass der Leistungsmodus den Stromverbrauch erhöht und zu Überhitzung führen kann.</string>
     <string name="pc_performance_mode_dialog_summary2">Geräteleistung wird verbessert. Dies kann den Stromverbrauch erhöhen und zu Überhitzungsproblemen führen. Trotzdem einschalten?</string>
     <string name="pc_performance_mode_dialog_title">Leistungsmodus</string>
@@ -3737,6 +3725,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_statistics_battery_use_title">Akkuverbrauch</string>
     <string name="pc_suggest_open_fast_charge">%dW Schnellladung einschalten</string>
     <string name="pc_temperature_too_high">Gerät überhitzt</string>
+    <string name="pc_timely_charging_summary">Akku ist unter %1$s. Wenn sich das Gerät bei niedrigem Akkustand überhitzt, kann dies den Akku beschädigen.</string>
+    <string name="pc_timely_charging_title">Laden Sie Ihr Gerät</string>
     <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
     <string name="pc_toady_charge_time_title">Anzahl der Ladungen heute</string>
     <string name="pc_wait_device_cools_down">Warten Sie, bis Ihr Gerät abgekühlt ist, um diese Funktion zu nutzen</string>
@@ -3745,9 +3735,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_work_in_save_mode">Stromsparen</string>
     <string name="pc_work_in_super_save_mode">Ultra-Stromsparen</string>
     <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi KI</string>
+    <string name="pc_xiaoai_voice_control_close">"Mi KI's \"Mit Stimme wecken\" ausschalten"</string>
     <string name="per_month_pkg_traffic_settings">Datenlimit einstellen</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
     <string name="perfermance_optimization_title">Leistungsoptimierung</string>
+    <string name="performance_frame_insert_super_display_tips">Intelligente Bildrate und Superauflösung können nicht gleichzeitig wirksam sein. Wenn Sie das eine aktivieren, schalten Sie das andere aus.</string>
     <string name="perm_intercept_content">Dieser App folgende Berechtigung erlauben: %1s?</string>
     <string name="perm_intercept_notification_title">Wenn Sie %1s die Verwendung von Benachrichtigungen erlauben, führt diese App die folgenden Aktionen aus:</string>
     <string name="perm_intercept_privacy_content">Diese Aktionen können Ihre persönlichen Daten offen legen. Berechtigung (%1s) trotzdem erteilen?</string>
@@ -3949,13 +3941,10 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_usage_deny_w_contacts_once">%1$s | Dieser App wurde die Bearbeitung Ihrer Kontakte verweigert</string>
     <string name="permission_usage_deny_wake_path_once">%1$s | Dieser App wurde der Autostart von %2$s verweigert</string>
     <string name="permission_usage_deny_wakepath_once">%1$s | Verweigert</string>
-    <string name="permission_usage_media_aural_app">%1s griff auf Musik und Audio zu</string>
-    <string name="permission_usage_media_visual_app">%1s griff auf Fotos und Videos zu</string>
     <string name="permission_usage_now">Jetzt</string>
     <string name="permission_usage_now_access">Jetzt zugreifen</string>
     <string name="permission_usage_projection_screen_once">%1$s | Zugriff auf oder Aufnahme von Bildschirminhalt</string>
     <string name="permission_usage_projection_screen_use">Zugriff auf oder Aufnahme von Bildschirminhalt</string>
-    <string name="permission_usage_projection_screen_use_app">%1s griff auf den Bildschirminhalt zu oder zeichnete ihn auf</string>
     <string name="permission_usage_terminal_camera_once">%1$s | Diese App hat die Kamera dieses Geräts verwendet</string>
     <string name="permission_usage_terminal_camera_use">Diese App verwendet die Kamera dieses Geräts</string>
     <string name="permission_usage_terminal_screen_once">%1$s | Diese App verwendete den Bildschirm dieses Geräts</string>
@@ -3985,6 +3974,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="phone_manage_system_tool_summary">Nützliche Tools auf Systemebene</string>
     <string name="phone_manager_edit_commonly_used_func_title">Allgemeine Funktionen bearbeiten</string>
     <string name="phone_number_protect">Rufnummer privat machen</string>
+    <string name="pin_toast">Vom unteren Bildschirmrand nach oben gleiten und pausieren, um diese App zu lösen</string>
+    <string name="pin_toast_nav">Tasten Zurück und Vorschau gedrückt halten, um diese App zu lösen</string>
     <string name="pkg_traffic">Datenlimit einstellen</string>
     <string name="pm_auto_start_by_other">Getriggerter Start</string>
     <string name="pm_auto_start_by_other_app">Anderen Apps erlauben, diese App zu starten</string>
@@ -5781,8 +5772,12 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="tc_sms_report_upload_when_net">Vielen Dank für Ihr Feedback!</string>
     <string name="tc_web_correct_error">Kalibrieren nicht möglich</string>
     <string name="ten_percent_total_pkg">%s (10%% der monatlichen Daten)</string>
-    <string name="terminal_behavior_camera">%1s griff auf die Kamera dieses Geräts zu</string>
-    <string name="terminal_behavior_screen">%1s griff auf den Bildschirm dieses Geräts zu</string>
+    <string name="terminal_flars_current_camera">Verwendet die Kamera dieses Geräts</string>
+    <string name="terminal_flars_current_screen">Greift auf den Bildschirm dieses Geräts zu</string>
+    <string name="terminal_flars_current_screen_camera">Verwendet Kamera und Bildschirm dieses Geräts</string>
+    <string name="terminal_flars_recent_camera">Hat kürzlich die Kamera dieses Geräts benutzt</string>
+    <string name="terminal_flars_recent_screen">Hat kürzlich auf den Bildschirm dieses Geräts zugegriffen</string>
+    <string name="terminal_flars_recent_screen_camera">Hat kürzlich die Kamera und den Bildschirm dieses Geräts verwendet</string>
     <string name="terminal_privacy">Datenschutz auf dem Gerät</string>
     <string name="terminal_privacy_ability">Funktionen und Mechanismen</string>
     <string name="terminal_privacy_ability_img">Bildverarbeitung</string>
@@ -6156,11 +6151,16 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_advanced_settings_after_open">Nachher</string>
     <string name="vb_advanced_settings_before_open">Vorher</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Bewegte Objekte knackiger machen, indem Sie Animationen verbessern. Diese Funktion verbraucht mehr Akku.</string>
+    <string name="vb_default_mode">Eigene</string>
     <string name="vb_fps_settings">Automatische Aktualisierungsrate</string>
     <string name="vb_fps_settings_tips">"Diese Funktion passt die Aktualisierungsrate des Bildschirms an die Videobildfrequenz an, was den Akku schont und eine reibungslose Wiedergabe erlaubt. Das Einschalten von Popup-Kommentaren schaltet die automatische Aktualisierungsrate ab.
 1. Während Sie Spiele spielen, werden alle eingehenden Anrufe auf die SIM-Karte ohne mobilen Datendienst automatisch abgewiesen.
 2. Sie sehen Benachrichtigungen über verpasste Anrufe und die andere Person hört eine Audiobotschaft, die besagt, dass Sie im Moment beschäftigt sind.
 3. Diese Funktion wird nur von Mobilfunkbetreibern in China unterstützt."</string>
+    <string name="vb_immerse_voice">Immersiver Klang</string>
+    <string name="vb_movie_mode">Theater-Modus</string>
+    <string name="vb_movie_power_hint">Theatermodus sorgt für ein intensives Fernseherlebnis. \nIhr Gerät könnte sich erhitzen und mehr Akku verbrauchen.</string>
+    <string name="vb_movie_subtitle">Erfordert Hochleistung</string>
     <string name="vb_power_performance_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn der Leistungsmodus aktiviert ist</string>
     <string name="vb_power_save_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn der Stromsparen an ist</string>
     <string name="vb_quick_func_auto_bgm">Hintergrundmusik erkennen</string>
@@ -6169,6 +6169,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_quick_func_screening">Übertragung</string>
     <string name="vb_settings">Einstellungen</string>
     <string name="vb_super_power_save_mode_conflict_toast">Diese Funktion kann nicht verwendet werden, wenn Ultra-Stromsparen an ist</string>
+    <string name="vb_theatre_switch_guide">Tippen, um zum Theater-Modus zu wechseln</string>
     <string name="vb_ve_settings_ai_stronger">KI</string>
     <string name="vb_ve_settings_display_style_tips">*Diese Effekte werden auf den gesamten Bildschirm angewendet</string>
     <string name="vb_ve_settings_display_style_tips_new">*Effekte werden nur auf den Videowiedergabebereich angewendet</string>
@@ -6177,8 +6178,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_ve_settings_pic_border_stronger">Verbesserte Konturen</string>
     <string name="vb_ve_settings_picture_stronger">Verbesserte Animationen</string>
     <string name="vb_video_effects_3d">Surround Sound</string>
-    <string name="vb_video_effects_3d_summary_headset">Erhöht das Gefühl des Eintauchens und der Umhüllung beim Hören von Audio über Kopfhörer</string>
     <string name="vb_video_effects_3d_summary">Tiefe der Klangwiedergabe für Kopfhörer und Lautsprecher verbessern</string>
+    <string name="vb_video_effects_3d_summary_headset">Erhöht das Gefühl des Eintauchens und der Umhüllung beim Hören von Audio über Kopfhörer</string>
     <string name="vb_video_effects_3d_surround">Virtueller immersiver Klang</string>
     <string name="vb_video_effects_display_style">Stil</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Verbesserter Dialog</string>
@@ -6213,6 +6214,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_video_super_division">Skalieren</string>
     <string name="vb_video_super_division_desc">Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.\n\nDie Verwendung dieser Funktion erhöht den Stromverbrauch.\n\nDiese Funktion funktioniert nicht mit der Bewegungsglättung.\nWenn Sie eine der Funktionen einschalten, schalten Sie die andere aus.</string>
     <string name="vb_video_super_division_tips">Nicht klar genug?\nVersuchen Sie, die Auflösung hochzuskalieren!</string>
+    <string name="vb_voice_adjust">Theater-Audio</string>
     <string name="verify_shut_down_password_content">Bestätigen der Bildschirmsperre erforderlich, wenn das Gerät während der Sperre ausgeschaltet wird</string>
     <string name="verify_shut_down_password_title">Abschaltbestätigung</string>
     <string name="verify_sms_ensure_allow">Senden</string>
