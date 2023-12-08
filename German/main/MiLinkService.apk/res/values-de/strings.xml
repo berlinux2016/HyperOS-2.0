@@ -348,6 +348,7 @@
     <string name="date_picker_lunar">Mondkalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="debug_mode_merge_support">Gibt an, ob das Apps-Zusammenführen unterstützt werden soll</string>
+    <string name="device_busy">Gerät ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
     <string name="device_desc_trust">Vertrauenswürdige Geräte</string>
     <string name="device_permission_authorize_dialog_message">Sobald diese Berechtigung erteilt ist, kann dieses Gerät %s für die Aufnahme von Fotos und Videos verwenden.</string>
     <string name="device_permission_authorize_dialog_title">Kamera-Berechtigungen auf %s gewähren</string>
@@ -467,7 +468,6 @@
     <string name="head_toast_connecting">Verbinden…</string>
     <string name="head_toast_fail">Verbinden fehlgeschlagen</string>
     <string name="head_toast_success">Erfolgreich verbunden</string>
-    <string name="headset_circulate_connect_success">verbunden</string>
     <string name="headset_content_description">Ohrhörer mit diesem Gerät verbunden. Zum Aktivieren doppelt drücken. Mit zwei Fingern drücken und ziehen, um die Wiedergabe zu übertragen.</string>
     <string name="help_page_text_01">Hilfe</string>
     <string name="help_page_text_02">Was ist Übertragung</string>

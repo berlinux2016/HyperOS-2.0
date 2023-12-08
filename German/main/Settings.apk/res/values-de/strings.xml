@@ -775,7 +775,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="app_data_usage">App-Datenverbrauch</string>
     <string name="app_default_dashboard_title">Standard-Apps</string>
     <string name="app_disable_dlg_positive">App deaktivieren</string>
-    <string name="app_disable_dlg_text">Durch Ausschalten dieser App kommt es eventuell zu unerwünschtem Verhalten von Android und anderen Apps</string>
+    <string name="app_disable_dlg_text">Wenn Sie diese App deaktivieren, funktionieren Android und andere Apps ggf. nicht mehr wie vorgesehen. Denken Sie daran, dass Sie diese App nicht löschen können, da sie auf Ihrem Gerät vorinstalliert ist. Durch die Deaktivierung schalten Sie diese App aus und verstecken sie auf Ihrem Gerät.</string>
     <string name="app_disable_dlg_title">System-App ausschalten?</string>
     <string name="app_disable_notifications_dlg_text">Wenn Sie Benachrichtigungen für diese App ausschalten, verpassen Sie evtl. wichtige Warnungen und Updates</string>
     <string name="app_factory_reset">Updates entfernen</string>

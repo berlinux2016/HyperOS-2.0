@@ -45,22 +45,6 @@
         <item quantity="other">%d Apps</item>
         <item quantity="one">%d App</item>
     </plurals>
-    <plurals name="app_behavior_desc_allow">
-        <item quantity="other">%1$s - %2$s | %3$dx erlaubt</item>
-        <item quantity="one">%1$s - %2$s | %3$dx erlaubt</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">%1$s | %2$dx erlaubt</item>
-        <item quantity="one">%1$s | %2$dx erlaubt</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-        <item quantity="other">%1$s - %2$s | %3$dx verweigert</item>
-        <item quantity="one">%1$s - %2$s | %3$dx verweigert</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">%1$s | %2$dx verweigert</item>
-        <item quantity="one">%1$s | %2$dx verweigert</item>
-    </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">%3$d-mal zwischen %1$s und %2$s erlaubt</item>
         <item quantity="one">%3$d-mal zwischen %1$s und %2$s erlaubt</item>
@@ -73,45 +57,9 @@
         <item quantity="other">Für %1$d Minuten bis %2$s genutzt</item>
         <item quantity="one">Für %1$d Minute bis %2$s genutzt</item>
     </plurals>
-    <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">von %1$s - %2$s | %3$d leere Nachrichten zurückgesendet</item>
-        <item quantity="one">von %1$s - %2$s | %3$d leere Nachrichten zurückgesendet</item>
-    </plurals>
-    <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">%2$d leere Nachrichten an %1$s zurückgesendet</item>
-        <item quantity="one">%2$d leere Nachricht an %1$s zurückgesendet</item>
-    </plurals>
-    <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">\"%1$1s\" wartet auf Aufnahmen von %2$d</item>
-        <item quantity="one">\"%1$1s\" wartet auf Aufnahme von %2$d</item>
-    </plurals>
-    <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">\"%1$1s\" wartet auf %2$d, um Bilder aufzunehmen</item>
-        <item quantity="one">\"%1$1s\" wartet auf %2$d, um ein Bild aufzunehmen</item>
-    </plurals>
-    <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">\"%1$1s\" wartet auf %2$d Apps, um Ihren Standort zu ermitteln</item>
-        <item quantity="one">\"%1$1s\" wartet auf %2$d App, um Ihren Standort zu ermitteln</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">Sie werden nicht über die von %1$d Apps ausgeführten sensiblen Aktionen benachrichtigt</item>
-        <item quantity="one">Sie werden nicht über die von %1$d App ausgeführten sensiblen Aktionen benachrichtigt</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">Sie werden über die von %1$d Apps ausgeführten sensiblen Aktionen benachrichtigt</item>
-        <item quantity="one">Sie werden über die von %1$d App ausgeführten sensiblen Aktionen benachrichtigt</item>
-    </plurals>
     <plurals name="app_behavior_record_close_content_text">
         <item quantity="other">App-Verhaltensaufzeichnungen werden auf diesem Gerät für %d Tage gespeichert. Wenn Sie diese Funktion deaktivieren, werden keine neuen Aufzeichnungen mehr angezeigt und die alten werden gelöscht. Trotzdem ausschalten?</item>
         <item quantity="one">App-Verhaltensaufzeichnungen werden auf diesem Gerät für %d Tag gespeichert. Wenn Sie diese Funktion deaktivieren, werden keine neuen Aufzeichnungen mehr angezeigt und die alten werden gelöscht. Trotzdem ausschalten?</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s startete %2$d Apps</item>
-        <item quantity="one">%1$1s startete %2$d App</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple_single">
-        <item quantity="other">Diese App startete %1$d andere Apps</item>
-        <item quantity="one">Diese App startete %1$d andere App</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d Berechtigungen erlaubt</item>
@@ -1283,6 +1231,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <plurals name="st_show_num_number">
         <item quantity="other">%d Nummern</item>
         <item quantity="one">%d Nummer</item>
+    </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">%1$d Berechtigungen bearbeiten</item>
+        <item quantity="one">%1$d Berechtigung bearbeiten</item>
     </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> Fragmente</item>

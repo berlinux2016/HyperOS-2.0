@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="PRD_summary_1">Wenn Sie Daten dieser Apps vom alten auf das neue Gerät übertragen, werden die Daten auf dem neuen Gerät (inkl. Chat-Verlauf) überschrieben.</string>
+    <string name="PRD_summary_4">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>
+    <string name="PRD_summary_4_china">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>
+    <string name="PRD_summary_5">Hochgeschwindigkeitsübertragungen können dazu führen, dass Ihr Gerät heißer wird als normal. Seien Sie versichert, dass sich Ihr Gerät abkühlen wird, wenn die Übertragung beendet ist.</string>
+    <string name="PRD_title_1">1. Folgende Apps haben bereits Daten auf Ihrem neuen Gerät:</string>
+    <string name="PRD_title_4">2. Seien Sie vorsichtig während des Übertragungsvorgangs.</string>
+    <string name="PRD_title_5">3. Ihr Gerät kann während des Übertragungsvorgangs heiß werden.</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -664,6 +671,7 @@ Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vors
 • Speicher"</string>
     <string name="request_all_permission_title">Berechtigung erforderlich</string>
     <string name="request_permission">Erlauben</string>
+    <string name="require_permission">Tippen, um die Berechtigung zur Übertragung von Elementen zu gewähren</string>
     <string name="restore_data_to_device_content">"Ihre Elemente wurden mit Xiaomi Cloud synchronisiert.
 Am Xiaomi-Konto anmelden, um sie wiederherzustellen."</string>
     <string name="restore_data_to_device_title">Elemente auf diesem Gerät wiederherstellen</string>
@@ -694,7 +702,9 @@ Mindestens %s freigeben."</string>
     <string name="scanner_send_dialog_btn">Verstanden</string>
     <string name="scanner_send_dialog_message">Während der Übertragung weder WLAN ausschalten noch zwischen den Netzwerken wechseln</string>
     <string name="scanner_size_selected">Ausgewält: %s</string>
+    <string name="scanner_subtitle_prd">Lesen Sie die folgenden Informationen sorgfältig durch, bevor Sie die einzelnen Elemente prüfen und den Übertragungsvorgang starten.</string>
     <string name="scanner_time_remained">Geschätzte Zeit: %s</string>
+    <string name="scanner_title_prd">Wichtige Information</string>
     <string name="scanner_title_tip">Zu übertragende Elemente wählen</string>
     <string name="scanner_wechat_overwrite_hit">Wegen Drittanbieter-App-Einschränkungen werden Chat-Verlauf und andere App-Daten auf Ihrem neuen Gerät nach Übertragungsabschluss durch die des alten Geräts ersetzt.</string>
     <string name="search_action_mode_cancel">Beenden</string>
@@ -735,6 +745,7 @@ Mindestens %s freigeben."</string>
     <string name="set_new_device_title">Neues Gerät einrichten…</string>
     <string name="set_new_device_wlan">WLAN einrichten</string>
     <string name="settings_phone">Telefoneinstellungen</string>
+    <string name="settings_photo">Galerieeinstellungen</string>
     <string name="settings_powerkeeper">Schrittzähler-Daten</string>
     <string name="settings_sms">Nachrichteneinstellungen</string>
     <string name="settings_system">Systemeinstellungen</string>
