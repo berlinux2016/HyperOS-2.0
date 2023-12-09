@@ -250,6 +250,9 @@
     <string name="browserFrameFileErrorLabel">Dateifehler</string>
     <string name="browserFrameFormResubmitMessage">Die aufgerufene Seite enthält Daten, die bereits übermittelt wurden. Beim erneuten Versenden der Daten werden bestimmte Aktionen wiederholt (z. B. Suchen oder Einkäufe).</string>
     <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
+    <string name="browser_slide_video_history">Kürzlich angesehen</string>
+    <string name="browser_slide_video_like">Geliked</string>
+    <string name="browser_slide_video_my">Profil</string>
     <string name="browser_wallpaper">Hintergründe</string>
     <string name="browser_wallpaper_activity">Werbeaktionen</string>
     <string name="browser_wallpaper_application">Anwenden</string>
@@ -1037,6 +1040,7 @@
     <string name="list_menu_rename_result_fail">Umbenennen fehlgeschlagen</string>
     <string name="list_menu_rename_result_repeat">Datei mit diesem Namen existiert bereits</string>
     <string name="load_more">Mehr anzeigen</string>
+    <string name="load_failure">Laden fehlgeschlagen</string>
     <string name="loading">Einen Moment…</string>
     <string name="loading_tips">Zum Aktualisieren runterziehen</string>
     <string name="local_apps">Lokale Apps</string>
@@ -2530,6 +2534,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="video_feedback_description">Wir sammeln und verwenden die von Ihnen oben eingegebenen Daten, um Ihre Nutzererfahrung zu verbessern. Um mehr darüber zu erfahren, wie wir Ihre persönlichen Daten sammeln und verarbeiten, lesen Sie bitte unsere Datenschutzerklärung.</string>
     <string name="video_feedback_description_title">Diese Daten werden nur für Inhaltsempfehlungen verwendet</string>
     <string name="video_feedback_not_sumbit_toast">Wählen Sie eine Antwort vor dem Absenden</string>
+    <string name="video_feedback_thanks">Danke für Ihr Feedback</string>
     <string name="video_float_window_text">Popup-Video</string>
     <string name="video_fragment_name_collections">Favoriten</string>
     <string name="video_fragment_name_download">Offline-Video</string>
@@ -2617,6 +2622,7 @@ Absturz-ID: http://crash/%1$s"</string>
     <string name="web_ad_clear_dialog_confirm">Löschen</string>
     <string name="web_ad_clear_dialog_msg">Werbe-Tags von \"%s\" jetzt löschen?</string>
     <string name="web_ad_clear_dialog_title">Werbe-Tags löschen</string>
+    <string name="web_app_center">Miniprogramme</string>
     <string name="web_enhance_dialog_cancel">Abbrechen</string>
     <string name="web_enhance_dialog_msg">Start blocking ads on %s now?</string>
     <string name="web_enhance_dialog_title">Werbung blockieren</string>

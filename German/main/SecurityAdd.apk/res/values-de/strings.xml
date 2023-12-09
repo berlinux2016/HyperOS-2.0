@@ -290,7 +290,6 @@
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
     <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
     <string name="mtrl_picker_cancel">Abbrechen</string>
-    <string name="mtrl_picker_confirm">Speichern</string>
     <string name="mtrl_picker_date_format">d. MMM. yyyy</string>
     <string name="mtrl_picker_date_header_title">Datum wählen</string>
     <string name="mtrl_picker_date_header_unselected">Gewähltes Datum</string>

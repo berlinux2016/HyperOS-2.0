@@ -1508,7 +1508,6 @@ dd.MM."</string>
     <string name="mtrl_picker_a11y_next_month">Zum Folgemonat wechseln</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
     <string name="mtrl_picker_cancel">Abbrechen</string>
-    <string name="mtrl_picker_confirm">Speichern</string>
     <string name="mtrl_picker_date_format">d. MMM. yyyy</string>
     <string name="mtrl_picker_day_of_week_column_header">Tagesspalte: %1$s</string>
     <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s navigieren</string>

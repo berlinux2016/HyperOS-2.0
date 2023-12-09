@@ -431,13 +431,13 @@
     <string name="fold_restore_default_theme_dialog_title">Standardthema wiederherstellen</string>
     <string name="fold_sensor_video_wallpaper_group">Dynamische Hintergründe für faltbare Geräte</string>
     <string name="font_compat_dialog_buy_confirm">Kaufen</string>
-    <string name="font_compat_dialog_buy_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben werden. Diese Schriftart trotzdem kaufen?</string>
+    <string name="font_compat_dialog_buy_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes Systemupdate behoben werden. Diese Schriftart trotzdem kaufen?</string>
     <string name="font_compat_dialog_cancel">Abbrechen</string>
     <string name="font_compat_dialog_download_confirm">Herunterladen</string>
-    <string name="font_compat_dialog_download_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben. Diese Schriftart trotzdem herunterladen?</string>
+    <string name="font_compat_dialog_download_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes Systemupdate behoben. Diese Schriftart trotzdem herunterladen?</string>
     <string name="font_compat_dialog_title">Kompatibilitätsprobleme</string>
     <string name="font_compat_dialog_trial_confirm">Versuchen</string>
-    <string name="font_compat_dialog_trial_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes System-Update behoben. Diese Schriftart trotzdem ausprobieren?</string>
+    <string name="font_compat_dialog_trial_content">Schriftarten von Drittanbietern werden möglicherweise von einigen Apps nicht unterstützt. Dieses Kompatibilitätsproblem wird durch ein kommendes Systemupdate behoben. Diese Schriftart trotzdem ausprobieren?</string>
     <string name="font_pad_setting_charge_font">Bezahlt</string>
     <string name="font_pad_setting_find_more_title">Weitere Schriftarten</string>
     <string name="font_pad_setting_free_font">Kostenlos</string>

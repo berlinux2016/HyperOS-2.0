@@ -262,7 +262,7 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
     <string name="android_system_label">Android System</string>
     <string name="android_upgrading_complete">Start abschließen…</string>
     <string name="android_upgrading_notification_body">Einige Apps könnten nach dem Update nicht mehr ordnungsgemäß funktionieren</string>
-    <string name="android_upgrading_notification_title">System-Update fertigstellen</string>
+    <string name="android_upgrading_notification_title">Systemupdate fertigstellen</string>
     <string name="android_upgrading_starting_apps">Apps starten…</string>
     <string name="android_upgrading_title">Telefon aktualisieren…</string>
     <string name="anr_activity_application">%2$s reagiert nicht</string>

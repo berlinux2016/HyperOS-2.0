@@ -3344,7 +3344,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="dsds_notification_after_suw_title">Richten Sie Ihre andere SIM ein</string>
     <string name="dsds_switch_string">DSDS aktivieren</string>
     <string name="dsu_is_running">DSU wird ausgeführt</string>
-    <string name="dsu_loader_description">Dynamisches System-Update-Image laden</string>
+    <string name="dsu_loader_description">Dynamisches Systemupdate-Image laden</string>
     <string name="dsu_loader_loading">Laden…</string>
     <string name="dtmf_tone_enable_title">Wähltastentöne</string>
     <string name="dual_cdma_sim_warning_notification_channel_title">SIM-Kombination</string>
@@ -6256,8 +6256,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="modify_default_browser_message">Wenn Sie eine Drittanbieter-App als Standardbrowser festlegen, kann es sein, dass sie Ihren Browserverlauf und andere Daten erfasst. Trotzdem festlegen?</string>
     <string name="modify_instruction_password_settings">Passwort festlegen</string>
     <string name="modify_privacy_password">Passwort ändern</string>
-    <string name="module_license_title">Google Play System-Update-Lizenzen</string>
-    <string name="module_version">Google Play System-Update</string>
+    <string name="module_license_title">Google Play Systemupdate-Lizenzen</string>
+    <string name="module_version">Google Play Systemupdate</string>
     <string name="monday">Montag</string>
     <string name="monday_first_day_of_week">Montag</string>
     <string name="monday_short">Mo</string>
@@ -6363,7 +6363,6 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
     <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
     <string name="mtrl_picker_cancel">Abbrechen</string>
-    <string name="mtrl_picker_confirm">Speichern</string>
     <string name="mtrl_picker_date_format">dd. MMM. yyyy</string>
     <string name="mtrl_picker_date_header_title">Datum wählen</string>
     <string name="mtrl_picker_date_header_unselected">Gewähltes Datum</string>
