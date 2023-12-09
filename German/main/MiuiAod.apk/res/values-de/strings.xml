@@ -63,6 +63,7 @@ dd.MM."</string>
     <string name="aod_mode_time_summary">Zeit zum Ein-/Ausschalten des Always-On-Display planen</string>
     <string name="aod_mode_time_title">Zeitplan</string>
     <string name="aod_mode_title">Always-On-Display</string>
+    <string name="aod_notification_use_app_icon">App-Symbole für Benachrichtigungen verwenden</string>
     <string name="aod_show_date_and_time">Uhrzeit und Datum anzeigen</string>
     <string name="aod_show_style_title">Elemente anzeigen</string>
     <string name="aod_style">Thema</string>
@@ -76,10 +77,10 @@ dd.MM."</string>
     <string name="below_image">Nach unten</string>
     <string name="bold_font">Fettschrift</string>
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
-    <string name="bottomsheet_action_expand">Unteres Blatt erweitern</string>
+    <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="bottomsheet_drag_handle_clicked">Ziehen handhaben Doppeltipp</string>
-    <string name="bottomsheet_drag_handle_content_description">Ziehen handhaben</string>
+    <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="btn_know">Verstanden</string>
     <string name="call_notification_answer_action">Annehmen</string>
     <string name="call_notification_decline_action">Ablehnen</string>
