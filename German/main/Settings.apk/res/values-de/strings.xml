@@ -4734,7 +4734,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="interact_across_profiles_switch_enabled">Verbunden</string>
     <string name="interact_across_profiles_title">Verbundene Arbeits- &amp; persönliche Apps</string>
     <string name="interaction_control_category_title">Interaktionssteuerung</string>
-    <string name="interconnection">Zusammenschaltung</string>
+    <string name="interconnection">Interkonnektivität</string>
     <string name="interesting_text">Realistische haptische Wahrnehmungen machen Ihre Interaktion mit dem Bildschirm deutlicher und artikulierter.</string>
     <string name="interesting_title">Realistische Berührung</string>
     <string name="internal_auto_rotate_title">Ausrichtung für inneren Bildschirm sperren</string>
@@ -8422,7 +8422,7 @@ UT Interface: %5$s"</string>
     <string name="search_status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen;Benachrichtigungssymbole</string>
     <string name="search_status_bar_settings_show_screenshot_notification">Screenshot-Benachrichtigung anzeigen;Screenshot-Benachrichtigung;Screenshot</string>
     <string name="search_status_bar_settings_style">Benachrichtungen &amp; Schalteranordnung;Statusleistenstil;Schalter;Schalteranordnung;getrennte Schalter;kombiniert;getrennt;kombinieren;Toggle;Toggles;Toggle-Layout</string>
-    <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach dem Antippen einklappen;einklappen;verstecken</string>
+    <string name="search_status_bar_settings_toggle_collapse_after_clicked">Nach Antippen einklappen;einklappen;verstecken;ausblenden</string>
     <string name="search_status_bar_settings_toggle_position">Schalterpositionen;Schalter;Toggle;Toggles;Schalter ändern;Toggles ändern</string>
     <string name="search_storage_settings">Speicher;Speicherplatz</string>
     <string name="search_sync_settings">Sync;Auto;Synchronisation;Synchronisierung;Automatisch;nur WLAN</string>

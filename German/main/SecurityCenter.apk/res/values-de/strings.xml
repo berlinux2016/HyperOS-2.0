@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="HIPS_Perm_Access_Gallery">Galeriezugriff</string>
-    <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf Elemente in Ihrer Galerie erlauben</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ein- und Ausschalten von Bluetooth</string>
+    <string name="HIPS_Perm_Access_Gallery">Zugriff auf mit der Kamera gemachte Fotos und Videos</string>
+    <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf mit der Systemkamera-App gemachte Fotos und Videos erlauben</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetooth ein- oder ausschalten</string>
     <string name="HIPS_Perm_CallLog_Desc">Anrufliste schreiben und löschen</string>
     <string name="HIPS_Perm_Call_Desc">Rufnummern direkt anrufen</string>
     <string name="HIPS_Perm_Contact_Desc">Kontakte ändern und löschen</string>
@@ -13,8 +13,8 @@
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Zugriff auf und Speichern von Bildern, Videos und Audiodateien im internen Speicher</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Zugriff auf Fotos und Videos</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Zugriff auf Fotos und Videos auf diesem Gerät</string>
-    <string name="HIPS_Perm_External_Storage">Dateizugriff und -änderung auf externem Speicher</string>
-    <string name="HIPS_Perm_External_Storage_Desc">Hinzufügen und Löschen von Dateien auf dem externen Gerätespeicher</string>
+    <string name="HIPS_Perm_External_Storage">Dateizugriff und -änderung auf internem Speicher</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Zugriff auf und Speichern von Fotos, Videos, Audio und Dateien auf Ihrem Gerät</string>
     <string name="HIPS_Perm_External_Storage_Group">Speicherberechtigungen verwalten</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Auswählen, auf welche App-Elemente Sie zugreifen dürfen</string>
     <string name="HIPS_Perm_GetInstall_Desc">Zugriff auf die Liste der auf diesem Gerät installierten Apps</string>
@@ -28,13 +28,13 @@
     <string name="HIPS_Perm_Read_Contact_Desc">Kontakte lesen</string>
     <string name="HIPS_Perm_Read_SMS_Desc">SMS lesen</string>
     <string name="HIPS_Perm_SendSMS_Desc">SMS direkt senden</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Desc">Ein- und Ausschalten von WLAN</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Desc">WLAN ein- oder ausschalten</string>
     <string name="HIPS_Perm_add_voicemail_Desc">Systemsprachnachrichten hinzufügen</string>
-    <string name="HIPS_Perm_get_accounts_Desc">auf alle auf dem Gerät gespeicherten Konten zugreifen</string>
-    <string name="HIPS_Perm_process_nfc_Desc">NFC-Verwendung</string>
-    <string name="HIPS_Perm_process_outgoing_calls">Zugriff auf Telefon-App</string>
-    <string name="HIPS_Perm_tencentControl">Nachrichtenzugriff in Social Media-Apps</string>
-    <string name="HIPS_Perm_tencentControl_Desc">Zugriff auf von WeChat und QQ gespeicherte Bilder und Dateien</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Zugriff auf alle auf dem Gerät gespeicherten Konten</string>
+    <string name="HIPS_Perm_process_nfc_Desc">NFC verwenden</string>
+    <string name="HIPS_Perm_process_outgoing_calls">Anrufe beantworten und beenden</string>
+    <string name="HIPS_Perm_tencentControl">Zugriff auf Nachrichten in Social Media-Apps</string>
+    <string name="HIPS_Perm_tencentControl_Desc">App den Zugriff auf Ihre WeChat- und QQ-Nachrichten erlauben</string>
     <string name="HIPS_Perm_use_sip_Desc">Session Initiation Protocol zum Streamen von Videos verwenden</string>
     <string name="Phonepass">Anrufe zulassen</string>
     <string name="SMS_and_MMS">SMS und MMS</string>
@@ -78,7 +78,7 @@
     <string name="ac_mask_all_apps">Für alle ausblenden</string>
     <string name="ac_notification_action_text">Einschalten</string>
     <string name="ac_notification_contentText">Sensible Informationen mit einem Passwort verstecken</string>
-    <string name="ac_notification_contentTitle">App-Sperre ausprobieren!</string>
+    <string name="ac_notification_contentTitle">Probirene Sie App-Sperre aus!</string>
     <string name="ac_post_notification_contentText">Sie kann alle Arten von sensiblen Apps schützen</string>
     <string name="ac_post_notification_contentTitle">Apps mit App-Sperre schützen</string>
     <string name="ac_pre_notification_contentText">Schützen Sie Ihre persönlichen Daten</string>
@@ -1062,7 +1062,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="blur_clipboard3">Intelligenter Zwischenablage-Schutz</string>
     <string name="blur_connected_camera">Verbundene Kamera</string>
     <string name="blur_connected_screen">Verbundener Bildschirm</string>
-    <string name="blur_cross_device_permissions">Berechtigungen für Gerätevernetzung</string>
+    <string name="blur_cross_device_permissions">Berechtigungen für Geräteinterkonnektivität</string>
     <string name="blur_double_space">Zweitprofil</string>
     <string name="blur_external_storage">Externer Speicher</string>
     <string name="blur_key_words_permission_records">App-Verhaltensaufnahmen</string>
@@ -1317,15 +1317,15 @@ Sie verlieren keine App-Daten."</string>
     <string name="connected_devices_notification">Benachrichtigungen</string>
     <string name="connected_devices_notification_desc">Benachrichtigungen dieses Geräts auf Geräten in der Nähe anzeigen, die am selben Konto angemeldet sind</string>
     <string name="connected_devices_notification_title">Dem obigen Gerät erlauben, die Benachrichtigungen dieses Geräts anzuzeigen?</string>
-    <string name="connected_devices_permission">Vernetzung und Berechtigungen</string>
-    <string name="connected_devices_permission_settings">Vernetzung und Berechtigungen</string>
+    <string name="connected_devices_permission">Interkonnektivität und Berechtigungen</string>
+    <string name="connected_devices_permission_settings">Interkonnektivität und Berechtigungen</string>
     <string name="connected_devices_record">Aufnahme</string>
     <string name="connected_devices_record_desc">Geräte in der Nähe, die am selben Konto angemeldet sind, dürfen auf diesem Gerät Audio aufnehmen</string>
     <string name="connected_devices_record_title">Dem obigen Gerät erlauben, Audio auf diesem Gerät aufzunehmen?</string>
     <string name="connected_devices_screen">Bildschirm</string>
     <string name="connected_devices_screen_desc">Geräte in der Nähe, die am selben Konto angemeldet sind, dürfen den Bildschirminhalt dieses Geräts anzeigen und mit ihm interagieren</string>
     <string name="connected_devices_screen_title">Dem obigen Gerät erlauben, den Bildschirminhalt dieses Geräts anzuzeigen und mit ihm zu interagieren?</string>
-    <string name="connected_interconnection">Vernetzung</string>
+    <string name="connected_interconnection">Interkonnektivität</string>
     <string name="connecting">Verbinden…</string>
     <string name="continue_install">Installieren</string>
     <string name="continue_set">Einstellung fortsetzen</string>
@@ -2584,7 +2584,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Ablehnen und nicht mehr fragen</string>
     <string name="group_audio">Musik und Audio</string>
     <string name="group_clipboard">Zwischenablage</string>
-    <string name="group_connect_device">Vernetzung</string>
+    <string name="group_connect_device">Interkonnektivität</string>
     <string name="group_file">Dateien und Dokumente</string>
     <string name="group_head_data_ai_clipboard">Zwischenablage-Schutz</string>
     <string name="group_head_data_ai_clipboard_desc">Dem System erlauben zu entscheiden, ob Apps auf die Elemente in der Zwischenablage zugreifen können</string>
@@ -3765,7 +3765,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permgroupdesc_sms">SMS lesen oder senden</string>
     <string name="permgroupdesc_storage">Auf Fotos oder Dateien auf dem Gerät zugreifen</string>
     <string name="permisison_usage_menu_all">Alle</string>
-    <string name="permisison_usage_menu_terminal">Vernetzung</string>
+    <string name="permisison_usage_menu_terminal">Interkonnektivität</string>
     <string name="permisison_usage_now_camera">Diese App greift jetzt auf die Kamera zu</string>
     <string name="permisison_usage_now_location">Diese App greift jetzt auf Ihren Standort zu</string>
     <string name="permisison_usage_now_mic">Diese App greift jetzt auf das Mikrofon zu</string>

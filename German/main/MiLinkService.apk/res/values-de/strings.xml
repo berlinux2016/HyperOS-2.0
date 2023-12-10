@@ -31,7 +31,7 @@
     <string name="appcirculate_fragment_circulate_app_content_description">App-Schnappschuss: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Jetzt einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Siehe Hilfe</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Nach dem Einschalten können Sie nach Geräten in der Nähe suchen.\nErleben Sie die Video- und Audio-Streaming-Funktion.</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Der App erlauben, nach Geräten in der Nähe zu suchen, um Steuerungen und Interkonnektivitätsfunktionen zu verwenden</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">WLAN und Bluetooth einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">WLAN und Bluetooth einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Bluetooth einschalten</string>
@@ -151,7 +151,7 @@
     <string name="circulate_card_sticker_remote_control_volum_add">Lauter-Taste</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Leiser-Taste</string>
     <string name="circulate_card_sticker_selected">Ausgewählt</string>
-    <string name="circulate_card_tv_device_sync">Vernetzung</string>
+    <string name="circulate_card_tv_device_sync">Interkonnektivität</string>
     <string name="circulate_card_tv_gesture_click_sure">Zur Bestätigung irgendwo tippen</string>
     <string name="circulate_card_tv_gesture_content_desc">Steuerungsbereich berühren. Schieben, um den Cursor zu bewegen. Tippen, um die Auswahl zu bestätigen.</string>
     <string name="circulate_card_tv_gesture_ok_title">Jetzt bestätigen?</string>
@@ -172,9 +172,9 @@
     <string name="circulate_controlphone_button_hint">Bildschirm anzeigen</string>
     <string name="circulate_controlphone_title">Gerät verwalten</string>
     <string name="circulate_cta_agree">Zustimmen</string>
-    <string name="circulate_cta_app_name">Mi Smart Hub</string>
-    <string name="circulate_cta_desc_lite_phone">Xiaomi Interconnectivity Services ermöglichen es Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
-    <string name="circulate_cta_desc_phone">Xiaomi Interconnectivity Services ermöglichen es Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
+    <string name="circulate_cta_app_name">Xiaomi Interkonnektivität</string>
+    <string name="circulate_cta_desc_lite_phone">Xiaomi Interkonnektivitätsdienste ermöglichen es Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
+    <string name="circulate_cta_desc_phone">Xiaomi Interkonnektivitätsdienste ermöglichen es Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
     <string name="circulate_cta_exit">Beenden</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Zum Verbinden von Geräten und Übertragen von Daten zwischen ihnen</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Für den Zugriff auf die Liste der auf einem mobilen Gerät installierten Apps und die Bildschirmspiegelung auf Computer</string>
@@ -309,11 +309,12 @@
     <string name="connect_device_fail">Verbindung zum Gerät herstellen nicht möglich</string>
     <string name="connect_setting_privacy_title">Datenschutz</string>
     <string name="connect_settings_application_ecological">Apps kombinieren</string>
-    <string name="connect_settings_base">Vernetzung</string>
+    <string name="connect_settings_base">Interkonnektivität</string>
     <string name="connect_settings_category_connection_car">Fahrzeugmerkmale</string>
     <string name="connect_settings_category_personal_device">Persönliche Geräte</string>
-    <string name="connect_settings_connect_permission">Vernetzung und Berechtigungen</string>
+    <string name="connect_settings_connect_permission">Interkonnektivität und Berechtigungen</string>
     <string name="connect_settings_connect_privacy">Datenschutz</string>
+    <string name="connect_settings_connection_service">Xiaomi Interkonnektivität</string>
     <string name="connect_settings_corp_network">Netzwerkunterstützung</string>
     <string name="connect_settings_corp_phone">Anrufe</string>
     <string name="connect_settings_nfc_share">Elemente per NFC übertragen</string>
@@ -352,7 +353,7 @@
     <string name="device_desc_trust">Vertrauenswürdige Geräte</string>
     <string name="device_permission_authorize_dialog_message">Sobald diese Berechtigung erteilt ist, kann dieses Gerät %s für die Aufnahme von Fotos und Videos verwenden.</string>
     <string name="device_permission_authorize_dialog_title">Kamera-Berechtigungen auf %s gewähren</string>
-    <string name="device_permission_dialog_message">Öffnen Sie Einstellungen > Vernetzung > Vernetzung und Berechtigungen auf %s und gewähren Sie erst Kamerarechte.</string>
+    <string name="device_permission_dialog_message">Öffnen Sie Einstellungen > Interkonnektivität > Interkonnektivität und Berechtigungen auf %s und gewähren Sie erst Kamerarechte.</string>
     <string name="device_permission_dialog_positive_button">Verstanden</string>
     <string name="device_permission_dialog_title">Berechtigungen auf %s gewähren</string>
     <string name="device_type_name_phone">Telefon</string>
@@ -587,10 +588,10 @@
     <string name="miplay_service_timeout_toast">Verbindung unterbrochen, erneut versuchen.</string>
     <string name="miplay_song_title_empty">Kein Titel</string>
     <string name="mirror_phone_content">Startbildschirm+ jetzt einschalten?</string>
-    <string name="mirror_phone_content_remote">Sie können Startbildschirm+ unter Einstellungen > Vernetzung einschalten.</string>
+    <string name="mirror_phone_content_remote">Sie können Startbildschirm+ unter Einstellungen > Interkonnektivität einschalten.</string>
     <string name="mirror_phone_title">TStartbildschirm+ einschalten</string>
     <string name="mirror_phone_title_remote">Startbildschirm+ am Telefon einschalten</string>
-    <string name="mirror_remote_pad_content">Sie können Startbildschirm+ unter Einstellungen > Vernetzung einschalten.</string>
+    <string name="mirror_remote_pad_content">Sie können Startbildschirm+ unter Einstellungen > Interkonnektivität einschalten.</string>
     <string name="mirror_remote_pad_title">Startbildschirm+ am Tablet einschalten</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -785,13 +786,13 @@
     <string name="privacy_permission_wlan_china">WLAN ein- und ausschalten</string>
     <string name="privacy_permission_wlan_desc">Verfügbare Geräte in der Nähe finden</string>
     <string name="privacy_permission_wlan_desc_china">Verfügbare Geräte in der Nähe finden</string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Ich habe die \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interconnectivity&lt;/a>&lt;/font>\" gelesen und akzeptiert."</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>"Ich habe die \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität&lt;/a>&lt;/font>\" gelesen und akzeptiert."</Data></string>
     <string name="privacy_positive">Zustimmen</string>
     <string name="privacy_read_statement">Erst den allgemeinen Geschäftsbedingungen zustimmen</string>
-    <string name="privacy_revoke_agree_detail_content">%1$d. Stellen Sie sicher, dass Sie das Recht haben, Ihre Zustimmung zu widerrufen, bevor Sie fortfahren. \n%2$d. Wenn Sie Ihre Zustimmung widerrufen, werden die bereits gesammelten und gespeicherten personenbezogenen Daten innerhalb einer bestimmten Frist im Einklang mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Vernetzungsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten bereitgestellt werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Vernetzungsdienste gewertet. Ihr Widerruf der Zustimmung hat keine Auswirkungen auf die normale Nutzung anderer Funktionen und Dienste. \n%3$d. Der Widerruf der Zustimmung ist eine unumkehrbare Handlung. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald Sie Ihre Zustimmung widerrufen haben.</string>
-    <string name="privacy_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interconnectivity</string>
-    <string name="privacy_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interconnectivity\", bevor Sie Ihre Zustimmung widerrufen.</string>
-    <string name="privacy_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung für Xiaomi Interconnectivity. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Vernetzungsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbracht werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Vernetzungsdienste gewertet. Ihr Widerruf der Zustimmung hat keinen Einfluss auf die normale Nutzung anderer Funktionen und Dienste.</string>
+    <string name="privacy_revoke_agree_detail_content">%1$d. Stellen Sie sicher, dass Sie das Recht haben, Ihre Zustimmung zu widerrufen, bevor Sie fortfahren. \n%2$d. Wenn Sie Ihre Zustimmung widerrufen, werden die bereits gesammelten und gespeicherten personenbezogenen Daten innerhalb einer bestimmten Frist im Einklang mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Interkonnektivitätsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten bereitgestellt werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Interkonnektivitätsdienste gewertet. Ihr Widerruf der Zustimmung hat keine Auswirkungen auf die normale Nutzung anderer Funktionen und Dienste. \n%3$d. Der Widerruf der Zustimmung ist eine unumkehrbare Handlung. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald Sie Ihre Zustimmung widerrufen haben.</string>
+    <string name="privacy_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität</string>
+    <string name="privacy_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität\", bevor Sie Ihre Zustimmung widerrufen.</string>
+    <string name="privacy_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Interkonnektivitätsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbracht werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Interkonnektivitätsdienste gewertet. Ihr Widerruf der Zustimmung hat keinen Einfluss auf die normale Nutzung anderer Funktionen und Dienste.</string>
     <string name="privacy_revoke_agree_warning_map_text">Achtung</string>
     <string name="privacy_revoke_confirm_cancel">Abbrechen</string>
     <string name="privacy_revoke_confirm_message">Sie werden nicht in der Lage sein, die Übertragungsfunktionen weiter zu nutzen, wenn Sie uns nicht erlauben, unsere Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten zu erbringen. Zustimmung zur HappyCast Datenschutzerklärung trotzdem zurückziehen?</string>
@@ -941,7 +942,7 @@
     <string name="sunday_shortest">S</string>
     <string name="synergy_being_used_text">In Verwendung</string>
     <string name="synergy_casting">Übertragung nicht möglich, während Screen Combo arbeitet</string>
-    <string name="synergy_text">Vernetzung</string>
+    <string name="synergy_text">Interkonnektivität</string>
     <string name="talk_back_device_battery_quantity">Akku %s</string>
     <string name="test_package_upgrade">Unvollständige Aktualisierung des internen Testpakets</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
@@ -988,7 +989,7 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="tile_label">Übertragen</string>
-    <string name="tile_label_v2">Vernetzungsdienste</string>
+    <string name="tile_label_v2">Interkonnektivitätsdienste</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>

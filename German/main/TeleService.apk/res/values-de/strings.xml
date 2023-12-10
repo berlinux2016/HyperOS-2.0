@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="HIPS_Perm_Read_Contact">Kontakte</string>
-    <string name="HIPS_Perm_Read_Contact_Desc">Zugriff auf Ihre Kontakte</string>
+    <string name="HIPS_Perm_External_Storage">Dateizugriff und -änderung auf internem Speicher</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Zugriff auf und Speichern von Fotos, Videos, Audio und Dateien auf Ihrem Gerät</string>
+    <string name="HIPS_Perm_Read_Contact">Kontakte lesen</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Kontakte lesen</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM Firmen-PIN entsperren</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Firmenentsperrung nicht erfolgreich</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">RUIM Firmenentsperrung anfragen…</string>
