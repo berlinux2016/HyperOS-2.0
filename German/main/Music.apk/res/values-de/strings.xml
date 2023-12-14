@@ -86,10 +86,17 @@
     <string name="already_download_btn">Herunterladen…</string>
     <string name="already_favorited">Bereits zu Favoriten hinzugefügt</string>
     <string name="always_use_metered">Immer mobile Daten nutzen</string>
-    <string name="app_description_content">Musik ist eine System-App, die einen Audioplayer enthält und Ihnen erlaubt, Audiodateien zu verwalten. Sie können Audiodateien auch dann noch abspielen, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
-    <string name="app_description_title">\"Musik\" vom Startbildschirm entfernen?</string>
+    <string name="app_description_content">Mi Music ist eine System-App, die einen Audioplayer enthält und Ihnen erlaubt, Audiodateien zu verwalten. Sie können Audiodateien auch dann noch abspielen, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
+    <string name="app_description_title">\"Mi Music\" vom Startbildschirm entfernen?</string>
     <string name="app_disable_description_content">Mi Music ist eine System-App. Wenn Sie sie deaktivieren, kann sich dies auf die Nutzung anderer Apps auswirken. Trotzdem deaktivieren?</string>
     <string name="app_disable_description_title">System-App deaktivieren?</string>
+    <string name="app_notify_dialog_btn_desc">Einstellungen</string>
+    <string name="app_notify_dialog_check_desc">Benachrichtigungsleisten-Widget einschalten, aber keine dauerhaften Benachrichtigungen zulassen</string>
+    <string name="app_notify_dialog_path">Einstellungen > Benachrichtigungen &amp; Statusleiste > App-Benachrichtigungen > Musik</string>
+    <string name="app_notify_dialog_path_10">Einstellungen > Benachrichtigungen &amp; Statusleiste > App-Benachrichtigungen > Musik</string>
+    <string name="app_notify_dialog_path_8">Einstellungen > Benachrichtigungen &amp; Statusleiste > App-Benachrichtigungen > Musik</string>
+    <string name="app_notify_dialog_subtitle">Benachrichtigungen für Mi Music einschalten, um die Musikwiedergabe in der Benachrichtigungsleiste steuern zu können</string>
+    <string name="app_notify_dialog_title">Berechtigungen erforderlich</string>
     <string name="app_permission_confirm">Verstanden</string>
     <string name="app_permission_optional">Optionale Rechte</string>
     <string name="app_permission_require">Obligatorische Rechte</string>
@@ -100,10 +107,11 @@
     <string name="app_permission_use_group_phone_desc">Für Google Push-Dienste</string>
     <string name="app_permission_use_group_storage">Speicher</string>
     <string name="app_permission_use_group_storage_desc">Zum Suchen und Abspielen von auf dem Gerät gespeicherten Titeln</string>
+    <string name="app_resident_push_switch">Dauerhafte Benachrichtigungen zulassen</string>
     <string name="apply_for_the_following_permissions">Diese App erfordert folgende Berechtigungen:</string>
     <string name="apply_permissions_greater_than_pie">Sie können diese Berechtigung erteilen unter Einstellungen > Apps > Rechte > Berechtigungen > Dateien und Medien > Musik.</string>
-    <string name="apply_permissions_less_than_pie">Sie können diese Berechtigung erteilen unter Einstellungen > Apps > Rechte > Berechtigungen > Zugriff und Änderung von Dateien auf dem internen Speicher > Musik.</string>
     <string name="apply_permissions_greater_than_tiramisu">Sie können diese Berechtigung erteilen unter Einstellungen > Apps > Berechtigungen > Musik und Audio/Fotos und Videos > Musik.</string>
+    <string name="apply_permissions_less_than_pie">Sie können diese Berechtigung erteilen unter Einstellungen > Apps > Rechte > Berechtigungen > Zugriff und Änderung von Dateien auf dem internen Speicher > Musik.</string>
     <string name="apply_permissions_tips_content">Dieser App den Dateizugriff erlauben, um Musik auf Ihrem Gerät zu entdecken.</string>
     <string name="artist">Interpreten</string>
     <string name="artist_album">Alben</string>
@@ -564,6 +572,7 @@
     <string name="get_phone_bind_exceed_limit">Sie können bis zu 3 Xiaomi-Konten mit einer Rufnummer verknüpfen. Neue Konten können nicht hinzugefügt werden.</string>
     <string name="get_vip">VIP erhalten</string>
     <string name="google_account_login">Mit Google anmelden</string>
+    <string name="google_download_music">%1$s mit Google herunterladen</string>
     <string name="goole_pay_fail_dialog_toast">Erfolgreich kopiert</string>
     <string name="goto_local_search">Auf dem Gerät suchen</string>
     <string name="goto_online_search">Online suchen</string>
@@ -576,6 +585,7 @@
     <string name="headset_and_audio_effect_summary">Kopfhörer &amp; Equalizer</string>
     <string name="headset_and_audio_effect_title">Kopfhörer &amp; Audioeffekte</string>
     <string name="hgm_failed_to_connect_hint">Netzwerkeinstellungen prüfen und erneut versuchen. Wenn das Problem ein Fehler des Hungama-Servers ist, werden wir es so schnell wie möglich beheben.</string>
+    <string name="hgm_has_offline">Von Hungama bereitgestellte Musik kann nicht abgespielt werden</string>
     <string name="hgm_network_request_error_toast">Verbindung zu Hungama-Servern nicht möglich. Erneut versuchen.</string>
     <string name="hgm_vip_btn_desc">Kostenlose Testversion starten</string>
     <string name="hgm_vip_high_quality">Downloads in hoher Qualität</string>
@@ -597,6 +607,7 @@
     <string name="home_tab_more_music">Mehr Musik</string>
     <string name="home_tab_online">Entdecken</string>
     <string name="home_tab_search">Suchen</string>
+    <string name="hot_recommend">Zurzeit beliebt</string>
     <string name="hungama_batch_download_alert_summary">Nur Gold-Mitglieder können mehrere Titel herunterladen. Jetzt Gold-Mitglied werden?</string>
     <string name="hungama_batch_download_alert_summary_toast">Ein Abonnement bestellen, um die gesamte Playlist herunterzuladen.</string>
     <string name="hungama_category_chart">Charts</string>
@@ -1822,6 +1833,10 @@
     <string name="you_can_switch_mode_in_settings">In Einstellungen können Sie zwischen den Modi wechseln</string>
     <string name="you_may_like">Das könnte Ihnen auch gefallen</string>
     <string name="you_might_like_it">Das könnte Ihnen gefallen</string>
+    <string name="youtube_delete_dialog_cancel">Abbrechen</string>
+    <string name="youtube_delete_dialog_desc">Diesen Titel jetzt aus den Favoriten entfernen?</string>
+    <string name="youtube_delete_dialog_ok">Entfernen</string>
+    <string name="youtube_delete_dialog_title">Aus Favoriten entfernen</string>
     <string name="youtube_download_canl">Abbrechen</string>
     <string name="youtube_download_fail_net">Verbindung zum Netzwerk nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="youtube_download_fail_source">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
@@ -1833,8 +1848,11 @@
     <string name="youtube_download_suc">Erfolgreich heruntergeladen</string>
     <string name="youtube_play_history">Wiedergabeverlauf</string>
     <string name="youtube_share_guide_tip">Sie können jetzt Videos mit Freunden teilen</string>
+    <string name="youtube_store_dialog_desc">Hier können Sie Online-Videos finden, die Sie zu Ihren Favoriten hinzugefügt haben. Wenn ein Video bereits geladen wurde, müssen Sie beim nächsten Mal keine mobilen Daten verwenden, um es erneut anzusehen.</string>
+    <string name="youtube_store_dialog_ok">Verstanden</string>
     <string name="youtube_tab_explore">Entdecken</string>
     <string name="youtube_tab_playlist">Wiedergabelisten</string>
+    <string name="youtube_tab_popular">Beliebt</string>
     <string name="youtube_tab_shorts">Kurzvideos</string>
     <string name="youtube_tab_trend">Trends</string>
 </resources>
