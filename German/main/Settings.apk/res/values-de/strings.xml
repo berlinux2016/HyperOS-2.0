@@ -1017,6 +1017,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="auto_rotate_summary_no_permission">Kamerazugriff ist für die Gesichtserkennung erforderlich. Tippen, um die Berechtigungen für Gerätepersonalisierungsdienste zu verwalten</string>
     <string name="auto_rotate_switch_face_based">Gesichtserkennungsfunktion aktivieren</string>
     <string name="auto_silent">Zeitplan für Einschaltzeit</string>
+    <string name="auto_silent_info">Diese Funktion funktioniert nicht mehr, wenn Sie manuell in den DND-Modus wechseln</string>
     <string name="auto_startup_count">%d Apps Autostart erlaubt</string>
     <string name="auto_sync_account_summary">Daten durch Apps automatisch aktualisieren</string>
     <string name="auto_sync_account_title">Daten automatisch synchronisieren</string>
@@ -7209,6 +7210,11 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="phone_info_label">Über das Telefon</string>
     <string name="phone_language">Sprache</string>
     <string name="photo_data">Fotos und Videos</string>
+    <string name="photography_handle_button_function_settings">Grifftaste einrichten</string>
+    <string name="photography_handle_launch_and_take_photo">Foto machen</string>
+    <string name="photography_handle_launch_camera">Kamera öffnen</string>
+    <string name="photography_handle_long_press_camera_key_enter_camera">Auslöser gedrückt halten, um eine Aktion auszuführen</string>
+    <string name="photography_handle_quick_launch_camera_title">Schnellstart</string>
     <string name="photography_handle_title">Kameragriff</string>
     <string name="physical_keyboard_title">Physische Tastatur</string>
     <string name="pick_up_gesture_wakeup_title">Gerät zum Aufwecken anheben</string>
@@ -11607,6 +11613,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_status_sign_in_required">Anmeldung erforderlich</string>
     <string name="wifi_status_test">WLAN-Status</string>
     <string name="wifi_stopping">WLAN ausschalten…</string>
+    <string name="wifi_stx_logs_disabled">Wi-Fi STx Logs ist aus</string>
+    <string name="wifi_stx_logs_enabled">Wi-Fi STx Logs ist an</string>
     <string name="wifi_subnet_mask">Subnetzmaske</string>
     <string name="wifi_subscribed_access_points_tab">Abos</string>
     <string name="wifi_subscription">Abo</string>

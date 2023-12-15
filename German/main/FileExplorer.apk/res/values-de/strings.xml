@@ -215,6 +215,7 @@
     <string name="decompress_destination_error">Dateien können nicht hierher entpackt werden</string>
     <string name="decompress_encrypted_rar_not_supported">Verschlüsselte RAR-Dateien werden nicht unterstützt</string>
     <string name="decompress_fail">Entpacken fehlgeschlagen</string>
+    <string name="decompress_fail_contains_special_characters">Nicht komprimierbar. Namen von komprimierten Dateien dürfen keine Sonderzeichen enthalten.</string>
     <string name="decompress_input_password">Passwort eingeben</string>
     <string name="decompress_password_error">Eingegebenes Passwort ist falsch</string>
     <string name="decompress_success">Entpacken abgeschlossen</string>
@@ -754,6 +755,7 @@
     <string name="operation_decompressing">Entpacken…</string>
     <string name="operation_del_fav">Von Favoriten entfernen…</string>
     <string name="operation_delete">Löschen</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM ist ein Galerie-Ordner. Wenn Sie diesen Ordner löschen, werden alle darin enthaltenen Elemente auch dauerhaft aus der Galerie gelöscht. Diesen Ordner trotzdem löschen?</string>
     <string name="operation_delete_confirm_message">Löschen?</string>
     <string name="operation_delete_confirm_message_folder">"Alle im Ordnerinhalte werden gelöscht. "</string>
     <string name="operation_deleting">Löschen…</string>

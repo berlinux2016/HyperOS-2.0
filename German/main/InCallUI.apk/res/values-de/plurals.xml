@@ -128,4 +128,8 @@
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">%d Sek sind ohne Verbindung zum Satelliten vergangen. \nSie können es weiter versuchen oder jetzt aufhören.</item>
+        <item quantity="one">%d %d Sek ist ohne Verbindung zum Satelliten vergangen. \nSie können es weiter versuchen oder jetzt aufhören.</item>
+    </plurals>
 </resources>

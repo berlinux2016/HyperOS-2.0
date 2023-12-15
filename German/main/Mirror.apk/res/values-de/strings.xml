@@ -569,13 +569,14 @@
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="sub_screen_lock_message">Telefon entsperren,\num fortzufahren</string>
+    <string name="subscreen_exception_hint">Gerät ist nicht auf der neuesten Version. Anzeigefehler können auftreten.</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="switch_wlan_action">Verbinden</string>
     <string name="switch_wlan_failed">Verbinden nicht möglich</string>
     <string name="switch_wlan_failed_desc">Automatische Verbindung mit diesem WLAN nicht möglich. Versuchen Sie, manuell in den Einstellungen zu verbinden.</string>
-    <string name="switch_wlan_failed_desc_china">Mit diesem WLAN wurde nicht automatisch verbunden. Versuchen Sie, die Verbindung manuell in den Einstellungen herzustellen.</string>
+    <string name="switch_wlan_failed_desc_china">Dieses WLAN wurde nicht automatisch verbunden. Versuchen Sie, die Verbindung manuell in den Einstellungen herzustellen.</string>
     <string name="switch_wlan_success">Erfolgreich verbunden</string>
     <string name="switch_wlan_tips">Mit demselben Netzwerk verbinden</string>
     <string name="switch_wlan_tips_china">Mit demselben Netzwerk verbinden</string>

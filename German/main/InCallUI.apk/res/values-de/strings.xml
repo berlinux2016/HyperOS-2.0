@@ -32,6 +32,8 @@
     <string name="antispam_notification_text">Tippen, um die intelligente DND-Funktion zu aktivieren</string>
     <string name="antispam_notification_title">Unbekannte Nummer</string>
     <string name="antispam_provider">Identifiziert von %s</string>
+    <string name="app_disable_description_text">Wenn Sie diese App deaktivieren, können Sie keine Anrufe machen und empfangen und andere damit verbundene Funktionen nutzen. Diese System-App kann nicht deinstalliert werden.</string>
+    <string name="app_disable_title_text">App deaktivieren</string>
     <string name="bluetooth_permission_content">Systemberechtigungen wurden aktualisiert. Dieser App den Zugriff auf die Namen Ihrer Bluetooth-Geräte erlauben, damit sie diese anzeigen kann.</string>
     <string name="bluetooth_permission_grant_immediately">Zulassen</string>
     <string name="bluetooth_permission_later">Jetzt nicht</string>
@@ -358,9 +360,11 @@
     <string name="satellite_guide_up">Neigen Sie Ihr Gerät nach oben, \num den Ball in den blauen Bereich zu bringen</string>
     <string name="satellite_incall_tip">Lautsprecher ist an</string>
     <string name="satellite_state">Gerät nicht bewegen</string>
+    <string name="satellite_state_auto_exit">Beenden (%ds)</string>
     <string name="satellite_state_connected">Mit Satellit verbunden. Gerät nicht bewegen.</string>
     <string name="satellite_state_connected_floating">Gerät nicht bewegen</string>
     <string name="satellite_state_connecting">Verbinden… (%ds)</string>
+    <string name="satellite_state_retry">Weiter versuchen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

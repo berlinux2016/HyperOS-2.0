@@ -239,7 +239,7 @@
     <string name="findlost_contact">Kontakte wiederherstellen</string>
     <string name="findlost_contact_online">Kontakte aus Xiaomi Cloud wiederherstellen</string>
     <string name="flash_drive_backup_btn">Sichern auf USB-Laufwerk</string>
-    <string name="flash_drive_backup_note">Apps auf USB-Laufwerk sichern.\nStellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie beginnen.</string>
+    <string name="flash_drive_backup_note">Inhalt auf USB-Laufwerk sichern.\nStellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie beginnen.</string>
     <string name="flash_drive_backup_restore">USB-Sicherungen</string>
     <string name="flash_drive_connection_failed">USB-Laufwerk getrennt</string>
     <string name="flash_drive_restore_btn">Wiederherstellen von USB-Laufwerk</string>
@@ -463,7 +463,7 @@
     <string name="new_britem_doc">Dateien</string>
     <string name="new_britem_other">Andere</string>
     <string name="new_britem_pic">Bilder</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI verknüpft verschlüsselte Sicherungen mit Ihrem Xiaomi-Konto. Sie müssen sich bei Ihrem Xiaomi-Konto anmelden, um Elemente aus solchen Sicherungen wiederherzustellen.</string>
+    <string name="new_confirm_enable_encrypt_content">Verschlüsselte Sicherungen sind mit Ihrem Xiaomi-Konto verknüpft. Sie müssen sich bei Ihrem Xiaomi-Konto anmelden, um Elemente aus solchen Sicherungen wiederherzustellen.</string>
     <string name="new_confirm_enable_encrypt_title">Verschlüsseln</string>
     <string name="new_local_button_backup">Sichern</string>
     <string name="new_local_button_restore">Wiederherstellen</string>
@@ -503,7 +503,7 @@
     <string name="new_tab_pc_backup">Sichern</string>
     <string name="new_tab_pc_restore">Wiederherstellen</string>
     <string name="new_task_finished">Fertig</string>
-    <string name="new_usb_detail_description">Hinweis:\n%1$d. Diese Methode erlaubt die Sicherung von Apps und App-Daten von Drittanbietern.\n%2$d. Stellen Sie sicher, dass auf Ihrem USB-Laufwerk genügend Speicher zum Speichern von Sicherungen ist.</string>
+    <string name="new_usb_detail_description">Hinweis:\n%1$d. Sichern Sie Inhalte auf einem USB-Laufwerk.\n%2$d. Stellen Sie sicher, dass das USB-Laufwerk genügend Speicherplatz hat, bevor Sie beginnen.</string>
     <string name="new_usb_disconnect_dialog_message">Zuerst ein USB-Laufwerk anschließen.</string>
     <string name="new_usb_disconnect_dialog_title">USB-Laufwerk nicht gefunden</string>
     <string name="new_usb_select_data_no_space">Nur %s an Speicherplatz auf Ihrem USB-Laufwerk verfügbar. Speicherplatz freigeben.</string>
