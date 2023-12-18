@@ -178,8 +178,8 @@
     <string name="kddi_miui_toast_zen_standard_to_off">Lautlosmodus ist jetzt aus. Anrufe und Benachrichtigungen werden nicht stummgeschaltet.</string>
     <string name="kddi_miui_toast_zen_to_standard">In den Lautlosmodus gewechselt. Anrufe und Benachrichtigungen werden jetzt stumm geschaltet.</string>
     <string name="loading">Status unbekannt</string>
-    <string name="material_slider_range_end">Bereichsende,</string>
-    <string name="material_slider_range_start">Bereichsanfang,</string>
+    <string name="material_slider_range_end">Bereichsende</string>
+    <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="midnight">Nacht</string>
     <string name="miplay_accessibility_cast">Gerät wählen</string>
     <string name="miplay_accessibility_next">Nächster Titel</string>

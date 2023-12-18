@@ -517,7 +517,7 @@ dd.MM."</string>
     <string name="passport_account_error_shorter_user_name">Name muss mehr als %d Zeichen haben</string>
     <string name="passport_account_error_user_name">Dieser Spitzname ist ungültig. Einen anderen versuchen.</string>
     <string name="passport_account_invalid_user_avatar">Dieses Foto ist ungültig. Ein anderes versuchen.</string>
-    <string name="passport_account_name">Konto: %1$s</string>
+    <string name="passport_account_name">"Konto: %1$s "</string>
     <string name="passport_account_no_set">Nichts</string>
     <string name="passport_account_none_bind_info">Nichts</string>
     <string name="passport_account_none_user_name">Nichts</string>

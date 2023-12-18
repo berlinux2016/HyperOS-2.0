@@ -610,8 +610,8 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="manual_sync">Jetzt synchronisieren</string>
     <string name="mark_read">Als gelesen markieren</string>
     <string name="mark_unread">Als ungelesen markieren</string>
-    <string name="material_slider_range_end">Bereichsende,</string>
-    <string name="material_slider_range_start">Bereichsanfang,</string>
+    <string name="material_slider_range_end">Bereichsende</string>
+    <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="me_object_pronun">ich</string>
     <string name="me_subject_pronun">ich</string>
     <string name="meeting_accepted">"\n  Akzeptiert:\n  %s"</string>

@@ -1070,8 +1070,8 @@
     <string name="material_hour_suffix">%1$s Uhr</string>
     <string name="material_minute_selection">Minuten auswählen</string>
     <string name="material_minute_suffix">%1$s Minuten</string>
-    <string name="material_slider_range_end">Bereichsende,</string>
-    <string name="material_slider_range_start">Bereichsanfang,</string>
+    <string name="material_slider_range_end">Bereichsende</string>
+    <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="material_timepicker_hour">Stunde</string>
     <string name="material_timepicker_minute">Minute</string>

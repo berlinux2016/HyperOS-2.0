@@ -1271,8 +1271,8 @@
     <string name="manage_notifications_text">Verwalten</string>
     <string name="manage_users">Benutzer verwalten</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
-    <string name="material_slider_range_end">Bereichsende,</string>
-    <string name="material_slider_range_start">Bereichsanfang,</string>
+    <string name="material_slider_range_end">Bereichsende</string>
+    <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="maximize_button_text">Maximieren</string>
     <string name="media_move_closer_to_end_cast">Näher an %1$s herangehen, um hier abzuspielen</string>
     <string name="media_move_closer_to_start_cast">Näher herangehen, um auf %1$s abzuspielen</string>

@@ -510,8 +510,8 @@
     <string name="make_private_msg_3">Alle Dateien in diesem Ordner werden als privat markiert.</string>
     <string name="male">Männlich</string>
     <string name="manage_cloud_space">Cloud-Speicher verwalten</string>
-    <string name="material_slider_range_end">Bereichsende,</string>
-    <string name="material_slider_range_start">Bereichsanfang,</string>
+    <string name="material_slider_range_end">Bereichsende</string>
+    <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="menu_item_cleanup">Dateibereinigung</string>
     <string name="menu_item_midrop">Dateien übertragen</string>
     <string name="menu_item_search">Suchen</string>
