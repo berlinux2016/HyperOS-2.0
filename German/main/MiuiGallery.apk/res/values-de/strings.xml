@@ -138,8 +138,11 @@
     <string name="ai_confirm_delete_image_title">KI-Bild löschen?</string>
     <string name="ai_continue_create_btn">Fortfahren</string>
     <string name="ai_continue_update_image_btn">Fortfahren</string>
+    <string name="ai_continue_upload_photo">Fortfahren</string>
     <string name="ai_create_ai_image">KI-Bild erstellen</string>
     <string name="ai_create_image_fail">KI-Bild wurde wegen eines Serverfehlers nicht erstellt. Erneut versuchen.</string>
+    <string name="ai_create_image_fail_by_illegal_photo">Anscheinend verstoßen die von Ihnen hochgeladenen Fotos gegen unsere Community-Standards. \nVersuchen Sie, das KI-Bild mit anderen Fotos zu erstellen.</string>
+    <string name="ai_create_image_fail_by_net">KI-Bild wurde nicht erstellt. Unsere Server sind im Moment zu sehr beschäftigt. Erneut versuchen.</string>
     <string name="ai_create_image_photo_tip">Fotos werden von unseren Servern gelöscht, sobald das KI-Bild erstellt ist</string>
     <string name="ai_create_image_tip">Fotos werden von unseren Servern gelöscht, sobald das KI-Bild erstellt ist</string>
     <string name="ai_create_remain_time" formatted="false">Wartezeit: %1s %2s</string>
@@ -155,12 +158,21 @@
     <string name="ai_creation_save_failed_msg">Speichern fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_creation_save_success_msg">Erfolgreich gespeichert</string>
     <string name="ai_creation_wait_message">Erstellen… | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">Erlauben</string>
+    <string name="ai_cta_dialog_message">Galerie eine Internetverbindung erlauben, um KI-Porträts zu erstellen.</string>
+    <string name="ai_cta_dialog_title">Berechtigungen erforderlich</string>
+    <string name="ai_cta_refuse_btn">Nein danke</string>
     <string name="ai_deal_file_tip">Diese Seite nicht verlassen</string>
     <string name="ai_deal_file_title">Fotos verarbeiten…</string>
     <string name="ai_deal_tile_text">Erforderliche Zeit berechnen…</string>
     <string name="ai_delete_image_fail">Löschen fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_delete_image_progress_message">Löschen…</string>
     <string name="ai_delete_image_success">KI-Bild erfolgreich gelöscht</string>
+    <string name="ai_download_filter_photo_so_confirm_btn">Herunterladen</string>
+    <string name="ai_download_filter_photo_so_downloading">Plugin herunterladen…</string>
+    <string name="ai_download_filter_photo_so_message">Um alle Funktionen von KI-Porträt zu nutzen, laden Sie zuerst das Plugin herunter.</string>
+    <string name="ai_download_filter_photo_so_title">Plugin herunterladen</string>
+    <string name="ai_download_filter_so_fail_toast">Plugin wurde nicht heruntergeladen. Erneut versuchen.</string>
     <string name="ai_enhance_bar_default">HD-Bild erzeugen</string>
     <string name="ai_enhance_bar_failed">HD-Bild erzeugen fehlgeschlagen</string>
     <string name="ai_ensure_exit_select_message">Beim nächsten Mal müssen Sie die Fotos erneut wählen.</string>
@@ -172,6 +184,7 @@
     <string name="ai_free_creation_button">Erstellen</string>
     <string name="ai_free_creation_container_msg">Zum Beispiel: Ein Spaziergang am Strand</string>
     <string name="ai_free_creation_container_title">Beschreibung eingeben</string>
+    <string name="ai_free_creation_illegal_text_toast">Dieser Text verstößt gegen unsere Community-Standards. Schreiben Sie Ihre Nachricht um.</string>
     <string name="ai_free_creation_random_button">Zufällig</string>
     <string name="ai_free_creation_text_container_tips">Unser KI-Bildgenerator wird ständig verbessert. Wenn Sie mit den Ergebnissen nicht zufrieden sind, können Sie es später immer noch einmal versuchen!</string>
     <string name="ai_free_creation_text_count_exceed_limit">Der eingegebene Text ist zu lang</string>
@@ -192,7 +205,7 @@
     <string name="ai_image_over_limit_button_cancel">Verstanden</string>
     <string name="ai_image_over_limit_button_create">Fortfahren</string>
     <string name="ai_image_over_limit_title">KI-Bild erstellen fehlgeschlagen</string>
-    <string name="ai_image_privacy_message">" "<Data>" Willkommen bei AI Portraits!&lt;br/>Um Ihnen Dienstleistungen anbieten zu können, müssen wir die notwendigen persönlichen Daten sammeln:&lt;br/>1. Um KI-Porträts zu erstellen, müssen Sie &lt;b>Fotos von Personen&lt;/b> auf unsere Server hochladen. Wir sammeln und verarbeiten die Daten über ihre &lt;b>Gesichter&lt;/b>, um ein KI-Modell zu erstellen.&lt;br/>2. Wenn Sie &lt;b>Fotos von Personen&lt;/b> hochladen, werden wir &lt;b>ihre Namen und Profilfotos&lt;/b> aus den entsprechenden Alben synchronisieren und diese Informationen mit KI-Bildern verknüpfen.&lt;br/>3. Wenn Sie KI-Bilder anhand von Text erstellen, erfassen wir die von Ihnen bereitgestellte &lt;b>Beschreibung&lt;/b>, um Bilder zu erzeugen.&lt;br/>Wir sammeln nur persönliche Daten, die für die spezifischen Funktionen unserer Produkte und Dienstleistungen, die Sie nutzen, erforderlich sind. Wie wir personenbezogene Daten sammeln und verarbeiten, erfahren Sie in der &lt;a href=\"%1$s\">AI Portraits Datenschutzerklärung&lt;/a>.&lt;br/>Lesen und akzeptieren Sie die &lt;a href=\"%2$s\">AI Portraits Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">AI Portraits Datenschutzerklärung&lt;/a>, bevor Sie fortfahren. "</Data>" "</string>
+    <string name="ai_image_privacy_message"><Data>Willkommen bei KI-Porträts!&lt;br/>Um Ihnen Dienstleistungen anbieten zu können, müssen wir die notwendigen persönlichen Daten erfassen:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Um KI-Porträts zu erstellen, müssen Sie &lt;b>Fotos von Personen&lt;/b> auf unsere Server hochladen. Wir sammeln und verarbeiten die Daten über ihre &lt;b>Gesichter&lt;/b>, um ein KI-Modell zu erstellen.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Wenn Sie &lt;b>Fotos von Personen&lt;/b> hochladen, synchronisieren wir &lt;b>ihre Namen und Profilfotos&lt;/b> aus den entsprechenden Alben und verknüpfen diese Informationen mit KI-Bildern.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Wenn Sie KI-Bilder auf der Grundlage von Text erstellen, erfassen wir die &lt;b>Beschreibung&lt;/b>, die Sie zur Erstellung der Bilder angeben.&lt;br/>Wir erfassen nur personenbezogene Daten, die für die spezifischen Funktionen unserer Produkte und Dienstleistungen, die Sie nutzen, erforderlich sind. Wie wir personenbezogene Daten erfassen und verarbeiten, erfahren Sie in der &lt;a href=\"%4$s\">KI-Porträts Datenschutzerklärung&lt;/a>.&lt;br/>Lesen Sie die &lt;a href=\"%5$s\">KI-Porträts Nutzungsvereinbarung&lt;/a> und &lt;a href=\"%6$s\">KI-Porträts Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="ai_input_name_hint">Name eingeben</string>
     <string name="ai_loading">Einen Moment…</string>
     <string name="ai_multi_window_tip">Diese Seite kann im geteilten Bildschirm nicht angezeigt werden</string>
@@ -203,12 +216,17 @@
     <string name="ai_no_net_toast">Netzwerkverbindung fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_normal_theme_button">Erstellen</string>
     <string name="ai_photo_upload_fail">Hochladen fehlgeschlagen Erneut versuchen.</string>
+    <string name="ai_photos_upload_fail_tip">Fotos von %s wurden noch nicht hochgeladen. Sie können jetzt mit dem Hochladen von Fotos fortfahren.</string>
     <string name="ai_preview_failed_retry_button">Erneut versuchen.</string>
     <string name="ai_privacy_tip_1">ID-Foto</string>
     <string name="ai_privacy_tip_2">Geburtstagsporträt</string>
     <string name="ai_privacy_tip_input">Textbeschreibung</string>
     <string name="ai_privacy_title">Datenschutzerklärung</string>
     <string name="ai_re_create_image">Erneut versuchen.</string>
+    <string name="ai_recreate_image_cancel_text_btn">Fortfahren</string>
+    <string name="ai_recreate_image_confirm_text_btn">Wählen</string>
+    <string name="ai_recreate_image_dialog_msg">Sie können das Hochladen von Fotos fortsetzen oder neue Fotos wählen.</string>
+    <string name="ai_recreate_image_dialog_title">Fotos von %s wurden nicht hochgeladen</string>
     <string name="ai_refuse_update_toast">Neue Fotos wählen, um dieses KI-Bild zu aktualisieren</string>
     <string name="ai_select_people_sub_title" formatted="false">Die besten %1d-%2d Fotos werden automatisch ausgewählt</string>
     <string name="ai_select_people_title">Person wählen, um ihr KI-Bild zu erstellen</string>
@@ -225,6 +243,7 @@
     <string name="ai_select_photo_manual">Manuell wählen</string>
     <string name="ai_select_photo_need_select_manual">Nicht genug Fotos. Mehr hinzufügen.</string>
     <string name="ai_select_photo_next_step">Weiter</string>
+    <string name="ai_select_photo_no_result_toast">Mit diesen Fotos kann kein KI-Bild erstellt werden. Wählen Sie stattdessen andere Fotos.</string>
     <string name="ai_select_photo_over_time_toast">Die besten Aufnahmen wurden automatisch gewählt. Fügen Sie weitere Fotos manuell hinzu.</string>
     <string name="ai_select_photo_right_guide_face">Nach vorne gerichtet</string>
     <string name="ai_select_photo_right_guide_multi_bg">Diverse Hintergründe</string>
@@ -505,6 +524,7 @@
     <string name="btn_sure">Bestätigen</string>
     <string name="burst_image_download_item_title" formatted="false">Original herunterladen (%s|%s)</string>
     <string name="burst_photo_enter">Serienbild</string>
+    <string name="burst_photo_preview_thumbnail_content_description">Foto %d</string>
     <string name="burst_preview_title">Serienfoto</string>
     <string name="burst_save_all">Alle Serienfotos speichern</string>
     <string name="burst_save_choice_title">%1$d aus %2$d ausgewählt</string>

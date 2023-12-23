@@ -108,6 +108,7 @@
     <string name="app_permission_use_group_storage">Speicher</string>
     <string name="app_permission_use_group_storage_desc">Zum Suchen und Abspielen von auf dem Gerät gespeicherten Titeln</string>
     <string name="app_resident_push_switch">Dauerhafte Benachrichtigungen zulassen</string>
+    <string name="app_third_privacy">Datenschutzerklärungen Dritter</string>
     <string name="apply_for_the_following_permissions">Diese App erfordert folgende Berechtigungen:</string>
     <string name="apply_permissions_greater_than_pie">Sie können diese Berechtigung erteilen unter Einstellungen > Apps > Rechte > Berechtigungen > Dateien und Medien > Musik.</string>
     <string name="apply_permissions_greater_than_tiramisu">Sie können diese Berechtigung erteilen unter Einstellungen > Apps > Berechtigungen > Musik und Audio/Fotos und Videos > Musik.</string>

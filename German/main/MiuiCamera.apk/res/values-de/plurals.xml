@@ -120,6 +120,10 @@
         <item quantity="other">%1$d Entwürfe löschen?</item>
         <item quantity="one">%1$d Entwurf löschen?</item>
     </plurals>
+    <plurals name="manual_picture_style_desc_custom_add_max">
+        <item quantity="other">Bis zu %d Voreinstellungen hinzufügen</item>
+        <item quantity="one">Bis zu %d Voreinstellung hinzufügen</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
