@@ -4215,7 +4215,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="game_settings_summary">Verknüpfung Spielübersicht einschalten etc.</string>
     <string name="game_settings_title">Spieleinstellungen</string>
     <string name="game_storage_settings">Spiele</string>
-    <string name="gd_setting_title">Smarte Toolbox</string>
+    <string name="gaze_lock_screen_summary">Gerät bleibt entsperrt, wenn Ihre Anwesenheit erkannt wird und wird gesperrt, wenn Sie sich vom Bildschirm entfernen</string>
+    <string name="gaze_lock_screen_title">Anwesenheit erkennen</string>
     <string name="general_category_title">Allgemein</string>
     <string name="general_notification_header">Verwalten</string>
     <string name="general_text">Textfeld</string>

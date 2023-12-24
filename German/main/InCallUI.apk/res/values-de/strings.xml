@@ -38,6 +38,8 @@
     <string name="bluetooth_permission_grant_immediately">Zulassen</string>
     <string name="bluetooth_permission_later">Jetzt nicht</string>
     <string name="bluetooth_permission_title">Berechtigungen erforderlich</string>
+    <string name="calibrate_rotate_again">Erneut versuchen</string>
+    <string name="calibrate_rotate_tip">Gerät stark neigen, damit sich die Kugel im Kreis dreht</string>
     <string name="callFailed_cb_enabled">Sie können nicht anrufen, wenn die Anrufsperre aktiviert ist</string>
     <string name="callFailed_congestion">Netzwerk ausgelastet</string>
     <string name="callFailed_dialToDial">Wahlanforderung geändert, um mit einer anderen Nummer zu wählen</string>

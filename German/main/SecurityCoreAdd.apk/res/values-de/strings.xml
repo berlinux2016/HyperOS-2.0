@@ -254,6 +254,7 @@
     <string name="fingerprint_double_tap">Fingerabdrucksensor doppelt tippen</string>
     <string name="fingerprint_number_upper_limit">Zu viele falsche Entsperrversuche</string>
     <string name="fingerprint_removal_failed">Fingerabdruck wurde nicht gelöscht</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">Nur auf dem inneren Bildschirm unterstützt</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>

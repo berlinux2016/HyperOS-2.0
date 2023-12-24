@@ -1327,9 +1327,9 @@
     <string name="radar_retry">Noch mal</string>
     <string name="radar_searching_state">Suche läuft</string>
     <string name="radar_support_by">Unterstützt durch ACRCloud</string>
-    <string name="read_and_agree_hungama_protocol"><Data>"Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>"Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert""</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>"Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert"</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
     <string name="read_and_agree_protocol">Lesen und akzeptieren Sie unsere Nutzervereinbarung und Datenschutzerklärung, bevor Sie fortfahren.</string>
     <string name="ready_to_play">Nächster Schritt</string>
     <string name="recently_played">Zuletzt angehört</string>

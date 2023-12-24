@@ -344,7 +344,6 @@
     <string name="call_pager">Anruf (Pager)</string>
     <string name="call_problem_report">Problem melden</string>
     <string name="call_radio">Anruf (Funk)</string>
-    <string name="call_settings">Einstellungen</string>
     <string name="call_sim1_menu_title">Mit SIM1 anrufen</string>
     <string name="call_sim2_menu_title">Mit SIM2 anrufen</string>
     <string name="call_sim_menu_title_suffix">(Primär)</string>
@@ -766,8 +765,7 @@ Guthabeninformationen werden einmal täglich aktualisiert, um die Anzahl der Abf
     <string name="export_to_sim_prepare_title">Vorbereiten…</string>
     <string name="export_to_sim_title">Exportieren…</string>
     <string name="export_vcard_description">"vCard in USB-Speicher exportieren"</string>
-    <string name="exporting_contact_failed_message">"Kontaktdaten wurden nicht exportiert.
-Grund: \"%s\""</string>
+    <string name="exporting_contact_failed_message">Kontaktdaten wurden nicht exportiert.\nGrund: \"%s\"</string>
     <string name="exporting_contact_failed_title">Export nicht möglich</string>
     <string name="exporting_contact_list_message">Ihre Kontaktdaten werden nach \"%s\" exportiert</string>
     <string name="exporting_contact_list_progress">%1$s von %2$s Kontakten</string>
@@ -1695,28 +1693,14 @@ Um einen Kontakt zu den Favoriten hinzuzufügen:
     <string name="t9_search_empty_edit_contact">Zu Kontakten hinzufügen</string>
     <string name="t9_search_empty_send_sms">Nachricht senden</string>
     <string name="t9_search_empty_video_call">Videoanruf</string>
-    <string name="t9_search_guide_pinyin_title1">Geben Sie Ziffern ein, um Kontakte zu suchen</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">%d und %d eingeben, um nach <font fgcolor="">X</font>avier <font fgcolor="">H</font>enry zu suchen</string>
-    <string name="t9_search_guide_zhuyin_title1">Geben Sie Ziffern ein, um Kontakte zu suchen</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">%d und %d eingeben, um nach <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax zu suchen</string>
-    <string name="take_new_photo">Neues Bild aufnehmen</string>
-    <string name="take_photo">Bild aufnehmen</string>
-    <string name="text_buy_time">Bestellung erstellt</string>
-    <string name="text_charge_name">Betrag</string>
-    <string name="text_misim_balance">Guthaben: %1$s CNY</string>
-    <string name="text_misim_used_flow_month">Diesen Monat verbraucht</string>
-    <string name="text_msim_balance">Heute verbraucht</string>
-    <string name="text_msim_used_flow">Heute verbraucht</string>
-    <string name="text_no_order">Keine Bestellungen hier</string>
-    <string name="text_operator">Anbieter</string>
-    <string name="text_order_id">Bestellnummer</string>
-    <string name="text_paid_fee">Bestellbetrag</string>
-    <string name="text_phone_num">Rufnummer</string>
-    <string name="text_status_otherModel"><Data>"&lt;font color =#0D84FF>Aktivieren nicht möglich&lt;/font>"</Data></string>
-    <string name="text_status_using"><Data>&lt;font color =#FF6666>Verwenden&lt;/font></Data></string>
-    <string name="text_traffic_package">Datenpaket</string>
+    <string name="t9_search_guide_pinyin_title1">Ziffern eingeben, um Kontakte zu suchen</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">%d und %d eingeben, um nach Debbie Smith zu suchen</string>
+    <string name="t9_search_guide_zhuyin_title1">Ziffern eingeben, um Kontakte zu suchen</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">%d und %d eingeben, um nach Jeff Max zu suchen</string>
+    <string name="take_new_photo">Neues Foto machen</string>
+    <string name="take_photo">Foto machen</string>
+    <string name="text_misim_balance">Heute verbraucht</string>
     <string name="text_vsim_remain_time">Verbleibende Minuten</string>
-    <string name="text_vsim_used_flow">Verbrauchte Daten</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
