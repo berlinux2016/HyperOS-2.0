@@ -1963,7 +1963,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="firewall_restrict_wlan">WLAN-Verbindung einschränken</string>
     <string name="firewall_rule_group_title_roaming">Datenroaming</string>
     <string name="firewall_statement_msg">Wegen Systembeschränkungen und Qualitätsanforderungen des Anbieters kann es vorkommen, dass einige wenige Apps weiterhin mobile Daten verwenden, auch wenn sie ausgeschaltet sind. Wenn dies der Fall ist, lassen Sie es uns unter Dienste &amp; Feedback wissen.</string>
-    <string name="firewall_statement_no_more">Nicht mher erinnern</string>
+    <string name="firewall_statement_no_more">Nicht mehr erinnern</string>
     <string name="firewall_statement_ok">Verstanden</string>
     <string name="firewall_statement_title">Achtung</string>
     <string name="firewall_system_title">System-App-Verbindungen</string>
