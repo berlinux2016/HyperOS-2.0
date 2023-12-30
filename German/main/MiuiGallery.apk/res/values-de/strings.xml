@@ -1661,6 +1661,7 @@
     <string name="mark_operation_succeeded">Erfolgreich hinzugefügt</string>
     <string name="mark_people_ignore_info_message">Halten Sie Fotos von Personen gedrückt, um sie zu Gruppen hinzuzufügen.</string>
     <string name="media_type_burst_photo">Serienbild</string>
+    <string name="media_type_cinematic">Filmmodus</string>
     <string name="media_type_clone_photo">Klone</string>
     <string name="media_type_doc_photo">Dokumente</string>
     <string name="media_type_fast_motion_video">Zeitraffer</string>
@@ -2700,7 +2701,6 @@
     <string name="select_origin_tip">Originaldatei (%s)</string>
     <string name="send">Senden</string>
     <string name="send_diagnosis_log">Protokolle senden</string>
-    <string name="send_dolby_vision_duration_more_than_40s">Mehr als 4 Minuten lange Dolby Vision-Videos können nur in ihrem ursprünglichen Videoformat geteilt werden, das vom empfangenden Gerät ggf. nicht unterstützt wird. Trotzdem fortfahren?</string>
     <string name="send_dolby_vision_video_continue">Fortfahren</string>
     <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich versendet</string>
     <string name="send_file_beautify_failed">Freigeben nicht möglich</string>
@@ -2712,6 +2712,7 @@
     <string name="send_public_url">Albumlink senden</string>
     <string name="send_secret_file_failed">Freigeben nicht möglich</string>
     <string name="send_secret_file_space_low">Nicht genügend Speicherplatz</string>
+    <string name="send_special_video_duration_more_than_40s">Verarbeitete Videos, die länger als %d Min. sind, können nur in ihrem Originalformat geteilt werden, was evtl. nicht mit dem empfangenden Gerät kompatibel ist. Trotzdem fortfahren?</string>
     <string name="service_error">Serverfehler</string>
     <string name="service_is_provided_by_miui_cloud_service">Dieser Service wird von Xiaomi Cloud angeboten</string>
     <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund</string>

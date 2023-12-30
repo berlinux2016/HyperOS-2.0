@@ -28,7 +28,7 @@
     <string name="advanced_gesture">Eigene Gesten</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Einverstanden</string>
-    <string name="ai_button_title">Mi KI-Taste</string>
+    <string name="ai_button_title">Mi AI-Taste</string>
     <string name="ai_button_title_global">KI-Taste</string>
     <string name="air_space_created">Arbeitsbereich erfolgreich erstellt</string>
     <string name="air_space_deleted">Arbeitsbereich erfolgreich gelöscht</string>
@@ -425,9 +425,9 @@
     <string name="knock_edge_area_invalid">Diese Geste funktioniert nicht in der Nähe von Bildschirmrändern</string>
     <string name="knock_guide_dialog_title">Wählen Sie eine Aktion für diese Geste aus. Sie können sie später unter Einstellungen > Weitere Einstellungen > Tastenkürzel ändern.</string>
     <string name="knock_guide_drive_desc">Screenshots während der Fahrt machen</string>
-    <string name="knock_guide_launch_desc">Mi KI auslösen, wenn das Telefon auf dem Tisch liegt</string>
-    <string name="knock_guide_set_voiceassist">Mi KI</string>
-    <string name="knock_guide_sub_title">Sie können Mi KI auslösen oder Screenshots machen, indem Sie mit Ihrem Knöchel auf den Bildschirm tippen</string>
+    <string name="knock_guide_launch_desc">Mi AI auslösen, wenn das Telefon auf dem Tisch liegt</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">Sie können Mi AI auslösen oder Screenshots machen, indem Sie mit Ihrem Knöchel auf den Bildschirm tippen</string>
     <string name="knock_guide_title">Knöchel-Doppeltipp</string>
     <string name="knock_long_press_horizontal_slid">Mit einem Knöchel drücken und horizontal wischen</string>
     <string name="knock_slide_shape">Einen Kreis mit einem Knöchel zeichnen</string>
@@ -468,7 +468,7 @@
     <string name="launch_accessibility_live_subtitles">Smarte Untertitel</string>
     <string name="launch_accessibility_live_subtitles_full_screen">Smarte Untertitel Vollbildmodus</string>
     <string name="launch_accessibility_voice_control">Sprachsteuerung</string>
-    <string name="launch_ai_shortcut">Mi KI-Kürzel</string>
+    <string name="launch_ai_shortcut">Mi AI-Kürzel</string>
     <string name="launch_alipay_health_code">Alipay-Gesundheitscode</string>
     <string name="launch_alipay_health_code_auto_close">Das Kürzel für den Alipay-Gesundheitscode ist nicht mehr verfügbar. Sie können zu einem anderen Kürzel wechseln.</string>
     <string name="launch_alipay_payment_code">Alipay-Zahlungscode</string>
@@ -1078,10 +1078,9 @@
     <string name="undo_privacy_menu">Berechtigung widerrufen</string>
     <string name="undo_success">Erfolgreich widerrufen</string>
     <string name="use_google_open">Mit Google Assistant aufwecken</string>
-    <string name="use_xiaoai_open">Mit Mi KI aufwecken</string>
+    <string name="use_xiaoai_open">Mit Mi AI aufwecken</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
-    <string name="voice_assist">Mi KI</string>
     <string name="voice_category">Sprache</string>
     <string name="wake_suppression_summary">Ihr Gerät reagiert besser auf versehentliche Berührungen, aber auch auf die meisten Gestensteuerungen in Randnähe</string>
     <string name="wake_suppression_title">Kleiner Bereich</string>

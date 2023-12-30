@@ -1674,6 +1674,7 @@
     <string name="toast_will_play_list_when_ad_pause">Wiedergabeliste wird nach der Werbung abgespielt</string>
     <string name="toast_will_play_song_when_ad_pause">Dieser Titel wird nach der Werbung abgespielt</string>
     <string name="today">Heute</string>
+    <string name="today_hot_playlist">Heutige Top-Wiedergabeliste</string>
     <string name="tomorrow">Morgen</string>
     <string name="track_play_history_after_login">Anmelden, um den Wiedergabeverlauf anzuzeigen</string>
     <string name="tt_ad">Werbung</string>

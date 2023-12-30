@@ -45,7 +45,7 @@
     <string name="alert_vibrate_enable_summary">Vibrieren beim Ausschalten des Weckers</string>
     <string name="alert_volume">Klingeltonlautstärke</string>
     <string name="alert_volume_summary">Klingeltonlautstärke für Wecker und Timer einstellen</string>
-    <string name="alert_xiaoai_ringtone_desc">Mi KI spricht…</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI spricht…</string>
     <string name="app_label">Uhr</string>
     <string name="app_name">Einstellungen</string>
     <string name="auto_silence_entries1">Nie</string>
@@ -612,7 +612,7 @@
     <string name="worldcolock_time_date">dd.MM.yyyy</string>
     <string name="worldcolock_timezone_date">d. MMM</string>
     <string name="worldcolock_timezone_local">- wie Ortszeit</string>
-    <string name="xiaoai_ringtone_title">Mi KI Klingeltöne</string>
+    <string name="xiaoai_ringtone_title">Mi AI Klingeltöne</string>
     <string name="xiaomi_deskclock_uninstall_description_content">Uhr ist eine System-App. Wenn Sie sie deinstallieren, können Sie die Uhrzeit nicht mehr prüfen, keine Wecker einstellen und keine anderen Funktionen der Uhr nutzen.</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Uhr deinstallieren?</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>

@@ -133,7 +133,7 @@
     <string name="connect_to_wifi">Mit diesem Netzwerk verbinden</string>
     <string name="connect_wifi">Mit Netzwerk verbinden</string>
     <string name="contact_details">QR-Code-Kontakt:</string>
-    <string name="content_desktop_uninstall">Scanner ist eine System-App. Sie können die zugehörigen Funktionen in Mi Browser, Kamera, Mi KI, Kontakte und anderen Systemdiensten nicht mehr nutzen, wenn Sie die App deinstallieren.</string>
+    <string name="content_desktop_uninstall">Scanner ist eine System-App. Sie können die zugehörigen Funktionen in Mi Browser, Kamera, Mi AI, Kontakte und anderen Systemdiensten nicht mehr nutzen, wenn Sie die App deinstallieren.</string>
     <string name="continue_access_web_url">Zur Webseite gehen</string>
     <string name="continue_to_website">Zur Webseite gehen</string>
     <string name="continue_video">Scannen</string>
@@ -610,7 +610,7 @@
     <string name="queryGoodsFailed">Produktinfos nicht gefunden</string>
     <string name="queryNum">Bestellung prüfen</string>
     <string name="query_faile">Auftragsstatus und Details wurden noch nicht synchronisiert. Prüfen Sie Ihre Bestellung manuell.</string>
-    <string name="query_inai">Lassen Sie sich von Mi KI helfen</string>
+    <string name="query_inai">Lassen Sie sich von Mi AI helfen</string>
     <string name="query_more">Mehr Infos</string>
     <string name="query_tracking">Zustellung</string>
     <string name="query_tracknum">Expresslieferauftrag prüfen</string>
@@ -920,9 +920,9 @@
     <string name="word_to_be_recognized_is_aligned_with_cross">Das zu erkennende Wort wird am Kreuz ausgerichtet</string>
     <string name="word_translation">Wortübersetzung</string>
     <string name="wx_not_installed_toast">Diese Funktion muss WeChat öffnen. Zuerst WeChat installieren.</string>
-    <string name="xiaoai_classmate_scan_text">Mit Mi KI scannen</string>
-    <string name="xiaoai_dialog">"Versuchen Sie zu sagen, was Sie\nmit Mi KI scannen wollen"</string>
-    <string name="xiaoai_vision">Mi KI Scanner</string>
+    <string name="xiaoai_classmate_scan_text">Mit Mi AI scannen</string>
+    <string name="xiaoai_dialog">"Versuchen Sie zu sagen, was Sie\nmit Mi AI scannen wollen"</string>
+    <string name="xiaoai_vision">Mi AI Scanner</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>

@@ -80,4 +80,8 @@
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">%1$d Muster gemerkt</item>
+        <item quantity="one">%1$d Muster gemerkt</item>
+    </plurals>
 </resources>

@@ -1171,7 +1171,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_local">Lokal %1$s</string>
     <string name="resource_local_picker">Lokalen Klingelton auswählen</string>
     <string name="resource_menu_refresh">Aktualisieren</string>
-    <string name="resource_mi_ai_picker">Mi KI-Klingelton wählen</string>
+    <string name="resource_mi_ai_picker">Mi AI Klingelton wählen</string>
     <string name="resource_mute">Keine</string>
     <string name="resource_my">Lokal</string>
     <string name="resource_network_diagnostics">&lt;u&gt;Netzwerk testen&lt;/u&gt;</string>
@@ -1801,8 +1801,8 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wind_direction_7">NW-Wind</string>
     <string name="wind_direction_7_f">NW-Wind</string>
     <string name="xiaoai_speech_not_installed_download">Herunterladen</string>
-    <string name="xiaoai_speech_not_installed_message">Mi KI Sprachassistent herunterladen und installieren, um fortzufahren</string>
-    <string name="xiaoai_speech_not_installed_title">Mi KI Sprachassistent ist nicht installiert</string>
+    <string name="xiaoai_speech_not_installed_message">Mi AI Sprachassistent herunterladen und installieren, um fortzufahren</string>
+    <string name="xiaoai_speech_not_installed_title">Mi AI Sprachassistent ist nicht installiert</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>

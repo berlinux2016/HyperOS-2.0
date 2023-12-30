@@ -613,8 +613,8 @@
     <string name="pref_summary_send_delivery_reports">Zustellbestätigung an den Absender senden, wenn Sie eine MMS erhalten</string>
     <string name="pref_summary_switch_aim_card">Nachrichten, die Videos, Bilder und komplexe Formatierungen enthalten, als Karten anzeigen</string>
     <string name="pref_summary_voice_report">Einschalten, um Nachrichten beim Empfang laut vorzulesen. Lautstärke runter-Taste oder Power-Taste drücken, um die Wiedergabe zu stoppen.</string>
-    <string name="pref_summary_voice_report_disable">Mi KI-Sprach-Engine installieren, um diese Funktion zu nutzen</string>
-    <string name="pref_switch_sdk_setting">Smart SMS-Engine ändern</string>
+    <string name="pref_summary_voice_report_disable">Mi AI Speech Engine installieren, um diese Funktion zu nutzen</string>
+    <string name="pref_switch_sdk_setting">Smart SMS Engine ändern</string>
     <string name="pref_title_allow_si_sl_push">"WAP-Push-Mitteilungen erlauben (SI/SL)"</string>
     <string name="pref_title_authority_management">Berechtigungsdetails</string>
     <string name="pref_title_auto_delete">Alte Nachrichten löschen</string>

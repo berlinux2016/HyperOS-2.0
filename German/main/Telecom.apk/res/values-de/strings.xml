@@ -617,7 +617,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="noon">Mittag</string>
     <string name="not_default_data_content_description">Nicht für die Datenverwendung eingestellt</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="notification_AI_MissedCallContent">Mi KI Auto-Antwort</string>
+    <string name="notification_AI_MissedCallContent">Mi AI Auto-Antwort</string>
     <string name="notification_AllMissedCallTitle">Alle verpassen Anrufe</string>
     <string name="notification_All_AI_MissedCallContent">Tippen, um Details anzuzeigen</string>
     <string name="notification_audioProcessing_body">%s bearbeitet einen Anruf im Hintergrund. Diese App kann während des Anrufs auf Audio zugreifen und dieses abspielen.</string>

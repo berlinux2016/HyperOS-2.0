@@ -34,13 +34,13 @@
     <string name="agree_terms_input_method_kika">Ich habe die Datenschutzerklärung von Kika gelesen und akzeptiert.</string>
     <string name="agreement_declare_use_network_and_location_china">"Außerdem werden die folgenden Dienste eine Netzverbindung herstellen und auf Ihren Standort zugreifen: "</string>
     <string name="agreement_declare_use_network_china">wird eine Netzwerkverbindung herstellen.</string>
-    <string name="ai_button_desc">Mit der KI-Taste können Sie Mi KI auslösen und Mi KI-Verknüpfungen verwenden.</string>
+    <string name="ai_button_desc">Mit der KI-Taste können Sie Mi AI auslösen und Mi AI-Verknüpfungen verwenden.</string>
     <string name="ai_button_double_press">Doppelt drücken</string>
-    <string name="ai_button_double_press_desc">Mi KI-Funktionen einstellen</string>
+    <string name="ai_button_double_press_desc">Mi AI-Funktionen einstellen</string>
     <string name="ai_button_long_press">Gedrückt halten</string>
     <string name="ai_button_long_press_desc">Sagen Sie Ihren Befehl und lassen Sie die Taste los</string>
     <string name="ai_button_single_press">Drücken</string>
-    <string name="ai_button_single_press_desc">Mi KI auslösen</string>
+    <string name="ai_button_single_press_desc">Mi AI auslösen</string>
     <string name="ai_button_title">Über KI-Taste</string>
     <string name="album_introduction">Mit dieser App können Sie Fotos und Videos verwalten, bearbeiten und verschönern.</string>
     <string name="alert_dialog_btn_close">Deaktivieren</string>
@@ -177,6 +177,8 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
     <string name="input_method_setting">Tastatur wählen</string>
     <string name="install_preinstall_app">Apps laden…</string>
     <string name="interconnection_communication_introduction">Mit den Xiaomi Internet Communication Services können Sie andere Xiaomi-Geräte entdecken, verbinden und mit ihnen kommunizieren.</string>
+    <string name="interconnection_service_global_item_title">Xiaomi Interkonnektivität</string>
+    <string name="interconnection_service_global_label">&lt;Data>Xiaomi Interkonnektivität ermöglicht Ihren Geräten, drahtlos miteinander zu interagieren. Indem Sie diesen Schalter aktivieren, erklären Sie sich mit der Xiaomi Interkonnektivität &lt;a href=%1$s>Datenschutzerklärung&lt;/a> einverstanden.&lt;/Data></string>
     <string name="interconnection_service_summary_china">"Xiaomi Interkonnektivitätsdienste erlauben Ihren Geräten, drahtlos miteinander zu interagieren. Zu diesen Diensten gehören Mi Smart Play, Übertragung, App-Weitergabe, Startbildschirm+, gemeinsame Zwischenablage, geräteübergreifende Bilderfassung, Netzwerkunterstützung, gemeinsame Tastaturen und Mäuse, gemeinsame Kamera und Mi Smart Hub. Damit Xiaomi Interkonnektivitätsdienste normal funktionieren, benötigen sie eine Internetverbindung und folgende Berechtigungen:
 \u0009\u0009Mi Smart Play und Übertragung:
 \u0009\u0009Bluetooth ein- oder ausschalten
@@ -239,6 +241,8 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
 \u0009\u0009Zum Senden und Empfangen von übertragenen Inhalten
 Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie diese Dienste nicht nutzen.
 Die verfügbaren Interkonnektivitätsdienste können sich je nach Systemversion und Gerätemodell unterscheiden. Weitere Informationen finden Sie unter %s."</string>
+    <string name="interconnection_service_summary_global">Die Funktionen von Xiaomi Interkonnektivität können je nach Gerätemodell und Systemversion variieren. Besuchen Sie die offizielle System-Webseite, um mehr zu erfahren.</string>
+    <string name="interconnection_service_title">Xiaomi Interkonnektivitätsdienste</string>
     <string name="item_contents_wwarning">Wenn Ihr Gerät verloren geht, können Sie nicht verhindern, dass andere Personen es verwenden und auf Ihre Daten zugreifen, es sei denn, Sie setzen eine Bildschirmsperre. Trotzdem überspringen?</string>
     <string name="item_facerecognition">Gesichtsentsperrung</string>
     <string name="item_fingerprint">Fingerabdruck</string>
@@ -810,8 +814,8 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="v7_preference_on">AN</string>
     <string name="verify_application_security">Zur Verifizierung der App-Sicherheit</string>
     <string name="verify_device_security">Zur Verifizierung der Gerätesicherheit</string>
-    <string name="voice_assist_desp">"Sagen Sie \"Mi KI\" in Ihr Telefon. Mi KI erkennt Ihre Stimme und ist in der Lage, Ihr Gerät zu steuern.</string>
-    <string name="voice_assist_desp_screen_light">"Wenn der Bildschirm aufleuchtet, sagen Sie \"Mi KI\" in Ihr Telefon. Mi KI erkennt Ihre Stimme und kann Ihr Gerät steuern."</string>
+    <string name="voice_assist_desp">"Sagen Sie \"Mi AI\" in Ihr Telefon. Mi AI erkennt Ihre Stimme und ist in der Lage, Ihr Gerät zu steuern.</string>
+    <string name="voice_assist_desp_screen_light">"Wenn der Bildschirm aufleuchtet, sagen Sie \"Mi AI\" in Ihr Telefon. Mi AI erkennt Ihre Stimme und kann Ihr Gerät steuern."</string>
     <string name="voice_assist_title">Aufwecken mit Stimme</string>
     <string name="wc_dialog_agree">Einverstanden</string>
     <string name="wc_dialog_reject">Nicht einverstanden</string>

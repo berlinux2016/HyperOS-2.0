@@ -2202,6 +2202,6 @@
     <string name="wrong_password">Eingegebenes Passwort ist falsch</string>
     <string name="xcap_setting_summary">Anrufsperre, Sprachnachricht &amp; Anrufweiterleitung und Anklopfen</string>
     <string name="xcap_setting_title">Einstellungen Anrufdienste</string>
-    <string name="xiaoai_assistant_setting_title">Mi KI Anrufassistent</string>
+    <string name="xiaoai_assistant_setting_title">Mi AI Anrufassistent</string>
     <string name="yesterday">Gestern</string>
 </resources>

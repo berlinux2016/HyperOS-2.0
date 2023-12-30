@@ -93,7 +93,7 @@
     <string name="apn_settings_not_available">APN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
     <string name="app_name">Bluetooth-Erweiterung</string>
     <string name="app_process_limit_title">Hintergrundprozesslimit</string>
-    <string name="audio_relay_default_device_name">Mi KI-Lautsprecher</string>
+    <string name="audio_relay_default_device_name">Mi AI Lautsprecher</string>
     <string name="auto_connect_disable">Auto-Verbinden ist aus</string>
     <string name="available_via_app">Verfügbar über %1$s</string>
     <string name="available_via_carrier">Verfügbar über %1$s</string>

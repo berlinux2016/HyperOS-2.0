@@ -2121,7 +2121,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="function_shield_summary_m">Einschränken der Auto-Helligkeit und der Screenshot-Gesten</string>
     <string name="function_shield_three_finger">Screenshot-Gesten einschränken</string>
     <string name="function_shield_title">Verbessertes Erlebnis</string>
-    <string name="function_shield_voice_trigger">Mi KI nicht mit Stimme wecken</string>
+    <string name="function_shield_voice_trigger">Mi AI nicht mit Stimme wecken</string>
     <string name="fw_blocked">Sperrliste</string>
     <string name="fw_blocked_count">"Blockiert "</string>
     <string name="fw_blocked_join">" und "</string>
@@ -3734,8 +3734,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_wireless_charge_adjust_position_title">Gerät schneller aufladen</string>
     <string name="pc_work_in_save_mode">Stromsparen</string>
     <string name="pc_work_in_super_save_mode">Ultra-Stromsparen</string>
-    <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi KI</string>
-    <string name="pc_xiaoai_voice_control_close">"Mi KI's \"Mit Stimme wecken\" ausschalten"</string>
+    <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi AI</string>
+    <string name="pc_xiaoai_voice_control_close">Mi AI \"Mit Stimme wecken\" ausschalten</string>
     <string name="per_month_pkg_traffic_settings">Datenlimit einstellen</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
     <string name="perfermance_optimization_title">Leistungsoptimierung</string>
@@ -4223,7 +4223,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_save_mode_close_warn_text">Stromsparen schränkt Hintergrundaktivitäten und Synchronisation ein. Wenn Sie es beim Laden aktiviert lassen, arbeiten evtl. einige Funktionen nicht richtig. Stromsparen beim Laden trotzdem aktiv lassen?</string>
     <string name="power_save_mode_close_warn_title">Stromsparen</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Funktioniert, wenn Stromsparen an ist</string>
-    <string name="power_save_mode_close_xiaoai_wakeup_title">Mi KI mit Stimme nicht auslösen</string>
+    <string name="power_save_mode_close_xiaoai_wakeup_title">Mi AI mit Stimme nicht auslösen</string>
     <string name="power_save_mode_enable">Stromsparen</string>
     <string name="power_save_mode_end_time">Ende</string>
     <string name="power_save_mode_ontime_enabled">Zeit für das Umschalten zwischen Profilen planen</string>
@@ -5787,11 +5787,11 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="terminal_privacy_ability_others">Andere Mechanismen</string>
     <string name="terminal_privacy_ability_others_summary">Bildschirmfreigabe, Testen der Zahlungsumgebung, Fingerabdruck- und Gesichtserkennung</string>
     <string name="terminal_privacy_ability_suggest">Empfehlungen</string>
-    <string name="terminal_privacy_ability_suggest_summary">Empfehlungen und Vorschläge von Dateimanager, Seitenleiste, Mi KI und Mi Wallet</string>
+    <string name="terminal_privacy_ability_suggest_summary">Empfehlungen und Vorschläge von Dateimanager, Seitenleiste, Mi AI und Mi Wallet</string>
     <string name="terminal_privacy_ability_summary">*Funktionen und Mechanismen zum Datenschutz auf dem Gerät können je nach Gerätemodell variieren</string>
     <string name="terminal_privacy_ability_txt_summary">Textbearbeitung, smarte Untertitel, Taplus, Nachrichten und gemeinsame Zwischenablage</string>
     <string name="terminal_privacy_ability_voice">Spracherkennung</string>
-    <string name="terminal_privacy_ability_voice_summary">Mi KI-Sprachsteuerung und smarte Untertitel</string>
+    <string name="terminal_privacy_ability_voice_summary">Mi AI Sprachsteuerung und smarte Untertitel</string>
     <string name="terminal_privacy_instruction">Datenschutz auf dem Gerät umfasst die Funktionen, die sicherstellen, dass Ihre persönlichen Daten auf dem Gerät bleiben und nicht in die Cloud hochgeladen werden</string>
     <string name="terminal_privacy_summary">Persönliche Daten auf diesem Gerät verarbeiten</string>
     <string name="terms_and_conditions_content"><Data>Diese Funktion bietet Ihnen eine Erdbebenwarnfunktion. Sie benachrichtigt Sie über bevorstehende Erdbeben und spielt Warntöne ab. Sie können die nächstgelegene Notunterkunft ausfindig machen, Ihren Notfallkontakt anrufen und bei Bedarf Ihren Krankenschein vorlegen. &lt;br>Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. &lt;br>Um normal zu funktionieren, benötigt diese Funktion die folgenden Berechtigungen, um Ihre persönlichen Daten zu erfassen: &lt;br>• Standortinfo: &lt;br>Für den Zugriff auf Ihren Standort und die Bereitstellung genauer Erdbebenwarnungen. &lt;br>Wenn Sie nicht damit einverstanden sind, solche Genehmigungen zu erteilen oder Ihre persönlichen Daten zu teilen und hochzuladen, können Sie diese Funktion nicht nutzen. Sie können diese Funktion in solchen Fällen deaktivieren oder nicht einschalten. &lt;br>Sie müssen unsere &lt;a href=%s>Datenschutzerklärung&lt;/a> lesen und akzeptieren, bevor Sie diese Funktion nutzen.</Data></string>

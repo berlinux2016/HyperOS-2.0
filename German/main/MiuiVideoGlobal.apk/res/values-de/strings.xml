@@ -78,7 +78,6 @@
     <string name="afternoon">Nachmittag</string>
     <string name="agree">Zustimmen</string>
     <string name="agree_and_continue">Zustimmen</string>
-    <string name="agree_label">Zustimmen</string>
     <string name="ai_animation_music_text">KI Soundtrack</string>
     <string name="ai_music_save_cancel">Abbrechen</string>
     <string name="ai_music_save_dialog_title">Speichern</string>
@@ -274,8 +273,6 @@
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="day">Tag</string>
     <string name="default_filedownloader_notification_content">FileDownloader läuft gerade</string>
-    <string name="default_message_body">Nachrichtentext</string>
-    <string name="default_title">Titel</string>
     <string name="default_upgrade_hint">"Hallo zusammen!
 Mi Video ist bereit für ein Update.
 App jetzt aktualisieren, um unsere neuen coolen Funktionen auszuprobieren!
@@ -1420,7 +1417,6 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="recommend_slide_to_more">Wischen für mehr</string>
     <string name="recommend_switch_alert">Zum Entfernen dieses Bereichs gehen Sie zu den Einstellungen in Mi Video</string>
     <string name="recommend_to_you">Für Sie empfohlen</string>
-    <string name="reject_all_label">Alle ablehnen</string>
     <string name="reload_sub_title">Tippen, um erneut zu versuchen</string>
     <string name="reload_title">Netzwerkverbindung nicht möglich</string>
     <string name="remaining_space">Verfügbar: %s</string>
@@ -1499,7 +1495,6 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="share_ugc_join">Mitmachen</string>
     <string name="share_ugc_waitting">Link generieren…</string>
     <string name="shorts_assemble_ad_recommend">Empfohlen</string>
-    <string name="show_options_label">Optionen anzeigen</string>
     <string name="show_the_location">Benachrichtigungstypen</string>
     <string name="sign_in">Anmelden</string>
     <string name="sign_in_google_account">Mit Google anmelden</string>

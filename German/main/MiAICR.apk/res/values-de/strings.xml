@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AI_diwbkiad_dekete_model">Modell löschen</string>
+    <string name="AI_download_delete_message">Wenn Sie das Mi AI Image Creator-Modell löschen, können Sie seine Funktionen nicht mehr nutzen. Trotzdem löschen?</string>
+    <string name="AI_download_delete_neg">Abbrechen</string>
+    <string name="AI_download_delete_pos">Löschen</string>
+    <string name="AI_download_delete_title">Modell löschen?</string>
+    <string name="AI_download_file_message">Unterstützt Mi AI Image Creator, ≈%.1f GB</string>
+    <string name="AI_download_function_message">Installieren Sie Mi AI Image Creator, damit Mi AI Bilder aus Ihren Beschreibungen generiert.</string>
+    <string name="AI_download_title">Mi AI Image Creator-Modell</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -86,12 +94,32 @@
     <string name="cognition_func_name">Geräteeigene Erkennungsfunktion</string>
     <string name="cognition_func_open">Geräteeigene Erkennungsfunktion</string>
     <string name="cognition_permission_declaration">Berechtigungsdetails</string>
+    <string name="cognition_permission_guidance_message">HyperMind kann nur dann normal arbeiten, wenn folgende Berechtigungen gewährt werden und auf \"Immer erlauben\" gesetzt sind: %s</string>
+    <string name="cognition_permission_guidance_title">Berechtigungen erforderlich</string>
     <string name="cognition_permission_location">Standortdaten</string>
     <string name="cognition_permission_location_msg">Für den Zugriff auf Ihren aktuellen Standort</string>
+    <string name="cognition_permission_location_name">\"Zugriff auf genauen Standort\"</string>
+    <string name="cognition_permission_nearby_device_name">\"Geräte in der Nähe erkennen\"</string>
+    <string name="cognition_permission_phone_state_name">\"Zugriff auf anrufbezogene Infos\"</string>
     <string name="cognition_permission_related">Berechtigungen</string>
     <string name="cognition_permission_runtime_msg">Für den Zugriff auf im Gerät gespeicherte frühere Standortdaten, um genauere und personalisierte Dienste anbieten zu können</string>
     <string name="cognition_permission_storage">Zugriff auf im Gerät gespeicherte Dateien</string>
     <string name="cognition_permission_storage_msg">Für den Zugriff auf im Gerät gespeicherte frühere Standortdaten</string>
+    <string name="cognition_privacy_cta_all_purpose">Xiaomi HyperMind wird von der Mi AI Engine angetrieben. Mi AI Engine kann Szenarien erkennen, Ihre Muster lernen und Ihnen präzise, personalisierte Dienste anbieten.</string>
+    <string name="cognition_privacy_dialog_get_background_loc_permission_message">Erlauben Sie Xiaomi HyperMind, auf Ihren Standort zuzugreifen, während es im Hintergrund läuft, damit es Muster verwenden kann. Sie können diese Berechtigung in Einstellungen erteilen.</string>
+    <string name="cognition_privacy_dialog_get_background_loc_permission_title">Berechtigungen erforderlich</string>
+    <string name="cognition_privacy_dialog_get_mijia_cta_message">Mi AI Engine muss Daten über Ihre Smart Home-Geräte sammeln, um Ihre Muster zu lernen. Melden Sie sich bei Mi Home/Xiaomi Home an, um loszulegen. Jetzt App öffnen?</string>
+    <string name="cognition_privacy_dialog_get_mijia_cta_title">Bei Mi Home/Xiaomi Home anmelden</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_message">Mi AI Engine muss Daten über Ihre Smart Home-Geräte und Szenen in Mi Home/Xiaomi Home sammeln, damit sie Muster lernen und verwenden kann. Bestätigen Sie, dass Sie sich mit Ihrem Konto (%s) bei der App angemeldet haben, und tippen Sie dann auf \"Zustimmen\", um die Erfassung dieser Daten zu erlauben.</string>
+    <string name="cognition_privacy_dialog_get_mijia_data_title">Berechtigungen erforderlich</string>
+    <string name="cognition_privacy_dialog_get_noti_permission_message">Dies ist eine erforderliche Berechtigung. Sie können diese Berechtigung in Einstellungen erteilen.</string>
+    <string name="cognition_privacy_dialog_get_noti_permission_title">Xiaomi HyperMind das Senden von Benachrichtigungen erlauben</string>
+    <string name="cognition_privacy_dialog_negative_button_mijia_text">Zurück</string>
+    <string name="cognition_privacy_dialog_permission_desc_location">Zur Erkennung von Beziehungen zwischen bestimmten Orten und der Nutzung von Smart Home-Geräten</string>
+    <string name="cognition_privacy_dialog_permission_desc_phone_state">Um zu lernen, wie Sie Smart-Home-Geräte verwenden, wenn Sie Anrufe annehmen</string>
+    <string name="cognition_privacy_dialog_permission_desc_surround_device">Zur Erkennung, ob häufig verwendete Smart Home-Geräte in der Nähe sind</string>
+    <string name="cognition_privacy_dialog_positive_button_mijia_text">Öffnen</string>
+    <string name="cognition_privacy_dialog_reject_button_text">Ablehnen</string>
     <string name="cognition_privacy_request">Autorisierung</string>
     <string name="cognition_privacy_revoke">Widerruf Zustimmung</string>
     <string name="cognition_privacy_revoke_and">Das Widerrufen Ihrer Zustimmung deaktiviert diese Funktion</string>
@@ -108,6 +136,8 @@
     <string name="copywriting_audioProject_description_island">Audiowiedergabe übertragen</string>
     <string name="copywriting_closeAirConditioner_description_hmind">Klimaanlage ausgeschaltet</string>
     <string name="copywriting_closeAirConditioner_description_island">Klimaanlage ausgeschaltet</string>
+    <string name="copywriting_closeAirFresh_description_hmind">Frischluftsystem ausgeschaltet</string>
+    <string name="copywriting_closeAirFresh_description_island">Frischluftsystem ausgeschaltet</string>
     <string name="copywriting_closeAirPurifier_description_hmind">Luftreiniger ausgeschaltet</string>
     <string name="copywriting_closeAirPurifier_description_island">Luftreiniger ausgeschaltet</string>
     <string name="copywriting_closeCurtain_description_hmind">Vorhänge geschlossen</string>
@@ -143,6 +173,8 @@
     <string name="copywriting_notify_title_once">Vorschlag</string>
     <string name="copywriting_openAirConditioner_description_hmind">Klimaanlage eingeschaltet</string>
     <string name="copywriting_openAirConditioner_description_island">Klimaanlage eingeschaltet</string>
+    <string name="copywriting_openAirFresh_description_hmind">Frischluftsystem eingeschaltet</string>
+    <string name="copywriting_openAirFresh_description_island">Frischluftsystem eingeschaltet</string>
     <string name="copywriting_openAirPurifier_description_hmind">Luftreiniger eingeschaltet</string>
     <string name="copywriting_openAirPurifier_description_island">Luftreiniger eingeschaltet</string>
     <string name="copywriting_openCurtain_description_hmind">Vorhänge geöffnet</string>
@@ -176,6 +208,10 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Für den Zugriff auf im Gerät gespeicherte frühere Standortdaten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+    <string name="download_complete">Heruntergeladen</string>
+    <string name="download_paused">Fortsetzen</string>
+    <string name="download_start">Herunterladen</string>
+    <string name="download_updata">Aktualisieren</string>
     <string name="early_morning">Morgen</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
