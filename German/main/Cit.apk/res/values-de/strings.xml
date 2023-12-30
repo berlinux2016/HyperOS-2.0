@@ -294,10 +294,12 @@ Halten Sie das Gerät so, als ob Sie einen Anruf annehmen, sprechen Sie in das M
     <string name="cit_charger_check_title">Ladegerättest</string>
     <string name="cit_charger_in">Ladegerät angeschlossen</string>
     <string name="cit_charger_in_check_title">Ladegerätanschlusstest</string>
+    <string name="cit_charger_main_ibat">Haupt-Akkustrom</string>
     <string name="cit_charger_plugin_check_summary">Wenn das USB-Ladegerät angeschlossen ist, sollte der Text \"Laden über USB/AC\" unten angezeigt werden.</string>
     <string name="cit_charger_plugin_check_title">Ladegerät (anschließen)</string>
     <string name="cit_charger_plugout_check_summary">Wenn das USB-Ladegerät nicht angeschlossen ist, sollte der Text \"USB/AC-Ladegerät nicht angeschlossen\" unten angezeigt werden.</string>
     <string name="cit_charger_plugout_check_title">Ladegerät (trennen)</string>
+    <string name="cit_charger_second_ibat">Sekundärer Akkustrom</string>
     <string name="cit_charger_test_summary">Während des Ladegerättests schließen Sie bitte das Ladegerät an und stecken den Stecker dann umgedreht wieder ein.</string>
     <string name="cit_charger_test_tips_electric">Aktuelles Projekt muss den Ladestromwert größer als 1A testen</string>
     <string name="cit_charger_test_tips_hvdcp">Aktuelles Projekt muss USB_HVDCP testen</string>
@@ -406,6 +408,7 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_front_rear_sub_camera_check_title">Hilfskamera vorne</string>
     <string name="cit_front_sub_camera_check_title">Front-Hilfskamera</string>
     <string name="cit_front_sub_camera_check_title_fold">Unterbildschirm-Frontkamera</string>
+    <string name="cit_front_ultra_camera_check_title">Ultra-Frontkamera</string>
     <string name="cit_get_signature_failed">Signatur erhalten FEHLGESCHLAGEN</string>
     <string name="cit_goodix_sensor_check_summary">Goodix-Sensortest, drücken Sie die Taste und warten Sie, bis die grün markierte Bestanden-Info korrekt ist.</string>
     <string name="cit_goodix_sensor_check_title">Goodix Fingerabdrucksensor</string>
@@ -536,6 +539,7 @@ Berühren Sie den Bildschirm, um GPS zu starten…"</string>
  Ultraschall-Näherungssensor: Bitte simulieren Sie das Annehmen eines Anrufs.
  Wenn der untere Testbereich bei der Annäherung einen Wert von 0,0 und bei Entfernung einen Wert von 5,0 anzeigt, ist der Test erfolgreich. Andernfalls schlägt der Test fehl."</string>
     <string name="cit_proximity_sensor_cali_title">Kalibrierungstest Näherungssensor</string>
+    <string name="cit_proximity_sensor_check_second_screen_title">Zweiter Näherungssensor</string>
     <string name="cit_proximity_sensor_check_summary">"Bedecken Sie den Näherungssensor (oben am Gerät in der Nähe des Empfängers) mit Ihrer Hand und bewegen Sie dann Ihre Hand weg. Der Wert sollte sich von 0,0 erhöhen, wenn Sie Ihre Hand weiter vom Gerät weg bewegen.
 Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihrer Hand befindet (z. B. Bildschirmschutzabdeckung oder Handschuhe)."</string>
     <string name="cit_proximity_sensor_check_title">Näherungssensor</string>
@@ -824,6 +828,7 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
     <string name="cit_touch_fw_mode">FW-Modus</string>
     <string name="cit_touch_panel_nead_pencil_tip">Bitte verwenden Sie wieder den Stift zum Testen</string>
     <string name="cit_touch_panel_test_title">Berührungssensor</string>
+    <string name="cit_touch_panel_test_title_N8">Berührungssensor</string>
     <string name="cit_touch_thp_mode">THP-Modus</string>
     <string name="cit_touch_work_mode_test_help">"Gebrauchsanweisung: 
 Auf die Taste tippen, um den Berührungsmodus auf THP-Modus oder FW-Modus umzuschalten".</string>
