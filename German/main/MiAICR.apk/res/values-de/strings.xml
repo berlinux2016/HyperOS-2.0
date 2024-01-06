@@ -119,6 +119,7 @@
     <string name="cognition_privacy_dialog_permission_desc_phone_state">Um zu lernen, wie Sie Smart-Home-Geräte verwenden, wenn Sie Anrufe annehmen</string>
     <string name="cognition_privacy_dialog_permission_desc_surround_device">Zur Erkennung, ob häufig verwendete Smart Home-Geräte in der Nähe sind</string>
     <string name="cognition_privacy_dialog_positive_button_mijia_text">Öffnen</string>
+    <string name="cognition_privacy_dialog_positive_button_text">Zustimmen</string>
     <string name="cognition_privacy_dialog_reject_button_text">Ablehnen</string>
     <string name="cognition_privacy_request">Autorisierung</string>
     <string name="cognition_privacy_revoke">Widerruf Zustimmung</string>

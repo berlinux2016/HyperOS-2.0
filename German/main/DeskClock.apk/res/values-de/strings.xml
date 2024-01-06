@@ -37,6 +37,7 @@
     <string name="alarm_notify_snooze_label">Schlummern (%s)</string>
     <string name="alarm_permanent_alert">Klingeln</string>
     <string name="alarm_repeat">Wiederholen</string>
+    <string name="alarm_repeat_self_define">Anpassen</string>
     <string name="alarm_repeat_self_define_button">Anpassen</string>
     <string name="alarm_ringtone_picker">Wecker</string>
     <string name="alarm_set_new">Wecker klingelt in weniger als %d Minute.</string>
@@ -91,6 +92,7 @@
     <string name="channel_name_stopwatch">Stoppuhr</string>
     <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
     <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
+    <string name="chip_text">Chiptext</string>
     <string name="cities_show_limit_desc">Mehr Uhren anzeigen nicht möglich</string>
     <string name="city_time_contrast_desc">Tippen, um die Zeit in verschiedenen Städten zu vergleichen</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
@@ -391,6 +393,7 @@
     <string name="privacy_policy_title">Datenschutzerklärung</string>
     <string name="privacy_settings_title">Datenschutz</string>
     <string name="query_privacy_policy">Datenschutzerklärung ansehen</string>
+    <string name="read_device_internal_storage">Zugriff auf Speicher</string>
     <string name="read_external_storage_permission_desc">Zum Einstellen eigener Klingeltöne</string>
     <string name="read_internal_storage">Speicherzugriff</string>
     <string name="remark_hint">Beschriftung eingeben</string>

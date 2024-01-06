@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="PRD_summary_1">Wenn Sie Daten dieser Apps vom alten auf das neue Gerät übertragen, werden die Daten auf dem neuen Gerät (inkl. Chat-Verlauf) überschrieben.</string>
+    <string name="PRD_summary_1">Wenn Sie Daten dieser Apps vom alten auf das neue Gerät übertragen, werden die Daten auf dem neuen Gerät (inkl. Chat-Verläufe) überschrieben.</string>
     <string name="PRD_summary_4">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>
     <string name="PRD_summary_4_china">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>
     <string name="PRD_summary_5">Hochgeschwindigkeitsübertragungen können dazu führen, dass Ihr Gerät heißer wird als normal. Seien Sie versichert, dass sich Ihr Gerät abkühlen wird, wenn die Übertragung beendet ist.</string>
-    <string name="PRD_title_1">1. Folgende Apps haben bereits Daten auf Ihrem neuen Gerät:</string>
-    <string name="PRD_title_4">2. Seien Sie vorsichtig während des Übertragungsvorgangs.</string>
-    <string name="PRD_title_5">3. Ihr Gerät kann während des Übertragungsvorgangs heiß werden.</string>
+    <string name="PRD_summary_tablet_1">Während der Übertragung werden alle Daten dieser Apps (inkl. Chat-Verläufe) überschrieben.</string>
+    <string name="PRD_title_1">%1$d. Auf dem neuen Gerät sind bereits App-Daten für folgende Apps vorhanden:</string>
+    <string name="PRD_title_4">%1$d. Verwenden Sie Ihr Gerät mit Sorgfalt</string>
+    <string name="PRD_title_5">%1$d. Ihr Gerät wird während der Übertragung heiß</string>
+    <string name="PRD_title_tablet_1">%1$d. Auf dem neuen Gerät sind bereits App-Daten für folgende Apps vorhanden:</string>
+    <string name="PRD_title_tablet_4">%1$d. Verwenden Sie Ihr Gerät mit Sorgfalt</string>
+    <string name="PRD_title_tablet_5">%1$d. Ihr Gerät wird während der Übertragung heiß</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
@@ -190,7 +194,7 @@ Zum Ausschalten auf https://appleid.apple.com/#!&amp;page=signin gehen"</string>
     <string name="dialog_request_network_message">"Willkommen bei Mi Mover! Mit dieser App können Sie Elemente von Ihrem alten Gerät auf ein neues übertragen.
 Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Bitte beachten Sie, dass Mi Mover eine Internetverbindung und folgende Berechtigungen benötigt, um Ihre persönlichen Daten zu erfassen: Ein-/Ausschalten von WLAN, auf Ihre Kontakte zugreifen und diese übertragen, Anrufliste, SMS, MMS, Gesprächs- und Audioaufnahmen."</string>
     <string name="dialog_request_network_message_extra">Wenn Sie solchen Genehmigungen nicht zustimmen oder Ihre persönlichen Daten nicht teilen und hochladen, können Sie diese App nicht verwenden.In solchen Fällen können Sie diese App deinstallieren oder die Berechtigungen in den Einstellungen einschränken.</string>
-    <string name="dialog_request_permission_message">"Willkommen bei Mi Mover! Mit dieser App können Sie Daten von Ihrem alten Gerät auf ein neues übertragen. Die Daten werden zwischen den beiden Geräten übertragen und nicht auf unsere Server hochgeladen. Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um normal zu funktionieren: "</string>
+    <string name="dialog_request_permission_message">Willkommen bei Mi Mover! Mit dieser App können Sie Daten von Ihrem alten Gerät auf ein neues übertragen. Die Daten werden zwischen den beiden Geräten übertragen und nicht auf unsere Server hochgeladen.</string>
     <string name="dialog_request_permission_message_buttom_content">Erlauben Sie dieser App die Internetverbindung und erteilen Sie die oben aufgeführten obligatorischen Berechtigungen.</string>
     <string name="dialog_request_permission_message_extra_summary">Diese Berechtigungen sind erforderlich, um die grundlegenden Funktionen und Dienste dieser App verfügbar zu machen.</string>
     <string name="dialog_request_permission_message_extra_title">Obligatorische Berechtigungen</string>
@@ -629,6 +633,7 @@ Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vors
     <string name="prompt_before_transmission_message4_title">Während der gesamten Übertragung verbunden bleiben</string>
     <string name="prompt_before_transmission_message5_summary">Kabellose Übertragung großer Datenmengen kann zu einer leichten Überhitzung führen, was nicht ungewöhnlich ist. Ihr Gerät kühlt bald nach Abschluss der Übertragung ab.</string>
     <string name="prompt_before_transmission_message5_title">Ihr Gerät kann sich während der Übertragung erwärmen.</string>
+    <string name="prompt_before_transmission_tablet_message3_title">Zweitprofil ist eingeschaltet</string>
     <string name="provisiion_set_old_pad_summary">Mi Mover importiert Daten von Ihrem alten Gerät, ohne eine Internetverbindung herzustellen</string>
     <string name="provisiion_set_old_phone">Vom alten Gerät importieren</string>
     <string name="provisiion_set_old_phone_summary">Mi Mover verwenden, um Daten von Ihrem alten Gerät ohne eine Internetverbindung zu importieren</string>

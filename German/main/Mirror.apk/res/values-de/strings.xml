@@ -201,10 +201,10 @@
     <string name="mirror_have_been_opened">Startbildschirm+ ist an</string>
     <string name="mirror_to_float_window_mode">Zum Popup wechseln</string>
     <string name="mirror_to_full_screen_mode">Zum Vollbildmodus wechseln</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_content">Sie können die Interkonnektivitätsdienste unter Einstellungen > Interkonnektivität einschalten.</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_title">Interkonnektivitätsdienste auf dem Tablet einschalten</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_content">Sie können die Interkonnektivitätsdienste unter Einstellungen > Interkonnektivität einschalten.</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_title">Interkonnektivitätsdienste auf dem Computer einschalten</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_content">Sie können Xiaomi Interkonnektivität auf Ihrem Tablet unter Einstellungen > Interkonnektivität einschalten.</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_title">Xiaomi Interkonnektivität ist aus</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_content">Sie können Xiaomi Interkonnektivität auf Ihrem Computer unter Einstellungen > Interkonnektivität einschalten.</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_title">Xiaomi Interkonnektivität ist aus</string>
     <string name="mirror_to_settings_phone_content">Startbildschirm+ jetzt einschalten?</string>
     <string name="mirror_to_settings_remote_pad_content">Sie können Startbildschirm+ unter Einstellungen > Interkonnektivität einschalten.</string>
     <string name="mirror_to_settings_remote_pad_title">Startbildschirm+ auf dem Tablet einschalten</string>
@@ -314,7 +314,7 @@
     <string name="notification_channel_name_download">Download-Fortschritt anzeigen</string>
     <string name="notification_mirror">Die andere Person gibt gerade ihren Bildschirm frei. Später erneut versuchen.</string>
     <string name="notification_state_cancel">Trennen</string>
-    <string name="notification_state_content">Dieses Gerät ist mit dem Computer von %1$s verbunden. Sie können jetzt Eingabegeräte, Dateien und Bilder freigeben.</string>
+    <string name="notification_state_content">Dieses Gerät ist mit dem Computer von %1$s verbunden. Sie können jetzt Dateien und Bilder freigeben und geräteübergreifende Steuerelemente verwenden.</string>
     <string name="notification_state_title">Erfolgreich verbunden</string>
     <string name="notify_clip_action_browser">Besuchen</string>
     <string name="notify_clip_action_call">Anrufen</string>
@@ -341,7 +341,7 @@
     <string name="pad_pc_mirror_introduction_summary">Spiegeln Sie den Computerbildschirm auf IhrTablet</string>
     <string name="pad_pc_mirror_introduction_title">Bildschirm spiegeln</string>
     <string name="pad_pc_share_introduction_summary">Verwenden Sie die Maus und Tastatur Ihres Computers mit diesem Tablet</string>
-    <string name="pad_pc_share_introduction_title">Eingabegeräte</string>
+    <string name="pad_pc_share_introduction_title">Geräteübergreifende Steuerelemente</string>
     <string name="pad_settings_bluetooth_enable_summary">Bluetooth einschalten, um Geräte in der Nähe zu finden. Jetzt einschalten?</string>
     <string name="pad_settings_bluetooth_enable_title">Bluetooth einschalten</string>
     <string name="pad_settings_click_toast_msg">Über Mi Smart Hub auf Ihrem Computer verbinden</string>
@@ -532,8 +532,8 @@
     <string name="share_pc_folder_multi_error_dialog_ok">Verstanden</string>
     <string name="share_pc_folder_multi_error_dialog_title">Nicht alle Elemente wurden übertragen</string>
     <string name="share_stop_share_to_start_screen">Übertragen beenden, um Ihren Bildschirm freizugeben</string>
-    <string name="share_to_settings_phone_content">Interkonnektivitätsdienste jetzt einschalten?</string>
-    <string name="share_to_settings_title">Interkonnektivitätsdienste einschalten</string>
+    <string name="share_to_settings_phone_content">Xiaomi Interkonnektivität jetzt einschalten?</string>
+    <string name="share_to_settings_title">Xiaomi Interkonnektivität</string>
     <string name="sink_pc_click_again_to_finish_extent">Erneut tippen, um die Bildschirmerweiterung zu deaktivieren</string>
     <string name="sink_pc_click_again_to_finish_mirror">Erneut tippen, um die Bildschirmspiegelung zu beenden</string>
     <string name="softap_connect_fail_message">Verbinden nicht möglich</string>

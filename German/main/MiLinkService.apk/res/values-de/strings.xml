@@ -251,6 +251,9 @@
     <string name="circulate_open_in_tv">Am TV öffnen</string>
     <string name="circulate_pad_app_continuity">%1$s des Telefons verwenden</string>
     <string name="circulate_pad_card_being_used_camera">Kamera des Telfons am Tablet verwenden</string>
+    <string name="circulate_pad_card_being_used_cellular">Tablet verwendet mobile Daten</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">WLAN-Signal mit Tablet geteilt</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">WLAN-Signal mit Tablet geteilt</string>
     <string name="circulate_pad_card_use_camera">Tablet-Kamera verwenden</string>
     <string name="circulate_pad_card_use_desktop">Startbildschirm für Tablet freigeben</string>
     <string name="circulate_pad_card_using_camera">Tablet-Kamera verwenden</string>
@@ -263,8 +266,12 @@
     <string name="circulate_phone_app_continuity">%1$s am Tablet verwenden</string>
     <string name="circulate_phone_card_being_used_camera">Tablet-Kamera am Telefon verwenden</string>
     <string name="circulate_phone_card_use_camera">Telefonkamera verwenden</string>
+    <string name="circulate_phone_card_use_cellular">Mobile Daten des Telefons verwenden</string>
     <string name="circulate_phone_card_use_desktop">Startbildschirm des Telefons anzeigen</string>
     <string name="circulate_phone_card_using_camera">Telefonkamera verwenden…</string>
+    <string name="circulate_phone_card_using_cellular">Mobile Daten des Telefons verwenden</string>
+    <string name="circulate_phone_card_using_cellular_wifi">WLAN-Signal des Telefons verwenden</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">WLAN-Signal des Telefons verwenden</string>
     <string name="circulate_phone_card_using_desktop">Startbildschirm des Telefons anzeigen…</string>
     <string name="circulate_public_device_title_format">"%1$s's %2$s"</string>
     <string name="circulate_ringfind_button_hint_play">Ton abspielen</string>
@@ -330,6 +337,7 @@
     <string name="connect_settings_base">Interkonnektivität</string>
     <string name="connect_settings_category_connection_car">Fahrzeugmerkmale</string>
     <string name="connect_settings_category_personal_device">Persönliche Geräte</string>
+    <string name="connect_settings_communication_sharing">Kabelloses Tethering</string>
     <string name="connect_settings_connect_permission">Interkonnektivität und Berechtigungen</string>
     <string name="connect_settings_connect_privacy">Datenschutz</string>
     <string name="connect_settings_connection_service">Xiaomi Interkonnektivität</string>
@@ -345,7 +353,7 @@
     <string name="connect_settings_summary"><Data>Erkennen Sie automatisch Geräte in Ihrer Nähe, die an Ihrem Xiaomi Konto angemeldet sind, und verbinden Sie sie miteinander, um eine Vielzahl von Aufgaben auf mehreren Geräten auszuführen. &lt;a href=%1$s>Mehr erfahren&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Erlauben Sie Ihren Geräten, drahtlos miteinander zu interagieren</string>
     <string name="connect_settings_summary_corp_phone">Beantworten Sie Anrufe auf Tablets oder Computern in der Nähe, die an Ihrem Xiaomi Konto angemeldet sind</string>
-    <string name="connect_settings_summary_hyper_mind">Passen Sie Geräte in der Nähe automatisch an Ihre Bedürfnisse an, basierend auf Ihrem Nutzungsverhalten. Diese Funktion wird von Mi AI unterstützt.</string>
+    <string name="connect_settings_summary_hyper_mind">Diese Funktion lernt Ihre Muster und nutzt sie, um Ihre Smart Home-Geräte zu steuern. Powered by Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Aufgaben in derselben App auf einem anderen Gerät fortsetzen</string>
     <string name="connect_settings_summary_share_clipboard">Text und Bilder auf anderen Geräten innerhalb von %d Minuten nach dem Kopieren auf diesem Gerät einfügen</string>
     <string name="connect_settings_summary_share_launcher_pad">Anzeigen und Interagieren mit dem Startbildschirm von Telefonen in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind</string>
@@ -434,6 +442,9 @@
     <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
+    <string name="fallback_menu_item_copy_link">Link kopieren</string>
+    <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
+    <string name="fallback_menu_item_share_link">Link teilen</string>
     <string name="file_read_des">Zur Anzeige von Fotos und anderen Dateien auf externen Monitoren</string>
     <string name="find_device_close">Verstanden</string>
     <string name="find_device_notification_content_phone">%1$s sucht mit %2$s nach diesem Gerät. Entsperren, um die Tonwiedergabe zu beenden.</string>
@@ -582,7 +593,7 @@
     <string name="hm_toast_log_in">Zuerst bei Ihrem Xiaomi Konto anmelden</string>
     <string name="hyper_mind_close_warning">Achtung</string>
     <string name="hyper_mind_close_warning_checkbox">Nicht mehr anzeigen</string>
-    <string name="hyper_mind_close_warning_content">HyperMind hört auf, Daten zu sammeln und Ihr Nutzungsverhalten zu lernen, wenn Sie es ausschalten. Wenn Sie die bereits erfassten Daten löschen möchten, &lt;a href=%1$s>tippen Sie hier&lt;/a>.</string>
+    <string name="hyper_mind_close_warning_content">Wenn Sie diese Funktion deaktivieren, kann HyperMind Ihre Muster nicht mehr lernen oder verwenden. Wenn Sie Ihre Zustimmung zur Datenerfassung widerrufen möchten, tippen Sie &lt;a href=%1$s>hier&lt;/a>.</string>
     <string name="hyper_mind_close_warning_ok">Verstanden</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="invisible_mode_dialog_content">Im Inkognito-Modus kann Übertragen nicht verwendet werden. Erst den Inkognito-Modus ausschalten.</string>

@@ -4058,7 +4058,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="font_size_summary">Textgröße für den Startbildschirm, die Benachrichtigungsleiste, den Dialer und die Systemmenüs ändern</string>
     <string name="font_size_summary1">"Wenn Ihr Systemtext noch zu klein ist, versuchen Sie "</string>
     <string name="font_size_summary2">Minimaler Desktop</string>
-    <string name="footer_description_full_screen_intent">Dieser App erlauben, Benachrichtigungen im Vollbild zu senden, die den gesamten Bildschirm abdecken.</string>
+    <string name="footer_description_full_screen_intent">Dieser App erlauben, Benachrichtigungen anzuzeigen, die den gesamten Bildschirm ausfüllen, wenn das Gerät gesperrt ist. Die App kann Vollbildbenachrichtigungen verwenden, um Alarme, eingehende Anrufe oder andere dringende Benachrichtigungen anzuzeigen. Diese Einstellung hängt von der Berechtigung ab, neue Fenster zu öffnen, während sie im Hintergrund läuft, und kann nur verwendet werden, wenn diese Berechtigung erteilt wurde.</string>
     <string name="footer_learn_more_content_description">Mehr über %1$s erfahren</string>
     <string name="for_diagnosis_usage_only">Diese Information dient nur zur Diagnose.</string>
     <string name="forbidden_network">(verboten)</string>

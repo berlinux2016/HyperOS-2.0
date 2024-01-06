@@ -44,6 +44,8 @@
     <string name="ai_button_title">Über KI-Taste</string>
     <string name="album_introduction">Mit dieser App können Sie Fotos und Videos verwalten, bearbeiten und verschönern.</string>
     <string name="alert_dialog_btn_close">Deaktivieren</string>
+    <string name="application_extension_service">App-Zusatzdienste</string>
+    <string name="application_extension_service_introduction">App-Zusatzdienste bieten Ihnen Anmelde- und Verifizierungsfunktionen. Um grundlegende Dienste bereitzustellen, benötigt diese App folgende Berechtigungen:</string>
     <string name="application_package_introduction">Paket-Installer wird für die Installation von Drittanbieter-Apps verwendet, inkl. Scannen vor der Installation und Empfehlungsdienste für Apps nach der Installation.</string>
     <string name="application_permissions">App-Berechtigungen</string>
     <string name="aquire_device_info">Zugriff auf Gerätedaten</string>
@@ -438,6 +440,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="permission_make_a_call_fast_application_summary">Damit Quick Apps telefonieren können;</string>
     <string name="permission_media_storage_summary">Zur Prüfung, wie Apps datenschutzbezogene Berechtigungen beim Zugriff auf Dateien verwenden</string>
     <string name="permission_message_introduction">Zum Senden von Nachrichten an gesperrte Kontakte</string>
+    <string name="permission_not_agree_service_not_working">Wenn Sie mit den oben genannten erforderlichen Berechtigungen nicht einverstanden sind, können Sie diesen Dienst nicht nutzen.</string>
     <string name="permission_number">Zugriff auf Rufnummer</string>
     <string name="permission_number_introduction">Zum Herstellen einer Bluetooth-Verbindung mit Fahrzeugsystemen und Bluetooth-Ohrhörern</string>
     <string name="permission_phone_imei_device">Für den Zugriff auf die IMEI zur Geräteidentifizierung</string>
@@ -486,6 +489,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="permission_recording_introduction">Zur Aufnahme von Audio während der Videoaufnahme</string>
     <string name="permission_screen_shoot_introduction">Zum Aufrufen und Speichern von Bildschirmaufnahmen</string>
     <string name="permission_send_message">SMS senden:</string>
+    <string name="permission_sms_verification_code_login">Für die SMS-Verifizierung zur schnellen Anmeldung</string>
     <string name="permission_uniquely_identifiable_information">Zugriff auf eindeutige Kennungen für dieses Gerät</string>
     <string name="permission_uniquely_identifiable_information_summary">Zugriff auf Geräte-MAC-Adresse und Geräte-OAID zum Erkennen, Verbinden und Kommunizieren mit Geräten in der Nähe</string>
     <string name="permission_use_bluetooth">Bluetooth verwenden</string>
@@ -591,6 +595,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="provision_next">Weiter</string>
     <string name="provision_skip_underline">Überspringen</string>
     <string name="read_application_info">Zugriff auf App-Daten</string>
+    <string name="read_sms_and_mms">Zugriff auf SMS und MMS</string>
     <string name="recommended_font_mark">Empfohlen</string>
     <string name="recorder_introduction">Mit dieser App können Sie Audio aufnehmen und Aufnahmen in der Cloud sichern.</string>
     <string name="refuse_cookie">Cookies ablehnen</string>
