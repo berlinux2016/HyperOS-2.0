@@ -141,6 +141,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
     </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF>%1$d&lt;/font> Sek bleiben</item>
+        <item quantity="one">&lt;font color=#0D84FF>%1$d&lt;/font> Sek bleiben</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Vor %1$d Minuten</item>
         <item quantity="one">Vor %1$d Minute</item>
@@ -329,5 +333,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s-mal</item>
         <item quantity="one">%s-mal</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Letzte Woche hat Mi Browser die Ladegeschwindigkeit von Webseiten für Sie %d mal erhöht!</item>
+        <item quantity="one">Letzte Woche hat Mi Browser die Ladegeschwindigkeit von Webseiten für Sie %d mal erhöht!</item>
     </plurals>
 </resources>
