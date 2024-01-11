@@ -28,7 +28,7 @@
     <string name="account_change">Konten wechseln</string>
     <string name="account_child_dialog_neg_text">Verlassen</string>
     <string name="account_child_dialog_pos_text">Erziehungsberechtigter stimmt zu</string>
-    <string name="account_child_dialog_text">Wenn Sie minderjährig sind, informieren Sie Ihren Erziehungsberechtigten, dass er die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\" lesen und akzeptieren muss. Sie müssen auch dessen Zustimmung und Anleitung einholen, bevor Sie unsere Dienste nutzen oder persönliche Daten an uns übermitteln.\nUm Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verarbeiten, vollständig zu verstehen, lesen Sie die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\".</string>
+    <string name="account_child_dialog_text">Wenn Sie minderjährig unter 14 Jahren sind, informieren Sie Ihren Erziehungsberechtigten, dass er die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\" lesen und akzeptieren muss. Sie müssen auch dessen Zustimmung und Anleitung einholen, bevor Sie unsere Dienste nutzen oder persönliche Daten an uns übermitteln.\nUm Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verarbeiten, vollständig zu verstehen, lesen Sie die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\".</string>
     <string name="account_child_dialog_title">Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
     <string name="account_child_save_statement">Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
     <string name="account_duplicate_dlg_message_fmt">Benutzername wird bereits für das Konto \"%s\" verwendet.</string>
@@ -43,7 +43,7 @@
     <string name="account_permission_private_policy">Datenschutzerklärung</string>
     <string name="account_permission_user_privacy">Endbenutzer-Lizenzvereinbarung</string>
     <string name="account_security_verification">Kontoverifizierung</string>
-    <string name="account_setting_message_body_load_complete">Vollständige E-Mail</string>
+    <string name="account_setting_message_body_load_complete">Vollständige Nachricht</string>
     <string name="account_setting_message_body_load_head_abstract">E-Mail-Zusammenfassung</string>
     <string name="account_settings_action">Kontoeinstellungen</string>
     <string name="account_settings_background_attachments_security_summary">Anhänge, die Installationspakete enthalten, auf Sicherheitsrisiken prüfen</string>
@@ -56,8 +56,8 @@
     <string name="account_settings_does_not_support_pop">Diese Funktion wird von POP3 nicht unterstützt</string>
     <string name="account_settings_does_not_support_pop_attachment">POP3 kann Anhänge automatisch herunterladen, sie aber nicht bearbeiten</string>
     <string name="account_settings_incoming_summary">Benutzername, Passwort und andere Servereinstellungen</string>
-    <string name="account_settings_mail_check_frequency_dialog_title">E-Mail muss manuell aktualisiert werden, um E-Mails zu synchronisieren</string>
-    <string name="account_settings_mail_check_frequency_dialog_title_eas">Sie müssen E-Mails manuell synchronisieren, um Nachrichten und Kalendereinträge zu synchronisieren.</string>
+    <string name="account_settings_mail_check_frequency_dialog_title">Mail muss manuell aktualisiert werden, um E-Mails zu synchronisieren</string>
+    <string name="account_settings_mail_check_frequency_dialog_title_eas">Sie müssen Mail manuell synchronisieren, um Nachrichten und Kalendereinträge zu synchronisieren.</string>
     <string name="account_settings_mail_check_frequency_label">Synchronisationsintervall</string>
     <string name="account_settings_name_label">Spitzname</string>
     <string name="account_settings_notifications">Benachrichtigungen</string>
@@ -70,7 +70,6 @@
     <string name="account_settings_receive_title">Eingehende E-Mails</string>
     <string name="account_settings_send_title">Ausgehende E-Mails</string>
     <string name="account_settings_servers">Servereinstellungen</string>
-    <string name="account_settings_smime_title">S/MIME (sichere und vielseitige Internet-Mail-Erweiterungen)</string>
     <string name="account_settings_summary">Synchronisationsintervall, Benachrichtigungen usw.</string>
     <string name="account_settings_sync_calendar_enable">Kalender synchronisieren</string>
     <string name="account_settings_sync_calendar_summary">Termine dieses Kontos synchronisieren</string>
@@ -89,9 +88,9 @@
     <string name="account_setup_basics_title">Konto hinzufügen</string>
     <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen prüfen…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">SMTP-Einstellungen prüfen…</string>
-    <string name="account_setup_check_settings_retr_info_msg">"  Kontodaten abrufen…"</string>
+    <string name="account_setup_check_settings_retr_info_msg">"    Kontodaten abrufen…"</string>
     <string name="account_setup_correct_address_tips">E-Mail-Adresse eingeben</string>
-    <string name="account_setup_deleting_account_msg">"  Konto entfernen…"</string>
+    <string name="account_setup_deleting_account_msg">"    Konto entfernen…"</string>
     <string name="account_setup_domain_invalid_toast">Gültige E-Mail-Domäne eingeben</string>
     <string name="account_setup_exchange_certificate_title">Client-Zertifikat</string>
     <string name="account_setup_exchange_no_certificate">Keine</string>
@@ -114,7 +113,7 @@
     <string name="account_setup_failed_dlg_todo2">Konto wie unten gezeigt einrichten</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Unbekannter Fehler</string>
     <string name="account_setup_failed_ioerror">Serververbindung wurde nicht geöffnet</string>
-    <string name="account_setup_failed_protocol_unsupported">Sie haben eine falsche Serveradresse eingegeben, oder der Server verlangt eine Protokollversion, die E-Mail nicht unterstützt</string>
+    <string name="account_setup_failed_protocol_unsupported">Sie haben eine falsche Serveradresse eingegeben, oder der Server verlangt eine Protokollversion, die Mail nicht unterstützt</string>
     <string name="account_setup_failed_security">Wegen eines Sicherheitsfehlers wurde die Serververbindung nicht geöffnet</string>
     <string name="account_setup_failed_security_policies_unsupported">Dieser Server erfordert Sicherheitsfunktionen, die Ihr Androidgerät nicht unterstützt, inkl. %s</string>
     <string name="account_setup_failed_tls_required">TLS erforderlich, aber nicht vom Server unterstützt</string>
@@ -161,10 +160,9 @@
     <string name="add_pre_message_attachments_yes">Hinzufügen</string>
     <string name="add_star">Favorisieren</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="all_purpose">Willkommen bei E-Mail, einem E-Mail-Client, der von Kingsoft speziell für Xiaomi entwickelt wurde. Sie können diese App zum Verfassen, Senden und Empfangen von E-Mails verwenden.</string>
+    <string name="all_purpose">Willkommen bei Mail, einem E-Mail-Client, der von Kingsoft speziell für Xiaomi entwickelt wurde. Sie können diese App zum Verfassen, Senden und Empfangen von E-Mails verwenden.</string>
     <string name="allow_notify">Benachrichtigungen zulassen</string>
     <string name="always_bcc_myself">Bcc immer an mich</string>
-    <string name="app_name">E-Mail</string>
     <string name="appraise_des">Mögen Sie unsere App?</string>
     <string name="appraise_good">Ja</string>
     <string name="appraise_ignore">Kann ich jetzt nicht sagen</string>
@@ -216,7 +214,7 @@
     <string name="body_forward_email_text">[Weiterleiten]</string>
     <string name="body_hint">Textkörper</string>
     <string name="body_inline_pic_text">[Bild]</string>
-    <string name="bottom_bar_more_pdf">Als PDF exportieren</string>
+    <string name="bottom_bar_more_pdf">PDF exportieren</string>
     <string name="bottom_bar_more_pdf_exporting">Exportieren…</string>
     <string name="calendar_remind_dialog_title">Zum Kalender hinzufügen</string>
     <string name="calendar_remind_gridview_pick_date">Datum wählen</string>
@@ -238,7 +236,7 @@
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
     <string name="chat_item_msg_people_unit">Leute</string>
-    <string name="check_setup_data">"  Servereinstellungen prüfen…"</string>
+    <string name="check_setup_data">"    Servereinstellungen prüfen…"</string>
     <string name="chip_text">Chiptext</string>
     <string name="clear">Löschen</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
@@ -479,7 +477,6 @@
     <string name="font_color">Aktuelle Textfarbe: %s</string>
     <string name="font_color_black">Schwarz</string>
     <string name="font_color_blue">Blau</string>
-    <string name="font_color_cyan_blue">Cyan</string>
     <string name="font_color_gray">Grau</string>
     <string name="font_color_green">Grün</string>
     <string name="font_color_purple">Violett</string>
@@ -604,7 +601,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="mailbox_setting_preference_sync_summary_close">Synchr. ist aus</string>
     <string name="mailbox_setting_preference_sync_summary_open">Synchr. ist ein</string>
     <string name="mailbox_settings_activity_title">Synchronisationseinstellungen</string>
-    <string name="mailbox_settings_mailbox_sync_window_label">Synchronisiere E-Mail von</string>
+    <string name="mailbox_settings_mailbox_sync_window_label">E-Mail synchronisieren von</string>
     <string name="mailbox_settings_sync_enabled_label">Diesen Ordner synchronisieren</string>
     <string name="mailbox_settings_sync_enabled_summary">Nachrichten in diesem Ordner synchronisieren</string>
     <string name="manual_sync">Jetzt synchronisieren</string>
@@ -773,13 +770,13 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="notify_channel_no_disterb">Nicht stören-Modus</string>
     <string name="notify_channel_permission_notice">Berechtigungen erforderlich</string>
     <string name="notify_channel_send_fail">Bei fehlerhafter Sendung informieren</string>
-    <string name="notify_channel_service">Bei Hintergrund-Synchronisation informieren</string>
+    <string name="notify_channel_service">Bei Hintergrundsynchronisation informieren</string>
     <string name="ntes_authorization_code_to_login">Mit diesem Verifizierungscode anmelden</string>
     <string name="ntes_copy_and_login">Kopieren und anmelden</string>
     <string name="ntes_do_not_sms_uplink">Senden Sie eine SMS von der zugehörigen Rufnummer und tippen Sie dann auf \"Nachricht gesendet\".</string>
     <string name="ntes_had_send">Nachricht gesendet</string>
     <string name="ntes_had_send_to_content">Wenn Sie bereits eine SMS von der zugehörigen Rufnummer gesendet haben, tippen Sie auf \"Nachricht gesendet\", um fortzufahren.</string>
-    <string name="ntes_login_auth_too_much">Es können nicht mehr als 5 Verifizierungscodes hinzugefügt werden. Melden Sie sich auf einem Computer an Ihrem Posteingang an und löschen Sie nichtverwendete Codes.</string>
+    <string name="ntes_login_auth_too_much">Mehr als 5 Verifizierungscodes können nicht hinzugefügt werden. Melden Sie sich auf einem Computer an Ihrem Posteingang an und löschen Sie nichtverwendete Codes.</string>
     <string name="ntes_login_error_message" formatted="false">Keine Kontodaten erhalten (Fehler %s). %s.</string>
     <string name="ntes_password_error_hint">Wenn bei der Eingabe Ihres Passworts Fehler auftreten, schließen Sie diese Seite und öffnen Sie sie erneut.</string>
     <string name="ntes_phone_send">Textnachricht von der zugehörigen Rufnummer senden</string>
@@ -837,7 +834,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="pdf_save_error">In PDF konvertieren fehlgeschlagen. Diese Meldung ist zu lang.</string>
     <string name="pdf_save_local">"Erfolgreich auf dem Gerät gespeichert: "</string>
     <string name="pdf_save_no_body">Vor der Konvertierung in PDF warten, bis die Nachricht vollständig geladen ist</string>
-    <string name="pdf_save_to">"Gespeichert in "</string>
+    <string name="pdf_save_to">"Gespeichert unter "</string>
     <string name="pdf_signature_add">Neue Signatur hinzufügen</string>
     <string name="pdf_signature_create_title">Ihre Signatur erstellen</string>
     <string name="pdf_signature_delete">Signatur löschen</string>
@@ -1003,7 +1000,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="server_cet_title">Zertifikatsdetails</string>
     <string name="service_protocol_title">Dienstvereinbarung</string>
     <string name="set_network">Netzwerk konfigurieren</string>
-    <string name="setting_kids_subtitle">Alter des Benutzers bestätigt</string>
+    <string name="setting_kids_subtitle">Bestätigtes Benutzeralter</string>
     <string name="setting_kids_title">Über 16 Jahre alt</string>
     <string name="settings_activity_title">Einstellungen</string>
     <string name="settings_attachment">Anhänge</string>
@@ -1057,7 +1054,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="syncing_wait_restart_title">Servertimeout</string>
     <string name="system_account_create_failed">Konto wurde nicht erstellt. Erneut versuchen.</string>
     <string name="system_security_open_error">Berechtigungen in den Einstellungen erteilen, um Sicherheit zu öffnen</string>
-    <string name="system_setup_open_error">Synchronisation für E-Mail in den Einstellungen zulassen</string>
+    <string name="system_setup_open_error">Synchronisation für Mail in den Einstellungen zulassen</string>
     <string name="tap_to_configure">Zum Einrichten antippen</string>
     <string name="tap_to_enable_sync">Zum Aktivieren berühren</string>
     <string name="tell_you_later">Später</string>
@@ -1113,7 +1110,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="to_heading">"An: "</string>
     <string name="toast_bar_fail_synchronization">Serververbindung fehlgeschlagen. Eine Momant warten und erneut versuchen.</string>
     <string name="toast_bar_insufficient_memory_space">E-Mails wurden nicht abgerufen. Nicht genügend Speicherplatz</string>
-    <string name="toast_bar_invalid_account">Kontodaten abgelaufen. Tippen, um  erneut anzumelden.</string>
+    <string name="toast_bar_invalid_account">Kontodaten abgelaufen. Tippen zum erneuten Anmelden.</string>
     <string name="toast_bar_no_connection_network">Keine Internetverbindung</string>
     <string name="toast_bar_open_gmail_synchronization">Gmail-Verbindungsfehler, bitte Netzwerkeinstellungen prüfen</string>
     <string name="toast_bar_send_fail_remind">E-Mail senden fehlgeschlagen. E-Mail wurde im Ordner \"Postausgang\" gespeichert</string>
@@ -1158,17 +1155,17 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="update_domain_summary">Liste der verfügbaren Domains und Konfigurationen aktualisieren</string>
     <string name="update_domain_title">Domain-Einstellungen aktualisieren</string>
     <string name="upload_log_no">Abbrechen</string>
-    <string name="upload_log_title">Fehlerprotokolle senden, um uns zu helfen, E-Mail zu verbessern</string>
+    <string name="upload_log_title">Fehlerprotokolle senden, um uns zu helfen, Mail zu verbessern</string>
     <string name="upload_log_yes">Senden</string>
     <string name="user_experience_content">Bitte bestätigen Sie, dass Sie den \"Benutzererfahrungsplan\" gelesen haben und diesem zustimmen.</string>
     <string name="user_experience_log">Benutzererfahrungsplan</string>
     <string name="user_experience_login">Beitreten</string>
-    <string name="user_experience_logout">Das Erfahrungsprogramm beenden</string>
+    <string name="user_experience_logout">Erfahrungsprogramm beenden</string>
     <string name="user_experience_positive">Zustimmen und fortfahren</string>
     <string name="user_experience_title">Erklärung und Bedingungen</string>
-    <string name="user_new_auth_code">Mit neuem Autorisierungscode anmelden</string>
+    <string name="user_new_auth_code">Mit neuem Code anmelden</string>
     <string name="user_privacy_settings">Datenschutzeinstellungen</string>
-    <string name="user_privacy_settings_agreement_authorization">(Durch Tippen auf \"Zustimmen\" geben Sie E-Mail alle erforderlichen Berechtigungen)</string>
+    <string name="user_privacy_settings_agreement_authorization">(Durch Tippen auf \"Zustimmen\" geben Sie Mail alle erforderlichen Berechtigungen)</string>
     <string name="user_privacy_settings_path">Tipp: Um Ihre Autorisierung zu widerrufen, gehen Sie zu Einstellungen &gt; Datenschutzeinstellungen.</string>
     <string name="user_privacy_settings_summary">Wir sammeln Ihre Android-ID (verschlüsselt als Ihre eindeutige Benutzer-ID mit Mi Mail) oder Ihr Bedienungslog. Sie haben das Recht, Ihre Zustimmung jederzeit in den Benutzer-Datenschutzeinstellungen zu widerrufen.</string>
     <string name="user_privacy_settings_title">Mi Mail Datenschutzrechterinnerung</string>
@@ -1197,7 +1194,7 @@ Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchr
     <string name="widget_other_views">Andere</string>
     <string name="wps_card_button_tips">WPS Office öffnen</string>
     <string name="wps_card_tips">%s hat ein WPS-Office-Dokument mit Ihnen geteilt</string>
-    <string name="xiaomi_email">E-Mail</string>
+    <string name="xiaomi_email">Mail</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>

@@ -652,7 +652,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite bittet um Erlaubnis, Elemente auf Ihrem Telefon wiederherzustellen. Erlauben?</string>
     <string name="alert_miasist_occupy_backup">Elemente sichern mit Mi PC Suite… Warten, bis die Sicherung abgeschlossen ist, und erneut versuchen.</string>
     <string name="alert_miasist_occupy_restore">Elemente wiederherstellen mit Mi PC Suite… Warten, bis die Elemente wiederhergestellt sind, und erneut versuchen.</string>
-    <string name="alert_phone_occupy_backup">Mi PC Suite kann jetzt nicht verwendet werden. Schließen Sie die Sicherung oder Wiederherstellung von Elementen auf Ihrem Telefon ab und versuchen Sie es erneut.</string>
+    <string name="alert_phone_occupy_backup">Mi PC Suite kann jetzt nicht verwendet werden. Schließen Sie das Sichern oder Wiederherstellen von Elementen auf Ihrem Telefon ab und versuchen Sie es erneut.</string>
     <string name="alert_second_space_not_support_miasist">Mi PC Suite kann nicht im Zweitprofil verwendet werden. Wechseln Sie ins Hauptprofil.</string>
     <string name="alert_show_screensaver_when_not_charging_msg">Bildschirmschoner verursacht einen erhöhten Stromverbrauch</string>
     <string name="alert_show_screensaver_when_not_charging_title">Akkuverbrauch</string>
@@ -1003,7 +1003,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="auto_replace">Autokorrektur</string>
     <string name="auto_replace_summary">Tippfehler korrigieren</string>
     <string name="auto_restore_summary">Nach der Neuinstallation einer App gesicherte Einstellungen und Daten wiederherstellen</string>
-    <string name="auto_restore_title">Autom. Wiederherstellung</string>
+    <string name="auto_restore_title">Autom. Wiederherstellen</string>
     <string name="auto_rotate_camera_lock_summary">Kamera muss für die Gesichtserkennung entsperrt sein</string>
     <string name="auto_rotate_camera_lock_title">Kamera ist gesperrt</string>
     <string name="auto_rotate_link_a11y">Mehr über automatisches Drehen erfahren</string>
@@ -2345,10 +2345,10 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="cloud_restore_guide">Um Benutzerdaten von %s wiederherzustellen, Wiederherstellen antippen</string>
     <string name="cloud_restore_section_summary">Wiederherstellen der Systemeinstellungen, des Layouts des Startbildschirms und der Apps</string>
     <string name="cloud_restore_section_summary_new">Sichern von Startbildschirm-Layout, Apps, Systemeinstellungen und mehr</string>
-    <string name="cloud_restore_section_title">Wiederherstellung aus Xiaomi Cloud</string>
+    <string name="cloud_restore_section_title">Wiederherstellen aus Xiaomi Cloud</string>
     <string name="cloud_restore_section_title_new">In Xiaomi Cloud</string>
     <string name="cloud_restore_title">Sicherung wiederherstellen</string>
-    <string name="cloud_restore_window_title">Xiaomi Cloud Wiederherstellung</string>
+    <string name="cloud_restore_window_title">Xiaomi Cloud Wiederherstellen</string>
     <string name="cloud_search">Suchen…</string>
     <string name="cmcc_hardware_version">Hardwareversion</string>
     <string name="codec_low_latency_summary">Minimierung der Wartezeit bei der Audio- und Videosynchronisation von Spielen</string>
@@ -4547,7 +4547,7 @@ Auf \"Mobilgerät\" tippen, Option zum Wiederherstellen von Elementen finden und
 \nComputer
 Sicherung vom Computer per USB-Kabel auf MIUI-backup-AllBackup kopieren und Elemente vom Mobilgerät wiederherstellen.
 \nUSB-Laufwerk
-Sicherung vom USB-Laufwerk nach MIUI-backup-AllBackup kopieren und Option zur Wiederherstellung von Elementen von einem USB-Laufwerk wählen, um fortzufahren.
+Sicherung vom USB-Laufwerk nach MIUI-backup-AllBackup kopieren und Option zum Wiederherstellen von Elementen von einem USB-Laufwerk wählen, um fortzufahren.
 \nXiaomi Cloud
 Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="how_restore_backup_title">Wie kann ich gesicherte Elemente wiederherstellen?</string>
@@ -5137,7 +5137,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="local_backup_window_title">Lokale Sicherungsdaten</string>
     <string name="local_home_title">Lokale Sicherungen</string>
     <string name="local_no_backup">Keine lokalen Sicherungen</string>
-    <string name="local_restore_window_title">Lokale Wiederherstellung</string>
+    <string name="local_restore_window_title">Lokales Wiederherstellen</string>
     <string name="local_select_account_contact">Konten &amp; Kontakte</string>
     <string name="local_select_audio">Audiodateien</string>
     <string name="local_select_doc">Dokumente</string>
@@ -6651,7 +6651,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="nfc_repair_btn_retry">Erneut versuchen</string>
     <string name="nfc_repair_btn_yes">Ja</string>
     <string name="nfc_repair_confirm_desc" formatted="false">Haben Sie eines dieser Probleme erlebt?\n%1$d. Sie konnten keine NFC-Karte hinzufügen oder aufladen.\n%2$d. Ihre NFC-Karte hat nicht funktioniert.\n%3$d. Andere NFC-Funktionen funktionieren nicht.</string>
-    <string name="nfc_repair_fail_desc">Ein Fehler ist aufgetreten, der die Wiederherstellung der NFC-Funktionen verhinderte. Erneut versuchen.</string>
+    <string name="nfc_repair_fail_desc">Ein Fehler ist aufgetreten, der das Wiederherstellen der NFC-Funktionen verhinderte. Erneut versuchen.</string>
     <string name="nfc_repair_fail_title">Wiederherstellen fehlgeschlagen</string>
     <string name="nfc_repair_ongoing">"Wiederherstellen… Verlassen Sie diese Seite nicht"</string>
     <string name="nfc_repair_pass_desc">Gerät neu starten, um die Änderungen zu übernehmen</string>
@@ -6806,7 +6806,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="notif_miasist_try_to_connect">Mi PC Suite versucht, sich mit Ihrem Gerät zu verbinden</string>
     <string name="notif_parse_select_descript_error">Liste der gesicherten Elemente wurde nicht synchronisiert</string>
     <string name="notif_receiving_transingsd">Empfangen %1$s (%2$s)…</string>
-    <string name="notif_restore_complete_title">Wiederherstellung erfolgreich</string>
+    <string name="notif_restore_complete_title">Wiederherstellen erfolgreich</string>
     <string name="notif_restore_content">Benutzerdaten werden wiederhergestellt</string>
     <string name="notif_restore_title">Daten wiederherstellen</string>
     <string name="notif_sending_transingsd">Senden %1$s (%2$s)…</string>
@@ -7871,8 +7871,8 @@ UT Interface: %5$s"</string>
     <string name="reset_bluetooth_wifi_complete_toast">Bluetooth &amp; WLAN wurden zurückgesetzt</string>
     <string name="reset_bluetooth_wifi_desc">Dadurch werden alle WLAN- &amp; Bluetooth-Einstellungen zurückgesetzt. Sie können diese Aktion nicht rückgängig machen.</string>
     <string name="reset_bluetooth_wifi_title">Bluetooth &amp; WLAN zurücksetzen</string>
-    <string name="reset_confirm_directory">Hinweis: Prüfen Sie vor der Wiederherstellung von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
-    <string name="reset_confirm_directory_pad">Hinweis: Prüfen Sie vor der Wiederherstellung von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
+    <string name="reset_confirm_directory">Hinweis: Prüfen Sie vor dem Wiederherstellen von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
+    <string name="reset_confirm_directory_pad">Hinweis: Prüfen Sie vor dem Wiederherstellen von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
     <string name="reset_dashboard_title">Zurücksetzen</string>
     <string name="reset_default_apn_failed">Zurücksetzen des Standard-APN fehlgeschlagen</string>
     <string name="reset_esim_desc">Alle eSIMs auf dem Telefon löschen. Kontaktieren Sie Ihren Mobilfunkanbieter, um Ihre eSIMs erneut herunterzuladen. Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt.</string>
@@ -7916,19 +7916,19 @@ UT Interface: %5$s"</string>
     <string name="restore">Wiederherstellen</string>
     <string name="restore_backup">Wiederherstellen</string>
     <string name="restore_contact">Kontakte wiederherstellen</string>
-    <string name="restore_contact_content">Wiederherstellung kann zu doppelten Kontakten führen</string>
+    <string name="restore_contact_content">Wiederherstellen kann zu doppelten Kontakten führen</string>
     <string name="restore_contacts_hit">Erneut anmelden, um wiederhergestellte Daten einzusehen</string>
-    <string name="restore_counts">Wiederherstellungen:</string>
+    <string name="restore_counts">Wiederherstellen:</string>
     <string name="restore_data">Daten wiederherstellen</string>
     <string name="restore_default_apn">Standard-APN-Einstellungen werden wiederhergestellt</string>
     <string name="restore_default_apn_completed">Zurücksetzen auf Standard-APN-Einstellungen abgeschlossen</string>
     <string name="restore_device_id_content">Personalisierte Empfehlungen zurücksetzen</string>
     <string name="restore_device_id_title">Geräte-ID wiederherstellen</string>
-    <string name="restore_dialog_content">Wiederherstellung der Geräte-ID setzt Ihre personalisierte Empfehlung zurück</string>
+    <string name="restore_dialog_content">Wiederherstellen der Geräte-ID setzt Ihre personalisierte Empfehlung zurück</string>
     <string name="restore_dialog_positive">Wiederherstellen</string>
     <string name="restore_dialog_title">Achtung</string>
-    <string name="restore_failed">Wiederherstellung fehlgeschlagen</string>
-    <string name="restore_finished">Wiederherstellung abgeschlossen</string>
+    <string name="restore_failed">Wiederherstellen fehlgeschlagen</string>
+    <string name="restore_finished">Wiederherstellen abgeschlossen</string>
     <string name="restore_is_running">Gerät wiederherstellen</string>
     <string name="restore_launcher_layout_hit">Launchereinstellungen wiederherstellen</string>
     <string name="restore_oaid_content">Setzen Sie Ihre virtuelle ID zurück, um Ihre Verhaltens- und Präferenzaufnahmen zu löschen</string>
@@ -7938,7 +7938,7 @@ UT Interface: %5$s"</string>
     <string name="restore_oaid_title">Virtuelle ID zurücksetzen</string>
     <string name="restore_progress">Wiederherstellen…</string>
     <string name="restore_report">Wiederherstellungsbericht</string>
-    <string name="restore_telephony_hit">Wiederherstellung startet die Telefon-App neu</string>
+    <string name="restore_telephony_hit">Wiederherstellen startet die Telefon-App neu</string>
     <string name="restr_pin_enter_admin_pin">Admin-PIN eingeben</string>
     <string name="restrict_background_blacklisted">Hintergrunddaten ausgeschaltet</string>
     <string name="restrict_background_blocklisted">Hintergrunddaten ausgeschaltet</string>
@@ -9876,12 +9876,12 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="task_restore_none">Nichts zum Wiederherstellen</string>
     <string name="task_running_backup_dialog">Sicherung läuft. Zum Anzeigen OK drücken.</string>
     <string name="task_running_backup_hint">Vorgang läuft bereits im Hintergrund</string>
-    <string name="task_running_dialog">Sicherung und Wiederherstellung läuft. Zum Anzeigen OK drücken.</string>
+    <string name="task_running_dialog">Sichern und Wiederherstellen läuft. Zum Anzeigen OK drücken.</string>
     <string name="task_running_hint">Vorgang läuft bereits im Hintergrund</string>
-    <string name="task_running_restore_dialog">Wiederherstellung läuft. Zum Anzeigen OK drücken.</string>
+    <string name="task_running_restore_dialog">Wiederherstellen läuft. Zum Anzeigen OK drücken.</string>
     <string name="task_running_restore_hint">Vorgang läuft bereits im Hintergrund</string>
     <string name="task_service_not_launched">Vorgang noch nicht gestartet</string>
-    <string name="task_stopped_exception">Wiederherstellung abgebrochen</string>
+    <string name="task_stopped_exception">Wiederherstellen abgebrochen</string>
     <string name="telephony_monitor_switch">Telefoniemonitor</string>
     <string name="telephony_monitor_switch_summary">Telefoniemonitor sammelt Protokolle, wenn er ein Problem mit der Telefonie-/Modemfunktionalität erkennt, und fordert den Benutzer auf, einen Bug zu melden</string>
     <string name="telephony_monitor_toast">Um die Änderung des Telefoniemonitors anzuwenden, starten Sie das Gerät neu</string>
@@ -10238,7 +10238,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="trans_operate_tip_for_other_android">Öffnen Sie Mi Mover auf Ihrem alten Telefon, tippen Sie auf \"Start\" und scannen Sie den QR-Code oben.</string>
     <string name="trans_pausing">Anhalten…</string>
     <string name="trans_please_waiting">Einen Moment…</string>
-    <string name="trans_progress_subdescript_br_receiver">Wiederherstellung von %1$s, %2$s abgeschlossen</string>
+    <string name="trans_progress_subdescript_br_receiver">Wiederherstellen von %1$s, %2$s abgeschlossen</string>
     <string name="trans_progress_subdescript_br_sender">Sicherung von %1$s, %2$s abgeschlossen</string>
     <string name="trans_progress_subdescript_br_sender_finish">%s gesichert, auf Senden warten…</string>
     <string name="trans_progress_subdescript_transing_receiver">%1$s empfangen, %2$s abgeschlossen</string>
@@ -11484,7 +11484,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
 %1$d. Sie konnten WLAN nicht aktivieren.
 %2$d. WLAN ist langsam.
 %3$d. Andere WLAN-Funktionen funktionieren nicht."</string>
-    <string name="wifi_repair_fail_desc">Ein Fehler ist aufgetreten, der die Wiederherstellung der WLAN-Funktionalität verhindert hat.</string>
+    <string name="wifi_repair_fail_desc">Ein Fehler ist aufgetreten, der das Wiederherstellen der WLAN-Funktionalität verhindert hat.</string>
     <string name="wifi_repair_fail_title">Wiederherstellen nicht möglich</string>
     <string name="wifi_repair_ongoing">Wiederherstellen… Verlassen Sie diese Seite nicht.</string>
     <string name="wifi_repair_pass_desc">Bitte prüfen Sie, ob Ihr Problem behoben ist, wenn nicht, geben Sie bitte unserem Ingenieur eine Rückmeldung</string>
