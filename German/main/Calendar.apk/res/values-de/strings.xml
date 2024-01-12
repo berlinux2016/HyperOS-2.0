@@ -865,7 +865,7 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts Wichtiges verpassen."
     <string name="travel_item_trafic">Verkehr</string>
     <string name="travel_item_virtual_sim">Mi Virtuelle SIM</string>
     <string name="travel_item_weather_forecast">Vorhersage Reiseziel</string>
-    <string name="travel_item_weather_now">Wetter Reiseziel</string></string>
+    <string name="travel_item_weather_now">Wetter Reiseziel</string>
     <string name="travel_load_failed">Laden fehlgeschlagen</string>
     <string name="travel_loading">Einen Moment…</string>
     <string name="travel_local">Ziel</string>
