@@ -5,7 +5,7 @@
     <string name="action_bar_title">Bei %1$s anmelden</string>
     <string name="action_continue">Fortfahren</string>
     <string name="action_do_not_use_network">Dieses Netzwerk nicht verwenden</string>
-    <string name="action_use_network">Dieses Netzwerk so wie es ist verwenden</string>
+    <string name="action_use_network">Dieses Netzwerk so verwenden, wie es ist</string>
     <string name="call_notification_answer_action">Annehmen</string>
     <string name="call_notification_decline_action">Ablehnen</string>
     <string name="call_notification_hang_up_action">Auflegen</string>
