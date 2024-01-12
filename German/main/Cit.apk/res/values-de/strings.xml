@@ -164,7 +164,8 @@ Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikr
     <string name="cit_calibration_finish">Kalibrierungsdaten schreiben abgeschlossen</string>
     <string name="cit_calibration_pass">Kalibrierung bestanden</string>
     <string name="cit_camera_cali_title">Kamera-Kalibrierungstest</string>
-    <string name="cit_camera_check_summary">"Testanleitung: \n\n
+    <string name="cit_camera_check_summary">"Testanleitung:
+
 1. Tippen Sie auf die Kamera-Taste unten, um die Kamera-Vorschauoberfläche aufzurufen
 2. Tippen Sie auf die Auslösetaste.
 3. Das System speichert das Foto automatisch nach der Aufnahme.
@@ -486,52 +487,41 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
     <string name="cit_tool_wlan_tx_bg_txrt">Datenrate:</string>
     <string name="cit_tool_wlan_tx_n_bandwidth">Bandbreite:</string>
     <string name="cit_tool_wlan_tx_n_chan">Kanal:</string>
+    <string name="cit_tool_wlan_tx_n_txrt">Datenrate: MCS</string>
     <string name="cit_tool_wlan_tx_st_chan">Kanal:</string>
-    <string name="cit_tool_wlan_txrx_chain_selection">Antenne auswählen</string>
+    <string name="cit_tool_wlan_txrx_chain_selection">Antenne wählen</string>
     <string name="cit_tool_wlan_update_ap_list">AP-Liste aktualisieren</string>
     <string name="cit_top_left_speaker_test">Test oberer Lautsprecher links</string>
     <string name="cit_top_right_speaker_test">Test oberer Lautsprecher rechts</string>
     <string name="cit_torch">Blitz</string>
     <string name="cit_torch_first">Der erste Blitz</string>
-    <string name="cit_torch_modify">Blitzlicht modifizieren</string>
-    <string name="cit_torch_off">Blitzlicht ausschalten</string>
-    <string name="cit_torch_on">Blitzlicht einschalten</string>
     <string name="cit_torch_second">Der zweite Blitz</string>
     <string name="cit_touch_auto_main_tips">Selbsttest Startbildschirm läuft, bitte den Bildschirm nicht berühren</string>
     <string name="cit_touch_auto_operate_expand_screen_tips">Bitte erst den Bildschirm erweitern und dann den Selbsttest des Hauptbildschirms durchführen</string>
     <string name="cit_touch_auto_operate_fold_screen_tips">Bitte erst den Bildschirm falten und dann den Selbsttest des zweiten Bildschirms durchführen</string>
     <string name="cit_touch_auto_vice_tips">Selbsttest des Unterbildschirms läuft, bitte den Bildschirm nicht berühren</string>
-    <string name="cit_touch_calib_fail">Touch-Kalibrierung fehlgeschlagen, bitte erneut versuchen</string>
-    <string name="cit_touch_calib_instruction">Kalibrierung starten</string>
-    <string name="cit_touch_calib_pass">Touch-Kalibrierung bestanden, bitte normal verwenden</string>
-    <string name="cit_touch_calib_summary">Nächster Schritt führt die Touch-Kalibrierung durch, drücken Sie die Bestätigen-Taste und berühren Sie danach nicht den Bildschirm, warten Sie auf den Erfolgshinweis der Kalibrierung</string>
-    <string name="cit_touch_calib_title">Touch-Kalibrierung</string>
     <string name="cit_touch_fw_mode">FW-Modus</string>
     <string name="cit_touch_panel_nead_pencil_tip">Bitte verwenden Sie wieder den Stift zum Testen</string>
     <string name="cit_touch_panel_test_title">Berührungssensor</string>
     <string name="cit_touch_panel_test_title_N8">Berührungssensor</string>
     <string name="cit_touch_thp_mode">THP-Modus</string>
-    <string name="cit_touch_work_mode_test_help">"Gebrauchsanweisung: 
+    <string name="cit_touch_work_mode_test_help">"Gebrauchsanweisung:
 Auf die Taste tippen, um den Berührungsmodus auf THP-Modus oder FW-Modus umzuschalten".</string>
     <string name="cit_touch_work_mode_test_title">Berühren schaltet zum THP-Modus-Test</string>
     <string name="cit_touch_work_summary">Berühren schaltet den THP-Modus um</string>
     <string name="cit_touch_work_switch_tips">Bildschirm nicht berühren und warten, bis der Moduswechsel abgeschlossen ist</string>
-    <string name="cit_tpdump_check_summary">Bitte auf die Taste tippen, um die Touch-Anzeigefunktion zu aktivieren oder zu deaktivieren</string>
-    <string name="cit_tpdump_close">Anzeige deaktivieren</string>
-    <string name="cit_tpdump_open">Anzeige aktivieren</string>
-    <string name="cit_tpdump_reset">Anzeige zurücksetzen</string>
-    <string name="cit_ultra_camera_check_title">Ultra-Weitwinkelkameratest</string>
-    <string name="cit_usb_OTG_error_condition">"USB-Gerät ist angeschlossen, Geräteinformationen aber nicht abrufnbar.
+    <string name="cit_ultra_camera_check_title">Ultra-Kamera</string>
+    <string name="cit_usb_OTG_error_condition">"USB-Gerät ist angeschlossen, Geräteinformationen aber nicht abrufbar.
 Test fehlgeschlagen!"</string>
-    <string name="cit_usb_OTG_in">USB OTG-Gerät ist angeschlossen, bitte entfernen und bei USB Typ C umgedreht wieder einstecken</string>
+    <string name="cit_usb_OTG_in">USB_OTG-Gerät ist angeschlossen, bitte entfernen und umgedreht wieder einstecken</string>
     <string name="cit_usb_OTG_in_charge">USB OTG-Gerät erkannt</string>
-    <string name="cit_usb_OTG_in_need_plugout">USB OTG-Gerät ist angeschlossen, bitte erst entfernen</string>
-    <string name="cit_usb_OTG_out">USB OTG-Gerät entfernt, bitte bei USB Typ C umgedreht wieder einstecken</string>
-    <string name="cit_usb_OTG_plug_in_start_test">Bitte USB OTG-Gerät anschließen und Test beginnen</string>
-    <string name="cit_usb_OTG_plug_out_test_complete">USB OTG-Gerät entfernt，Test abgeschlossen</string>
-    <string name="cit_usb_OTG_plug_re_plugin">USB OTG-Test abgeschlossen, erneuter Test nicht nötig</string>
-    <string name="cit_usb_charger_in">Über USB laden</string>
-    <string name="cit_usb_charger_out">USB-Ladegerät entfernt</string>
+    <string name="cit_usb_OTG_in_need_plugout">USB_OTG-Gerät ist angeschlossen, bitte erst entfernen</string>
+    <string name="cit_usb_OTG_out">USB_OTG-Gerät entfernt, bitte umgedreht wieder einstecken</string>
+    <string name="cit_usb_OTG_plug_in_start_test">Bitte USB_OTG-Gerät anschließen und Test beginnen</string>
+    <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG-Gerät entfernt，Test abgeschlossen</string>
+    <string name="cit_usb_OTG_plug_re_plugin">USB_OTG-Test abgeschlossen, erneuter Test nicht nötig</string>
+    <string name="cit_usb_charger_in">Laden über (USB)</string>
+    <string name="cit_usb_charger_out">Ladegerät entfernt</string>
     <string name="cit_uwb_calibrate_color_black">Schwarz</string>
     <string name="cit_uwb_calibrate_color_cali_tip">Bitte wählen Sie die hintere Hülle des Geräts, bevor Sie die Datenkalibrierung durchführen</string>
     <string name="cit_uwb_calibrate_color_gray">Grau</string>
@@ -539,79 +529,40 @@ Test fehlgeschlagen!"</string>
     <string name="cit_uwb_calibrate_data_cali_tip">Datenkalibrierung</string>
     <string name="cit_uwb_calibrate_summary">Dieser Test ist für Wartungstechniker gedacht, bitte nutzen Sie ihn mit Bedacht</string>
     <string name="cit_uwb_calibrate_title">UWB-Kalibrierungstest</string>
-    <string name="cit_version_check_summary">Unten finden Sie Informationen zur OS-Version. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
+    <string name="cit_version_check_summary">Unten finden Sie Infos zur OS-Version. Vergewissern Sie sich, dass die grün markierte Info korrekt ist.</string>
     <string name="cit_version_check_title">Versionsinfo prüfen</string>
-    <string name="cit_vga_camera_cameraid_fail">Fehler: cameraid nicht konfiguriert</string>
     <string name="cit_vga_camera_cameralist_fail">Fehler: cameralist stimmt nicht überein</string>
-    <string name="cit_vga_camera_capture">Kamera</string>
-    <string name="cit_vga_camera_capture_fail">Fotografieren fehlgeschlagen</string>
-    <string name="cit_vga_camera_delete">Löschen</string>
-    <string name="cit_vga_camera_deleted">Foto gelöscht</string>
-    <string name="cit_vibrator_check">Vibratortest</string>
-    <string name="cit_vibrator_check_summary">Prüfen Sie, ob die Vibration (lang und kurz) normal funktioniert</string>
-    <string name="cit_vibrator_haptic">Haptik</string>
-    <string name="cit_vibrator_load_down_pattern">Muster nach unten</string>
-    <string name="cit_vibrator_load_up_pattern">Muster nach oben</string>
-    <string name="cit_vibrator_long">Lange Vibration</string>
-    <string name="cit_vibrator_short">Kurze Vibration</string>
-    <string name="cit_vibrator_show_advanced">Erweiterte Optionen anzeigen</string>
+    <string name="cit_vibrator_check">Vibrationstest</string>
+    <string name="cit_vibrator_check_summary">"Lange oder kurze Vibration treten zufällig im Test auf.
+Bitte wählen Sie die richtige Taste entsprechend den verschiedenen Vibrationsbedingungen."</string>
     <string name="cit_vice_display_check_summary">"Nach Einschalten des kleinen Bildschirms und einem Doppeltipp zum Aufhellen des Bildschirms:
 Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt werden. Prüfen Sie, ob es keine unregelmäßigen hellen und dunklen Flecken gibt."</string>
-    <string name="cit_vice_display_check_title">Stellvertreter-Anzeige</string>
+    <string name="cit_vice_display_check_title">Stellvertreter-Bildschirm</string>
     <string name="cit_vice_touch_panel_test_summary">Nach Einschalten des kleinen Bildschirms und einem Doppeltipp zum Aufhellen des Bildschirms müssen Sie den Bildschirm umdrehen und auf den hinteren kleinen Bildschirm doppelt tippen, um den Bildschirm aufzuhellen, und auf dem kleinen Bildschirm ein Kreuz entlang des Rasters zeichnen.</string>
     <string name="cit_vice_touch_panel_test_tips">Bitte bestätigen Sie, dass der kleine Bildschirm und der Doppeltipp zum Einschalten des Bildschirms am kleinen Bildschirm auf der Rückseite eingeschaltet sind, dann tippen Sie.</string>
     <string name="cit_vice_touch_panel_test_title">Stellvertreter-Berührungssensor</string>
-    <string name="cit_voc_data_humidity">Luftfeuchtigkeit</string>
-    <string name="cit_voc_data_pressure">Druck</string>
-    <string name="cit_voc_data_sensor_check_summary">Werte für VOC, Temperatur, Luftfeuchtigkeit, Druck sollten unten stehen</string>
-    <string name="cit_voc_data_temperature">Temperatur</string>
     <string name="cit_wifi_address_check_summary">Nachfolgend die Adresse des WLAN, mit dem das Gerät gerade verbunden ist. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
     <string name="cit_wifi_address_check_title">WLAN-Adresse</string>
-    <string name="cit_wifi_address_error">WLAN-Adresse nicht ermittelt. Stellen Sie sicher, dass WLAN aktiviert ist.</string>
-    <string name="cit_wifi_ap_scan_check_summary">Nachfolgend finden Sie die WLAN-AP-Informationen der erkannten Geräte in der Umgebung. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
+    <string name="cit_wifi_address_error">WLAN-Adresse nicht erhalten. Stellen Sie sicher, dass WLAN aktiviert ist.</string>
+    <string name="cit_wifi_ap_scan_check_summary">Nachfolgend finden Sie die WLAN-AP-Info der erkannten Geräte in der Umgebung. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
     <string name="cit_wifi_ap_scan_check_title">WLAN-AP-Scan</string>
     <string name="cit_wifi_ap_scan_retry">Erneut scannen…</string>
     <string name="cit_wifi_ap_scanning">Scannen…</string>
     <string name="cit_wifi_fail_to_scan">Nach Netzwerken scannen nicht möglich</string>
     <string name="cit_wifi_state_refresh">Aktualisieren</string>
     <string name="cit_x_tele_camera_check_title">Super-Telekamera</string>
-    <string name="cit_yellow_torch_on">Gelbes Blinklicht einschalten</string>
     <string name="close_third_color_led">Dreifarbige LED schließen</string>
     <string name="cold_light_title">Kaltes Licht</string>
     <string name="continue_vibrator">Mit Vibration fortfahren</string>
     <string name="current_angle">Aktueller Winkel:</string>
-    <string name="dc_backlight_title">DC-Hintergrundbeleuchtungsmodus für schlechtes Licht</string>
-    <string name="delete">Löschen</string>
     <string name="dispaly_sar_sensor_values">Alle aktuellen Sensorwerte anzeigen</string>
     <string name="display_test_finish">Bildschirmtest abgeschlossen</string>
     <string name="dsi_sar_on_off_tips">DSI SAR Ein/Aus-Schalter</string>
-    <string name="edittextdisplay">"
-\u0009\u0009\u0009Willkommen bei SAR-Tool !
-
-\u0009\u0009\u0009Alle Berechtigungen wurden aktiviert
-\u0009\u0009\u0009SAR-Schalter ist aus, bitte manuell einschalten
-\u0009\u0009\u0009SAR gesperrt, bitte DSI-Wert einstellen"</string>
-    <string name="edittextdisplayf">"
-\u0009\u0009\u0009Berechtigungen wurden eingeschränkt
-
-\u0009\u0009Stellen Sie sicher, dass die xml-Datei im internen
-\u0009\u0009\u0009Netzwerk und im Antwortpfad übergeben wird:
-\u0009\u0009/sdcard/debug/UrlSign.xml"</string>
+    <string name="edittextdisplay">Willkommen bei SAR-Tool!</string>
+    <string name="edittextdisplayf">Berechtigungen wurden eingeschränkt!!!</string>
     <string name="enrol">Registrieren</string>
     <string name="enrollment_error_tip">Die Strategie zur Kontrolle der Fingerabdruck-Eingabekarte wurde ausgelöst. Bitte stellen Sie sicher, dass die Fingerabdrücke klar und sauber sind, oder beenden Sie den aktuellen Prüfling und starten Sie den Test erneut.</string>
-    <string name="error">Fehler</string>
-    <string name="error_app_internal">Interner App-Fehler</string>
-    <string name="error_app_unsupported">Nicht unterstütztes Format</string>
-    <string name="error_failed_to_get_data">Keine Daten erhalten</string>
-    <string name="error_file_not_found">Daten nicht gefunden</string>
-    <string name="error_getting_sensor_info">Fehler beim Abrufen von Sensorinformationen</string>
-    <string name="error_initializing_sensor">Fehler beim Initialisieren des Sensors: %1$s</string>
-    <string name="error_sdcard_access">Zugriff auf Systemspeicher nicht möglich!</string>
-    <string name="error_unknown_error">Unbekannter Fehler</string>
-    <string name="fail">Fehlgeschlagen</string>
     <string name="failed_to_get_permission">Erkennung der Cloud-Steuerung fehlgeschlagen und einige Funktionen verloren</string>
-    <string name="failed_to_test">TEST FEHLGESCHLAGEN</string>
-    <string name="fingerprint">Fingerabdruck:</string>
     <string name="fingerprint_input_title">Fingerabdruck-Eingabetest</string>
     <string name="firstplug_mic_check_record_tip">Aufnahme stoppen. Wenn Sie das Headset eingesteckt haben, bestätigen Sie das Ergebnis.</string>
     <string name="fod_check_start_error">"Sensorprüfprogramm kann nicht gestartet werden.
@@ -624,126 +575,40 @@ Basierend auf dem Testergebnis auf die Taste Bestanden oder Fehlgeschlagen tippe
 Test fehlgeschlagen!"</string>
     <string name="fod_fingerprint_input_description">FOD-Fingerabdruck-Eingabetest</string>
     <string name="fod_fingerprint_input_title">FOD-Fingerabdruck-Eingabetest</string>
-    <string name="fod_pressure_sensor_pressure_data_collection">Abdruckdatenerfassung…</string>
-    <string name="fod_pressure_sensor_test_exception">Ausnahmefehler beim Lesen der Knoten-Datei</string>
-    <string name="fod_pressure_sensor_test_fail">Test fehlgeschlagen, bitte auf die Taste Fehlgeschlagen tippen.</string>
-    <string name="fod_pressure_sensor_test_pressure_too_big">"Sensordurchschnittsdruck zu stark: %1$d
-Test fehlgeschlagen, bitte auf die Taste Fehlgeschlagen tippen."</string>
-    <string name="fod_pressure_sensor_test_pressure_too_small">"Sensordurchschnittsdruck zu gering: %1$d
-Test fehlgeschlagen, bitte auf die Taste Fehlgeschlagen tippen."</string>
-    <string name="fod_pressure_sensor_test_success">"Sensordurchschnittsdruck: %1$d
-Test erfolgreich, bitte auf die Taste Bestanden tippen."</string>
-    <string name="fod_pressure_sensor_test_summary">Legen Sie das Gewicht in die angegebene Position</string>
-    <string name="fod_pressure_sensor_test_title">FOD-Drucksensortest</string>
-    <string name="fp_fod_calibration">FOD Fingerabdruckkalibrierung</string>
-    <string name="fpc_app_name">Sensortesttool</string>
-    <string name="fpc_pn_calibration">PN-Bild erfassen und speichern</string>
     <string name="front_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Vorderseite des Geräts.</string>
     <string name="get_CABLE">KABEL</string>
     <string name="get_WIFI">WLAN</string>
-    <string name="get_base_finger">Bild entpacken: Basisfinger erhalten</string>
     <string name="get_dsi_tips">DSI erhalten</string>
-    <string name="get_finger_data">Bild entpacken: Abtastung der Fingerdaten</string>
-    <string name="get_sample_finger">Bild entpacken: Musterfinger erhalten</string>
-    <string name="get_sensor_info">SENSORINFO ERFASSEN</string>
-    <string name="get_template_finger">Bild entpacken: Vorlagenfinger erhalten</string>
-    <string name="gpu_maxfreq_title">GPU-Overfreq-Modus ist experimentell</string>
-    <string name="headset_key">Headset-Taste</string>
-    <string name="headset_key_tip">Sie müssen die Headset-Taste testen, bevor Sie mit dem nächsten Test fortfahren können.</string>
     <string name="headset_plug_check_tip">Jetzt spielen Sie das Band ab, hören Sie sich das Headset an. Bitte ziehen Sie das Headset heraus, wenn Sie den Test beenden.</string>
-    <string name="headset_plug_record_tip">Aufnahme starten</string>
     <string name="headset_press">Drücken</string>
     <string name="headset_record">Aufnahme, bitte sprechen Sie ins Headset, und die Aufnahme wird innerhalb von 3 Sekunden gestoppt.</string>
-    <string name="headset_test">Dadurch werden das Einstecken des Headsets, das Herausziehen, das Headset-Mikrofon und die Headset-Taste getestet, und alle Tests werden erfolgreich sein.</string>
+    <string name="headset_test">Headset-Test</string>
     <string name="headset_test_tips">Damit werden das Einstecken und Herausziehen des Headsets, das Headset-Mikro und die Headset-Taste getestet, und alle Tests sind erfolgreich.</string>
     <string name="headset_unplug_check_tip">Bitte stecken Sie das Headset ein.</string>
-    <string name="headset_unplug_tip">Bitte stecken Sie das Headset ein.</string>
-    <string name="hello_world">Hallo Welt!</string>
-    <string name="image_quality_test">BILDQUALITÄTSTEST</string>
-    <string name="init">Initialisieren</string>
-    <string name="interphone_oper_result">Ergebnisse werden hier angezeigt</string>
-    <string name="interphone_test">Sprechanlagentest</string>
-    <string name="interphone_test_set_409_mhz">409 MHz einstellen</string>
-    <string name="interphone_test_set_430_mhz">430 MHz einstellen</string>
-    <string name="interphone_test_switch_to_receive_mode">In den Empfangsmodus wechseln</string>
-    <string name="interphone_test_switch_to_transmit_mode">In den Sendemodus wechseln</string>
     <string name="interval_vibrator">Intervallvibration</string>
-    <string name="intro_message">Dieses Beispiel zeigt die grundsätzliche Nutzung von Camera2 API. Prüfen Sie den Quellcode, um zu sehen, wie Sie die Kameravorschau anzeigen und Bilder aufnehmen können.</string>
-    <string name="ir_camera_led_test_description">Strukturierter Licht-LED-Test</string>
-    <string name="ir_camera_led_test_summary">"Testanleitung:
-1. Auf die Vorschautaste tippen, um die Kamera aufzurufen.
-2. Folgende Elemente werden zufällig eingeschaltet. Bitte wählen Sie den aktuellen LED-Status aus."</string>
-    <string name="ir_camera_led_test_title">Strukturierter Licht-LED-Test</string>
-    <string name="ir_camera_test_description">IR-Kameratest</string>
-    <string name="ir_camera_test_summary_capture">"Testanleitung:
-1. Auf die Kamerataste tippen, um die IR-Kameras aufzurufen.
-2. Tippen, um Fotos aufzunehmen.
-3. Das System speichert das Foto automatisch nach der Aufnahme.
-4. Wenn das am aktuellen Bildschirm angezeigte Foto angesehen wurde, weiter tippen."</string>
-    <string name="ir_camera_test_summary_preview">"Testanleitung:
-1. Auf die Vorschautaste tippen, um die Kamera aufzurufen.
-2. Warten, bis die Vorschau beendet ist und automatisch zurückkehren."</string>
-    <string name="ir_camera_test_title">IR-Kameratest</string>
     <string name="keyboard">TASTE</string>
     <string name="keyboard_vibrator_test">Tastaturtest</string>
-    <string name="keyboard_vibrator_test_old">Tastatur- und Vibrationstest</string>
-    <string name="keys_times">Tastenzeiten:</string>
-    <string name="lastTestResult">Letztes Testergebnis:</string>
-    <string name="last_time_test_result">LETZTES TESTERGEBNIS</string>
-    <string name="launcher_d5x_sar_summary">Die Ausgangsdaten der einzelnen Kanäle des SAR-Sensors werden unten angezeigt. Bitte kehren Sie zum SAR-Kalibriergerät zurück und tippen Sie auf Kalibrierung starten. Wenn die Kalibrierung BESTANDEN anzeigt, dann zeigt er normal an. Bitte beachten Sie, es zeitnah geschieht und sich die Hände nicht in der Nähe des Mobiltelefons befinden.</string>
     <string name="lcminfo">LCM Information</string>
-    <string name="led_tip_txt">Die folgenden Elemente werden nach dem Zufallsprinzip eingeschaltet. Bitte wählen Sie den aktuellen Status der Leuchte aus.</string>
-    <string name="magnetic_info_hint">Bitte drehen Sie das Gerät in Form einer 8</string>
-    <string name="main_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Hauptseite des Geräts.</string>
-    <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
-    <string name="material_hour_selection">Stunde auswählen</string>
-    <string name="material_hour_suffix">%1$s Uhr</string>
-    <string name="material_minute_selection">Minuten auswählen</string>
-    <string name="material_minute_suffix">%1$s Minuten</string>
-    <string name="material_slider_range_end">Bereichsende</string>
-    <string name="material_slider_range_start">Bereichsanfang</string>
-    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
-    <string name="material_timepicker_hour">Stunde</string>
-    <string name="material_timepicker_minute">Minute</string>
-    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
-    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="main_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon an der Unterseite des Geräts.</string>
     <string name="mic1_spk_loop">Mikrofon-Lautsprecher-Loop</string>
-    <string name="mic1test">MIK1</string>
     <string name="mic_check_rm_headset_tip">Nehmen Sie zunächst das Headset ab und nehmen Sie Ton auf.</string>
     <string name="mic_reopen_tip">Bitte geben Sie diesen Prüfling erneut zur Prüfung ein</string>
-    <string name="mic_tip">Bitte machen Sie ein Geräusch ins Mikrofon. Wenn Sie das Headset eingesteckt haben, hören Sie sich den Ton auf dem Headset an.</string>
+    <string name="mic_tip">Bitte machen Sie ein Geräusch ins Mikro. Wenn Sie das Headset eingesteckt haben, hören Sie sich den Ton auf dem Headset an.</string>
     <string name="mic_volume_height_tip">MIKRO-Lautstärketest BESTANDEN</string>
     <string name="mic_volume_low_tip">MIKRO-Lautstärketest nicht bestanden. Bitte machen Sie bei der Aufnahme einen lauteren Ton.</string>
-    <string name="micphone_test">Mikrofon &amp; Lautsprecher</string>
     <string name="motor_calibration">Motorkalibrierung</string>
-    <string name="mtb_tool_modem_user_panel">Bedienfeld</string>
-    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
-    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
-    <string name="next">Nächste</string>
-    <string name="next_step">Nächster Schritt</string>
     <string name="nfc_disable_tip">Bitte NFC-Funktion einschalten</string>
     <string name="nfc_not_available">NFC nicht verfügbar</string>
-    <string name="no">Nein</string>
     <string name="no_vibrator">Keine Vibration</string>
-    <string name="noise">Geräusch:</string>
-    <string name="open_dc_backlight_summary">Bestimmte Anzeigeeinstellungen sind nicht mit dem DC-Hintergrundbeleuchtungsmodus kompatibel. Sie werden jedoch wiederhergestellt, wenn Sie diesen Modus ausschalten. Modus einschalten?</string>
     <string name="open_third_color_led">Dreifarbige LED öffnen</string>
-    <string name="pass">Bestanden</string>
     <string name="password_enroll_error">Ihr Telefon hat ein Passwort, Fingerabdruckdaten können nicht erfasst werden</string>
-    <string name="phone_not_been_restarted">Gerät ist nicht neu gestartet</string>
-    <string name="picture">Bild</string>
     <string name="plugout_and_reverse_plugin">"
-Bitte das Ladegerät rausziehen und umgedreht wieder anstecken."</string>
+Bitte das Ladegerät rausziehen und umgedreht wieder einstecken."</string>
     <string name="pop_camera">Pop-Kamera</string>
     <string name="pop_push_camera_test_summary">"Auf die Popup-Kamerataste tippen, um zu sehen, ob die Kamera ausfährt.
 Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="pop_push_camera_test_title">Pop- und Push-Kameratest</string>
     <string name="push_camera">Push-Kamera</string>
-    <string name="radio_boy">Männerstimme</string>
-    <string name="radio_chinese">Chinesisch</string>
-    <string name="radio_configuration_set">Funkkonfiguration einstellen</string>
-    <string name="radio_english">Englisch</string>
-    <string name="radio_gril">Frauenstimme</string>
     <string name="radio_info_call_status_label">Sprachanrufstatus:</string>
     <string name="radio_info_cellinfo_label">Alle Infos zur Zellenmessung:</string>
     <string name="radio_info_current_network_label">Aktuelles Netzwerk:</string>
@@ -771,58 +636,23 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="radio_info_signal_strength_label">Signalstärke:</string>
     <string name="radio_info_unknown">Unbekannt</string>
     <string name="radio_info_voice_network_type_label">Sprachnetzwerktyp:</string>
-    <string name="radio_no">Nicht hörbar</string>
-    <string name="reboot_times">Neustartzeiten:</string>
     <string name="receiver_off">Empfänger Aus</string>
     <string name="receiver_on">Empfänger Ein</string>
     <string name="receiver_on_off_tips">Empfänger Ein/Aus-Schalter</string>
-    <string name="refresh_number_of_keys">Tastenanzahl aktualisieren</string>
-    <string name="removeFingerprint">Fingerabdruck entfernen</string>
-    <string name="remove_finger">Test Finger entfernen</string>
-    <string name="remove_headset_and_starttest">Bitte entfernen Sie das Headset und drücken Sie zum Testen auf Start</string>
-    <string name="request_permission">Dieses Beispiel benötigt eine Kameraberechtigung.</string>
-    <string name="resetpixel_test">PIXELTEST ZURÜCKSETZEN</string>
-    <string name="run">Starten</string>
-    <string name="sample_data">Musterdaten</string>
-    <string name="sample_hint">Entnehmen Sie %1$s Muster für einen Finger</string>
-    <string name="sample_progress_hint">Warten auf die Entnahme von Musterdaten</string>
+    <string name="remove_finger">Testfinger entfernen</string>
     <string name="sar_algo_data_check_description">SAR Algo Datenerfassung</string>
     <string name="sar_authentation_test_title">SAR-Authentisierungstest</string>
     <string name="sar_mtk_test_title">SAR MTK Authentisierungstest</string>
     <string name="sar_off">SAR Aus</string>
     <string name="sar_on">SAR Ein</string>
-    <string name="sar_sensor_calibrate">Kalibrierung starten</string>
     <string name="sar_sensor_calibrate_fail">Kalibrierung SAR-Sensor fehlgeschlagen</string>
     <string name="sar_sensor_calibrate_success">Kalibrierung SAR-Sensor erfolgreich</string>
     <string name="sar_sensor_collect_data">Datenerfassung starten</string>
     <string name="sar_sensor_collect_data_self_cali">Selbstkalibrierung</string>
-    <string name="sar_sensor_collect_data_test_summary">"Das Gerät drehen, um sicherzustellen, dass der Echtzeitwinkel zwischen 130-140 Grad liegt.
-Andere Hand vom Gerät fernhalten, auf die Taste Datenerfassung starten tippen und die Werte von CS0 und CS1 beobachten.
-Der absolute Wert von CS0 ist kleiner als 200 und der Wert von CS1 ist größer als 300. Nach 5 aufeinanderfolgenden Malen befindet
-sich die andere Hand in der Nähe der Unterseite des Mobiltelefons. Der Wert von CS0 ist 3 mal nach 3000 bis 30000 und wird durch die Taste hervorgehoben."</string>
     <string name="sar_sensor_collect_test_summary">"Gerät drehen und in die Halterung legen.
 Auf die Taste Datenerfassung starten tippen.
-Das Gerät in die Nähe und vom Gerät weg bewegen"</string>
+Steuerung der Halterung in der Nähe des Geräts und weiter weg."</string>
     <string name="sar_sensor_data_check_description">SAR-Sensordaten sammeln</string>
-    <string name="sar_sensor_data_check_summary">"Halten Sie die Oberseite des Geräts mit einer Hand.
-Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.
-Halten Sie die andere Hand vom Gerät fern.
-Sehen Sie sich den CS0-Wert an.
-Wenn der CS0-Wert kleiner als 500 und der CS2-Wert größer als 10000 ist,
-halten Sie die andere Hand dicht an die Unterseite des Geräts.
-Sehen Sie sich den CS0-Wert an.
-Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markiert."</string>
-    <string name="sar_sensor_data_check_summary_1">"Halten Sie die Oberseite des Geräts mit einer Hand.
-Stellen Sie sicher, dass der tatsächliche Winkel etwa 45 Grad beträgt.
-Halten Sie die andere Hand vom Gerät fern.
-Sehen Sie sich den CS0-Wert an.
-Wenn der CS0-Wert kleiner als 500 und der CS2-Wert größer als 5000 ist,
-halten Sie die andere Hand dicht an die Unterseite des Geräts.
-Sehen Sie sich den CS0-Wert an.
-Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markiert."</string>
-    <string name="sar_sensor_set">SAR-Sensor einstellen</string>
-    <string name="sar_sensor_setting">SAR-Sensor-Status</string>
-    <string name="sar_sensor_test_description">SAR-Sensor kalibieren und Daten sammeln</string>
     <string name="sar_sensor_test_err_angle">Gerät ist nicht im rechten Winkel platziert</string>
     <string name="sar_sensor_test_next_step">Trennwand in der Nähe des Mobiltelefons steuern</string>
     <string name="sar_sensor_test_success">SAR Sensortest erfolgreich</string>
@@ -830,57 +660,25 @@ Wenn der CS0-Wert zwischen 3000 und 30000 liegt, ist die Bestanden-Taste markier
 Auf die Kalibrierungtaste starten tippen.
 Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weiter weg prüfen."</string>
     <string name="sar_sensor_test_timeout">Timeout SAR Sensortest</string>
-    <string name="screen_cancel">Ausschalten</string>
-    <string name="screen_confirm">Einschalten</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="select">Wählen</string>
-    <string name="select_all">Alle auswählen</string>
-    <string name="select_automatic">Automatisch wählen</string>
-    <string name="select_manual">Manuell wählen</string>
-    <string name="select_none">Nichts wählen</string>
-    <string name="selftest">SELBSTTEST</string>
-    <string name="sensor_information">Sensorinformation</string>
     <string name="set_dsi_tips">DSI festlegen</string>
-    <string name="show_log">Protokoll anzeigen</string>
     <string name="sidebottom_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO am unteren Seitenrand des Geräts</string>
     <string name="sidetop_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins MIKRO am oberen Seitenrand des Geräts</string>
     <string name="slave_battery_authentic">Zweitakku authentisch</string>
     <string name="soft_light_title">Weiches Licht</string>
-    <string name="sound_file_delete">Sounddatei ist nicht beendet, Abspielen nicht möglich!</string>
     <string name="speak_from_mic">Ins Mikrofon sprechen, der Lautsprecher gibt es wieder. Beurteilen Sie, ob es Geräusche gibt.</string>
-    <string name="start">Starten</string>
-    <string name="start_extract_sample">Mit der Musterentnahme beginnen</string>
-    <string name="start_extract_template">Mit der Vorlagenentnahme beginnen</string>
-    <string name="start_far">FAR starten</string>
-    <string name="start_frr">FRR starten</string>
-    <string name="status_failed">Ein oder mehrere Tests fehlgeschlagen</string>
-    <string name="status_passed">Bestanden</string>
-    <string name="status_running">Läuft</string>
-    <string name="success_extract_sample">Fertig zur Entnahme von Musterdaten</string>
-    <string name="success_extract_template">Fertig zur Entnahme von Vorlagendaten</string>
-    <string name="success_get_finger_data">Bild entpacken: Erfassung von Fingerdaten erfolgreich</string>
-    <string name="success_to_test">TEST ERFOLGREICH</string>
     <string name="successfully_obtained_permission">Erkennung der Cloud-Steuerung erfolgreich, Funktion wird wirksam</string>
     <string name="temperature">Temperatur</string>
-    <string name="template_data">Vorlagendaten</string>
-    <string name="template_hint">Entnehmen Sie %1$s Vorlagen für einen Finger</string>
-    <string name="template_progress_hint">Warten auf die Entnahme von Vorlagendaten</string>
     <string name="test_back_handset">Rückseitiger Hörertest</string>
     <string name="test_back_mic">Hinteres MIKRO</string>
-    <string name="test_cases">Testfälle</string>
     <string name="test_first_flash">Erster Blitztest</string>
     <string name="test_flash">Blitztest</string>
     <string name="test_front_handset">Vorderseite Hörertest</string>
     <string name="test_front_mic">Vorderes MIKRO</string>
-    <string name="test_headset">Test Headset</string>
     <string name="test_horn_motor_summary">"Sie werden zwei zufällige Zahlen hören.
 Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören.
 Wählen Sie die richtige Taste je nach den verschiedenen Vibrationsbedingungen."</string>
     <string name="test_main_mic">Haupt-MIKRO</string>
-    <string name="test_receiver">Empfänger</string>
-    <string name="test_receiver_summary">"Sie hören zwei Zufallszahlen.
-Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
-    <string name="test_result">TESTERGEBNIS</string>
     <string name="test_second_flash">Zweiter Blitztest</string>
     <string name="test_sidebottom_mic">SeiteUnten MIKRO</string>
     <string name="test_sidetop_mic">SeiteOben MIKRO</string>
@@ -889,17 +687,10 @@ Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
 Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="test_sub_front_camera">Unterbildschirm-Frontkamera</string>
     <string name="test_top_mic">Oberes MIKRO</string>
-    <string name="testagain">Sie können die HOME-Taste drücken, um erneut zu testen</string>
     <string name="testing">Automatischer Test läuft…</string>
     <string name="tips_not_placed_right_angle">Gerät nicht im rechten Winkel platziert</string>
-    <string name="tips_show_calibrate_result">Kalibrierungsergebnis anzeigen</string>
     <string name="tips_show_current_angle">Aktuellen Winkel anzeigen</string>
     <string name="tips_show_current_sar_sensor_data">Aktuelle Sensordaten anzeigen</string>
-    <string name="title_about">Über</string>
-    <string name="title_algo_performance">Algo Leistung</string>
-    <string name="title_bad_point">Negativer Punkt</string>
-    <string name="title_extract_data">Daten extrahieren</string>
-    <string name="title_open_short_pixel">ShortPixel öffnen</string>
     <string name="top_high_speaker_title">Test oberer Hochtöner</string>
     <string name="top_left_high_speaker">Test oberer Hochtöner links</string>
     <string name="top_left_low_speaker">Test oberer Tieftöner links</string>
@@ -909,24 +700,12 @@ Auf die jeweilige Taste entsprechend der gehörten Zahl tippen."</string>
     <string name="top_right_low_speaker">Test oberer Tieftöner rechts</string>
     <string name="top_speaker_title">Test oberer Lautsprechers</string>
     <string name="touch_auto">Touchpanel-Selbsttest läuft, bitte warten…</string>
-    <string name="touch_sefl_fail">Test fehlgeschlagen</string>
-    <string name="touch_self">Bitte Bildschirm während des Tests nicht berühren…</string>
-    <string name="touch_self_suc">Test erfolgreich</string>
     <string name="tp_color">TP Farbe:</string>
-    <string name="tp_rawdate_summery">TP Rawdata (ITO) Test, Bildschirm während des Tests nicht berühren</string>
-    <string name="transmitter_receiver_confirm">Haben Sie den Ton gehört?</string>
-    <string name="unlock">Entsperren</string>
-    <string name="unplug_headset">Bitte Headset entfernen</string>
     <string name="verified_boot_lock">Sperren</string>
     <string name="verified_boot_unlock">Entsperren</string>
     <string name="verify">Verifizieren</string>
     <string name="vibrator_change">Vibrationmodus wählen</string>
-    <string name="vibrator_test">Vibrationstest</string>
-    <string name="vibrator_test_summary">"Lange oder kurze Vibrationen treten zufällig in der Prüfung auf.
-Bitte die richtige Taste für die verschiedenen Vibrationsbedingungen wählen."</string>
-    <string name="wait_test">Auf Test warten</string>
     <string name="waiting">4 Sek warten</string>
     <string name="warm_light_title">Warmes Licht</string>
     <string name="wifi_power_test_testing">WLAN-Leistungstest…</string>
-    <string name="yes">Ja</string>
     </resources>
