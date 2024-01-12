@@ -1500,7 +1500,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="bluetooth_broadcast_dialog_broadcast_app">%1$s übertragen</string>
     <string name="bluetooth_broadcast_dialog_broadcast_message">Übertragen Sie Medien an Geräte in Ihrer Nähe, oder hören Sie sich die Übertragung eines anderen an</string>
     <string name="bluetooth_broadcast_dialog_find_message">Hören Sie sich Übertragungen an, die in Ihrer Nähe gespielt werden</string>
-    <string name="bluetooth_broadcast_dialog_text">Der freigegebene Ton wird verschlüsselt und ist für kompatible Geräte verfügbar. Während der Übertragung wird der Ton auf diesem Gerät und den verbundenen Bluetooth-Geräten nicht wiedergegeben.</string>
+    <string name="bluetooth_broadcast_dialog_text">Der Ton wird während der Übertragung automatisch verschlüsselt. Nur Geräte in der Nähe, die Audioübertragungen unterstützen, können Ihre Übertragungen finden und hören. Die Lautsprecher dieses Geräts und andere verbundene Bluetooth-Geräte, die die Audioübertragung nicht unterstützen, bleiben stumm.</string>
     <string name="bluetooth_broadcast_dialog_title">Übertragen</string>
     <string name="bluetooth_broadcast_pin_configure">Rundfunk: Bluetooth-Datenschutzcode</string>
     <string name="bluetooth_broadcast_pin_configure_dialog">Rundfunk: Bluetooth-Datenschutzcode konfigurieren</string>
@@ -2119,8 +2119,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="camera_grip_firmware_need_update">Aktualisieren</string>
     <string name="camera_grip_firmware_new_version">Aktuell</string>
     <string name="camera_grip_firmware_title_text">Firmware aktualisieren</string>
+    <string name="camera_grip_firmware_update_describe">Halten Sie den Griff während des Aktualisierungsvorgangs verbunden</string>
     <string name="camera_grip_firmware_update_faild">Aktualisieren fehlgeschlagen</string>
-    <string name="camera_grip_firmware_update_ongoing">Aktualisieren…</string>
+    <string name="camera_grip_firmware_update_ongoing">Aktualisieren. Griff nicht trennen.</string>
     <string name="camera_grip_firmware_update_successful">Erfolgreich aktualisiert</string>
     <string name="camera_key_action_app_title">App öffnen</string>
     <string name="camera_key_action_category_title">Kamera kann nicht verwendet werden</string>
@@ -3155,6 +3156,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="disable_encrypt_title">Verschlüsselung ausschalten</string>
     <string name="disable_overlays">HW-Overlays ausschalten</string>
     <string name="disable_overlays_summary">Immer GPU zur Darstellung verwenden</string>
+    <string name="disable_phantom_process_monitor_summary">Beschränkungen der Systemressourcennutzung der App-Unterprozesse deaktivieren</string>
+    <string name="disable_phantom_process_monitor_title">Einschränkungen für untergeordnete Prozesse deaktivieren</string>
     <string name="disable_power_key_long_press_under_keyguard">Power-Tastenmenü deaktivieren</string>
     <string name="disable_quick_start">Schnellstart ausschalten</string>
     <string name="disable_service_message">Wenn Sie OK drücken, wird %1$s beendet</string>
@@ -3177,6 +3180,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="disabled_by_administrator_summary">Deaktiviert durch Administrator</string>
     <string name="disabled_by_app_ops_text">Kontrolliert durch eingeschränkte Einstellung</string>
     <string name="disabled_by_policy_content_biometric_parental_consent">Geben Sie das Telefon an Ihre Eltern weiter, um die Einrichtung zu beginnen</string>
+    <string name="disabled_by_policy_parental_consent">Geben Sie das Telefon an Ihre Eltern weiter, damit diese Einstellung geändert wird.</string>
     <string name="disabled_by_policy_title">Durch Arbeitsrichtlinien blockiert</string>
     <string name="disabled_by_policy_title_adjust_volume">Lautstärke nicht änderbar</string>
     <string name="disabled_by_policy_title_biometric_parental_consent">Elternteil benötigt</string>
@@ -3206,13 +3210,15 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="display_auto_rotate_stay_in_portrait">Hochformat fixieren</string>
     <string name="display_auto_rotate_title">Bildschirminhalt drehen</string>
     <string name="display_category_title">Bildschirm</string>
-    <string name="display_cutout_emulation">Display mit Notch simulieren</string>
-    <string name="display_cutout_emulation_keywords">displayausschnitt, notch</string>
+    <string name="display_cutout_emulation">Displayausschnitt</string>
+    <string name="display_cutout_emulation_keywords">Displayausschnitt, Notch</string>
     <string name="display_cutout_emulation_none">Nichts</string>
-    <string name="display_dashboard_summary">Hintergrund, schlafen, Schriftgröße</string>
-    <string name="disable_phantom_process_monitor_summary">Beschränkungen der Systemressourcennutzung der App-Unterprozesse deaktivieren</string>
-    <string name="disable_phantom_process_monitor_title">Einschränkungen für untergeordnete Prozesse deaktivieren</string>
-    <string name="disabled_by_policy_parental_consent">Geben Sie das Telefon an Ihre Eltern weiter, damit diese Einstellung geändert wird.</string>
+    <string name="display_dashboard_summary">Dunkles Thema, Schriftgröße, Helligkeit</string>
+    <string name="display_notification_icon_0">Keins</string>
+    <string name="display_notification_icon_1">%d Symbol</string>
+    <string name="display_notification_icon_3">%d Symbole</string>
+    <string name="display_notification_icon_5">%d Symbole</string>
+    <string name="display_notification_icon_7">%d Symbole</string>
     <string name="display_prompt_confirm">Verstanden</string>
     <string name="display_settings">Bildschirm</string>
     <string name="display_settings_new">Bildschirm &amp; Helligkeit</string>
@@ -10050,6 +10056,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="title_quick_control_all_devices">Steuerelemente für Geräte in der Nähe anzeigen</string>
     <string name="title_regional_pref_footer">Wenn eine App keine regionalen Einstellungen unterstützt, verwendet die App ihre Standardeinstellungen für das Gebietsschema.</string>
     <string name="title_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
+    <string name="title_show_notification_icon_count">Anzahl der angezeigten Benachrichtigungssymbole</string>
     <string name="title_smart_device_control">Intelligente Gerätesteuerung</string>
     <string name="title_special_features_health_global">Herzfrequenz</string>
     <string name="title_system_resource">Systemquellen</string>

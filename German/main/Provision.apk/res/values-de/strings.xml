@@ -17,6 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
+    <string name="access_calendar">Kalenderzugriff</string>
     <string name="access_non_personal_data">Wenn Sie Ihre Zustimmung zum Zugriff auf und zur Verwendung von nicht-personenbezogenen Daten von Ihrem Gerät widerrufen, werden die Hintergrundkarussell-Dienste deaktiviert und alle erfassten Daten innerhalb der in den geltenden Gesetzen und Vorschriften festgelegten Frist gelöscht.</string>
     <string name="accessibility_enabled">Eingabehilfen aktiviert</string>
     <string name="actionbar_button_up_description">Zurück</string>
@@ -57,6 +58,7 @@
     <string name="boot_video_replay">Erneut abspielen</string>
     <string name="boot_video_skip">Überspringen</string>
     <string name="calculator_introduction">Sie können diese App für Berechnungen, die Umrechnung von Einheiten und Währungen und die Schätzung Ihrer Hypothekenrückzahlungen verwenden.</string>
+    <string name="calendar_storage">Kalenderspeicher</string>
     <string name="camera_application_introduction">Mit dieser App können Sie Fotos und Videos aufnehmen.</string>
     <string name="camera_introduction">Sie können die Kamera verwenden, um Fotos und Videos aufzunehmen.</string>
     <string name="carousel_cookies_content"><Data>Wenn Sie auf Bilder und Geschichten im Hintergrundkarussell tippen, werden deren Vollversionen in Ihrem Browser geöffnet. Unser vertrauenswürdiger Drittanbieter von Inhalten kann Ihnen dann zusätzliche Inhalte und Anzeigen empfehlen, die auf Ihre Interessen zugeschnitten sind. Wenn Sie der Aktivierung dieser Funktion zustimmen, werden Cookies in Ihrem Browser abgelegt, wie in dieser &lt;a href=\"%1$s\">Cookie-Richtlinie&lt;/a> beschrieben. Wenn Sie Cookies ablehnen, funktioniert Hintergrundkarussell zwar weiterhin, aber seine Inhalte und Empfehlungen sind evtl. nicht mehr relevant für Sie. Sie können Ihre Präferenzen jederzeit in den Einstellungen ändern.</Data></string>
@@ -96,6 +98,7 @@
     <string name="desc_international_fingerprint">Benutzen Sie Ihren Fingerabdruck, um das Telefon zu entsperren oder sich bei Apps und Diensten anzumelden</string>
     <string name="device_information_usage_desc">Mit diesem Dienst können Sie Gerätedaten anzeigen, Ihr Gerät mit Netzwerken verbinden und seine Funktionen einrichten.</string>
     <string name="diagnose_report">Senden Sie Diagnosedaten, um Systemprobleme zu lokalisieren und zu analysieren und die Benutzerfreundlichkeit zu verbessern. Diese Daten können personenbezogene Daten beinhalten (z. B. IP, Standort etc.).</string>
+    <string name="disagree_unable_serve">Wenn Sie den oben genannten Berechtigungen nicht zustimmen, können Sie diesen Dienst nicht nutzen.</string>
     <string name="disageement_abnormal_download">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diesen Dienst nicht nutzen.</string>
     <string name="disagree">Abbrechen</string>
     <string name="disagreement_abnormal_running">Wenn Sie nicht zustimmen, solche Genehmigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht nutzen. Sie können in solchen Fällen wählen, ob Sie diese App nicht verwenden oder die Berechtigungen in den Einstellungen einschränken möchten.</string>
@@ -589,6 +592,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="privacy_refuse">Nicht zustimmen</string>
     <string name="privacy_title">Bedingungen &amp; Datenschutzerklärung</string>
     <string name="protect_persoanl_info_statement">Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen schützen.</string>
+    <string name="provide_date_management_service">Dieser Dienst erlaubt Ihnen, das Datum zu prüfen und Termine zu verwalten.</string>
     <string name="provision_back">Zurück</string>
     <string name="provision_inputmethod_policy_description"><Data>&lt;a href=%1$s>Datenschutzerklärung&lt;/a> Ihrer ausgewählten Tastatur anzeigen</Data></string>
     <string name="provision_inputmethod_policy_description1">Datenschutzerklärung</string>
@@ -609,6 +613,7 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="require_network_and_authority_statement">Um normal zu arbeiten, benötigt dieser Dienst eine Internetverbindung und folgende Berechtigungen:</string>
     <string name="require_network_authority_statement">Um normal zu arbeiten, muss dieser Dienst mit dem Internet verbunden sein und benötigt folgende Berechtigungen:</string>
     <string name="require_network_authority_statement_dual">Um normal zu arbeiten, benötigt dieser Dienst eine Internetverbindung und folgende Berechtigungen:</string>
+    <string name="require_statement">Um grundlegende Dienste anzubieten, benötigen wir folgende Berechtigungen:</string>
     <string name="safe_open_service">Sichere offene Dienste</string>
     <string name="safe_open_service_introduction">Sichere offene Dienste unterstützen die Entwickler und bieten Sicherheitsfunktionen auf Systemebene zum Schutz der Benutzer und ihrer Privatsphäre.</string>
     <string name="saturday">Samstag</string>
@@ -814,6 +819,7 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
+    <string name="used_date_viewing">Zur Prüfung des Datums</string>
     <string name="user_agreement">Nutzervereinbarung</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>

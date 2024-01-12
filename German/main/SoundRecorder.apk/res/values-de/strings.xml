@@ -349,7 +349,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="other_settings_pref_title">Weitere Einstellungen</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="path_soundrecorder_setting">Einstellungen/System-Apps/Recorder</string>
-    <string name="pause_status_focus_notification">Angehalten</string>
+    <string name="pause_status_focus_notification">Aufnahme angehalten</string>
     <string name="pay_error_cancel">Zahlung abgebrochen</string>
     <string name="pay_error_null">Zahlungsfehler, Konto prüfen</string>
     <string name="pay_error_unknown">Unbekannter Fehler</string>
@@ -359,8 +359,8 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="permission_desc">Berechtigungsdetails</string>
     <string name="permission_dialog_cancel">Abbrechen</string>
     <string name="permission_dialog_ok">Einstellungen</string>
-    <string name="permission_notification_description">Zum Senden von Warnungen bei Aufnahme, Wiedergabe und Herunterladen von Inhalten</string>
-    <string name="permission_notification_dialog_description">Zum Senden von Benachrichtigungen über den aktuellen App-Status</string>
+    <string name="permission_notification_description">Diese App benötigt die Berechtigung zum Senden von Benachrichtigungen, um beim Aufnehmen, Abspielen und Herunterladen von Inhalten Warnungen zu senden.</string>
+    <string name="permission_notification_dialog_description">Diese App benötigt die Berechtigung zum Senden von Benachrichtigungen, um Warnungen über den aktuellen Status der App zu senden.</string>
     <string name="permission_notification_title">Berechtigungen erforderlich</string>
     <string name="permission_read_phone_state">Zugriff auf Gerätedaten</string>
     <string name="permission_read_phone_state_description">Für den Zugriff auf den Anrufstatus, um die Aufnahme bei eingehenden Anrufen automatisch zu beenden</string>
@@ -582,7 +582,7 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="status_bar_back">Zurück mit Antippen</string>
     <string name="status_bar_recording">Aufnahme läuft…</string>
     <string name="status_bar_recording_pause">Aufnahme angehalten</string>
-    <string name="stop_status_focus_notification">Beendet</string>
+    <string name="stop_status_focus_notification">Aufnahme beendet</string>
     <string name="storage_permission_dialog_title">Speicherberechtigungen erforderlich</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>

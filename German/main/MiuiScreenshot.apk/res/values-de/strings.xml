@@ -24,7 +24,6 @@
     <string name="afternoon">Nachmittag</string>
     <string name="annotation_open">Tools anzeigen</string>
     <string name="annotation_stow">Tools ausblenden</string>
-    <string name="app_name">Bildschirmfoto</string>
     <string name="back">Zurück</string>
     <string name="base_btn_cancel">Abbrechen</string>
     <string name="btn_cancel">Abbrechen</string>
@@ -45,7 +44,7 @@
     <string name="cta_agree_desc">Dieser App erlauben, sich mit dem Internet zu verbinden und die oben aufgeführten obligatorischen Berechtigungen gewähren.</string>
     <string name="cta_btn_agree">Zustimmen</string>
     <string name="cta_btn_disagree">Nicht zustimmen</string>
-    <string name="cta_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Bildschirmfotos zuschneiden und bearbeiten.</string>
+    <string name="cta_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Screenshots zuschneiden und bearbeiten. Diese App muss sich mit dem Internet verbinden und auf Audio- und Videodateien auf Ihrem Gerät zugreifen, um die erforderlichen Dienste bereitzustellen.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Zum Speichern von Screenshots</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -101,7 +100,7 @@
     <string name="friday_shortest">F</string>
     <string name="functions_are_being_developed">Diese Funktion wird bald verfügbar sein. Bleiben Sie dran!</string>
     <string name="garbage_count">Es gibt %1$s alte Instanzen</string>
-    <string name="global_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Bildschirmfotos zuschneiden und bearbeiten. Diese App benötigt eine Internetverbindung, um normal zu funktionieren.</string>
+    <string name="global_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Screenshots zuschneiden und bearbeiten. Diese App benötigt eine Internetverbindung, um normal zu funktionieren.</string>
     <string name="global_pad">Mein Tablet</string>
     <string name="global_pc">Mein Laptop</string>
     <string name="global_phone">Mein Telefon</string>
@@ -263,6 +262,7 @@
     <string name="screenshot_long_screenshot">Scrollen</string>
     <string name="screenshot_save">Speichern</string>
     <string name="screenshot_send">Senden</string>
+    <string name="screenshot_succeed">Screenshot erfolgreich erstellt</string>
     <string name="screenshot_thumbnail">Screenshot-Miniaturansicht</string>
     <string name="scroll_annotation">Scrollen und Anmerkungen machen</string>
     <string name="scroll_annotation_btn_quit">Anmerkungen beenden</string>

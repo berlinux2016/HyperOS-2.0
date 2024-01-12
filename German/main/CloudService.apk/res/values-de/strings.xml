@@ -38,6 +38,7 @@
     <string name="antispam_sync">\"Bitte nicht stören\"-Einstellungen</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Ungültiges Konto oder Passwort</string>
+    <string name="browser_sync_settings_preference">Automatisch synchronisieren</string>
     <string name="btn_return">Zurück</string>
     <string name="btn_revoke_permission">Zustimmung widerrufen</string>
     <string name="button_agree">Zustimmen</string>
