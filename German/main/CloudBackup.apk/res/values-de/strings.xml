@@ -21,14 +21,13 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
     <string name="app_is_running">App läuft…</string>
-    <string name="app_name">Xiaomi Cloud-Sicherung</string>
     <string name="arrange_restore_order">Apps neu ordnen…</string>
     <string name="as_new_device">Vorherige Einstellungen und Startbildschirm ersetzen</string>
     <string name="as_new_device_summary">Vorherige Xiaomi Cloud-Sicherungen löschen</string>
     <string name="authentication_failed">Kontoverifizierung fehlgeschlagen</string>
     <string name="auto_backup_failed">Automat. Sichern fehlgeschlagen</string>
     <string name="back_up_task_in_process">Sichern…</string>
-    <string name="back_up_task_unfinished">Sicherung nicht vollständig</string>
+    <string name="back_up_task_unfinished">Sichern fehlgeschlagen</string>
     <string name="backing_up_to_micloud">Sichern…</string>
     <string name="backup_action_access_permission">Einstellungen</string>
     <string name="backup_action_buy_cloud_space">Mehr Speicherplatz erhalten</string>
@@ -36,12 +35,11 @@
     <string name="backup_action_clean_disk_space">Platz freigeben</string>
     <string name="backup_action_no_space_with_wechat_off_content">Nicht genügend Cloud-Speicherplatz, um Elemente von diesem Gerät zu sichern. Tippen, um die für Sie verfügbaren Cloud-Speicheroptionen anzuzeigen.</string>
     <string name="backup_action_no_space_with_wechat_off_title">Elemente wurden nicht gespeichert</string>
-    <string name="backup_action_no_space_with_wechat_on_content">Nicht genügend Cloud-Speicherplatz für die Sicherung von WeChat-Daten. Erhöhen Sie Ihren Speichertarif, um Elemente zu sichern.</string>
+    <string name="backup_action_no_space_with_wechat_on_content">Nicht genügend Cloud-Speicherplatz zum Sichern von WeChat-Daten. Erhöhen Sie Ihren Speichertarif, um Elemente zu sichern.</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat-Daten wurden nicht gesichert</string>
     <string name="backup_action_retry_now">Erneut versuchen</string>
     <string name="backup_action_long_time_not_backup_action">Sichern</string>
     <string name="backup_action_long_time_not_backup_title">Keine aktuellen Sicherungen</string>
-    <string name="backup_fail_wifi_needed">Sicherung fehlgeschlagen, WLAN benötigt</string>
     <string name="backup_failed_reason_app_data_error">WeChat-Daten sichern nicht möglich</string>
     <string name="backup_failed_reason_app_usage_denied">Erforderliche Berechtigungen zum Sichern von Elementen gewähren</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nicht mehr genug Cloud-Speicher vorhanden, um diese Sicherung zu speichern. Erweitern Sie Ihr Limit oder geben Sie Cloud-Speicherplatz frei.</string>
@@ -50,19 +48,19 @@
     <string name="backup_failed_reason_network_error">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="backup_finished_notification_content">Startbildschirm, Systemeinstellungen etc. wurden gesichert</string>
     <string name="backup_now">Jetzt sichern</string>
-    <string name="backup_remind_buy_cloud_space">Cloud-Speicherlimit erweitern</string>
+    <string name="backup_remind_buy_cloud_space">Cloud-Speichertarif erweitern</string>
     <string name="backup_remind_clean_disk_space">Speicherplatz freigeben</string>
     <string name="backup_remind_cloud_space_cost">Sicherungsgröße: %s</string>
     <string name="backup_size">Größe: %s</string>
     <string name="backup_state_auto">Automatische Sicherungen sind an</string>
     <string name="backup_state_not_auto">Automatische Sicherungen sind aus</string>
     <string name="backup_stopped_msg">Aktuelle Sicherung überschreibt die vorherige. Tippen zum Anzeigen.</string>
-    <string name="backup_stopped_title">Sicherung wurde gestoppt</string>
-    <string name="backup_success">App-Sicherung erfolgreich</string>
+    <string name="backup_stopped_title">Sicherung wurde angehalten</string>
+    <string name="backup_success">Erfolgreich gesichert</string>
     <string name="backup_successfully">Erfolgreich gesichert</string>
     <string name="backup_to_cloud">App sichern</string>
     <string name="backup_warning_reason_app_usage_denied">Daten wurden nicht synchronisiert.\nBerechtigungen erforderlich.</string>
-    <string name="backup_warning_reason_cloud_space_not_enough">Zurück nicht möglich</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">Sichern nicht möglich</string>
     <string name="backup_warning_reason_disk_space_not_enough">Sichern nicht möglich.\nNicht genügend Speicherplatz.</string>
     <string name="backup_warning_reason_network_error">Netzwerkfehler.\nSichern nicht möglich.</string>
     <string name="backup_warning_reason_no_server_response">Verbindung wurde unterbrochen.\nErneut versuchen.</string>
@@ -85,7 +83,6 @@
     <string name="can_not_backup_in_lite_mode">Backup im Lite-Modus nicht möglich</string>
     <string name="can_not_restore_in_lite_mode">Wiederherstellen im Lite-Modus nicht möglich</string>
     <string name="cancel_backup">Sicherung abbrechen…</string>
-    <string name="cancel_recover_settings">Abbrechen</string>
     <string name="cancel_restore">Abbrechen…</string>
     <string name="cancel_restore_home">Abbrechen…</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
@@ -104,25 +101,22 @@
     <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
     <string name="cloud_app_restore_wifi_prompt">Wiederherstellen aus einer Cloud-Sicherung</string>
     <string name="cloud_back_up_date_format">yyyy-MM-dd HH:mm</string>
-    <string name="cloud_back_up_detail_discription">"Diese Elemente werden in Xiaomi Cloud gesichert, wenn eine WLAN-Verbindung besteht:
-*\u0009\u0009\u0009\u0009Apps, Startbildschirm-Layout und Hintergründe
-*\u0009\u0009\u0009\u0009Wecker-, Uhr- und Zeiteinstellungen
-*\u0009\u0009\u0009\u0009Benachrichtigungseinstellungen
-*\u0009\u0009\u0009\u0009MIUI- und Systemeinstellungen
+    <string name="cloud_back_up_detail_discription">"Diese Elemente werden bei bestehender WLAN-Verbindung in Xiaomi Cloud gesichert:
+*  Startbildschirm-Layout und Hintergründe
+*  Wecker-, Uhr- und Zeiteinstellungen
+*  Benachrichtigungseinstellungen
+*  MIUI- und Systemeinstellungen
 Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."</string>
-    <string name="cloud_back_up_detail_discription_china">"Diese Elemente werden in Xiaomi Cloud gesichert, wenn eine WLAN-Verbindung besteht:
-*\u0009\u0009\u0009\u0009Apps, Startbildschirm-Layout und Hintergründe
-*\u0009\u0009\u0009\u0009Wecker-, Uhr- und Zeiteinstellungen
-*\u0009\u0009\u0009\u0009Benachrichtigungseinstellungen
-*\u0009\u0009\u0009\u0009MIUI- und Systemeinstellungen
+    <string name="cloud_back_up_detail_discription_china">"Diese Elemente werden bei bestehender WLAN-Verbindung in Xiaomi Cloud gesichert:
+*  Apps, Startbildschirm-Layout und Hintergründe
+*  Wecker-, Uhr- und Zeiteinstellungen
+*  Benachrichtigungseinstellungen
+*  MIUI- und Systemeinstellungen
 Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."</string>
     <string name="cloud_back_up_frequence_choice_title">Sicherungszeitplan</string>
     <string name="cloud_back_up_frequence_long">Alle %d Tage</string>
     <string name="cloud_back_up_frequence_short">Täglich</string>
-    <string name="cloud_back_up_no_network_warn">WLAN-Verbindung fehlgeschlagen</string>
     <string name="cloud_back_up_opening">Einen Moment…</string>
-    <string name="cloud_back_up_share_activity_discription">Holen Sie sich mehr Speicherplatz, tägliche Sicherungen und vieles mehr.</string>
-    <string name="cloud_back_up_share_activity_title">Xiaomi-Konto upgraden</string>
     <string name="cloud_back_up_subscribe_vip_discription">Holen Sie sich mehr Speicherplatz, tägliche Sicherungen und mehr.</string>
     <string name="cloud_back_up_subscribe_vip_title">Xiaomi-Konto upgraden</string>
     <string name="cloud_back_up_task">Sichern…</string>
@@ -140,13 +134,13 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="cloud_backup_detail_header_msg_no_wechat_backup">Sichern Sie das Startbildschirm-Layout, die App-Liste und die Systemeinstellungen Ihres Geräts. &lt;font color=#0D84FF>&lt;a href=>Tippen, um mehr zu erfahren&lt;/a>&lt;/font>.</string>
     <string name="cloud_backup_detail_local_backup_size">Geschätzte Sicherungsgröße: %s</string>
     <string name="cloud_backup_detail_manage">Sicherungen verwalten</string>
-    <string name="cloud_backup_detail_no_time">Keine Sicherungskopie</string>
+    <string name="cloud_backup_detail_no_time">Kein Sicherungssatz</string>
     <string name="cloud_backup_detail_state">Automatische Sicherungen</string>
-    <string name="cloud_backup_detail_state_summary">Xiaomi Cloud-Sicherungen automatisch erstellen, wenn mit WLAN verbunden</string>
+    <string name="cloud_backup_detail_state_summary">Xiaomi Cloud-Sicherungen bei bestehender WLAN-Verbindung automatisch erstellen</string>
     <string name="cloud_backup_detail_state_summary_china">Gerät muss mit WLAN verbunden, geladen und gesperrt sein</string>
     <string name="cloud_backup_detail_time">Letzte Sicherung: %1$s</string>
     <string name="cloud_backup_detail_title">Elemente sichern</string>
-    <string name="cloud_backup_get_installed_apps_summary">Zum Sichern und Wiederherstellen von Apps am Startbildschirm</string>
+    <string name="cloud_backup_get_installed_apps_summary">Zum Sichern und Wiederherstellen von Startbildschirm-Apps</string>
     <string name="cloud_backup_get_installed_apps_title">Zugriff auf die Liste der auf diesem Gerät installierten Apps</string>
     <string name="cloud_backup_have_data">Sicherung in Xiaomi Cloud gefunden</string>
     <string name="cloud_backup_in_cancel">Abbrechen</string>
@@ -161,12 +155,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="cloud_restore_from_other_device">Wiederherstellen von %s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden.</string>
     <string name="cloud_restore_task">Wiederherstellen…</string>
     <string name="cloud_task_in_process">%s abbrechen und Sicherung löschen? Diese Aktion kann nicht rückgängig gemacht werden.</string>
-    <string name="confirm_cancel_restore_negative">Abbrechen</string>
-    <string name="confirm_cancel_restore_positive">Fortfahren</string>
-    <string name="confirm_cancel_restore_title">Wiederherstellen abbrechen?</string>
     <string name="confirm_restore">Wiederherstellen</string>
     <string name="confirm_restore_app_data">WeChat ist bereits auf diesem Gerät installiert. WeChat-Daten wiederherstellen nicht möglich.</string>
-    <string name="confirm_restore_app_data_summary">Anscheinend hat WeChat bereits Daten auf diesem Gerät erstellt. Mit den Daten aus der Sicherung überschreiben?</string>
     <string name="confirm_restore_summary">Ihr Startbildschirm wird neu gestartet. Gesicherte Apps werden automatisch heruntergeladen.</string>
     <string name="confirm_restore_title">Wiederherstellen</string>
     <string name="copy">Kopieren</string>
@@ -175,7 +165,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="cta_dialog_permission_description_storage">Zum Sichern und Wiederherstellen von Elemente</string>
     <string name="customization">&lt;u&gt;Anpassen&lt;/u&gt;</string>
     <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
-    <string name="date_picker_dialog_title">Datum einstellen</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="deskclock_backup">Wecker</string>
@@ -183,12 +172,10 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="desktop_failed">Fehler</string>
     <string name="desktop_installing">Installieren</string>
     <string name="desktop_wait_network">Warten…</string>
-    <string name="desktop_wait_wifi">Warten…</string>
     <string name="desktop_waiting">Warten</string>
     <string name="device_delete_prompt">Sicherung von %s löschen?</string>
-    <string name="device_xiaomi">Mi Telefon</string>
     <string name="dialog_app_usage_consent_message">Diese Funktion muss auf die App-Nutzungsdaten zugreifen, um die Größe der WeChat-Backups abzuschätzen.</string>
-    <string name="dialog_app_usage_consent_title">Zugriff auf App-Nutzungsdaten zulassen</string>
+    <string name="dialog_app_usage_consent_title">Zugriff auf App-Nutzungsdaten erlauben</string>
     <string name="dialog_app_usage_denied">Sicherung die Berechtigung \"Nutzungszugriff\" in den Einstellungen gewähren, um Elemente zu sichern.</string>
     <string name="dialog_backup_failed">Sichern nicht möglich</string>
     <string name="dialog_btn_cancel_backup">Abbrechen</string>
@@ -197,14 +184,14 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="dialog_btn_next">Weiter</string>
     <string name="dialog_btn_overwrite_backup">Überschreiben</string>
     <string name="dialog_btn_restore_skip">Später wiederherstellen</string>
-    <string name="dialog_button_agree">Zulassen</string>
+    <string name="dialog_button_agree">Erlauben</string>
     <string name="dialog_button_disagree">Verweigern</string>
     <string name="dialog_button_get_installed_apps_agree">Einstellungen</string>
     <string name="dialog_button_get_installed_apps_disagree">Abbrechen</string>
     <string name="dialog_cancel_backup_cancel">Abbrechen</string>
     <string name="dialog_cancel_backup_msg">Durch Umschalten werden laufende Sicherungen beendet</string>
     <string name="dialog_cancel_backup_title">Laufende Sicherung abbrechen?</string>
-    <string name="dialog_cloud_space_not_enough">Diese Sicherung erfordert %1$s an freiem Cloud-Speicherplatz. Erweitern Sie Ihren Speichertarif, um Elemente zu sichern.</string>
+    <string name="dialog_cloud_space_not_enough">Diese Sicherung erfordert %1$s freie Cloud-Speicherplatz. Erweitern Sie Ihren Speichertarif, um Elemente zu sichern.</string>
     <string name="dialog_content_cancel_backup">Bereits hochgeladene Daten gehen verloren, wenn Sie die Sicherung abbrechen. Trotzdem abbrechen?</string>
     <string name="dialog_content_cancel_restore">Bereits wiederhergestellte Daten werden beibehalten, wenn Sie die Wiederherstellung beenden. Wiederherstellung jetzt beenden?</string>
     <string name="dialog_get_installed_apps_consent_message">Um eine automatische Sicherung durchzuführen, erteilen Sie dieser App in Einstellungen die Berechtigung, auf die Liste der auf Ihrem Gerät installierten Apps zuzugreifen, und wählen Sie \"Immer erlauben\".</string>
@@ -234,7 +221,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="doing_calc_backup_data_size">Größe berechnen…</string>
     <string name="doing_restore_home">Startbildschirm und Einstellungen wiederherstellen…</string>
     <string name="done_remove">Erfolgreich entfernt</string>
-    <string name="download_home_data">Startbildschirm-Layout herunterladen…</string>
     <string name="download_meta_again">Sicherung wurde nicht geladen, erneut versuchen</string>
     <string name="download_meta_failed">Daten laden fehlgeschlagen</string>
     <string name="download_settings">Startbildschirmeinstellungen herunterladen %s%%</string>
@@ -280,7 +266,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="friday_shortest">F</string>
     <string name="get_device_id_error">Geräte-ID abrufen fehlgeschlagen</string>
     <string name="help_and_feedback">Hilfe &amp; Feedback</string>
-    <string name="hint_restore_cross_space">Das Layout des Hauptbildschirms wird möglicherweise falsch angezeigt, wenn Sie Elemente zwischen freien Positionen übertragen.</string>
     <string name="hint_restore_wechat_data">Hinweis: WeChat-Daten können wegen Kompatibilitätsproblemen in einigen Fällen nicht wiederhergestellt werden.</string>
     <string name="home_hint_other_launcher">Andere Launcher</string>
     <string name="home_restore_error">Startbildschirm wiederherstellen fehlgeschlagen</string>
@@ -289,7 +274,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="load_backup_failed">Sicherungen wurden nicht geladen</string>
     <string name="loading_progress_num">%s%% geladen</string>
     <string name="loading_user_backup">Benutzersicherungen laden…</string>
-    <string name="main_space">Hauptprofil</string>
     <string name="manage_and_restore_backups">Gesicherte Daten verwalten und wiederherstellen</string>
     <string name="manage_backups">Sicherungen verwalten</string>
     <string name="manage_cloud_backups">Cloud-Sicherungen verwalten</string>
@@ -360,7 +344,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
     <string name="msg_alert_cancel_restore">Elemente werden aus der Xiaomi Cloud wiederhergestellt. Jetzt abbrechen?</string>
-    <string name="msg_alert_restore_error">Elemente wiederherstellen aus Xiaomi Cloud nicht möglich, erneut versuchen.</string>
+    <string name="msg_alert_restore_error">Elemente wiederherstellen aus Xiaomi Cloud fehlgeschlgen. Erneut versuchen.</string>
     <string name="msg_restore_start_with_metered_network">"Wenn Sie diese Sicherung wiederherstellen, wird Ihr Startbildschirm zurückgesetzt, und Ihre Apps werden automatisch heruntergeladen und installiert.&lt;br />&lt;b>&lt;font color='red'>Sicherungsgröße: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Wenn Sie mit der Wiederherstellung dieser Elemente fortfahren, werden mobile Daten für den Download verwendet.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font>Dateien werden heruntergeladen."</string>
@@ -387,33 +371,29 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="open_wechat_dialog_positive_btn_timer">Einschalten (%ss)</string>
     <string name="open_wechat_dialog_title">Über WeChat-Sicherungen</string>
     <string name="open_wifi">WLAN jetzt einschalten</string>
-    <string name="open_wifi_description">Um Apps wiederherzustellen, verbinden Sie sich mit WLAN</string>
-    <string name="open_wifi_setting">WLAN-Einstellungen</string>
     <string name="other_device_main_space">Hauptprofil</string>
     <string name="other_device_second_space">Zweitprofil</string>
     <string name="page_title_more_backup_options">Zusätzliche Sicherungsdienste</string>
-    <string name="pc_mode_not_support_restore_warning">Elemente im PC-Modus wiederhergestellen nicht möglich. PC-Modus ausschalten und erneut versuchen.</string>
+    <string name="pc_mode_not_support_restore_warning">Elemente im PC-Modus wiederherstellen nicht möglich. PC-Modus ausschalten und erneut versuchen.</string>
     <string name="permission_to_use">Berechtigungsdetails</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="process_whole_recovery">Wiederherstellen \"%s\"</string>
     <string name="provision_back">Zurück</string>
     <string name="provision_background_restore_more_data">Weitere Elemente im Hintergrund wiederherstellen</string>
-    <string name="provision_error_connect_msg">Netzwerk testen und erneut versuchen. Sicherungen sind nicht verfügbar, wenn Ihr Gerät offline is.</string>
-    <string name="provision_error_connect_title">Verbinden nicht möglich</string>
+    <string name="provision_error_connect_msg">Netzwerk testen und erneut versuchen. Sicherungen sind nicht verfügbar, wenn Ihr Gerät offline ist.</string>
+    <string name="provision_error_connect_title">Verbinden fehlgeschlagen</string>
     <string name="provision_next">Weiter</string>
     <string name="provision_restore_data">Elemente wiederherstellen</string>
     <string name="provision_skip_underline">Überspringen</string>
-    <string name="query_restore_description">Wenn Sie das Startbildschirm-Layout und die Einstellungen wiederherstellen, werden die bereits installierten Apps an ihrem ursprünglichen Platz am Startbildschirm wiederhergestellt. Apps, die nicht Teil dieser Sicherung sind, werden auf die letzte Seite des Startbildschirms verschoben.</string>
+    <string name="query_restore_description">Wenn Sie das Startbildschirm-Layout und Einstellungen wiederherstellen, werden die bereits installierten Apps an ihrem ursprünglichen Platz am Startbildschirm wiederhergestellt. Apps, die nicht Teil dieser Sicherung sind, werden auf die letzte Seite des Startbildschirms verschoben.</string>
     <string name="query_restore_summary">Xiaomi Cloud-Sicherung für dieses Gerät gefunden. Startbildschirm-Apps und Einstellungen aus der Sicherung wiederherstellen oder dieses Gerät als neu behandeln und ältere Sicherungen löschen?</string>
-    <string name="recover_from_micloud">Wiederherstellen aus Xiaomi Cloud</string>
     <string name="recover_home_settings">Startbildschirmeinstellungen wiederherstellen</string>
-    <string name="recover_miui_settings">Systemeinstellungen wiederherstellen</string>
     <string name="recover_settings_description">Gerät nicht ausschalten</string>
     <string name="recovering">%s wiederherstellen</string>
     <string name="remove_again">Erneut versuchen</string>
     <string name="remove_task_in_process">Entfernen…</string>
-    <string name="remove_task_unfinished">Entfernen fehlgeschlagen</string>
-    <string name="remove_unfinished">Entfernen später erneut versuchen</string>
+    <string name="remove_task_unfinished">Entfernen nicht abgeschlossen</string>
+    <string name="remove_unfinished">Entfernen, später erneut versuchen</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Sie können jetzt WeChat-Daten sichern. Tippen für Details.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">WeChat-Daten sichern</string>
     <string name="request_notification_permission_dialog_confirm">Verstanden</string>
@@ -424,19 +404,13 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_app_order_finish">Erledigt</string>
     <string name="restore_app_order_loading">Einen Moment…</string>
     <string name="restore_app_order_retry">Erneut versuchen</string>
-    <string name="restore_app_order_retry_desc">Netzwerkverbindung nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="restore_app_order_search_hint">Nach Elementen zum Festlegen der Priorität suchen</string>
-    <string name="restore_app_order_search_installed">Apps auf diesem Gerät</string>
-    <string name="restore_app_order_search_normal">Apps mit normaler Priorität</string>
-    <string name="restore_app_order_search_prior">Apps mit hoher Priorität</string>
-    <string name="restore_app_order_title">Wiederhergestellte Elemente priorisieren</string>
+    <string name="restore_app_order_retry_desc">Netzwerkverbindung fehlgeschlagen. \nNetzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="restore_cloud_backup_to_phone">Elemente aus Cloud wiederherstellen</string>
-    <string name="restore_data_summary">Diese Funktion benötigt eine Internetverbindung</string>
     <string name="restore_data_title">Daten wiederherstellen</string>
     <string name="restore_detail_category_app_data">WeChat-Daten</string>
     <string name="restore_detail_category_app_data_summary">Chat-Verlauf, Dateien und andere Elemente (%s)</string>
     <string name="restore_detail_category_app_data_summary_disable">WeChat deinstallieren, um WeChat-Daten wiederherzustellen</string>
-    <string name="restore_detail_category_apps">Starbildschirmlayout &amp; Apps</string>
+    <string name="restore_detail_category_apps">Startbildschirm-Layout &amp; Apps</string>
     <string name="restore_detail_category_apps_size">Größe: %s</string>
     <string name="restore_detail_category_settings">Einstellungen</string>
     <string name="restore_detail_category_settings_size">Größe: &lt; %.1f GB</string>
@@ -446,7 +420,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_failed_reason_disk_space_not_enough">Nicht genügend Speicherplatz. Erst Speicherplatz freigeben.</string>
     <string name="restore_failed_reason_network_error">Netzwerkfehler. Etwas warten und erneut versuchen.</string>
     <string name="restore_file_empty">Keine Sicherungen hier</string>
-    <string name="restore_finish_description">Wiederherstellung abgeschlossen</string>
     <string name="restore_finished_notification_content">Startbildschirm-Apps, Systemeinstellungen etc. wiederhergestellt</string>
     <string name="restore_from_cloud">Wiederherstellen aus Cloud-Sicherung</string>
     <string name="restore_from_mimover">Von Ihrem alten Gerät mit Mi Mover übertragen</string>
@@ -456,18 +429,16 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_header_title">Gesamtgröße: %s</string>
     <string name="restore_header_title2">Sicherungen insgesamt: %s</string>
     <string name="restore_header_title_backup_time">Zeit</string>
-    <string name="restore_home_failed">Wiederherstellen des Startbildschirms fehlgeschlagen</string>
     <string name="restore_home_screen_apps">Elemente wiederherstellen</string>
-    <string name="restore_home_screen_apps_options">Sicherungsoptionen\n%s</string>
-    <string name="restore_init_description">Wiederherstellung starten</string>
+    <string name="restore_home_screen_apps_options">Daten wiederherstellen</string>
     <string name="restore_network_pause">Angehalten, um mobile Daten zu sparen. Tippen, um fortzufahren.</string>
     <string name="restore_network_unconnect">%s (auf Verbindung warten)</string>
     <string name="restore_prepare_item_type_enable">Verfügbare Sicherungen</string>
     <string name="restore_prepare_item_type_other">Andere Sicherungen</string>
     <string name="restore_task_cancelling">Abbrechen…</string>
     <string name="restore_task_in_process">Wiederherstellen…</string>
-    <string name="restore_task_unfinished">Wiederherstellen nicht möglich</string>
-    <string name="restore_unfinished">Wiederherstellen später erneut versuchen</string>
+    <string name="restore_task_unfinished">Wiederherstellen fehlgeschlagen</string>
+    <string name="restore_unfinished">Wiederherstellung, später erneut versuchen</string>
     <string name="restoring_app_data_title_no_progress">WeChat-Daten wiederherstellen…</string>
     <string name="restoring_data">Daten wiederherstellen…</string>
     <string name="restoring_file_title_no_progress">Apps wiederherstellen…</string>
@@ -492,14 +463,10 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="save_not_backup_reason_permission_denied">Berechtigungen erforderlich</string>
     <string name="save_not_backup_reason_permission_denied_dialog_title">Berechtigungen erforderlich</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="second_space">Zweitprofil</string>
     <string name="selected">Ausgewählt</string>
-    <string name="self_device">" dieses Telefons"</string>
     <string name="self_device_disable">%s (Auf diesem Gerät nicht unterstützt)</string>
     <string name="self_device_main_space">Hauptprofil</string>
     <string name="self_device_second_space">Zweitprofil</string>
-    <string name="self_phone">Dieses Telefon</string>
-    <string name="self_phone_home">Dieses Telefon: %s</string>
     <string name="send">Senden</string>
     <string name="session_action_btn_text_return_home">Startbildschirm</string>
     <string name="session_backup_apk_data_text">WeChat-Daten sichern…</string>
@@ -516,7 +483,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="session_failed_dist_no_space_btn_text">Speicher löschen</string>
     <string name="session_failed_get_installed_apps_denied_detail">Um eine automatische Sicherung durchzuführen, erteilen Sie dieser App in Einstellungen die Berechtigung, auf die Liste der auf Ihrem Gerät installierten Apps zuzugreifen, und wählen Sie \"Immer erlauben\".</string>
     <string name="session_failed_get_installed_apps_denied_title">Berechtigungen erforderlich</string>
-    <string name="session_failed_no_server_response_title">Keine Serververbindung</string>
+    <string name="session_failed_no_server_response_title">Serververbindung fehlgeschlagen</string>
     <string name="session_failed_override_detail">Lokale Sicherung unterscheidet sich von der Sicherung in der Xiaomi Cloud. Wenn Sie fortfahren, wird die aktuelle Sicherung die vorherige überschreiben. Jetzt überschreiben?</string>
     <string name="session_failed_override_title">Sicherung überschreiben</string>
     <string name="session_failed_restore_app_data_btn_text">Zurück</string>
@@ -567,7 +534,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="start_backup_to_micloud">Apps in Xiaomi Cloud sichern</string>
     <string name="start_recover">%s wiederherstellen</string>
-    <string name="success_open_cloudbackup">Sicherung der Startbildschirm-Apps aktiviert</string>
+    <string name="success_open_cloudbackup">Sicherung für Startbildschirm-Apps aktiviert</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_content">WeChat-Daten gesichert. Tippen für Details.</string>
     <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Automatische Sicherung abgeschlossen</string>
     <string name="sunday">Sonntag</string>
@@ -627,7 +594,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="toast_cannot_cancel_backup">Sicherung ist fast beendet und kann nicht abgebrochen werden</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
-    <string name="total_space">Gesamt: %s</string>
+    <string name="total_space">Gesamtspeicher: %s</string>
     <string name="try_again">Tippen, um erneut zu versuchen</string>
     <string name="try_continue">Tippen zum Fortfahren</string>
     <string name="tuesday">Dienstag</string>
