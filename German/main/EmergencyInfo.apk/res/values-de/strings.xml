@@ -832,6 +832,7 @@ Um fortzufahren, drücken Sie "Löschen und konvertieren".</string>
     <string name="wifitrackerlib_wifi_passpoint_expired">Abgelaufen</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Temporär schlechte Netzwerkbedingungen</string>
     <string name="wifitrackerlib_wifi_remembered">Gespeichert</string>
+    <string name="wifitrackerlib_wifi_security_none">Nichts</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Altbestand</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Unbekannt</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Kostenfrei</string>

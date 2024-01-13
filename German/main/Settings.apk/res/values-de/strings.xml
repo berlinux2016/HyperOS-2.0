@@ -9112,7 +9112,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="slider_title_zippo">Feuerzeug</string>
     <string name="slider_tool_drawer">Tools öffnen</string>
     <string name="slider_tool_none">Nichts</string>
-    <string name="slider_tool_none_summary">Keine Slider-Kurzbefehl zugewiesen</string>
+    <string name="slider_tool_none_summary">Kein Slider-Kurzbefehl zugewiesen</string>
     <string name="slider_video_tool_summary">Bildschirm nach unten schieben, um verfügbare Kurzbefehle während der Wiedergabe eines Videos anzuzeigen</string>
     <string name="slider_video_tool_title">Video-Kurzbefehl</string>
     <string name="slider_vocie_click_too_often">Zu schnell! Etwas warten und erneut versuchen.</string>
@@ -11782,6 +11782,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifitrackerlib_wifi_passpoint_expired">Abgelaufen</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">Temporär schlechte Netzwerkbedingungen</string>
     <string name="wifitrackerlib_wifi_remembered">Gespeichert</string>
+    <string name="wifitrackerlib_wifi_security_none">Nichts</string>
     <string name="wifitrackerlib_wifi_standard_legacy">Alt</string>
     <string name="wifitrackerlib_wifi_standard_unknown">Unbekannt</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Kostenfrei</string>
