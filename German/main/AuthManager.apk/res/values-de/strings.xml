@@ -126,7 +126,7 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="app_name">Berechtigungen</string>
+    <string name="app_name">Rechte</string>
     <string name="blur_location_is_on_tip">%1$s verwendet Ihren ungefähren Standort. Weiter verwenden statt genauen Standort?</string>
     <string name="blur_location_now_tip">Ungefährer Standort ist an</string>
     <string name="blur_location_title">Ungefährer Standort</string>

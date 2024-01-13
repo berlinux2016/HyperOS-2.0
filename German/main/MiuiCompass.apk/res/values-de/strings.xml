@@ -29,7 +29,6 @@
     <string name="app_description_content">Kompass ist eine System-App. Nach der Deinstallation können Sie sie nicht mehr zum Prüfen von Richtungen, Koordinaten, Luftdruck und aktueller Höhe verwenden.</string>
     <string name="app_description_title">Kompass deinstallieren?</string>
     <string name="app_label">Kompass</string>
-    <string name="app_name">Einstellungen</string>
     <string name="calibrate_failed">Höhenkalibrierung fehlgeschlagen</string>
     <string name="calibrate_failed_no_location">Kalibrierung fehlgeschlagen. Ein Standortfehler ist aufgetreten.</string>
     <string name="calibrate_failed_timeout">Kalibrierung fehlgeschlagen. Ein Serverfehler ist aufgetreten.</string>

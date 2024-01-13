@@ -38,7 +38,6 @@
     <string name="anti_flicker_mode_summary">Ausgedehntes Flimmern verhindern und die Belastung der Augen bei schlechten Lichtverhältnissen reduzieren</string>
     <string name="anti_flicker_mode_summary_new">DC-Dimming bei schwachem Licht zur Verringerung der Augenbelastung verwenden</string>
     <string name="anti_flicker_title">Anti-Flimmer-Modus</string>
-    <string name="app_name">Einstellungen</string>
     <string name="app_use">App-Bildschirmzeit</string>
     <string name="application_sound">App-Benachrichtigungen</string>
     <string name="apply_ringtone">Anwenden</string>

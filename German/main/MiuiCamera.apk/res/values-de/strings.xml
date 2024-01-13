@@ -407,7 +407,6 @@
     <string name="aperture_near_range_tip">Blende kann bei Nahaufnahmen nicht eingestellt werden</string>
     <string name="aperture_no_wide_camera_tip">Blende kann nur für die Hauptkamera eingestellt werden</string>
     <string name="app_details">"App-Details: "</string>
-    <string name="app_name">Einstellungen</string>
     <string name="audio_focus_exit_button_text">Audiofokus beenden</string>
     <string name="audio_gain_adjust_overhigh_tip">Weitere Lautstärkeanpassungen können zu schlechter Qualität führen</string>
     <string name="audio_gain_mutex_3d_tip">Lautstärkeregelung funktioniert nicht mit Dimensional Immersive Audio</string>

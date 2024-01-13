@@ -21,7 +21,6 @@
     <string name="accessibility_battery_level_charging">Akku laden, %d%%</string>
     <string name="aod_lock_screen_date">EE, d. MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d. MMMM</string>
-    <string name="app_name">Mi-Wetterhintergrund</string>
     <string name="search_menu_title">Suchen</string>
     <string name="super_wallpaper_date">EE, dd.MM.</string>
     <string name="super_wallpaper_date_inter">EEEE, dd.MM.</string>
