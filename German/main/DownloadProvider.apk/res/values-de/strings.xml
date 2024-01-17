@@ -72,7 +72,6 @@
     <string name="download_queued">In Warteschlange</string>
     <string name="download_remaining">Noch %s</string>
     <string name="download_running">In Bearbeitung</string>
-    <string name="download_running_percent">In Bearbeitung, %d%%</string>
     <string name="download_status_continue">Wiederaufnehmen</string>
     <string name="download_status_fail">Erneut versuchen</string>
     <string name="download_success">Download abgeschlossen</string>
