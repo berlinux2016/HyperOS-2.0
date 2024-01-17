@@ -96,16 +96,6 @@
     <string name="midnight">Nacht</string>
     <string name="miui_clock_city_name_local">Lokal</string>
     <string name="miui_clock_city_name_second">Zweite Uhr</string>
-    <string name="miui_lock_screen_date">EEEE, d. MMMM</string>
-    <string name="miui_lock_screen_date_12">EEEE, d. MMMM</string>
-    <string name="miui_lock_screen_date_two_lines">"dd. MMM
-EEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd. MMM
-EEE"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-dd.MM."</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM."</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH

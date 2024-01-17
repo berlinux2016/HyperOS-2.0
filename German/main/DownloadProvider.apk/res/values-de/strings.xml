@@ -19,8 +19,7 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="app_label">Downloadmanager</string>
-    <string name="auto_restart_under_wifi">Automatisch Datei über WLAN herunterladen</string>
+    <string name="auto_restart_under_wifi">Datei automatisch über WLAN herunterladen</string>
     <string name="button_cancel_download">Abbrechen</string>
     <string name="button_download_now">Jetzt herunterladen</string>
     <string name="button_queue_for_wifi">Warteschlange</string>
@@ -33,7 +32,6 @@
     <string name="clear_data">Löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
-    <string name="complete_time">Abgeschlossen</string>
     <string name="copy">Kopieren</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -48,11 +46,11 @@
     <string name="dialog_data_limit_button2">Herunterladen</string>
     <string name="dialog_data_limit_msg1">%s mobile Daten werden verwendet, um diese Datei herunterzuladen. Jetzt herunterladen?</string>
     <string name="dialog_data_limit_msg3">Limit ändern</string>
-    <string name="dialog_data_limit_title">Warnhinweis Datennutzung</string>
+    <string name="dialog_data_limit_title">Warnung Datennutzung</string>
     <string name="dialog_delete_positive">Löschen</string>
-    <string name="dialog_file_missing_body">Datei nicht gefunden, scheint gelöscht worden zu sein.</string>
+    <string name="dialog_file_missing_body">Datei nicht gefunden, scheint gelöscht sein.</string>
     <string name="dialog_file_missing_title">Datei kann nicht geöffnet werden</string>
-    <string name="dialog_insufficient_space_on_cache">Nicht genug Platz auf internem Speicher</string>
+    <string name="dialog_insufficient_space_on_cache">Nicht genug Platz auf internem Download-Speicher</string>
     <string name="dialog_insufficient_space_on_external">Nicht genug Platz auf externem Speicher</string>
     <string name="dialog_msg_disabled_net">%1$s hat Downloads für das aktuelle Netzwerk eingeschränkt. Auf Netzwerkeinstellungen tippen, um die Sicherheits-App aufzurufen.</string>
     <string name="dialog_not_show_again">Nicht mehr anzeigen</string>
@@ -63,7 +61,7 @@
     <string name="download_apk_desktop_installing">Installiert</string>
     <string name="download_apk_desktop_pause">Angehalten</string>
     <string name="download_apk_desktop_pending">Ausstehend</string>
-    <string name="download_apk_desktop_running">Runtergeladen</string>
+    <string name="download_apk_desktop_running">Herunterladen</string>
     <string name="download_error">Nicht erfolgreich</string>
     <string name="download_error_download_file_not_exists">Datei existiert nicht</string>
     <string name="download_error_insufficient_space">Nicht genügend Speicher</string>
@@ -74,10 +72,11 @@
     <string name="download_queued">In Warteschlange</string>
     <string name="download_remaining">Noch %s</string>
     <string name="download_running">In Bearbeitung</string>
+    <string name="download_running_percent">In Bearbeitung, %d%%</string>
     <string name="download_status_continue">Wiederaufnehmen</string>
     <string name="download_status_fail">Erneut versuchen</string>
     <string name="download_success">Download abgeschlossen</string>
-    <string name="download_unknown_title">&lt;Unbenannt&gt;</string>
+    <string name="download_unknown_title">&lt;Unbenannt</string>
     <string name="download_wait_connect">Auf Verbindung warten</string>
     <string name="downloading">Herunterladen…</string>
     <string name="downloading_empty">Leer</string>
@@ -115,8 +114,6 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="h5_net_error" formatted="false">%s (%s) laden fehlgeschlagen</string>
-    <string name="h5_net_error_tip">URL öffnen fehlgeschlagen</string>
     <string name="insufficient_space">Nicht genug Speicher</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
@@ -177,17 +174,15 @@
     <string name="more">Mehr</string>
     <string name="morning">Morgen</string>
     <string name="night">Abend</string>
-    <string name="no_net">Netzwerkverbindung nicht möglich</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="notif_text_engine_off">Xunlei-Beschleuniger ist aus</string>
     <string name="notif_text_engine_on">Beschleunigen…</string>
-    <string name="notif_title_file_size">Insgesamt %1$d Dateien</string>
+    <string name="notif_title_file_size">Insgesamt %1$d</string>
     <string name="notif_title_multiple_downloading">%1$d Dateien herunterladen</string>
     <string name="notif_title_single_downloading">%1$s herunterladen</string>
     <string name="notification_download_complete">Download vollständig</string>
     <string name="notification_download_failed">Download fehlgeschlagen</string>
-    <string name="notification_download_failed_more">%1$d Elemente wurden nicht heruntergeladen</string>
     <string name="notification_download_success_more">%1$d heruntergeladen</string>
     <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN</string>
     <string name="notification_paused_in_background">Im Hintergrund angehalten</string>
@@ -197,7 +192,7 @@
     <string name="notify_install_guide_title">%s erfolgreich installiert</string>
     <string name="notify_only_wifi_download">Auf WLAN warten</string>
     <string name="paused_by_app">Pausiert</string>
-    <string name="paused_insufficient_space">Wartern</string>
+    <string name="paused_insufficient_space">Warten</string>
     <string name="paused_queued_for_wifi">Auf Netzwerk warten</string>
     <string name="paused_unknown">Pausiert</string>
     <string name="paused_waiting_for_network">Auf Netzwerk warten</string>
@@ -208,7 +203,7 @@
     <string name="permdesc_downloadManager">Erlaubt der App, auf den Downloadmanager zuzugreifen, um Dateien herunterzuladen. Schadprogramme könnten damit Downloads unterbrechen und auf private Daten zugreifen.</string>
     <string name="permdesc_downloadManagerAdvanced">Erlaubt der App, auf die erweiterten Funktionen des Downloadmanagers zuzugreifen. Schadprogramme könnten damit Downloads unterbrechen und auf private Daten zugreifen.</string>
     <string name="permdesc_downloadWithoutNotification">Erlaubt der App, Dateien ohne Benachrichtigung des Benutzers herunterzuladen</string>
-    <string name="permdesc_seeAllExternal">Erlaubt der App, alle Downloads auf der SD-Karte anzuzeigen, unabhängig davon, welche App diese heruntergeladen hat</string>
+    <string name="permdesc_seeAllExternal">Erlaubt der App, alle Downloads auf der SD-Karte anzuzeigen, egal welche App diese heruntergeladen hat</string>
     <string name="permlab_accessAllDownloads">Zugriff auf alle Systemdownloads</string>
     <string name="permlab_downloadCacheNonPurgeable">Platz im Downloadcache reservieren</string>
     <string name="permlab_downloadCompletedIntent">Benachrichtigungen über Downloads senden</string>
@@ -218,15 +213,12 @@
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_notif_content">Tippen, um Details anzuzeigen</string>
     <string name="privacy_notif_title">Xunlei-Downloadbeschleuniger ist an</string>
-    <string name="privacy_tip_cancel">Abbrechen</string>
-    <string name="privacy_tip_content">Xunlei-Beschleuniger zum schnelleren Download verwenden? Download-URL wird auf die Xiaomi-Server hochgeladen. Ihre Xiaomi-Kontodetails werden ebenfalls hochgeladen, um zu prüfen, ob Sie aktive Abos für diesen Dienst haben.</string>
-    <string name="privacy_tip_title">Xunlei-Beschleuniger nutzen?</string>
     <string name="recall_tip">\"Downloads\" installieren,\num alle Funktionen zu nutzen</string>
     <string name="recommend_installing">Installieren…</string>
     <string name="recommend_open">Öffnen</string>
     <string name="recommended_file_size_download_in_mobile">%s mobile Daten verwenden, um diese Datei herunterzuladen?</string>
     <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung zum Herunterladen dieser Datei verwenden?</string>
-    <string name="retry_after_network_available">Netzwerkverbindung nicht möglich. Datenverbindung prüfen und erneut versuchen.</string>
+    <string name="retry_after_network_available">Netzwerkverbindung fehlgeschlagen. Datenverbindung prüfen und erneut versuchen.</string>
     <string name="retry_download">Erneut versuchen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -307,7 +299,7 @@
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
-    <string name="toast_net_error">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="toast_net_error">Netzwerkverbindung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="today">Heute</string>
     <string name="today_download">Heute heruntergeladen</string>
     <string name="tomorrow">Morgen</string>
@@ -318,7 +310,7 @@
     <string name="v7_preference_on">AN</string>
     <string name="warning_tip_cancel">Herunterladen</string>
     <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Wenn Sie Ihre mobile Datenverbindung nutzen, um diesen Download abzuschließen, erhöht sich Ihren Datenverbrauch. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten in Rechnung stellen.</string>
-    <string name="warning_tip_title">Warnhinweis Datennutzung</string>
+    <string name="warning_tip_title">Warnung Datennutzung</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
