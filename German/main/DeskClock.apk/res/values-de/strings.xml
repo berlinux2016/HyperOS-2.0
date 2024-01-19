@@ -345,7 +345,7 @@
     <string name="not_update">Jetzt nicht</string>
     <string name="notification_adv_time_entries1">Zur festgelegten Zeit</string>
     <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> Minuten im Voraus</string>
-    <string name="notification_adv_time_entries2"><xliff refersto="30" id="MINUTES">%d</xliff> Minuten im Voraus</string>
+    <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> Minuten im Voraus</string>
     <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> Stunde im Voraus</string>
     <string name="notification_adv_time_entries5">Keine</string>
     <string name="notification_permission_desc">Wenn Sie die Berechtigung für Benachrichtigungen nicht erteilen, können Sie Wecker nicht ausschalten, wenn sie klingeln. Berechtigung jetzt erteilen?</string>

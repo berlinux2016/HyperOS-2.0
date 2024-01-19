@@ -8973,7 +8973,6 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="show_refresh_rate_summary">Aktuelle Aktualisierungsrate anzeigen</string>
     <string name="show_rounded_corners">Runde Ecken anzeigen</string>
     <string name="show_running_services">Aktive Dienste anzeigen</string>
-    <string name="show_screen_updates">Bildschirmaktualisierung anzeigen</string>
     <string name="show_screen_updates">Oberflächenaktualisierungen anzeigen</string>
     <string name="show_screen_updates_summary">Ganze Fensterflächen aufblinken beim Aktualisieren</string>
     <string name="show_silently">Benachrichtigungen lautlos anzeigen</string>
