@@ -145,6 +145,8 @@
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
     <string name="search_menu_title">Suchen</string>
+    <string name="security_for_pad">Sicherheit</string>
+    <string name="security_for_phone">Sicherheit</string>
     <string name="send">Senden</string>
     <string name="settings_ad_loading">Einen Moment…</string>
     <string name="settings_ad_loading_unavailable">Infos laden nicht möglich</string>

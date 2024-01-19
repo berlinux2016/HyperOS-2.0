@@ -23,10 +23,16 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="audio_spk_cal_wait">Kalibrierung, bitte warten…</string>
     <string name="audio_spk_def">Bitte Lautsprecher kalibrieren</string>
+    <string name="auto_bottom_left_high_speaker">Linke Seite unterer Hochtöner</string>
+    <string name="auto_bottom_left_low_speaker">Linke Seite unterer Tieftöner</string>
+    <string name="auto_bottom_right_low_speaker">Rechte Seite unterer Tieftöner</string>
     <string name="auto_frontflash_description">Alle vorderen Blitzlichter sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
     <string name="auto_frontflash_title">Blitzlichttest Frontkamera</string>
     <string name="auto_rearflash_description">Alle Blitzlichter der Rückkamera sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
     <string name="auto_rearflash_title">Blitzlichttest Rückkamera</string>
+    <string name="auto_top_left_high_speaker">Linke Seite oberer Hochtöner</string>
+    <string name="auto_top_left_low_speaker">Linke Seite oberer Tieftöner</string>
+    <string name="auto_top_right_low_speaker">Rechter oberer Tieftöner</string>
     <string name="aux_mic_check_record_tip">Aufnahme, bitte sagen Sie etwas ins AUX MIC an der Geräteunterseite</string>
     <string name="back_mic_check_record_tip">Aufnahme, bitte sprechen Sie ins Mikrofon auf der Geräterückseite.</string>
     <string name="battery_authentic">Akku authentisch</string>
@@ -109,21 +115,38 @@ Bevor Sie das Gerät kalibrieren, legen Sie es auf eine ebene Fläche."</string>
     <string name="cit_audio_cali_title">Lautsprecher PA-Kalibrierungstest</string>
     <string name="cit_audio_hw_check_tips">Test läuft</string>
     <string name="cit_audio_lb_auxmic_to_earpiece_title">Aux Mikro-Rückkopplungstest</string>
-    <string name="cit_audio_lb_backmic_to_earpiece_title">Rückmikrofon-Rückkopplungstest</string>
-    <string name="cit_audio_lb_mainmic_to_earpiece_title">Hauptmikrofon-Rückkopplungstest</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Rückmikro-Rückkopplungstest</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Rückmikro Lautsprecher-Rückkopplungstest</string>
+    <string name="cit_audio_lb_check_track_tip">Aufnahme wird jetzt abgespielt, bitte prüfen Sie, ob es einen Ton gibt</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Hauptmikro-Rückkopplungstest</string>
+    <string name="cit_audio_lb_mainmic_to_speaker_title">Hauptmikro Lautsprecher-Rückkopplungstest</string>
+    <string name="cit_audio_lb_sidebottommic_to_speaker_title">Seitliches unteres Mikro Lautsprecher-Rückkopplungstest</string>
+    <string name="cit_audio_lb_sidetopmic_to_speaker_title">Seitliches oberes Mikro Lautsprecher-Rückkopplungstest</string>
     <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Rückkopplungstest zwischen Aux Mikro und Hörer.
 
 Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
-    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Rückkopplungstest zwischen Rückmikrofon und Hörer.
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Rückkopplungstest zwischen Rückmikro und Hörer.
 
 Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Rückkopplungstest zwischen Hauptmikrofon und Hörer.
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Rückkopplungstest zwischen Hauptmikro und Hörer.
 
 Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
-    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Rückkopplungstest zwischen Topmikrofon und Hörer.
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Rückkopplungstest zwischen Topmikro und Hörer.
 
 Halten Sie das Gerät so, als ob Sie telefonieren, sprechen Sie in das Hauptmikrofon. Sie sollten die Stimme im Hörer hören."</string>
-    <string name="cit_audio_lb_topmic_to_earpiece_title">Topmikrofon-Rückkopplungstest</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Rückmikro Lautsprecher-Rückkopplungstest.
+
+Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautsprecher hören."</string>
+    <string name="cit_audio_lb_summary_mainmic_to_speaker">"Hauptmikro Lautsprecher-Rückkopplungstest.
+
+Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautsprecher hören."</string>
+    <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Seitliches unteres Mikro Lautsprecher-Rückkopplungstest.
+
+Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautsprecher hören."</string>
+    <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Seitliches oberes Mikro Lautsprecher-Rückkopplungstest.
+
+Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautsprecher hören."</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Topmikro-Rückkopplungstest</string>
     <string name="cit_battery_temp_pass">Akkutemperatur ist normal</string>
     <string name="cit_batterylight">Akku-LED</string>
     <string name="cit_batterylight_13blue">13Blau</string>
@@ -678,6 +701,8 @@ Nach erfolgreicher Kalibrierung die Halterung in der Nähe des Geräts und weite
     <string name="test_horn_motor_summary">"Sie werden zwei zufällige Zahlen hören.
 Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hören.
 Wählen Sie die richtige Taste je nach den verschiedenen Vibrationsbedingungen."</string>
+    <string name="test_integration_speaker">Integrationslautsprechertest</string>
+    <string name="test_integration_summary">Die sechs Lautsprecher spielen den Ton in einer Schleife nacheinander ab. Achten Sie auf den Ton und stellen Sie fest, ob er abnormal ist, während Sie den Bildschirm vertikal halten.</string>
     <string name="test_main_mic">Haupt-MIKRO</string>
     <string name="test_second_flash">Zweiter Blitztest</string>
     <string name="test_sidebottom_mic">SeiteUnten MIKRO</string>

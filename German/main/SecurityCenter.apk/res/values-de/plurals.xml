@@ -531,8 +531,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">%d APK-Rest löschen</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d Akkuprobleme</item>
-        <item quantity="one">%d Akkuproblem</item>
+        <item quantity="other">%d Elemente mit hohem Stromverbrauch</item>
+        <item quantity="one">%d Element mit hohem Stromverbrauch</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">%d Punkte optimieren, um den Akku zu schonen</item>
@@ -975,8 +975,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">-mal</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d Akkuprobleme</item>
-        <item quantity="one">%d Akkuproblem</item>
+        <item quantity="other">%d Elemente mit hohem Stromverbrauch</item>
+        <item quantity="one">%d Element mit hohem Stromverbrauch</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d Tage "</item>
@@ -1011,8 +1011,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">%d Akkuproblem beheben</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Sie können %d Akkuprobleme beheben</item>
-        <item quantity="one">Sie können %d Akkuproblem beheben</item>
+        <item quantity="other">Sie können den Stromverbrauch für %d Elemente optimieren</item>
+        <item quantity="one">Sie können den Stromverbrauch für %d Element optimieren</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">%d Punkte optimierbar</item>
@@ -1041,6 +1041,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <plurals name="power_center_unoffical_battery_dialog_negative">
         <item quantity="other">Abbrechen (%ds)</item>
         <item quantity="one">Abbrechen (%ds)</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Verstanden (%d)</item>
+        <item quantity="one">Verstanden (%d)</item>
     </plurals>
     <plurals name="power_main_battery_last_day">
          <item quantity="other">%s Tage bleiben</item>
@@ -1163,8 +1167,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">%d Akkuproblem gefunden, bitte beheben</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">%d Akkuprobleme behoben</item>
-        <item quantity="one">%d Akkuproblem behoben</item>
+        <item quantity="other">%d Elemente mit hohem Stromverbrauch optimiert</item>
+        <item quantity="one">%d Element mit hohem Stromverbrauch optimiert</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Auf Werkseinstellungen zurücksetzen (%ds)</item>
@@ -1275,6 +1279,10 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
     <plurals name="title_virus_clean">
         <item quantity="other">%d Viren gelöscht</item>
         <item quantity="one">%d Virus gelöscht</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d Viren oder riskante Apps</item>
+        <item quantity="one">%d Virus oder riskante App</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d Apps</item>

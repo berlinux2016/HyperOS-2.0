@@ -109,13 +109,18 @@
     <string name="image_decode_failed">Bild entschlüsseln nicht möglich</string>
     <string name="image_not_found">Bild nicht gefunden</string>
     <string name="loading_text_format" formatted="false">Private Daten aus Fotos entfernen (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Screenshot erstellen…</string>
+    <string name="long_screenshot_content_loading">Einen Moment…</string>
+    <string name="long_screenshot_content_manual">Passen Sie den Endpunkt des Screenshots manuell an und tippen Sie dann auf \"Fertig\".</string>
+    <string name="long_screenshot_done">Fertig</string>
     <string name="long_screenshot_error">Ein Fehler ist aufgetreten. Erneut versuchen.</string>
-    <string name="long_screenshot_guide_text">Hier tippen, um einen\nScreenshot mit Bildlauf zu erstellen</string>
+    <string name="long_screenshot_guide_text">Hier tippen, um einen\nscrollenden Screenshot zu erstellen</string>
     <string name="long_screenshot_intercepted_error">Eine Unterbrechung ist aufgetreten. Screenshot wurde in der Galerie gespeichert.</string>
     <string name="long_screenshot_out_of_memory_error">Bild ist zu groß</string>
     <string name="long_screenshot_processing">Verarbeiten…</string>
-    <string name="long_screenshot_processing_description_accessibility">Verarbeitung</string>
+    <string name="long_screenshot_processing_description_accessibility">Verarbeiten</string>
     <string name="long_screenshot_stop">Fertig</string>
+    <string name="long_screenshot_title">Scrollender Screenshot</string>
     <string name="long_screenshot_top_msg">Screenshot erstellen…</string>
     <string name="long_screenshot_top_msg_description_accessibility">Screenshot erstellen</string>
     <string name="long_screenshot_top_msg_manual">Screenshot zurechtschneiden und zum Abschließen Taste drücken</string>

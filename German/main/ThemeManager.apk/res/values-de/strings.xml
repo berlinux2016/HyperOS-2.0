@@ -61,6 +61,7 @@
     <string name="add_home_icon_success">Erfolgreich hinzugefügt</string>
     <string name="add_resource_detail_fail">Ressource kann nicht hinzugefügt werden</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="air_quality_index_abbreviation">LQI</string>
     <string name="all_resources">Alle</string>
     <string name="all_ringtone_resource">Alle</string>
     <string name="allow">Erlauben</string>
@@ -128,7 +129,7 @@
     <string name="backup_theme_progress_message">Sichern…</string>
     <string name="backup_theme_success_message">Sicherung abgeschlossen</string>
     <string name="basic_mode">Offline-Modus</string>
-    <string name="basic_mode_desc">Themen stellt keine Internetverbindung her und verwenden nur lokale Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
+    <string name="basic_mode_desc">Erlauben Sie dieser App nicht, sich mit dem Internet zu verbinden. Greifen Sie nur auf Elemente auf Ihrem Gerät zu (z. B. Fotos, Audio und Videos) und verwenden Sie diese. Keine Ihrer persönlichen Daten werden gesammelt.</string>
     <string name="boot_audio_dialog_cancel">Abbrechen</string>
     <string name="boot_audio_dialog_content">Boot-Ton ist jetzt aus. Wieder einschalten und diesen Ton anwenden?</string>
     <string name="boot_audio_dialog_title">Achtung</string>
@@ -136,7 +137,7 @@
     <string name="both_all_apply_success">Hintergrund wurde angewendet</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="browse_mode">Online-Modus</string>
-    <string name="browse_mode_desc">Themen stellt eine Internetverbindung her und nutzen sowohl lokale als auch Online-Inhalte. Ihre persönlichen Daten werden nicht erfasst.</string>
+    <string name="browse_mode_desc">Erlauben Sie dieser App, sich mit dem Internet zu verbinden, auf Online-Inhalte zuzugreifen und Elemente auf Ihrem Gerät zu verwenden (z. B. Fotos, Audio und Videos). Keine Ihrer persönlichen Daten werden erfasst.</string>
     <string name="browser_local_resource">Lokale Ressourcen</string>
     <string name="can_not_apply">Anwenden nicht möglich</string>
     <string name="can_not_apply_error">Dieses Videoformat wird nicht unterstützt</string>
@@ -1475,6 +1476,8 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">Valentinstag</string>
     <string name="the_water_lantern_festival">Laternenfest</string>
+    <string name="the_picture_is_not_support">Bild wird nicht unterstützt</string>
+    <string name="the_picture_is_too_small">Bild ist zu klein</string>
     <string name="theme_apply_audio_dialog_item_alarm">Wecker</string>
     <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Benutzerdefinierter Klingelton</string>
     <string name="theme_apply_audio_dialog_item_mms">Nachrichtenklingelton</string>

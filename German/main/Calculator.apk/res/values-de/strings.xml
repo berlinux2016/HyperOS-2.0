@@ -45,7 +45,7 @@
     <string name="combine_loan">Kombiniertes Darlehen</string>
     <string name="commercial_loan">Gewerbliches Darlehen</string>
     <string name="convert_currency">Währungsrechner</string>
-    <string name="convertion_unit_finance">Finanzberechnung</string>
+    <string name="convertion_unit_finance">Finanzen</string>
     <string name="copy">Kopieren</string>
     <string name="cosDesc">Kosinus</string>
     <string name="cta_desc">Willkommen bei Rechner! Diese App kombiniert die Funktionen eines normalen Taschenrechners mit mehreren Konvertern und Lifestyle-Funktionen. Diese App benötigt eine Internetverbindung, um normal zu funktionieren.</string>
@@ -135,7 +135,7 @@
     <string name="input_limit">Weitere Elemente können nicht eingegeben werden</string>
     <string name="interest_rate_hint">Zinssatz eingeben</string>
     <string name="investment_invalid_duration">Anlagedauer muss größer als Null sein</string>
-    <string name="investment_type">Methode</string>
+    <string name="investment_type">Investitionsart</string>
     <string name="investment_type_once">Einmalig</string>
     <string name="investment_type_recurring">Wiederholt</string>
     <string name="item_title_area_conversion">Fläche</string>
