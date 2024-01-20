@@ -36,9 +36,8 @@
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Zum Auffinden Ihres Geräts und zum Umschalten in den Verloren-Modus</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-    <string name="default_debt_msg_words">"Dieses Gerät ist wegen einer überfälligen Zahlung gesperrt.
-Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
-    <string name="default_lock_msg_words">Dieses Gerät ist bereits mit einem Xiaomi-Konto verknüpft. Geben Sie das Passwort ein, um das Gerät zu verifizieren.</string>
+    <string name="default_debt_msg_words">Dieses Gerät ist aufgrund einer überfälligen Ratenzahlung gesperrt. \nKontaktieren Sie Ihren Händler für weitere Details.</string>
+    <string name="default_lock_msg_words">Dieses Gerät ist mit einem bestehenden Xiaomi Konto verknüpft. Aus Sicherheitsgründen müssen Sie ein Passwort eingeben, um das Gerät zu verifizieren.</string>
     <string name="default_lock_msg_words_with_phone">Hi! Ich habe dieses Gerät verloren. Können Sie mich bitte kontaktieren? Vielen Dank!</string>
     <string name="device_locked">Dieses Gerät ist gesperrt</string>
     <string name="device_lost">Dieses Gerät wurde verloren</string>
@@ -61,15 +60,14 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="find_device_error_account_sys_timeout">Nicht mit Xiaomi-Konto verbunden</string>
     <string name="find_device_error_account_unknown_error">Fehler Xiaomi-Konto (%s)</string>
     <string name="find_device_error_network">Netzwerkfehler</string>
-    <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert</string>
+    <string name="find_device_error_password_changed">Kontopasswort wurde vor kurzem geändert</string>
     <string name="find_device_error_server">Serverfehler (%s)</string>
     <string name="find_device_error_unknown">Unbekannter Fehler (%s)</string>
     <string name="find_device_noise_title">Gerät finden-Alarm</string>
     <string name="find_device_notice">Wenn Ihr Gerät verschwunden ist, können Sie &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> besuchen, um es aus der Ferne zu orten, zu sperren oder Daten zu löschen.</string>
-    <string name="find_device_notice_sms_alert">Wenn Sie die SIM-Karten wechseln, wird eventuell automatisch eine weitere SMS gesendet, um diese Funktion wieder zu aktivieren.</string>
-    <string name="find_device_notice_sms_alert_with_common_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, nachdem Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
-    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>inländische kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, nachdem Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
-    <string name="find_device_notice_sms_alert_with_internal_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, nachdem Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, wenn Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>inländische kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, wenn Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">Um den SIM-Status zu aktualisieren und sicherzustellen, dass alle Dienste normal funktionieren, wird eine &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b>&lt;/font> gesendet, wenn Sie die SIM-Karte gewechselt haben. Diese Nachricht wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
     <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
     <string name="find_device_storage_corrupted">Gerät finden-Speicher beschädigt. Ihr Gerät ist jetzt unsicher.</string>
     <string name="find_device_success_title">Gerät finden ist an</string>
@@ -101,7 +99,7 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="lock_msg_phone">Kontaktinformation: %s</string>
+    <string name="lock_msg_phone">Kontaktdaten: %s</string>
     <string name="login_extra_steps">Anmeldeverifikation</string>
     <string name="login_failed">Anmeldung fehlgeschlagen. %s.</string>
     <string name="midnight">Nacht</string>
@@ -168,7 +166,7 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="passport_checking_vcode">Passwort prüfen…</string>
     <string name="passport_error_empty_vcode">Verifizierungscode eingeben</string>
     <string name="passport_notification_need_unlock_again">Entsperren nochmals versuchen</string>
-    <string name="passport_notification_processing">Verarbeiten…</string>
+    <string name="passport_notification_processing">In Bearbeitung…</string>
     <string name="passport_trust_device">Diesem Gerät vertrauen</string>
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_verify">Verifizieren</string>
@@ -216,8 +214,6 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="sys_notification_async_verify_content">Unsere aktualisierte Sicherheitsrichtlinie erfordert die Reaktivierung von \"Gerät finden\"</string>
     <string name="sys_notification_async_verify_title">Gerät finden reaktivieren</string>
     <string name="talkback_back">Zurück</string>
-    <string name="talkback_hide_passcode">Passcode verbergen</string>
-    <string name="talkback_show_passcode">Passcode anzeigen</string>
     <string name="talkback_hide_pwd">Passwort verbergen</string>
     <string name="talkback_show_pwd">Passwort anzeigen</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
@@ -274,7 +270,7 @@ Kontaktieren Sie Ihren Verkäufer für weitere Details."</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="unlock">Aktivieren</string>
-    <string name="unlock_access_denied">Zugang verweigert</string>
+    <string name="unlock_access_denied">Zugriff verweigert</string>
     <string name="unlock_bad_authentication">Ungültiger Benutzername oder Passwort</string>
     <string name="unlock_error_abort">Abbruch durch Benutzer</string>
     <string name="unlock_error_device_id">Geräte-ID kann nicht ermittelt werden</string>
