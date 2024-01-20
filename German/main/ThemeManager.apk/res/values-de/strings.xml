@@ -137,7 +137,7 @@
     <string name="both_all_apply_success">Hintergrund wurde angewendet</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="browse_mode">Online-Modus</string>
-    <string name="browse_mode_desc">Erlauben Sie dieser App, sich mit dem Internet zu verbinden, auf Online-Inhalte zuzugreifen und Elemente auf Ihrem Gerät zu verwenden (z. B. Fotos, Audio und Videos). Keine Ihrer persönlichen Daten werden erfasst.</string>
+    <string name="browse_mode_desc">Erlauben Sie dieser App, sich mit dem Internet zu verbinden, auf Online-Inhalte zuzugreifen und Elemente auf Ihrem Gerät zu verwenden (z. B. Fotos, Audio und Videos). Keine Ihrer persönlichen Daten werden gesammelt.</string>
     <string name="browser_local_resource">Lokale Ressourcen</string>
     <string name="can_not_apply">Anwenden nicht möglich</string>
     <string name="can_not_apply_error">Dieses Videoformat wird nicht unterstützt</string>
