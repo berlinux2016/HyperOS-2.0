@@ -60,7 +60,7 @@
     <string name="find_device_error_account_sys_timeout">Nicht mit Xiaomi-Konto verbunden</string>
     <string name="find_device_error_account_unknown_error">Fehler Xiaomi-Konto (%s)</string>
     <string name="find_device_error_network">Netzwerkfehler</string>
-    <string name="find_device_error_password_changed">Kontopasswort wurde vor kurzem geändert</string>
+    <string name="find_device_error_password_changed">Kontopasswort wurde kürzlich geändert</string>
     <string name="find_device_error_server">Serverfehler (%s)</string>
     <string name="find_device_error_unknown">Unbekannter Fehler (%s)</string>
     <string name="find_device_noise_title">Gerät finden-Alarm</string>

@@ -54,7 +54,7 @@
     <string name="app_description_content">Cleaner erkennt Datenmüll auf Ihrem Gerät und bereinigt den Speicher. Nach der Deinstallation können Sie diese Funktionen nicht mehr nutzen.</string>
     <string name="app_description_title">Über Cleaner</string>
     <string name="app_usage_never">Kürzlich nicht benutzt</string>
-    <string name="app_usage_recently">Vor kurzem verwendet</string>
+    <string name="app_usage_recently">Kürzlich verwendet</string>
     <string name="appcleaner_g_audio_summary_qq">QQ-Sprachnachrichten dauerhaft löschen</string>
     <string name="appcleaner_g_audio_summary_wechat">WeChat-Sprachnachrichten dauerhaft löschen</string>
     <string name="appcleaner_g_audio_title_qq">QQ Sprachnachrichten-Cleaner</string>
