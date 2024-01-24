@@ -95,10 +95,11 @@
     <string name="add_to_secret_successful">Zum versteckten Album hinzugefügt</string>
     <string name="add_to_share_album_not_delete">Foto löschen im geteilten Album nicht möglich</string>
     <string name="add_to_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
+    <string name="added_to_clipboard_description">Dieses Video wurde noch nicht auf Ihr Gerät heruntergeladen. Jetzt herunterladen und in die Zwischenablage kopieren?</string>
     <string name="added_to_clipboard_toast">Erfolgreich kopiert</string>
     <string name="added_to_favorites">Zu Favoriten hinzugefügt</string>
     <string name="added_to_favorites_desc">Zu Favoriten hinzugefügt</string>
-    <string name="added_to_favorites_tip">Hinzugefügt zu \"Favoriten\" Album</string>
+    <string name="added_to_favorites_tip">Hinzugefügt zu \"Favoriten\"-Album</string>
     <string name="adding">Hinzufügen…</string>
     <string name="adding_recipients">Empfänger hinzufügen…</string>
     <string name="adding_to_album">Fotos hinzufügen…</string>
