@@ -9126,6 +9126,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="slider_voice_title">Töne</string>
     <string name="slot_status_title">IMEI-Info</string>
     <string name="small_font">Klein</string>
+    <string name="small_window_not_support_add_data_toast">Daten können in Popups nicht aufgezeichnet werden. Ins Vollbild wechseln und erneut versuchen.</string>
     <string name="smallwindow_smartcover_title">Kleine Fensterfrontabdeckung</string>
     <string name="smart_battery_footer">Wenn Akkumanager erkennt, dass Apps den Akku verbrauchen, können Sie diese Apps einschränken. Beschränkte Apps funktionieren evtl. nicht richtig und Benachrichtigungen können sich verzögern.</string>
     <string name="smart_battery_manager_title">Akkumanager</string>

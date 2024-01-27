@@ -218,6 +218,7 @@
     <string name="focus_time_exception_tip">Anscheinend hat sich die Systemzeit geändert. Fokusmodus wurde ausgeschaltet.</string>
     <string name="follow_apps_settings">Basierend auf App-Einstellungen</string>
     <string name="follow_sim1">Einstellungen SIM1 übernehmen</string>
+    <string name="footer_global_fps">"\n%1$d. Wenn Sie den Leistungsmodus aktivieren, wird die Aktualisierungsrate auf das Systemmaximum von %2$d Hz umgestellt. Einstellungen für Apps mit hoher Bildwiederholfrequenz sind dann vorübergehend nicht verfügbar."</string>
     <string name="footer_max_fps" formatted="false">\n%d. Bildwiederholfrequenz kann für unterstützte Apps und Spiele auf bis zu %s Hz eingestellt werden.</string>
     <string name="force_rest">Sitzungspausen nutzen</string>
     <string name="force_rest_summary">Zwangspausen einlegen, wenn Sitzungen das festgelegte Limit erreichen</string>

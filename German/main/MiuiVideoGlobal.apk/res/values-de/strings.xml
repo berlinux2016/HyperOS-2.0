@@ -1514,6 +1514,10 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="slide_save_message">Video erstellen…</string>
     <string name="slide_to_open_ad">Schieben, um mehr zu erfahren</string>
     <string name="small_video_load_more_hint">Hochwischen, um mehr Videos abzuspielen</string>
+    <string name="small_video_report">Bericht</string>
+    <string name="small_video_report_dialog_title">Grund wählen</string>
+    <string name="small_video_report_submit">Einreichen</string>
+    <string name="small_video_report_success">Danke für Ihr Feedback!</string>
     <string name="small_video_tab_expose_hint">Entdecken Sie Kurzvideos, die Ihnen gefallen werden</string>
     <string name="sms_send_success">Erfolgreich gesendet</string>
     <string name="sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
