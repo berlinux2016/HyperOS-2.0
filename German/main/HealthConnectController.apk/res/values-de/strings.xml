@@ -42,7 +42,7 @@
     <string name="arm_curl">Armbeuge</string>
     <string name="auto_delete_button">Automatisch löschen</string>
     <string name="auto_delete_header">Steuern Sie, wie lange Ihre Daten in Health Connect gespeichert werden, indem Sie festlegen, dass sie nach einer bestimmten Zeit gelöscht werden sollen</string>
-    <string name="auto_delete_learn_more">Erfahren Sie mehr über automatisch löschen</string>
+    <string name="auto_delete_learn_more">Erfahren Sie mehr über automatisches Löschen</string>
     <string name="auto_delete_rationale">Wenn Sie diese Einstellungen ändern, löscht Health Connect vorhandene Daten, um Ihre neuen Einstellungen zu berücksichtigen</string>
     <string name="auto_delete_section">Daten automatisch löschen</string>
     <string name="auto_delete_title">Automatisch löschen</string>
@@ -170,12 +170,12 @@
     <string name="connected_apps_title">App-Berechtigungen</string>
     <string name="copper">Kupfer</string>
     <string name="copy">Kopieren</string>
-    <string name="cycle_tracking_category_lowercase">Fahrradverfolgung</string>
-    <string name="cycle_tracking_category_uppercase">Fahrradverfolgung</string>
+    <string name="cycle_tracking_category_lowercase">Zyklusverfolgung</string>
+    <string name="cycle_tracking_category_uppercase">Zyklusverfolgung</string>
     <string name="cycling_cadence_series_range_long">von %1$s bis %2$s</string>
     <string name="cycling_rpm_long">{count, plural, =1 {1 Umdrehung pro Minute} other {# Umdrehungen pro Minute}}</string>
     <string name="dancing">Tanzen</string>
-    <string name="data_access_empty_message">Apps können %1$s nicht mehr lesen oder schreiben und es sind keine %2$s Daten in Health Connect gespeichert</string>
+    <string name="data_access_empty_message">Apps können %1$s nicht mehr lesen oder schreiben und es sind keine %2$s-Daten in Health Connect gespeichert</string>
     <string name="data_access_exercise_description">Diese Daten umfassen Infos wie aktive Zeit, Übungstyp, Runden, Wiederholungen, Sitzungen oder Schwimmzüge</string>
     <string name="data_access_sleep_description">Diese Daten enthalten Infos wie Schlafphasen und Schlafsitzungen</string>
     <string name="data_point_action_content_description">Dateneintrag löschen</string>
@@ -202,16 +202,16 @@
     <string name="delete_dialog_success_title">Daten gelöscht</string>
     <string name="delete_permission_type_data_button">Diese Daten löschen</string>
     <string name="delete_progress_indicator">Ihre Daten löschen</string>
-    <string name="deletion_started_category_list_section">Aus diesen Dateien zu löschende Daten</string>
+    <string name="deletion_started_category_list_section">Aus diesen zu löschende Daten</string>
     <string name="deletion_started_done_button">Fertig</string>
     <string name="deletion_started_title">Vorhandene Daten werden gelöscht</string>
     <string name="deletion_started_x_months">{count, plural, =1{Health Connect öscht alle Daten, die älter als # Monat sind. Es kann einen Tag dauern, bis diese Änderungen in Ihren verbundenen Apps angezeigt werden.} other{Health Connect öscht alle Daten, die älter als # Monate sind. Es kann einen Tag dauern, bis diese Änderungen in Ihren verbundenen Apps angezeigt werden.} }</string>
     <string name="denied_apps_banner_button">Details anzeigen</string>
     <string name="denied_apps_banner_message_many_apps">Health Connect hat Berechtigungen für %1$s, %2$s, %3$s und andere Apps entfernt</string>
-    <string name="denied_apps_banner_message_one_app">Health Connect hat die Berechtigungen für %s entfernt</string>
+    <string name="denied_apps_banner_message_one_app">Health Connect hat Berechtigungen für %s entfernt</string>
     <string name="denied_apps_banner_message_three_apps">Health Connect hat Berechtigungen für %1$s, %2$s und %3$s entfernt</string>
     <string name="denied_apps_banner_message_two_apps">Health Connect hat Berechtigungen für %1$s und %2$s entfernt</string>
-    <string name="denied_apps_banner_title">Entfernte App-Berechtigungen</string>
+    <string name="denied_apps_banner_title">App-Berechtigungen entfernt</string>
     <string name="denied_apps_dialog_got_it_button">Verstanden</string>
     <string name="denied_apps_dialog_message">Wenn eine App gesperrt oder von Google Play entfernt wird, entfernt Health Connect automatisch ihre Berechtigungen. \n\nDas bedeutet, dass die App nicht mehr auf die in Health Connect gespeicherten Daten zugreifen kann. Wenn diese App zuvor Daten geschrieben hat, erscheint sie in der Liste der inaktiven Apps.</string>
     <string name="denied_apps_dialog_title">Warum Health Connect App-Berechtigungen entfernt</string>
@@ -281,7 +281,7 @@
     <string name="football_australian">Australian Football</string>
     <string name="forward_twist">Vorwärtsdrehung</string>
     <string name="free_up_space_button">Speicherplatz freigeben</string>
-    <string name="front_raise">Front raise</string>
+    <string name="front_raise">Frontheben</string>
     <string name="gram_long_format">{count, plural, =1 {1 Gramm} other {# Gramm}}</string>
     <string name="guided_breathing">Geführtes Atmen</string>
     <string name="gymnastics">Gymnastik</string>
@@ -292,10 +292,10 @@
     <string name="heart_rate_read_content_description">Puls lesen</string>
     <string name="heart_rate_series_range_long">von %1$s bis %2$s</string>
     <string name="heart_rate_uppercase_label">Puls</string>
-    <string name="heart_rate_variability_lowercase_label">variabler Puls</string>
-    <string name="heart_rate_variability_read_content_description">Variablen Puls lesen</string>
-    <string name="heart_rate_variability_uppercase_label">Variabler Puls</string>
-    <string name="heart_rate_variability_write_content_description">Variablen Puls schreiben</string>
+    <string name="heart_rate_variability_lowercase_label">Herzfrequenz-Variabilität</string>
+    <string name="heart_rate_variability_read_content_description">Herzfrequenz-Variabilität lesen</string>
+    <string name="heart_rate_variability_uppercase_label">Herzfrequenz-Variabilität</string>
+    <string name="heart_rate_variability_write_content_description">Herzfrequenz-Variabilität schreiben</string>
     <string name="heart_rate_write_content_description">Puls schreiben</string>
     <string name="height_cm_long">{height, plural, =1 {1 Zentimeter} other {# Zentimeter}}</string>
     <string name="height_ft_long">{height, plural, =1 {1 Fuß} other {# Fuß}}</string>
@@ -344,7 +344,7 @@
     <string name="kilograms_long_label">{count, plural, =1 {1 Kilogramm} other {# Kilogramm}}</string>
     <string name="kj_long">{count, plural, =1 {1 Kilojoule} other {# Kilojoule}}</string>
     <string name="lat_pull_down">Klimmzug</string>
-    <string name="lateral_raise">Seitliches Anheben</string>
+    <string name="lateral_raise">Seitliches Heben</string>
     <string name="lean_body_mass_lowercase_label">fettfreie Körpermasse</string>
     <string name="lean_body_mass_read_content_description">Fettfreie Körpermasse lesen</string>
     <string name="lean_body_mass_uppercase_label">Fettfreie Körpermasse</string>
@@ -364,7 +364,7 @@
     <string name="manage_permissions_read_header">Lesen erlaubt</string>
     <string name="manage_permissions_time_frame">%1$s kann Daten lesen, die nach %2$s hinzugefügt wurden</string>
     <string name="manage_permissions_write_header">Schreiben erlaubt</string>
-    <string name="manage_your_settings">Verwalten Sie Ihre Einstellungen und Ihre Privatsphäre</string>
+    <string name="manage_your_settings">Verwalten Sie Ihre Einstellungen und Privatsphäre</string>
     <string name="manage_your_settings_description">Ändern Sie App-Berechtigungen und verwalten Sie Ihre Daten jederzeit</string>
     <string name="manganese">Mangan</string>
     <string name="martial_arts">Kampfsport</string>
@@ -377,7 +377,6 @@
     <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="material_timepicker_hour">Stunde</string>
-    <string name="material_timepicker_minute">Minute</string>
     <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
     <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="mealtype_breakfast">Frühstück</string>
@@ -389,7 +388,7 @@
     <string name="menstruation_read_content_description">Menstruation lesen</string>
     <string name="menstruation_write_content_description">Menstruation schreiben</string>
     <string name="migration_app_update_needed_action">Bevor Sie fortfahren, aktualisieren Sie die App Health Connect auf die neueste Version.</string>
-    <string name="migration_app_update_needed_notification_title">Health Connect-Update erforderlich</string>
+    <string name="migration_app_update_needed_notification_title">Update Health Connect erforderlich</string>
     <string name="migration_complete_notification_action">Öffnen</string>
     <string name="migration_complete_notification_title">Health Connect-Integration abgeschlossen</string>
     <string name="migration_in_progress_notification_title">Health Connect-Integration läuft</string>
@@ -433,8 +432,9 @@
     <string name="millimoles_per_liter">{count, plural, =1 {1 mmol/l} other {# mmol/l}}</string>
     <string name="millimoles_per_liter_long">{count, plural, =1 {1 Millimol pro liter} other {# Millimol pro liter}}</string>
     <string name="milliseconds_long">{count, plural, =1 {1 Millisekunde} other {# Millisekunden}}</string>
+    <string name="minute_duration">%1$s Min</string>
     <string name="minute_duration_accessibility">{count, plural, =1 {1 Minute} other {# Minuten}}</string>
-    <string name="module_update_needed_seen">Modulaktualisierung erkannt</string>
+    <string name="module_update_needed_seen">Modul-Update vorhanden</string>
     <string name="molybdenum">Molybdän</string>
     <string name="monounsaturated_fat">Einfach ungesättigte Fettsäuren</string>
     <string name="mountain_climber">Bergsteiger</string>
@@ -577,7 +577,6 @@
     <string name="respiratory_rate_lowercase_label">Atemfrequenz</string>
     <string name="respiratory_rate_read_content_description">Atemfrequenz lesen</string>
     <string name="respiratory_rate_uppercase_label">Atemfrequenz</string>
-    <string name="respiratory_rate_value">{count, plural, =1 {1 rpm} other {# rpm}}</string>
     <string name="respiratory_rate_value_long">{count, plural, =1 {1 Atemzug pro Minute} other {# Atemzüge pro Minute}}</string>
     <string name="respiratory_rate_write_content_description">Atemfrequenz schreiben</string>
     <string name="rest">Ruhe</string>
@@ -600,7 +599,7 @@
     <string name="running_treadmill">Laufbandlauf</string>
     <string name="sailing">Segeln</string>
     <string name="saturated_fat">Gesättigte Fettsäuren</string>
-    <string name="scuba_diving">Gerätetauchen</string>
+    <string name="scuba_diving">Sporttauchen</string>
     <string name="search_breadcrumbs_data">Health Connect > Daten und Zugriff</string>
     <string name="search_breadcrumbs_permissions">Health Connect > App-Berechtigungen</string>
     <string name="search_connected_apps">Apps suchen</string>
@@ -685,7 +684,7 @@
     <string name="swimming_freestyle">Freistil</string>
     <string name="swimming_mixed">Gemischt</string>
     <string name="swimming_open_water">Freiwasserschwimmen</string>
-    <string name="swimming_other">Andere</string>
+    <string name="swimming_other">Anderes</string>
     <string name="swimming_pool">Schwimmen im Pool</string>
     <string name="table_tennis">Tischtennis</string>
     <string name="temperature_celsius_long">{value, plural, =1 {1 Grad Celsius} other {# Grad Celsius}}</string>
@@ -738,7 +737,7 @@
     <string name="vo2_max_long">{value, plural, =1 {1 Milliliter Sauerstoff pro Kilogramm Körpermasse pro Minute} other {# Milliliter Sauerstoff pro Kilogramm Körpermasse pro Minute}}</string>
     <string name="vo2_max_read_content_description">VO2 max lesen</string>
     <string name="vo2_max_write_content_description">VO2 max lesen</string>
-    <string name="vo2_metabolic_cart">Stoffwechselwagen</string>
+    <string name="vo2_metabolic_cart">Stoffwechseldiagramm</string>
     <string name="vo2_multistage_fitness_test">Mehrstufiger Fitnesstest</string>
     <string name="vo2_other">Andere</string>
     <string name="vo2_rockport_fitness_test">Rockport Fitnesstest</string>
@@ -748,7 +747,6 @@
     <string name="waist_circumference_write_content_description">Taillenumfang schreiben</string>
     <string name="walking">Gehen</string>
     <string name="water_polo">Wasserball</string>
-    <string name="watt_format">{value, plural, =1 {1 W} other {# W}}</string>
     <string name="watt_format_long">{value, plural, =1 {1 Watt} other {# Watts}}</string>
     <string name="weight_lowercase_label">Gewicht</string>
     <string name="weight_read_content_description">Gewicht lesen</string>
@@ -759,7 +757,7 @@
     <string name="weight_uppercase_label">Gewicht</string>
     <string name="weight_write_content_description">Gewicht schreiben</string>
     <string name="weightlifting">Gewichtheben</string>
-    <string name="whats_new_dialog_seen">Was neu ist</string>
+    <string name="whats_new_dialog_seen">Was ist neu</string>
     <string name="wheelchair">Rollstuhl</string>
     <string name="wheelchair_pushes">{count, plural, =1 {1 Rollstuhlschub} other {# Rollstuhlschübe}}</string>
     <string name="wheelchair_pushes_lowercase_label">Rollstuhlschübe</string>
