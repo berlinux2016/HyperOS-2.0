@@ -273,7 +273,6 @@
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="day">Tag</string>
-    <string name="default_filedownloader_notification_content">FileDownloader läuft gerade</string>
     <string name="default_upgrade_hint">"Hallo zusammen!
 Mi Video ist bereit für ein Update.
 App jetzt aktualisieren, um unsere neuen coolen Funktionen auszuprobieren!
