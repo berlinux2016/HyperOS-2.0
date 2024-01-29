@@ -13,7 +13,6 @@
     <string name="add">Hinzufügen</string>
     <string name="allow">Erlauben</string>
     <string name="app_label">Medienspeicher</string>
-    <string name="artist_label">Künstler</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="cache_clearing_dialog_text">%s würde gerne einige temporäre Dateien löschen. Dies kann zu einer erhöhten Nutzung des Akkus oder der Mobilfunkdaten führen.</string>
@@ -33,7 +32,6 @@
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_track_selection_auto">Automatisch</string>
     <string name="exo_track_selection_none">Ohne</string>
-    <string name="exo_track_unknown">Unbekannt</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
@@ -49,7 +47,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
-    <string name="not_selected">nicht gewählt</string>
+    <string name="not_selected">Nicht gewählt</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="permission_delete_audio">{count, plural, =1 {^1 erlauben, diese Audiodatei zu löschen?} other {^1 erlauben, ^2 Audiodateien zu löschen?} }</string>
@@ -57,7 +55,7 @@
     <string name="permission_delete_image">{count, plural, =1 {^1 erlauben, dieses Foto zu löschen?} other {^1 erlauben, ^2 Fotos zu löschen?} }</string>
     <string name="permission_delete_video">{count, plural, =1 {^1 erlauben, dieses Video zu löschen?} other {^1 erlauben, ^2 Videos zu löschen?} }</string>
     <string name="permission_more_text">{count, plural, =1 {Plus ^1 zusätzliches Element} other {Plus ^1 zusätzliche Elemente} }</string>
-    <string name="permission_progress_delete_audio">{count, plural, =1 {Löschen 1 Audiodatei…} other {Löschen von ^1 Audiodateien…} }</string>
+    <string name="permission_progress_delete_audio">{count, plural, =1 {Audiodatei löschen…} other {Löschen von ^1 Audiodateien…} }</string>
     <string name="permission_progress_delete_generic">{count, plural, =1 {Element löschen…} other {^1 Elemente löschen…} }</string>
     <string name="permission_progress_delete_image">{count, plural, =1 {Foto löschen…} other {^1 Fotos löschen…} }</string>
     <string name="permission_progress_delete_video">{count, plural, =1 {Video löschen…} other {^1 Videos löschen…} }</string>
@@ -107,25 +105,25 @@
     <string name="picker_browse">Durchsuchen...</string>
     <string name="picker_category_camera">Kamera</string>
     <string name="picker_category_favorites">Favoriten</string>
-    <string name="picker_cloud_sync">Cloud-Medien jetzt verfügbar von %1$s</string>
+    <string name="picker_cloud_sync">Cloud-Medien von %1$s jetzt verfügbar</string>
     <string name="picker_error_dialog_body">Internetverbindung prüfen und erneut versuchen</string>
     <string name="picker_error_dialog_positive_action">Wiederholen</string>
     <string name="picker_error_dialog_title">Probleme beim Abspielen des Videos</string>
     <string name="picker_error_snackbar">Video kann nicht abgespielt werden</string>
-    <string name="picker_header_permissions">Wählen Sie Fotos und Videos aus, auf die diese App zugreifen darf</string>
+    <string name="picker_header_permissions">Elemente wählen, um den Zugriff zu erlauben</string>
     <string name="picker_item_content_desc">%1$s aufgenommen am %2$s</string>
     <string name="picker_motion_photo">Bewegungsfoto</string>
     <string name="picker_motion_photo_text">Bewegungsfoto</string>
     <string name="picker_mute_video">Video stummschalten</string>
-    <string name="picker_personal_profile">Zu persönlich wechseln</string>
+    <string name="picker_personal_profile">Zu privat wechseln</string>
     <string name="picker_photo">Foto</string>
     <string name="picker_photos">Fotos</string>
     <string name="picker_photos_empty_message">Keine Fotos oder Videos</string>
     <string name="picker_play_video">Abspielen</string>
     <string name="picker_preview">Vorschau</string>
-    <string name="picker_privacy_message">Diese App kann nur auf die von Ihnen ausgewählten Fotos zugreifen</string>
-    <string name="picker_profile_admin_msg_from_personal">Zugriff auf Arbeitsdaten von einer persönlichen App ist nicht erlaubt</string>
-    <string name="picker_profile_admin_msg_from_work">Zugriff auf persönliche Daten über eine Arbeits-App ist nicht erlaubt</string>
+    <string name="picker_privacy_message">Diese App kann nur auf von Ihnen ausgewählte Fotos zugreifen</string>
+    <string name="picker_profile_admin_msg_from_personal">Zugriff auf Arbeitsdaten von einer privaten App ist nicht erlaubt</string>
+    <string name="picker_profile_admin_msg_from_work">Zugriff auf private Daten über eine Arbeits-App ist nicht erlaubt</string>
     <string name="picker_profile_admin_title">Von Ihrem Admin blockiert</string>
     <string name="picker_profile_work_paused_msg">Um Arbeitsfotos zu öffnen, Arbeits-Apps einschalten und erneut versuchen</string>
     <string name="picker_profile_work_paused_title">Arbeits-Apps werden angehalten</string>
@@ -135,14 +133,14 @@
     <string name="picker_settings_selection_message">Zugriff auf Cloud-Medien von</string>
     <string name="picker_settings_system_settings_menu_title">Cloud-Medien-App</string>
     <string name="picker_settings_title">Cloud-Medien-App</string>
-    <string name="picker_settings_toast_error">Cloud-Medien-App kann zurzeit nicht geändert werden.</string>
+    <string name="picker_settings_toast_error">Cloud-Medien-App kann derzeit nicht geändert werden.</string>
     <string name="picker_unmute_video">Videostummschaltung aufheben</string>
     <string name="picker_video_item_content_desc">Video aufgenommen am %1$s mit einer Dauer von %2$s</string>
     <string name="picker_view_selected">Gewähltes anzeigen</string>
     <string name="picker_work_profile">Zur Arbeit umschalten</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="preloading_progress_message">%1$d von %2$d fertig</string>
-    <string name="recent">Neueste</string>
+    <string name="recent">Zuletzt</string>
     <string name="root_documents">Dokumente</string>
     <string name="root_images">Bilder</string>
     <string name="safety_protection_icon_label">Sicherheitsschutz</string>
@@ -150,7 +148,7 @@
     <string name="select_up_to">{count, plural, =1 {Bis zu ^1 Element auswählen} other {Bis zu ^1 Elemente auswählen} }</string>
     <string name="selected">Gewählt</string>
     <string name="settings_label">Einstellungen</string>
-    <string name="settingslib_category_personal">Persönlich</string>
+    <string name="settingslib_category_personal">Privat</string>
     <string name="settingslib_category_work">Arbeit</string>
     <string name="storage_description">Lokaler Speicher</string>
     <string name="transcode_alert_channel">Native Transcode-Warnungen</string>

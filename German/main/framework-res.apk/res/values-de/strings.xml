@@ -1067,7 +1067,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="no_recent_tasks">Keine zuletzt geöffneten Apps</string>
     <string name="noon">Mittag</string>
     <string name="not_checked">Nicht geprüft</string>
-    <string name="not_selected">Nicht ausgewählt</string>
+    <string name="not_selected">Nicht gewählt</string>
     <string name="notification_action_check_bg_apps">Aktive Apps prüfen</string>
     <string name="notification_alerted_content_description">Gewarnt</string>
     <string name="notification_app_name_settings">Einstellungen</string>
@@ -1511,7 +1511,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="perms_description_app">Zur Verfügung gestellt von %1$s</string>
     <string name="perms_new_perm_prefix">"&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEU: &lt;/font&gt;"</string>
     <string name="personal_apps_suspended_turn_profile_on">Einschalten</string>
-    <string name="personal_apps_suspension_soon_text">Persönliche Apps werden am %1$s um %2$s gesperrt. Ihr IT-Admin erlaubt nicht, dass Ihr Arbeitsprofil länger als %3$d Tage ausgeschaltet bleibt.</string>
+    <string name="personal_apps_suspension_soon_text">Private Apps werden am %1$s um %2$s gesperrt. Ihr IT-Admin erlaubt nicht, dass Ihr Arbeitsprofil länger als %3$d Tage ausgeschaltet bleibt.</string>
     <string name="personal_apps_suspension_text">Ihre persönlichen Apps sind gesperrt, bis Sie Ihr Arbeitsprofil einschalten</string>
     <string name="personal_apps_suspension_title">Arbeitsprofil einschalten</string>
     <string name="phoneTypeAssistant">Assistent</string>

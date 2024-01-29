@@ -132,7 +132,7 @@
     <string name="error_server">Serverfehler</string>
     <string name="error_server_busy">Unsere Server sind ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="error_server_error">Serverfehler</string>
-    <string name="error_timeout">Zeitüberschreitung Anfrage</string>
+    <string name="error_timeout">Zeitüberschreitung bei Anfrage</string>
     <string name="error_token_expired">Erneut bei Ihrem Xiaomi-Konto anmelden</string>
     <string name="error_unknown">Anmeldung fehlgeschlagen</string>
     <string name="error_unsupported">Diese Funktion wird auf diesem Gerät nicht unterstützt</string>
