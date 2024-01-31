@@ -409,7 +409,7 @@
     <string name="common_google_play_services_update_text">%1$s läuft nicht, wenn Sie Google Play-Dienste nicht aktualisieren.</string>
     <string name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
     <string name="common_google_play_services_updating_text">%1$s läuft nicht ohne Google Play-Dienste, die gerade aktualisiert werden.</string>
-    <string name="common_google_play_services_wear_update_text">Neue Version der Google Play-Dienste erforderlich. Sie werden sich in Kürze selbst aktualisieren.</string>
+    <string name="common_google_play_services_wear_update_text">Neue Version der Google Play-Dienste erforderlich. Sie wird sich in Kürze selbst aktualisieren.</string>
     <string name="common_open_on_phone">Am Telefon öffnen</string>
     <string name="common_signin_button_text">Anmelden</string>
     <string name="common_signin_button_text_long">Mit Google anmelden</string>

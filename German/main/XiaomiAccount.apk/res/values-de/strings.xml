@@ -145,9 +145,10 @@
     <string name="cloud_service_status_storage_full">Speicher ist voll</string>
     <string name="cloud_service_status_storage_not_enough">Nicht genug Speicher</string>
     <string name="collect_diagnosis_log">Diagnoseprotokoll erstellen</string>
-    <string name="com_facebook_device_auth_instructions">Gehen Sie auf &lt;b&gt;facebook.com/device&lt;/b&gt; und geben Sie den oben gezeigten Code ein.</string>
+    <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> aufrufen und den oben angezeigten Code eingeben</string>
     <string name="com_facebook_image_download_unknown_error">Unerwarteter Fehler beim Herunterladen eines Bildes</string>
     <string name="com_facebook_internet_permission_error_message">WebView-Anmeldung erfordert INTERNET-Berechtigung</string>
+    <string name="com_facebook_internet_permission_error_title">Android-Manifest Fehler</string>
     <string name="com_facebook_like_button_liked">Gefällt mir</string>
     <string name="com_facebook_like_button_not_liked">Gefällt mir</string>
     <string name="com_facebook_loading">Laden…</string>
@@ -158,7 +159,7 @@
     <string name="com_facebook_loginview_log_out_action">Abmelden</string>
     <string name="com_facebook_loginview_log_out_button">Abmelden</string>
     <string name="com_facebook_loginview_logged_in_as">Angemeldet als: %1$s</string>
-    <string name="com_facebook_loginview_logged_in_using_facebook">Angemeldet mit Facebook</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Mit Facebook angemeldet</string>
     <string name="com_facebook_send_button_text">Senden</string>
     <string name="com_facebook_share_button_text">Teilen</string>
     <string name="com_facebook_smart_device_instructions">Um Ihr Konto zu verbinden, öffnen Sie die Facebook-App auf Ihrem Mobilgerät und suchen Sie nach Benachrichtigungen.</string>
@@ -251,6 +252,7 @@
     <string name="family_service">Familiäre Dienstleistungen</string>
     <string name="family_service_not_open">Mitglieder einladen</string>
     <string name="family_share">Mit der Familie teilen</string>
+    <string name="fcm_fallback_notification_channel_label">Verschiedenes</string>
     <string name="fido2_client_for_fingerprint_auth">Tippen, um sich per Fingerabdruck zu verifizieren</string>
     <string name="fido2_close_fingerprint_auth">Ausschalten</string>
     <string name="fido2_close_fingerprint_auth_desc">Fingerabdruckverifizierung jetzt ausschalten?</string>

@@ -509,7 +509,7 @@
     <string name="favorite_to_playlist">Zur Wiedergabeliste hinzufügen</string>
     <string name="favorite_tracks">Lieblingsmusik</string>
     <string name="favorites">Favoriten</string>
-    <string name="fcm_fallback_notification_channel_label">Sonstiges</string>
+    <string name="fcm_fallback_notification_channel_label">Verschiedenes</string>
     <string name="feedback_send_email_body_extra_info">Löschen Sie die folgenden Infos nicht. Sie helfen uns, das Problem zu lokalisieren.</string>
     <string name="file_and_media_permissions_for_display">Dateizugriff: zum Scannen, Anzeigen und Abspielen von lokalen Dateien</string>
     <string name="file_not_found">"Datei existiert nicht"</string>
