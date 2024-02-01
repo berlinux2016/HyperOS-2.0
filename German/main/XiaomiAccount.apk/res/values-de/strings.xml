@@ -1110,10 +1110,10 @@
     <string name="turning_off_find_device">\"Gerät finden\" deaktivieren…</string>
     <string name="two_factor_auth">Zwei-Faktor-Authentisierung</string>
     <string name="two_factor_auth_click_confirm">Bestätigen, um sich anzumelden</string>
-    <string name="two_factor_auth_click_confirm_summary">Sie sehen eine Benachrichtigung auf anderen angeschlossenen Mi Geräten. Auf die Benachrichtigung tippen, um sich auf einem neuen Gerät anzumelden.</string>
+    <string name="two_factor_auth_click_confirm_summary">Sie sehen eine Benachrichtigung auf anderen angeschlossenen Mi-Geräten. Auf die Benachrichtigung tippen, um sich auf einem neuen Gerät anzumelden.</string>
     <string name="two_factor_auth_method">Authentisierungsmethode</string>
     <string name="two_factor_auth_need_code">Code eingeben</string>
-    <string name="two_factor_auth_need_code_summary">Sie sehen einen Code auf anderen angeschlossenen Mi Geräten. Diesen Code auf einem neuen Gerät eingeben, um sich anzumelden.</string>
+    <string name="two_factor_auth_need_code_summary">Sie sehen einen Code auf anderen angeschlossenen Mi-Geräten. Diesen Code auf einem neuen Gerät eingeben, um sich anzumelden.</string>
     <string name="two_factor_auth_summary">Wenn Sie versuchen, sich auf einem neuen Gerät oder an einem neuen Standort anzumelden, werden Sie auf anderen angeschlossenen Geräten darüber informiert. Sie müssen bestätigen, ob solche Anmeldeversuche von Ihnen genehmigt sind.</string>
     <string name="unbind_sns_description">Wenn Sie dieses Konto trennen, können Sie Ihr %s-Konto nicht mehr verwenden, um sich am Xiaomi-Konto anzumelden</string>
     <string name="unknown_error_info">Unbekannter Fehler</string>

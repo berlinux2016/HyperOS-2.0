@@ -80,7 +80,7 @@
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
     <string name="go_download">Herunterladen</string>
-    <string name="huanji_connecting_message">Eine Mi Mover-Anfrage wurde von einem anderen Gerät an Sie gesendet. Laden und installieren Sie Mi Mover, um fortzufahren.</string>
+    <string name="huanji_connecting_message">Eine Mi Mover-Anfrage wurde von einem anderen Gerät an Sie gesendet. Installieren Sie Mi Mover, um fortzufahren.</string>
     <string name="huanji_connecting_title">Mi Mover-Anfrage</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
@@ -216,7 +216,7 @@
     <string name="searchview_navigation_content_description">Zurück</string>
     <string name="send">Senden</string>
     <string name="side_sheet_accessibility_pane_title">Beiblatt</string>
-    <string name="snapdragon_sound_notification_content">Dieses Gerät unterstützt die Snapdragon Sound™-Technologie</string>
+    <string name="snapdragon_sound_notification_content">Dieses Gerät unterstützt die Technologie Snapdragon Sound™</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -244,10 +244,10 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
-    <string name="switch_audio_device_bt_a2dp">Bluetooth (Medien-Audio)</string>
+    <string name="switch_audio_device_bt_a2dp">Bluetooth (Medienaudio)</string>
     <string name="switch_audio_device_bt_a2dp_summary">Medienaudiowiedergabe auf einem angeschlossenen Gerät</string>
     <string name="switch_audio_device_bt_hfp">Bluetooth (Anrufe)</string>
-    <string name="switch_audio_device_bt_hfp_summary">Anrufaudiowiedergabe auf einem angeschlossenen Gerät. Diese Funktion muss manuell deaktiviert werden.</string>
+    <string name="switch_audio_device_bt_hfp_summary">Anrufton auf einem angeschlossenen Gerät wiedergeben. Diese Funktion muss manuell deaktiviert werden.</string>
     <string name="switch_audio_device_default">Standard</string>
     <string name="switch_audio_device_default_summary">Derzeit verwendetes Gerät</string>
     <string name="switch_audio_device_hfp_hint">Umschalten zur Standardausgabe</string>

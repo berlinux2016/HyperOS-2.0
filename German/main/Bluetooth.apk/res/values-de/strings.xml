@@ -296,7 +296,7 @@
     <string name="switch_audio_device_bt_a2dp">Bluetooth (Medien-Audio)</string>
     <string name="switch_audio_device_bt_a2dp_summary">Medienaudiowiedergabe auf einem angeschlossenen Gerät</string>
     <string name="switch_audio_device_bt_hfp">Bluetooth (Anrufe)</string>
-    <string name="switch_audio_device_bt_hfp_summary">Anrufaudiowiedergabe auf einem angeschlossenen Gerät. Diese Funktion muss manuell deaktiviert werden.</string>
+    <string name="switch_audio_device_bt_hfp_summary">Anrufton auf einem angeschlossenen Gerät wiedergeben. Diese Funktion muss manuell deaktiviert werden.</string>
     <string name="switch_audio_device_default">Standard</string>
     <string name="switch_audio_device_default_summary">Derzeit verwendetes Gerät</string>
     <string name="switch_audio_device_hfp_hint">Umschalten zur Standardausgabe</string>
