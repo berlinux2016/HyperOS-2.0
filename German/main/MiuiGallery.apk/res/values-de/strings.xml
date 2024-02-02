@@ -155,6 +155,7 @@
     <string name="ai_creation_count_limit_msg">Heute können keine weiteren Porträts erstellt werden. Kommen Sie morgen wieder!</string>
     <string name="ai_creation_delete_msg">Diesen Verlaufseintrag jetzt löschen?</string>
     <string name="ai_creation_delete_title">Achtung</string>
+    <string name="ai_creation_record_footer_tips">Sie können nur auf diesem Gerät erstellte Elemente anzeigen. Sie werden gelöscht, sobald Sie sich von Ihrem Xiaomi Konto abmelden.</string>
     <string name="ai_creation_recreate_button">Neu beginnen</string>
     <string name="ai_creation_save_failed_msg">Speichern fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_creation_save_success_msg">Erfolgreich gespeichert</string>
@@ -200,12 +201,18 @@
     <string name="ai_image_count_limit_msg">Heute können keine weiteren KI-Bilder erstellt werden. Kommen Sie morgen wieder!</string>
     <string name="ai_image_creating_failed_msg">Bild für %s erstellen fehlgeschlagen</string>
     <string name="ai_image_creating_msg">Bild für %s erstellen</string>
+    <string name="ai_image_creation_over_limit_title">Weitere Porträts können nicht erstellt werden</string>
+    <string name="ai_image_invalid">KI-Bild von %s wurde erfolgreich gelöscht</string>
+    <string name="ai_image_invalid_in_update">KI-Bild von %s wird jetzt aktualisiert. Abwarten, bis es fertig ist und erneut versuchen.</string>
+    <string name="ai_image_manager_empty_msg">Fotos, die zur Erstellung von KI-Bildern in älteren Versionen dieses Dienstes verwendet wurden, können auf einem anderen Gerät nicht angezeigt werden</string>
+    <string name="ai_image_manager_empty_msg_net">Kein Fotos hier</string>
     <string name="ai_image_manager_re_create_tip">Hinzufügen oder Löschen von Fotos zur Aktualisierung Ihres KI-Bildes</string>
     <string name="ai_image_manager_title">KI-Bild verwalten</string>
     <string name="ai_image_not_creatable">KI-Bild wird jetzt aktualisiert. Versuchen Sie es erneut, wenn es fertig ist.</string>
     <string name="ai_image_over_limit_button_cancel">Verstanden</string>
     <string name="ai_image_over_limit_button_create">Fortfahren</string>
     <string name="ai_image_over_limit_title">KI-Bild erstellen fehlgeschlagen</string>
+    <string name="ai_image_over_limit_title_update">KI-Bilder können jetzt nicht aktualisiert werden</string>
     <string name="ai_image_privacy_message"><Data>Willkommen bei KI-Porträts!&lt;br/>Um Ihnen Dienstleistungen anbieten zu können, müssen wir die notwendigen persönlichen Daten erfassen:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Um KI-Porträts zu erstellen, müssen Sie &lt;b>Fotos von Personen&lt;/b> auf unsere Server hochladen. Wir sammeln und verarbeiten die Daten über ihre &lt;b>Gesichter&lt;/b>, um ein KI-Modell zu erstellen.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Wenn Sie &lt;b>Fotos von Personen&lt;/b> hochladen, synchronisieren wir &lt;b>ihre Namen und Profilfotos&lt;/b> aus den entsprechenden Alben und verknüpfen diese Informationen mit KI-Bildern.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Wenn Sie KI-Bilder auf der Grundlage von Text erstellen, erfassen wir die &lt;b>Beschreibung&lt;/b>, die Sie zur Erstellung der Bilder angeben.&lt;br/>Wir erfassen nur personenbezogene Daten, die für die spezifischen Funktionen unserer Produkte und Dienstleistungen, die Sie nutzen, erforderlich sind. Wie wir personenbezogene Daten erfassen und verarbeiten, erfahren Sie in der &lt;a href=\"%4$s\">KI-Porträts Datenschutzerklärung&lt;/a>.&lt;br/>Lesen Sie die &lt;a href=\"%5$s\">KI-Porträts Nutzungsvereinbarung&lt;/a> und &lt;a href=\"%6$s\">KI-Porträts Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="ai_input_name_hint">Name eingeben</string>
     <string name="ai_loading">Einen Moment…</string>

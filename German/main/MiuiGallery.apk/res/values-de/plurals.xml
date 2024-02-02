@@ -661,8 +661,8 @@
         <item quantity="one">%d Video</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">%d Fotos/Videos wurden nicht gesichert</item>
-        <item quantity="one">%d Foto/Video wurde nicht gesichert</item>
+        <item quantity="other">%d Elemente wurden nicht synchronisiert</item>
+        <item quantity="one">%d Element wurde nicht synchronisiert</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d Elemente zu groß, um sie zu sichern</item>
