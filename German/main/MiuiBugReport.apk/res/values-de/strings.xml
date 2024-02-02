@@ -942,8 +942,8 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="permission_external_storage_introduce">Zum Speichern und Hochladen Ihres Feedbacks</string>
     <string name="permission_first_start_network_title">Allgemeine Geschäftsbedingungen</string>
     <string name="permission_granted">%1$s Berechtigung erteilt</string>
-    <string name="permission_imei_disable_desc">Dieser App erlauben die  Internetverbindung erlauben</string>
-    <string name="permission_imei_enable_desc">Dieser App erlauben, eine Internetverbindung herzustellen und die oben aufgeführten obligatorischen Berechtigungen erteilen.</string>
+    <string name="permission_imei_disable_desc">Diese App darf eine Internetverbindung herstellen</string>
+    <string name="permission_imei_enable_desc">Diese App darf eine Internetverbindung herstellen und ihr werden die oben aufgeführten obligatorischen Berechtigungen erteilt.</string>
     <string name="permission_location_introduce">Zur Anzeige nahegelegener Servicepunkte</string>
     <string name="permission_main_purpose">Anzeigen von Funktionsdemos, Übermitteln von Feedback und Beantragung von Kundendienstleistungen</string>
     <string name="permission_privacy">Datenschutzerklärung (obligatorisch)</string>

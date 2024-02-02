@@ -1062,7 +1062,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="my_favorite_channels">Meine Kanäle</string>
     <string name="my_feedback_title">Mein Feedback</string>
     <string name="native_body">Körper</string>
-    <string name="native_headline">Schlagzeile</string>
+    <string name="native_headline">Überschrift</string>
     <string name="native_media_view">Medienansicht</string>
     <string name="need_update_app">Mi Video aktualisieren, um alle Funktionen zu verwenden</string>
     <string name="network_connect_info">Netzwerkverbindung wurde nicht hergestellt. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -1112,7 +1112,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="notification_type_channel_music">Musikwiedergabe</string>
     <string name="notifications_permission_confirm">Erlauben</string>
     <string name="notifications_permission_decline">Verweigern</string>
-    <string name="notifications_permission_title">Der App erlauben, Ihnen Benachrichtigungen zu senden?</string>
+    <string name="notifications_permission_title">Darf die App Ihnen Benachrichtigungen senden?</string>
     <string name="notify_tool">Benachrichtigungstool</string>
     <string name="off_tip_firework_recommend">Sie werden keine personalisierten Inhaltsempfehlungen von Firework erhalten</string>
     <string name="offline_ad_free">Offline-Werbung</string>

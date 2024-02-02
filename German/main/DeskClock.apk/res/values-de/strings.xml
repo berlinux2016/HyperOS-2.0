@@ -349,7 +349,7 @@
     <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> Stunde im Voraus</string>
     <string name="notification_adv_time_entries5">Keine</string>
     <string name="notification_permission_desc">Wenn Sie die Berechtigung für Benachrichtigungen nicht erteilen, können Sie Wecker nicht ausschalten, wenn sie klingeln. Berechtigung jetzt erteilen?</string>
-    <string name="notification_permission_dialog_content">Dieser App erlauben, Benachrichtigungen zu senden, um Weckerbenachrichtigungen zu erhalten. Sie können diese Berechtigung in Einstellungen erteilen.</string>
+    <string name="notification_permission_dialog_content">Diese App darf Benachrichtigungen senden, um Weckerbenachrichtigungen zu erhalten. Sie können diese Berechtigung in Einstellungen erteilen.</string>
     <string name="notification_permission_dialog_not_open">Jetzt nicht</string>
     <string name="notification_permission_dialog_open">Einstellungen</string>
     <string name="notification_permission_dialog_title">Berechtigungen erforderlich</string>

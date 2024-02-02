@@ -1410,7 +1410,7 @@
     <string name="my_channel">Meine Kanäle</string>
     <string name="my_prize_entry">Meine Belohnungen</string>
     <string name="name_empty">Sie müssen einen Namen eingeben.</string>
-    <string name="native_body">Aufbau</string>
+    <string name="native_body">Körper</string>
     <string name="native_headline">Überschrift</string>
     <string name="native_media_view">Medienansicht</string>
     <string name="nav_bottom_bar_back">Zurück</string>
@@ -1499,7 +1499,7 @@
     <string name="notification_wechat_expired_empty">WeChat hat diese Videoclips bereits gelöscht.</string>
     <string name="notifications_permission_confirm">Erlauben</string>
     <string name="notifications_permission_decline">Nicht erlauben</string>
-    <string name="notifications_permission_title">Der App erlauben, Ihnen Benachrichtigungen zu senden?</string>
+    <string name="notifications_permission_title">Darf die App Ihnen Benachrichtigungen senden?</string>
     <string name="notify_rencet_play">Zuletzt abgespielt</string>
     <string name="novel_continue_read_popup">Lesen</string>
     <string name="novel_tab_popup">Sehen Sie Ihre neuesten Bücher hier</string>

@@ -586,7 +586,7 @@ Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vors
     <string name="perm_location">Standort</string>
     <string name="perm_manage_external_storage">Zugriff auf alle Dateien</string>
     <string name="perm_package_stats">Zugriff auf App-Nutzungsstatistiken</string>
-    <string name="perm_payment_dspt">App erlauben, mit Mi Pay Dienst zu bezahlen</string>
+    <string name="perm_payment_dspt">App darf mit Mi Pay Dienst bezahlen</string>
     <string name="perm_read_call_log">Zugriff auf Anrufliste</string>
     <string name="perm_read_contacts">Zugriff auf Kontakte</string>
     <string name="perm_read_phone_state">Zugriff auf Telefonstatus</string>

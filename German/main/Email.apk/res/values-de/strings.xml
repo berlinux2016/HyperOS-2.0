@@ -1121,7 +1121,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="toastbar_contacts_permission_switch_allow_only_using">Kontakte wurden nicht synchronisiert. Berechtigungen für Kontakte in \"Immer erlauben\" ändern, um dieses Problem zu lösen.</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Kalender- und Kontaktsynchronisation aktivieren, um Kalender und Kontakte zu synchronisieren</string>
     <string name="toastbar_local_calendar_sync_switch_close">Kalendersynchronisation einschalten, um Kalendererinnerungen zu empfangen</string>
-    <string name="toastbar_local_contacts_sync_swtich_close">Dieser App erlauben, Kontakte zu synchronisieren, um sie als Systemkontakte hinzuzufügen</string>
+    <string name="toastbar_local_contacts_sync_swtich_close">Diese App darf Kontakte synchronisieren, um sie als Systemkontakte hinzuzufügen</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="too_large_to_attach_single">Dateien größer als %1$s können nicht angehängt werden</string>

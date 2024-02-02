@@ -636,7 +636,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="alarm_template">um %1$s</string>
     <string name="alarm_template_far">um %1$s</string>
     <string name="alarm_volume_option_title">Wecker</string>
-    <string name="alarms_and_reminders_footer_title">Dieser App erlauben, Wecker einzustellen und zeitbasierte Aktionen zu planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Wecker und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
+    <string name="alarms_and_reminders_footer_title">Diese App darf Wecker einstellen und zeitbasierte Aktionen planen. Dadurch kann die App im Hintergrund laufen, was den Akkuverbrauch erhöhen kann.<br></br><br></br>Wenn diese Berechtigung deaktiviert ist, funktionieren bestehende Wecker und zeitbasierte Ereignisse, die von dieser App geplant wurden, nicht.</string>
     <string name="alarms_and_reminders_label">Wecker &amp; Erinnerungen</string>
     <string name="alarms_and_reminders_switch_title">Einstellen von Weckern und Erinnerungen zulassen</string>
     <string name="alarms_and_reminders_title">Wecker &amp; Erinnerungen</string>
@@ -680,7 +680,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="allow_sound">Ton erlauben</string>
     <string name="allow_sound_title">Ton abspielen erlauben</string>
     <string name="allow_turn_screen_on">Bildschirm einschalten erlauben</string>
-    <string name="allow_turn_screen_on_description">Einer App erlauben, den Bildschirm einzuschalten. Wenn diese Erlaubnis erteilt wird, kann die App den Bildschirm jederzeit ohne Ihre ausdrückliche Absicht einschalten.</string>
+    <string name="allow_turn_screen_on_description">App darf den Bildschirm einschalten. Wenn diese Erlaubnis erteilt wird, kann die App den Bildschirm jederzeit ohne Ihre ausdrückliche Absicht einschalten.</string>
     <string name="allow_vibrate_title">Vibration erlauben</string>
     <string name="already_delete_system_app">Deinstallierte System-Apps</string>
     <string name="already_enable_encrypt">Verschlüsselung bereits aktiviert</string>
@@ -2223,15 +2223,15 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="change">Ändern</string>
     <string name="change_brightness">Helligkeit einstellen</string>
     <string name="change_lock_screen_password_title">Bildschirmsperre ändern</string>
-    <string name="change_nfc_tag_apps_detail_summary">Erlauben Sie dieser App zu starten, wenn ein NFC-Tag gescannt wird. \nWenn diese Berechtigung aktiviert ist, steht die App als Option zur Verfügung, sobald ein Tag erkannt wird.</string>
+    <string name="change_nfc_tag_apps_detail_summary">Diese App darf starten, wenn ein NFC-Tag gescannt wird. \nWenn diese Berechtigung aktiviert ist, steht die App als Option zur Verfügung, sobald ein Tag erkannt wird.</string>
     <string name="change_nfc_tag_apps_detail_switch">Start bei NFC-Scan zulassen</string>
     <string name="change_nfc_tag_apps_title">Über NFC starten</string>
     <string name="change_password">Bildschirmsperre ändern</string>
     <string name="change_security_lock">Andere Entsperrmethoden</string>
     <string name="change_storage">Speicher tauschen</string>
     <string name="change_theme_reboot">Thema-Änderung erfordet einen Neustart</string>
-    <string name="change_wifi_state_app_detail_summary">Dieser App erlauben: Ein- und Ausschalten von WLAN, Scannen und Verbinden mit WLAN, Hinzufügen oder Entfernen von Netzwerken oder Starten eines lokalen Hotspots</string>
-    <string name="change_wifi_state_app_detail_switch">App erlauben, WLAN zu kontrollieren</string>
+    <string name="change_wifi_state_app_detail_summary">Diese App darf: WLAN ein- und ausschalten, nach WLAN scannen und damit verbinden, Netzwerken hinzufügen oder entfernen oder einen lokalen Hotspot starten</string>
+    <string name="change_wifi_state_app_detail_switch">App darf WLAN kontrollieren</string>
     <string name="change_wifi_state_title">WLAN-Steuerung</string>
     <string name="channel_group_notifications_off_desc">Wunschgemäß verhindert Android, dass diese Gruppe von Benachrichtigungen auf diesem Gerät erscheint.</string>
     <string name="channel_notifications_off_desc">Android verhindert, dass diese Kategorie von Benachrichtigungen auf diesem Gerät erscheint</string>
@@ -5541,7 +5541,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="login_action">Anmelden</string>
     <string name="login_failed">Anmeldung fehlgeschlagen. Erneut versuchen.</string>
     <string name="logining">Anmelden…</string>
-    <string name="long_background_tasks_footer_title">Dieser App erlauben, lange Hintergrundaufgaben auszuführen. Damit kann die App Aufgaben ausführen, deren Beendigung länger als ein paar Minuten dauern kann, wie z. B. Downloads und Uploads. \n\nWenn diese Berechtigung verweigert wird, begrenzt das System die Zeit, in der die App solche Aufgaben im Hintergrund ausführen kann.</string>
+    <string name="long_background_tasks_footer_title">Diese App darf lange Hintergrundaufgaben ausführen. Damit kann die App Aufgaben ausführen, deren Beendigung länger als ein paar Minuten dauern kann, wie z. B. Downloads und Uploads. \n\nWenn diese Berechtigung verweigert wird, begrenzt das System die Zeit, in der die App solche Aufgaben im Hintergrund ausführen kann.</string>
     <string name="long_background_tasks_label">Lange Hintergrundaufgaben</string>
     <string name="long_background_tasks_switch_title">Lange dauernde Hintergrundaufgaben zulassen</string>
     <string name="long_background_tasks_title">Lange Hintergrundaufgaben</string>

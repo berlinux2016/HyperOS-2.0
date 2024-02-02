@@ -22,7 +22,7 @@
     <string name="add_remark_hint">Geben Sie hier Ihre Bemerkung ein</string>
     <string name="add_remark_tip">Tippen, um eine Bemerkung hinzuzufügen</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="agree_description">Dieser App erlauben eine Internetverbindung herzustellen, um alle ihre Funktionen zu verwenden.</string>
+    <string name="agree_description">Diese App darf eine Internetverbindung herstellen, um alle ihre Funktionen zu verwenden.</string>
     <string name="alert_message_clear_records">Ausgewählte Aufnahme(n) löschen?</string>
     <string name="alert_message_delete_local_record">Diese Aufnahme löschen?</string>
     <string name="alert_message_delete_record">Ausgewählte Aufnahme(n) löschen?</string>

@@ -31,7 +31,7 @@
     <string name="appcirculate_fragment_circulate_app_content_description">App-Schnappschuss: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Jetzt einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Siehe Hilfe</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Der App erlauben, nach Geräten in der Nähe zu suchen, um Steuerungen und Interkonnektivitätsfunktionen zu verwenden</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">App darf nach Geräten in der Nähe suchen, um Steuerungen und Interkonnektivitätsfunktionen zu verwenden</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">WLAN und Bluetooth einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">WLAN und Bluetooth einschalten</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Bluetooth einschalten</string>

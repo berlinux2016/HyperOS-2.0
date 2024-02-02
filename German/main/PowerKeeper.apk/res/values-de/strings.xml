@@ -199,7 +199,7 @@
     <string name="nonui_mode_config_title">Nicht-interaktiver Modus</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
-    <string name="permstep_description">App erlauben, auf Ihre Schrittzahl zuzugreifen</string>
+    <string name="permstep_description">App darf auf Ihre Schrittzahl zugreifen</string>
     <string name="permstep_label">Auf Schrittzahl zugreifen</string>
     <string name="power_config_apps">Einstellungen Stromsparen</string>
     <string name="power_config_event_delete">Löschen</string>

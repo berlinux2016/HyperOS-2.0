@@ -935,6 +935,9 @@
     <string name="my_playlist_create_self_playlist">Wiedergabelisten mit Ihren Lieblingstiteln erstellen</string>
     <string name="my_playlist_set_to_private">Privat machen</string>
     <string name="my_playlist_set_to_public">Öffentlich machen</string>
+    <string name="native_body">Körper</string>
+    <string name="native_headline">Überschrift</string>
+    <string name="native_media_view">Medienansicht</string>
     <string name="nav_app_bar_navigate_up_description">Hoch navigieren</string>
     <string name="nav_app_bar_open_drawer_description">Navigationsleiste öffnen</string>
     <string name="nav_online_playlist">Wiedergabelisten</string>
@@ -990,6 +993,9 @@
     <string name="notification_recommend_summary">Weitere Informationen über neue Musiktrends und App-Aktionen</string>
     <string name="notification_recommend_title">Wichtige Benachrichtigungen</string>
     <string name="notification_setting">Benachrichtigungseinstellungen</string>
+    <string name="notifications_permission_confirm">Erlauben</string>
+    <string name="notifications_permission_decline">Nicht erlauben</string>
+    <string name="notifications_permission_title">Darf die App Ihnen Benachrichtigungen senden?</string>
     <string name="nowplaying_circle_style">Abspielen im Kreis Stil</string>
     <string name="nowplaying_circle_style_rainbow">Regenbogen</string>
     <string name="nowplaying_circle_style_wave">Welle</string>
@@ -1822,9 +1828,16 @@
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="v_code_title">Verifizierungscode eingeben</string>
+    <string name="video_dislike">Gefällt nicht</string>
+    <string name="video_dislike_toast">Diese Art von Inhalt werden wir weniger empfehlen</string>
     <string name="video_loading_fail">Video wurde nicht geladen</string>
     <string name="video_play_cellular">Ihr Gerät ist nicht mit WLAN verbunden. Mobile Daten verwenden?</string>
     <string name="video_replay_btn">Erneut abspielen</string>
+    <string name="video_report">Berichten</string>
+    <string name="video_report_reason_one">Nacktheit oder sexuelle Inhalte</string>
+    <string name="video_report_reason_three">Physische Gewalt oder Bedrohung</string>
+    <string name="video_report_reason_two">Gewaltverbrechen</string>
+    <string name="video_report_toast">Danke für Ihr Feedback</string>
     <string name="video_retry_btn">Erneut versuchen</string>
     <string name="view_album">Album anzeigen</string>
     <string name="vip_required">Holen Sie sich das Premium Song Pack, um diesen Titel abzuspielen. Titel wurde vorerst übersprungen.</string>

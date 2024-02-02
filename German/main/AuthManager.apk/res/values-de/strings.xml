@@ -75,7 +75,7 @@
     <string name="HIPS_Perm_install_shortcut">Startbildschirm-Verknüpfungen</string>
     <string name="HIPS_Perm_install_shortcut_Desc">Verknüpfungen auf Startbildschirm hinzufügen</string>
     <string name="HIPS_Perm_mediaVolume">Medienlautstärke einstellen</string>
-    <string name="HIPS_Perm_mediaVolume_Desc">App erlauben, die Medienlautstärke anzupassen</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">App darf die Medienlautstärke anpassen</string>
     <string name="HIPS_Perm_operator_get_phonenumbner">Zugriff auf Rufnummer zum Anmelden</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Rufnummer vom Anbieter zum Anmelden abfragen</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Wenn Sie sich jetzt nicht mit einem Tippen anmelden konnten, gehen Sie zurück zur Anmeldeseite und versuchen Sie es erneut.</string>
