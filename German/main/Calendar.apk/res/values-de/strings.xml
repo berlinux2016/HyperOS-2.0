@@ -514,7 +514,7 @@
     <string name="no_network">"Netzwerkverbindung fehlgeschlagen.
 Netzwerkeinstellungen prüfen und erneut versuchen."</string>
     <string name="no_network_btn">Nochmals versuchen</string>
-    <string name="no_records">Noch keine Elemente hier</string>
+    <string name="no_records">Noch keine Einträge hier</string>
     <string name="no_storage">Nicht genug Speicherplatz</string>
     <string name="no_title_label">(Kein Titel)</string>
     <string name="no_visiable_calendar_message">Sie müssen ein Kalenderkonto hinzufügen. Zum Fortfahren auf Konto hinzufügen tippen.</string>

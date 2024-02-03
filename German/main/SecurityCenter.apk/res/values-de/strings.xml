@@ -347,7 +347,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Sie können sensible Aktionsbenachrichtigungen abschalten, wenn Sie dieser App vertrauen</string>
     <string name="app_behavior_monitor_tips_key">Sensible Aktionsbenachrichtigungen</string>
     <string name="app_behavior_monitor_tips_summary">Sie können Benachrichtigungen erhalten, wenn Apps Audio aufnehmen, auf Ihren Standort zugreifen oder andere sensible Aktionen im Hintergrund ausführen.</string>
-    <string name="app_behavior_no_recorder">Noch keine Elemente hier</string>
+    <string name="app_behavior_no_recorder">Noch keine Einträge hier</string>
     <string name="app_behavior_notification_audio_now_one">\"%1s\"-Aufnahme</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s und %2s nehmen Audio auf</string>
     <string name="app_behavior_notification_camera_one">\"%1s\"-Foto aufnehmen</string>
@@ -577,7 +577,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_permission_use_neccesary">Erforderliche Berechtigungen</string>
     <string name="app_permission_use_no_neccesary">Optionale Berechtigungen</string>
     <string name="app_permission_use_title">Berechtigungen</string>
-    <string name="app_predict_black_list_empty">Noch keine Elemente hier</string>
+    <string name="app_predict_black_list_empty">Noch keine Einträge hier</string>
     <string name="app_predict_black_list_setting_title">Sperrliste App-Vorschläge</string>
     <string name="app_predict_classification_search_empty">Keine Ergebnisse gefunden</string>
     <string name="app_predict_dialog_button">Zum Startbildschirm hinzufügen</string>
@@ -1494,7 +1494,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_msg_install_manager_content">Sicherheit erneut installieren?</string>
     <string name="dialog_msg_install_manager_content_pad">Sicherheit erneut installieren?</string>
     <string name="dialog_msg_stop_virus_scan">Sicherheitsscan stoppen, bevor er beendet ist?</string>
-    <string name="dialog_no_longer_alert">Nicht erneut anzeigen</string>
+    <string name="dialog_no_longer_alert">Nicht wieder anzeigen</string>
     <string name="dialog_restrict_all_mobile_summary">%s mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
     <string name="dialog_restrict_all_mobile_title">%s mobile Datenverbindung einschränken</string>
     <string name="dialog_restrict_all_wlan_summary">WLAN-Verbindung wird danach für alle Apps eingeschränkt</string>
@@ -2758,7 +2758,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="image_protect_exit_and_del">Löschen</string>
     <string name="image_protect_intercept_can_recover_tips">Diese Aktion wurde blockiert. Sie können wählen, ob die Bilder gelöscht oder wiederhergestellt werden sollen.</string>
     <string name="image_protect_intercept_tips">Tippen, um das App-Verhalten zu verwalten</string>
-    <string name="image_protect_no_data">Keine Elemente hier</string>
+    <string name="image_protect_no_data">Keine Einträge hier</string>
     <string name="image_protect_recover_del_pic">Wiederherstellen</string>
     <string name="image_protect_recover_success">Erfolgreich wiederhergestellt</string>
     <string name="image_protect_tips_title">Fotos löschen</string>

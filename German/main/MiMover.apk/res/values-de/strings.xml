@@ -724,7 +724,7 @@ Mindestens %s freigeben."</string>
     <string name="select_item">Elemente wählen</string>
     <string name="select_item_calendar">Kalender</string>
     <string name="select_item_contacts">Kontakte</string>
-    <string name="select_item_empty_summary">Keine Elemente hier</string>
+    <string name="select_item_empty_summary">Keine Einträge hier</string>
     <string name="select_item_notes">Notizen</string>
     <string name="select_item_photos">Fotos</string>
     <string name="select_item_remind">Erinnerungen</string>

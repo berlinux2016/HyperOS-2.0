@@ -929,7 +929,7 @@
     <string name="empty_album_other_list_title">Keine Alben vorhanden</string>
     <string name="empty_album_rubbish_list_title">Keine Alben mit Müll vorhanden</string>
     <string name="empty_description_conditions">An wichtige Dinge erinnern</string>
-    <string name="empty_description_conditions_new">Ladegerät anschließen und den Bildschirm ausschalten, damit die Elemente hier schneller erscheinen</string>
+    <string name="empty_description_conditions_new">Ladegerät anschließen und den Bildschirm ausschalten, damit die Einträge hier schneller erscheinen</string>
     <string name="empty_description_no_cards">An wichtige Dinge erinnern</string>
     <string name="empty_query_text_msg">Keine Ahnung, wonach ich suchen soll…</string>
     <string name="empty_recommend_back">Zurück</string>

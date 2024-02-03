@@ -53,7 +53,7 @@
     <string name="category_image_title">Bilder</string>
     <string name="category_music">Musik</string>
     <string name="category_music_title">Musik</string>
-    <string name="category_no_file_desc">Noch keine Elemente hier</string>
+    <string name="category_no_file_desc">Noch keine Einträge hier</string>
     <string name="category_no_file_sub_desc">Auf Plus tippen, um Dateien hochzuladen</string>
     <string name="category_select">Wählen</string>
     <string name="channel_client_edit">Auf mobilem Gerät bearbeitet</string>
@@ -124,7 +124,7 @@
     <string name="download_done">Vollständig heruntergeladen</string>
     <string name="download_done_info_for_sys_title">Erfolgreich heruntergeladen. Tippen zum Anzeigen.</string>
     <string name="download_fail">Herunterladen nicht möglich</string>
-    <string name="download_list_empty">Noch keine Elemente hier</string>
+    <string name="download_list_empty">Noch keine Einträge hier</string>
     <string name="download_metered_network_dialog_cancel">Abbrechen</string>
     <string name="download_metered_network_dialog_desc">Ihr Gerät ist nicht mit WLAN verbunden. Elemente mit mobilen Daten herunterladen?</string>
     <string name="download_metered_network_dialog_ok">Herunterladen</string>
@@ -167,10 +167,10 @@
     <string name="file_info_modified">"Letzte Änderung: "</string>
     <string name="file_info_size">"Größe: "</string>
     <string name="file_is_downloaded">Element ist bereits heruntergeladen</string>
-    <string name="file_no_file_desc">Noch keine Elemente hier</string>
+    <string name="file_no_file_desc">Noch keine Einträge hier</string>
     <string name="file_no_file_sub_desc">Auf Plus tippen, um Dateien hochzuladen</string>
     <string name="file_picker_loading">Einen >Moment…</string>
-    <string name="file_picker_no_file">Keine Elemente hier</string>
+    <string name="file_picker_no_file">Keine Einträge hier</string>
     <string name="file_picker_title">Elemente wählen</string>
     <string name="file_send_no_support">Dieser Dateityp kann nicht geteilt werden</string>
     <string name="file_size_is_zero">Dateigröße muss größer als 0 sein</string>
@@ -569,7 +569,7 @@
     <string name="upload_fail">Hochladen nicht möglich</string>
     <string name="upload_file_list_is_empty">Elemente zum Hochladen wählen</string>
     <string name="upload_list">Hochgeladen</string>
-    <string name="upload_list_empty">Noch keine Elemente hier</string>
+    <string name="upload_list_empty">Noch keine Einträge hier</string>
     <string name="upload_metered_network_dialog_cancel">Abbrechen</string>
     <string name="upload_metered_network_dialog_desc">Ihr Gerät ist nicht mit WLAN verbunden. Elemente mit mobilen Daten hochladen?</string>
     <string name="upload_metered_network_dialog_ok">Hochladen</string>

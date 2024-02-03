@@ -1400,7 +1400,7 @@
     <string name="search_album_and_lyric">Alben und Songtexte suchen</string>
     <string name="search_empty">Keine Ergebnisse gefunden</string>
     <string name="search_empty_subtitle_online_music">Taste unten antippen, um %s zu öffnen</string>
-    <string name="search_empty_title_online_music">Noch keine Elemente hier.</string>
+    <string name="search_empty_title_online_music">Noch keine Einträge hier</string>
     <string name="search_for_artist">Interpret</string>
     <string name="search_hint">Nach Interpreten, Titeln, Alben und Empfehlungen suchen</string>
     <string name="search_hint_local">Auf dem Gerät nach Titeln suchen</string>

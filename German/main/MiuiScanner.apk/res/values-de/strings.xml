@@ -322,7 +322,7 @@
     <string name="hand_query">Bestellung prüfen</string>
     <string name="hint_no_permissions_text">Auf die Taste Einstellungen tippen und Rechteverwaltung eingeben, um die Speicherberechtigung der Kamera und des Mobiltelefons für die normale Nutzung zu aktivieren. Scannen.</string>
     <string name="history">Verlauf</string>
-    <string name="history_empty">Noch keine Elemente hier</string>
+    <string name="history_empty">Noch keine Einträge hier</string>
     <string name="history_list_is_empty2">Gescannte Dokumente werden hier angezeigt.</string>
     <string name="hold_down">Gedrückt halten, um das Wort zu übernehmen</string>
     <string name="how_to_scan_form">Wie man Tabellen scannt</string>

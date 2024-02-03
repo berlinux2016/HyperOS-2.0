@@ -270,7 +270,7 @@
     <string name="controller_bar_edit">Bearbeiten</string>
     <string name="copy">Kopieren</string>
     <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
-    <string name="data_empty">Keine Elemente hier</string>
+    <string name="data_empty">Keine Einträge hier</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="day">Tag</string>
@@ -1079,7 +1079,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="night">Abend</string>
     <string name="no_account">Nicht angemeldet</string>
     <string name="no_app_found_error">App nicht gefunden</string>
-    <string name="no_history">Keine Elemente hier</string>
+    <string name="no_history">Keine Einträge hier</string>
     <string name="no_kandan">Keine Beobachtungsliste</string>
     <string name="no_longer_prompt">Nicht mehr anzeigen</string>
     <string name="no_more_content">Das ist alles für den Moment</string>

@@ -1735,8 +1735,8 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Hintergrund-Diashow Startbildschirm</string>
     <string name="wallpaper_loop_title_lock_walpaper">Hintergrund-Diashow Sperrbildschirm</string>
     <string name="wallpaper_magic_mode_preview_tip">Vorschau Sperrbildschirm</string>
-    <string name="wallpaper_no_favorite">Noch keine Elemente hier</string>
-    <string name="wallpaper_no_record">Noch keine Elemente hier</string>
+    <string name="wallpaper_no_favorite">Noch keine Einträge hier</string>
+    <string name="wallpaper_no_record">Noch keine Einträge hier</string>
     <string name="wallpaper_online">Online-Hintergründe</string>
     <string name="wallpaper_online_no_more">Das ist alles für den Moment</string>
     <string name="wallpaper_online_tip">Mit dem Netzwerk verbinden, um weitere Elemente anzuzeigen</string>

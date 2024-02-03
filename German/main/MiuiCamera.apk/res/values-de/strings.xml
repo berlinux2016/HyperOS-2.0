@@ -1313,7 +1313,7 @@
     <string name="lite_pref_camera_auto_hibernation_desc">Bei der Aufnahme von Fotos oder Videos wird der Bildschirm nach %d Minuten Inaktivität ausgeschaltet</string>
     <string name="lite_pref_camera_lying_desc">Erhalten Sie eine Richtungsansage, wenn Ihr Gerät parallel zum Boden ist</string>
     <string name="live_draft_continue">Fortfahren</string>
-    <string name="live_draft_empty">Keine Elemente hier</string>
+    <string name="live_draft_empty">Keine Einträge hier</string>
     <string name="live_edit_exit_confirm">Anhalten</string>
     <string name="live_edit_exit_message">Aufnehmen jetzt anhalten?</string>
     <string name="live_edit_exit_message_draft">Als Entwurf speichern</string>

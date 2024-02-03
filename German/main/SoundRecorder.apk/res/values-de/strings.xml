@@ -300,7 +300,7 @@ Die Aufnahme nach Text unterstützt derzeit nur die Mandarin-Übertragung. Die G
     <string name="new_search_fm_records_hint">Radioaufnahmen durchsuchen</string>
     <string name="new_search_recorder_records_hint">In Recorder suchen</string>
     <string name="night">Abend</string>
-    <string name="no_content">Noch keine Elemente hier</string>
+    <string name="no_content">Noch keine Einträge hier</string>
     <string name="no_downloading_file">Momentan werden keine Dateien heruntergeladen</string>
     <string name="no_file">Leer</string>
     <string name="no_network">Netzwerkverbindung nicht möglich</string>

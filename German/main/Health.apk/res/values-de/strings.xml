@@ -415,7 +415,7 @@
     <string name="exercise_recog_confirm_stair_climb">Waren Sie zwischen %1$s und %2$s Treppen steigen?</string>
     <string name="exercise_recog_confirm_walk">Waren Sie zwischen %1$s und %2$s spazieren?</string>
     <string name="exercise_record">Workout-Verlauf</string>
-    <string name="exercise_record_no_data">Noch keine Elemente hier</string>
+    <string name="exercise_record_no_data">Noch keine Einträge hier</string>
     <string name="exercise_remind_content_improve_goal">Gesünder bleiben, indem Sie Ihr Aktivitätsziel schrittweise erhöhen</string>
     <string name="exercise_remind_content_lower_goal">Motiviert bleiben, indem Sie sich erreichbare Ziele setzen</string>
     <string name="exercise_remind_title_improve_goal">Ein höheres Ziel setzen</string>

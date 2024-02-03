@@ -485,7 +485,7 @@
     <string name="settings_history_clear">Löschen</string>
     <string name="settings_history_clear_dialog_title">Verbindungsverlauf jetzt löschen?</string>
     <string name="settings_history_full_connect_time">Zuletzt verbunden: %1$s</string>
-    <string name="settings_history_none">Noch keine Elemente hier</string>
+    <string name="settings_history_none">Noch keine Einträge hier</string>
     <string name="settings_history_today_connect_time">Heute %1$s</string>
     <string name="settings_history_yesterday_connect_time">Gestern %1$s</string>
     <string name="settings_home">Verbundene Geräte</string>

@@ -946,7 +946,7 @@
     <string name="risk_app_install_agree_title">Haftungsausschluss</string>
     <string name="risk_app_install_auth_result">Sie haben die Installation von %1$s autorisiert. Sie können fortfahren, sobald das Installationspaket erkannt wird.</string>
     <string name="risk_app_install_authorization">Riskante App installieren</string>
-    <string name="risk_app_install_empty_text">Noch keine Elemente hier</string>
+    <string name="risk_app_install_empty_text">Noch keine Einträge hier</string>
     <string name="risk_app_install_history">Autorisierungsverlauf</string>
     <string name="risk_app_install_manager">Apps mit möglichen Risiken</string>
     <string name="risk_app_install_source">Quelle: %1$s</string>

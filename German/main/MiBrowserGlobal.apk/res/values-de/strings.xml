@@ -593,7 +593,7 @@
     <string name="download_intrercept_hint">Dieses Popup schlägt vor, eine App herunterzuladen.</string>
     <string name="download_intrercept_second_hint">Die Website ist dabei, eine App herunterzuladen. Download wurde vorerst gestoppt.</string>
     <string name="download_keep_queued_download">Behalten</string>
-    <string name="download_list_no_items_tip">Noch keine Elemente hier</string>
+    <string name="download_list_no_items_tip">Noch keine Einträge hier</string>
     <string name="download_live_unsupported">Livestreams herunterladen nicht möglich</string>
     <string name="download_memory_info_avai">" verfügbar %s|"</string>
     <string name="download_memory_info_total">" gesamt %s"</string>
@@ -1464,7 +1464,7 @@
     <string name="no_connection">Netzwerkverbindung fehlgeschlagen</string>
     <string name="no_file">Leer</string>
     <string name="no_follow_description">Sie folgen noch niemandem. Stöbern Sie in den Nachrichten, um Autoren und Medien zu finden, die Sie mögen.</string>
-    <string name="no_items">Keine weiteren Elemente hier</string>
+    <string name="no_items">Keine weiteren Einträge hier</string>
     <string name="no_more_games">Keine weiteren Spiele</string>
     <string name="no_network">Netzwerkverbindung prüfen und erneut versuchen</string>
     <string name="no_phone">Keine Rufnummer</string>
@@ -1486,7 +1486,7 @@
     <string name="noti_dialog_cancel">Abbrechen</string>
     <string name="noti_dialog_content">Benachrichtigungen für diese Webseite einschränken?</string>
     <string name="noti_dialog_title">Benachrichtigungen einschränken</string>
-    <string name="noti_no_permission_record">Keine Elemente hier.</string>
+    <string name="noti_no_permission_record">Keine Einträge hier</string>
     <string name="noti_web_allow">Erlaubt</string>
     <string name="noti_web_push">Webseiten-Benachrichtigungen</string>
     <string name="notice_bar_shortcut_entry">Kürzel für Benachrichtigungsleiste</string>
@@ -1906,7 +1906,7 @@
     <string name="quicklink_bookmark_save">Speichern unter</string>
     <string name="quicklink_cannot_save_url">Diese URL kann nicht hinzugefügt werden</string>
     <string name="quicklink_folder_text">Top Apps</string>
-    <string name="quicklink_no_history">Keine Elemente hier</string>
+    <string name="quicklink_no_history">Keine Einträge hier</string>
     <string name="quicklink_not_saved">Zur Startseite hinzufügen nicht möglich</string>
     <string name="quicklink_push_confirm_message">Nach dem Ausschalten dieser Funktion erhält Ihre Feed keine Updates mehr. Jetzt ausschalten?</string>
     <string name="quicklink_quick_select">Webseiten hinzufügen</string>
@@ -2523,7 +2523,7 @@
     <string name="web_intercept_permission_empty_record_hint">Webseiten haben diese Einstellung nicht geändert</string>
     <string name="web_intercept_record_behavior_hint_allow">Erlaubt</string>
     <string name="web_intercept_record_behavior_hint_disallow">Eingeschränkt</string>
-    <string name="web_intercept_record_empty">Noch keine Elemente hier</string>
+    <string name="web_intercept_record_empty">Noch keine Einträge hier</string>
     <string name="web_intercept_record_filter_ad">Werbeblocker</string>
     <string name="web_intercept_record_filter_all">Alle Einträge</string>
     <string name="web_intercept_record_filter_download">Geschützte Downloads</string>

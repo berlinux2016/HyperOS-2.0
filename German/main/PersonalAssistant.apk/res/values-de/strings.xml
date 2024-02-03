@@ -691,8 +691,8 @@
     <string name="pa_stock_desc_move_stock">Langes Drücken mobiler Aktien</string>
     <string name="pa_stock_desc_pin_stock">Angeheftet auf Startseite der Karte anzeigen</string>
     <string name="pa_stock_display_limit_alert">Weitere Unternehmen können nicht hinzugefügt werden</string>
-    <string name="pa_stock_empty_display_list">Noch keine Elemente hier. Auf \"Hinzufügen\" tippen, um Elemente hinzuzufügen.</string>
-    <string name="pa_stock_empty_follow_list">Noch keine Elemente hier</string>
+    <string name="pa_stock_empty_display_list">Noch keine Einträge hier. Auf \"Hinzufügen\" tippen, um Einträge hinzuzufügen.</string>
+    <string name="pa_stock_empty_follow_list">Noch keine Einträge hier</string>
     <string name="pa_stock_follow_limit_alert">Sie können bis zu %1$d Unternehmen hinzufügen</string>
     <string name="pa_stock_follow_list_label">Meine Firmen</string>
     <string name="pa_stock_green_grow">Grün - hoch, rot - runter</string>
@@ -710,7 +710,7 @@
     <string name="pa_stock_webview_bottom_text">Client öffnen, um weitere Informationen anzuzeigen</string>
     <string name="pa_stock_webview_title_tiger_brokers">Tiger-Wertpapiere</string>
     <string name="pa_stock_widget_button_add_stock">Hinzufügen</string>
-    <string name="pa_stock_widget_empty">Noch keine Elemente hier</string>
+    <string name="pa_stock_widget_empty">Noch keine Einträge hier</string>
     <string name="pa_stock_widget_name">Aktien</string>
     <string name="pa_toast_home_layout_locked">Startbildschirm-Layout ist gesperrt</string>
     <string name="pa_toast_message_not_support_size">Widgets dieser Größe werden von Infoassistent nicht unterstützt</string>
