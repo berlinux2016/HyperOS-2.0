@@ -613,7 +613,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="miplay_mini_card_no_song_subtitle">Keine Wiedergabe</string>
     <string name="miplay_mini_card_no_song_title">Telefon-Audio</string>
     <string name="miplay_service_timeout_toast">Zeitüberschreitung der Verbindung. Erneut versuchen.</string>
-    <string name="miplay_song_title_empty">Keine Elemente hier</string>
+    <string name="miplay_song_title_empty">Keine Einträge hier</string>
     <string name="mirror_phone_content">Startbildschirm+ jetzt einschalten?</string>
     <string name="mirror_phone_content_remote">Sie können Startbildschirm+ unter Einstellungen > Interkonnektivität einschalten.</string>
     <string name="mirror_phone_title">Startbildschirm+ einschalten</string>
