@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="ai_scene_names">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>Dokumente</item>
         <item>Blumen</item>
         <item>Essen</item>

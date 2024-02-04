@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string-array name="additional_cal_dialog_labels">
-        <item>Keiner</item>
+        <item>Nichts</item>
         <item>Islamischer Kalender</item>
         <item>Indischer Nationalkalender</item>
         <item>Vikram-Kalender</item>

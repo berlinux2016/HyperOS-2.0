@@ -134,7 +134,7 @@
         <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Grafik)</item>
         <item>Aufrufstapel auf glGetError</item>
@@ -157,20 +157,6 @@
         <item>Koreanisch</item>
         <item>Chinesisch</item>
         <item>Hebräisch</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Keine</item>
-        <item>480p</item>
-        <item>480p (sicher)</item>
-        <item>720p</item>
-        <item>720p (sicher)</item>
-        <item>1080p</item>
-        <item>1080p (sicher)</item>
-        <item>4K</item>
-        <item>4K (sicher)</item>
-        <item>4K (hochskaliert)</item>
-        <item>4K (hochskaliert, sicher)</item>
-        <item>720p, 1080p (Doppelbildschirm)</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Aus</item>

@@ -14,7 +14,7 @@
         <item>Zwischenablage</item>
         <item>Tastencode</item>
         <item>Drehen bestätigen, Tastaturumschalter</item>
-        <item>Keine</item>
+        <item>Nichts</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Normal</item>

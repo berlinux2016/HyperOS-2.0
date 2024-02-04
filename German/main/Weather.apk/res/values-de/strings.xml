@@ -389,7 +389,7 @@
     <string name="policy_settings">Geschäftsbedingungen</string>
     <string name="precipitation_degree_five">Schwer</string>
     <string name="precipitation_degree_four">Stark</string>
-    <string name="precipitation_degree_one">Keiner</string>
+    <string name="precipitation_degree_one">Nichts</string>
     <string name="precipitation_degree_three">Mäßig</string>
     <string name="precipitation_degree_two">Leicht</string>
     <string name="precipitation_forecast_desc">Tippen für Vorhersage</string>

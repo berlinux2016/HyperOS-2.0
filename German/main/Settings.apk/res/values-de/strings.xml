@@ -2757,7 +2757,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="dark_ui_auto_mode_auto">An von Sonnenuntergang bis -aufgang</string>
     <string name="dark_ui_auto_mode_custom">Zu benutzerdefinierter Zeit</string>
     <string name="dark_ui_auto_mode_custom_bedtime">Schaltet sich zur Schlafenszeit ein</string>
-    <string name="dark_ui_auto_mode_never">Niemals</string>
+    <string name="dark_ui_auto_mode_never">Nichts</string>
     <string name="dark_ui_auto_mode_title">Zeitplan</string>
     <string name="dark_ui_bedtime_footer_action">Einstellungen Schlafenszeitmodus</string>
     <string name="dark_ui_bedtime_footer_summary">Dunkles Thema folgt derzeit Ihrem Zeitplan für den Schlafenszeitmodus</string>
@@ -2875,13 +2875,13 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="date_input_invalid_not_allowed">Datum nicht erlaubt: %1$s</string>
     <string name="date_input_invalid_year_range">Datum außerhalb des erwarteten Jahresbereichs %1$s - %2$s</string>
     <string name="date_input_label">Datum</string>
-    <string name="date_input_no_input_description">Keins</string>
+    <string name="date_input_no_input_description">Nichts</string>
     <string name="date_input_title">Datum wählen</string>
     <string name="date_picker_headline">Gewähltes Datum</string>
     <string name="date_picker_headline_description">Aktuelle Auswahl: %1$s</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_picker_navigate_to_year_description">Zum Jahr %1$s navigieren</string>
-    <string name="date_picker_no_selection_description">Keins</string>
+    <string name="date_picker_no_selection_description">Nichts</string>
     <string name="date_picker_switch_to_calendar_mode">Zum Kalendereingabemodus wechseln</string>
     <string name="date_picker_switch_to_day_selection">Wischen, um ein Jahr zu wählen, oder tippen, um zur Auswahl eines Tages zurückzukehren</string>
     <string name="date_picker_switch_to_input_mode">Zum Texteingabemodus wechseln</string>
@@ -2937,8 +2937,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="default_active_sim_calls">Anrufe</string>
     <string name="default_active_sim_mobile_data">Mobile Daten</string>
     <string name="default_admin_support_msg">Weitere Informationen erhalten Sie von Ihrem IT Admin</string>
-    <string name="default_app_none">Keine</string>
-    <string name="default_assist_none">Keine</string>
+    <string name="default_app_none">Nichts</string>
+    <string name="default_assist_none">Nichts</string>
     <string name="default_assist_title">Digitaler Assistent-App</string>
     <string name="default_autofill_app">Standard-Autofill-Dienst</string>
     <string name="default_browser_title_none">Nicht ausgewählt</string>
@@ -3208,7 +3208,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="display_cutout_emulation_keywords">Displayausschnitt, Notch</string>
     <string name="display_cutout_emulation_none">Nichts</string>
     <string name="display_dashboard_summary">Dunkles Thema, Schriftgröße, Helligkeit</string>
-    <string name="display_notification_icon_0">Keins</string>
+    <string name="display_notification_icon_0">Nichts</string>
     <string name="display_notification_icon_1">%d Symbol</string>
     <string name="display_notification_icon_3">%d Symbole</string>
     <string name="display_notification_icon_5">%d Symbole</string>
@@ -3594,7 +3594,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="enterprise_privacy_lock_device">Admin kann das Gerät sperren und das Passwort zurücksetzen</string>
     <string name="enterprise_privacy_microphone_access">Mikrofonberechtigungen</string>
     <string name="enterprise_privacy_network_logs">Aktuelles Netzwerkverkehrsprotokoll</string>
-    <string name="enterprise_privacy_none">Keine</string>
+    <string name="enterprise_privacy_none">Nichts</string>
     <string name="enterprise_privacy_number_ca_certs">{count, plural, =1 {Minimum # CA-Zertifikat} other {Minimum # CA-Zertifikate} }</string>
     <string name="enterprise_privacy_number_failed_password_wipe">{count, plural, =1 {# Versuch} other {# Versuche} }</string>
     <string name="enterprise_privacy_number_packages">{count, plural, =1 {# App} other {# Apps} }</string>
@@ -4653,7 +4653,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="input_method_cloud_paste_mode_bubble_des">Sie werden ein Popup sehen. Popup antippen, um den kopierten Text einzugeben.</string>
     <string name="input_method_cloud_paste_mode_bubble_title">Popup</string>
     <string name="input_method_cloud_paste_mode_no_des">Sie werden keine Benachrichtigungen sehen. Sie können jedoch weiterhin Ihre Zwischenablage verwenden, indem Sie auf das Symbol tippen.</string>
-    <string name="input_method_cloud_paste_mode_no_title">Keine</string>
+    <string name="input_method_cloud_paste_mode_no_title">Nichts</string>
     <string name="input_method_cloud_paste_mode_red_point_des">Sie werden einen roten Punkt unten auf der Tastatur sehen. Symbol antippen, um die Zwischenablage zu öffnen und den kopierten Inhalt zu verwenden.</string>
     <string name="input_method_cloud_paste_mode_red_point_title">Roter Punkt</string>
     <string name="input_method_function_clipboard">Zwischenablage und häufige Sätze</string>
@@ -5623,7 +5623,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="manage_password_summary">Automatisches Ausfüllen gespeicherter Konten und Passwörter</string>
     <string name="manage_space_text">Speicher verwalten</string>
     <string name="manage_trust_agents">Vertrauenswürdige Geräte</string>
-    <string name="manage_trust_agents_summary">Vertrauenswürdige Geräte anzeigen oder deaktivieren</string>
+    <string name="manage_trust_agents_summary">Nichts</string>
     <string name="manage_trust_agents_summary_on">{count, plural, =1 {1 aktiver Trust Agent} other {# aktive Trust Agents} }</string>
     <string name="manage_xiaomi_router">Mi Routereinstellungen</string>
     <string name="manage_zen_access_title">Nicht stören-Zugriff</string>
@@ -5950,7 +5950,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_key_config_noise_control">Rauschunterdrückung</string>
     <string name="miheadset_key_config_noise_control_summary">Drücken und halten, um zwischen 2 ausgewählten Rauschunterdrückungsmodi zu wechseln</string>
     <string name="miheadset_key_config_noise_summary">Externe Geräusche blockieren</string>
-    <string name="miheadset_key_config_none">Keine</string>
+    <string name="miheadset_key_config_none">Nichts</string>
     <string name="miheadset_key_config_press_left">Linken Ohrhörer drücken und halten</string>
     <string name="miheadset_key_config_press_right">Rechten Ohrhörer drücken und halten</string>
     <string name="miheadset_key_config_trans_summary">Externe Geräusche zulassen</string>
@@ -6673,7 +6673,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="nfc_work_text">Arbeit</string>
     <string name="night">Abend</string>
     <string name="night_display_auto_mode_custom">Benutzerdefinierter Zeitplan</string>
-    <string name="night_display_auto_mode_never">Niemals</string>
+    <string name="night_display_auto_mode_never">Nichts</string>
     <string name="night_display_auto_mode_title">Automatisch einschalten</string>
     <string name="night_display_auto_mode_twilight">Sonnenuntergang bis- aufgang</string>
     <string name="night_display_category_schedule">Zeitplan</string>
@@ -6714,14 +6714,14 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="no">Nein</string>
     <string name="no_5g_in_dsds_text">Wenn Sie 2 SIM verwenden, ist dieses Telefon auf 4G beschränkt. <annotation id="url">Mehr erfahren.</annotation>.</string>
     <string name="no_account_found">Keine App gefunden, die Konten hinzufügen kann</string>
-    <string name="no_application">Keine</string>
+    <string name="no_application">Nichts</string>
     <string name="no_applications">Keine Apps</string>
     <string name="no_background_processes">Keine Hintergrundprozesse</string>
     <string name="no_battery_summary">Kein Akkuverbrauch seit der letzten Vollladung</string>
     <string name="no_bluetooth_devices">Keine Bluetooth-Geräte</string>
     <string name="no_carrier_update_now_text">Gerade eben aktualisiert</string>
     <string name="no_carrier_update_text">Vor ^2 aktualisiert</string>
-    <string name="no_certificate_management_app">Keine</string>
+    <string name="no_certificate_management_app">Nichts</string>
     <string name="no_channels">Diese App hat keine Benachrichtigungen gepostet</string>
     <string name="no_connected_devices">Keine verbundenen Geräte</string>
     <string name="no_data_usage">Keine Daten verbraucht</string>
@@ -6734,7 +6734,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="no_memory_use_summary">Kein Speicher in den letzten 3 Stunden verbraucht</string>
     <string name="no_nearby_wifi">Keine Netzwerke gefunden</string>
     <string name="no_network">Keine Netzwerkverbindung</string>
-    <string name="no_notification_assistant">Keine</string>
+    <string name="no_notification_assistant">Nichts</string>
     <string name="no_notification_listeners">Keine installierten Apps haben Benachrichtigungszugriff angefordert</string>
     <string name="no_running_services">Nichts wird ausgeführt</string>
     <string name="no_screen_lock_issue_action_label">Bildschirmsperre festlegen</string>
@@ -6753,7 +6753,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="noise_suppression">Rauschunterdrückung</string>
     <string name="non_carrier_data_usage">Datennutzung außerhalb des Netzes</string>
     <string name="non_carrier_data_usage_warning">Schließt Daten aus, die von Betreibernetzen verwendet werden</string>
-    <string name="none">Keine</string>
+    <string name="none">Nichts</string>
     <string name="noon">Mittag</string>
     <string name="normal">Normal</string>
     <string name="normal_bottom_height_of_keyboard">Regulär</string>
@@ -7079,7 +7079,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="overlay_settings_title">Bildschirmüberlagerung bei Einstellungen zulassen</string>
     <string name="overlay_toast_failed_to_apply">Überlagerung wurde nicht angewendet</string>
     <string name="owner_info_settings_edit_text_hint">Hier Eigentümerinformationen eingeben</string>
-    <string name="owner_info_settings_summary">Keine</string>
+    <string name="owner_info_settings_summary">Nichts</string>
     <string name="owner_info_settings_title">Info zum Eigentümer</string>
     <string name="owner_space">Hauptprofil</string>
     <string name="packages_subtitle">Enthaltene Pakete</string>
@@ -8911,7 +8911,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="shoulder_key_shortcut_launch_video">Video aufzeichnen</string>
     <string name="shoulder_key_shortcut_long_press">Taste halten</string>
     <string name="shoulder_key_shortcut_mute">Lautlosmodus</string>
-    <string name="shoulder_key_shortcut_none">Keine</string>
+    <string name="shoulder_key_shortcut_none">Nichts</string>
     <string name="shoulder_key_shortcut_settings">Popup-Auslöser</string>
     <string name="shoulder_key_shortcut_settings_summary">Diese Option funktioniert nicht, wenn Sie Spiele spielen</string>
     <string name="shoulder_key_shortcut_single_click">Drücken</string>
@@ -9086,7 +9086,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="skip_step">Überspringen</string>
     <string name="slider_app_open">App öffnen</string>
     <string name="slider_app_open_name">%1$s öffnen</string>
-    <string name="slider_app_open_none">Keine</string>
+    <string name="slider_app_open_none">Nichts</string>
     <string name="slider_button_title">Ändern</string>
     <string name="slider_choose_app">App wählen</string>
     <string name="slider_game_tool_summary">Bildschirm nach unten schieben, um die verfügbaren Kurzbefehle anzuzeigen, während Sie ein Spiel spielen</string>
@@ -9140,7 +9140,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="smart_forwarding_title">Smarte Weiterleitung</string>
     <string name="smart_home_select_smart_device">App zur Verwaltung von Smart-Home-Geräten</string>
     <string name="smart_home_title">Smart Home</string>
-    <string name="smart_home_value_none">Keine</string>
+    <string name="smart_home_value_none">Nichts</string>
     <string name="smart_home_value_unknown">Unbekannt</string>
     <string name="smart_rotate_text_headline">Gesichtserkennung verwendet die Frontkamera, um die Genauigkeit der automatischen Drehung zu verbessern. Die Bilder werden niemals gespeichert oder an Google gesendet.</string>
     <string name="smart_space_clock">Auf einen Blick</string>
@@ -10122,7 +10122,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="trackpad_touchpad_gesture_summary">Individuelle Touchpad-Navigationsgesten einrichten</string>
     <string name="trackpad_touchpad_gesture_title">Touchpad-Gesten</string>
     <string name="traffic_balance">Datennutzungsmodus</string>
-    <string name="traffic_none">Keine</string>
+    <string name="traffic_none">Nichts</string>
     <string name="trans_backingup">Sichern…</string>
     <string name="trans_backingup_no_items">Synchronisieren…</string>
     <string name="trans_button_cancel">Abbrechen</string>
@@ -10948,7 +10948,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="vpn_disconnect">Trennen</string>
     <string name="vpn_disconnect_confirm">Dieses VPN trennen</string>
     <string name="vpn_disconnected">Vom VPN getrennt</string>
-    <string name="vpn_disconnected_summary">Keins</string>
+    <string name="vpn_disconnected_summary">Nichts</string>
     <string name="vpn_dns_servers">DNS-Server</string>
     <string name="vpn_dns_servers_hint">z. B. 8.8.8.8</string>
     <string name="vpn_done">Abbrechen</string>
@@ -10965,7 +10965,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="vpn_ipsec_user_cert">IPSec-Nutzerzertifikat</string>
     <string name="vpn_l2tp_secret">L2TP-Schlüssel</string>
     <string name="vpn_lockdown_config_error">Für durchgehend aktives VPN ist eine IP-Adresse für den Server und DNS erforderlich</string>
-    <string name="vpn_lockdown_none">Keines</string>
+    <string name="vpn_lockdown_none">Nichts</string>
     <string name="vpn_lockdown_summary">Wählen Sie ein VPN-Profil für eine durchgehende Verbindung. Netzwerkverkehr ist nur möglich, wenn eine Verbindung zu diesem VPN besteht.</string>
     <string name="vpn_menu_delete">Profil löschen</string>
     <string name="vpn_menu_edit">Profil bearbeiten</string>
@@ -11422,7 +11422,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_no_domain_warning">Domäne muss angeben werden</string>
     <string name="wifi_no_internet">Keine Internetverbindung</string>
     <string name="wifi_no_internet_no_reconnect">Keine automatische Verbindung</string>
-    <string name="wifi_no_related_sim_card">Keine</string>
+    <string name="wifi_no_related_sim_card">Nichts</string>
     <string name="wifi_no_sim_card">Keine SIM</string>
     <string name="wifi_no_user_cert_warning">Zertifikat erforderlich</string>
     <string name="wifi_non_persistent_mac_randomization">WLAN nicht-persistente MAC-Randomisierung</string>
@@ -11520,7 +11520,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_scan_throttling">WLAN-Scan-Drosselung</string>
     <string name="wifi_scan_throttling_summary">Reduziert den Akkuverbrauch &amp; verbessert die Netzwerkleistung</string>
     <string name="wifi_security">Sicherheit</string>
-    <string name="wifi_security_none">Keine</string>
+    <string name="wifi_security_none">Nichts</string>
     <string name="wifi_security_wapi_psk_hexadecimal">Hexadezimal</string>
     <string name="wifi_select_assistant_dialog_title">Assistenten auswählen</string>
     <string name="wifi_select_network">WLAN auswählen</string>
@@ -12002,8 +12002,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_mode_from_contacts">Nur von Kontakten</string>
     <string name="zen_mode_from_important_conversations">Vorrangige Gespräche</string>
     <string name="zen_mode_from_important_conversations_second">Vorrangige Gespräche</string>
-    <string name="zen_mode_from_no_conversations">Keine</string>
-    <string name="zen_mode_from_none">Keine</string>
+    <string name="zen_mode_from_no_conversations">Nichts</string>
+    <string name="zen_mode_from_none">Nichts</string>
     <string name="zen_mode_from_none_calls">Keine Anrufe zulassen</string>
     <string name="zen_mode_from_none_messages">Keine Nachrichten zulassen</string>
     <string name="zen_mode_from_sms">"Nachrichten von "</string>
@@ -12023,8 +12023,8 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_mode_more_actions">Weitere DND-Optionen</string>
     <string name="zen_mode_no_exceptions">Nichts</string>
     <string name="zen_mode_no_visual_interruptions">Wenn Bildschirm ein oder aus ist</string>
-    <string name="zen_mode_none_calls">Keine</string>
-    <string name="zen_mode_none_messages">Keine</string>
+    <string name="zen_mode_none_calls">Nichts</string>
+    <string name="zen_mode_none_messages">Nichts</string>
     <string name="zen_mode_option_alarms">Nur Wecker</string>
     <string name="zen_mode_option_important_interruptions">Nur mit Priorität</string>
     <string name="zen_mode_option_miui_silent">Lautlosmodus</string>
@@ -12078,7 +12078,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="zen_mode_schedule_category_title">Zeitplan</string>
     <string name="zen_mode_schedule_delete">Löschen</string>
     <string name="zen_mode_schedule_rule_days">Tage</string>
-    <string name="zen_mode_schedule_rule_days_none">Keine</string>
+    <string name="zen_mode_schedule_rule_days_none">Nichts</string>
     <string name="zen_mode_schedule_title">Zeitplan</string>
     <string name="zen_mode_screen_locked_only">Wenn das Gerät gesperrt ist</string>
     <string name="zen_mode_settings_category">Wenn Nicht stören an ist</string>

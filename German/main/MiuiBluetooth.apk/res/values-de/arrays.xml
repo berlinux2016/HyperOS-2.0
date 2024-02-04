@@ -135,7 +135,7 @@
         <item>Bei Deuteranomalie Bereiche zeigen</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Grafik)</item>
         <item>Aufrufstapel auf glGetError</item>

@@ -57,7 +57,7 @@
         <item>Mobiler Hotspot</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP oder CHAP</item>
@@ -539,7 +539,7 @@
         <item>Zertifikatsstatus erforderlich</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Keiner</item>
+        <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Grafik)</item>
         <item>Call stack on glGetError</item>
@@ -645,7 +645,7 @@
         <item>Lang</item>
     </string-array>
     <string-array name="long_press_volume_down_action">
-        <item>Keine Aktion</item>
+        <item>Nichts</item>
         <item>Schnappschussmodus (Foto)</item>
         <item>Schnappschussmodus (Video)</item>
         <item>Verknüpfung Fahrkarten</item>
@@ -703,6 +703,13 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>@string/msd_install_retry_connect</item>
         <item>Mi PC Suite erneut installieren</item>
     </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Nichts</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
+    </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Netzwerk langsam wegen zu viel Datenverkehr</item>
         <item>Netzwerk langsam wegen schwacher Signalstärke</item>
@@ -737,6 +744,20 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     <string-array name="notification_style_entries">
         <item>MIUI</item>
         <item>Android</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nichts</item>
+        <item>480p</item>
+        <item>480p (sicher)</item>
+        <item>720p</item>
+        <item>720p (sicher)</item>
+        <item>1080p</item>
+        <item>1080p (sicher)</item>
+        <item>4K</item>
+        <item>4K (sicher)</item>
+        <item>4K (hochskaliert)</item>
+        <item>4K (hochskaliert, sicher)</item>
+        <item>720p, 1080p (Dual-Bildschirm)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>Volle Farben</item>
@@ -984,10 +1005,10 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Bei jedem</item>
         <item>Nur von Kontakten</item>
         <item>Nur von favorisierten Kontakten</item>
-        <item>Keiner</item>
+        <item>Nichts</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
-        <item>Keiner</item>
+        <item>Nichts</item>
         <item>Manuell</item>
     </string-array>
     <string-array name="vpn_states">
@@ -1084,7 +1105,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
         <item>Geräte-MAC verwenden</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>Keiner</item>
+        <item>Nichts</item>
         <item>Manuell</item>
         <item>Proxy Auto-Config</item>
     </string-array>

@@ -141,7 +141,7 @@
         <item>Bereiche für Deuteranomalie anzeigen</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Grafik)</item>
         <item>Aufrufstapel auf glGetError</item>
@@ -157,7 +157,7 @@
         <item>Immer prüfen</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>Keine</item>
+        <item>Nichts</item>
         <item>480p</item>
         <item>480p (sicher)</item>
         <item>720p</item>
@@ -166,9 +166,9 @@
         <item>1080p (sicher)</item>
         <item>4K</item>
         <item>4K (sicher)</item>
-        <item>4K (skaliert)</item>
-        <item>4K (skaliert, sicher)</item>
-        <item>720p, 1080p (Dualbildschirm)</item>
+        <item>4K (hochskaliert)</item>
+        <item>4K (hochskaliert, sicher)</item>
+        <item>720p, 1080p (Dual-Bildschirm)</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Aus</item>
