@@ -37,7 +37,7 @@
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="default_debt_msg_words">Dieses Gerät ist aufgrund einer überfälligen Ratenzahlung gesperrt. \nKontaktieren Sie Ihren Händler für weitere Details.</string>
-    <string name="default_lock_msg_words">Dieses Gerät ist mit einem bestehenden Xiaomi Konto verknüpft. Aus Sicherheitsgründen müssen Sie ein Passwort eingeben, um das Gerät zu verifizieren.</string>
+    <string name="default_lock_msg_words">Dieses Gerät ist mit einem bestehenden Xiaomi-Konto verknüpft. Aus Sicherheitsgründen müssen Sie ein Passwort eingeben, um das Gerät zu verifizieren.</string>
     <string name="default_lock_msg_words_with_phone">Hi! Ich habe dieses Gerät verloren. Können Sie mich bitte kontaktieren? Vielen Dank!</string>
     <string name="device_locked">Dieses Gerät ist gesperrt</string>
     <string name="device_lost">Dieses Gerät wurde verloren</string>

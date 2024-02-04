@@ -155,7 +155,7 @@
     <string name="ai_creation_count_limit_msg">Heute können keine weiteren Porträts erstellt werden. Kommen Sie morgen wieder!</string>
     <string name="ai_creation_delete_msg">Diesen Verlaufseintrag jetzt löschen?</string>
     <string name="ai_creation_delete_title">Achtung</string>
-    <string name="ai_creation_record_footer_tips">Sie können nur auf diesem Gerät erstellte Elemente anzeigen. Sie werden gelöscht, sobald Sie sich von Ihrem Xiaomi Konto abmelden.</string>
+    <string name="ai_creation_record_footer_tips">Sie können nur auf diesem Gerät erstellte Elemente anzeigen. Sie werden gelöscht, sobald Sie sich von Ihrem Xiaomi-Konto abmelden.</string>
     <string name="ai_creation_recreate_button">Neu beginnen</string>
     <string name="ai_creation_save_failed_msg">Speichern fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_creation_save_success_msg">Erfolgreich gespeichert</string>

@@ -6313,13 +6313,13 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mqs_privacy_dialog_confirm">Hochladen</string>
     <string name="mqs_privacy_dialog_content">Anscheinend sind in letzter Zeit Fehler auf Ihrem Gerät aufgetreten. Sie können Protokolle hochladen, die uns helfen, dieses Problem zu lokalisieren und zu lösen. Protokolle können Ihre persönlichen Informationen enthalten, inkl. der Informationen über Ihren Standort. Jetzt hochladen?</string>
     <string name="mqs_privacy_dialog_title">Protokolle hochladen</string>
-    <string name="mr_button_content_description">Übertragen</string>
-    <string name="mr_cast_button_connected">Übertragen. Verbunden.</string>
-    <string name="mr_cast_button_connecting">Übertragen. Verbinden.</string>
-    <string name="mr_cast_button_disconnected">Übertragen. Getrennt.</string>
+    <string name="mr_button_content_description">Casting</string>
+    <string name="mr_cast_button_connected">Casting. Verbunden.</string>
+    <string name="mr_cast_button_connecting">Casting. Verbinden.</string>
+    <string name="mr_cast_button_disconnected">Casting. Getrennt.</string>
     <string name="mr_cast_dialog_title_view_placeholder">Keine Info verfügbar</string>
     <string name="mr_chooser_searching">Geräte finden</string>
-    <string name="mr_chooser_title">Übertragen auf</string>
+    <string name="mr_chooser_title">Casting auf</string>
     <string name="mr_controller_album_art">Albumcover</string>
     <string name="mr_controller_casting_screen">Bildschirmübertragung</string>
     <string name="mr_controller_close_description">Schließen</string>
@@ -6328,7 +6328,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mr_controller_expand_group">Erweitern</string>
     <string name="mr_controller_no_info_available">Keine Info verfügbar</string>
     <string name="mr_controller_no_media_selected">Keine Medien gewählt</string>
-    <string name="mr_controller_stop_casting">Übertragen stoppen</string>
+    <string name="mr_controller_stop_casting">Casting stoppen</string>
     <string name="mr_controller_volume_slider">Lautstärkeregler</string>
     <string name="mr_dialog_default_group_name">Gruppe</string>
     <string name="mr_dialog_groupable_header">Gerät hinzufügen</string>

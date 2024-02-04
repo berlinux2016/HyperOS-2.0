@@ -459,7 +459,7 @@
     <string name="pa_picker_detail_theme_app_cta">Einstellungen</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Um dieses Widget zu verwenden, müssen Sie Themen zunächst eine Internetverbindung herstellen lassen. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Anmelden</string>
-    <string name="pa_picker_detail_theme_app_need_login_pre">"Melden Sie sich erst bei Ihrem Xiaomi Konto an. "</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Melden Sie sich erst bei Ihrem Xiaomi-Konto an. "</string>
     <string name="pa_picker_detail_view_more">Mehr anzeigen</string>
     <string name="pa_picker_detail_vp2_indicator">Seite %1$d von %2$d ausgewählt</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Dieses Element wird über WLAN heruntergeladen</string>
