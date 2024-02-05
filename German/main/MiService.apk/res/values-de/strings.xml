@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -62,15 +63,6 @@
     <string name="mi_service_app_name">Dienste &amp; Feedback</string>
     <string name="mi_service_back">Zurück</string>
     <string name="midnight">Nacht</string>
-    <string name="mishare_settings_summary_international">"Mit Mi Share können Sie Elemente drahtlos an andere Geräte in der Nähe senden.
-Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern unterstützt. Sie können die Liste der unterstützten Geräte auf der offiziellen Website der jeweiligen Marke überprüfen."</string>
-    <string name="miui_guide_accessibility_image_desc">Bild</string>
-    <string name="miui_guide_clear_db_service">\"Dienste &amp; Feedback\" Sprach-Cache leeren…</string>
-    <string name="miui_guide_item_complete">Fertig gestellt</string>
-    <string name="miui_guide_item_new">Neu</string>
-    <string name="miui_guide_item_progress">Fertig gestellt %1$d/%2$d</string>
-    <string name="miui_guide_menu_privacy">Datenschutzerklärung</string>
-    <string name="miui_guide_top_bar_title">Einsteigerhandbuch</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
@@ -145,9 +137,9 @@ Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern un
     <string name="permission_imei_disable_desc">Diese App darf eine Internetverbindung herstellen.</string>
     <string name="permission_imei_enable_desc">Diese App darf eine Internetverbindung herstellen und ihr werden die oben aufgeführten obligatorischen Berechtigungen erteilt.</string>
     <string name="permission_location_introduce">Zur Anzeige nahegelegener Servicepunkte</string>
-    <string name="permission_main_purpose">Anzeigen von Funktionsdemos, Übermitteln von Feedback und Beantragung von Kundendienstleistungen</string>
+    <string name="permission_main_purpose">Anzeigen von Funktionsdemos, Übermitteln von Feedback und Beantragen von Kundendienstleistungen</string>
     <string name="permission_privacy">Datenschutzerklärung (obligatorisch)</string>
-    <string name="permission_region_version_msg">&lt;Data>Vor der Verwendung von Dienste &amp; Feedback, müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Vor der Verwendung von \"Dienste &amp; Feedback\" müssen Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren.&lt;/Data></string>
     <string name="permission_select_all">Alles auswählen</string>
     <string name="permission_storage">Speicher</string>
     <string name="permission_storage_introduce">Zum Speichern von Elementen auf Ihrem Gerät</string>
@@ -155,11 +147,11 @@ Diese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern un
     <string name="privacy_policy_update_hint">"%1$s Datenschutzerklärung wurde aktualisiert:
 %2$s
 Bitte die neue Version von %3$s lesen und akzeptieren , bevor Sie fortfahren."</string>
-    <string name="privacy_policy_update_title">Datenschutzerklärung aktulisiert</string>
+    <string name="privacy_policy_update_title">Datenschutzerklärung aktualisiert</string>
     <string name="public_authorize_now">Einstellungen</string>
     <string name="public_loading_text">Einen Moment…</string>
     <string name="public_net_error_retry">Erneut versuchen</string>
-    <string name="public_net_error_sub_title">Ihre Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="public_net_error_sub_title">Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="public_net_error_title">Netzwerkverbindung fehlgeschlagen</string>
     <string name="public_please_authorize">Berechtigungen zum Fortfahren erforderlich</string>
     <string name="public_welcome_use_feedback_service">Willkommen bei Dienste &amp; Feedback. Mit dieser App können Sie Feedback abgeben, häufig gestellte Fragen einsehen, Rückgabe und Umtausch von Produkten beantragen und vieles mehr.</string>
@@ -168,13 +160,6 @@ Bitte die neue Version von %3$s lesen und akzeptieren , bevor Sie fortfahren."</
     <string name="saturday_shortest">S</string>
     <string name="search_menu_title">Suchen</string>
     <string name="send">Senden</string>
-    <string name="share_cancel">Teilen abgebrochen</string>
-    <string name="share_failed">Teilen fehlgeschlagen</string>
-    <string name="share_no_network">Netzwerkverbindung nicht möglich</string>
-    <string name="share_not_install_wechat">Erst WeChat installieren</string>
-    <string name="share_not_install_weibo">Erst Weibo installieren</string>
-    <string name="share_success">Erfolgreich geteilt</string>
-    <string name="share_title">Teilen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -250,8 +235,6 @@ Bitte die neue Version von %3$s lesen und akzeptieren , bevor Sie fortfahren."</
     <string name="time_picker_label_minute">Min</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
-    <string name="transfer_to_pc_summary">"Sie können Mi Share verwenden, um Elemente von Ihrem Telefon an Mi Notebooks oder von einem Laptop an einen anderen zu senden.
-Die Liste der kompatiblen Geräte finden Sie auf unserer Website. Wenn Ihr Laptop auf der Liste steht, aber Mi Share nicht darauf installiert ist, aktualisieren Sie das BIOS und den Netzwerkadaptertreiber Ihres Laptops und laden Sie Mi Share herunter."</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
@@ -260,9 +243,9 @@ Die Liste der kompatiblen Geräte finden Sie auf unserer Website. Wenn Ihr Lapto
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="withdraw_consent_failed">Die Zustimmung konnte nicht widerrufen werden.</string>
-    <string name="withdraw_consent_failed_hint">Serverfehler. Etwas warten und erneut versuchen.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät muss mit dem Netz verbunden sein, damit Sie Ihre Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="withdrawing">Widerruf zustimmen…</string>
+    <string name="withdraw_consent_failed">Zustimmung wurde nicht widerrufen</string>
+    <string name="withdraw_consent_failed_hint">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät muss mit dem Netzwerk verbunden sein, damit Sie Ihre Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="withdrawing">Zustimmung widerrufen…</string>
     <string name="yesterday">Gestern</string>
 </resources>

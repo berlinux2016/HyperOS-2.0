@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -511,9 +511,9 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
 %2$d. Stellen Sie sicher, dass die Netzwerkumgebung stabil ist. Falls nicht, versuchen Sie, Ihren Router neu zu starten oder wechseln Sie zu einem %3$d-GHz-Netzwerkband.
 %4$d. Wenn Sie auf ein Xiaomi TV übertragen, schalten Sie kabelloses Casting auf dem TV ein. Bleiben Sie während der Verbindung auf der Casting-Seite.
 %5$d. Einige große öffentliche LANs, wie die von Unternehmen und Schulen, unterstützen nicht die Möglichkeit, Geräte im selben LAN zu erkennen."</string>
-    <string name="help_page_text_13_desc_2">Einige TVs verwenden während des Casting eine Nicht-LAN-Verbindung. Es ist normal, dass bei diesen Geräten die Netzwerkverbindung unterbrochen wird. Normalerweise wird die Verbindung innerhalb von %1$d-%2$d Sekunden nach Ende dem Casting wiederhergestellt.</string>
+    <string name="help_page_text_13_desc_2">Einige TVs verwenden während des Castings eine Nicht-LAN-Verbindung. Es ist normal, dass bei diesen Geräten die Netzwerkverbindung unterbrochen wird. Normalerweise wird die Verbindung innerhalb von %1$d-%2$d Sekunden nach Ende dem Casting wiederhergestellt.</string>
     <string name="help_page_text_13_summary_1">Verbindung zu externem Gerät fehlgeschlagen</string>
-    <string name="help_page_text_13_summary_2">Netzwerkunterbrechungen während des Casting</string>
+    <string name="help_page_text_13_summary_2">Netzwerkunterbrechungen während des Castings</string>
     <string name="help_page_text_14">%1$d. Wenn Sie ein Xiaomi-Gerät verwenden möchten, es aber in der Liste der verfügbaren Geräte nicht finden können, versuchen Sie Folgendes: \Schließen Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) an das gleiche WLAN an oder schließen Sie den externen Monitor an den Hotspot Ihres Geräts an. Wenn kein WLAN verfügbar ist oder Sie nicht beide Geräte mit dem gleichen Netzwerk verbinden können, prüfen Sie, ob die Casting-Funktionen am externen Monitor auf dem neuesten Stand sind, schalten Sie Bluetooth sowohl auf Ihrem Gerät als auch am externen Monitor ein und schalten Sie Miracast am TV ein. \n%2$d. Wenn Sie zum ersten Mal mit einem Xiaomi-Gerät übertragen, müssen Sie die Verifizierung abschließen. \n%3$d. Wenn Sie ein Nicht-Xiaomi-Gerät verwenden möchten, es aber in der Liste der verfügbaren Geräte nicht finden können, versuchen Sie Folgendes: \nSchließen Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) an das gleiche WLAN an oder schließen Sie den externen Monitor an den Hotspot Ihres Geräts an. Wenn das nicht hilft, installieren Sie die LeEco Casting App auf Ihrem TV und folgen Sie den Anweisungen.</string>
     <string name="help_page_text_14_global">%1$d. Wenn Sie ein Xiaomi-Gerät verwenden möchten, es aber in der Liste der verfügbaren Geräte nicht finden können, versuchen Sie Folgendes: \Schließen Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) an das gleiche WLAN an oder schließen Sie den externen Monitor an den Hotspot Ihres Geräts an. Wenn kein WLAN verfügbar ist oder Sie nicht beide Geräte mit dem gleichen Netzwerk verbinden können, prüfen Sie, ob die Casting-Funktionen am externen Monitor auf dem neuesten Stand sind, schalten Sie Bluetooth sowohl auf Ihrem Gerät als auch am externen Monitor ein und schalten Sie Miracast am TV ein. \n%2$d. Wenn Sie zum ersten Mal mit einem Xiaomi-Gerät übertragen, müssen Sie die Verifizierung abschließen. \n%3$d. Wenn Sie ein Nicht-Xiaomi-Gerät verwenden möchten, es aber in der Liste der verfügbaren Geräte nicht finden können, versuchen Sie Folgendes: \nSchließen Sie sowohl Ihr Gerät als auch den externen Monitor (z. B. Ihren TV) an das gleiche WLAN an oder schließen Sie den externen Monitor an den Hotspot Ihres Geräts an.</string>
     <string name="help_page_text_15">Miracast-Funktionalität auf verschiedenen Geräten</string>
@@ -802,7 +802,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="privacy_permission_read_write_mobile_phone_storage">Zugriff auf und Speichern von Elementen im Speicher</string>
     <string name="privacy_permission_read_write_mobile_phone_storage_desc">Für den Zugriff auf und das Speichern von Dateien und Fotos auf diesem Gerät</string>
     <string name="privacy_permission_screencast">Zugriff auf Informationen am Bildschirm</string>
-    <string name="privacy_permission_screencast_desc">Während der Aufnahme oder des Casting kann der Dienst, der diese Funktion anbietet, alle sensiblen Daten erfassen, die auf Ihrem Bildschirm angezeigt oder von Ihrem Gerät wiedergegeben werden, einschließlich sensibler Daten wie Audio, Passwörter, Zahlungsdaten, Fotos und Nachrichten.</string>
+    <string name="privacy_permission_screencast_desc">Während der Aufnahme oder des Castings kann der Dienst, der diese Funktion anbietet, alle sensiblen Daten erfassen, die auf Ihrem Bildschirm angezeigt oder von Ihrem Gerät wiedergegeben werden, einschließlich sensibler Daten wie Audio, Passwörter, Zahlungsdaten, Fotos und Nachrichten.</string>
     <string name="privacy_permission_sound_recording">Audio aufnehmen</string>
     <string name="privacy_permission_sound_recording_desc">Für Sprachanrufe oder Tonaufnahmen</string>
     <string name="privacy_permission_wlan">WLAN ein- und ausschalten</string>
@@ -930,7 +930,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="show_result_on_tv">Ergebnisse am TV anzeigen</string>
     <string name="side_sheet_accessibility_pane_title">Beiblatt</string>
     <string name="small_window">Fenster minimieren</string>
-    <string name="small_window_not_supported">Diese App kann während des Casting nicht minimiert werden.</string>
+    <string name="small_window_not_supported">Diese App kann während des Castings nicht minimiert werden.</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>
