@@ -27,13 +27,10 @@
     <string name="close">Schließen</string>
     <string name="com_android_deskclock">Uhr</string>
     <string name="com_android_email">E-Mail</string>
-    <string name="com_android_soundrecorder">Rekorder</string>
     <string name="com_miui_calculator">Rechner</string>
-    <string name="com_miui_cleanmaster">Bereinigung</string>
     <string name="com_miui_compass">Kompass</string>
     <string name="com_miui_gallery">Galerie</string>
     <string name="com_miui_notes">Notizen</string>
-    <string name="com_miui_screenrecorder">Bildschirmaufnahme</string>
     <string name="com_miui_weather2">Wetter</string>
     <string name="com_xiaomi_calendar">Kalender</string>
     <string name="com_xiaomi_drivemode">Automodus</string>

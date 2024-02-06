@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="UVI_level_0">Schwach</string>
     <string name="UVI_level_1">Mäßig</string>
@@ -26,7 +26,7 @@
     <string name="accessibility_battery_level">Akku %d Prozent</string>
     <string name="accessibility_battery_level_charging">Akku laden, %d Prozent</string>
     <string name="actionbar_button_up_description">Zurück</string>
-    <string name="add_custom_image">Benutzerdefiniertes Bild</string>
+    <string name="add_custom_image">Eigenes Bild</string>
     <string name="add_from_local">Bild wählen</string>
     <string name="afternoon">Nachmittag</string>
     <string name="air_quality_index_abbreviation">LQI</string>
@@ -40,9 +40,9 @@
     <string name="always_style">Immer</string>
     <string name="always_style_symmary">Verbraucht mehr Strom</string>
     <string name="ambient_display_screen_title">Always-On-Display</string>
-    <string name="ambient_display_screen_title_sp">Ambient Display</string>
-    <string name="animation_clock_panel">Wellenzifferblatt</string>
-    <string name="aod_app_name">Always-on-Display und Sperrbildschirm-Editor</string>
+    <string name="ambient_display_screen_title_sp">Umgebungsanzeige</string>
+    <string name="animation_clock_panel">Wellenrad</string>
+    <string name="aod_app_name">AOD- und Sperrbildschirm-Editor</string>
     <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehr kombiniert werden. Zuerst Farbumkehr ausschalten.</string>
     <string name="aod_component">Angezeigte Elemente</string>
     <string name="aod_dual_clock_date">HH:mm dd.MM.</string>
@@ -59,8 +59,8 @@ dd.MM."</string>
     <string name="aod_mode_preview">Vorschau</string>
     <string name="aod_mode_style">Uhrstil und Hintergrund</string>
     <string name="aod_mode_style_title">Mehr Optionen</string>
-    <string name="aod_mode_summary">Zeigt Uhr, Datum, Benachrichtigungen und Hintergründe an, wenn der Bildschirm aus ist</string>
-    <string name="aod_mode_time_summary">Zeit zum Ein-/Ausschalten des Always-On-Display planen</string>
+    <string name="aod_mode_summary">Uhr, Datum, Benachrichtigungen und Hintergründe anzeigen, wenn der Bildschirm aus ist</string>
+    <string name="aod_mode_time_summary">Zeit zum Ein-/Ausschalten des AOD planen</string>
     <string name="aod_mode_time_title">Zeitplan</string>
     <string name="aod_mode_title">Always-On-Display</string>
     <string name="aod_notification_use_app_icon">App-Symbole für Benachrichtigungen verwenden</string>
@@ -93,7 +93,7 @@ dd.MM."</string>
     <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
     <string name="chip_text">Chiptext</string>
     <string name="choose_aod_style">Thema wählen</string>
-    <string name="chosen_picture">Hintergrund auswählen</string>
+    <string name="chosen_picture">Hintergrund wählen</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="clock_panel_icon">Zifferblatt </string>
@@ -116,7 +116,7 @@ dd.MM."</string>
     <string name="diamond_date">EE, dd.MM.</string>
     <string name="diamond_date_lunar">EE, dd.MM.yyyy</string>
     <string name="disable_aod_in_dark_room">Ausschalten, wenn es im Dunkeln liegt</string>
-    <string name="disable_aod_in_power_save_mode">Ausschalten, wenn Stromsparmodus an ist</string>
+    <string name="disable_aod_in_power_save_mode">Ausschalten, wenn Stromsparen an ist</string>
     <string name="disable_aod_in_power_save_mode_summary">Keine Elemente anzeigen, um Strom zu sparen</string>
     <string name="dual_clock_tip">Duale Uhr ist an. Tippen, um Einstellungen zu öffnen.</string>
     <string name="early_morning">Morgen</string>
@@ -182,7 +182,7 @@ dd.MM."</string>
     <string name="health_sleep_desc">Schlafdauer %1$s, Schlafqualität: %2$s</string>
     <string name="humidity_format">Feuchtigkeit %s</string>
     <string name="icon_content_description">Dialogsymbol</string>
-    <string name="kg_activity_label">Sperrbildscirm bearbeiten</string>
+    <string name="kg_activity_label">Sperrbildschirm bearbeiten</string>
     <string name="kg_apply">Anwenden</string>
     <string name="kg_apply_to_aod_alert_dialog_negative_text">Nein danke</string>
     <string name="kg_apply_to_aod_alert_dialog_positive_text">Einschalten</string>
@@ -203,7 +203,7 @@ dd.MM."</string>
     <string name="kg_classic_item_humidity">Feuchtigkeit</string>
     <string name="kg_classic_item_lunar_date">Traditioneller Chinesischer Kalender</string>
     <string name="kg_classic_item_lunar_month_day">Traditioneller Chinesischer Kalender</string>
-    <string name="kg_classic_item_lunar_year">Tag (Traditioneller Chinesischer Kalender)</string>
+    <string name="kg_classic_item_lunar_year">Jahr (Traditioneller Chinesischer Kalender)</string>
     <string name="kg_classic_item_month">Monat</string>
     <string name="kg_classic_item_number_hour">Stunden (digital)</string>
     <string name="kg_classic_item_number_min">Minuten (digital)</string>
@@ -225,7 +225,7 @@ dd.MM."</string>
     <string name="kg_classic_item_week">Woche</string>
     <string name="kg_classic_primary_color_label">Primärfarbe</string>
     <string name="kg_classic_secondary_color_label">Sekundärfarbe</string>
-    <string name="kg_classic_signature_area_hint">Tippen, um die Signatur einzugeben</string>
+    <string name="kg_classic_signature_area_hint">Tippen, um Signatur einzugeben</string>
     <string name="kg_classic_signature_label">Signatur</string>
     <string name="kg_color_editor_high_text_contrast_tips">Textfarbe kann nicht geändert werden, wenn Text mit hohem Kontrast verwendet wird</string>
     <string name="kg_color_value_editor_hue">Farbton</string>
@@ -257,10 +257,10 @@ dd.MM."</string>
     <string name="kg_function_button_text_wallpaper">Hintergrund</string>
     <string name="kg_glass_filter_on_time">Auf Uhr anwenden</string>
     <string name="kg_guidance_dialog_positive_button_text_next_step">Weiter</string>
-    <string name="kg_guidance_dialog_tip_browse_more">Hochwischen, um zwischen den Vorlagen zu wechseln. Horizontal wischen, um weitere Personalisierungsoptionen anzuzeigen.</string>
+    <string name="kg_guidance_dialog_tip_browse_more">Hochwischen, um zwischen Vorlagen zu wechseln. Horizontal wischen, um weitere Personalisierungsoptionen anzuzeigen.</string>
     <string name="kg_guidance_dialog_tip_customize">Passen Sie Ihren Sperrbildschirm an, damit er wirklich Ihnen gehört.</string>
     <string name="kg_guidance_dialog_title">Völlig neuer personalisierter Sperrbildschirm</string>
-    <string name="kg_hierarchy_loading_tip">Schichten erkennen…</string>
+    <string name="kg_hierarchy_loading_tip">Ebenen erkennen…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Hintergrundposition anpassen, um Tiefeneffekt sichtbar zu machen</string>
     <string name="kg_hierarchy_not_support_gallery_tip">Tiefeneffekte können nicht auf Diashow-Elemente angewendet werden</string>
     <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">Hintergründe von Drittanbietern unterstützen keine Tiefeneffekte</string>
@@ -269,7 +269,7 @@ dd.MM."</string>
     <string name="kg_magazine_a_b_secondary_color_label">Signatur</string>
     <string name="kg_magazine_c_primary_color_label">Anderer Text</string>
     <string name="kg_magazine_c_secondary_color_label">Minuten</string>
-    <string name="kg_main_add_template_forbidden_toast">Weitere Sperrbildschirme können nicht hinzugefügt werden. Sie können einige von ihnen löschen, um neue hinzuzufügen.</string>
+    <string name="kg_main_add_template_forbidden_toast">Weitere Sperrbildschirme können nicht hinzugefügt werden. Sie könnten einige von ihnen löschen, um neue hinzuzufügen.</string>
     <string name="kg_main_dual_clock_close_ask_dialog_desc">Neue Uhren können nicht angezeigt werden, wenn die Duale Uhr eingeschaltet ist. Duale Uhr jetzt ausschalten?</string>
     <string name="kg_main_dual_clock_close_ask_dialog_negative_button">Beibehalten</string>
     <string name="kg_main_dual_clock_close_ask_dialog_positive_button">Ausschalten</string>
@@ -282,7 +282,7 @@ dd.MM."</string>
     <string name="kg_rhombus_secondary_color_label">Trennzeichen</string>
     <string name="kg_rhombus_switch_label">Mehrfarbige Ziffern</string>
     <string name="kg_smart_frame_secondary_label">Hintergrund</string>
-    <string name="kg_template_description_classic">Das Klassische kommt nie aus der Mode.</string>
+    <string name="kg_template_description_classic">Klassisches kommt nie aus der Mode.</string>
     <string name="kg_template_description_magazine">Verwandeln Sie Ihren Sperrbildschirm in ein Magazin-Cover.</string>
     <string name="kg_template_description_rhombus">Zeit ist wichtig. Nutzen Sie sie.</string>
     <string name="kg_template_title_classic">Klassisch</string>
@@ -304,7 +304,6 @@ dd.MM."</string>
     <string name="material_slider_range_start">Bereichsanfang</string>
     <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="material_timepicker_hour">Stunde</string>
-    <string name="material_timepicker_minute">Minute</string>
     <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
     <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="midnight">Nacht</string>
@@ -387,10 +386,6 @@ dd.MM."</string>
     <string name="more_online_theme">Online-Elemente</string>
     <string name="morning">Morgen</string>
     <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">Symbol</string>
-    <string name="mtrl_checkbox_button_icon_path_name">Symbolpfad</string>
-    <string name="mtrl_checkbox_button_path_group_name">Taste</string>
-    <string name="mtrl_checkbox_button_path_name">Tastenpfad</string>
     <string name="mtrl_checkbox_state_description_checked">Geprüft</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Teilweise geprüft</string>
     <string name="mtrl_checkbox_state_description_unchecked">Nicht geprüft</string>
@@ -431,7 +426,7 @@ dd.MM."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
     <string name="mtrl_timepicker_cancel">Abbrechen</string>
-    <string name="my_style_title">Mein Stil</string>
+    <string name="my_style_title">Mein Thema</string>
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
@@ -439,7 +434,7 @@ dd.MM."</string>
     <string name="notification_anim_rhythm">Pulsieren (Blau)</string>
     <string name="notification_anim_star">Sternenlicht</string>
     <string name="notification_nothing">Nichts</string>
-    <string name="notification_screen_on">Beleuchteter Bildschirm</string>
+    <string name="notification_screen_on">Bildschirm aufleuchten</string>
     <string name="off">Aus</string>
     <string name="on">AN</string>
     <string name="only_show_bg_description">Uhrzeit, Datum und andere Elemente nicht anzeigen</string>
@@ -455,10 +450,10 @@ dd.MM."</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
-    <string name="scheduled_mode_dialog_msg">Elemente werden innerhalb dieses Zeitraums auf Ihrem Always-On-Display angezeigt: %s.</string>
+    <string name="scheduled_mode_dialog_msg">Elemente werden innerhalb dieses Zeitraums auf Ihrem AOD angezeigt: %s.</string>
     <string name="scheduled_mode_msg">Aktiver Zeitraum: %s</string>
-    <string name="scheduled_style">Zeitplan</string>
-    <string name="scheduled_style_summary">Benutzerdefinierte Zeit einstellen</string>
+    <string name="scheduled_style">Geplant</string>
+    <string name="scheduled_style_summary">Eigene Zeit einstellen</string>
     <string name="scope_des">Jedes Kaleidoskop enthält 5 verschiedene Muster, die nacheinander angezeigt werden, wenn der Bildschirm aufleuchtet.</string>
     <string name="scope_icon">Kaleidoskop-Stil</string>
     <string name="scope_time">Kaleidoskop</string>
@@ -466,7 +461,7 @@ dd.MM."</string>
     <string name="searchview_clear_text_content_description">Text löschen</string>
     <string name="searchview_navigation_content_description">Zurück</string>
     <string name="select_notification_animation_style">Spezialeffekt wählen</string>
-    <string name="select_notification_notify_style">Benachrichtigungseffekt auswählen</string>
+    <string name="select_notification_notify_style">Benachrichtigungseffekt wählen</string>
     <string name="send">Senden</string>
     <string name="settings_view_btn_check_off">Aus</string>
     <string name="settings_view_btn_check_on">An</string>
@@ -508,9 +503,9 @@ dd.MM."</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="somatosensory_temperature_format">Gefühlt wie %s°</string>
-    <string name="step_component_info_active_tip">Schrittzähler wird von Xiaomi Health zur Verfügung gestellt. Stimmen Sie den Geschäftsbedingungen von Xiaomi Health zu, um fortzufahren.</string>
+    <string name="step_component_info_active_tip">Schrittzähler wird von Xiaomi Health bereitgestellt. Stimmen Sie den allgemeinen Geschäftsbedingungen von Xiaomi Health zu, um fortzufahren.</string>
     <string name="step_component_info_desc">Schrittzähler wird zu einer Trophäe, wenn Ihr Ziel erreicht ist. Schrittzähler wird von Xiaomi Health bereitgestellt.</string>
-    <string name="step_component_info_tip">Schrittzähler wird von Xiaomi Health zur Verfügung gestellt. Installieren oder aktualisieren Sie Xiaomi Health und stimmen Sie den allgemeinen Geschäftsbedingungen zu, um fortzufahren.</string>
+    <string name="step_component_info_tip">Schrittzähler wird von Xiaomi Health bereitgestellt. Installieren oder aktualisieren Sie Xiaomi Health und stimmen Sie den allgemeinen Geschäftsbedingungen zu, um fortzufahren.</string>
     <string name="step_to_image_community">Finden Sie mehr in der Xiaomi Community</string>
     <string name="summary">Um den Stromverbrauch zu reduzieren, werden Elemente nicht angezeigt, wenn Ihr Gerät längere Zeit im Dunkeln liegt.</string>
     <string name="sunday">Sonntag</string>
@@ -525,7 +520,7 @@ dd.MM."</string>
     <string name="super_wallpaper_date_inter">EEEE\ndd.MM.</string>
     <string name="super_wallpaper_date_lunar">EEEE\ndd.MM.</string>
     <string name="temporary_style">Für 10 Sekunden nach Antippen</string>
-    <string name="temporary_style_5">Für 5 Sekunden nach dem Antippen</string>
+    <string name="temporary_style_5">Für 5 Sekunden nach Antippen</string>
     <string name="temporary_style_summary">Empfohlen</string>
     <string name="text_color">Textfarbe</string>
     <string name="text_length_exceed_limit_alert">*Eingegebener Text ist zu lang</string>

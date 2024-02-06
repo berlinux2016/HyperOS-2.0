@@ -64,7 +64,7 @@
     <string name="call_recording_error_privacy">Im Gastmodus kann nicht aufgenommen werden</string>
     <string name="call_recording_error_sd_access">Kein Zugriff auf SD-Karte</string>
     <string name="call_recording_error_sd_unmounted">Aufnahme gestoppt: SD-Karte nicht eingebunden</string>
-    <string name="call_recording_error_start_failed">Rekorder wird von einer anderen App verwendet</string>
+    <string name="call_recording_error_start_failed">Recorder wird von einer anderen App verwendet</string>
     <string name="call_recording_error_unknown">Ein unbekannter Fehler ist aufgetreten</string>
     <string name="call_recording_notification_message">Tippen zum Anhören</string>
     <string name="call_recording_notification_message_low_storage">SD-Karte ist voll</string>

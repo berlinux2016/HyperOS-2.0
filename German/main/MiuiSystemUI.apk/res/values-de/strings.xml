@@ -2291,8 +2291,8 @@ dd.MM."</string>
     <string name="status_bar_recent_inspect_item_title">App-Info</string>
     <string name="status_bar_recent_memory_info1">%1$s B von %2$s B verfügbar</string>
     <string name="status_bar_recent_remove_item_title">Aus Liste entfernen</string>
-    <string name="status_bar_recording_back">Zum Rekorder zurückkehren</string>
-    <string name="status_bar_recording_pause">Rekorder pausiert</string>
+    <string name="status_bar_recording_back">Zum Recorder zurückkehren</string>
+    <string name="status_bar_recording_pause">Recorder pausiert</string>
     <string name="status_bar_safepay_risk">Zahlungsumgebung ist riskant!</string>
     <string name="status_bar_safepay_safe">Zahlungsumgebung ist sicher</string>
     <string name="status_bar_safepay_scanning">Zahlungsumgebung prüfen…</string>

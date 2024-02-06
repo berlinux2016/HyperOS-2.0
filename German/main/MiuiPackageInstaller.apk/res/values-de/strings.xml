@@ -565,10 +565,6 @@
     <string name="more_app">Weitere Apps</string>
     <string name="morning">Morgen</string>
     <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">Symbol</string>
-    <string name="mtrl_checkbox_button_icon_path_name">Symbolpfad</string>
-    <string name="mtrl_checkbox_button_path_group_name">Taste</string>
-    <string name="mtrl_checkbox_button_path_name">Tastenpfad</string>
     <string name="mtrl_checkbox_state_description_checked">Geprüft</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Teilweise geprüft</string>
     <string name="mtrl_checkbox_state_description_unchecked">Nicht geprüft</string>

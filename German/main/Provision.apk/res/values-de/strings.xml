@@ -652,7 +652,6 @@ Lesen und akzeptieren Sie unsere "&lt;u>&lt;a href=\"app://com.miui.cloudservice
     <string name="service_name_message">Nachrichten</string>
     <string name="service_name_note">Notizen</string>
     <string name="service_name_phone_service">Telefonie</string>
-    <string name="service_name_recorder">Rekorder</string>
     <string name="service_name_screen_recording">Bildschirmaufnahme</string>
     <string name="service_name_security">Sicherheit</string>
     <string name="service_name_service_framework">XiaoXiaomi Service Framework</string>

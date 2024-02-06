@@ -1218,7 +1218,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
     <string name="titleJoinContactDataWith">Kontakte zusammenführen</string>
-    <string name="toast_call_no_SoundRecorder">Rekorder nicht verfügbar</string>
+    <string name="toast_call_no_SoundRecorder">Recorder nicht verfügbar</string>
     <string name="toast_call_no_notes">Notizen-App nicht verfügbar</string>
     <string name="toast_copy_done">Erledigt</string>
     <string name="toast_copying">Kopieren…</string>
