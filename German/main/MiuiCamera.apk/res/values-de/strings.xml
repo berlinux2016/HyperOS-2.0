@@ -2707,7 +2707,7 @@
     <string name="spaceIsLow_content_primary_storage_priority">Speicherplatz auf USB-Speicher wird knapp</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority">Anscheinend ist der Speicherplatz erschöpft. Bildaufnahme wurde gestoppt.</string>
     <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Anhalten wegen unzureichendem Speicher…</string>
-    <string name="speech_shutter_open_tip">Sagen Sie \"Mach ein Foto\" oder \"Aubergine\", um ein Foto aufzunehmen</string>
+    <string name="speech_shutter_open_tip">Sagen Sie \"Cheese!\", um ein Foto zu machen</string>
     <string name="speech_shutter_tip">Sprachauslöser</string>
     <string name="sticker_tab1">Süß</string>
     <string name="sticker_tab2">Lustig</string>
