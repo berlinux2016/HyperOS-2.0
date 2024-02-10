@@ -963,7 +963,7 @@
     <string name="error_connect_timeout_tip">Verbindungszeit abgelaufen</string>
     <string name="error_create_share_album_fail_default">Erstellen wegen eines unbekannten Fehlers nicht möglich</string>
     <string name="error_decode_tip">Dateiformat wird nicht unterstützt oder Dateien sind beschädigt</string>
-    <string name="error_download_tip">Herunterladen fehlgeschlagen</string>
+    <string name="error_download_tip">Download fehlgeschlagen</string>
     <string name="error_dup_binded_email">Diese E-Mail-Adresse ist bereits mit einem anderen Mi-Konto verbunden.</string>
     <string name="error_external_sdcard_write_action">Datenspeicher wechseln</string>
     <string name="error_external_sdcard_write_msg">Gehen Sie zu Einstellungen &gt; Speicher; wechseln Sie den Datenspeicher und versuchen Sie erneut.</string>

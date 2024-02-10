@@ -412,7 +412,7 @@
     <string name="material_timepicker_hour">Stunde</string>
     <string name="material_timepicker_minute">Minute</string>
     <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
-    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
     <string name="menu_hide_system">System ausblenden</string>
     <string name="menu_show_system">System anzeigen</string>
     <string name="message_appstore_verify_has_new_version">Eine neue App-Version ist in unserem App Store verfügbar, wollen Sie diese installieren?</string>

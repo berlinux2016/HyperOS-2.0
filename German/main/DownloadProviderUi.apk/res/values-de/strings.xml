@@ -396,7 +396,7 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
-    <string name="turn_off_xunlei_message">Es kann zu langsameren Download-Geschwindigkeiten kommen.</string>>
+    <string name="turn_off_xunlei_message">Es kann zu langsameren Download-Geschwindigkeiten kommen.</string>
     <string name="turn_off_xunlei_title">Xunlei ausschalten</string>
     <string name="unbind_xunlei_2_success">Xunlei-Konto hinzugefügt</string>
     <string name="unbind_xunlei_success">Vom Xunlei-Konto abgemeldet</string>

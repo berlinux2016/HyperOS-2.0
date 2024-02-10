@@ -110,7 +110,7 @@
     <string name="bind_weixin">Mit Ihrem WeChat-Konto verbinden</string>
     <string name="binded">Verbunden</string>
     <string name="binded_description" formatted="false">%s wurde mit Ihrem Xiaomi-Konto verbunden. Sie können sich jetzt mit %s in Ihrem Xiaomi-Konto anmelden.</string>
-    <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="button_agree">Zustimmen</string>
     <string name="button_close">Schließen</string>
     <string name="button_refuse">Nicht zustimmen</string>

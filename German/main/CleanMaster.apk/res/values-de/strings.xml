@@ -310,7 +310,7 @@
     <string name="exo_download_paused">Downloads angehalten</string>
     <string name="exo_download_paused_for_network">Downloads warten auf Netzwerk</string>
     <string name="exo_download_paused_for_wifi">Downloads warten auf WLAN</string>
-    <string name="exo_download_removing">Downloads entfernen</string>
+    <string name="exo_download_removing">Downloads löschen</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="facebook_clean_exit_confirm_cancel">Weiter scannen</string>
     <string name="facebook_clean_exit_confirm_msg">Facebook noch nicht fertig gescannt. Scannen jetzt stoppen?</string>

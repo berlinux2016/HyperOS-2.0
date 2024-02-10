@@ -56,7 +56,7 @@
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_ap_in_use">Dateien an andere Geräte senden nicht möglich, wenn Hotspot an ist</string>
-    <string name="error_ap_or_screen_already_hosting">Während des Castings oder der Nutzung eines tragbaren Hotspots können Elements nicht an andere Geräte gesendet werden.</string>
+    <string name="error_ap_or_screen_already_hosting">Während des Castings oder der Nutzung eines mobilen Hotspots können Elements nicht an andere Geräte gesendet werden.</string>
     <string name="error_ble_connect_failure">Empfängergerät ist nicht mit Bluetooth verbunden. Stellen Sie sicher, dass sein Bildschirm an ist.</string>
     <string name="error_ble_connect_timeout">Bluetooth-Verbindung fehlgeschlagen. Bluetooth-Verbindung auf beiden Geräten wiederherstellen und erneut versuchen.</string>
     <string name="error_device_lost">Anscheinend antwortet das andere Gerät nicht. Etwas warten und erneut versuchen.</string>
@@ -79,7 +79,7 @@
     <string name="error_receive_user_cancel">Transfer abgebrochen</string>
     <string name="error_receive_user_interrupted">Die andere Person hat den Transfer abgebrochen.</string>
     <string name="error_refuse_receive">Transfer abgebrochen</string>
-    <string name="error_remote_ap_working">Andere Person bitten, den tragbaren Hotspot auszuschalten</string>
+    <string name="error_remote_ap_working">Andere Person bitten, den mobilen Hotspot auszuschalten</string>
     <string name="error_remote_busy">Anscheinend ist das andere Gerät beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="error_remote_mirror_working">Das andere Gerät kann bei Bildschirm teilen keine Elemente annehmen.</string>
     <string name="error_self_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
