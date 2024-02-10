@@ -2959,7 +2959,7 @@
     <string name="sticker_summer">Sommer</string>
     <string name="sticker_tab_talkback_art">Kunst</string>
     <string name="sticker_tab_talkback_cat">Katzen</string>
-    <string name="sticker_tab_talkback_children">Tag der Kinder</string>
+    <string name="sticker_tab_talkback_children">Kindertag</string>
     <string name="sticker_tab_talkback_cloud">Wolken</string>
     <string name="sticker_tab_talkback_colorful">Farbiges Gekritzel</string>
     <string name="sticker_tab_talkback_cutie">Sternenlicht</string>
@@ -3112,7 +3112,7 @@
     <string name="text_item_type_talkback_festival_chaojiyueliang5">Supermond %d</string>
     <string name="text_item_type_talkback_festival_chunjie">Frühlingsfest</string>
     <string name="text_item_type_talkback_festival_chuxi">Vorabend des chinesischen Neujahrs</string>
-    <string name="text_item_type_talkback_festival_ertongjie">Tag der Kinder</string>
+    <string name="text_item_type_talkback_festival_ertongjie">Kindertag</string>
     <string name="text_item_type_talkback_festival_qingrenjie">Valentinstag</string>
     <string name="text_item_type_talkback_festival_shegndanjie">Weihnachten</string>
     <string name="text_item_type_talkback_festival_yuandan">Neujahr</string>
@@ -3163,7 +3163,7 @@
     <string name="the_arbor_day">Tag des Baumes</string>
     <string name="the_armed_forces_day">Tag der Streitkräfte</string>
     <string name="the_armys_day">Tag der Armee</string>
-    <string name="the_childrens_day">Tag der Kinder</string>
+    <string name="the_childrens_day">Kindertag</string>
     <string name="the_chinese_youth_day">Tag der Jugend</string>
     <string name="the_christmas_day">Weihnachten</string>
     <string name="the_double_ninth_festival">Chongyang (Doppel-9-Fest)</string>
@@ -3193,7 +3193,7 @@
     <string name="the_spring_festival">Frühlingsfest</string>
     <string name="the_teachers_day">Tag der Lehrer</string>
     <string name="the_third_day">Dritter Tag des chinesischen Neujahrs</string>
-    <string name="the_tw_childrens_day">Tag der Kinder</string>
+    <string name="the_tw_childrens_day">Kindertag</string>
     <string name="the_tw_youth_day">Tag der Jugend</string>
     <string name="the_united_nations_day">Tag der Vereinten Nationen</string>
     <string name="the_valentines_day">Valentinstag</string>
