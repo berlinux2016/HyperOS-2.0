@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="PRD_summary_1">Wenn Sie Daten dieser Apps vom alten auf das neue Gerät übertragen, werden die Daten auf dem neuen Gerät (inkl. Chat-Verläufe) überschrieben.</string>
     <string name="PRD_summary_4">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>

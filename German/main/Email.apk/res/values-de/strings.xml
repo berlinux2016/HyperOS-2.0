@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="SMTP_independent_verification_text">SMTP-unabhängige Verifizierung</string>
     <string name="SMTP_password_text">Passwort</string>

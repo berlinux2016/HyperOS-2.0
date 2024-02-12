@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="bugreport_add_details_to_zip_failed">Fehlerberichtdetails zur Zip-Datei hinzufügen nicht möglich</string>
     <string name="bugreport_confirm">Fehlerberichte enthalten Daten aus verschiedenen Protokolldateien des Systems, darunter auch personenbezogene und private Daten. Teilen Sie Fehlerberichte nur mit Apps und Personen, denen Sie vertrauen.</string>

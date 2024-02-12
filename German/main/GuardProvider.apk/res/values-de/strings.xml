@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MIUI Sicherheitskomponenten</string>
     <string name="avast_dialog_header">Diese Funktion verschlüsselt Ihre Geräte-ID und lädt diese auf die Avast-Server hoch (%s)</string>

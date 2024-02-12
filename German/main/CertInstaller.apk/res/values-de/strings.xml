@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_missing_private_key">Privater Schlüssel für die Installation eines Zertifikats erforderlich</string>
     <string name="action_missing_user_cert">Zertifikat für die Installation eines privaten Schlüssels erforderlich</string>

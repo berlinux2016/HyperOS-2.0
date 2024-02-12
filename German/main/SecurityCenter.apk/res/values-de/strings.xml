@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Perm_Access_Gallery">Zugriff auf mit der Kamera gemachte Fotos und Videos</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">App den Zugriff auf mit der Systemkamera-App gemachte Fotos und Videos erlauben</string>

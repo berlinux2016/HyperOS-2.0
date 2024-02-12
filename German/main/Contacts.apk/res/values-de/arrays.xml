@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="bh_required_permission_list_all_desc">
         <item>Für die Bereitstellung von Diensten für ein bestimmtes Gerät</item>

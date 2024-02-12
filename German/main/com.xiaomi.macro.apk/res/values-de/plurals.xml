@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="gb_game_macro_action_unit_count">
         <item quantity="other">%d-mal</item>

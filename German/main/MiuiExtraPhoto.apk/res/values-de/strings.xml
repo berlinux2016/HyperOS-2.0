@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
@@ -23,7 +23,7 @@
     <string name="auto_crop_full_screen">Vollbild</string>
     <string name="auto_crop_photo_not_support">Xiaomi ProCut kann bei diesem Foto nicht verwendet werden</string>
     <string name="auto_crop_save_1">Speichern…</string>
-    <string name="auto_crop_save_2">Saving</string>
+    <string name="auto_crop_save_2">Speichern</string>
     <string name="auto_crop_selection_hint">%1$d/%2$d gewählt</string>
     <string name="auto_crop_stop_saving">Erneut tippen zum Abbrechen</string>
     <string name="auto_crop_water_mark_description">Wasserzeichen werden auf den mit Xiaomi ProCut bearbeiteten Bildern nicht angezeigt. Diese Funktion trotzdem verwenden?</string>
@@ -46,8 +46,8 @@
     <string name="doc_photo_doc_photo_title">Dokument bearbeiten</string>
     <string name="doc_photo_enhance_bin">S/W</string>
     <string name="doc_photo_enhance_bin_desc">Schwarz-weiß-Kopie</string>
-    <string name="doc_photo_enhance_color">Erweitert</string>
-    <string name="doc_photo_enhance_color_desc">Erweitertes Farbscannen</string>
+    <string name="doc_photo_enhance_color">Verbessert</string>
+    <string name="doc_photo_enhance_color_desc">Verbesserter Farb-Scan</string>
     <string name="doc_photo_enhance_crop">Zuschneiden</string>
     <string name="doc_photo_enhance_dehandwrite">Notizen löschen</string>
     <string name="doc_photo_enhance_dehandwrite_desc">Handschriftliche Notizen mit einem Tippen löschen</string>
@@ -56,7 +56,6 @@
     <string name="doc_photo_enhance_moer">Moiré entfernen</string>
     <string name="doc_photo_enhance_moer_desc">Moiré-Bildschirmmuster entfernen</string>
     <string name="doc_photo_enhance_moer_toast">Moiré-Bildschirmmuster entfernen</string>
-    <string name="doc_photo_enhance_none">Original</string>
     <string name="doc_photo_enhance_undistortion">Anti-Verzerrung</string>
     <string name="doc_photo_enhance_undistortion_desc">Bildverzerrung korrigieren</string>
     <string name="doc_photo_enhance_undistortion_version4">Begradigen</string>
@@ -81,7 +80,7 @@
     <string name="evening">Nachmittag</string>
     <string name="exit_alert_msg">Alle ungespeicherten Änderungen gehen verloren.</string>
     <string name="exit_alert_title">Änderungen verwerfen?</string>
-    <string name="extra_photo_common_save_fail">Speichern nicht möglich</string>
+    <string name="extra_photo_common_save_fail">Speichern fehlgeschlagen</string>
     <string name="extra_photo_common_saving">Speichern…</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>
@@ -113,7 +112,7 @@
     <string name="grant_permission_go_and_set_2">Einstellungen</string>
     <string name="grant_permission_remind_title">Berechtigungen erforderlich</string>
     <string name="grant_permission_storage">Dieser App den Speicherzugriff erlauben</string>
-    <string name="grant_permission_text">Galerie Editor benötigt die folgende Berechtigung, um normal zu arbeiten: %s. Tippen Sie auf \"Einstellungen\", um sie zu erteilen.</string>
+    <string name="grant_permission_text">Galerie Editor benötigt die folgende Berechtigung, um normal zu funktionieren: %s. Auf \"Einstellungen\" tippen, um sie zu erteilen.</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -173,7 +172,7 @@
     <string name="morning">Morgen</string>
     <string name="motion_photo_cancel">Abbrechen</string>
     <string name="motion_photo_re_pick_title">Live-Foto</string>
-    <string name="motion_photo_save_fail">Speichern nicht möglich</string>
+    <string name="motion_photo_save_fail">Speichern fehlgeschlagen</string>
     <string name="motion_photo_save_gif">Als GIF speichern</string>
     <string name="motion_photo_save_gif_ing">GIF speichern…</string>
     <string name="motion_photo_save_image">Bestes Bild speichern</string>
@@ -194,43 +193,38 @@
     <string name="refocus_discard_positive_btn">Speichern</string>
     <string name="refocus_dynamic_luoxuan">Wirbel</string>
     <string name="refocus_dynamic_tongxin">Umarmung</string>
-    <string name="refocus_dynamic_xiantiao">Zeilen</string>
+    <string name="refocus_dynamic_xiantiao">Linien</string>
     <string name="refocus_dynamic_xingxing">Sterne</string>
     <string name="refocus_dynamic_xinxing">Herzen</string>
     <string name="refocus_dynamic_yuanxing">Kreise</string>
-    <string name="refocus_movie_banlan">Bunt</string>
     <string name="refocus_movie_caihong">Regenbogen</string>
     <string name="refocus_movie_huaijiu">Nostalgie</string>
     <string name="refocus_movie_lanshan">Dekadenz</string>
-    <string name="refocus_movie_meiying">Phantom</string>
     <string name="refocus_movie_mengjing">Traumland</string>
-    <string name="refocus_movie_niying">Neon</string>
-    <string name="refocus_movie_xuanying">Beams</string>
+    <string name="refocus_movie_xuanying">Strahlen</string>
     <string name="refocus_movie_yanhong">Scharlachrot</string>
     <string name="refocus_none">Nichts</string>
-    <string name="refocus_photo_not_support">Unschärfe auf dieses Foto anwenden nicht möglich</string>
+    <string name="refocus_photo_not_support">Unschärfe kann auf dieses Foto nicht angewendet werden</string>
     <string name="refocus_relighting_baiyechuang">Jalousie</string>
-    <string name="refocus_relighting_bodian">Wallen</string>
+    <string name="refocus_relighting_bodian">Wellen</string>
     <string name="refocus_relighting_caihong">Regenbogen</string>
     <string name="refocus_relighting_dianying">Film</string>
-    <string name="refocus_relighting_sahongjie">Holi</string>
     <string name="refocus_relighting_shuye">Blätter</string>
     <string name="refocus_relighting_toast">Kreis zur Einstellung des Beleuchtungswinkels verschieben</string>
     <string name="refocus_relighting_wutai">Bühne</string>
-    <string name="refocus_relighting_ziran">Natural</string>
+    <string name="refocus_relighting_ziran">Natürlich</string>
     <string name="refocus_save_cancel">Abbrechen</string>
-    <string name="refocus_save_title">Format auswählen</string>
+    <string name="refocus_save_title">Format wählen</string>
     <string name="refocus_save_to_photo">Als Bild speichern</string>
     <string name="refocus_save_to_video">Als Video speichern</string>
     <string name="refocus_saving">Speichern…</string>
     <string name="refocus_title">Unschärfe</string>
-    <string name="refocus_type_movie_relighting">Cinematic</string>
-    <string name="refocus_type_relighting">Studio</string>
+    <string name="refocus_type_movie_relighting">Filmisch</string>
     <string name="refocus_type_relighting_no_face">Kein Gesicht gefunden</string>
-    <string name="refocus_type_relighting_small_face">3D-Beleuchtung funktioniert auf Fotos, bei denen Gesichter mehr Platz einnehmen als hier</string>
+    <string name="refocus_type_relighting_small_face">Studiobeleuchtung funktioniert auf Fotos, bei denen Gesichter mehr Platz einnehmen als hier</string>
     <string name="refocus_type_static">Unschärfe</string>
     <string name="refocus_type_video">Lichtspuren</string>
-    <string name="saf_operation_guide_1">"Galerie Editor benötigt Ihre Erlaubnis, um Ihre Daten zu schützen und zu verwalten. "</string>
+    <string name="saf_operation_guide_1">"Galerie Editor benötigt die Berechtigung, um Ihre Daten zu schützen und zu verwalten. "</string>
     <string name="saf_operation_guide_2">Um die Berechtigung zu erteilen, tippen Sie auf \"%1$s\" und wählen dann \"%2$s\".</string>
     <string name="saf_operation_guide_param1">Weiter</string>
     <string name="saf_operation_guide_param2">Auf diesen Ordner zugreifen</string>

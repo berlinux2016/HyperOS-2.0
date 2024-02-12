@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="battery_authentic_failed_message">
         <item quantity="other">Anscheinend wurde der Akku getrennt. Ihr Gerät wird innerhalb von %d Sekunden ausgeschaltet. Wenden Sie sich an den Kundensupport, um dieses Problem zu lösen.</item>

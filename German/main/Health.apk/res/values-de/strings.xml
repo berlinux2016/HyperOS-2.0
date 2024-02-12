@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="MediaControlView_ad_remaining_time">Werbung · %1$s verbleiben</string>
     <string name="MediaControlView_ad_skip_wait_time">Sie können die Werbung in %1$d Sek überspringen</string>
