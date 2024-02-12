@@ -1801,14 +1801,10 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen. Status des Download-Managers im App-Management prüfen.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s
-Größe: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Vorstellung der Version %1$s
-Delta-Update-Größe: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s aktualisieren!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte prüfen Sie die SD-Karte.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
+    <string name="xiaomi_update_sdk_dialog_message">Vorgestellte Version %1$s\nGröße: %2$s</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">Vorgestellte Version %1$s\nDelta-Update-Größe: %2$s</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Speicherplatz nicht verfügbar, bitte SD-Karte prüfen.</string>
     <string name="yesterday">Gestern</string>
 </resources>

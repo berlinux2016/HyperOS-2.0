@@ -1907,13 +1907,11 @@ Es zeigt nichts an."</string>
     <string name="widget_more_channel_click">Tippen, um TV-Kanäle zu sehen</string>
     <string name="widget_trending_click">Tippen, um die heute beliebtesten Videos zu sehen</string>
     <string name="widget_trending_today">Heute beliebt</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung Downloadmanager fehlgeschlagen, bitte prüfen Sie den Status des Downloadmanagers in der App-Verwaltung.</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Vorstellung der Version %1$s
-Größe: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Vorstellung der Version %1$s
-Delta-Update-Größe: %2$s"</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
+    <string name="xiaomi_update_sdk_dialog_message">Vorgestellte Version %1$s\nGröße: %2$s</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">Vorgestellte Version %1$s\nDelta-Update-Größe: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Speicher nicht verfügbar, bitte prüfen Sie die SD-Karte.</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Speicherplatz nicht verfügbar, bitte SD-Karte prüfen.</string>
     <string name="year">Jahr</string>
     <string name="yesterday">Gestern</string>
     <string name="yt_subscription_notification_setting_title">Abo-Benachrichtigungen</string>

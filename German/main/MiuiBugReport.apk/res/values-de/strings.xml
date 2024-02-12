@@ -910,7 +910,7 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
     <string name="xiaomi_update_sdk_dialog_message">Vorgestellte Version %1$s\nGröße: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">Vorgestellte Version %1$s\nDelta-Update-Größe: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s aktualisieren!</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Speicherplatz nicht verfügbar, bitte SD-Karte prüfen.</string>
     <string name="yesterday">Gestern</string>
 </resources>

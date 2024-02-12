@@ -1077,7 +1077,7 @@
     <string name="file_size">Größe</string>
     <string name="filllight">Aufhellen</string>
     <string name="filter_a4_aesthetic">Ästhetisch</string>
-    <string name="filter_bi_bw">Schwarz-Weiß</string>
+    <string name="filter_bi_bw">Schwarz-weiß</string>
     <string name="filter_bi_dusk">Dunkel</string>
     <string name="filter_bi_memory">Speicher</string>
     <string name="filter_bi_portrait">Porträt</string>
@@ -1104,7 +1104,7 @@
     <string name="filter_category_travel">Reise</string>
     <string name="filter_clarendon_fresh">Frisch</string>
     <string name="filter_f2_classic">Klassisch</string>
-    <string name="filter_film_blackwhite">Schwarz-Weiß</string>
+    <string name="filter_film_blackwhite">Schwarz-weiß</string>
     <string name="filter_film_dew">Tau</string>
     <string name="filter_film_fade">Verblassen</string>
     <string name="filter_film_grey">Grau</string>
@@ -1120,7 +1120,7 @@
     <string name="filter_food_softdrink">Limo</string>
     <string name="filter_food_wholemeal">Getreide</string>
     <string name="filter_general_blackice">Schwarzes Eis</string>
-    <string name="filter_general_blackwhite">Schwarz-Weiß</string>
+    <string name="filter_general_blackwhite">Schwarz-weiß</string>
     <string name="filter_general_delicious">Essen</string>
     <string name="filter_general_df">Klarheit</string>
     <string name="filter_general_fairytale">Erzählung</string>
@@ -1159,8 +1159,8 @@
     <string name="filter_movie_wonderful">Wunder</string>
     <string name="filter_night_scene">Einbruch der Nacht</string>
     <string name="filter_original">Nichts</string>
-    <string name="filter_people_blackwhite">Schwarz-Weiß</string>
-    <string name="filter_people_bw">Schwarz-Weiß</string>
+    <string name="filter_people_blackwhite">Schwarz-weiß</string>
+    <string name="filter_people_bw">Schwarz-weiß</string>
     <string name="filter_people_fairytale">Kinder</string>
     <string name="filter_people_heart">Emotionen</string>
     <string name="filter_people_japanese">Frisch</string>
@@ -3436,11 +3436,11 @@
     <string name="video_editor_fatal_error">Unbekannter Fehler</string>
     <string name="video_editor_filter_and_regulator">Filter</string>
     <string name="video_editor_filter_bailu">Tau</string>
-    <string name="video_editor_filter_black_and_white">Schwarz-Weiß</string>
+    <string name="video_editor_filter_black_and_white">Schwarz-weiß</string>
     <string name="video_editor_filter_blue">Blau</string>
     <string name="video_editor_filter_cloud">Wolke</string>
     <string name="video_editor_filter_gothic">Grün</string>
-    <string name="video_editor_filter_heibai">Schwarz-Weiß</string>
+    <string name="video_editor_filter_heibai">Schwarz-weiß</string>
     <string name="video_editor_filter_jingmi">Ruhe</string>
     <string name="video_editor_filter_moon">Mond</string>
     <string name="video_editor_filter_none">Kein</string>
