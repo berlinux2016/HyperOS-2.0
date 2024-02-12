@@ -41,7 +41,7 @@
     <string name="copy_dialog_content">Screenshots werden automatisch zu Ihrer Zwischenablage hinzugefügt und können eingefügt werden. Sie können diese Funktion in den Einstellungen deaktivieren, indem Sie nach \"Elemente zur Zwischenablage hinzufügen\" suchen.</string>
     <string name="copy_dialog_title">Achtung</string>
     <string name="copy_success_toast">Erfolgreich kopiert</string>
-    <string name="cta_agree_desc">Diese App darf eine Internetverbindung herstellen und ihr werden die oben aufgeführten obligatorischen Berechtigungen erteilt.</string>
+    <string name="cta_agree_desc">Dieser App die Internetverbindung erlauben und die optionalen Berechtigungen erteilen, um alle ihre Funktionen zu verwenden.</string>
     <string name="cta_btn_agree">Zustimmen</string>
     <string name="cta_btn_disagree">Nicht zustimmen</string>
     <string name="cta_main_purpose">Willkommen bei Screenshot Editor! Mit dieser App können Sie Ihre Screenshots zuschneiden und bearbeiten. Diese App muss sich mit dem Internet verbinden und auf Audio- und Videodateien auf Ihrem Gerät zugreifen, um die erforderlichen Dienste bereitzustellen.</string>

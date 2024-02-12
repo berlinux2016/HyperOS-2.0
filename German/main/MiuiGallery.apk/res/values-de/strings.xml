@@ -900,7 +900,7 @@
     <string name="download_with_metered_network_msg">Das Herunterladen von Originaldateien kann zusätzliche Mobilfunkanbieterkosten verursachen. Trotzdem herunterladen?</string>
     <string name="download_with_metered_network_title">Sie sind mit einem kostenpflichtigen Netzwerk verbunden</string>
     <string name="download_without_wifi_msg">Herunterladen von Fotos mittels mobiler Datenverbindung kann Ihren Datenverbrauch erhöhen. Wenn Sie Ihr Inklusiv-Datenvolumen überschreiten, könnte Ihr Mobilfunkanbieter zusätzliche Kosten verlangen.</string>
-    <string name="download_without_wifi_title">Datenverbrauchswarnung</string>
+    <string name="download_without_wifi_title">Datennutzungswarnung</string>
     <string name="downloading_dialog_message">Sie können die Qualität der heruntergeladenen Bilder auswählen oder automatische Downloads in den Einstellungen deaktivieren.</string>
     <string name="downloading_title">Fotos aus Xiaomi Cloud herunterladen</string>
     <string name="downloading_title_file">Elemente aus Xiaomi Cloud herunterladen…</string>
@@ -2192,7 +2192,7 @@
     <string name="photo_editor_mosaic">Mosaik</string>
     <string name="photo_editor_navigator_cancel">Abbrechen</string>
     <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Für das Herunterladen von %s werden ca. %2$d MB mobile Daten benötigt. Jetzt herunterladen?</string>
-    <string name="photo_editor_navigator_download_network_metered_title">Datenverbrauchswarnung</string>
+    <string name="photo_editor_navigator_download_network_metered_title">Datennutzungswarnung</string>
     <string name="photo_editor_navigator_download_title">Laden…</string>
     <string name="photo_editor_navigator_export">Speichern</string>
     <string name="photo_editor_navigator_module_download_failed">%s herunterladen nicht möglich</string>

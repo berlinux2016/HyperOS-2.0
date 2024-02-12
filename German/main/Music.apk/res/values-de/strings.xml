@@ -403,7 +403,7 @@
     <string name="download_traffic_dialog_negative_button">Auf WLAN warten</string>
     <string name="download_traffic_dialog_position_button">Auf einmal herunterladen</string>
     <string name="download_traffic_dialog_position_button_serious">Herunterladen</string>
-    <string name="download_traffic_dialog_title">Datenverbrauchswarnung</string>
+    <string name="download_traffic_dialog_title">Datennutzungswarnung</string>
     <string name="download_traffic_dialog_title_beyond">Datenvolumen überschritten</string>
     <string name="download_traffic_dialog_title_serious">Zu wenig Datenvolumen vorhanden</string>
     <string name="download_unknown_title">&lt;Ohne Titel></string>
@@ -923,7 +923,7 @@
     <string name="music_recommendation">Titelempfehlungen</string>
     <string name="music_service">Musikdienste</string>
     <string name="music_settings">Musik</string>
-    <string name="mv_metered_play_summary">Keine Datenverbrauchswarnung anzeigen</string>
+    <string name="mv_metered_play_summary">Keine Datennutzungswarnung anzeigen</string>
     <string name="mv_metered_play_title">Online-Videos mit mobilen Daten abspielen</string>
     <string name="my_account">Xiaomi-Konto</string>
     <string name="my_music_empty">Wiedergabeliste ist leer</string>

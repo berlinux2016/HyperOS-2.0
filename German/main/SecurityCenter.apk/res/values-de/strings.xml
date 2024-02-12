@@ -1370,7 +1370,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra HD-Modus</string>
     <string name="cta_HIPS_Perm_Location_Desc">Für die Verwendung Ihrer Standortdaten in der Warnzentrale, Notfall-SOS, beim App-Stromsparen und im Zahlungssicherheitsscanner sowie für die Aktivierung des ungefähren Standorts</string>
-    <string name="cta_agree_desc">Um unsere Dienste zu nutzen, erlauben Sie dieser App die Internetverbindung und gewähren Sie die oben aufgeführten Berechtigungen.</string>
+    <string name="cta_agree_desc">Dieser App die Internetverbindung erlauben und die optionalen Berechtigungen erteilen, um alle ihre Funktionen zu verwenden.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
     <string name="cta_close_dialog_content">Wenn Sie Sicherheit den Internet- und Standortzugriff beschränken, können Sie keine Erdbebenwarnungen erhalten oder Virendefinitionen und Sperrlisteninformationen aktualisieren. Ihr Gerät wird unsicherer. Trotzdem einschränken?</string>
     <string name="cta_close_dialog_ok">Einschränken</string>
