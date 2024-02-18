@@ -1320,7 +1320,6 @@
     <string name="media_transfer_wired_usb_device_name">Kabelgebundener Kopfhörer</string>
     <string name="memory_clear_result_giga">%1$s GB gelöscht</string>
     <string name="memory_clear_result_mega">%1$s MB gelöscht</string>
-    <string name="memory_leak">Speicherleck</string>
     <string name="menu_ime">Tastaturumschalter</string>
     <string name="mic_active">Microfon aktiviert</string>
     <string name="mic_and_camera_recording_announcement">Kamera- und Mikrofonaufnahme…</string>

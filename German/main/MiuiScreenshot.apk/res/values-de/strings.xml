@@ -125,7 +125,6 @@
     <string name="long_screenshot_top_msg_description_accessibility">Screenshot erstellen</string>
     <string name="long_screenshot_top_msg_manual">Screenshot zurechtschneiden und zum Abschließen Taste drücken</string>
     <string name="main_save_error_msg">Änderungen wurden wegen eines Fehlers nicht gespeichert</string>
-    <string name="memory_leak">Speicherleck</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
