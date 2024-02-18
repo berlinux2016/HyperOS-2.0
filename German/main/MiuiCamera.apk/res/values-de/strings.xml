@@ -2376,7 +2376,7 @@
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="too_low_battery">Akku schwach</string>
-    <string name="top_menu_hint_text">Herunterwischen zum Öffnen des Menüs</string>
+    <string name="top_menu_hint_text">Runterwischen zum Öffnen des Menüs</string>
     <string name="track_focus_mutex_hdr10plus_8k_setting_tips">Motion-Tracking-Fokus wird für Videos mit HDR10+/8K/60FPS nicht unterstützt</string>
     <string name="track_focus_mutex_hdr10plus_setting_tips">Motion-Tracking-Fokus wird für Videos mit HDR10+/60FPS nicht unterstützt</string>
     <string name="track_focus_mutex_truecolor_setting_tips">Motion-Tracking-Fokus wird für Vidoes mit Dolby Vision/8K/60FPS nicht unterstützt</string>

@@ -2505,7 +2505,7 @@
     <string name="web_ad_clear_dialog_msg">Werbe-Tags von \"%s\" jetzt löschen?</string>
     <string name="web_ad_clear_dialog_title">Werbe-Tags löschen</string>
     <string name="web_app_center">Miniprogramme</string>
-    <string name="web_app_center_history">Zuletzt verwendet</string>
+    <string name="web_app_center_history">Letzte Apps</string>
     <string name="web_app_center_try">Versuchen</string>
     <string name="web_enhance_dialog_cancel">Abbrechen</string>
     <string name="web_enhance_dialog_msg">Jetzt mit dem Blockieren von Werbung auf %s beginnen?</string>

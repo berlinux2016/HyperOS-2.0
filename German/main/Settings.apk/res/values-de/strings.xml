@@ -852,7 +852,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="app_settings_link">Weitere Einstellungen in der App</string>
     <string name="app_special_disable_dlg_text">Wenn Sie diese App deaktivieren, kann dies das Verhalten von Android und anderen Apps beeinträchtigen. Außerdem werden Ihre Daten gelöscht.</string>
     <string name="app_special_disable_dlg_title">Daten löschen und App deaktivieren?</string>
-    <string name="app_switch_key">Zuletzt verwendet</string>
+    <string name="app_switch_key">Letzte Apps</string>
     <string name="app_uninstall_sounds_enable_title">Ton beim Apps deinstallieren abspielen</string>
     <string name="app_usage_cycle">Datennutzungszyklus der App</string>
     <string name="app_wifi">WLAN</string>
@@ -4165,7 +4165,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="freeform_guide_vedio_description">Auf eine App in der Seitenleiste tippen, um sie in einem Popup zu öffnen</string>
     <string name="freeform_recommend_open_switch_summary">Vorschläge zum Öffnen von Apps im geteilten Bildschirm oder in Popups basierend auf Nutzungsszenarien erhalten</string>
     <string name="freeform_recommend_open_switch_title">Intelligente Vorschläge</string>
-    <string name="freeform_vedio_description">·Taste gedrückt halten und eine Benachrichtigung herunterziehen, um sie in einem Popup zu öffnen.\nAuf \"Popups\" in zuletzt verwendet tippen, um Apps auszuwählen.</string>
+    <string name="freeform_vedio_description">·Taste gedrückt halten und eine Benachrichtigung herunterziehen, um sie in einem Popup zu öffnen.\nAuf \"Popups\" in Letzte Apps tippen, um Apps auszuwählen.</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">· Auf eine App in der Seitenleiste tippen, um sie in einem Popup zu öffnen.\n· Eine App in die Bildschirmmitte ziehen, um sie in einem Popup zu öffnen, oder an die Seite, um den geteilten Bildschirm zu verwenden.</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">Eine App aus der Seitenleiste in die Mitte des Bildschirms ziehen, um sie in einem Popup zu öffnen, oder an die Seite, um den geteilten Bildschirm zu verwenden.</string>
     <string name="freeform_vedio_description_pad">Elemente aus dem Dock ziehen, um Popups zu öffnen</string>
@@ -4418,7 +4418,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="haptic_index_bar_10_content_description">Bildlaufleiste</string>
     <string name="haptic_lock_screen_11_content_description">Gerät sperren</string>
     <string name="haptic_multitasking_card_long_press_03_content_description">Langes Drücken einer App-Vorschau</string>
-    <string name="haptic_multitasking_gestures_04_content_description">Zuletzt verwendet öffnen</string>
+    <string name="haptic_multitasking_gestures_04_content_description">Letzte Apps öffnen</string>
     <string name="haptic_return_gesture_05_content_description">Zurückgehen</string>
     <string name="haptic_shutdown_menu_06_content_description">Power-Menü</string>
     <string name="haptic_single_selection_02_content_description">Ausgewähltes Element</string>
@@ -5264,7 +5264,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lock_profile_wipe_warning_content_pattern">Wenn Sie bei diesem Versuch ein falsches Muster eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
     <string name="lock_profile_wipe_warning_content_pin">Wenn Sie bei diesem Versuch eine falsche PIN eingeben, werden Ihr Profil und zugehörige Daten auf diesem Gerät gelöscht</string>
     <string name="lock_profile_wipe_warning_title">Letzter Versuch</string>
-    <string name="lock_screen_action">Auf Sperrbildschirm angezeigte Elemente nach Herunterwischen</string>
+    <string name="lock_screen_action">Auf Sperrbildschirm angezeigte Elemente nach Runterwischen</string>
     <string name="lock_screen_after_fold_screen_summary">Das Gerät wird nach dem Zusammenklappen gesperrt, außer wenn Sie die Frontkamera oder den Lautsprecher verwenden.</string>
     <string name="lock_screen_after_fold_screen_title">Zusammenklappen zum Sperren</string>
     <string name="lock_screen_auto_pin_confirm_summary">Automatisch entsperren, wenn Sie eine korrekte PIN mit 6 oder mehr Ziffern eingeben. Dies ist etwas unsicherer als die Bestätigung durch Drücken der Eingabetaste.</string>
@@ -8298,7 +8298,7 @@ UT Interface: %5$s"</string>
     <string name="search_ambient_display_screen_title">Ambient Display;Always-on Display;Always on Display</string>
     <string name="search_apn_settings">APN;Zugangspunktnamen</string>
     <string name="search_app_invisible">App unsichbar;unsichtbare Apps</string>
-    <string name="search_app_switch_key">kürzliche;kürzlich;zuletzt;zuletzt verwendet;Menü;Menütaste;Taskmanager</string>
+    <string name="search_app_switch_key">kürzliche;kürzlich;zuletzt;zuletzt verwendet;letzte Apps;Menü;Menütaste;Taskmanager</string>
     <string name="search_application_count">Apps suchen</string>
     <string name="search_application_lock_name">App-Sperre</string>
     <string name="search_applications_settings">Installierte Apps</string>
