@@ -692,6 +692,6 @@ Um den Sprache-zu-Text-Dienst besser zu verwenden, müssen Sie auch Folgendes wi
     <string name="wifi_recommended_title">Datennutzungswarnung</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
     <string name="yesterday">Gestern</string>
 </resources>

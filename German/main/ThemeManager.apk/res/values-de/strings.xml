@@ -1800,7 +1800,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="xiaoai_speech_not_installed_title">Mi AI Sprachassistent ist nicht installiert</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
     <string name="xiaomi_update_sdk_dialog_message">Vorgestellte Version %1$s\nGröße: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">Vorgestellte Version %1$s\nDelta-Update-Größe: %2$s</string>

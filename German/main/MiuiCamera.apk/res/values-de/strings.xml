@@ -179,7 +179,7 @@
     <string name="accessibility_preview_selected">Ausgewählt</string>
     <string name="accessibility_preview_shrink">Verkleinern</string>
     <string name="accessibility_preview_zoom_tip">%1$.1fX Zoom-Vorschau</string>
-    <string name="accessibility_privacy_watermark">Wasserzeichenschutz</string>
+    <string name="accessibility_privacy_watermark">Schutzwasserzeichen</string>
     <string name="accessibility_pro_parameters_panel_on">Menü mit PRO-Parametern öffnen</string>
     <string name="accessibility_pro_video_simple_mode">Lite-Modus</string>
     <string name="accessibility_protrait">Hochformat</string>
@@ -607,7 +607,7 @@
     <string name="config_name_photo_histogram">Histogramm</string>
     <string name="config_name_photography_style">Stil</string>
     <string name="config_name_portrait_repair">HD-Porträt</string>
-    <string name="config_name_privacy_watermark">Wasserzeichenschutz</string>
+    <string name="config_name_privacy_watermark">Schutzwasserzeichen</string>
     <string name="config_name_quality">Auflösung</string>
     <string name="config_name_ratio">Bildverhältnis</string>
     <string name="config_name_scene">Szene</string>
@@ -719,7 +719,7 @@
     <string name="dialog_privacy_watermark_button_cancel">Abbrechen</string>
     <string name="dialog_privacy_watermark_button_input">Eingabe</string>
     <string name="dialog_privacy_watermark_msg">Text eingeben</string>
-    <string name="dialog_privacy_watermark_title">Wasserzeichenschutz</string>
+    <string name="dialog_privacy_watermark_title">Schutzwasserzeichen</string>
     <string name="dialog_truecolor_setting_open">Einschalten</string>
     <string name="dir_audio_type_all">Omnidirektional</string>
     <string name="dir_audio_type_audio_track">Source Tracking</string>
@@ -1975,7 +1975,7 @@
     <string name="pref_privacy_watermark_edit_clear_history">Verlauf löschen</string>
     <string name="pref_privacy_watermark_edit_history">Verlauf</string>
     <string name="pref_privacy_watermark_edit_title">Wasserzeichen bearbeiten</string>
-    <string name="pref_privacy_watermark_entry">Wasserzeichenschutz</string>
+    <string name="pref_privacy_watermark_entry">Schutzwasserzeichen</string>
     <string name="pref_privacy_watermark_switch">Wasserzeichen-Schalter anzeigen</string>
     <string name="pref_retain_ai_scene">KI-Kamera</string>
     <string name="pref_retain_ai_scene_description">KI-Kamerastatus aus der vorherigen Sitzung beibehalten</string>
@@ -2354,7 +2354,7 @@
     <string name="tip_non_auto_macro_off">Makro: Aus</string>
     <string name="tip_non_auto_macro_on">Makro: An</string>
     <string name="tip_portrait_repair_off">HD-Porträt: Aus</string>
-    <string name="tip_privacy_watermark_off">Wasserzeichenschutz: Aus</string>
+    <string name="tip_privacy_watermark_off">Schutzwasserzeichen: Aus</string>
     <string name="tip_raw_off">RAW: Aus</string>
     <string name="tip_raw_off_mm">Bildformat: JPG</string>
     <string name="tip_timer_burst_off">Zeitgesteuerte Aufnahme: Aus</string>

@@ -408,7 +408,7 @@
     <string name="wednesday_shortest">M</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
     <string name="xl_privilege_play">Wiedergabe synchronisieren</string>
     <string name="xl_privilege_speedup">Downloadbeschleuniger</string>
     <string name="xl_privilege_storage">Großer Speicherplatz</string>

@@ -1718,7 +1718,7 @@
     <string name="well">Gut</string>
     <string name="write_strorage_perm_description">Zum Speichern der Daten über die aufgetretenen Probleme</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Update verfügbar</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
     <string name="year">Jahr</string>
     <string name="yesterday">Gestern</string>
 </resources>
