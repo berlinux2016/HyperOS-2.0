@@ -1626,7 +1626,7 @@
     <string name="mosaic_item_talkback_eraser">Radierer</string>
     <string name="motion_photo_enter">Dynamische Aufnahme</string>
     <string name="motion_photo_play">Abspielen</string>
-    <string name="move_to_other_albums_tip">>Dieses Album zu \"Andere Alben\" verschieben?</string>
+    <string name="move_to_other_albums_tip">Dieses Album zu \"Andere Alben\" verschieben?</string>
     <string name="move_to_rubbish_albums_tip">Gewählte Elemente in überflüssige Alben verschieben?</string>
     <string name="movie_add_disable">Sie können bis zu %d Fotos wählen</string>
     <string name="movie_audio_custom">Lokal</string>

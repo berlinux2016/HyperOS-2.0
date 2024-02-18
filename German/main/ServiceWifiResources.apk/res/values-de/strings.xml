@@ -71,7 +71,7 @@
     <string name="wifi_interface_priority_interface_name_ap">WLAN-Hotspot</string>
     <string name="wifi_interface_priority_interface_name_ap_bridge">WLAN-Hotspot</string>
     <string name="wifi_interface_priority_message">Dies kann bei %3$s zu Problemen führen.</string>
-    <string name="wifi_interface_priority_message_plural">>Dies kann bei diesen Apps zu Problemen führen: %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">Dies kann bei diesen Apps zu Problemen führen: %3$s.</string>
     <string name="wifi_interface_priority_reject">Nicht erlauben</string>
     <string name="wifi_interface_priority_title">%1$s möchte eine Netzwerkressource verwenden</string>
     <string name="wifi_network_disabled_by_admin_button">Schließen</string>

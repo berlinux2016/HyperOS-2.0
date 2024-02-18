@@ -1597,7 +1597,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="toast_both_all_apply_success">Erfolgreich auf Start- und Sperrbildschirm angewendet</string>
     <string name="toast_home_apply_failured">Wurde nicht auf den Startbildschirm angewendet</string>
     <string name="toast_home_apply_success">Erfolgreich auf Startbildschirm angewendet</string>
-    <string name="toast_lockscreen_apply_failured">>Wurde nicht auf den Sperrbildschirm angewendet</string>
+    <string name="toast_lockscreen_apply_failured">Wurde nicht auf den Sperrbildschirm angewendet</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">Erfolgreich auf Startbildschirm angewendet. Wurde nicht auf den Sperrbildschirm angewendet.</string>
     <string name="toast_lockscreen_apply_success">Erfolgreich auf Sperrbildschirm angewendet</string>
     <string name="toast_lockscreen_apply_success_but_home_apply_failured">Erfolgreich auf Sperrbildschirm angewendet. Wurde nicht auf den Startbildschirm angewendet.</string>
