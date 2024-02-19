@@ -503,7 +503,7 @@
     <string name="passport_set_password_no_phone_msg">Rufnummer hinzufügen, um Ihr Konto zu schützen</string>
     <string name="passport_skip_query_account">Überspringen</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
-    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Art der Anmeldung probieren.</string>
+    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
     <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>

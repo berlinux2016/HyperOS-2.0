@@ -720,7 +720,7 @@
     <string name="passport_login_register_by_local_phone_long_text">Konto erstellen</string>
     <string name="passport_login_title">Mit Xiaomi-Konto anmelden</string>
     <string name="passport_login_using_other_ways">Andere Anmeldemöglichkeiten</string>
-    <string name="passport_login_with_sns">Andere Anmeldeverfahren</string>
+    <string name="passport_login_with_sns">Andere Arten der Anmeldung</string>
     <string name="passport_logout_account">Abmelden</string>
     <string name="passport_message_dialog_title">SMS mit Verifizierungscodes</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
@@ -831,7 +831,7 @@
     <string name="passport_sms_send_success">Gesendet</string>
     <string name="passport_sms_verification_code_login">Mit SMS anmelden</string>
     <string name="passport_sms_verification_code_login_or_register">Anmelden oder Konto erstellen per SMS</string>
-    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Anmeldeverfahren versuchen.</string>
+    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_sync_account_data">Kontodaten synchronisieren…</string>
     <string name="passport_sync_account_data_failed_warning">Ihre Kontodaten werden jetzt synchronisiert, Sie können sich mit Ihrer Xiaomi-Konto-ID anmelden. Wenn Sie sich mit Rufnummer oder E-Mail anmelden möchten, warten Sie, bis die Daten vollständig synchronisiert sind.</string>
     <string name="passport_system_error">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>

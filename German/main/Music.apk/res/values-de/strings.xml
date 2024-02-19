@@ -1101,7 +1101,7 @@
     <string name="passport_doing_query_account">Kontodaten prüfen…</string>
     <string name="passport_error_auth_fail">Sitzung abgelaufen. Erneut anmelden.</string>
     <string name="passport_error_device_id">Geräte-ID wurde nicht abgerufen</string>
-    <string name="passport_error_dup_binded_email">Diese E-Mail-Adresse ist bereits mit einem anderen Xiaomi-Konto verknüpft.</string>
+    <string name="passport_error_dup_binded_email">Diese E-Mail-Adresse ist bereits mit einem anderen Xiaomi-Konto verbunden.</string>
     <string name="passport_error_empty_password">Passwort eingeben</string>
     <string name="passport_error_empty_phone_num">Rufnummer eingeben</string>
     <string name="passport_error_empty_pwd">Passwort darf nicht leer sein</string>
@@ -1154,7 +1154,7 @@
     <string name="passport_login_failed">Anmelden nicht möglich</string>
     <string name="passport_login_other">Anderes Xiaomi-Konto</string>
     <string name="passport_login_register_by_local_phone_long_text">Konto erstellen</string>
-    <string name="passport_login_with_sns">Andere Anmeldeverfahren</string>
+    <string name="passport_login_with_sns">Andere Arten der Anmeldung</string>
     <string name="passport_logout_account">Abmelden</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
@@ -1207,7 +1207,7 @@
     <string name="passport_skip_query_account">Überspringen</string>
     <string name="passport_sms_phone_intro">Code an %1$s gesendet</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
-    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Anmeldeverfahren versuchen.</string>
+    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
     <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>

@@ -803,7 +803,7 @@
     <string name="passport_sms_send_success">Gesendet</string>
     <string name="passport_sms_verification_code_login">Mit SMS anmelden</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
-    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Art der Anmeldung probieren.</string>
+    <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_sync_account_data">Kontodaten synchronisieren…</string>
     <string name="passport_sync_account_data_failed_warning">Ihre Kontodaten werden jetzt synchronisiert, Sie können sich mit Ihrer Xiaomi-Konto-ID anmelden. Wenn Sie sich mit Ihrem Telefon oder per E-Mail anmelden möchten, warten Sie, bis die Informationen vollständig synchronisiert sind.</string>
     <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
