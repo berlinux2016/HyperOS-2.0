@@ -2341,7 +2341,7 @@
     <string name="screen_save_dialog_btn_save">In Galerie speichern</string>
     <string name="screen_talkback_a_little_large">Groß</string>
     <string name="screen_talkback_a_little_small">Klein</string>
-    <string name="screen_talkback_alpha_x">Transparenz %s</string>
+    <string name="screen_talkback_alpha_x">Opazität %s</string>
     <string name="screen_talkback_color_x">Farbe %d</string>
     <string name="screen_talkback_eraser">Radierer</string>
     <string name="screen_talkback_large">Extra groß</string>
@@ -2816,7 +2816,7 @@
     <string name="text_append_font">Schriftart</string>
     <string name="text_append_hint">Text eingeben</string>
     <string name="text_append_style">Blase</string>
-    <string name="text_append_transparent">Transparenz</string>
+    <string name="text_append_transparent">Opazität</string>
     <string name="text_edit_dialog_font_default">Standard</string>
     <string name="text_edit_dialog_keyboard">Tastatur</string>
     <string name="text_edit_dialog_style">Stil</string>
@@ -2828,7 +2828,7 @@
     <string name="text_edit_dialog_style_shadow">Schatten</string>
     <string name="text_edit_dialog_style_stroke">Kontur</string>
     <string name="text_edit_dialog_style_toast">Konturtext kann nicht auf Hintergründen platziert werden</string>
-    <string name="text_edit_dialog_style_transparent">Transparenz</string>
+    <string name="text_edit_dialog_style_transparent">Opazität</string>
     <string name="text_edit_sub_menu_text">Blase</string>
     <string name="text_item_type_talkback_bubble_arrow1">Pfeil %d</string>
     <string name="text_item_type_talkback_bubble_arrow2">Pfeil %d</string>
