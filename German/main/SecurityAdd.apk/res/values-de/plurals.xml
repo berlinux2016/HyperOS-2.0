@@ -84,4 +84,12 @@
         <item quantity="other">%s Min verbleibende Bildschirmzeit</item>
         <item quantity="one">%s Min verbleibende Bildschirmzeit</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s Std</item>
+        <item quantity="one">%s Std</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s Min</item>
+        <item quantity="one">%s Min</item>
+    </plurals>
 </resources>

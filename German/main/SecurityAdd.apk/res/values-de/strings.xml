@@ -120,8 +120,13 @@
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
     <string name="game_booster">Game Speed Booster</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Ablehnen</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Zustimmen</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Stimmen Sie unserer Datenschutzerklärung zu</string>
     <string name="gamebooster_dialog_recover">Verlängern</string>
     <string name="gamebooster_dialog_start_booster">Starten</string>
+    <string name="gamebooster_dialog_start_booster_new">Erhöhen</string>
     <string name="gamebooster_network_dialog_message">Sicherheit eine Netzwerkverbindung erlauben, um alle Funktionen von Game Turbo zu nutzen?</string>
     <string name="gamebooster_network_dialog_message_pad">Sicherheit erlauben, sich mit dem Netzwerk zu verbinden, um alle Funktionen von Game Turbo zu verwenden?</string>
     <string name="gamebooster_network_dialog_title">Einige Funktionen sind nicht verfügbar</string>
@@ -217,6 +222,7 @@
     <string name="gdpr_msg">&lt;Data&gt;"Um die grundlegenden Funktionen von Sicherheit zu verwenden, müssen Sie zustimmen, dass Xiaomi Ihre personenbezogenen Daten erhebt, verarbeitet und nutzt, inkl. Informationen darüber, wie Sie die Funktionen von Sicherheit nutzen (z. B. mobile Datennutzungsstatistik, Infos über Malware sowie grundlegende Infos über Ihr Gerät) und andere Arten von Informationen, die in unserer &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Datenschutzerklärung &amp;lt;/a&amp;gt; aufgeführt sind."&lt;/Data&gt;</string>
     <string name="gtb_dialog_privacy_speed_message">Sie sind dabei, Xunyou Game Booster zu verwenden. Dieser Dienst erfasst Ihre Xiaomi-Konto-ID, um die Dauer Ihrer Registrierung aufzuzeichnen.</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert ."</Data></string>
     <string name="gtb_dialog_privacy_voice_message">Sie sind dabei, den Xunyou Game Voice Changer zu benutzen. Dieser Dienst erfasst Ihre Xiaomi-Konto-ID, um die Dauer Ihrer Registrierung aufzuzeichnen.</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>Ich habe die Xunyou Game Voice Changer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="hybrid_provider">Bereitgestellt durch %1$s</string>
@@ -322,6 +328,8 @@
     <string name="net_booster_expire_notification">Netzwerkoptimierung endet bald</string>
     <string name="net_booster_overdue_notification">Netzwerkoptimierung endet bald</string>
     <string name="net_booster_overdue_notification_tip">Netzwerkoptimierung wurde beendet. Vielleicht treten jetzt Netzwerkverzögerungen auf. Sitzung jetzt verlängern?</string>
+    <string name="net_free_booster_new_user_tip">Holen Sie sich einen kostenlosen Game Booster und gewinnen Sie ein Xiaomi-Handy!</string>
+    <string name="net_free_booster_new_user_title">Geschenk für neue Nutzer</string>
     <string name="network_error">Ein Netzwerkfehler ist aufgetreten.</string>
     <string name="network_not_available">Netzwerkverbindung fehlgeschlagen</string>
     <string name="night">Abend</string>
@@ -395,6 +403,7 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="super_power_satellite_endurance_time">Kann einen Satellitenanruf für ≈%1$s %2$s machen</string>
     <string name="superpower_app_add">Hinzufügen</string>
     <string name="superpower_app_contact">Kontakte</string>
     <string name="superpower_app_delete">Löschen</string>

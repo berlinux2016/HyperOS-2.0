@@ -188,6 +188,8 @@
     <string name="miplay_accessibility_volume">Lautstärke</string>
     <string name="miplay_bluetooth_share_des_text">Xiaomi-Ohrhörer-Benutzer: Ladehülle öffnen oder Taste der Hülle für %ds gedrückt halten. \nBenutzer von Nicht-Xiaomi-Ohrhörern: Ohrhörer in den Bluetooth-Einstellungen zurücksetzen, dann verbinden.</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Ohrhörer hinzufügen, um Audio zu teilen</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Audiofreigabe beendet</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Ohrhörer hinzufügen, um Audio zu teilen</string>
     <string name="miplay_bluetooth_share_subTitle_text">Geräte-Audio mit einer anderen Person teilen</string>
     <string name="miplay_bluetooth_share_title_text">Audio teilen</string>
     <string name="miplay_detail_divider_title">TVs &amp; Lautsprecher</string>
