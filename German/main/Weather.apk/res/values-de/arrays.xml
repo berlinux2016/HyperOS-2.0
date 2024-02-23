@@ -17,10 +17,10 @@
     </string-array>
     <string-array name="aqi_detail_title">
         <item>Gut</item>
-        <item>Mäßig</item>
-        <item>Ungesund für empfindliche Gruppen</item>
+        <item>Angemessen</item>
+        <item>Moderat</item>
         <item>Ungesund</item>
-        <item>Sehr ungesund</item>
+        <item>Schwerwiegend</item>
         <item>Gefährlich</item>
     </string-array>
     <string-array name="dislike_alert_dialog_selectitems">
@@ -111,19 +111,19 @@
         <item>Platzregen</item>
         <item>Regensturm</item>
         <item>Gewitter</item>
-        <item>Regen</item>
+        <item>Schauer</item>
         <item>Schwere Regenfälle</item>
         <item>Mäßiger Regen</item>
         <item>Nieselregen</item>
         <item>Schneeregen</item>
         <item>Schneesturm</item>
-        <item>Schneefall</item>
+        <item>Schneeschauer</item>
         <item>Starker Schneefall</item>
         <item>Mäßiger Schneefall</item>
         <item>Leichter Schneefall</item>
         <item>Starker Sandsturm</item>
         <item>Sandsturm</item>
-        <item>Sand</item>
+        <item>Leichter Sandsturm</item>
         <item>Staubsturm</item>
         <item>Hagel</item>
         <item>Feinstaub</item>

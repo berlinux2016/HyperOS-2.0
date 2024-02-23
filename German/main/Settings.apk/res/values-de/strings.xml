@@ -8168,30 +8168,26 @@ UT Interface: %5$s"</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Liste der Apps aktualisieren, die den Lesemodus verwenden</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Automatisch aktualisieren</string>
     <string name="screen_paper_texture">Struktur</string>
-    <string name="screen_pinning_description">"Wenn eingeschaltet, können Sie Screenpinning verwenden, um den aktuellen Bildschirm im Blick zu behalten, bis Sie ihn lösen. Um Screenpinning zu nutzen:
-1. Stellen Sie sicher, dass Screenpinning an ist
-2. Bildschirm öffnen, der angeheftet werden soll
-3. Übersicht öffnen
-4. Hochwischen und dann das Pinsymbol antippen"</string>
-    <string name="screen_pinning_dialog_message">"Wenn die App angeheftet ist:
-\n•\u0009\u0009Personenbezogene Daten können zugänglich sein
-\u0009\u0009(wie z. B. Kontakte und E-Mail-Inhalte)
-•\u0009\u0009Angeheftete App kann andere Apps öffnen
-\nVerwenden Sie App-Pinning nur bei Personen, denen Sie vertrauen."</string>
-    <string name="screen_pinning_guest_user_description">"App-Pinning erlaubt Ihnen, die aktuelle App in der Ansicht zu halten, bis Sie die Anheftung aufheben. Diese Funktion kann z. B. verwendet werden, um einen vertrauenswürdigen Freund ein bestimmtes Spiel spielen zu lassen.
-\nWenn eine App angeheftet ist, kann sie andere Apps öffnen und persönliche Daten können zugänglich sein.
-\nWenn Sie Ihr Gerät sicher mit jemandem teilen möchten, versuchen Sie stattdessen, einen Gastbenutzer zu verwenden
-\nApp-Pinning verwenden: \u0009
-1.\u0009App-Pinning einschalten \u0009
-2.\u0009Übersicht öffnen \u0009
-3.\u0009Auf das App-Symbol am oberen Bildschirmrand tippen, dann auf Anpinnen"</string>
+    <string name="screen_pinning_description">Angepinnte Apps können andere Apps öffnen und auf Ihre persönlichen Daten zugreifen</string>
+    <string name="screen_pinning_dialog_message">"Das können angepinnte Apps tun:
+\n• Auf Ihre persönlichen Daten zugreifen
+(z. B. Kontakte und E-Mails)
+• Andere Apps öffnen
+\nVerwenden Sie diese Funktion mit Vorsicht, wenn Sie dieses Gerät mit anderen teilen."</string>
+    <string name="screen_pinning_guest_user_description">"Wenn eine App angepinnt wird, kann sie andere Apps öffnen und persönliche Daten können zugänglich sein.
+\nWenn Sie Ihr Gerät sicher mit jemandem teilen möchten, versuchen Sie, einen Gastbenutzer zu verwenden
+\nApp anpinnen verwenden: \u0009
+1. App anpinnen einschalten \u0009
+2. Übersicht öffnen \u0009
+3. Auf das App-Symbol am oberen Bildschirmrand tippen, dann auf Anpinnen"</string>
+    <string name="screen_pinning_summary">Angepinnte Apps bleiben in Letzte Apps, bis Sie sie wieder lösen</string>
     <string name="screen_pinning_switch_off_text">Aus</string>
     <string name="screen_pinning_switch_on_text">An</string>
-    <string name="screen_pinning_title">Bildschirm ist angepinnt</string>
-    <string name="screen_pinning_unlock_none">Gerät beim Unpinning sperren</string>
-    <string name="screen_pinning_unlock_password">Beim Unpinning nach dem Passwort fragen</string>
-    <string name="screen_pinning_unlock_pattern">Beim Unpinning nach dem Entsperrmuster fragen</string>
-    <string name="screen_pinning_unlock_pin">Beim Unpinning nach der PIN fragen</string>
+    <string name="screen_pinning_title">Apps anpinnen erlauben</string>
+    <string name="screen_pinning_unlock_none">Bildschirmsperre verifizieren zum Lösen</string>
+    <string name="screen_pinning_unlock_password">Vor dem Lösen nach dem Passwort fragen</string>
+    <string name="screen_pinning_unlock_pattern">Vor dem Lösen nach dem Entsperrmuster fragen</string>
+    <string name="screen_pinning_unlock_pin">Vor dem Lösen nach der PIN fragen</string>
     <string name="screen_projection">Übertragen</string>
     <string name="screen_projection_characteristics">Besondere Merkmale</string>
     <string name="screen_projection_characteristics_off_screen_summary">Sie können das Übertragen fortsetzen, wenn der Bildschirm Ihres Geräts ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch.</string>

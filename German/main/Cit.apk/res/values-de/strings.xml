@@ -373,6 +373,9 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
     <string name="cit_start_calibration">Kalibrieren</string>
     <string name="cit_sub_display_check_title">Sub-Display</string>
     <string name="cit_sub_touch_panel_test_title">Sub-Berührungssensor</string>
+    <string name="cit_tele_5x_cali_reset">Zurücksetzen</string>
+    <string name="cit_tele_5x_cali_reset_success_toast">Erfolgreich zurückgesetzt</string>
+    <string name="cit_tele_5x_cali_success_toast">Kalibrierung erfolgreich</string>
     <string name="cit_tele_camera_check_title">Tele-Kamera</string>
     <string name="cit_test_results">Verlauf Testergebnis</string>
     <string name="cit_tfcard_available_szie">Verfügbare Größe</string>

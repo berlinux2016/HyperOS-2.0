@@ -1479,6 +1479,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="sending">Senden…</string>
     <string name="service_error">Serverfehler</string>
     <string name="set_success">Erfolgreich geändert</string>
+    <string name="setting_privacy_title">Allgemeine Geschäftsbedingungen</string>
     <string name="settings_inline_auto_play">Immer Autoplay</string>
     <string name="settings_inline_auto_play_close">Autoplay aus</string>
     <string name="settings_inline_auto_play_tip_close_forever">Immer aus</string>

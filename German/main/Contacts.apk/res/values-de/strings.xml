@@ -542,9 +542,9 @@
     <string name="exporting_vcard_canceled_title">Export von %s abgebrochen</string>
     <string name="exporting_vcard_finished_title">Export von %s abgeschlossen</string>
     <string name="external_profile_title">Mein %1$s-Profil</string>
-    <string name="fail_reason_could_not_initialize_exporter">Exportierer wurde nicht gestartet: \"%s\"</string>
-    <string name="fail_reason_could_not_open_file">\"%1$s\" wurde nicht geöffnet: %2$s</string>
-    <string name="fail_reason_error_occurred_during_export">Fehler beim Exportieren: \"%s\"</string>
+    <string name="fail_reason_could_not_initialize_exporter">Export nicht gestartet: \"%s\"</string>
+    <string name="fail_reason_could_not_open_file">\"%1$s\" nicht geöffnet: %2$s</string>
+    <string name="fail_reason_error_occurred_during_export">Fehler beim Exportieren: %s</string>
     <string name="fail_reason_io_error">I/O-Fehler</string>
     <string name="fail_reason_low_memory_during_import">Zu wenig Speicherplatz. Datei ist ggf. zu groß.</string>
     <string name="fail_reason_no_exportable_contact">Kein exportierbarer Kontakt vorhanden</string>
@@ -602,8 +602,9 @@
     <string name="groups_list_empty">Keine Gruppen</string>
     <string name="hide_app_description_content">Kontakte ist eine System-App. Sie können sie weiterhin über die Telefon-App verwenden, wenn Sie die Verknüpfung vom Startbildschirm entfernen.</string>
     <string name="hide_app_description_title">\"Kontakte\" vom Startbildschirm entfernen?</string>
+    <string name="hint_distance">Halten Sie die beiden Geräte während des Imports nahe beieinander, um sicherzustellen, dass sie verbunden bleiben.</string>
     <string name="hint_findContacts">Kontakte suchen</string>
-    <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
+    <string name="hint_more_contact">Wenn der Import doppelte Kontakte erzeugt, verwenden Sie die Funktion \"Doppelte Kontakte zusammenführen\".</string>
     <string name="hybrid_check_network">Netzwerkeinstellungen</string>
     <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
     <string name="hybrid_locating_fail">Ihr Standort kann nicht ermittelt werden</string>
@@ -635,7 +636,7 @@
     <string name="import_to_xiaomi_account_progress_message">Importieren…</string>
     <string name="import_to_xiaomi_account_title">Kontakte in Xiaomi-Konto importieren</string>
     <string name="import_vcard_dialog_message">vCard importieren?</string>
-    <string name="importing_sim_contacts_miui">SIM-Kontakte importieren…</string>
+    <string name="importing_sim_contacts_miui">SIM-Kontakte importieren</string>
     <string name="importing_sim_contacts_miui_prepare">Kontakte vorbereiten…</string>
     <string name="importing_vcard_canceled_title">Import von %s abgebrochen</string>
     <string name="importing_vcard_description">%s importieren</string>
@@ -672,6 +673,7 @@
     <string name="local_profile_title">Mein Profil</string>
     <string name="local_search_label">Alle Kontakte</string>
     <string name="locale_change_in_progress">Kontaktliste wird an die geänderte Sprache angepasst</string>
+    <string name="low_memory_toast">Diese Funktion kann wegen des geringen Speichers nicht verwendet werden.</string>
     <string name="lunarBirthdayLabelsGroup">Mondgeburtstag</string>
     <string name="make_primary">Diese Auswahl merken</string>
     <string name="manage_external_storage_dialog_message">Dieser App den Zugriff auf alle Dateien erlauben, um Gesprächsaufzeichnungen zu verwalten.</string>
@@ -827,6 +829,8 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="notification_missedCall_call_back">Rückruf</string>
     <string name="notification_missedCall_message">SMS senden</string>
     <string name="notification_missedCallsTitle">Verpasste Anrufe</string>
+    <string name="notification_title_export">Kontakte exportieren</string>
+    <string name="notification_title_import">Kontakte importieren</string>
     <string name="open_contact">Kontakt anzeigen</string>
     <string name="open_dial_pad_description">Wähltastatur öffnen</string>
     <string name="option_delete_contact">Löschen</string>
@@ -918,7 +922,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="preference_privacy_policy_title">Datenschutzerklärung</string>
     <string name="preference_privacy_settings">Datenschutz</string>
     <string name="preference_privacy_settings_title">Datenschutz</string>
-    <string name="preference_remove_duplicate">Identische Kontakte zusammenführen</string>
+    <string name="preference_remove_duplicate">Doppelte Kontakte zusammenführen</string>
     <string name="preference_show_firewall_calllog">Gesperrte Anrufe in der Anrufliste anzeigen</string>
     <string name="preference_show_yellowpage_tab_description">Gelbe Seiten und deren Dienste werden nicht angezeigt, wenn Sie diese Funktion ausschalten</string>
     <string name="preference_show_yellowpage_tab_title">Gelbe Seiten anzeigen</string>
@@ -1169,6 +1173,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="take_new_photo">Neues Foto machen</string>
     <string name="take_photo">Foto machen</string>
     <string name="text_misim_balance">Heute verbraucht</string>
+    <string name="text_msim_balance">Heute verbraucht</string>
     <string name="text_vsim_remain_time">Verbleibende Minuten</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>

@@ -127,6 +127,64 @@
     <string name="artist_is_empty">Name Interpret darf nicht leer sein</string>
     <string name="artist_name">Interpret</string>
     <string name="artist_news">Nachrichten</string>
+    <string name="asm_batch_download_failed">Herunterladen fehlgeschlagen</string>
+    <string name="asm_buy_member_success">VIP-Mitgliedschaft erfolgreich erworben</string>
+    <string name="asm_dialog_title_tips">VIP-Mitgliedschaft</string>
+    <string name="asm_dialog_vip_confirm_text">Beitreten</string>
+    <string name="asm_dialog_vip_message">Melden Sie sich für eine VIP-Mitgliedschaft an, um hochwertige Titel zu hören und noch mehr Inhalte herunterzuladen.</string>
+    <string name="asm_disable_song_click_tip">Dieser Titel ist aus urheberrechtlichen Gründen nicht verfügbar</string>
+    <string name="asm_download_failed">\"%1$s\" herunterladen fehlgeschlagen</string>
+    <string name="asm_download_is_downloaded">Titel erfolgreich heruntergeladen</string>
+    <string name="asm_download_is_downloaded_hq">In HQ heruntergeladen</string>
+    <string name="asm_download_is_downloading">Herunterladen…</string>
+    <string name="asm_download_list_not_supported">Einige Titel auf dieser Liste können nicht heruntergeladen werden</string>
+    <string name="asm_download_pending_status_msg">Herunterladen vorbereiten…</string>
+    <string name="asm_download_success">\"%1$s\" heruntergeladen</string>
+    <string name="asm_during_the_payment">Zahlungsstatus prüfen…</string>
+    <string name="asm_fail_play_song">Titel herunterladen fehlgeschlagen</string>
+    <string name="asm_google_connect_failed">Zahlung wurde nicht abgeschlossen. Stellen Sie sicher, dass Sie im Play Store angemeldet sind.</string>
+    <string name="asm_google_no_goods">Produktinfo abrufen fehlgeschlagen</string>
+    <string name="asm_google_not_login">Im Play Store anmelden und erneut versuchen</string>
+    <string name="asm_google_pay_success">Google Pay-Bestellung generiert</string>
+    <string name="asm_google_query_failed">Produktinfo abrufen fehlgeschlagen</string>
+    <string name="asm_google_service_failed">Google-Dienste wurden nicht gestartet. Erneut versuchen.</string>
+    <string name="asm_gooleplay_notice">Google Play-Dienste sind nicht installiert</string>
+    <string name="asm_loadstate_error_retry">Internetverbindung herstellen und tippen, um es erneut zu versuchen</string>
+    <string name="asm_loadstate_not_more">Das ist im Moment alles</string>
+    <string name="asm_network_error">Netzwerkverbindung prüfen</string>
+    <string name="asm_new_song_title">Neue Titel</string>
+    <string name="asm_no_need_download_songs">Titel ist in der Download-Warteschlange</string>
+    <string name="asm_no_network">Netzwerkverbindung fehlgeschlagen</string>
+    <string name="asm_not_action_is_local_music">Diese Aktion kann für lokale Dateien nicht durchgeführt werden</string>
+    <string name="asm_notify_use_mobile_download">Mit mobilen Daten herunterladen</string>
+    <string name="asm_page_empty_search">Keine Ergebnisse gefunden</string>
+    <string name="asm_page_error_airplane">Flugmodus ausschalten, um eine Verbindung herzustellen</string>
+    <string name="asm_page_error_data">Ein Fehler ist aufgetreten</string>
+    <string name="asm_page_error_no_network">Netzwerkverbindung fehlgeschlagen</string>
+    <string name="asm_page_local_empty_action">Entdecken Sie neue Musik</string>
+    <string name="asm_pay_info_deduction_failed">Automatische Zahlung wurde nicht abgeschlossen. Prüfen Sie Ihre Zahlungsmethode bald, um die Vorteile Ihrer VIP-Mitgliedschaft nicht zu verlieren.</string>
+    <string name="asm_pay_info_upload_failed">Bestelldaten hochladen fehlgeschlagen</string>
+    <string name="asm_pay_order_generate">Bestellung generieren…</string>
+    <string name="asm_pay_order_generate_failed">Bestellung generieren fehlgeschlagen</string>
+    <string name="asm_pay_query_overtime">Zeitüberschreitung bei Anforderung Zahlungsstatus</string>
+    <string name="asm_privacy_desc">Wansheng Datenschutzerklärung</string>
+    <string name="asm_privacy_tips_content">Akzeptieren Sie die <a href="/link/click">Wansheng Datenschutzerklärung</a>, um Online-Musikdienste zu nutzen.</string>
+    <string name="asm_privacy_tips_title">Wansheng Datenschutzerklärung</string>
+    <string name="asm_pro_center">Mitgliedschaft</string>
+    <string name="asm_search_result_contain_music">Enthält: \"%1$s\"</string>
+    <string name="asm_song_err_connect">Serververbindung fehlgeschlagen</string>
+    <string name="asm_song_err_not_exist">Angeforderte Audioquelle existiert nicht</string>
+    <string name="asm_song_err_not_exist_clear">Titel existiert nicht. Aus der Warteschlange entfernt.</string>
+    <string name="asm_song_err_play">Abspielen fehlgeschlagen. Erneut versuchen.</string>
+    <string name="asm_songlist_all_genre_close">Alle einklappen</string>
+    <string name="asm_songlist_all_genre_title">Alle Kategorien</string>
+    <string name="asm_songs_is_downloading">Titel herunterladen…</string>
+    <string name="asm_stop_action_when_no_network">Mit Netzwerk verbinden und erneut versuchen</string>
+    <string name="asm_tips_cannot_download_disable_songs">Dieser Titel kann nicht heruntergeladen werden</string>
+    <string name="asm_toast_pay_canceled">Zahlung abgebrochen</string>
+    <string name="asm_toast_pay_failed">Zahlung wurde nicht abgeschlossen</string>
+    <string name="asm_unknow_album">Unbekanntes Album</string>
+    <string name="asm_unknow_artist">Unbekannter Künstler</string>
     <string name="asset_sync_alert_not_now">Nicht jetzt</string>
     <string name="asset_sync_network_data_alert_message">Sichern von Titeln über mobile Datenverbindung kann zusätzliche Kosten verursachen, trotzdem fortsetzen?</string>
     <string name="asset_sync_network_data_alert_title">Sie verwenden eine mobile Datenverbindung</string>
@@ -173,6 +231,7 @@
     <string name="button_sort_by_size">Nach Größe sortieren</string>
     <string name="button_wait_for_wifi">Warten</string>
     <string name="buy_vip_skip_ad">Werbung entfernen</string>
+    <string name="camera_filter_hue">Farbton</string>
     <string name="cancel">Abbrechen</string>
     <string name="cancel_running_download">Abbrechen</string>
     <string name="cannot_download_to_sdcard_hint">Elemente auf SD-Karte herunterladen ist wegen Urheberrechtsbeschränkungen nicht möglich. Stattdessen werden sie auf den internen Speicher heruntergeladen.</string>
@@ -258,6 +317,7 @@
     <string name="current_album">Aktuelles Album</string>
     <string name="current_lyric">Aktueller Songtext</string>
     <string name="current_version">Aktuelle Version</string>
+    <string name="daily_recommend_desc">Tägliche Empfehlungen, für Sie persönlich ausgesucht</string>
     <string name="daily_recommendation">Täglicher Mix</string>
     <string name="dark_mode">Dark Mode</string>
     <string name="data_usage_warning">Datennutzung</string>
@@ -475,6 +535,9 @@
     <string name="exo_download_paused_for_network">Downloads warten auf Netzwerk</string>
     <string name="exo_download_paused_for_wifi">Downloads warten auf WLAN</string>
     <string name="exo_download_removing">Downloads löschen</string>
+    <string name="exo_media_action_repeat_all_description">Alle wiederholen</string>
+    <string name="exo_media_action_repeat_off_description">Keinen wiederholen</string>
+    <string name="exo_media_action_repeat_one_description">Einen wiederholen</string>
     <string name="exo_track_role_alternate">Abwechselnd</string>
     <string name="exo_track_role_commentary">Kommentar</string>
     <string name="exo_track_role_supplementary">Ergänzend</string>
@@ -1311,7 +1374,7 @@
     <string name="privacy_authorize_revoking">Genehmigung widerrufen…</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
-    <string name="privacy_request_desc"><Data>Mi Music muss notwendige persönliche Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.</Data></string>
+    <string name="privacy_request_desc">&lt;Data>Mi Music muss notwendige persönliche Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.&lt;/Data></string>
     <string name="privacy_request_subtitle">Willkommen bei Mi Music! Diese App bietet die folgenden Dienste: \n- Ein lokaler Audioplayer \n- Online-Streaming-Dienste</string>
     <string name="privacy_request_subtitle_offline">Willkommen bei Mi Music! Diese App bietet einen lokalen Player für Audiodateien.</string>
     <string name="privacy_request_title">Allgemeine Geschäftsbedingungen</string>
@@ -1330,9 +1393,10 @@
     <string name="radar_retry">Noch mal</string>
     <string name="radar_searching_state">Suche läuft</string>
     <string name="radar_support_by">Unterstützt durch ACRCloud</string>
-    <string name="read_and_agree_hungama_protocol"><Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Lesen und akzeptieren Sie die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Datenschutzerklärung&lt;/a>&lt;/font>, um Online-Musikdienste zu nutzen.</string>
+    <string name="read_and_agree_hungama_protocol">&lt;Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
+    <string name="read_and_agree_joox_protocol">&lt;Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
+    <string name="read_and_agree_mi_protocol">&lt;Data>Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
     <string name="read_and_agree_protocol">Lesen und akzeptieren Sie unsere Nutzervereinbarung und Datenschutzerklärung, bevor Sie fortfahren.</string>
     <string name="ready_to_play">Nächster Schritt</string>
     <string name="recently_played">Zuletzt angehört</string>

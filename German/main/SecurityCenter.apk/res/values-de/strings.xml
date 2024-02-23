@@ -513,6 +513,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_manager_reset_app_preferences_title">App-Voreinstellungen zurücksetzen?</string>
     <string name="app_manager_restricted_settings_title">Eingeschränkte Einstellungen zulassen</string>
     <string name="app_manager_search_prompt">Keine Ergebnisse gefunden? Versuchen Sie, Ergebnisse aus allen Apps anzuzeigen.</string>
+    <string name="app_manager_share_apk">Teilen</string>
     <string name="app_manager_shortcut_manager">Verknüpfungen auf Startbildschirm verwalten</string>
     <string name="app_manager_show_all_apps">Alle Apps anzeigen</string>
     <string name="app_manager_show_all_apps_opened">Ergebnisanzeige aller Apps…</string>
@@ -2063,6 +2064,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="fod_finger_notice_title">Legen Sie Ihren Finger auf den Bildschirm</string>
     <string name="fod_finger_windows_tips">Verifizieren Sie Ihren Fingerabdruck</string>
     <string name="fod_tips_split_screen_more_than_half">Passwort eingeben</string>
+    <string name="fold_application_mode_name">App-Layouts</string>
     <string name="forbid_autobright_summary">Automatische Helligkeit wird während des Spiels ausgeschaltet und nach Beendigung wiederhergestellt.</string>
     <string name="forbid_autobright_title">Bildschirmhelligkeit fixieren</string>
     <string name="force_stop_dlg_text">Wenn Sie das Stoppen einer App erzwingen, kann es sein, dass sie sich falsch verhält.</string>
@@ -3741,7 +3743,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_wireless_charging_special_stand_summary2">Stellen Sie Ihr Gerät auf den Ständer, der mit dem kabellosen Ladegerät geliefert wurde, um die beste Ladeleistung zu erzielen</string>
     <string name="pc_wireless_charging_special_stand_title">Mitgelieferte Ladestation verwenden</string>
     <string name="pc_wireless_handle_connected">Gerät verbunden</string>
-    <string name="pc_wireless_handle_title">Kabelloser Kameragriff</string>
+    <string name="pc_wireless_handle_title">Kameragriff</string>
     <string name="pc_work_in_save_mode">Stromsparen</string>
     <string name="pc_work_in_super_save_mode">Ultra-Stromsparen</string>
     <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi AI</string>
@@ -6281,6 +6283,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="virus_update_tips_title">Warnung</string>
     <string name="virus_wait_network_dialog_message">Ihr Telefon ist jetzt nicht mit WLAN verbunden. Mobile Daten nutzen?</string>
     <string name="vtb_ai_subtitle">Untertitel</string>
+    <string name="vtb_ai_subtitle_intl">KI-Untertitel</string>
     <string name="vtb_func_desc">Über diese Funktion</string>
     <string name="vtb_func_display_style_desc0">KI kann Personen, Tiere, Pflanzen, Himmel, Gebäude und andere Objekte in Videos erkennen und dynamisch verbessern.</string>
     <string name="vtb_func_display_style_desc1">Ausgewählte Effekte werden nicht auf HDR-Videos auf ausgewählten Geräten angewendet.</string>

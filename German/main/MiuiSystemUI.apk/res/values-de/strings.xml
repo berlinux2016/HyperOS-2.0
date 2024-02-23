@@ -1458,6 +1458,8 @@ dd.MM."</string>
     <string name="phone_locked_string">Dieses Gerät ist gesperrt</string>
     <string name="phone_locked_string_owner_user">Zu viele Fehlversuche bei der Passworteingabe für das Hauptprofil. Dieses Gerät ist jetzt gesperrt.</string>
     <string name="phone_locked_string_second_user">Zu viele Fehlversuche bei der Passworteingabe für das Zweitprofil. Dieses Gerät ist jetzt gesperrt.</string>
+    <string name="pin_toast">Schieben Sie vom unteren Bildschirmrand nach oben und pausieren Sie, um diese App zu lösen</string>
+    <string name="pin_toast_nav">Halten Sie die Tasten Zurück und Vorschau gedrückt, um diese App zu lösen</string>
     <string name="pip_close">BIB schließen</string>
     <string name="pip_collapse">Einklappen</string>
     <string name="pip_edu_text">Doppeltipp auf <annotation icon="home_icon"> STARTSEITE </annotation> für die Steuerung</string>
