@@ -5407,7 +5407,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lockpassword_confirm_your_pattern_header_frp">Muster bestätigen</string>
     <string name="lockpassword_confirm_your_pin_details_frp">Ihr Telefon wurde auf Werkseinstellung zuückgesetzt. Um dieses Telefon zu nutzen, bisherige PIN eingeben</string>
     <string name="lockpassword_confirm_your_pin_generic">Geben Sie Ihren Geräte-PIN ein, um fortzufahren</string>
-    <string name="lockpassword_confirm_your_pin_generic_profile">Geben Sie Ihren PIN ein, um fortzufahren</string>
+    <string name="lockpassword_confirm_your_pin_generic_profile">Geben Sie Ihre PIN ein, um fortzufahren</string>
     <string name="lockpassword_confirm_your_pin_header">PIN bestätigen</string>
     <string name="lockpassword_confirm_your_pin_header_frp">PIN bestätigen</string>
     <string name="lockpassword_confirm_your_private_password_header">Passwort bestätigen</string>
