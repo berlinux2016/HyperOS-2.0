@@ -4400,7 +4400,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können kabellos abgerufe
     <string name="handy_mode_no_touch_assistant">Einhandmodus funktioniert nur, wenn Sie für die Systemnavigation Tasten verwenden. Sie können unter Einstellungen im Abschnitt \"Systemnavigation\" zwischen Gesten und Tasten umschalten.</string>
     <string name="handy_mode_size">Bildschirmgröße</string>
     <string name="handy_mode_tips">Aktivieren Sie den Einhandmodus, indem Sie von der Mitte des Navigationsfelds aus nach links oder rechts wischen.</string>
-    <string name="handy_mode_tips_full_screen">Wenn Sie Vollbildgesten verwenden, können Sie den Einhandmodus im Berührungsassistent einschalten. Sie können auch auf Tasten anstelle von Vollbildgesten umschalten.</string>
+    <string name="handy_mode_tips_full_screen">Schalten Sie den Einhandmodus ein, indem Sie über den Vollbildindikator wischen. Diese Funktion funktioniert nicht, wenn der Indikator ausgeblendet ist.</string>
     <string name="haptic_agent_completion_01_content_description">Erledigte Aufgabe</string>
     <string name="haptic_cursor_movement_07_content_description">Helligkeit einstellen</string>
     <string name="haptic_descripthion_for_max_level">Stark</string>
@@ -6485,7 +6485,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="natural_scroll">Natürliches Scrollen</string>
     <string name="nature_color">Standard</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Vom unteren Bildschirmrand nach oben und dann nach links oder rechts wischen</string>
-    <string name="navigation_guide_app_quick_switch_summary">Links oder rechts in der Vollbildanzeige oder dem unteren Bildschirmrand wischen</string>
+    <string name="navigation_guide_app_quick_switch_summary">Links oder rechts vom Vollbildindikator oder vom unteren Bildschirm wischen</string>
     <string name="navigation_guide_app_quick_switch_title">Zwischen Apps wechseln</string>
     <string name="navigation_guide_app_summary">Vom oberen Bildschirmrand nach links oder rechts wischen</string>
     <string name="navigation_guide_app_title">Appaktion auslösen</string>
@@ -6501,10 +6501,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="navigation_guide_dialog_skip">Jetzt nicht</string>
     <string name="navigation_guide_dialog_summary">Lernen, welche Gesten zur Systemnavigation verwendbar sind</string>
     <string name="navigation_guide_dialog_title">Gesten lernen</string>
-    <string name="navigation_guide_gesture_line_dialog_summary">Eine neue Geste zum Umschalten zwischen Apps wird verwendet, wenn die Vollbildanzeige ausgeblendet ist. Diese Geste jetzt lernen?</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">Eine neue Geste zum Umschalten zwischen den Apps wird verwendet, wenn Sie den Vollbildindikator ausblenden. Diese Geste jetzt lernen?</string>
     <string name="navigation_guide_gesture_line_dialog_title">Neue Geste lernen</string>
-    <string name="navigation_guide_hide_gesture_line_summary">Gestenhinweislinie bei Vollbildgesten nicht anzeigen</string>
-    <string name="navigation_guide_hide_gesture_line_title">Gestenhinweislinie ausblenden</string>
+    <string name="navigation_guide_hide_gesture_line_summary">Vollbildindikator bei Verwendung von Vollbildgesten nicht anzeiegn</string>
+    <string name="navigation_guide_hide_gesture_line_title">Vollbildindikator ausblenden</string>
     <string name="navigation_guide_home_summary">Vom unteren Bildschirmrand hochwischen</string>
     <string name="navigation_guide_home_title">Zurück zum Startbildschirm</string>
     <string name="navigation_guide_recent_summary">Vom unteren Bildschirmrand hochwischen und kurz halten</string>
