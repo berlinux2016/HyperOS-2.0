@@ -120,7 +120,7 @@
     <string name="current_connection_invalid">Warten, bis sich das Telefon mit dem Netzwerk verbindet</string>
     <string name="current_data_invalid">Ein Fehler ist aufgetreten</string>
     <string name="current_network_invalid">Zuerst mit dem Netzwerk verbinden</string>
-    <string name="current_no_more_pictures">Das ist alles für den Moment</string>
+    <string name="current_no_more_pictures">Das ist im Moment alles</string>
     <string name="current_permission_network_denied">Hintergrundkarussell darf auf das Netzwerk zugreifen</string>
     <string name="custom_wallpaper_des">Hintergrundkarussell einschalten, Ihre Fotos und Online-Bilder zum Mix hinzufügen, damit sie automatisch in der Diashow auftauchen</string>
     <string name="cw_add">Hinzufügen</string>
@@ -698,7 +698,7 @@ dd.MM."</string>
     <string name="privacy_update_summary3">"Sie können Hintergrundkarussell nur dann weiter nutzen, wenn Sie die neue Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a> akzeptieren. Jetzt zustimmen?"</string>
     <string name="privacy_update_title1">Datenschutzerklärung aktualisiert</string>
     <string name="privacy_update_title2">Achtung</string>
-    <string name="prv_end"><CDATA>Das ist alles für den Moment.</CDATA></string>
+    <string name="prv_end"><CDATA>Das ist im Moment alles.</CDATA></string>
     <string name="prv_loading"><CDATA>Einen Moment…</CDATA></string>
     <string name="prv_nodata"><CDATA>Keine Daten</CDATA></string>
     <string name="pull_to_refresh_loading_label">Einen Moment…</string>

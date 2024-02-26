@@ -397,7 +397,7 @@
     <string name="miui_penengine_ppw_select_copy">Kopieren</string>
     <string name="miui_penengine_ppw_select_copy_as_text">Als Text kopieren</string>
     <string name="miui_penengine_ppw_select_copy_paste">Duplizieren</string>
-    <string name="miui_penengine_ppw_select_cut">Schneiden</string>
+    <string name="miui_penengine_ppw_select_cut">Ausschneiden</string>
     <string name="miui_penengine_ppw_select_delete">Löschen</string>
     <string name="miui_penengine_ppw_select_paste">Einfügen</string>
     <string name="miui_penengine_ppw_shortcut_long_click">Gedrückt halten</string>

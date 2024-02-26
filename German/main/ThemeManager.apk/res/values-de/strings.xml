@@ -1485,7 +1485,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="theme_changed_failed_message">Anwenden fehlgeschlagen</string>
     <string name="theme_changed_message">Thema angewendet</string>
     <string name="theme_changing_dialog_title">"Anwenden "</string>
-    <string name="theme_comment_detail_no_more">Das ist alles für den Moment</string>
+    <string name="theme_comment_detail_no_more">Das ist im Moment alles</string>
     <string name="theme_comment_detail_sub_comment_title">Alle Antworten</string>
     <string name="theme_comment_detail_title">Details prüfen</string>
     <string name="theme_comment_dialog_cancel">Nicht jetzt</string>
@@ -1643,7 +1643,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="unable_connect_network">Netzwerkverbindung nicht möglich</string>
     <string name="uninstall_theme">\"Themen\" vom Startbildchirm entfernen?</string>
     <string name="uninstall_theme_description">Themen ist eine System-App. Sie bietet Hintergründe und viele Personalisierungsoptionen. Sie können Themen weiterhin über Einstellungen verwenden, wenn Sie die Verknüpfung für den Startbildschirm entfernen.</string>
-    <string name="up_to_the_end">Das ist alles für den Moment. Kommen Sie später wieder.</string>
+    <string name="up_to_the_end">Das ist im Moment alles. Kommen Sie später wieder.</string>
     <string name="update">Aktualisierung</string>
     <string name="update_btn">JETZT AKTUALISIEREN</string>
     <string name="update_check">Updates suchen</string>
@@ -1730,7 +1730,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_no_favorite">Noch keine Einträge hier</string>
     <string name="wallpaper_no_record">Noch keine Einträge hier</string>
     <string name="wallpaper_online">Online-Hintergründe</string>
-    <string name="wallpaper_online_no_more">Das ist alles für den Moment</string>
+    <string name="wallpaper_online_no_more">Das ist im Moment alles</string>
     <string name="wallpaper_online_tip">Mit dem Netzwerk verbinden, um weitere Elemente anzuzeigen</string>
     <string name="wallpaper_personal_dialog_agree">Personalisieren</string>
     <string name="wallpaper_personal_dialog_content">Benutzen Sie diese Funktion, um eine Auswahl an Hintergründen zu sehen, die auf Ihre Interessen zugeschnitten sind. Sie können diese Funktion in den Einstellungen ein- und ausschalten. Hintergründe jetzt personalisieren?</string>

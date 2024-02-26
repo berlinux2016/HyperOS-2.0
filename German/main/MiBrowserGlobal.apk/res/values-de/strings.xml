@@ -1290,7 +1290,7 @@
     <string name="mw_low_memory_error">Vorheriger Vorgang kann wegen geringem Speicher nicht abgeschlossen werden</string>
     <string name="mw_menu_refresh">Neu laden</string>
     <string name="mw_miui_content_copy">Kopieren</string>
-    <string name="mw_miui_content_cut">Schneiden</string>
+    <string name="mw_miui_content_cut">Ausschneiden</string>
     <string name="mw_miui_content_extent_select">Mehr auswählen</string>
     <string name="mw_miui_content_open_url">URL öffnen</string>
     <string name="mw_miui_content_paste">Einfügen</string>
@@ -1435,7 +1435,7 @@
     <string name="news_video_history">Verlauf</string>
     <string name="news_video_history_empty">Hier ist noch nichts</string>
     <string name="news_video_invisible_item">Dieses Video kann nicht angezeigt werden</string>
-    <string name="news_video_no_more_videos">Das ist alles für den Moment</string>
+    <string name="news_video_no_more_videos">Das ist im Moment alles</string>
     <string name="next">Weiter</string>
     <string name="nf_choose_reason">Beschreiben Sie das Problem</string>
     <string name="nf_detail_collection">Zu Favoriten hinzufügen</string>
@@ -1923,7 +1923,7 @@
     <string name="reading__menu_rotate_screen">Drehen</string>
     <string name="reading__menu_search">Suchen</string>
     <string name="reading__menu_share">Teilen</string>
-    <string name="reading__reading_end">Das ist alles für den Moment</string>
+    <string name="reading__reading_end">Das ist im Moment alles</string>
     <string name="reading__reading_first_page">Dies ist die erste Seite</string>
     <string name="reading__reading_last_page">Dies ist die letzte Seite</string>
     <string name="reading__search_input_hint">Schlüsselwörter für die Suche eingeben</string>

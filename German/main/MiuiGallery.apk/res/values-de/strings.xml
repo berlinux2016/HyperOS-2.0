@@ -621,7 +621,7 @@
     <string name="click_download_gif">Tippen, um GIF herunterzuladen</string>
     <string name="click_top_right">Oben rechts auf das Symbol tippen</string>
     <string name="clip_menu_back">Zurück</string>
-    <string name="clip_menu_cut">Schneiden</string>
+    <string name="clip_menu_cut">Ausschneiden</string>
     <string name="clip_menu_remove">Löschen</string>
     <string name="clip_menu_reveerse">Umkehren </string>
     <string name="clip_menu_speedx">Geschwindigkeit</string>
@@ -1325,7 +1325,7 @@
     <string name="is_higher_definition">HD-Vorschau</string>
     <string name="is_in_ocr">Erkennen…</string>
     <string name="keyboard_shortcut_copy">Kopieren</string>
-    <string name="keyboard_shortcut_cut">Schneiden</string>
+    <string name="keyboard_shortcut_cut">Ausschneiden</string>
     <string name="keyboard_shortcut_day">Tag</string>
     <string name="keyboard_shortcut_delete">Löschen</string>
     <string name="keyboard_shortcut_month">Monatsansicht</string>

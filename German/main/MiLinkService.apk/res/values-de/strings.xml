@@ -687,7 +687,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="mr_chooser_searching">Geräte finden</string>
     <string name="mr_chooser_title">Casting auf</string>
     <string name="mr_controller_album_art">Albumcover</string>
-    <string name="mr_controller_casting_screen">Bildschirmübertragung</string>
+    <string name="mr_controller_casting_screen">Bildschirm-Casting</string>
     <string name="mr_controller_close_description">Schließen</string>
     <string name="mr_controller_collapse_group">Einklappen</string>
     <string name="mr_controller_disconnect">Trennen</string>

@@ -6321,7 +6321,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mr_chooser_searching">Geräte finden</string>
     <string name="mr_chooser_title">Casting auf</string>
     <string name="mr_controller_album_art">Albumcover</string>
-    <string name="mr_controller_casting_screen">Bildschirmübertragung</string>
+    <string name="mr_controller_casting_screen">Bildschirm-Casting</string>
     <string name="mr_controller_close_description">Schließen</string>
     <string name="mr_controller_collapse_group">Einklappen</string>
     <string name="mr_controller_disconnect">Trennen</string>
@@ -11262,7 +11262,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_display_resume">Fortsetzen</string>
     <string name="wifi_display_session_info">Sitzungsinformation</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Kabellose Übertragung ist deaktiviert, wenn WLAN ausgeschaltet ist</string>
-    <string name="wifi_display_settings_title">Bildschirmübertragung</string>
+    <string name="wifi_display_settings_title">Bildschirm-Casting</string>
     <string name="wifi_display_status_connected">Verbunden</string>
     <string name="wifi_display_status_connecting">Verbinden</string>
     <string name="wifi_display_status_in_use">In Verwendung</string>

@@ -418,7 +418,7 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
     <string name="crossSimFormat_spn_cross_sim_calling">%s Sicherungsanruf</string>
     <string name="csd_dose_reached_warning">Weiter mit hoher Lautstärke hören? \n\nKopfhörerlautstärke war länger hoch als empfohlen, was Ihr Gehör schädigen kann.</string>
     <string name="csd_momentary_exposure_warning">Lautes Geräusch erkannt. \n\nKopfhörerlautstärke war höher als empfohlen, was Ihr Gehör schädigen kann.</string>
-    <string name="cut">Schneiden</string>
+    <string name="cut">Ausschneiden</string>
     <string name="data_saver_description">Um den Datenverbrauch zu reduzieren, verhindert Datensparen die Datenverbindung einiger Apps im Hintergrund. Eine App, die Sie gerade verwenden, kann auf Daten zugreifen, aber weniger oft. Dies bedeutet z. B., dass Bilder nicht angezeigt werden, bis Sie darauf tippen.</string>
     <string name="data_saver_enable_button">Einschalten</string>
     <string name="data_saver_enable_title">Datensparen einschalten?</string>
