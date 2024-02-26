@@ -932,7 +932,7 @@ Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standa
 Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwenden (z. B. als Hintergründe oder Klingeltöne einstellen), werden Sie aufgefordert, dieser App den Speicherzugriff zu erlauben."</string>
     <string name="privacy_permission_management_description">Berechtigungsdetails</string>
     <string name="privacy_permission_related_content">Berechtigungen</string>
-    <string name="privacy_permit_privacy_policy_content">"Sie können unsere Website nur dann weiter nutzen, wenn Sie der neuen Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a> zustimmen. Jetzt zustimmen?"</string>
+    <string name="privacy_permit_privacy_policy_content">"Sie können unsere Webseite nur dann weiter nutzen, wenn Sie der neuen Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a> zustimmen. Jetzt zustimmen?"</string>
     <string name="privacy_phone_important_prompt_content">"Anscheinend haben Sie unserer Nutzervereinbarung und Datenschutzerklärung noch nicht zugestimmt. Die grundlegenden Funktionen und Dienste von Themen stehen Ihnen jedoch weiterhin zur Verfügung.
 Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwenden (z. B. als Hintergründe oder Klingeltöne einstellen), werden Sie aufgefordert, dieser App den Speicherzugriff zu erlauben."</string>
     <string name="privacy_phone_logoff_service_content">Themen-Dienste kündigen</string>

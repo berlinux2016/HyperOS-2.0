@@ -158,7 +158,7 @@
     <string name="midnight">Nacht</string>
     <string name="mishare_folder_in_file_explorer">Dateimanager &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Benachrichtigungen über Mi Share-Prozesse</string>
-    <string name="mishare_settings_summary_international">Mit Mi Share können Sie Elemente drahtlos an andere Geräte in der Nähe senden.\nDiese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern unterstützt. Sie können die Liste der unterstützten Geräte auf der offiziellen Website der jeweiligen Marke einsehen.</string>
+    <string name="mishare_settings_summary_international">Mit Mi Share können Sie Elemente drahtlos an andere Geräte in der Nähe senden.\nDiese Funktion wird von OPPO, vivo, realme und anderen Smartphone-Herstellern unterstützt. Sie können die Liste der unterstützten Geräte auf der offiziellen Webseite der jeweiligen Marke einsehen.</string>
     <string name="mishare_state_protection">Mi Share automatisch einschalten</string>
     <string name="mishare_state_protection_summary">Mi Share automatisch wieder einschalten, wenn Bluetooth oder WLAN wieder eingeschaltet ist</string>
     <string name="mishare_state_protection_summary_china">Mi Share automatisch wieder einschalten, wenn Bluetooth oder WLAN wieder eingeschaltet ist</string>

@@ -484,7 +484,7 @@
     <string name="debug_youtube_in_release">Youtube im Release debuggen</string>
     <string name="decompressed_files">Entpackte Dateien</string>
     <string name="deeplink_intrercept_hint">Dieses Popup schlägt vor, eine App zu öffnen.</string>
-    <string name="deeplink_intrercept_second_hint">Die Website ist im Begriff, eine App zu öffnen. Diese Aktion wurde vorerst gestoppt.</string>
+    <string name="deeplink_intrercept_second_hint">Die Webseite ist im Begriff, eine App zu öffnen. Diese Aktion wurde vorerst gestoppt.</string>
     <string name="deeplink_permission_name">Öffnen</string>
     <string name="deeplink_permission_name_hint">%s öffnen</string>
     <string name="default_likes">Gefällt mir</string>
@@ -589,7 +589,7 @@
     <string name="download_filter_text">Dokumente</string>
     <string name="download_in_process">Herunterladen</string>
     <string name="download_intrercept_hint">Dieses Popup schlägt vor, eine App herunterzuladen.</string>
-    <string name="download_intrercept_second_hint">Die Website ist dabei, eine App herunterzuladen. Download wurde vorerst gestoppt.</string>
+    <string name="download_intrercept_second_hint">Die Webseite ist dabei, eine App herunterzuladen. Download wurde vorerst gestoppt.</string>
     <string name="download_keep_queued_download">Behalten</string>
     <string name="download_list_no_items_tip">Noch keine Einträge hier</string>
     <string name="download_live_unsupported">Livestreams herunterladen nicht möglich</string>
@@ -1506,7 +1506,7 @@
     <string name="offline_notification_title">Werbung anzeigen, die Sie gespeichert hatten, als Sie offline waren</string>
     <string name="offline_opt_in_confirmation">Sie erhalten eine Benachrichtigung mit dem Link, wenn Sie wieder online sind</string>
     <string name="offline_opt_in_decline">Nein danke</string>
-    <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Website des Inserenten.</string>
+    <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Webseite des Inserenten.</string>
     <string name="offline_opt_in_title">Werbung öffnen, wenn Sie wieder online sind</string>
     <string name="one_prefect_author">Autor</string>
     <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
@@ -1744,7 +1744,7 @@
     <string name="pref_fling_on_border_title_summary">Vom linken oder rechten Rand wischen</string>
     <string name="pref_font_size_category">Größe Webseitentext</string>
     <string name="pref_force_userscalable">Zoom erzwingen</string>
-    <string name="pref_force_userscalable_summary">Anfrage einer Website zur Steuerung des Zoomverhaltens überschreiben</string>
+    <string name="pref_force_userscalable_summary">Anfrage einer Webseite zur Steuerung des Zoomverhaltens überschreiben</string>
     <string name="pref_general_title">Allgemein</string>
     <string name="pref_key_gesture_title">Tasten &amp; Gesten</string>
     <string name="pref_nav_mode_summary_pad">Tablet</string>
@@ -2362,7 +2362,7 @@
     <string name="uni_search_setting_summary">In-App-Suche</string>
     <string name="uni_search_setting_title">Verbessert die Suchergebnisse</string>
     <string name="unload_residue">Reste</string>
-    <string name="unsecurity_url_toast">Diese Website ist nicht sicher</string>
+    <string name="unsecurity_url_toast">Diese Webseite ist nicht sicher</string>
     <string name="up_to_loading_tips">Loslassen zum Aktualisieren</string>
     <string name="update">Aktualisieren</string>
     <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>

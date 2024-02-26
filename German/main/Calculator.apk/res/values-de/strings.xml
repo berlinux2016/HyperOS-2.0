@@ -190,7 +190,7 @@
     <string name="locating_prompt">Ortung</string>
     <string name="lpr_info">LPR-Info</string>
     <string name="lpr_ok">Verstanden</string>
-    <string name="lpr_tips_msg">"Ab dem 8. Oktober 2019 wird der private gewerbliche Wohnungsbaudarlehenszinssatz nach dem Darlehensleitzins (LPR) anstelle des bisher verwendeten Referenzzinssatzes von 4,9% berechnet. Nun wird der endgültige Kurs durch Hinzufügen eines LPR-Basispunktes bestätigt. \n\nEinjährige und fünfjährige LPRs werden am 20. eines Monats (Verzögerungen durch Bankfeiertage können auftreten) auf der Website der People's Bank of China notiert."</string>
+    <string name="lpr_tips_msg">"Ab dem 8. Oktober 2019 wird der private gewerbliche Wohnungsbaudarlehenszinssatz nach dem Darlehensleitzins (LPR) anstelle des bisher verwendeten Referenzzinssatzes von 4,9% berechnet. Nun wird der endgültige Kurs durch Hinzufügen eines LPR-Basispunktes bestätigt. \n\nEinjährige und fünfjährige LPRs werden am 20. eines Monats (Verzögerungen durch Bankfeiertage können auftreten) auf der Webseite der People's Bank of China notiert."</string>
     <string name="lpr_tips_title">LPR (Darlehensleitzins)</string>
     <string name="male">Geschlecht: Männlich</string>
     <string name="medical_treatment">Medizinische Behandlung</string>

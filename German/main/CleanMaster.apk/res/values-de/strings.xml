@@ -641,7 +641,7 @@
     <string name="offline_notification_title">Werbung anzeigen, die Sie gespeichert haben, als Sie offline waren</string>
     <string name="offline_opt_in_confirmation">Sie erhalten eine Benachrichtigung mit dem Link, wenn Sie wieder online sind</string>
     <string name="offline_opt_in_decline">Nein danke</string>
-    <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Website des Inserenten.</string>
+    <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Webseite des Inserenten.</string>
     <string name="offline_opt_in_title">Werbung öffnen, wenn Sie wieder online sind.</string>
     <string name="one_tap_clean_GB">%s GB</string>
     <string name="one_tap_clean_M">%d MB</string>
