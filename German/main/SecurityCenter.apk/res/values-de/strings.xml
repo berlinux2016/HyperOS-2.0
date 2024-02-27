@@ -6030,7 +6030,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="top_game">Topspiele</string>
-    <string name="top_load_fail_detail">Laden fehlgeschlagen. Tippen, um erneut zu versuchen.</string>
+    <string name="top_load_fail_detail">Laden fehlgeschlagen. Tippen und erneut versuchen.</string>
     <string name="top_no_network_detial">Laden fehlgeschlagen. Netzwerkverbindung prüfen und erneut versuchen</string>
     <string name="traffic_advanced_settings">Datenverkehr erweiterte Einstellungen</string>
     <string name="traffic_alarm">Alarm einstellen</string>

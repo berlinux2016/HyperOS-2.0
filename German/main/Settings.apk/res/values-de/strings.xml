@@ -6332,7 +6332,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mr_controller_volume_slider">Lautstärkeregler</string>
     <string name="mr_dialog_default_group_name">Gruppe</string>
     <string name="mr_dialog_groupable_header">Gerät hinzufügen</string>
-    <string name="mr_dialog_transferable_header">In einer Gruppe spielen</string>
+    <string name="mr_dialog_transferable_header">In einer Gruppe abspielen</string>
     <string name="mr_user_route_category_name">Geräte</string>
     <string name="msd_driver_download">Treiber herunterladen</string>
     <string name="msd_driver_download_mac">OSX: Laden Sie den Treiber herunter und installieren Sie die AndroidFileTransfer.dmg</string>
@@ -11743,7 +11743,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifitrackerlib_osu_connect_failed">Verbinden nicht möglich</string>
     <string name="wifitrackerlib_osu_opening_provider">%1$s öffnen</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Anmeldung abgeschlossen. Verbinden…</string>
-    <string name="wifitrackerlib_osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen, um erneut zu versuchen.</string>
+    <string name="wifitrackerlib_osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen und erneut versuchen.</string>
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Schnell</string>

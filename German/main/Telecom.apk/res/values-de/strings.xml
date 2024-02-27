@@ -571,7 +571,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="mr_controller_volume_slider">Lautstärkeregler</string>
     <string name="mr_dialog_default_group_name">Gruppe</string>
     <string name="mr_dialog_groupable_header">Gerät hinzufügen</string>
-    <string name="mr_dialog_transferable_header">In einer Gruppe spielen</string>
+    <string name="mr_dialog_transferable_header">In einer Gruppe abspielen</string>
     <string name="mr_user_route_category_name">Geräte</string>
     <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
@@ -1073,7 +1073,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="wifitrackerlib_osu_connect_failed">Verbinden nicht möglich</string>
     <string name="wifitrackerlib_osu_opening_provider">%1$s öffnen</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Anmeldung abgeschlossen. Verbinden…</string>
-    <string name="wifitrackerlib_osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen, um erneut zu versuchen.</string>
+    <string name="wifitrackerlib_osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen und erneut versuchen.</string>
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_speed_label_fast">Schnell</string>

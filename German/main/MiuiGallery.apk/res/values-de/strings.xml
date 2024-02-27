@@ -1347,7 +1347,7 @@
     <string name="last_some_performance_title">Dinge, die ich sah</string>
     <string name="live_photo">Dynamische Aufnahme</string>
     <string name="load_complete">Keine Elemente mehr hier</string>
-    <string name="load_failed">Info laden fehlgeschlagen. Tippen, um erneut zu versuchen</string>
+    <string name="load_failed">Info laden fehlgeschlagen. Tippen und erneut versuchen.</string>
     <string name="load_relations">Einen Moment…</string>
     <string name="loading">Einen Moment</string>
     <string name="loading_dots">Einen Moment…</string>

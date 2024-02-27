@@ -339,7 +339,7 @@
     <string name="not_set">Nicht eingestellt</string>
     <string name="open_browser">Im Browser öffnen</string>
     <string name="page_load_failed">Seite kann nicht geöffnet werden</string>
-    <string name="password_toggle_content_description">Passwortsichtbarkeit umschalten</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="pc_activity_title">Akku optimieren</string>
     <string name="pc_entered_extreme_mode">Ruhezustand ist an</string>
     <string name="pc_entered_extreme_mode_summary">Der Akku Ihres Geräts ist leer und es befindet sich im Ruhezustand. Apps werden im Hintergrund ausgeführt und senden keine Benachrichtigungen.</string>

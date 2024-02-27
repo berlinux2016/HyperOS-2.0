@@ -496,7 +496,7 @@ auswählen"</string>
     <string name="osu_connect_failed">Verbinden fehlgeschlagen</string>
     <string name="osu_opening_provider">%1$s öffnen</string>
     <string name="osu_sign_up_complete">Anmelden abgeschlossen. Verbinden…</string>
-    <string name="osu_sign_up_failed">Anmelden nicht abgeschlossen. Tippen, um erneut zu versuchen.</string>
+    <string name="osu_sign_up_failed">Anmelden nicht abgeschlossen. Tippen und erneut versuchen.</string>
     <string name="overlay_display_devices_title">Sekundär-Bildschirmanzeige simulieren</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="physical_keyboard_title">Physische Tastatur</string>
@@ -753,7 +753,7 @@ auswählen"</string>
     <string name="wifitrackerlib_osu_connect_failed">Verbinden fehlgeschlagen</string>
     <string name="wifitrackerlib_osu_opening_provider">%1$s öffnen</string>
     <string name="wifitrackerlib_osu_sign_up_complete">Anmeldung abgeschlossen. Verbinden…</string>
-    <string name="wifitrackerlib_osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen, um erneut zu versuchen.</string>
+    <string name="wifitrackerlib_osu_sign_up_failed">Anmeldung nicht abgeschlossen. Tippen und erneut versuchen.</string>
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tippen, um das Abo zu verlängern und zu verbinden</string>

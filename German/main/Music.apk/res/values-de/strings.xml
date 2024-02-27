@@ -1086,7 +1086,7 @@
     <string name="online_apk_install_completed">Online-Inhalte erfolgreich geladen. Auf %s tippen zum Anzeigen.</string>
     <string name="online_apk_install_error_no_enough_space">Wegen zu wenig Speicher konnte die Installation nicht durchgeführt werden.</string>
     <string name="online_apk_install_error_with_reason">Installation nicht möglich (Fehler %d)</string>
-    <string name="online_apk_install_failed_with_reason" formatted="false">Online-Inhalte wurden nicht geladen. Auf %s tippen, um erneut zu versuchen. Fehlercode: %d.</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">Online-Inhalte wurden nicht geladen. Auf %s tippen und erneut versuchen. Fehlercode: %d.</string>
     <string name="online_apk_install_in_background">Online-Inhalte im Hintergrund laden…</string>
     <string name="online_apk_install_network_change_paused">Sie verwenden mobile Daten. Laden von Elementen wurde vorerst angehalten. Auf %s tippen zum Anzeigen.</string>
     <string name="online_apk_install_network_error">Netzwerkverbindung nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -1308,7 +1308,7 @@
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Code an %s gesendet</string>
     <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
-    <string name="passport_verification_failed">Verifizierung nicht möglich</string>
+    <string name="passport_verification_failed">Verifizieren fehlgeschlagen</string>
     <string name="passport_verify">Verifizieren</string>
     <string name="passport_wechat_not_install">Erst WeChat installieren</string>
     <string name="passport_weibo_login_btn_content_description">Mit Weibo anmelden</string>

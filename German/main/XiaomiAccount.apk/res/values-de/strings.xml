@@ -894,7 +894,7 @@
     <string name="passport_vcode_prompt_long">Verifizierungscode eingeben</string>
     <string name="passport_vcode_sms_send_prompt">Verifizierungscode an %s senden</string>
     <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon gesendet &lt;font color=#1F93FF>%s&lt;/font></string>
-    <string name="passport_verification_failed">Authentisierung fehlgeschlagen</string>
+    <string name="passport_verification_failed">Verifizieren fehlgeschlagen</string>
     <string name="passport_verify">Verifizieren</string>
     <string name="passport_verifying_activator_phone">Telefonsicherheit verifizieren…</string>
     <string name="passport_wait_for_sms_prompt">Jetzt neu beginnen? Die Zustellung von Bestätigungsnachrichten kann bis zu 10 Minuten dauern, wenn sich Ihr Telefon in Netzwerkreichweite Ihres Mobilfunkanbieters befindet.</string>

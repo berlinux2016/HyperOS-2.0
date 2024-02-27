@@ -698,7 +698,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="mr_controller_volume_slider">Lautstärkeregler</string>
     <string name="mr_dialog_default_group_name">Gruppe</string>
     <string name="mr_dialog_groupable_header">Gerät hinzufügen</string>
-    <string name="mr_dialog_transferable_header">In einer Gruppe spielen</string>
+    <string name="mr_dialog_transferable_header">In einer Gruppe abspielen</string>
     <string name="mr_user_route_category_name">Geräte</string>
     <string name="msg_send_fail">Daten übertragen fehlgeschlagen</string>
     <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>

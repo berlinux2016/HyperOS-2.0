@@ -86,7 +86,7 @@
     <string name="cancel_restore">Abbrechen…</string>
     <string name="cancel_restore_home">Abbrechen…</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
-    <string name="click_try_to_restore_again">Tippen, um erneut zu versuchen</string>
+    <string name="click_try_to_restore_again">Tippen und erneut versuchen</string>
     <string name="close">Schließen</string>
     <string name="cloud_app_backup_success">App-Sicherung abgeschlossen</string>
     <string name="cloud_app_check_data">Mit Xiaomi Cloud verbinden…</string>
@@ -595,7 +595,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="total_space">Gesamtspeicher: %s</string>
-    <string name="try_again">Tippen, um erneut zu versuchen</string>
+    <string name="try_again">Tippen und erneut versuchen</string>
     <string name="try_continue">Tippen zum Fortfahren</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
