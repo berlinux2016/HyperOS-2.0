@@ -376,6 +376,10 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
     <string name="cit_tele_5x_cali_reset">Zurücksetzen</string>
     <string name="cit_tele_5x_cali_reset_success_toast">Erfolgreich zurückgesetzt</string>
     <string name="cit_tele_5x_cali_success_toast">Kalibrierung erfolgreich</string>
+    <string name="cit_tele_5x_cali_tip">"1. Es wurde bestätigt, dass das Problem durch Ultra-Telefoto-Unschärfe verursacht wird.
+2. Tippen Sie auf die Kalibrierungstaste.
+3. Prüfen Sie, ob sich das Problem der Ultra-Telefoto-Unschärfe vor und nach der Kalibrierung verbessert hat.
+4. Wenn sich das Problem nicht verbessert hat, tippen Sie auf die Taste Zurücksetzen."</string>
     <string name="cit_tele_camera_check_title">Tele-Kamera</string>
     <string name="cit_test_results">Verlauf Testergebnis</string>
     <string name="cit_tfcard_available_szie">Verfügbare Größe</string>
