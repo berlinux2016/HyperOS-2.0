@@ -2003,6 +2003,7 @@
     <string name="pref_super_night_se_desc">Schlechte Lichtverhältnisse im Foto- und Hochformat erkennen, um die Bildqualität automatisch zu verbessern</string>
     <string name="pref_super_night_se_summary">Automatisch schlechte Lichtverhältnissen erkennen und Bildqualität verbessern</string>
     <string name="pref_super_night_se_title">Automatischer Nachtmodus</string>
+    <string name="pref_switch_camera_heic_image_desc">Ein effizienteres Fotoformat, das Speicherplatz spart. Es unterstützt den Ultra HD-Modus, aber keine dynamischen Aufnahmen, das Entfernen normaler Wasserzeichen und einige Drittanbieter-Apps.</string>
     <string name="pref_true_colour_video_mode_description">Nehmen Sie Videos mit Dolby Vision auf, um naturgetreue Details, atemberaubende Farben und einen beeindruckenden Kontrast einzufangen (Diese Funktion ist ggf. nicht mit einigen Drittanbieter-Apps kompatibel.)</string>
     <string name="pref_true_colour_video_mode_introduction">Atemberaubende visuelle Erfahrung, naturgetreue Details und beeindruckender Kontrast</string>
     <string name="pref_true_colour_video_mode_setting_dec">Erfassen Sie lebensechte Details, atemberaubende Farben und beeindruckenden Kontrast im Video- und Pro-Modus. Motion-Tracking-Fokus und H.264-Kodierung werden nicht unterstützt. Diese Funktion ist ggf. nicht mit einigen Apps von Drittanbietern kompatibel.</string>
