@@ -438,7 +438,7 @@
     <string name="passport_account_crop_user_avatar">Foto zuschneiden</string>
     <string name="passport_account_empty_user_name">Name eingeben</string>
     <string name="passport_account_error_all_space_user_name">Name darf nicht leer sein</string>
-    <string name="passport_account_error_invalid_user_name">Name darf kein &lt;, > oder / enthalten</string>
+    <string name="passport_account_error_invalid_user_name">Name darf &lt;, > oder / nicht enthalten</string>
     <string name="passport_account_error_longer_user_name">Name darf nicht länger als %d Zeichen sein</string>
     <string name="passport_account_error_shorter_user_name">Name muss länger als %d Zeichen sein</string>
     <string name="passport_account_error_user_name">Dieser Spitzname ist ungültig. Versuchen Sie einen anderen.</string>
@@ -484,7 +484,7 @@
     <string name="passport_dialog_register_other">Nein, ich erstelle eins</string>
     <string name="passport_doing_query_account">Kontodaten prüfen…</string>
     <string name="passport_error_auth_fail">Sitzung abgelaufen. Erneut anmelden.</string>
-    <string name="passport_error_device_id">Geräte-ID wurde nicht abgerufen</string>
+    <string name="passport_error_device_id">Geräte-ID nicht erhalten</string>
     <string name="passport_error_dup_binded_email">Diese E-Mail-Adresse ist bereits mit einem anderen Xiaomi-Konto verbunden.</string>
     <string name="passport_error_empty_password">Passwort eingeben</string>
     <string name="passport_error_empty_pwd">Passwort darf nicht leer sein</string>
@@ -547,7 +547,7 @@
     <string name="passport_reging">Konto erstellen…</string>
     <string name="passport_register_by_local_phone_long_text">Konto erstellen</string>
     <string name="passport_register_by_local_phone_short_text">Konto erstellen</string>
-    <string name="passport_register_restricted">Zu viele Konten wurden mit dieser Nummer verknüpft. Versuchen Sie eine andere.</string>
+    <string name="passport_register_restricted">Zu viele Konten wurden mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
     <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
     <string name="passport_request_agree">Zulassen</string>
     <string name="passport_request_camera_permission_message">Wir schützen Ihre privaten Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen des Profilfotos)&lt;br>&lt;br>&lt;br>Wenn Sie diese Berechtigungen nicht erteilen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit in den Einstellungen die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>

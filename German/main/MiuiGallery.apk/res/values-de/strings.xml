@@ -1896,7 +1896,7 @@
     <string name="passport_querying_phone_info">Kontodaten anfordern…</string>
     <string name="passport_quick_login_title">Passwort eingeben</string>
     <string name="passport_reging">Konto erstellen…</string>
-    <string name="passport_register_restricted">Zu viele Konten wurden mit dieser Nummer verknüpft. Eine andere versuchen.</string>
+    <string name="passport_register_restricted">Zu viele Konten wurden mit dieser Nummer verbunden. Versuchen Sie eine andere.</string>
     <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
     <string name="passport_resend_ticket">Code erneut senden</string>
     <string name="passport_retry">Erneut versuchen</string>
