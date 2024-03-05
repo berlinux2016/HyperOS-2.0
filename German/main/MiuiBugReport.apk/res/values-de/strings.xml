@@ -436,7 +436,7 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_item_official_progress_hint">Reparaturfortschritt regelmäßig in der Xiaomi Community aktualisieren</string>
     <string name="miui_feedback_main_item_use_guide">Benutzerhandbuch</string>
     <string name="miui_feedback_main_menu_view_privacy">Datenschutzerklärung</string>
-    <string name="miui_feedback_main_menu_view_withdraw_consent">Widerruf Zustimmung</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Zustimmung widerrufen</string>
     <string name="miui_feedback_main_search_footer">Sind das nicht die Fragen, die Sie stellen wollen?</string>
     <string name="miui_feedback_main_search_footer_submit">Feedback übermitteln</string>
     <string name="miui_feedback_main_search_issue">Suchstichwörter eingeben</string>

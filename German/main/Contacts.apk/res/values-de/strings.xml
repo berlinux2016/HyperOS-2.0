@@ -211,7 +211,7 @@
     <string name="bh_withdraw_permission_failure_title">Zustimmung wurde nicht widerrufen</string>
     <string name="bh_withdraw_permission_success">Zustimmung erfolgreich widerrufen</string>
     <string name="bh_withdrawal_of_consent">Zustimmung widerrufen</string>
-    <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Widerruf Zustimmung und Kündigung des Dienstes</string>
+    <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Zustimmung widerrufen und Dienst kündigen</string>
     <string name="bh_withdrawal_of_consent_des">Zustimmung zur Datenschutzerklärung der Mi Carrier-Dienste widerrufen</string>
     <string name="bh_withdrawal_of_consent_long">Zustimmung widerrufen</string>
     <string name="bh_withdrawal_of_consent_result">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung der Mi Carrier-Dienste. Danach werden wir aufhören, Ihre persönlichen Daten zu sammeln und zu verwenden, und Ihre Bestellhistorie dauerhaft löschen. Vergewissern Sie sich, dass alle Ihre Transaktionen abgeschlossen sind, bevor Sie Ihre Zustimmung widerrufen.</string>

@@ -122,13 +122,13 @@
     <string name="cognition_privacy_dialog_positive_button_text">Zustimmen</string>
     <string name="cognition_privacy_dialog_reject_button_text">Ablehnen</string>
     <string name="cognition_privacy_request">Autorisierung</string>
-    <string name="cognition_privacy_revoke">Widerruf Zustimmung</string>
+    <string name="cognition_privacy_revoke">Zustimmung widerrufen</string>
     <string name="cognition_privacy_revoke_and">Das Widerrufen Ihrer Zustimmung deaktiviert diese Funktion</string>
     <string name="cognition_privacy_revoke_dialog_message">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung der geräteeigenen Erkennungsfunktion. Wir werden aufhören, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb eines bestimmten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da die geräteeigene Erkennungsfunktion ihre Dienste basierend auf der Erfassung notwendiger personenbezogener Daten erbringt, wird Ihr Widerruf der Zustimmung als Verweigerung der Annahme dieser Dienste gewertet.</string>
     <string name="cognition_privacy_revoke_dialog_negative">Widerruf</string>
     <string name="cognition_privacy_revoke_dialog_negative_count">Widerruf (%ds)</string>
     <string name="cognition_privacy_revoke_dialog_positive">Abbrechen</string>
-    <string name="cognition_privacy_revoke_dialog_title">Widerruf Zustimmung</string>
+    <string name="cognition_privacy_revoke_dialog_title">Zustimmung widerrufen</string>
     <string name="cognition_privacy_setting">Datenschutz</string>
     <string name="cognition_privacy_statement_show">Datenschutzerklärung anzeigen</string>
     <string name="cognition_privacy_statement_string">Datenschutzerklärung</string>

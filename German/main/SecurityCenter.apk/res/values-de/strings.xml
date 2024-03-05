@@ -1025,9 +1025,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="bh_settings_user_agreement">Nutzervereinbarung</string>
     <string name="bh_settings_withdrawal_dialog_content_text">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung der Yulore Limited.\nDanach werden wir aufhören, Ihre persönlichen Daten zu sammeln und zu verwenden und Ihre Bestellhistorie dauerhaft löschen. Vergewissern Sie sich, dass alle Ihre Transaktionen abgeschlossen sind, bevor Sie Ihre Zustimmung zurückziehen.</string>
     <string name="bh_settings_withdrawal_dialog_not_content_text">Anscheinend möchten Sie Ihre Zustimmung zur Datenschutzerklärung der Yulore Limited zurückziehen.\nEinige Ihrer Transaktionen sind jedoch noch nicht abgeschlossen. Um Ihre Zustimmung zu widerrufen, wenden Sie sich bitte an den Kundensupport, um Ihre Bestellungen abzuschließen.</string>
-    <string name="bh_settings_withdrawal_dialog_title">Widerruf Zustimmung</string>
+    <string name="bh_settings_withdrawal_dialog_title">Zustimmung widerrufen</string>
     <string name="bh_settings_withdrawal_subtitle">Zustimmung zur Datenschutzerklärung der Datennutzung widerrufen</string>
-    <string name="bh_settings_withdrawal_text">Widerruf Zustimmung</string>
+    <string name="bh_settings_withdrawal_text">Zustimmung widerrufen</string>
     <string name="bh_settings_withdrawal_yulore">Zustimmung zur Datenschutzerklärung von Yulore Limited widerrufen</string>
     <string name="bh_settings_yulore_limited_paivacy">Yulore Limited Datenschutzerklärung ansehen</string>
     <string name="bh_settings_yulore_limited_user">Yulore Limited Nutzervereinbarung ansehen</string>
@@ -4640,7 +4640,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_recommend_category">Personalisierung</string>
     <string name="privacy_recommend_summary">Personalisierte Inhaltsempfehlungen erhalten</string>
     <string name="privacy_recommend_title">Personalisierte Inhaltsempfehlungen</string>
-    <string name="privacy_revoke_category_title">Widerruf Zustimmung und Kündigung des Dienstes</string>
+    <string name="privacy_revoke_category_title">Zustimmung widerrufen und Dienst kündigen</string>
     <string name="privacy_revoke_dialog_content">Durch Schalter aus widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Sicherheit. Wir werden die Erfassung Ihrer persönlichen Daten einstellen. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Die Sicherheitsabteilung muss die notwendigen persönlichen Informationen sammeln, um Ihnen grundlegende Dienstleistungen anzubieten. Wenn Sie Ihre Zustimmung zur Datenschutzrichtlinie zurückziehen, wird dies als Verweigerung der Annahme der Dienste auf der Grundlage der gesammelten persönlichen Daten gewertet.</string>
     <string name="privacy_revoke_dialog_content_cn">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis zur Datenschutzerklärung von %1$s. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des eingestellten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\nDa %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen persönlichen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="privacy_revoke_dialog_negetive_text">Abbrechen</string>
@@ -4652,7 +4652,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_revoke_failed_dialog_title">Widerruf nicht möglich</string>
     <string name="privacy_revoke_tip_dialog_content"><Data>Sie können die Webseite von %1$s nur dann weiter nutzen, wenn Sie der neuen Version der Datenschutzerklärung zustimmen. Stimmen Sie der aktualisierten %2$s &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> jetzt zu?</Data></string>
     <string name="privacy_revoke_tip_dialog_title">App nicht nutzbar</string>
-    <string name="privacy_revoke_title">Widerruf Zustimmung</string>
+    <string name="privacy_revoke_title">Zustimmung widerrufen</string>
     <string name="privacy_risk_app">Riskante Apps</string>
     <string name="privacy_risk_app_fuzzy">Apps ohne unscharfe Vorschau</string>
     <string name="privacy_risk_dangerous_bar_title">Berechtigungen mit hohem Risiko</string>

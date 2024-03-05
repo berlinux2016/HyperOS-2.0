@@ -809,7 +809,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="privacy_setting_category_2">HappyCast Datenschutzerklärung</string>
     <string name="privacy_setting_category_3">Berechtigungen</string>
     <string name="privacy_setting_permission_manager">Berechtigungen verwalten</string>
-    <string name="privacy_setting_revoke_lelink_policy">Widerruf Zustimmung zur HappyCast Datenschutzerklärung</string>
+    <string name="privacy_setting_revoke_lelink_policy">Zustimmung zur HappyCast Datenschutzerklärung widerrufen</string>
     <string name="privacy_setting_show_authority">Berechtigungsdetails</string>
     <string name="privacy_setting_show_lelink_law">HappyCast Rechtliche Hinweise anzeigen</string>
     <string name="privacy_setting_show_lelink_policy">HappyCast Datenschutzerklärung anzeigen</string>

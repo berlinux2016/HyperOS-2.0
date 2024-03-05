@@ -622,7 +622,7 @@
     <string name="revoke_privacy_confirm">Widerrufen</string>
     <string name="revoke_privacy_content">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur &lt;a href=app://com.miui.cloudservice.gdpr. license>Datenschutzerklärung&lt;/a> von Gerät finden. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Gerät finden seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von Gerät finden angesehen. Zustimmung jetzt widerrufen?</string>
     <string name="revoke_privacy_failed">Zustimmung widerrufen fehlgeschlagen</string>
-    <string name="revoke_privacy_title">Widerruf Zustimmung</string>
+    <string name="revoke_privacy_title">Zustimmung widerrufen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

@@ -653,7 +653,7 @@
     <string name="pick_folder">Ordner wählen</string>
     <string name="port_range">Port muss zwischen 1024-65535 sein</string>
     <string name="positive_order">Weiter</string>
-    <string name="pre_privacy_recall">Widerruf Zustimmung</string>
+    <string name="pre_privacy_recall">Zustimmung widerrufen</string>
     <string name="pref_permission_allowed">Gewährt</string>
     <string name="pref_permission_manage_key_storage">Zugriff auf Fotos und Dateien auf dem Gerät</string>
     <string name="pref_permission_not_allowed">Nicht gewährt</string>
@@ -668,7 +668,7 @@
     <string name="privacy_recall_confirm_description">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Dateimanager. Wir hören auf, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb des angegebenen Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.</string>
     <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Die folgenden Elemente werden nach Widerruf der Zustimmung endgültig gelöscht:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Alle Elemente auf Mi Drive, einschließlich, aber nicht beschränkt auf Dokumente, private Dateien und gelöschte Elemente.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Geräteberechtigungen, Einstellungen und andere zwischengespeicherte Inhalte.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive Upload- und Download-Verlauf.</string>
     <string name="privacy_recall_success">Zustimmung erfolgreich widerrufen</string>
-    <string name="privacy_recall_title">Widerruf Zustimmung</string>
+    <string name="privacy_recall_title">Zustimmung widerrufen</string>
     <string name="privacy_recalling">Zustimmung widerrufen…</string>
     <string name="private_files">Privat</string>
     <string name="private_folder">Private Dateien</string>

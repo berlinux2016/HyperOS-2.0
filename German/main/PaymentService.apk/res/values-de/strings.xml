@@ -392,7 +392,7 @@
     <string name="mibi_review_model_tips">Der aktuelle Modus ist nur ein Browsing-Modus. Bitte tippen Sie auf die Taste, um den Mi Coin-Service zu nutzen.</string>
     <string name="mibi_review_model_title">Reiner Browsing-Modus</string>
     <string name="mibi_review_model_use_tips">Mi Coin-Service jetzt erleben</string>
-    <string name="mibi_revoke_agreement_failed_msg">Widerruf Zustimmung fehlgeschlagen, erneut versuchen</string>
+    <string name="mibi_revoke_agreement_failed_msg">Zustimmung widerrufen fehlgeschlagen, erneut versuchen</string>
     <string name="mibi_revoke_agreement_msg">Wenn Sie Ihre Zustimmung zur Datenschutzerklärung der Mibibi-App zurückziehen, werden wir die Erfassung Ihrer personenbezogenen Daten einstellen und die von der App erfassten personenbezogenen Daten gemäß dem Gesetz löschen, es sei denn, andere Gesetze und Vorschriften schreiben eine Aufbewahrungsfrist für personenbezogene Daten vor.\nDa die Erbringung der Mi Coin-Dienste auf der Erhebung der erforderlichen personenbezogenen Daten beruht, wird, wenn Sie Ihre Zustimmung zurückziehen, davon ausgegangen, dass Sie nicht damit einverstanden sind, dass wir Ihnen weiterhin Mi Coin-Dienste zur Verfügung stellen, und Ihr Eigentum und Ihre Rechte an der Mi Coin-App aufgeben. Dies verursacht einen gewissen Verlust, und persönliche Daten können nicht wiederhergestellt werden, bitte wählen Sie sorgfältig.</string>
     <string name="mibi_revoke_agreement_title">Risikowarnung</string>
     <string name="mibi_revoke_service_failed_msg">Abmeldung vom Dienst fehlgeschlagen, erneut versuchen</string>
