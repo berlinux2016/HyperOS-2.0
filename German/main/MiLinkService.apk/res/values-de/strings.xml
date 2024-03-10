@@ -216,7 +216,7 @@
     <string name="circulate_headset_error_headset_not_support">Ohrhörer wurden nicht mit diesem Computer verbunden</string>
     <string name="circulate_headset_error_headset_not_worn">Beide Ohrhörer einsetzen und erneut versuchen</string>
     <string name="circulate_headset_error_headset_not_worn_both">Beide Ohrhörer einsetzen und erneut versuchen</string>
-    <string name="circulate_headset_error_remote_host_bluetooth_unenable">Schalten Sie Bluetooth auf Ihrem TV ein\nund melden Sie sich bei Ihrem Xiaomi-Konto an</string>
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">Schalten Sie Bluetooth auf Ihrem TV ein\nund melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="circulate_headset_error_self_upgrade">Diese Aktion wurde nicht abgeschlossen. App zuerst aktualisieren.</string>
     <string name="circulate_headset_error_timeout">Zeitüberschreitung der Verbindung</string>
     <string name="circulate_headset_error_upgrade">Aktualisieren Sie zuerst die App auf Ihrem Zielgerät</string>
@@ -538,7 +538,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="hm_habit_info_list_empty">Muster lernen…</string>
     <string name="hm_help">Hilfe</string>
     <string name="hm_knew">Verstanden</string>
-    <string name="hm_please_login_mi_account">Melden Sie sich bei Ihrem Xiaomi-Konto an, um loszulegen</string>
+    <string name="hm_please_login_mi_account">Melden Sie sich an Ihrem Xiaomi-Konto an, um loszulegen</string>
     <string name="hm_remember">Merken</string>
     <string name="hm_resume_habit">Fortsetzen</string>
     <string name="hm_setup">Einstellungen</string>
@@ -549,7 +549,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="hm_time_recent_week">Diese Woche</string>
     <string name="hm_time_today">Heute</string>
     <string name="hm_time_yesterday">Gestern</string>
-    <string name="hm_toast_log_in">Zuerst bei Ihrem Xiaomi-Konto anmelden</string>
+    <string name="hm_toast_log_in">Zuerst an Ihrem Xiaomi-Konto anmelden</string>
     <string name="hyper_mind_close_warning">Achtung</string>
     <string name="hyper_mind_close_warning_checkbox">Nicht mehr anzeigen</string>
     <string name="hyper_mind_close_warning_content">Wenn Sie diese Funktion deaktivieren, kann HyperMind Ihre Muster nicht mehr lernen oder verwenden. Wenn Sie Ihre Zustimmung zur Datenerfassung widerrufen möchten, tippen Sie &lt;a href=%1$s>hier&lt;/a>.</string>

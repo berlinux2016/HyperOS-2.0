@@ -264,7 +264,7 @@
     <string name="fido2_err_service_exception">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="fido2_err_timeout">Anfrage wurde abgebrochen. Einen Moment warten und erneut versuchen.</string>
     <string name="fido2_fingerprint_auth">Fingerabdruckverifizierung</string>
-    <string name="fido2_fingerprint_auth_desc"><Data>Verwenden Sie Ihren Fingerabdruck, um sich bei Ihrem Xiaomi-Konto anzumelden und Ihre Identität zu verifizieren. &lt;a href=>Mehr erfahren&lt;/a>.</Data></string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Verwenden Sie Ihren Fingerabdruck, um sich an Ihrem Xiaomi-Konto anzumelden und Ihre Identität zu verifizieren. &lt;a href=>Mehr erfahren&lt;/a>.</Data></string>
     <string name="fido2_fingerprint_changed_and_afresh_register">Ihr Gerätefingerabdruck hat sich geändert. Verifizieren Sie Ihr Konto erneut, um die Fingerabdruckverifizierung zu aktivieren.</string>
     <string name="fido2_fingerprint_verify">Fingerabdruckverifizierung</string>
     <string name="fido2_psw_changed_and_afresh_register">Ihr Passwort hat sich geändert. Verifizieren Sie Ihren Fingerabdruck erneut.</string>
@@ -376,7 +376,7 @@
     <string name="login_guard_prompt">Wenn Sie sich das erste Mal von einem neuen Gerät oder einer neuen App an Ihrem Xiaomi-Konto anmelden, ist eine Prüfung Ihrer Rufnummer notwendig.</string>
     <string name="login_notification_button_text">Anmelden</string>
     <string name="login_notification_desc">Cloud-Dienste genießen, Speicherplatz für Familien und mehr</string>
-    <string name="login_notification_title">Bei Ihrem Xiaomi-Konto anmelden</string>
+    <string name="login_notification_title">An Ihrem Xiaomi-Konto anmelden</string>
     <string name="login_or_register_by_other_way">Andere Methode verwenden</string>
     <string name="login_with_other">Mehr Optionen</string>
     <string name="logout_account">Abmelden</string>
@@ -937,13 +937,13 @@
     <string name="provision_skip_underline">Überspringen</string>
     <string name="push_notification_content">Verifizierungscode senden</string>
     <string name="push_notification_title">Sie haben sich von einem unbekannten Gerät angemeldet</string>
-    <string name="push_notify_dialog_message">Ein unbekanntes Gerät wird verwendet, um sich bei Ihrem Xiaomi-Konto anzumelden. Geben Sie diesen Verifizierungscode auf dem Gerät ein. Wenn Sie das nicht waren, ändern Sie Ihr sofort Xiaomi-Konto Passwort. Geben Sie den Verifizierungscode nicht an andere weiter.</string>
+    <string name="push_notify_dialog_message">Ein unbekanntes Gerät wird verwendet, um sich an Ihrem Xiaomi-Konto anzumelden. Geben Sie diesen Verifizierungscode auf dem Gerät ein. Wenn Sie das nicht waren, ändern Sie Ihr sofort Xiaomi-Konto Passwort. Geben Sie den Verifizierungscode nicht an andere weiter.</string>
     <string name="push_notify_dialog_title">Kontoverifizierung</string>
     <string name="pwd_width_phone_number_or_mail_num">Passwort darf nicht Ihre Rufnummer, E-Mail-Adresse oder Xiaomi-Konto-ID enthalten!</string>
     <string name="qrcode_login_entry_text"><Data>Mit einem anderen Gerät angemeldet? Verwenden Sie &lt;a href=>Schnellanmeldung&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>Dieser QR-Code ist abgelaufen. Tippen Sie auf &lt;a href=>Aktualisieren&lt;/a>.</Data></string>
     <string name="qrcode_login_load_retry"><Data>Laden nicht möglich. &lt;a href=>Erneut versuchen&lt;/a>.</Data></string>
-    <string name="qrcode_login_message">Scannen Sie mit dem Mi AI Scanner oder einer anderen Xiaomi-App, um sich bei Ihrem Xiaomi-Konto anzumelden</string>
+    <string name="qrcode_login_message">Scannen Sie mit dem Mi AI Scanner oder einer anderen Xiaomi-App, um sich an Ihrem Xiaomi-Konto anzumelden</string>
     <string name="qrcode_login_title">Scannen zur Anmeldung</string>
     <string name="range_end">Bereichsende</string>
     <string name="range_start">Bereichsanfang</string>

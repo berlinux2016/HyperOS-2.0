@@ -293,7 +293,7 @@
     <string name="nfc_login">Anmelden</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Um die Geräte zu verbinden, schalten Sie erst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Computer verbinden fehlgeschlagen. Stellen Sie sicher, dass WLAN und Bluetooth auf beiden Geräten aktiviert sind.</string>
-    <string name="nfc_no_xiaomi_account">Anscheinend haben Sie sich nicht bei Ihrem Xiaomi-Konto angemeldet. Um Elemente zu übertragen, melden Sie sich bei dem Xiaomi-Konto an, das Sie auf Ihrem Tablet verwenden.</string>
+    <string name="nfc_no_xiaomi_account">Anscheinend haben Sie sich nicht an Ihrem Xiaomi-Konto angemeldet. Um Elemente zu übertragen, melden Sie sich bei dem Xiaomi-Konto an, das Sie auf Ihrem Tablet verwenden.</string>
     <string name="nfc_wifi_and_bluetooth">WLAN und Bluetooth einschalten</string>
     <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>

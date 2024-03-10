@@ -4537,7 +4537,7 @@ Speichern Sie Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente au
 Synchronisieren Sie Ihre Kontakte, Fotos, Videos, die App-Liste, Systemeinstellungen und das Layout des Startbildschirms mit der Cloud."</string>
     <string name="how_backup_title">Wie kann ich Elemente sichern?</string>
     <string name="how_encrypt_content">"Sie können nur lokale Sicherungen verschlüsseln. Hier sind einige Verschlüsselungsmethoden, die Sie verwenden können:
-a) In Einstellungen > Weitere Einstellungen auf der Seite mit Ihren lokalen Sicherungen. Button antippen, um die Verschlüsselung einzuschalten, und bei Ihrem Xiaomi-Konto anmelden. Sicherungen werden danach automatisch verschlüsselt. Nicht vergessen, sich beim Xiaomi-Konto anzumelden, um Elemente aus verschlüsselten Sicherungen wiederherzustellen.
+a) In Einstellungen > Weitere Einstellungen auf der Seite mit Ihren lokalen Sicherungen. Button antippen, um die Verschlüsselung einzuschalten, und an Ihrem Xiaomi-Konto anmelden. Sicherungen werden danach automatisch verschlüsselt. Nicht vergessen, sich beim Xiaomi-Konto anzumelden, um Elemente aus verschlüsselten Sicherungen wiederherzustellen.
 b) Bei Verwendung von Mi PC Suite zur Sicherung von Elementen können Sie dort Verschlüsselungsoptionen nutzen.
 \nHinweis: Vergessen Sie das Passwort für verschlüsselte Sicherungen nicht! Sie werden Ihre Sicherungen sonst nicht mehr entschlüsseln können."</string>
     <string name="how_encrypt_title">Wie verschlüssele ich meine Sicherungen?</string>
@@ -4747,6 +4747,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="interesting_title">Realistische Berührung</string>
     <string name="internal_auto_rotate_title">Ausrichtung für inneren Bildschirm sperren</string>
     <string name="internal_storage">Interner Speicher</string>
+    <string name="international_lyra_account_ap_summary">Tablets und Computer in der Nähe, die an Ihrem Konto angemeldet sind, dürfen sich automatisch einschalten und mit dem Hotspot dieses Geräts verbinden</string>
+    <string name="international_lyra_account_ap_title">Netzwerksynchronisation</string>
+    <string name="international_lyra_auto_connect_summary">Automatisch den Hotspot dieses Geräts einschalten und verbinden, wenn ein Gerät in der Nähe an Ihrem Konto angemeldet ist und eine Internetverbindung benötigt</string>
+    <string name="international_lyra_auto_connect_title">Automatisch mit Hotspot verbinden</string>
     <string name="internet_connectivity_panel_title">Internetkonnektivität</string>
     <string name="invalid_location">Installationspfad ungültig</string>
     <string name="invalid_size_value">Paketgröße wurde nicht berechnet</string>

@@ -669,7 +669,7 @@ dd.MM."</string>
     <string name="miuishare_account_login_confirmation">Am Xiaomi-Konto anmelden</string>
     <string name="miuishare_account_login_ok">Anmelden</string>
     <string name="miuishare_account_need_activate">Weitergabe an Weibo erfordert das Weibo-Konto, das Ihrem Xiaomi-Konto zugeordnet ist. Aktivieren Sie Ihr Xiaomi-Konto, um fortzufahren.</string>
-    <string name="miuishare_account_need_login">Weitergabe an Weibo erfordert das Weibo-Konto, das Ihrem Xiaomi-Konto zugeordnet ist. Melden Sie sich bei Ihrem Xiaomi-Konto an, um fortzufahren.</string>
+    <string name="miuishare_account_need_login">Weitergabe an Weibo erfordert das Weibo-Konto, das Ihrem Xiaomi-Konto zugeordnet ist. Melden Sie sich an Ihrem Xiaomi-Konto an, um fortzufahren.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">Seht euch den Hintergrund an, den ich gefunden habe!</string>
     <string name="miuishare_no_network">Netzwerkverbindung nicht möglich</string>

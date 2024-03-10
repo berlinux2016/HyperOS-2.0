@@ -143,7 +143,7 @@
     <string name="copy_to">Kopieren nach…</string>
     <string name="create_folder">Erstellen</string>
     <string name="create_shortcut_success">Verknüpfung erfolgreich erstellt</string>
-    <string name="cta_function_account_operation">Für die schnelle Anmeldung bei Ihrem Xiaomi-Konto</string>
+    <string name="cta_function_account_operation">Für die schnelle Anmeldung an Ihrem Xiaomi-Konto</string>
     <string name="cta_use_sync_midrive_file">Zur Synchronisation von Dateien mit Mi Drive</string>
     <string name="data_consume_dialog_message">Sie nutzen gerade mobile Daten. Wenn Sie fortfahren, werden %s an Daten genutzt.</string>
     <string name="data_consume_dialog_title">Mobile Daten nutzen?</string>

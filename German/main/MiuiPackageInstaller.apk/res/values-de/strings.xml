@@ -34,6 +34,7 @@
     <string name="aleady_understand_the_app_is_hight_risk">Verstehen Sie, dass diese App Sicherheitsrisiken bergen kann.</string>
     <string name="allow_current_install">Einmal erlauben</string>
     <string name="allowed_this_time">Einmal erlauben</string>
+    <string name="already_open_enhance">Erhöhter Schutz ist an</string>
     <string name="already_understand_the_risks_market_unknown">Ich verstehe, dass dieses Installationspaket nicht auf Sicherheitsprobleme getestet wurde</string>
     <string name="already_understood_bundle_app">Ich verstehe die Risiken von gebündelten Apps</string>
     <string name="anonymous_source_continue">Fortfahren</string>
@@ -156,6 +157,7 @@
     <string name="dialog_install_source">Quelle: %1$s</string>
     <string name="dialog_open_security_mode_on_button_msg">Verstanden</string>
     <string name="dialog_security_mode_guide_cancel">Abbrechen</string>
+    <string name="dialog_security_mode_guide_child_msg">Aktivieren Sie Mi Protect, um die Privatsphäre von Minderjährigen zu schützen, riskante Apps zu erkennen und bösartige Inhalte zu vermeiden.</string>
     <string name="dialog_security_mode_guide_delete_apps_msg">Sie haben mehrere Apps gelöscht, die Sie nie benutzt haben. Wenn Sie versehentlich unerwünschte Apps oder Werbung heruntergeladen haben, schalten Sie Mi Protect ein, um zu verhindern, dass Apps ohne Ihre Zustimmung andere Apps herunterladen und installieren.</string>
     <string name="dialog_security_mode_guide_elder_msg">Mi Protect Älterenschutz einschalten, um Ihnen Datenschutz und Sicherheit zu gewährleisten</string>
     <string name="dialog_security_mode_guide_open">Einschalten</string>
@@ -169,6 +171,20 @@
     <string name="elder_mode_subtitle">Schutz vor der Installation riskanter Apps, Datenschutzverletzungen und Betrug</string>
     <string name="elder_mode_title">Älterenschutz</string>
     <string name="empty_app">Kein Apps</string>
+    <string name="enhance_mode_close_feedback">Danke für die Nutzung des erhöhten Schutzes</string>
+    <string name="enhance_mode_feedback_reason">Warum schalten Sie diese Funktion aus?</string>
+    <string name="enhance_safe_guard_mode_description">Installieren Sie nur Apps, die GetApps-Tests bestanden haben, um Ihr Gerät vor Viren und Malware zu schützen</string>
+    <string name="enhance_safe_guard_title">Erhöhten Schutz aktivieren, um riskante Apps zu vermeiden</string>
+    <string name="enhance_safe_mode">Erhöhter Schutz</string>
+    <string name="enhance_safe_mode_open_description">Wenn der erhöhte Schutz aktiviert ist, können Sie nur Apps installieren, die GetApps-Tests bestanden haben, um Ihr Gerät vor Viren und Malware zu schützen</string>
+    <string name="enhance_safe_mode_title">Erhöhter Schutz</string>
+    <string name="enhanced_protection_des_1">Erhöhter Schutz ist eine erweiterte Funktion von Mi Protect. Sie schützt Ihr Gerät durch zusätzliche Maßnahmen gegen Viren und Malware.</string>
+    <string name="enhanced_protection_f_1_demo">Am 1. Februar 2023 installierte Herr Chen eine App, über die Betrüger ihn dazu brachten, mehrfach Geld zu überweisen. Herr Chen verlor insgesamt 78.238 CNY.</string>
+    <string name="enhanced_protection_f_1_des">Ohne erhöhten Schutz könnten bösartige Apps Sie betrügen.</string>
+    <string name="enhanced_protection_f_1_title">Schutz vor Betrug</string>
+    <string name="enhanced_protection_f_2_des">Wenn der erhöhte Schutz deaktiviert ist, können bösartige Apps auf Ihre persönlichen Daten zugreifen.</string>
+    <string name="enhanced_protection_f_2_title">Datenschutz</string>
+    <string name="enhanced_protection_f_3_title">Systemstabilität</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_a11y_label">Fehler: ungültig</string>
@@ -221,6 +237,7 @@
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="four_automatic_detection">4 automatisierte Tests</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -253,7 +270,9 @@
     <string name="isntall_failed_verification">Dieses Installationspaket wurde nicht geprüft. Diese App ist evtl. nicht mit der aktuellen Version von Android kompatibel.</string>
     <string name="isntall_failed_verification_resolve_uggestion">Versuchen Sie, einen Ersatz für diese App von einer vertrauenswürdigen Quelle zu finden</string>
     <string name="learn_bundle_app_install">Mehr erfahren</string>
+    <string name="learn_enhance_safe_guard">Mehr erfahren</string>
     <string name="learn_more">Mehr erfahren</string>
+    <string name="let_me_think_again">Weitermachen</string>
     <string name="lock_finger">Fingerabdruck für die Installation verifizieren</string>
     <string name="lock_screen_authrioze_subtitle_password">Mit Bildschirmsperre autorisieren</string>
     <string name="lock_screen_password_authrioze">Bildschirmsperre für die Installation verifizieren</string>
@@ -433,6 +452,8 @@
     <string name="only_get_app_for_mi_store">Laden Sie Apps nur von GetApps und verifizierten Entwickler herunter</string>
     <string name="only_get_app_for_mi_store_sub">Diese App hat unsere strengen Sicherheitsprüfungen bestanden</string>
     <string name="open">Einschalten</string>
+    <string name="open_and_exit">Einschalten</string>
+    <string name="open_enhanced_protection">Erhöhten Schutz einschalten</string>
     <string name="passed_security_test">Xiaomi-Sicherheitstests bestanden</string> 
     <string name="passport_access_denied">Zugriff verweigert</string>
     <string name="passport_account_crop_user_avatar">Foto zuschneiden</string>
@@ -665,6 +686,7 @@
     <string name="permission_name_write_external_storage">Elemente im Gerätespeicher speichern</string>
     <string name="please_input_install_app_name">App-Name eingeben</string>
     <string name="please_input_phone_password">Bildschirmsperre eingeben</string>
+    <string name="please_input_phone_password_short">Bildschirmsperre eingeben</string>
     <string name="pref_ads">Empfehlungen</string>
     <string name="pref_key_about_privacy_title">Datenschutzerklärung</string>
     <string name="pref_key_app_appeal">App anfordern</string>
@@ -672,7 +694,9 @@
     <string name="pref_key_shelf_app">App bei GetApps auflisten</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="prepare_install">Installation vorbereiten…</string>
+    <string name="professional_review">Professionelle Prüfer</string>
     <string name="prohibit_isntall">Zur Sperrliste hinzufügen</string>
+    <string name="protect_privacy_and_security">Datenschutz</string>
     <string name="pure_function_introduction">Funktionen sicherer Modus</string>
     <string name="pure_guarding">Eingeschaltet</string>
     <string name="pure_introduction_des1">Apps aus unbekannten Quellen vor der Installation auf mögliche Sicherheitsrisiken prüfen</string>
@@ -884,6 +908,7 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="sure_close_enhance_safe_guard">Erhöhten Schutz jetzt ausschalten?</string>
     <string name="sure_install">Diese App jetzt installieren?</string>
     <string name="sure_ok">Verstanden</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
@@ -967,7 +992,6 @@
     <string name="unlock_failed">Interner Fehler</string>
     <string name="unrecorded_app_dialog_tips_clickable_msg_default">Erfahren Sie mehr über die Richtlinien zur App-Auflistung</string>
     <string name="unrecorded_app_dialog_tips_help">Wenn Sie dieser App vertrauen, drücken Sie die Schaltfläche ︙ in der oberen rechten Ecke und wählen Sie \"Einmal erlauben\"</string>
-    <string name="unrecorded_app_dialog_tips_msg_default">Diese App wurde nicht in Übereinstimmung mit den Richtlinienanforderungen aufgelistet. Eventuell können Sie den Entwickler dieser App nicht kontaktieren, falls Ihre Interessen verletzt werden. Installieren Sie diese App mit Bedacht. Erfahren Sie mehr über die Richtlinien zur App-Auflistung.</string>
     <string name="unrecorded_app_dialog_tips_title_default">Risiken erkannt</string>
     <string name="unrecorded_app_tips_des_1_clickable_default">Erfahren Sie mehr über die Richtlinien zur App-Auflistung</string>
     <string name="unrecorded_app_tips_des_1_default">Apps, die ohne die erforderlichen Konformitätsinformationen geliefert werden, können ein Sicherheitsrisiko darstellen. Diese App wurde nicht von Xiaomi getestet oder geprüft. Laden Sie sie mit Bedacht herunter. Erfahren Sie mehr über die Richtlinien zur App-Auflistung.</string>
@@ -977,11 +1001,13 @@
     <string name="unrecorded_risk_app">Risiken erkannt</string>
     <string name="unrecorded_risk_app_description">Installation dieser App ist in Übereinstimmung mit den einschlägigen gesetzlichen Bestimmungen verboten</string>
     <string name="unrecorded_risk_app_description_2">Als Entwickler können Sie Beschwerde einreichen</string>
+    <string name="unrecorded_risk_app_description_temp">Der Entwickler hat die Auflistung dieser App nicht an die Aufsichtsbehörden weitergegeben. Evtl. können Sie den Entwickler nicht kontaktieren, falls Ihre Interessen verletzt werden.</string>
     <string name="untrusted_external_source_title">\"%1$s\" erlauben, Apps zu installieren?</string>
     <string name="untrusted_external_source_warning_summary">Ihr Gerät und Ihre persönlichen Daten sind anfällig für Angriffe durch installierte Apps aus unbekannten Quellen. Indem Sie die Installation von Apps aus dieser Quelle zulassen, akzeptieren Sie die Verantwortung für jegliche Schäden oder Datenverluste, die während der Nutzung dieser Apps auftreten können.</string>
     <string name="update_start">Aktualisieren</string>
     <string name="uri_no_permission">Datei wurde nicht gelesen, Berechtigung verweigert</string>
     <string name="user_is_not_allowed_dlg_text">Aktueller Benutzer darf diese Deinstallation nicht durchführen.</string>
+    <string name="using_enhanced_protection">Sichern Sie Ihr Gerät mit \nerhöhtem Schutz</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="verification_word">Verifizieren</string>

@@ -47,7 +47,7 @@
     <string name="add_body_weight_record_button">Gewichtsdaten hinzufügen</string>
     <string name="add_data_source">Datenquellen hinzufügen</string>
     <string name="add_data_source_description">Von anderen Geräten generierte Gesundheitsdaten zu Xiaomi Health hinzufügen, um die Genauigkeit der Statistik zu erhöhen und mehr relevante Gesundheitsratschläge zu erhalten.</string>
-    <string name="add_data_source_login_and_open_sync">Melden Sie sich bei Ihrem Xiaomi-Konto an und schalten Sie die Synchronisation mit der Cloud ein, um Datenquellen hinzuzufügen.</string>
+    <string name="add_data_source_login_and_open_sync">Melden Sie sich an Ihrem Xiaomi-Konto an und schalten Sie die Synchronisation mit der Cloud ein, um Datenquellen hinzuzufügen.</string>
     <string name="add_data_source_open_sync">Schalten Sie die Synchronisation mit der Cloud ein, um Datenquellen hinzuzufügen.</string>
     <string name="add_data_source_process">Wie man eine Datenquelle hinzufügt</string>
     <string name="add_data_source_support_step">Dieses Gerät erzeugt keine Schrittzahldaten. Sie können versuchen, auf andere Datenquellen umzuschalten.</string>

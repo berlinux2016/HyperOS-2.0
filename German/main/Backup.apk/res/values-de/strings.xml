@@ -460,7 +460,7 @@
     <string name="new_britem_doc">Dateien</string>
     <string name="new_britem_other">Andere</string>
     <string name="new_britem_pic">Bilder</string>
-    <string name="new_confirm_enable_encrypt_content">Verschlüsselte Sicherungen sind mit Ihrem Xiaomi-Konto verknüpft. Sie müssen sich bei Ihrem Xiaomi-Konto anmelden, um Elemente aus solchen Sicherungen wiederherzustellen.</string>
+    <string name="new_confirm_enable_encrypt_content">Verschlüsselte Sicherungen sind mit Ihrem Xiaomi-Konto verknüpft. Sie müssen sich an Ihrem Xiaomi-Konto anmelden, um Elemente aus solchen Sicherungen wiederherzustellen.</string>
     <string name="new_confirm_enable_encrypt_title">Verschlüsseln</string>
     <string name="new_local_button_backup">Sichern</string>
     <string name="new_local_button_restore">Wiederherstellen</string>

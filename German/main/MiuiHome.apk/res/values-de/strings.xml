@@ -698,6 +698,7 @@
     <string name="switch_personal_assistant_app_vault">Infoassistent</string>
     <string name="switch_personal_assistant_google">Google Assistant</string>
     <string name="switch_personal_assistant_none">Nichts</string>
+    <string name="switch_personal_assistant_summary">Wischen Sie auf dem Startbildschirm nach rechts, um Google Discover zu öffnen</string>
     <string name="switch_screen_button_order">Tasten spiegeln</string>
     <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
     <string name="system_sdk_disabled_toast">System-SDK wurde deaktiviert. Zuerst aktivieren.</string>
