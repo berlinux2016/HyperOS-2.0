@@ -42,8 +42,8 @@
         <item quantity="one">%1$d kcal</item>
     </plurals>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Jeden Tag mindestens %1$d Schritte gehen</item>
-        <item quantity="one">Jeden Tag mindestens %1$d Schritt gehen</item>
+        <item quantity="other">Täglich mindestens %1$d Schritte gehen</item>
+        <item quantity="one">Täglich mindestens %1$d Schritt gehen</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d Tage</item>

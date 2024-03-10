@@ -1712,8 +1712,8 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_loop_desc_desk_walpaper">Eigene Diashow für Startbildschirm erstellen</string>
     <string name="wallpaper_loop_desc_lock_walpaper">Eigene Diashow für Sperrbildschirm erstellen</string>
     <string name="wallpaper_loop_interval_15min">Alle 15 Minuten</string>
-    <string name="wallpaper_loop_interval_1d">Jeden Tag</string>
-    <string name="wallpaper_loop_interval_1h">Jede Stunde</string>
+    <string name="wallpaper_loop_interval_1d">Täglich</string>
+    <string name="wallpaper_loop_interval_1h">Stündlich</string>
     <string name="wallpaper_loop_interval_desc">Zeitintervall für Diashow festlegen</string>
     <string name="wallpaper_loop_interval_title">Hintergrund ändern</string>
     <string name="wallpaper_loop_manage">Verwalten</string>

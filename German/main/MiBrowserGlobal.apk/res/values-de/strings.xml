@@ -2142,7 +2142,7 @@
     <string name="skip">Überspringen</string>
     <string name="skip_ad">Überspringen</string>
     <string name="skip_current_version">Diese Version überspringen</string>
-    <string name="sku_price_everymonth">%1$s jeden Monat</string>
+    <string name="sku_price_everymonth">%1$s monatlich</string>
     <string name="slide_card">Wischen für mehr</string>
     <string name="slide_next_video_text">"Nächstes Video: "</string>
     <string name="smart_subtitle">Erhalten Sie eine KI-generierte Zusammenfassung des Artikelinhalts, um die wichtigsten Punkte auf einen Blick zu sehen.</string>

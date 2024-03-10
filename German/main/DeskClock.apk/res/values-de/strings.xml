@@ -81,7 +81,7 @@
     <string name="bedtime_wake_up_time_remind">Ein Wecker klingelt um diese Zeit</string>
     <string name="bedtime_wake_up_time_setting">Wann stehen Sie auf?</string>
     <string name="bedtime_welcome">Schlafenszeit verwalten</string>
-    <string name="bedtime_welcome_desc">Die Einhaltung eines geregelten und gleichmäßigen Schlafplans kommt Ihrer Gesundheit zugute. Setzen Sie Erinnerungen, die Ihnen helfen, jeden Tag pünktlich ins Bett zu gehen und aufzustehen.</string>
+    <string name="bedtime_welcome_desc">Die Einhaltung eines geregelten und gleichmäßigen Schlafplans kommt Ihrer Gesundheit zugute. Setzen Sie Erinnerungen, die Ihnen helfen, täglich pünktlich ins Bett zu gehen und aufzustehen.</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="cancel">Abbrechen</string>
     <string name="channel_name_alarm">Wecker</string>

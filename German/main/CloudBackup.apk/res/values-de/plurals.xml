@@ -35,7 +35,7 @@
     </plurals>
     <plurals name="cloud_backup_detail_frequence_day">
         <item quantity="other">Alle %d Tage sichern</item>
-        <item quantity="one">Jeden Tag sichern</item>
+        <item quantity="one">Täglich sichern</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s Sicherungen (%2$s)</item>

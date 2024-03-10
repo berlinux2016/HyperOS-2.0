@@ -1663,7 +1663,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_icon_content_description">Fehler</string>
     <string name="evening">Nachmittag</string>
-    <string name="every_day">Jeden Tag</string>
+    <string name="every_day">Täglich</string>
     <string name="ew_alert_arrive_location">Seismische Welle in %s angekommen</string>
     <string name="ew_alert_dial_text">Notfallkontakt anrufen</string>
     <string name="ew_alert_earthquake_center_title">Epizentrum</string>
@@ -5025,10 +5025,10 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="signal_exception_summary">In diesem Bereich ist keine Netzwerkverbindung möglich</string>
     <string name="signal_exception_title">Signalstärke testen</string>
     <string name="signed_rule">Regeln</string>
-    <string name="signed_rule_one">1. 10, 20 oder 28 Tage hintereinander jeden Monat anmelden, um einen Xunyou-Boost für 1, 2 oder 3 Tage zu erhalten.</string>
-    <string name="signed_rule_one_new">%1$d. %2$d, %3$d oder %4$d Tage hintereinander jeden Monat anmelden, um einen Xunyou-Boost für %5$d, %6$d oder %7$d Tage zu erhalten.</string>
-    <string name="signed_rule_three">3. Anmeldetage werden zu Beginn eines jeden Monats zurückgesetzt. Die verbliebenen Tage werden nicht übernommen.</string>
-    <string name="signed_rule_three_new">%1$d. Anmeldetage werden zu Beginn eines jeden Monats zurückgesetzt. Die verbliebenen Tage werden nicht übernommen.</string>
+    <string name="signed_rule_one">1. 10, 20 oder 28 Tage hintereinander monatlich anmelden, um einen Xunyou-Boost für 1, 2 oder 3 Tage zu erhalten.</string>
+    <string name="signed_rule_one_new">%1$d. %2$d, %3$d oder %4$d Tage hintereinander monatlich anmelden, um einen Xunyou-Boost für %5$d, %6$d oder %7$d Tage zu erhalten.</string>
+    <string name="signed_rule_three">3. Anmeldetage werden monatlich zu Beginn zurückgesetzt. Die verbliebenen Tage werden nicht übernommen.</string>
+    <string name="signed_rule_three_new">%1$d. Anmeldetage werden monatlich zu Beginn zurückgesetzt. Die verbliebenen Tage werden nicht übernommen.</string>
     <string name="signed_rule_two">2. Sie können nur einen Xunyou-Boost pro Monat erhalten.</string>
     <string name="signed_rule_two_new">%d. Sie können nur einen Xunyou-Boost pro Monat erhalten.</string>
     <string name="sim_car_absent__tip">Bildschirmsperre bestätigen, um den Verloren-Modus auszuschalten</string>

@@ -95,7 +95,7 @@
     <string name="carousel_declaration_title">Wunderschöne Hintergründe abonnieren</string>
     <string name="carousel_declaration_title_new">Täglich neue Hintergründe</string>
     <string name="carousel_suggest">Achtung</string>
-    <string name="carousel_suggest1">Jeden Tag kostenlos neue Hintergründe direkt auf den Sperrbildschirm erhalten</string>
+    <string name="carousel_suggest1">Täglich kostenlos neue Hintergründe direkt auf den Sperrbildschirm erhalten</string>
     <string name="carousel_suggest2">Ist das Hintergrundkarussell eingeschaltet?</string>
     <string name="category_subscribe_failed">Abonnieren nicht möglich</string>
     <string name="change_time">Hintergründe wechseln</string>
@@ -157,8 +157,8 @@
     <string name="cw_wallpaper_manager">Hintergründe verwalten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-    <string name="day">Jeden Tag</string>
-    <string name="declaration">Jeden Tag neue Hintergründe direkt auf Ihren Sperrbildschirm erhalten</string>
+    <string name="day">Täglich</string>
+    <string name="declaration">Täglich neue Hintergründe direkt auf Ihren Sperrbildschirm erhalten</string>
     <string name="declaration_lockscreen_title">Täglich neue Hintergründe erhalten</string>
     <string name="declaration_title">Allgemeine Geschäftsbedingungen</string>
     <string name="delete_pic">Bild löschen</string>
@@ -254,7 +254,7 @@
     <string name="get_account_no_permission">Hintergrundkarussell den Zugriff auf Konten auf diesem Gerät gestatten, bevor Sie sich anmelden.</string>
     <string name="goto_confirm">Einstellungen</string>
     <string name="history_list_no_data">Keine Einträge hier</string>
-    <string name="hour_1">Jede Stunde</string>
+    <string name="hour_1">Stündlich</string>
     <string name="hour_3">Alle 3 Stunden</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="idbct_desc">Hintergrundkarussell nach Netzwerktypen anpassen</string>
@@ -347,8 +347,8 @@
     <string name="loop_service_dlg_content">Diashow blättert automatisch durch Sperrbildschirmbilder, die Ihren Vorlieben entsprechen, inkl. Themen wie Reisen, Essen, Kunst, Unterhaltung und mehr. Sperrbildschirm-Diashow einschalten und dieses Bild hinzufügen?</string>
     <string name="loop_service_dlg_negative">Nicht jetzt</string>
     <string name="loop_service_dlg_positive">Einschalten</string>
-    <string name="loop_service_dlg_positive_toast_day">Diashow ist an. Hintergrund wird jeden Tag gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
-    <string name="loop_service_dlg_positive_toast_hour_1">Diashow ist an. Hintergrund wird jede Stunde gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
+    <string name="loop_service_dlg_positive_toast_day">Diashow ist an. Hintergrund wird täglich gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
+    <string name="loop_service_dlg_positive_toast_hour_1">Diashow ist an. Hintergrund wird stündlich gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
     <string name="loop_service_dlg_positive_toast_hour_3">Diashow ist an. Hintergrund wird alle 3 Stunden gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
     <string name="loop_service_dlg_positive_toast_minutes_15">Diashow ist an. Hintergrund wird alle 15 Minuten gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
     <string name="loop_service_dlg_positive_toast_minutes_5">Diashow ist an. Hintergrund wird alle 5 Minuten gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
@@ -885,8 +885,8 @@ dd.MM."</string>
     <string name="subscribe_item_checked">Abonniert</string>
     <string name="subscribe_item_unchecked">Nicht abonniert</string>
     <string name="subscribe_success_content_per_5_minutes">Hintergrund alle 5 Minuten wechseln</string>
-    <string name="subscribe_success_content_per_day">Hintergrund jeden Tag ändern</string>
-    <string name="subscribe_success_content_per_hour">Hintergrund jede Stunde ändern</string>
+    <string name="subscribe_success_content_per_day">Hintergrund täglich ändern</string>
+    <string name="subscribe_success_content_per_hour">Hintergrund stündlich ändern</string>
     <string name="subscribe_success_content_per_quarter">Hintergrund alle 15 Minuten ändern</string>
     <string name="subscribe_success_content_per_three_hour">Hintergrund alle 3 Stunden ändern</string>
     <string name="subscribe_success_content_per_unlock">Hintergrund jedes Mal beim Sperren des Geräts ändern</string>

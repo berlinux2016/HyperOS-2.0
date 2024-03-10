@@ -32,13 +32,13 @@
         <item>Nichts</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Jeden Tag</item>
+        <item>Täglich</item>
         <item>Montag-Freitag</item>
         <item>Samstag-Sonntag</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Jeden Tag</item>
+        <item>Täglich</item>
         <item>Montag-Freitag</item>
         <item>Samstag-Sonntag</item>
         <item>Benutzerdefiniert</item>
