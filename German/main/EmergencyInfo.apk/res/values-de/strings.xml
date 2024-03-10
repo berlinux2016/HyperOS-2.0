@@ -114,7 +114,7 @@
     <string name="battery_info_status_charging_dock">Laden</string>
     <string name="battery_info_status_charging_fast">Schnellladen</string>
     <string name="battery_info_status_charging_slow">Langsam Laden</string>
-    <string name="battery_info_status_charging_wireless">Kabellos laden</string>
+    <string name="battery_info_status_charging_wireless">Drahtlos laden</string>
     <string name="battery_info_status_discharging">Nicht laden</string>
     <string name="battery_info_status_full">Voll</string>
     <string name="battery_info_status_full_charged">Voll geladen</string>
@@ -319,7 +319,7 @@ auswählen"</string>
     <string name="emergency_info_footer">Hinzufügen von medizinischen Daten und Notfallkontakten kann den Ersthelfern in einem Notfall helfen.\n\nJeder kann diese Daten am Sperrbildschirm lesen und Ihre Kontakte anwählen, indem er auf deren Namen tippt, ohne Ihr Telefon zu entsperren.</string>
     <string name="enable_adb">USB-Debugging</string>
     <string name="enable_adb_summary">Debug-Modus bei Anschluss von USB</string>
-    <string name="enable_adb_wireless">Kabelloses Debugging</string>
+    <string name="enable_adb_wireless">Drahtloses Debugging</string>
     <string name="enable_adb_wireless_summary">Debug-Modus bei WLAN-Verbindung</string>
     <string name="enable_freeform_support">Freiform-Fenster aktivieren</string>
     <string name="enable_freeform_support_summary">Unterstützung für experimentelle Freiform-Fenster aktivieren.</string>

@@ -297,7 +297,7 @@
     <string name="connect_settings_base">Interkonnektivität</string>
     <string name="connect_settings_category_connection_car">Fahrzeugmerkmale</string>
     <string name="connect_settings_category_personal_device">Persönliche Geräte</string>
-    <string name="connect_settings_communication_sharing">Kabelloses Tethering</string>
+    <string name="connect_settings_communication_sharing">Drahtloses Tethering</string>
     <string name="connect_settings_connect_permission">Interkonnektivität und Berechtigungen</string>
     <string name="connect_settings_connect_privacy">Datenschutz</string>
     <string name="connect_settings_connection_service">Xiaomi Interkonnektivität</string>
@@ -362,7 +362,7 @@
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Verbinden Sie sowohl Ihr Mobilgerät als auch Ihren TV mit demselben WLAN.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g> Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. &lt;a href=milink://com.milink.service/specification>\"Hilfe\"&lt;/a> anzeigen, um mehr zu erfahren.</Data></string>
     <string name="dialog_only_suport_content">Fotos, Videos, oder Musik streamen</string>
     <string name="dialog_open_wifi_bt">Einschalten</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">Stellen Sie sicher, dass auf dem Zielgerät kabelloses Casting aktiviert ist.\nSehen Sie sich die Hilfe an, wenn Sie Probleme mit dem Verbinden haben.</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">Stellen Sie sicher, dass auf dem Zielgerät drahtloses Casting aktiviert ist.\nSehen Sie sich die Hilfe an, wenn Sie Probleme mit dem Verbinden haben.</string>
     <string name="dialog_recent_connected">Zuletzt</string>
     <string name="dialog_retry">Erneut versuchen</string>
     <string name="dialog_scan_message">%1$d. Verbinden Sie sowohl Ihr Mobilgerät als auch Ihren TV mit demselben WLAN.\n\n%2$d. Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. \"Hilfe\" anzeigen, um mehr zu erfahren.</string>
@@ -371,9 +371,9 @@
     <string name="dialog_scanning_close_dual_wifi_global">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um zu übertragen. Jetzt ausschalten?</string>
     <string name="dialog_scanning_close_tethering">Hotspot ausschalten, um das Casting durchzuführen. Hotspot jetzt ausschalten?</string>
     <string name="dialog_scanning_device">Nach Geräten in der Nähe suchen…</string>
-    <string name="dialog_scanning_precondition">WLAN und Bluetooth auf dem Telefon einschalten, um die kabellose Anzeige zu verwenden.</string>
-    <string name="dialog_scanning_precondition_new_china">WLAN, Bluetooth und Standortdienste einschalten, um die kabellose Anzeige zu verwenden. Jetzt einschalten?</string>
-    <string name="dialog_scanning_precondition_new_global">WLAN und Standortdienste einschalten, um die kabellose Anzeige zu verwenden. Jetzt einschalten?</string>
+    <string name="dialog_scanning_precondition">WLAN und Bluetooth auf dem Telefon einschalten, um die drahtlose Anzeige zu verwenden.</string>
+    <string name="dialog_scanning_precondition_new_china">WLAN, Bluetooth und Standortdienste einschalten, um die drahtlose Anzeige zu verwenden. Jetzt einschalten?</string>
+    <string name="dialog_scanning_precondition_new_global">WLAN und Standortdienste einschalten, um die drahtlose Anzeige zu verwenden. Jetzt einschalten?</string>
     <string name="dialog_select_tv">Gerät wählen (%1$d)</string>
     <string name="dialog_show_help">Hilfe</string>
     <string name="disconnect">Casting stoppen</string>
@@ -488,7 +488,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="help_page_text_13">Verbinden mit einem externen Gerät nicht möglich?</string>
     <string name="help_page_text_13_desc_1">"%1$d. Stellen Sie sicher, dass Ihr Mobilgerät und der externe Monitor mit demselben WLAN oder Hotspot verbunden sind.
 %2$d. Stellen Sie sicher, dass die Netzwerkumgebung stabil ist. Falls nicht, versuchen Sie, Ihren Router neu zu starten oder wechseln Sie zu einem %3$d-GHz-Netzwerkband.
-%4$d. Wenn Sie auf ein Xiaomi TV übertragen, schalten Sie kabelloses Casting auf dem TV ein. Bleiben Sie während der Verbindung auf der Casting-Seite.
+%4$d. Wenn Sie auf ein Xiaomi TV übertragen, schalten Sie drahtloses Casting auf dem TV ein. Bleiben Sie während der Verbindung auf der Casting-Seite.
 %5$d. Einige große öffentliche LANs, wie die von Unternehmen und Schulen, unterstützen nicht die Möglichkeit, Geräte im selben LAN zu erkennen."</string>
     <string name="help_page_text_13_desc_2">Einige TVs verwenden während des Castings eine Nicht-LAN-Verbindung. Es ist normal, dass bei diesen Geräten die Netzwerkverbindung unterbrochen wird. Normalerweise wird die Verbindung innerhalb von %1$d-%2$d Sekunden nach Ende dem Casting wiederhergestellt.</string>
     <string name="help_page_text_13_summary_1">Verbindung zu externem Gerät fehlgeschlagen</string>
@@ -508,7 +508,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="help_page_text_26">Philips Kundendienst: 400-880-0008</string>
     <string name="help_page_text_28">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie die Taste [MENU] auf der Fernbedienung drücken und dann Einstellungen > Verbindung > Netzwerk > Mehrere Bildschirme wählen.</string>
     <string name="help_page_text_29">TPV Kundendienst: 400-887-8007</string>
-    <string name="help_page_text_31">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie die Taste [SMART] auf der Fernbedienung drücken und dann Casting > Kabellose Anzeige wählen. Einige Modelle unterstützen auch das Casting für Spiele: Hi Cast > Cast Games > Android.</string>
+    <string name="help_page_text_31">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie die Taste [SMART] auf der Fernbedienung drücken und dann Casting > Drahtlose Anzeige wählen. Einige Modelle unterstützen auch das Casting für Spiele: Hi Cast > Cast Games > Android.</string>
     <string name="help_page_text_32">Hisense Kundendienst: 400-611-1111</string>
     <string name="help_page_text_34">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen der Modelle können Sie Apps > Casting > Android-Gerät > Miracast auswählen.</string>
     <string name="help_page_text_35">Skyworth Kundendienst: 95105555</string>
@@ -518,14 +518,14 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="help_page_text_41">Panasonic Kundendienst: 400-881-1315</string>
     <string name="help_page_text_43">Prüfen Sie die Einstellungen Ihres TV, um sicherzustellen, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt.</string>
     <string name="help_page_text_44">Changhong Kundendienst: 400-811-1666</string>
-    <string name="help_page_text_46">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie Apps > Kabellose Anzeige auswählen.</string>
+    <string name="help_page_text_46">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie Apps > Drahtlose Anzeige auswählen.</string>
     <string name="help_page_text_47">TCL Kundendienst: 400-812-3456</string>
     <string name="help_page_text_49">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Um diese Funktion einzuschalten, gehen Sie zu Meine Apps > WLAN-Anzeige.</string>
     <string name="help_page_text_50">AODIN Kundendienst: 400-810-5858</string>
-    <string name="help_page_text_52">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie diese Funktion einschalten unter Einstellungen > Netzwerk > Mehrere Bildschirme > Kabellose Anzeige.</string>
+    <string name="help_page_text_52">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie diese Funktion einschalten unter Einstellungen > Netzwerk > Mehrere Bildschirme > Drahtlose Anzeige.</string>
     <string name="help_page_text_53">LeEco Kundendienst: 10109000</string>
-    <string name="help_page_text_55">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Kabellose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. Lesen Sie folgende Informationen, um zu erfahren, wie Sie Miracast aktivieren können. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
-    <string name="help_page_text_55_global">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Kabellose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
+    <string name="help_page_text_55">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. Lesen Sie folgende Informationen, um zu erfahren, wie Sie Miracast aktivieren können. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
+    <string name="help_page_text_55_global">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
     <string name="help_page_text_end">Wenn Ihre Gerätemarke hier nicht aufgeführt ist, wenden Sie sich an den Hersteller, um mehr über die Casting-Funktion zu erfahren.</string>
     <string name="hm_always">Merken</string>
     <string name="hm_conflict_title">Angehaltenes Muster: %1$s</string>
@@ -840,7 +840,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="remote_speaker_loop">Der Reihe nach abspielen</string>
     <string name="remote_speaker_random">Zufallswiedergabe</string>
     <string name="remote_speaker_repeat">Schleife</string>
-    <string name="san_wait_msg_1">Kabelloses Casting auf dem Zielgerät einschalten</string>
+    <string name="san_wait_msg_1">Drahtloses Casting auf dem Zielgerät einschalten</string>
     <string name="san_wait_msg_2">Suche nach Geräten kann einige Zeit in Anspruch nehmen…</string>
     <string name="san_wait_msg_3">Externe Geräte sind leichter zu finden, wenn sie mit dem gleichen Netzwerk wie Ihr Telefon verbunden sind.</string>
     <string name="san_wait_msg_4">\"Hilfe\" anzeigen, wenn Sie keine Geräte finden können</string>

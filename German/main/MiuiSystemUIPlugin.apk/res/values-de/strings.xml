@@ -407,7 +407,7 @@
     <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Dualband-WLAN Geschwindigkeitssteigerung muss zwei verschiedene WLAN-Bänder verwenden. Wenn Sie sich mit einem anderen Hauptnetzwerk verbinden, geht die Hilfsverbindung verloren.</string>
     <string name="quick_settings_wifi_detail_empty_text">Kein WLAN verfügbar</string>
     <string name="quick_settings_wifi_label">WLAN</string>
-    <string name="quick_settings_wireless_label">Kabelloses Umkehrladen</string>
+    <string name="quick_settings_wireless_label">Drahtloses Umkehrladen</string>
     <string name="reboot_info_auto_boot">Anstehender Wecker: %s</string>
     <string name="reboot_info_shutdown_alarm">Abschaltalarm: %s</string>
     <string name="reset">Zurücksetzen</string>
@@ -521,18 +521,18 @@
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
     <string name="wifi_is_off">WLAN ist aus</string>
-    <string name="wireless_charging_connected_message">Wenn Ihr Gerät kabellos aufgeladen wird, können Sie kabelloses Umkehrladen nicht verwenden.</string>
+    <string name="wireless_charging_connected_message">Wenn Ihr Gerät drahtlos aufgeladen wird, können Sie drahtloses Umkehrladen nicht verwenden.</string>
     <string name="wireless_charging_fg_control_cancel">Abbrechen</string>
-    <string name="wireless_charging_fg_control_messgae">Kabelloses Umkehrladen wurde ausgeschaltet, weil weniger als %d%% Akku verbleiben. Sie können die Einstellungen anpassen, damit das kabellose Umkehrladen länger funktioniert.</string>
+    <string name="wireless_charging_fg_control_messgae">Drahtloses Umkehrladen wurde ausgeschaltet, weil weniger als %d%% Akku verbleiben. Sie können die Einstellungen anpassen, damit das drahtlose Umkehrladen länger funktioniert.</string>
     <string name="wireless_charging_fg_control_ok">Anpassen</string>
-    <string name="wireless_charging_low_battery_level_message">Kabelloses Umkehrladen kann nicht verwendet werden, wenn der Akku weniger als %d%% geladen ist.</string>
+    <string name="wireless_charging_low_battery_level_message">Drahtloses Umkehrladen kann nicht verwendet werden, wenn der Akku weniger als %d%% geladen ist.</string>
     <string name="wireless_charging_ok">Verstanden</string>
     <string name="wireless_charging_saver_cancel">Ausschalten</string>
-    <string name="wireless_charging_saver_message">Stromsparen ist jetzt an. Kabelloses Umkehrladen verfügbar halten?</string>
+    <string name="wireless_charging_saver_message">Stromsparen ist jetzt an. Drahtloses Umkehrladen verfügbar halten?</string>
     <string name="wireless_charging_saver_ok">Halten</string>
     <string name="wireless_charging_tips_disable">Nicht mehr anzeigen</string>
-    <string name="wireless_charging_tips_message">Legen Sie das Gerät, das Sie kabellos laden möchten (z. B. Telefon, Smartwatch, Ohrhörer), auf die Rückseite dieses Telefons. Stellen Sie sicher, dass dieses Telefon mindestens %d%% geladen ist, bevor Sie das kabellose Umkehrladen verwenden.</string>
-    <string name="wireless_charging_tips_sub_message">Das andere Gerät muss kabelloses Qi-Laden unterstützen.</string>
-    <string name="wireless_charging_tips_title">Kabelloses Umkehrladen</string>
+    <string name="wireless_charging_tips_message">Legen Sie das Gerät, das Sie drahtlos laden möchten (z. B. Telefon, Smartwatch, Ohrhörer), auf die Rückseite dieses Telefons. Stellen Sie sicher, dass dieses Telefon mindestens %d%% geladen ist, bevor Sie das drahtlose Umkehrladen verwenden.</string>
+    <string name="wireless_charging_tips_sub_message">Das andere Gerät muss drahtloses Qi-Laden unterstützen.</string>
+    <string name="wireless_charging_tips_title">Drahtloses Umkehrladen</string>
     <string name="yesterday">Gestern</string>
 </resources>

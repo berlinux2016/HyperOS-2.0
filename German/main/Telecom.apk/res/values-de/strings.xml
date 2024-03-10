@@ -123,7 +123,7 @@
     <string name="battery_info_status_charging_slow">Langsames Laden</string>
     <string name="battery_info_status_charging_usb">Laden über USB</string>
     <string name="battery_info_status_charging_usb_short">Laden</string>
-    <string name="battery_info_status_charging_wireless">Kabellos laden</string>
+    <string name="battery_info_status_charging_wireless">Drahtlos laden</string>
     <string name="battery_info_status_charging_wireless_short">Laden</string>
     <string name="battery_info_status_discharging">Nicht laden</string>
     <string name="battery_info_status_full">Voll</string>
@@ -364,7 +364,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="enable_account_preference_title">Anrufkonten</string>
     <string name="enable_adb">USB-Debugging</string>
     <string name="enable_adb_summary">Debug-Modus, wenn per USB verbunden</string>
-    <string name="enable_adb_wireless">Kabelloses Debugging</string>
+    <string name="enable_adb_wireless">Drahtloses Debugging</string>
     <string name="enable_adb_wireless_summary">Debug-Modus, wenn WLAN verbunden ist</string>
     <string name="enable_freeform_support">Freiformfenster aktivieren</string>
     <string name="enable_freeform_support_summary">Unterstützung für experimentelle Freiformfenster aktivieren</string>
@@ -677,7 +677,7 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="power_charging_duration">%1$s - %2$s bis voll</string>
     <string name="power_charging_duration_ac">%1$s - %2$s bis voll über AC</string>
     <string name="power_charging_duration_usb">%1$s - %2$s bis voll über USB</string>
-    <string name="power_charging_duration_wireless">%1$s - %2$s bis voll kabellos</string>
+    <string name="power_charging_duration_wireless">%1$s - %2$s bis voll drahtlos</string>
     <string name="power_charging_limited">%1$s - Laden temporär eingeschränkt</string>
     <string name="power_discharge_by">Sollte ca. %1$s dauern (%2$s)</string>
     <string name="power_discharge_by_enhanced">Sollte ca. %1$s dauern, basierend auf Ihrer Nutzung (%2$s)</string>

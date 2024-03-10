@@ -173,7 +173,7 @@
     <string name="fast_connect_same_accout_devices_title">Sie haben %1$s mit anderen Geräten verbunden</string>
     <string name="fast_connect_same_accout_ok">Verstanden</string>
     <string name="fast_connect_sound_normalizer_content">Besserer Ton bei Sprachanrufen.\nSchnelleres Verbindungsprotokoll.</string>
-    <string name="fast_connect_wbs_name">Mi kabelloses Ladegerät Lautsprecher</string>
+    <string name="fast_connect_wbs_name">Mi drahtloses Ladegerät Lautsprecher</string>
     <string name="fast_connect_wbs_reset">Obere Taste für %1$s Sek während des Ausschaltens gedrückt halten</string>
     <string name="fmt_chinese_date">dd.MM.</string>
     <string name="fmt_date_day">d.</string>

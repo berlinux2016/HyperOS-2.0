@@ -819,7 +819,7 @@
     <string name="keyguard_indication_charging_time_dock">%2$s • Laden • Voll in %1$s</string>
     <string name="keyguard_indication_charging_time_fast">%2$s • Schnell laden • Voll in %1$s</string>
     <string name="keyguard_indication_charging_time_slowly">%2$s • Langsam laden • Voll in %1$s</string>
-    <string name="keyguard_indication_charging_time_wireless">%2$s • Kabellos laden • Voll in %1$s</string>
+    <string name="keyguard_indication_charging_time_wireless">%2$s • Drahtlos laden • Voll in %1$s</string>
     <string name="keyguard_indication_trust_unlocked">Von TrustAgent entsperrt gehalten</string>
     <string name="keyguard_left_torch">Lampe</string>
     <string name="keyguard_left_view_lock_wallpaper">Hintergrundkarusssell</string>
@@ -832,7 +832,7 @@
     <string name="keyguard_plugged_in_charging_slowly">%s • Langsam laden</string>
     <string name="keyguard_plugged_in_dock">%s • Laden</string>
     <string name="keyguard_plugged_in_incompatible_charger">%s • Problem mit Ladezubehör</string>
-    <string name="keyguard_plugged_in_wireless">%s • Kabellos laden</string>
+    <string name="keyguard_plugged_in_wireless">%s • Drahtlos laden</string>
     <string name="keyguard_sim_error_message_short">Ungültige Karte</string>
     <string name="keyguard_sim_locked_message">SIM ist gesperrt</string>
     <string name="keyguard_sim_puk_locked_message">SIM ist PUK-gesperrt</string>
@@ -1824,9 +1824,9 @@ dd.MM."</string>
     <string name="wifi_connected_low_quality">Geringe Qualität</string>
     <string name="wifi_debugging_always">In diesem Netzwerk immer erlauben</string>
     <string name="wifi_debugging_message">Netzwerkname (SSID)\n%1$s\n\nWLAN-Adresse (BSSID)\n%2$s</string>
-    <string name="wifi_debugging_secondary_user_message">Der bei diesem Gerät derzeit angemeldete Benutzer kann das kabellose Debugging nicht einschalten. Um diese Funktion zu verwenden, wechseln Sie zu einem Admin-Benutzer.</string>
-    <string name="wifi_debugging_secondary_user_title">Kabelloses Debugging nicht erlaubt</string>
-    <string name="wifi_debugging_title">Kabelloses Debugging in diesem Netzwerk erlauben?</string>
+    <string name="wifi_debugging_secondary_user_message">Der bei diesem Gerät derzeit angemeldete Benutzer kann das drahtlose Debugging nicht einschalten. Um diese Funktion zu verwenden, wechseln Sie zu einem Admin-Benutzer.</string>
+    <string name="wifi_debugging_secondary_user_title">Drahtloses Debugging nicht erlaubt</string>
+    <string name="wifi_debugging_title">Drahtloses Debugging in diesem Netzwerk erlauben?</string>
     <string name="wifi_empty_list_wifi_on">Nach Netzwerk suchen…</string>
     <string name="wifi_failed_connect_message">Netzwerkverbindung fehlgeschlagen</string>
     <string name="wifi_is_off">WLAN ist aus</string>

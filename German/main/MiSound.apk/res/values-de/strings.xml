@@ -444,9 +444,9 @@
     <string name="sound_transmission_dialog_title">Bluetooth einschalten</string>
     <string name="sound_transmission_function_generalize">Audio vom Telefonmikro an ein externes Bluetooth-Gerät übertragen</string>
     <string name="sound_transmission_processing">Mikro</string>
-    <string name="sound_transmission_prompt">Dieser Funktion erlauben, Bluetooth einzuschalten, um ein kabelloses Mikro zu verwenden.</string>
+    <string name="sound_transmission_prompt">Dieser Funktion erlauben, Bluetooth einzuschalten, um ein drahtloses Mikro zu verwenden.</string>
     <string name="sound_transmission_scenes">Szene</string>
-    <string name="sound_transmission_title">Kabelloses Mikro</string>
+    <string name="sound_transmission_title">Drahtloses Mikro</string>
     <string name="spatial_audio">Immersiver Klang</string>
     <string name="spatial_audio_summary">Erleben Sie die Immersion und das Raumgefühl bei der Audiowiedergabe über Ohrhörer</string>
     <string name="spatial_audio_summary_spk">Erleben Sie Immersion und das Raumgefühl, wenn Audio abgespielt wird</string>
@@ -518,10 +518,10 @@
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="wireless_transmission">Kabelloser Lautsprecher</string>
+    <string name="wireless_transmission">Drahtloser Lautsprecher</string>
     <string name="wireless_transmission_cancel">Abbrechen</string>
     <string name="wireless_transmission_confirm">Einschalten</string>
     <string name="wireless_transmission_definition">Mikrofoneinspeisung Ihres Telefons an ein externes Bluetooth-Gerät übertragen</string>
-    <string name="wireless_transmission_prompt">Um Audio zu übertragen, muss der kabellose Lautsprecher Bluetooth einschalten. Jetzt einschalten?</string>
+    <string name="wireless_transmission_prompt">Um Audio zu übertragen, muss der drahtlose Lautsprecher Bluetooth einschalten. Jetzt einschalten?</string>
     <string name="yesterday">Gestern</string>
 </resources>

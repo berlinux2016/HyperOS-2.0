@@ -122,9 +122,9 @@
     <string name="dialog_enable_mic_message">Um diese Funktion zu nutzen, schalten Sie zuerst das Mikrofon ein.</string>
     <string name="dialog_enable_mic_title">Mikrofon einschalten</string>
     <string name="digitaluniverse">Digitales Universum (Stereo)</string>
-    <string name="disable_nfc">NFC für kabelloses Laden ausgeschaltet</string>
-    <string name="disable_nfc_haptic_reverse">NFC und Vibration für kabelloses Umkehrladen ausgeschaltet</string>
-    <string name="disable_nfc_reverse">NFC für kabelloses Umkehrladen ausgeschaltet</string>
+    <string name="disable_nfc">NFC für drahtloses Laden ausgeschaltet</string>
+    <string name="disable_nfc_haptic_reverse">NFC und Vibration für drahtloses Umkehrladen ausgeschaltet</string>
+    <string name="disable_nfc_reverse">NFC für drahtloses Umkehrladen ausgeschaltet</string>
     <string name="dock_tip_floatwindow">Leiste gedrückt halten und an den Bildschirmrand ziehen, um die geteilte Bildschirmansicht aufzurufen.</string>
     <string name="dock_tip_splitscreen_landscape_drag">Leiste horizontal ziehen, um die Positionen der beiden App-Fenster zu tauschen.</string>
     <string name="dock_tip_splitscreen_landscape_float">Gedrückt halten und nach unten ziehen, um zu einem Popup zu wechseln.</string>
@@ -572,10 +572,10 @@
     <string name="wifi_disable_micar_p2p_dialog_title">Vom Auto trennen?</string>
     <string name="wifi_disable_micar_p2p_dialog_title_carwith">Von CarWith trennen?</string>
     <string name="windchime">Windspiel</string>
-    <string name="wireless_charging_notification_message1">Keine kabellosen Geräte zum Aufladen gefunden. Kabelloses Umkehrladen ist nun deaktiviert.</string>
-    <string name="wireless_charging_notification_message2">Akku ist weniger als %s geladen. Kabelloses Umkehrladen ist nun deaktiviert.</string>
-    <string name="wireless_charging_notification_message3">Beim Laden ist ein Fehler aufgetreten. Kabelloses Umkehrladen ist nun deaktiviert.</string>
-    <string name="wireless_charging_notification_titile">Kabelloses Umkehrladen ausgeschaltet</string>
+    <string name="wireless_charging_notification_message1">Keine drahtlosen Geräte zum Aufladen gefunden. Drahtloses Umkehrladen ist nun deaktiviert.</string>
+    <string name="wireless_charging_notification_message2">Akku ist weniger als %s geladen. Drahtloses Umkehrladen ist nun deaktiviert.</string>
+    <string name="wireless_charging_notification_message3">Beim Laden ist ein Fehler aufgetreten. Drahtloses Umkehrladen ist nun deaktiviert.</string>
+    <string name="wireless_charging_notification_titile">Drahtloses Umkehrladen ausgeschaltet</string>
     <string name="xspace_head">Dual App</string>
     <string name="xspace_resolver_activity_title">App wählen</string>
     <string name="zone_volume_automatic_change_optimization_text">Wenden Sie sich für Reparaturen an den Kundendienst. Lautstärketasten deaktivieren und Standardlautstärke einstellen?</string>

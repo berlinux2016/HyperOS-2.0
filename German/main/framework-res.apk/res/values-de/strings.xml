@@ -218,8 +218,8 @@ Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere
     <string name="adb_active_notification_message">Auswählen, um USB-Debugging auszuschalten</string>
     <string name="adb_active_notification_title">USB-Debugging ist an</string>
     <string name="adb_debugging_notification_channel_tv">USB-Debugging</string>
-    <string name="adbwifi_active_notification_message">Tippen, um kabelloses Debugging auszuschalten</string>
-    <string name="adbwifi_active_notification_title">Kabelloses Debugging verbunden</string>
+    <string name="adbwifi_active_notification_message">Tippen, um drahtloses Debugging auszuschalten</string>
+    <string name="adbwifi_active_notification_title">Drahtloses Debugging verbunden</string>
     <string name="addToDictionary">Zum Wörterbuch hinzufügen</string>
     <string name="add_account_button_label">Konto hinzufügen</string>
     <string name="add_account_label">Konto hinzufügen</string>
@@ -1962,7 +1962,7 @@ Möchten Sie sie schließen?"</string>
     <string name="wifi_no_internet_detailed">Tippen für Optionen</string>
     <string name="window_magnification_prompt_content">Sie können jetzt einen Teil des Bildschirms vergrößern</string>
     <string name="window_magnification_prompt_title">Neue Vergrößerungseinstellungen</string>
-    <string name="wireless_display_route_description">Kabellose Anzeige</string>
+    <string name="wireless_display_route_description">Drahtlose Anzeige</string>
     <string name="work_mode_emergency_call_button">Notfall</string>
     <string name="work_mode_off_title">Arbeits-Apps freigeben?</string>
     <string name="work_mode_turn_on">Pause aufheben</string>

@@ -352,8 +352,8 @@
     <string name="miracast_connect_fail">Casting nicht möglich, erneut versuchen</string>
     <string name="miracast_details">Für Casting QR-Code scannen</string>
     <string name="miracast_message">Casting auf %s?</string>
-    <string name="miracast_switch_off">Kabellose Anzeige ist aus</string>
-    <string name="miracast_switch_tip">Kabellose Anzeige einschalten, um diese Funktion zu nutzen</string>
+    <string name="miracast_switch_off">Drahtlose Anzeige ist aus</string>
+    <string name="miracast_switch_tip">Drahtlose Anzeige einschalten, um diese Funktion zu nutzen</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
