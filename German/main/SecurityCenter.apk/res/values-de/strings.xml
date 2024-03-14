@@ -6395,7 +6395,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="warningcenter_policeassist_noti_send">Standort mit der Polizei geteilt</string>
     <string name="warningcenter_policeassist_noti_title">Standort bei Notrufen teilen</string>
     <string name="warningcenter_policeassist_open_btn">Einschalten</string>
-    <string name="warningcenter_policeassist_open_content">Ihre Standortinformationen über SMS oder mobile Daten automatisch an die Polizei senden, während Sie 110, 120, 119, oder 122 anrufen.</string>
+    <string name="warningcenter_policeassist_open_content">Ihre Standortdaten über SMS oder mobile Daten automatisch an die Polizei senden, während Sie 110, 120, 119, oder 122 anrufen.</string>
     <string name="warningcenter_policeassist_open_title">Standort bei Notrufen mit der Polizei teilen</string>
     <string name="warningcenter_policeassist_privacy"><Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="warningcenter_policeassist_title">Notfallstandort</string>

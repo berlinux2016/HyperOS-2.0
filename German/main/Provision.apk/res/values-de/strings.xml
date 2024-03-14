@@ -30,21 +30,20 @@
     <string name="agree">Zustimmen</string>
     <string name="agree_and_next">Zustimmen</string>
     <string name="agree_cookie">Cookies akzeptieren</string>
-    <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzerklärung gelesen und stimme beiden zu.</string>
-    <string name="agree_terms_input_method_facemoji">Ich habe die Datenschutzerklärung von Facemoji gelesen und akzeptiert.</string>
-    <string name="agree_terms_input_method_kika">Ich habe die Datenschutzerklärung von Kika gelesen und akzeptiert.</string>
-    <string name="agreement_declare_use_network_and_location_china">"Außerdem werden die folgenden Dienste eine Netzverbindung herstellen und auf Ihren Standort zugreifen: "</string>
+    <string name="agree_terms">Ich habe die Nutzungsbedingungen und Datenschutzerklärung gelesen und akzeptiert.</string>
+    <string name="agree_terms_input_method_facemoji">Ich habe die Facemoji Datenschutzerklärung gelesen und akzeptiert.</string>
+    <string name="agree_terms_input_method_kika">Ich habe die Kika Datenschutzerklärung gelesen und akzeptiert.</string>
+    <string name="agreement_declare_use_network_and_location_china">"Außerdem werden folgende Dienste eine Netzwerkverbindung herstellen und auf Ihren Standort zugreifen: "</string>
     <string name="agreement_declare_use_network_china">wird eine Netzwerkverbindung herstellen.</string>
     <string name="ai_button_desc">Mit der KI-Taste können Sie Mi AI auslösen und Mi AI-Verknüpfungen verwenden.</string>
     <string name="ai_button_double_press">Doppelt drücken</string>
-    <string name="ai_button_double_press_desc">Mi AI-Funktionen einstellen</string>
+    <string name="ai_button_double_press_desc">KI-Taste doppelt drücken, um benutzerdefinierte Aufgaben zu erledigen</string>
     <string name="ai_button_long_press">Gedrückt halten</string>
     <string name="ai_button_long_press_desc">Sagen Sie Ihren Befehl und lassen Sie die Taste los</string>
     <string name="ai_button_single_press">Drücken</string>
-    <string name="ai_button_single_press_desc">Mi AI auslösen</string>
-    <string name="ai_button_title">Über KI-Taste</string>
+    <string name="ai_button_single_press_desc">KI-Taste drücken, um Mi AI-Verknüpfungen anzuzeigen</string>
+    <string name="ai_button_title">KI-Taste</string>
     <string name="album_introduction">Mit dieser App können Sie Fotos und Videos verwalten, bearbeiten und verschönern.</string>
-    <string name="alert_dialog_btn_close">Deaktivieren</string>
     <string name="application_extension_service">App-Zusatzdienste</string>
     <string name="application_extension_service_introduction">App-Zusatzdienste bieten Ihnen Anmelde- und Verifizierungsfunktionen. Um grundlegende Dienste bereitzustellen, benötigt diese App folgende Berechtigungen:</string>
     <string name="application_package_introduction">Paket-Installer wird für die Installation von Drittanbieter-Apps verwendet, inkl. Scannen vor der Installation und Empfehlungsdienste für Apps nach der Installation.</string>
@@ -57,18 +56,18 @@
     <string name="bluetooth_usage_desc">Bei der Ersteinrichtung können Sie Ihre Grundeinstellungen für dieses Gerät festlegen. Um Ihr Gerät erfolgreich einzurichten, verwenden die Bluetooth-Systemdienste die folgenden Berechtigungen:</string>
     <string name="boot_video_replay">Erneut abspielen</string>
     <string name="boot_video_skip">Überspringen</string>
-    <string name="calculator_introduction">Sie können diese App für Berechnungen, die Umrechnung von Einheiten und Währungen und die Schätzung Ihrer Hypothekenrückzahlungen verwenden.</string>
+    <string name="calculator_introduction">Sie können diese App für Berechnungen, Umrechnung von Einheiten und Währungen und Schätzung Ihrer Hypothekenrückzahlungen verwenden.</string>
     <string name="calendar_storage">Kalenderspeicher</string>
     <string name="camera_application_introduction">Mit dieser App können Sie Fotos und Videos aufnehmen.</string>
-    <string name="camera_introduction">Sie können die Kamera verwenden, um Fotos und Videos aufzunehmen.</string>
+    <string name="camera_introduction">Sie können Kamera verwenden, um Fotos und Videos aufzunehmen.</string>
     <string name="carousel_cookies_content"><Data>Wenn Sie auf Bilder und Geschichten im Hintergrundkarussell tippen, werden deren Vollversionen in Ihrem Browser geöffnet. Unser vertrauenswürdiger Drittanbieter von Inhalten kann Ihnen dann zusätzliche Inhalte und Anzeigen empfehlen, die auf Ihre Interessen zugeschnitten sind. Wenn Sie der Aktivierung dieser Funktion zustimmen, werden Cookies in Ihrem Browser abgelegt, wie in dieser &lt;a href=\"%1$s\">Cookie-Richtlinie&lt;/a> beschrieben. Wenn Sie Cookies ablehnen, funktioniert Hintergrundkarussell zwar weiterhin, aber seine Inhalte und Empfehlungen sind evtl. nicht mehr relevant für Sie. Sie können Ihre Präferenzen jederzeit in den Einstellungen ändern.</Data></string>
     <string name="carousel_cookies_subtitle">Cookies erlauben uns, Ihren Sperrbildschirm zu personalisieren</string>
     <string name="carousel_cookies_title">Personalisierte Inhalte und Cookies</string>
-    <string name="carousel_privacy"><Data>Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> unseres vertrauenswürdigen Drittanbieters, bevor Sie Hintergrundkarussell nutzen.</Data></string>
+    <string name="carousel_privacy"><Data>Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> unseres vertrauenswürdigen Drittanbieters, bevor Sie Hintergrundkarussell verwenden.</Data></string>
     <string name="carousel_setting">Sperrbildschirm einrichten</string>
     <string name="carousel_setting_sub">Hintergrundkarussell zeigt Ihnen jedes Mal neue Geschichten, wenn Sie Ihr Gerät entsperren</string>
-    <string name="carrier_introduction_china">Um Ihnen bessere Dienste anzubieten, können Prozesse, die auf Ihrem Gerät laufen (inkl. SystemHelper, RegService und Carrier Services), regelmäßig Informationen zu Ihrem Gerät und Ihrer SIM-Karte (inkl. IMEI, IMSI, MSISDN, MEID, ICCID, MAC-Adresse, Systemversion, Android-Version, Gerätemodell und grundlegende Hardwarespezifikationen) sowie ungefähre Standortinformationen (inkl. Region, Koordinaten, Bereichskennung und Basisstations-ID) über WLAN, mobiles Datennetz oder kostenlose SMS an den Anbieter senden. Der Anbieter verspricht, die relevanten Informationen nur zu analysieren, um die Qualität der Dienste zu verbessern oder um kundenspezifische Dienste oder Technologien bereitzustellen, und wird die relevanten Informationen nicht an Dritte in irgendeiner Form weitergeben, die Sie persönlich identifiziert. Maßgeblich ist die jeweilige Erklärung des Netzbetreibers. Erkundigen Sie sich bei Ihrem Netzbetreiber nach den Kosten für die Nutzung dieses Dienstes.</string>
-    <string name="check_box_label"><Data>Wenn Sie diese Funktion aktivieren, stimmen Sie der &lt;a href=%1$s>Datenschutzerklärung&lt;/a> zu.</Data></string>
+    <string name="carrier_introduction_china">Um Ihnen bessere Dienste anzubieten, können Prozesse, die auf Ihrem Gerät laufen (inkl. SystemHelper, RegService und Carrier Services), regelmäßig Informationen zu Ihrem Gerät und Ihrer SIM-Karte (inkl. IMEI, IMSI, MSISDN, MEID, ICCID, MAC-Adresse, Systemversion, Android-Version, Gerätemodell, grundlegende Hardware-Konfiguration und Rufnummer) sowie ungefähre Standortdaten (inkl. Region, Koordinaten, Nachbarschafts-ID und ID der Basisstation) über WLAN, Mobilfunknetz oder kostenlose SMS an den Anbieter senden. Die Mobilfunkanbieter garantieren, dass diese Daten nur zu Analysezwecken, zur Verbesserung der Servicequalität oder zur Bereitstellung kundenspezifischer Dienste oder Technologien verwendet werden und niemals in einer Weise weitergegeben werden, die es ermöglichen würde, Sie persönlich zu identifizieren. Einzelheiten finden Sie in der entsprechenden Erklärung Ihres Anbieters. Sie können alle damit verbundenen Kosten direkt bei Ihrem Anbieter erfragen.</string>
+    <string name="check_box_label"><Data>Wenn Sie diese Funktion aktivieren, akzeptieren Sie die &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.</Data></string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="clock_introduction">Sie können diese App verwenden, um die Zeit anzuzeigen, sowie Timer, Weltuhr, Stoppuhr, Wecker einstellen und vieles mehr.</string>
     <string name="close">Schließen</string>
@@ -260,7 +259,7 @@ Die verfügbaren Interkonnektivitätsdienste können sich je nach Systemversion 
     <string name="language_settings">Sprache wählen</string>
     <string name="locale_picker_other_locale_title">Mehr Regionen</string>
     <string name="locale_picker_title">Region wählen</string>
-    <string name="location_content">Gemäß dem Gesetz können Mobilfunkbetreiber die Standortinformationen mobiler Geräte erhalten, um den Anforderungen von Rettungsdiensten (Feuerwehr und Polizei) zu entsprechen, die Sicherheits- und Notfallrettungszwecke verfolgen.</string>
+    <string name="location_content">Gemäß dem Gesetz können Mobilfunkbetreiber die Standortdaten mobiler Geräte erhalten, um den Anforderungen von Rettungsdiensten (Feuerwehr und Polizei) zu entsprechen, die Sicherheits- und Notfallrettungszwecke verfolgen.</string>
     <string name="location_introduction">Standortdienste nutzen Ortung, um standortspezifische Dienste anzubieten.</string>
     <string name="location_introduction_qcom">Standortdienste nutzen Ortung, um standortspezifische Dienste anzubieten. Wenn Ihr Gerät Standortdienste nutzt, stellt das QCC-Modul eine Netzwerkverbindung her, um den Ortungsprozess zu beschleunigen.</string>
     <string name="location_location">Notfallrettungsorganisationen können auf Anfrage Ihren aktuellen Standort erfahren</string>
