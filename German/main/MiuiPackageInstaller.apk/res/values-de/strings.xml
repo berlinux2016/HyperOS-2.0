@@ -632,7 +632,7 @@
     <string name="permission_des_access_media_location">Zur Positionierung über Standortdaten für gespeicherte Medien</string>
     <string name="permission_des_access_notifications">Zum Abrufen, Prüfen und Löschen von Benachrichtigungen, die Passwörter und Bankdaten enthalten</string>
     <string name="permission_des_activity_recognition">Für den Zugriff auf Schrittzahl und andere Daten zur körperlichen Aktivität</string>
-    <string name="permission_des_body_sensors">Für den Zugriff auf Daten, die von Körpersensoren erzeugt werden, wie z. B. Herzfrequenzdaten</string>
+    <string name="permission_des_body_sensors">Für den Zugriff auf Daten, die von Körpersensoren erzeugt werden, wie z. B. Pulsdaten</string>
     <string name="permission_des_call_companion_app">Zum Abrufen des Anrufstatus und der Rufnummern von Anrufen</string>
     <string name="permission_des_camera">Zur Aufnahme von Fotos und Videos</string>
     <string name="permission_des_get_accounts">Für den Zugriff auf eine Liste von Social Media- und Kommunikationskonten auf Ihrem Gerät</string>

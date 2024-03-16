@@ -305,6 +305,22 @@
         <item quantity="other">%1$d Dateien</item>
         <item quantity="one">%1$d Datei</item>
     </plurals>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">%d Elemente wurden wegen unzureichendem Cloud-Speicher nicht gesichert</item>
+        <item quantity="one">%d Element wurde wegen unzureichendem Cloud-Speicher nicht gesichert</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">%d Elemente wurden nicht gesichert</item>
+        <item quantity="one">%d Element wurde nicht gesichert</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">%d Elemente werden mit mobilen Daten gesichert…</item>
+        <item quantity="one">%d Element wird mit mobilen Daten gesichert…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">%d Elemente werden gesichert…</item>
+        <item quantity="one">%d Element wird gesichert…</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor 1 halben Stunde</item>
     </plurals>
@@ -425,8 +441,8 @@
         <item quantity="one">%d verbleibende Datei herunterladen</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">%1$d Fotos wurden nicht heruntergeladen. Internetverbindung herstellen und erneut versuchen.</item>
-        <item quantity="one">Foto wurde nicht heruntergeladen. Internetverbindung herstellen und erneut versuchen.</item>
+        <item quantity="other">%1$d Dateien wurden nicht heruntergeladen. Mit dem Netzwerk verbinden und erneut versuchen.</item>
+        <item quantity="one">%1$d Datei wurde nicht heruntergeladen. Mit dem Netzwerk verbinden und erneut versuchen.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">1$d Dateien (%2$d MB) wurden nicht heruntergeladen. Internetverbindung herstellen und erneut versuchen.</item>
@@ -437,12 +453,12 @@
         <item quantity="one">%1$d-Datei (%2$d MB) ist noch nicht heruntergeladen. Mit mobilen Daten herunterladen?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d Fotos wurden nicht heruntergeladen, erneut versuchen?</item>
-        <item quantity="one">%1$d Foto wurde nicht heruntergeladen, erneut versuchen?</item>
+        <item quantity="other">%1$d Dateien wurden nicht heruntergeladen. Erneut versuchen?</item>
+        <item quantity="one">%1$d Datei wurde nicht heruntergeladen. Erneut versuchen?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d Fotos (%2$d MB) wurden nicht heruntergeladen, erneut versuchen?</item>
-        <item quantity="one">Foto (%2$d MB) wurde nicht heruntergeladen, erneut versuchen?</item>
+        <item quantity="other">%1$d Dateien (%2$d MB) wurden nicht heruntergeladen. Erneut versuchen?</item>
+        <item quantity="one">%1$d Datei (%2$d MB) wurde nicht heruntergeladen. Erneut versuchen?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">%d Fotos übersprungen, die nicht auf dem Gerät sind</item>
@@ -758,5 +774,17 @@
     <plurals name="videos_count">
         <item quantity="other">%d Videos</item>
         <item quantity="one">%d Video</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">%d Videosegmente wählen</item>
+        <item quantity="one">%d Videosegment wählen</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Video-Slot %1$d wartet darauf, ein Video von %2$s Sek oder mehr hinzuzufügen</item>
+        <item quantity="one">Video-Slot %1$d wartet darauf, ein Video von %2$s Sek oder mehr hinzuzufügen</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">%d weitere Videos hinzufügen, um weiter zu machen</item>
+        <item quantity="one">%d weiteres Video hinzufügen, um weiter zu machen</item>
     </plurals>
 </resources>

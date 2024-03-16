@@ -157,4 +157,8 @@
         <item quantity="other">%d Empfänger</item>
         <item quantity="one">%d Empfänger</item>
     </plurals>
+    <plurals name="vital_signs_data_bpm">
+        <item quantity="other">Puls: %1$d BPM (%2$s)</item>
+        <item quantity="one">Puls: %1$d BPM (%2$s)</item>
+    </plurals>
 </resources>

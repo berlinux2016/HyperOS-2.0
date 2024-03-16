@@ -5122,6 +5122,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="load_esim_info_error">eSIM-Infos laden fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
     <string name="loading">Einen Moment…</string>
     <string name="loading_data">Daten laden</string>
+    <string name="loading_eid_error_message">EID-Daten nicht abrufbar. Einen Moment warten und erneut versuchen.</string>
+    <string name="loading_eid_error_ok">Verstanden</string>
+    <string name="loading_eid_error_title">Laden fehlgeschlagen</string>
+    <string name="loading_eid_tip">EID-Daten abrufen…</string>
     <string name="loading_injected_setting_summary">Laden…</string>
     <string name="local_app_name">Sicherung</string>
     <string name="local_auto_backup_off">Aus</string>
@@ -10053,7 +10057,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="title_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
     <string name="title_show_notification_icon_count">Anzahl der angezeigten Benachrichtigungssymbole</string>
     <string name="title_smart_device_control">Intelligente Gerätesteuerung</string>
-    <string name="title_special_features_health_global">Herzfrequenz</string>
+    <string name="title_special_features_health_global">Puls</string>
     <string name="title_system_resource">Systemquellen</string>
     <string name="title_unavailable_locale">%s nicht verfügbar</string>
     <string name="title_wordless_mode">Symbolbeschriftungen nicht anzeigen</string>

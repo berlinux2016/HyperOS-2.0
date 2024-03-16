@@ -14,7 +14,7 @@
     <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth-Konnektivität ändern</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Bluetooth ein- oder ausschalten</string>
     <string name="HIPS_Perm_Body_Sensors">Körpersensoren</string>
-    <string name="HIPS_Perm_Body_Sensors_Desc">Körpersensoren (z. B. Herzfrequenzsensor)</string>
+    <string name="HIPS_Perm_Body_Sensors_Desc">Körpersensoren (z. B. Pulssensor)</string>
     <string name="HIPS_Perm_Calendar">Kalender bearbeiten</string>
     <string name="HIPS_Perm_Calendar_Desc">Kalendereinträge bearbeiten</string>
     <string name="HIPS_Perm_Call">Anrufen</string>

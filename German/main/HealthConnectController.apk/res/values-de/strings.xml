@@ -292,10 +292,10 @@
     <string name="heart_rate_read_content_description">Puls lesen</string>
     <string name="heart_rate_series_range_long">von %1$s bis %2$s</string>
     <string name="heart_rate_uppercase_label">Puls</string>
-    <string name="heart_rate_variability_lowercase_label">Herzfrequenz-Variabilität</string>
-    <string name="heart_rate_variability_read_content_description">Herzfrequenz-Variabilität lesen</string>
-    <string name="heart_rate_variability_uppercase_label">Herzfrequenz-Variabilität</string>
-    <string name="heart_rate_variability_write_content_description">Herzfrequenz-Variabilität schreiben</string>
+    <string name="heart_rate_variability_lowercase_label">Puls-Variabilität</string>
+    <string name="heart_rate_variability_read_content_description">Puls-Variabilität lesen</string>
+    <string name="heart_rate_variability_uppercase_label">Puls-Variabilität</string>
+    <string name="heart_rate_variability_write_content_description">Puls-Variabilität schreiben</string>
     <string name="heart_rate_write_content_description">Puls schreiben</string>
     <string name="height_cm_long">{height, plural, =1 {1 Zentimeter} other {# Zentimeter}}</string>
     <string name="height_ft_long">{height, plural, =1 {1 Fuß} other {# Fuß}}</string>
@@ -732,7 +732,7 @@
     <string name="vitals_category_lowercase">Vitalwerte</string>
     <string name="vitals_category_uppercase">Vitalwerte</string>
     <string name="vo2_cooper_test">Cooper-Test</string>
-    <string name="vo2_heart_rate_ratio">Herzfrequenz-Verhältnis</string>
+    <string name="vo2_heart_rate_ratio">Puls-Verhältnis</string>
     <string name="vo2_max">{value, plural, =1 {1 ml/(kg·min)} other {# ml/(kg·min)}}</string>
     <string name="vo2_max_long">{value, plural, =1 {1 Milliliter Sauerstoff pro Kilogramm Körpermasse pro Minute} other {# Milliliter Sauerstoff pro Kilogramm Körpermasse pro Minute}}</string>
     <string name="vo2_max_read_content_description">VO2 max lesen</string>

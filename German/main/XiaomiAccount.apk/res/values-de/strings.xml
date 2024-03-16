@@ -684,7 +684,7 @@
     <string name="passport_google_login_disagree">Xiaomi-Konto</string>
     <string name="passport_google_login_failed">Mit Google anmelden fehlgeschlagen. Direkt am Xiaomi-Konto anmelden.</string>
     <string name="passport_help">Hilfe</string>
-    <string name="passport_i_know">Fertig</string>
+    <string name="passport_i_know">Verstanden</string>
     <string name="passport_identification_expired">Verifizierungscode abgelaufen. Neu beginnen.</string>
     <string name="passport_imei_permission_denied_message">Wir brauchen die Berechtigung, um Ihre Geräte-IMEI abzurufen. Xiaomi-Konto benötigt die IMEI, um das Gerät zu identifizieren, auf dem Sie sich anmelden/angemeldet sind, um die Sicherheit Ihres Mi-Kontos zu gewährleisten.</string>
     <string name="passport_imei_permission_denied_title">IMEI-Berechtigung anfordern</string>

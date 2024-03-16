@@ -1179,8 +1179,8 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_bluetooth_advertise">Erlaubt der App, Bluetooth-Geräte in der Nähe anzusprechen</string>
     <string name="permdesc_bluetooth_connect">Erlaubt der App, sich mit gekoppelten Bluetooth-Geräten zu verbinden</string>
     <string name="permdesc_bluetooth_scan">Erlaubt der App, Bluetooth-Geräte in der Nähe zu erkennen und zu koppeln</string>
-    <string name="permdesc_bodySensors">Erlaubt der App den Zugriff auf Daten von Sensoren, mit denen Ihre Vitalfunktionen, etwa die Herzfrequenz, gemessen werden</string>
-    <string name="permdesc_bodySensors_background">Erlaubt der App den Zugriff auf Körpersensordaten wie Herzfrequenz, Temperatur und Blutsauerstoffanteil, während sie im Hintergrund läuft.</string>
+    <string name="permdesc_bodySensors">Erlaubt der App den Zugriff auf Daten von Sensoren, mit denen Ihre Vitalfunktionen, etwa der Puls, gemessen werden</string>
+    <string name="permdesc_bodySensors_background">Erlaubt der App den Zugriff auf Körpersensordaten wie Puls, Temperatur und Blutsauerstoffanteil, während sie im Hintergrund läuft.</string>
     <string name="permdesc_broadcastSticky">Erlaubt der App, dauerhafte Broadcasts zu senden, die auch nach Ende des Broadcasts bestehen bleiben. Ein zu intensiver Einsatz kann das Telefon langsam oder instabil machen, weil zu viel Arbeitsspeicher belegt wird.</string>
     <string name="permdesc_callCompanionApp">Erlaubt der App, laufende Anrufe auf dem Gerät zu sehen und zu steuern. Dazu gehören Informationen wie z. B. Rufnummern für Anrufe und der Status der Anrufe.</string>
     <string name="permdesc_callPhone">Erlaubt der App, ohne Ihr Eingreifen Rufnummern zu wählen. Dies kann zu unerwarteten Anrufen und Kosten führen. Beachten Sie, dass die App keine Notrufnummern wählen kann. Schädliche Apps verursachen ggf. Kosten, indem diese Anrufe ohne Ihre Bestätigung tätigenoder wählen Betreibercodes, mit denen eingehende Anrufe automatisch an eine andere Nummer weitergeleitet werden.</string>
@@ -1377,7 +1377,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permlab_bluetooth_connect">Verbindung zu gekoppelten Bluetooth-Geräten herstellen</string>
     <string name="permlab_bluetooth_scan">Bluetooth-Geräte in der Nähe erkennen und koppeln</string>
     <string name="permlab_bodySensors">Auf Körpersensoren zugreifen (z. B. Pulsmesser)</string>
-    <string name="permlab_bodySensors_background">Zugriff auf Körpersensordaten, wie z. B. Herzfrequenz, im Hintergrund</string>
+    <string name="permlab_bodySensors_background">Zugriff auf Körpersensordaten, wie z. B. Puls, im Hintergrund</string>
     <string name="permlab_broadcastSticky">Dauerhaften Broadcast senden</string>
     <string name="permlab_callCompanionApp">Anrufe über das System sehen und steuern</string>
     <string name="permlab_callPhone">Rufnummern direkt anrufen</string>

@@ -624,7 +624,7 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="passport_input_voice_hint">Sprachcode eingeben</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
-    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten.</string>
+    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in Ihrem Browser öffnen.</string>
     <string name="passport_next">Weiter</string>
     <string name="passport_page_load_failed">Seite öffnen nicht möglich</string>
