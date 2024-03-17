@@ -1123,8 +1123,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">%d risikoreiche App gefunden</item>
     </plurals>
     <plurals name="privacy_risk_photo_location_tip">
-        <item quantity="other">%d risikoreiche Preisgaben von Standortinfos erkannt</item>
-        <item quantity="one">%d risikoreiche Preisgabe von Standortinfos erkannt</item>
+        <item quantity="other">%d risikoreiche Preisgaben von Standortdaten erkannt</item>
+        <item quantity="one">%d risikoreiche Preisgabe von Standortdaten erkannt</item>
     </plurals>
     <plurals name="privacy_risk_result_item_error">
         <item quantity="other">%d Risiken erkannt</item>

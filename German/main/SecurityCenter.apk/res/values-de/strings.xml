@@ -1695,7 +1695,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_button_exit">Ablehnen</string>
     <string name="ew_china_version_first_start_network_msg">&lt;Data>"Diese Funktion bietet Ihnen eine Möglichkeit zur Erdbebenwarnung. Sie werden über bevorstehende Erdbeben informiert und hören Warntöne. Sie können den nächstgelegenen Schutzraum finden, Ihren Notfallkontakt anrufen und bei Bedarf Ihre Krankenversicherungskarte vorlegen. &lt;br>Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen. &lt;br>Um normal zu arbeiten, benötigt diese Funktion die folgenden Berechtigungen, um Ihre personenbezogenen Daten zu erfassen: &lt;br>&amp;#8226; Standortinfo: &lt;br>Für den Standortzugriff und die Bereitstellung genauer Erdbebenwarnungen. &lt;br>Wenn Sie nicht damit einverstanden sind, solche Rechte zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese Funktion nicht nutzen. Sie können diese Funktion wahlweise deaktivieren oder in solchen Fällen nicht aktivieren. &lt;br>Sie müssen unsere &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\">Datenscvhutzerklärung&lt;/a> lesen und akzeptieren, bevor Sie diese Funktion nutzen."&lt;/Data></string>
     <string name="ew_city_support_tip">*Unterstützt nur die Warnung vor %s unter seiner Rechtsprechung</string>
-    <string name="ew_click_locate">Tippen, um Standortinfos zu erhalten</string>
+    <string name="ew_click_locate">Tippen, um Standortdaten zu erhalten</string>
     <string name="ew_close">Alarm ausschalten</string>
     <string name="ew_close_tips">Erdbebenwarnung ist aus</string>
     <string name="ew_close_warning">Ausschalten</string>
@@ -3293,7 +3293,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="not_available">Nicht verfügbar</string>
     <string name="not_closed">Weitermachen</string>
     <string name="not_limited_brand">Unbegrenzt</string>
-    <string name="not_set">Zum Einstellen tippen</string>
+    <string name="not_set">Nicht festgelegt</string>
     <string name="not_settled">Nicht eingestellt</string>
     <string name="not_support_root_summary">Das Zulassen des Root-Zugriffs für Drittanbieter-Apps kann Sicherheitsrisiken bergen und Ihr Gerät beschädigen. Aus diesem Grund bieten wir keine Optionen mehr für die Verwaltung von Root-Zugriffsberechtigungen an.</string>
     <string name="not_support_root_title">Root-Zugriff</string>

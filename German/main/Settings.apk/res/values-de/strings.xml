@@ -11861,7 +11861,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="xiaomi_custom_input_method">Angepasst für Xiaomi</string>
     <string name="xiaomi_external_storage_unavailable">Kein Speicher verfügbar, prüfen Sie die SD-Karte</string>
     <string name="xiaomi_hp_location">Präziser Standortzugriff</string>
-    <string name="xiaomi_hp_location_description">Präzise Standortinfos erlauben eine genaue Navigation</string>
+    <string name="xiaomi_hp_location_description">Präzise Standortdaten erlauben eine genaue Navigation</string>
     <string name="xiaomi_router_available_notif_summary">Tippen für weitere Infos</string>
     <string name="xiaomi_router_available_notif_title">Mi Router verfügbar</string>
     <string name="xiaomi_router_notif_summary">Benachrichtigen, wenn ein Mi Router verfügbar ist</string>

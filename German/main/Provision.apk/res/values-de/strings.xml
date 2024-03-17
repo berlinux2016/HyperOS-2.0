@@ -581,6 +581,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="service_name_ims">IMS-Service</string>
     <string name="service_name_location">Standortdienste</string>
     <string name="service_name_lockscreen">Hintergrundkarussell</string>
+    <string name="service_name_message">Nachrichten</string>
     <string name="service_name_note">Notizen</string>
     <string name="service_name_phone_service">Telefonie</string>
     <string name="service_name_screen_recording">Bildschirmaufnahme</string>
@@ -663,7 +664,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="terms_of_use_label_game">Spiele</string>
     <string name="terms_of_use_label_home">Startbildschirm</string>
     <string name="terms_of_use_label_info_assistant">Infoassistent</string>
-    <string name="terms_of_use_label_landscape">Querformatansicht</string>
+    <string name="terms_of_use_label_landscape">Querformat</string>
     <string name="terms_of_use_label_mi_account">Xiaomi-Konto-Komponenten</string>
     <string name="terms_of_use_label_os">OS KI-Einstellung</string>
     <string name="terms_of_use_label_package">Paket-Installer</string>
