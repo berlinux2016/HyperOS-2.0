@@ -865,8 +865,8 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="permission_notice_desc_write_external_storage">Zum Hinzufügen von Profilfotos und Importieren von vCards</string>
     <string name="permission_record_audio_desc">Zur Stimmverwendung während der ID-Verifizierung</string>
     <string name="permission_retry_deny">Abbrechen</string>
-    <string name="permission_retry_dialog_msg">Um Ihre SIM-Karte mit dieser App zu verwenden, Anrufe über Startbildschirm-Verknüpfungen zu tätigen, Ihre Kontakte zu verwalten und die Anrufliste auf dem neuesten Stand zu halten, erlauben Sie dieser App, auf Ihre Kontakte und Anrufliste zuzugreifen und diese zu bearbeiten, Anrufe zu tätigen und auf Geräteinfos zuzugreifen.</string>
-    <string name="permission_retry_dialog_msg_pad">Um Ihre SIM-Karte mit dieser App zu verwenden und Ihre Kontakte zu verwalten, erlauben Sie dieser App den Zugriff auf Ihre Kontakte und die Bearbeitung dieser sowie den Zugriff auf die Geräteinfos.</string>
+    <string name="permission_retry_dialog_msg">Um Ihre SIM-Karte mit dieser App zu verwenden, Anrufe über Startbildschirm-Verknüpfungen zu tätigen, Ihre Kontakte zu verwalten und die Anrufliste auf dem neuesten Stand zu halten, erlauben Sie dieser App, auf Ihre Kontakte und Anrufliste zuzugreifen und diese zu bearbeiten, Anrufe zu tätigen und auf Gerätedaten zuzugreifen.</string>
+    <string name="permission_retry_dialog_msg_pad">Um Ihre SIM-Karte mit dieser App zu verwenden und Ihre Kontakte zu verwalten, erlauben Sie dieser App den Zugriff auf Ihre Kontakte und die Bearbeitung dieser sowie den Zugriff auf die Gerätedaten.</string>
     <string name="permission_retry_setting">Einstellungen</string>
     <string name="permission_write_external_storage_desc">Zum Speichern von App-Daten</string>
     <string name="phoneLabelsGroup">Telefon</string>
@@ -958,7 +958,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="privacy_settings_read_call_log_description">Zur Anzeige der Anrufliste</string>
     <string name="privacy_settings_read_contacts">Zugriff auf Kontakte</string>
     <string name="privacy_settings_read_contacts_description">Zum Anzeigen von Kontakten</string>
-    <string name="privacy_settings_read_phone_state">Zugriff auf Geräteinfos</string>
+    <string name="privacy_settings_read_phone_state">Zugriff auf Gerätedaten</string>
     <string name="privacy_settings_read_phone_state_description">Für den Zugriff auf SIM-Infos</string>
     <string name="privacy_settings_read_write_phone">Speicherzugriff</string>
     <string name="privacy_settings_read_write_phone_description">Zum Hinzufügen von Profilfotos und Importieren von vCards</string>
@@ -1237,7 +1237,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="toast_not_show_location_perm_req">Um Kontakte von anderen Geräten über Bluetooth zu importieren, erlauben Sie dieser App zuerst den Standortzugriff.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Um die Anrufliste anzuzeigen, erlauben Sie dieser App zuerst den Zugriff auf die Anrufliste.</string>
     <string name="toast_not_show_read_contacts_perm_req">Um Kontakte anzuzeigen, erlauben Sie dieser App zuerst den Zugriff auf die Kontakte.</string>
-    <string name="toast_not_show_read_phone_state_perm_req">Um diese App mit Ihrer SIM-Karte zu verwenden, erlauben Sie dieser App zuerst den Zugriff auf die Geräteinfos.</string>
+    <string name="toast_not_show_read_phone_state_perm_req">Um diese App mit Ihrer SIM-Karte zu verwenden, erlauben Sie dieser App zuerst den Zugriff auf die Gerätedaten.</string>
     <string name="toast_not_show_storage_perm_req">Um Profilfotos hinzuzufügen und vCards zu importieren, erlauben Sie dieser App zuerst den Speicherzugriff.</string>
     <string name="toast_not_show_storage_perm_req_for_pad">Um Profilfotos hinzuzufügen und vCards zu importieren, erlauben Sie dieser App zuerst den Speicherzugriff.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Um die Anrufliste auf dem neuesten Stand zu halten, erlauben Sie dieser App zuerst, die Anrufliste zu bearbeiten.</string>

@@ -681,7 +681,7 @@
     <string name="usage_home_permission_account_summary">Zum Anmelden am Xiaomi-Konto und Synchronisieren der Bildschirmzeit-Statistik</string>
     <string name="usage_home_permission_account_title">Zugriff auf Kontodaten</string>
     <string name="usage_home_permission_phone_summary">Zur Geräteidentifizierung mit VAID</string>
-    <string name="usage_home_permission_phone_title">Zugriff auf Geräteinfos</string>
+    <string name="usage_home_permission_phone_title">Zugriff auf Gerätedaten</string>
     <string name="usage_home_premission_main_summary">Willkommen bei Bildschirmzeit! Mit dieser App können Sie Bildschirmzeiten festlegen, Statistiken anzeigen und zum Fokusmodus wechseln. Diese App muss Infos zur Bildschirmzeit sammeln (z. B. die Anzahl, wie oft Sie Ihr Telefon und den Bildschirm einschalten, sowie die App-Nutzungsdauer), um normal zu funktionieren.</string>
     <string name="usage_home_premission_main_summary_new">"Willkommen bei Bildschirmzeit!
 Um normal zu funktionieren, muss diese App Infos zur Bildschirmzeit sammeln: die Anzahl der Telefonentsperrungen, App-Namen und App-Nutzungsdauer werden benötigt, um die Bildschirmzeit-Statistik zu generieren; die Einstellungen des Fokusmodus sind erforderlich, um die Statistik dessen zu generieren.

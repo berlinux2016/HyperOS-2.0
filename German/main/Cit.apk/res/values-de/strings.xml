@@ -77,9 +77,9 @@
     <string name="cit_OTG_waiting_out_end">Bitte USB_OTG-Gerät anstecken, Test beenden</string>
     <string name="cit_USB3_2GEN1_check_summary">USB3.2 GEN1-unterstützende Geräte müssen während des Tests angeschlossen werden</string>
     <string name="cit_USB3_2_check_summary">USB3.2-unterstützende Geräte müssen während des Tests angeschlossen werden</string>
-    <string name="cit_USB3_OTG_error_condition">Einstecken eines OTG-Geräts wurde erkannt, aber die Geräteinfos wurden nicht abgerufen. \nTest fehlgeschlagen</string>
+    <string name="cit_USB3_OTG_error_condition">Einstecken eines OTG-Geräts wurde erkannt, aber die Gerätedaten wurden nicht abgerufen. \nTest fehlgeschlagen</string>
     <string name="cit_USB3_check_summary">USB3.0-unterstützende Geräte müssen während des Tests angeschlossen werden</string>
-    <string name="cit_USB3_error_condition">Einstecken des Geräts wurde erkannt, aber es wurden keine Geräteinfosabgerufen. \nTest fehlgeschlagen</string>
+    <string name="cit_USB3_error_condition">Einstecken des Geräts wurde erkannt, aber es wurden keine Gerätedaten abgerufen. \nTest fehlgeschlagen</string>
     <string name="cit_USB3_in_need_plugout">USB-Gerät angeschlossen, zum Starten des Tests herausziehen</string>
     <string name="cit_USB3_in_start_test">Schließen Sie die %1$s-fähigen Geräte an und starten Sie den Test</string>
     <string name="cit_USB3_plug_err">Korrekter Wert wurde nicht gelesen. Bitte kontaktieren Sie die Entwickler, um den Grund zu erfahren.</string>

@@ -1785,7 +1785,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_main_warning_list">Warnungen anzeigen</string>
     <string name="ew_main_warning_list_tips">Anzeigen</string>
     <string name="ew_main_warning_list_title">Warnungsverlauf anzeigen</string>
-    <string name="ew_monitor_bad_request_tips">Sicherheit kann nicht auf Geräteinfos zugreifen</string>
+    <string name="ew_monitor_bad_request_tips">Sicherheit kann nicht auf Gerätedaten zugreifen</string>
     <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzwerks werden. Wenn seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
     <string name="ew_monitor_exit">Abmelden</string>
     <string name="ew_monitor_exit_content">Hallo Freiwilliger mit Nummer %s! Ihr Gerät kann seismische Aktivitäten überwachen und Daten sammeln, die helfen würden, frühzeitige Erdbebenwarnungen auszugeben. Trotzdem abmelden?</string>
@@ -4531,7 +4531,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_description_camera">%1s verwendet die Kamera im Hintergrund. Sie können den Schalter unten umstellen, um diese Aktivität einzuschränken.</string>
     <string name="privacy_description_camera_mic">%1s verwendet Kamera und Mikrofon im Hintergrund. Sie können den Schalter unten umstellen, um diese Aktivität einzuschränken.</string>
     <string name="privacy_description_mic">%1s verwendet das Mikrofon im Hintergrund. Sie können den Schalter unten umstellen, um diese Aktivität einzuschränken.</string>
-    <string name="privacy_dialog_call_item_1">Zugriff auf Geräteinfos</string>
+    <string name="privacy_dialog_call_item_1">Zugriff auf Gerätedaten</string>
     <string name="privacy_dialog_call_item_2">Telefonieren</string>
     <string name="privacy_dialog_call_item_3">Zugriff auf Gerätestatus</string>
     <string name="privacy_dialog_call_message">Standardmäßig erlaubt das System den Drittanbieter-Apps nicht, Folgendes zu tun:</string>
@@ -5303,8 +5303,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="special_perm_intercept_screen_title"> Bildschirminhalt überwachen und aufnehmen</string>
     <string name="special_perm_intercept_setting_msg">Inkl. Anbieter, Sprache und andere Einstellungen</string>
     <string name="special_perm_intercept_setting_title">Geräteeinstellungen lesen</string>
-    <string name="special_perm_intercept_significance_msg">Zugriff auf Geräteinfos (evtl. mit persönlichen Daten)</string>
-    <string name="special_perm_intercept_significance_title">Zugriff auf Geräteinfos</string>
+    <string name="special_perm_intercept_significance_msg">Zugriff auf Gerätedaten (evtl. mit persönlichen Daten)</string>
+    <string name="special_perm_intercept_significance_title">Zugriff auf Gerätedaten</string>
     <string name="special_perm_intercept_system_msg">Apps installieren, die Viren enthalten oder sich anderweitig falsch verhalten könnten</string>
     <string name="special_perm_intercept_system_title">Einfluss auf die Sicherheit und Stabilität des Systems</string>
     <string name="special_perm_intercept_title">"\"%s\" ist eine hochsensible Berechtigung. Wenn Sie diese Berechtigung erteilen, könnten Ihre privaten Infos durchsickern und Ihr Eigentum in Gefahr sein. Sehen Sie, was Apps tun dürfen: "</string>

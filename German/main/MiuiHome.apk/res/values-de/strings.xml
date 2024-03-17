@@ -566,7 +566,7 @@
     <string name="preferred_app_settings_not_selected">Nicht ausgewählt</string>
     <string name="privacy_thumbnail_blur_summary">App-Vorschau in Letzte Apps verwischen</string>
     <string name="privacy_thumbnail_blur_title">App-Vorschau verwischen</string>
-    <string name="quick_app">Schnell-Apps</string>
+    <string name="quick_app">Quick Apps</string>
     <string name="quick_finder_feature_description">Mit Quick Finder können Sie Apps, In-App-Inhalte und Elemente online schneller finden. Sie können diese Funktion in Einstellungen deaktivieren.</string>
     <string name="quick_finder_tip_title">Alles, was Sie brauchen, schneller finden</string>
     <string name="quick_search_all_app_desc">Alle Apps in der App-Übersicht anzeigen</string>

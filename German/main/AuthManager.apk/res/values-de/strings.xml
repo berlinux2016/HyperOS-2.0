@@ -321,7 +321,7 @@
     <string name="permgroupdesc_contacts">%1$s erlauben, auf Kontakte zuzugreifen?</string>
     <string name="permgroupdesc_location">%1$s erlauben, auf Standortinfos zuzugreifen?</string>
     <string name="permgroupdesc_microphone">%1$s erlauben, Audio aufzunehmen?</string>
-    <string name="permgroupdesc_phone">%1$s erlauben, anzurufen und auf Geräteinfos zuzugreifen?</string>
+    <string name="permgroupdesc_phone">%1$s erlauben, anzurufen und auf Gerätedaten zuzugreifen?</string>
     <string name="permgroupdesc_read_media_aural">%1$s den Zugriff auf Audiodateien erlauben, die auf Ihrem Gerät gespeichert sind?</string>
     <string name="permgroupdesc_read_media_visual">%1$s den Zugriff auf Fotos und Videos erlauben, die auf Ihrem Gerät gespeichert sind?</string>
     <string name="permgroupdesc_read_media_visual_more">%1$s erlauben, auf mehr Fotos und Videos zuzugreifen?</string>

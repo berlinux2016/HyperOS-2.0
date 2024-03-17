@@ -1552,6 +1552,13 @@
     <string name="preferred_network_type_pref_entries_5g_preferred">5G bevorzugt</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_kd">5G (empfohlen)</string>
     <string name="preferred_network_type_pref_entries_auto">Automatisch</string>
+    <string name="preferred_network_type_pref_entries_only_2g">Nur 2G</string>
+    <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Nur GSM</string>
+    <string name="preferred_network_type_pref_entries_only_2g_mx_telcel">Nur GSM</string>
+    <string name="preferred_network_type_pref_entries_only_3g">Nur 3G</string>
+    <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Nur WCDMA</string>
+    <string name="preferred_network_type_pref_entries_only_3g_mx_telcel">Nur WCDMA</string>
+    <string name="preferred_network_type_pref_entries_only_4g">Nur LTE</string>
     <string name="preferred_network_type_pref_entries_only_support_4g_preferred_jp_kd">4G (empfohlen)</string>
     <string name="preferred_network_type_title">Bevorzugter Netzwerktyp</string>
     <string name="preferred_phone_account">Bevorzugtes Anrufkonto</string>
