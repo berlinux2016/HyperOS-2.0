@@ -964,7 +964,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="user_new_user_name">Neuer Benutzer</string>
     <string name="user_nickname">Spitzname</string>
     <string name="user_set_lock_button">Sperre einrichten</string>
-    <string name="user_setup_button_setup_later">Nicht jetzt</string>
+    <string name="user_setup_button_setup_later">Jetzt nicht</string>
     <string name="user_setup_button_setup_now">Jetzt einrichten</string>
     <string name="user_setup_dialog_message">Die Person muss Zugang zum Gerät haben und bereit sein, ihren Bereich einzurichten.</string>
     <string name="user_setup_dialog_title">Benutzer jetzt einrichten?</string>

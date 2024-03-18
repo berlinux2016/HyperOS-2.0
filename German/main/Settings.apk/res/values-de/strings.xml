@@ -6504,7 +6504,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="navigation_guide_appswitch_title">Zur vorherigen App</string>
     <string name="navigation_guide_back_summary">Vom Bildschirmrand nach links oder rechts wischen</string>
     <string name="navigation_guide_back_title">Zurück</string>
-    <string name="navigation_guide_dialog_dont_show_again">Nicht wieder anzeigen</string>
+    <string name="navigation_guide_dialog_dont_show_again">Nicht mehr anzeigen</string>
     <string name="navigation_guide_dialog_ok">Lernen</string>
     <string name="navigation_guide_dialog_skip">Jetzt nicht</string>
     <string name="navigation_guide_dialog_summary">Lernen, welche Gesten zur Systemnavigation verwendbar sind</string>
@@ -6950,7 +6950,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="notification_style_settings">Benachrichtigungsstil</string>
     <string name="notification_style_title">Benachrichtigungsstil</string>
     <string name="notification_suggestion_summary">Anzeigen/Ausblenden des Benachrichtigungsinhalts</string>
-    <string name="notification_suggestion_title">Sperrbildschirmbenachrichtigungen steuern</string>
+    <string name="notification_suggestion_title">Sperrbildschirm-Benachrichtigungen steuern</string>
     <string name="notification_switch_label">Benachrichtigungen anzeigen</string>
     <string name="notification_toggle_off">Aus</string>
     <string name="notification_toggle_on">An</string>
@@ -7586,7 +7586,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="privacy_password_fingerprint_dialog_title">Fingerabdruck scannen</string>
     <string name="privacy_password_login_and_add_account">Anmelden &amp; Hinzufügen</string>
     <string name="privacy_password_never_remind">Nicht mehr nachfragen</string>
-    <string name="privacy_password_not_add_account">Nicht jetzt</string>
+    <string name="privacy_password_not_add_account">Jetzt nicht</string>
     <string name="privacy_password_not_login_account">Sie sind nicht angemeldet</string>
     <string name="privacy_password_remind_bind_notlogin_account">Xiaomi-Konto hinzufügen, um Ihr Passwort zurückzusetzen, falls Sie es vergessen</string>
     <string name="privacy_password_remind_bindaccount_title">Xiaomi-Konto hinzufügen</string>
@@ -7904,7 +7904,7 @@ UT Interface: %5$s"</string>
     <string name="reset_network_title">WLAN, Mobilfunknetze &amp; Bluetooth zurücksetzen</string>
     <string name="reset_network_title_noSim">WLAN und Bluetooth zurücksetzen</string>
     <string name="reset_network_wifi">WLAN</string>
-    <string name="reset_remove_data_hint">Alle oben aufgeführten Punkte werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer oder in der Xiaomi-Cloud, bevor Sie fortfahren.</string>
+    <string name="reset_remove_data_hint">Alle oben aufgeführten Punkte werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer oder in der Xiaomi Cloud, bevor Sie fortfahren.</string>
     <string name="reset_second_space_passwd">Zweitprofilpasswort zurücksetzen</string>
     <string name="reset_second_space_passwd_cancel">Abbrechen</string>
     <string name="reset_second_space_passwd_confirm">Weiter</string>
@@ -10465,7 +10465,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="unlock_footer_medium_complexity_requested">%1$s empfiehlt eine neue PIN oder ein neues Passwort und funktioniert ohne evtl. nicht wie erwartet</string>
     <string name="unlock_footer_none_complexity_requested">%1$s empfiehlt eine neue Bildschirmsperre</string>
     <string name="unlock_mode_title">Bildschirmsperre</string>
-    <string name="unlock_set_do_later_title">Nicht jetzt</string>
+    <string name="unlock_set_do_later_title">Jetzt nicht</string>
     <string name="unlock_set_enter_system">Bildschirmsperre überspringen</string>
     <string name="unlock_set_enter_system_summary">Direkt zum Desktop gehen</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Experimentelle Funktion mit niedriger Sicherheit</string>
@@ -10799,7 +10799,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="user_settings_footer_text">Teilen Sie Ihr Telefon durch Hinzufügen neuer Benutzer. Jeder Benutzer hat auf Ihrem Telefon einen persönlichen Bereich für eigene Startbildschirme, Konten, Apps, Einstellungen und mehr.</string>
     <string name="user_settings_forbidden">Admineinstellungen können im aktuellen Profil nicht geändert werden. Wechseln Sie ins Hauptprofil.</string>
     <string name="user_settings_title">Benutzer</string>
-    <string name="user_setup_button_setup_later">Nicht jetzt</string>
+    <string name="user_setup_button_setup_later">Jetzt nicht</string>
     <string name="user_setup_button_setup_now">Jetzt einrichten</string>
     <string name="user_setup_dialog_message">Benutzer muss Zugang zum Telefon haben und seinen Speicher einrichten</string>
     <string name="user_setup_dialog_title">Benutzer jetzt einrichten?</string>

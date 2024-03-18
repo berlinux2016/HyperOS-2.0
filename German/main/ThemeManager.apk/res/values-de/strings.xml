@@ -301,7 +301,7 @@
     <string name="dialog_content_get_device_status">Diese App muss auf Ihre Geräte-ID zugreifen, um die auf Ihren anderen Geräten gekauften Artikel zu authentifizieren. Evtl. können Sie einige der gekauften Artikel nicht mehr verwenden, wenn Sie diese Funktion deaktivieren. Trotzdem ausschalten?</string>
     <string name="dialog_negative_button_text">Jetzt nicht</string>
     <string name="dialog_positive_button_text">Zulassen</string>
-    <string name="dialog_show_never">Nicht wieder anzeigen</string>
+    <string name="dialog_show_never">Nicht mehr anzeigen</string>
     <string name="dialog_trans_wallpaper_offline_detail">Transparente Hintergründe sind nicht mehr verfügbar, da sie von Android 12 nicht unterstützt werden.</string>
     <string name="dialog_trans_wallpaper_offline_inform_detail">Transparente Hintergründe sind wegen Android 12-Einschränkungen und Kompatibilitätsproblemen nicht mehr verfügbar.</string>
     <string name="dialog_trans_wallpaper_offline_inform_title">Transparente Hintergründe</string>
@@ -792,7 +792,7 @@ dd.MM."</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Dieser Klingelton wird für beide SIM-Karten verwendet.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Klingelton wird gleichzeitig SIM1 und SIM2 zugeordnet</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Verstanden</string>
-    <string name="multi_sim_ringtone_settings_dialog_remind_never">Nicht wieder anzeigen</string>
+    <string name="multi_sim_ringtone_settings_dialog_remind_never">Nicht mehr anzeigen</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Kompatibilitätsprobleme</string>
     <string name="multiwindow_no_support">Diese Aktion wird im geteilten Bildschirm nicht unterstützt</string>
     <string name="multiwindow_no_support_icon">Bei geteiltem Bildschirm können die Symbole nicht geändert werden</string>
@@ -1488,7 +1488,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="theme_comment_detail_no_more">Das ist im Moment alles</string>
     <string name="theme_comment_detail_sub_comment_title">Alle Antworten</string>
     <string name="theme_comment_detail_title">Details prüfen</string>
-    <string name="theme_comment_dialog_cancel">Nicht jetzt</string>
+    <string name="theme_comment_dialog_cancel">Jetzt nicht</string>
     <string name="theme_comment_dialog_message">Bewerten Sie diese App und sagen Sie uns, was Sie davon halten.</string>
     <string name="theme_comment_dialog_ok">Bewerten</string>
     <string name="theme_comment_sub_comment_bar_hint">Teilen Sie Ihre Ideen mit unserer Community</string>

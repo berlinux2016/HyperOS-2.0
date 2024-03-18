@@ -818,7 +818,7 @@
     <string name="disable_secret_album_upload_message">Neue Fotos werden nicht mehr mit der Cloud synchronisiert, wenn Sie diese Funktion ausschalten. Trotzdem ausschalten?</string>
     <string name="disconnect_migration_msg">Fotos und Videos, die bereits übertragen wurden, verbleiben in Google Fotos.</string>
     <string name="disconnect_migration_title">Übertragung beenden?</string>
-    <string name="do_not_remind_me">Nicht wieder anzeigen</string>
+    <string name="do_not_remind_me">Nicht mehr anzeigen</string>
     <string name="doc_photo_enter">Im Dokument bearbeiten</string>
     <string name="document_provider_guide_step_1">%d. \"Mehr\"-Taste tippen</string>
     <string name="document_provider_guide_step_2">%d. \"Internen Speicher anzeigen\" tippen</string>
@@ -2877,7 +2877,7 @@
     <string name="sticker_words">Wörter</string>
     <string name="stop_migration_msg">Sie können die Übertragung nicht fortsetzen, wenn Sie sie jetzt stoppen. Wenn Sie sich entscheiden, die Übertragung zu beenden, können Sie i.mi.com aufrufen, um die noch in der Xiaomi Cloud gespeicherten Elemente herunterzuladen.</string>
     <string name="stop_migration_title">Übertragung jetzt stoppen?</string>
-    <string name="stop_use_secret_cancel">Nicht jetzt</string>
+    <string name="stop_use_secret_cancel">Jetzt nicht</string>
     <string name="stop_use_secret_msg">Ihre Fotos und Videos werden nicht mehr mit Xiaomi Cloud synchronisiert. Sie können Ihr privates Album nicht mehr verwenden, da es auf der Cloud-Verschlüsselung basiert.\nBis %1$s können Sie Ihre Elemente zu Google Fotos verschieben oder i.mi.com aufrufen, um sie herunterzuladen. Danach werden die noch in Xiaomi Cloud gespeicherten Elemente endgültig gelöscht.\n%2$s</string>
     <string name="stop_use_secret_ok">Elemente übertragen</string>
     <string name="stop_use_secret_title">Privates Album ist nicht mehr verfügbar</string>

@@ -728,7 +728,7 @@
     <string name="dir_audio_type_dual">Trajektorie</string>
     <string name="dir_audio_type_front">Vorne</string>
     <string name="dirty_tip_toast">Linse ist verschmutzt. Reinigen Sie sie.</string>
-    <string name="do_not_remind_me">Nicht wieder anzeigen</string>
+    <string name="do_not_remind_me">Nicht mehr anzeigen</string>
     <string name="document_blackwhite">Schwarz-weiß</string>
     <string name="document_blur_warn">Text ist verwischt</string>
     <string name="document_mode_use_hint_text_body">Gescannte Dokumente automatisch \nausrichten und verbessern</string>

@@ -115,7 +115,7 @@
     <string name="dialog_share_as_text">Notiz als Text teilen</string>
     <string name="dialog_tip_title">Achtung</string>
     <string name="dlg_btn_set_password">Passwort festlegen</string>
-    <string name="dlg_check_reminder">Nicht wieder anzeigen</string>
+    <string name="dlg_check_reminder">Nicht mehr anzeigen</string>
     <string name="dlg_delete_message">Löschen…</string>
     <string name="dlg_hide_message">Verstecken…</string>
     <string name="dlg_info_creating_message">Nachricht erstellen…</string>

@@ -886,7 +886,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="pull_to_refresh">Zum Aktualisieren herunterziehen</string>
     <string name="push">Push-Benachrichtigungen</string>
     <string name="push_wps_better_confirm_download">Herunterladen</string>
-    <string name="push_wps_better_confirm_exit">Nicht jetzt</string>
+    <string name="push_wps_better_confirm_exit">Jetzt nicht</string>
     <string name="push_wps_better_confirm_message">Versuchen Sie WPS Office, um diesen Anhang zu öffnen</string>
     <string name="push_wps_better_confirm_noshow_hint">Nicht mehr anzeigen</string>
     <string name="push_wps_better_confirm_title">Versuchen Sie WPS Office</string>

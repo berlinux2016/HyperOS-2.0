@@ -32,7 +32,7 @@
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigationstasten sind aktiv</string>
     <string name="auto_disable_screenbuttons_float_text">Antippen, um Navigationstasten zu sperren</string>
     <string name="auto_disable_screenbuttons_prompts_message">Zum Aktivieren irgendeine Taste doppeltippen</string>
-    <string name="auto_disable_screenbuttons_prompts_not_show_again">Nicht wieder anzeigen</string>
+    <string name="auto_disable_screenbuttons_prompts_not_show_again">Nicht mehr anzeigen</string>
     <string name="auto_disable_screenbuttons_prompts_title">Navigationstasten sperren?</string>
     <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Zum Verlassen erneut tippen</string>
     <string name="auto_start_warning_allow">Erlauben</string>
@@ -302,7 +302,7 @@
     <string name="miui_multiwindow_not_support_small_window">%1$s unterstützt keine Popups</string>
     <string name="miui_multiwindow_not_support_split">%1$s unterstützt keinen geteilten Bildschirm</string>
     <string name="miui_screen_ratio_hint">Probleme mit der Auflösung</string>
-    <string name="miui_screen_ratio_hint_dont_show_again">Nicht wieder anzeigen</string>
+    <string name="miui_screen_ratio_hint_dont_show_again">Nicht mehr anzeigen</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Zu Einstellungen gehen</string>
     <string name="miui_screen_ratio_hint_message">Diese App kann im Vollbildmodus ausgeführt werden, was zu einer falscher Anzeige führen kann. Sie können dies unter Einstellungen &gt; Vollbildanzeige ändern.</string>
     <string name="miui_upgrading_notification_title">System wird geladen, einige Funktionen könnten nicht verfügbar sein</string>

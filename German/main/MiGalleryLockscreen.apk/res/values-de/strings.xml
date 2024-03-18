@@ -108,7 +108,7 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="close_gallery">Ausschalten</string>
-    <string name="comment_pop_cancel">Nicht jetzt</string>
+    <string name="comment_pop_cancel">Jetzt nicht</string>
     <string name="comment_pop_content">Bewerten Sie uns, wenn Sie Hintergrundkarussell mögen!</string>
     <string name="comment_pop_ok">Bewerten</string>
     <string name="comment_pop_title">Hintergrundkarussell bewerten</string>
@@ -345,7 +345,7 @@
     <string name="logout_title">Jetzt abmelden?</string>
     <string name="look_str">Beliebt</string>
     <string name="loop_service_dlg_content">Diashow blättert automatisch durch Sperrbildschirmbilder, die Ihren Vorlieben entsprechen, inkl. Themen wie Reisen, Essen, Kunst, Unterhaltung und mehr. Sperrbildschirm-Diashow einschalten und dieses Bild hinzufügen?</string>
-    <string name="loop_service_dlg_negative">Nicht jetzt</string>
+    <string name="loop_service_dlg_negative">Jetzt nicht</string>
     <string name="loop_service_dlg_positive">Einschalten</string>
     <string name="loop_service_dlg_positive_toast_day">Diashow ist an. Hintergrund wird täglich gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
     <string name="loop_service_dlg_positive_toast_hour_1">Diashow ist an. Hintergrund wird stündlich gewechselt. Sie können die Dauer in den Hintergrundkarussell-Einstellungen anpassen.</string>
@@ -479,7 +479,7 @@ dd.MM."</string>
     <string name="need_open_gallery">Hintergrundkarussell einschalten</string>
     <string name="new_feature_title">Was ist neu</string>
     <string name="night">Abend</string>
-    <string name="no_long_show">Nicht wieder anzeigen</string>
+    <string name="no_long_show">Nicht mehr anzeigen</string>
     <string name="no_networdk">Netzwerkverbindung fehlgeschlagen</string>
     <string name="no_pic_data">Keine Bilder gefunden</string>
     <string name="noon">Mittag</string>

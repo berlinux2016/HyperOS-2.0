@@ -684,7 +684,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="applock_mixtype_hidepwd_icon">Ausblenden</string>
     <string name="applock_mixtype_showpwd_icon">Anzeigen</string>
     <string name="applock_no_account_login">Sie sind nicht mit Ihrem Xiaomi-Konto angemeldet</string>
-    <string name="applock_not_add_account"><u>Nicht jetzt</u></string>
+    <string name="applock_not_add_account"><u>Jetzt nicht</u></string>
     <string name="applock_not_add_account_normal">Konto nicht hinzufügen</string>
     <string name="applock_not_login_account">Sie sind nicht angemeldet</string>
     <string name="applock_numeric_pwd_type_line">Gesamtzeichen im Passwort: %1$d. Eingegebene Zeichen: %2$d.</string>
@@ -918,7 +918,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="battery_history_hours">%1$d Std %2$d Min %3$d Sek</string>
     <string name="battery_history_minutes">%1$d Min %2$d Sek</string>
     <string name="battery_history_seconds">%1$d Sek</string>
-    <string name="battery_low_button_not_open_power_save">Nicht jetzt</string>
+    <string name="battery_low_button_not_open_power_save">Jetzt nicht</string>
     <string name="battery_low_button_open_power_save">Einschalten</string>
     <string name="battery_low_percent_format_save_mode_closed">Weniger als %s Akku übrig. Vergessen Sie nicht, Ihr Gerät aufzuladen.</string>
     <string name="battery_low_percent_format_save_mode_closed_new_version">Niedriger Akkustand. Laden Sie jetzt Ihr Gerät.</string>
@@ -1495,7 +1495,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_msg_install_manager_content">Sicherheit erneut installieren?</string>
     <string name="dialog_msg_install_manager_content_pad">Sicherheit erneut installieren?</string>
     <string name="dialog_msg_stop_virus_scan">Sicherheitsscan stoppen, bevor er beendet ist?</string>
-    <string name="dialog_no_longer_alert">Nicht wieder anzeigen</string>
+    <string name="dialog_no_longer_alert">Nicht mehr anzeigen</string>
     <string name="dialog_restrict_all_mobile_summary">%s mobile Datenverbindung wird danach für alle Apps eingeschränkt</string>
     <string name="dialog_restrict_all_mobile_title">%s mobile Datenverbindung einschränken</string>
     <string name="dialog_restrict_all_wlan_summary">WLAN-Verbindung wird danach für alle Apps eingeschränkt</string>
@@ -1504,7 +1504,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dialog_restrict_positive">Abbrechen</string>
     <string name="dialog_roaming_message">Erlauben Sie dieser App, mobile Daten beim Roaming zu verwenden?</string>
     <string name="dialog_roaming_title">Datenroaming</string>
-    <string name="dialog_roaming_warning_checkbox">Nicht wieder anzeigen</string>
+    <string name="dialog_roaming_warning_checkbox">Nicht mehr anzeigen</string>
     <string name="dialog_roaming_warning_message">Ihr Anbieter berechnet Kosten, wenn internationales Datenraoming eingeschaltet ist. Trotzdem einschalten?</string>
     <string name="dialog_roaming_warning_ok">Einschalten</string>
     <string name="dialog_skt_roaming_warning_cancel">Ablehnen</string>
@@ -2717,7 +2717,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="guide_operator_text">"Ihr aktueller Anbieter: "</string>
     <string name="guide_quck_open">Einschalten</string>
     <string name="guide_second_text">Wenn Sie Ihren Anbieter eingestellt haben, werden wir Ihre mobile Datennutzung täglich durch kostenlose Anbieter-SMS überwachen. Wenn wir erkennen, dass Sie Ihr Datenlimit überschritten haben, werden Sie vom Netzwerk getrennt und benachrichtigt.</string>
-    <string name="guide_wait_setting">Nicht jetzt</string>
+    <string name="guide_wait_setting">Jetzt nicht</string>
     <string name="handle_bar_summary_wifi_unknown">Unbekannt</string>
     <string name="handle_title_abnormal">Akku wird entladen</string>
     <string name="handle_title_details">Akkuverbrauchsdetails</string>
@@ -2853,8 +2853,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="lock_screen_traffic_guide_notification_title">Tippen, um Datennutzung zu verwalten</string>
     <string name="lock_screen_traffic_notify_body">Gesperrt für %2$s am %1$s, %3$s Datennutzung</string>
     <string name="lock_screen_traffic_purchase_textview">Datenvolumen kaufen</string>
-    <string name="lock_screen_traffic_warn_title">Sperrbildschirmbenachrichtigungen</string>
-    <string name="lock_screen_warning_category">Sperrbildschirmbenachrichtigungen</string>
+    <string name="lock_screen_traffic_warn_title">Sperrbildschirm-Benachrichtigungen</string>
+    <string name="lock_screen_warning_category">Sperrbildschirm-Benachrichtigungen</string>
     <string name="lock_screen_warning_switch_summary">Warnung im Sperrbildschirm anzeigen, wenn die Datennutzung einen bestimmten Wert überschreitet</string>
     <string name="lock_screen_warning_switch_title">Warnungen im Sperrbildschirm anzeigen</string>
     <string name="lock_screen_warning_value">Datennutzungswarnung</string>
@@ -4953,7 +4953,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="security_protection_title">Sicherheit</string>
     <string name="security_scan_optimizing">Optimieren…</string>
     <string name="securityadd_install_fail">Plugin wurde nicht aktualisiert. Erneut versuchen.</string>
-    <string name="securityadd_update_tips_cancle">Nicht jetzt</string>
+    <string name="securityadd_update_tips_cancle">Jetzt nicht</string>
     <string name="securityadd_update_tips_message">Aktualisieren Sie das Sicherheitsdienst-Plugin, um Zugriff auf die neuesten Gaming-Funktionen zu erhalten. %1$d MB werden heruntergeladen.</string>
     <string name="securityadd_update_tips_now">Aktualisieren</string>
     <string name="securityadd_update_tips_title">Aktualisieren</string>

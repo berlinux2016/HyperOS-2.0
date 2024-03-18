@@ -1004,7 +1004,7 @@
     <string name="sending">Senden…</string>
     <string name="service_error">Serverfehler</string>
     <string name="set_success">Erfolgreich geändert</string>
-    <string name="setting_later">Nicht jetzt</string>
+    <string name="setting_later">Jetzt nicht</string>
     <string name="setting_now">Hinzufügen</string>
     <string name="setting_ps">Passworteinstellungen</string>
     <string name="sign_in">Anmelden</string>

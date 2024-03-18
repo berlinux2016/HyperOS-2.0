@@ -90,7 +90,7 @@
     <string name="bluetooth_talkback_input_peripheral">Eingabe-Peripheriegerät</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bt_plugin_is_update_loading_dialog">Aktualisierung…</string>
-    <string name="bt_plugin_update_dialog_cancle">Nicht jetzt</string>
+    <string name="bt_plugin_update_dialog_cancle">Jetzt nicht</string>
     <string name="bt_plugin_update_dialog_title">Bluetooth-Update</string>
     <string name="bt_plugin_update_dialog_update">Aktualisieren</string>
     <string name="bt_plugin_update_done_dialog_exit">Anwenden</string>

@@ -392,7 +392,7 @@
     <string name="global_wa_setting_privacy_pref_mi_title">Xiaomi Datenschutzerklärung</string>
     <string name="global_wa_setting_privacy_pref_third_title">Datenschutzerklärungen von Drittanbietern</string>
     <string name="global_wa_shortcut_dialog_cancel">Abbrechen</string>
-    <string name="global_wa_shortcut_dialog_checkbox_hint">Nicht wieder anzeigen</string>
+    <string name="global_wa_shortcut_dialog_checkbox_hint">Nicht mehr anzeigen</string>
     <string name="global_wa_shortcut_dialog_confirm">Erstellen</string>
     <string name="global_wa_shortcut_dialog_content">Startbildschirm-Verknüpfung für WhatsApp Cleaner erstellen, um diese Funktion leicht zugänglich zu machen</string>
     <string name="global_wa_shortcut_dialog_title">Startbildschirm-Verknüpfung</string>
