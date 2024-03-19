@@ -991,8 +991,6 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="tile_label">Casting</string>
     <string name="tile_label_v2">Interkonnektivitätsdienste</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="toast_guide_show_more">Mehr erfahren</string>
     <string name="toast_guide_title">Entdecken Sie unsere neuen Funktionen hier</string>
     <string name="toast_invisible_mode">Sie sind inkognito. Casting jetzt nicht möglich.</string>

@@ -380,8 +380,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="tip_download_icon_restore">Verknüpfung für Downloads auf Startbildschirm hinzufügen</string>
     <string name="tip_download_icon_retry">Verknüpfung hinzufügen nicht möglich. Erneut versuchen.</string>
     <string name="title_tips">Achtung</string>

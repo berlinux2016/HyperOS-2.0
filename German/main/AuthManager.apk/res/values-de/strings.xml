@@ -420,8 +420,6 @@
     <string name="tilte_request_coarse_location">%1$s den Zugriff auf Ihren ungefähren Standort erlauben?</string>
     <string name="tilte_request_fine_location">%1$s den Zugriff auf Ihren genauen Standort erlauben oder stattdessen den ungefähren Standort verwenden?</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="tuesday">Dienstag</string>

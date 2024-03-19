@@ -503,9 +503,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
-    <string name="time_picker_label_second">Sek</string>
     <string name="time_settings">Uhreinstellungen</string>
     <string name="timer_alert_mute_off">Wecker ertönt, wenn der Timer stoppt</string>
     <string name="timer_alert_mute_on">Wecker ertönt nicht, wenn der Timer stoppt</string>

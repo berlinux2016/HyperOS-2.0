@@ -830,8 +830,6 @@ Sie können auch Erinnerungen einrichten, damit Sie nichts Wichtiges verpassen."
     <string name="thursday_shortest">D</string>
     <string name="ticket_card_date">%1$s Monat %2$s Tag</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_zone">Zeitzone</string>
     <string name="timezone_label">Zeitzone</string>
     <string name="title_click_record_menstruation">Eine Periode erfassen</string>

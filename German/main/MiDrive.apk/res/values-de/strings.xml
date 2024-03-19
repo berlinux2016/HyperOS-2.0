@@ -542,8 +542,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="tip_shortcut_added_success">Erfolgreich erstellt</string>
     <string name="tip_shortcut_already_added">Startbildschirm-Verknüpfung existiert bereits</string>
     <string name="today">Heute</string>

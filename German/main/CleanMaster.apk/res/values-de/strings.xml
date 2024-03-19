@@ -839,8 +839,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="tips_low_storage_dialog_cancel">Abbrechen</string>
     <string name="tips_low_storage_dialog_msg_qq_new">QQ-Cachegröße hat %d GB erreicht. Dies kann Ihr Gerät verlangsamen. QQ-Cache jetzt löschen?</string>
     <string name="tips_low_storage_dialog_msg_storage_new">Sie verwenden %s Ihres Speichers. Deinstallieren Sie nicht verwendete Apps.</string>

@@ -550,7 +550,6 @@
     <string name="home_tip_sync_done">Erfolgreich synchronisiert</string>
     <string name="home_tip_sync_immediately">Einige Elemente wurden nicht synchronisiert. Tippen, um jetzt zu synchronisieren.</string>
     <string name="home_tip_syncing">Gesundheitsdaten synchronisieren…</string>
-    <string name="hour">Std</string>
     <string name="hr_camera_permission_desc">Zur Ermittlung der Frequenz der Lichtveränderungen um den Finger durch die Kamera, um den Puls zu bestimmen</string>
     <string name="hr_choose_detect_state">Wählen Sie den Zustand bei der Erkennung</string>
     <string name="hr_cover_to_red">Kamera vollständig mit dem Finger bedecken.\nWarten, bis sich der Kreis rot färbt.</string>
@@ -799,7 +798,6 @@
     <string name="min_high_pressure">Min. systolisch (oberer)</string>
     <string name="min_low_pressure">Min. diastolisch (unterer)</string>
     <string name="min_pace">Niedrigstes Tempo</string>
-    <string name="minute">Min</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alle abwählen</string>
@@ -1619,8 +1617,6 @@
     <string name="thursday_shortest">D</string>
     <string name="time">Zeit</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="tips_default">Keine Daten</string>
     <string name="title_click_record_menstruation">Periode erfassen</string>
     <string name="title_data_collect">Verwendung persönlicher Daten</string>

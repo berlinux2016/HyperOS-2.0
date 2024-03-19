@@ -2315,8 +2315,6 @@
     <string name="ticket_invalid">Eingegebener Code ist falsch</string>
     <string name="ticket_sign_in">Mit SMS anmelden</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_segmented_evening_title">Abendliches Chillen</string>
     <string name="time_segmented_morning_title">Guten Morgen</string>
     <string name="time_segmented_noon_title">Nachmittagspicknick</string>

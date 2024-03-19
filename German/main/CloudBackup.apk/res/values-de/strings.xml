@@ -584,8 +584,6 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="title_alert_cancel_restore">Wiederherstellen stoppen</string>
     <string name="title_alert_restore_error">Wiederherstellen fehlgeschlagen</string>
     <string name="title_back_up_task_in_process">Sichern…</string>
