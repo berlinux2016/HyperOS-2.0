@@ -1029,7 +1029,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="mmiComplete">MMI abgeschlossen</string>
     <string name="mmiError">Verbindungsproblem oder ungültiger MMI-Code</string>
     <string name="mmiErrorNotSupported">Funktion nicht unterstützt</string>
-    <string name="mmiErrorWhileRoaming">Während des Roamings können Sie die Einstellungen für die Anrufweiterleitung nicht von Ihrem Telefon aus ändern.</string>
+    <string name="mmiErrorWhileRoaming">Während des Roamings können Sie die Einstellungen für die Rufumleitung nicht von Ihrem Telefon aus ändern.</string>
     <string name="mmiFdnError">Vorgang ist nur auf Festnetznummern beschränkt.</string>
     <string name="mobile_no_internet">Mobilfunknetz hat keinen Internetzugang</string>
     <string name="month_day_year" formatted="false">%-e. %B %Y</string>
@@ -1079,7 +1079,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="notification_channel_accessibility_security_policy">Verwendung Eingabehilfen</string>
     <string name="notification_channel_account">Kontostatus</string>
     <string name="notification_channel_alerts">Warnungen</string>
-    <string name="notification_channel_call_forward">Anrufweiterleitung</string>
+    <string name="notification_channel_call_forward">Rufumleitung</string>
     <string name="notification_channel_car_mode">Automodus</string>
     <string name="notification_channel_developer">Entwicklernachrichten</string>
     <string name="notification_channel_developer_important">Wichtige Entwicklernachrichten</string>

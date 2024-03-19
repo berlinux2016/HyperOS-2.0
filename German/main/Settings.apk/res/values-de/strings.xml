@@ -2089,7 +2089,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="call_records_summary_2">16. August | 1 Min 16 Sek</string>
     <string name="call_records_summary_3">16. August | 2 Min 24 Sek</string>
     <string name="call_settings_primary_user_only">Anrufeinstellungen im Erstprofil ändern</string>
-    <string name="call_settings_summary">Voicemail, Anrufweiterleitung, Anklopfen, Anrufer-ID einrichten</string>
+    <string name="call_settings_summary">Voicemail, Rufumleitung, Anklopfen, Anrufer-ID einrichten</string>
     <string name="call_settings_title">Anrufeinstellungen</string>
     <string name="call_title">Gesprächsverlauf</string>
     <string name="call_volume_option_title">Anruflautstärke</string>

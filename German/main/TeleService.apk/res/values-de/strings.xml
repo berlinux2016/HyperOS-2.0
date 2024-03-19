@@ -678,7 +678,7 @@
     <string name="dtmf_tones_summary">Länge der DTMF-Töne festlegen</string>
     <string name="dtmf_tones_title">DTMF-Töne</string>
     <string name="dual_4g_switch_summary">4G-Konnektivität für beide SIM-Slots erlauben</string>
-    <string name="dual_sim_smart_call_forward_dialog_message">Damit diese Funktion richtig funktioniert, muss die Anrufweiterleitung auf beiden SIM-Karten aktiviert sein. Erkundigen Sie sich bei Ihrem Anbieter nach den Optionen und Kosten für die Anrufweiterleitung.</string>
+    <string name="dual_sim_smart_call_forward_dialog_message">Damit diese Funktion richtig funktioniert, muss die Rufumleitung auf beiden SIM-Karten aktiviert sein. Erkundigen Sie sich bei Ihrem Anbieter nach den Optionen und Kosten für die Rufumleitung.</string>
     <string name="dual_sim_smart_call_forward_failed">Einrichtung fehlgeschlagen</string>
     <string name="dual_sim_smart_call_forward_failed_cause">Ein Netzwerkfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
     <string name="dual_sim_smart_call_forward_summary">Anrufe an andere SIM weiterleiten, wenn sie nicht angenommen werden können</string>
@@ -1660,7 +1660,7 @@
     <string name="regional_enable">Regionalnachrichten aktiviert</string>
     <string name="register_automatically">Automatische Registrierung…</string>
     <string name="register_on_network">Registrierung an %s läuft…</string>
-    <string name="registration_cf_forbidden">Ihr Anbieter unterstützt keine Anrufweiterleitung</string>
+    <string name="registration_cf_forbidden">Ihr Anbieter unterstützt keine Rufumleitung</string>
     <string name="registration_done">Am Netzwerk registriert</string>
     <string name="registration_status_checking_status">Status prüfen…</string>
     <string name="registration_status_done">Dieses Gerät kann Anrufe empfangen.</string>
@@ -1931,7 +1931,7 @@
     <string name="sunday_shortest">S</string>
     <string name="supp_service_additional_call_forwarded">Zusätzlicher Anruf umgeleitet</string>
     <string name="supp_service_additional_ect_connected">Explizite Rufumleitung abgeschlossen</string>
-    <string name="supp_service_additional_ect_connecting">Explizite Anrufweiterleitung läuft</string>
+    <string name="supp_service_additional_ect_connecting">Explizite Rufumleitung läuft</string>
     <string name="supp_service_call_forwarding_active">Rufumleitung aktiv</string>
     <string name="supp_service_call_on_hold">Anruf wird gehalten</string>
     <string name="supp_service_call_resumed">Anruf fortgesetzt</string>
@@ -2199,7 +2199,7 @@
     <string name="wificall_switch_title">Über WLAN telefonieren</string>
     <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
     <string name="wrong_password">Eingegebenes Passwort ist falsch</string>
-    <string name="xcap_setting_summary">Anrufsperre, Sprachnachricht &amp; Anrufweiterleitung und Anklopfen</string>
+    <string name="xcap_setting_summary">Anrufsperre, Sprachnachricht &amp; Rufumleitung und Anklopfen</string>
     <string name="xcap_setting_title">Einstellungen Anrufdienste</string>
     <string name="xiaoai_assistant_setting_title">Mi AI Anrufassistent</string>
     <string name="yesterday">Gestern</string>
