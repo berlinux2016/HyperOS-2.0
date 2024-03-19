@@ -400,7 +400,7 @@
     <string name="privacy_grant_success">Zustimmung erfolgreich gewährt</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_policy_msg"><Data>Diese App enthält folgende Funktionen: &lt;br/>• Wetterspezifische Daten für Ihren Standort&lt;br/>• Wettervorhersagen&lt;br/>• Wetterwarnungen&lt;br/>&lt;br/>Wetter muss die notwendigen persönlichen Daten sammeln, um Ihnen grundlegende Dienste anbieten zu können. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Wetter verwenden. Sie können Ihre Zustimmung zur Wetter Datenschutzerklärung jederzeit in Einstellungen widerrufen.</Data></string>
-    <string name="privacy_revoke_failed">Zustimmung wurde nicht widerrufen. Einen Moment warten und erneut versuchen.</string>
+    <string name="privacy_revoke_failed">Zustimmung wurde nicht widerrufen. Etwas warten und erneut versuchen.</string>
     <string name="privacy_revoke_success">Zustimmung erfolgreich widerrufen</string>
     <string name="privacy_settings">Datenschutzerklärung</string>
     <string name="pull_fresh_updated">Erfolgreich aktualisiert</string>
@@ -419,7 +419,7 @@
     <string name="realtime_aqi_title">Luftqualitätsindex</string>
     <string name="realtime_humidity_title">Luftfeuchtigkeit</string>
     <string name="realtime_humidity_title_new">Relative Luftfeuchtigkeit</string>
-    <string name="refresh_empty_data">Daten laden fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="refresh_empty_data">Daten laden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="refresh_fail">Netzwerkverbindung fehlgeschlagen</string>
     <string name="reminder_from_xiaomi_weather_app">Mi Wetteralarm</string>
     <string name="request_cta_connect_net">Dieser App die Internetverbindung erlauben und die oben aufgeführten obligatorischen Berechtigungen gewähren</string>
@@ -429,7 +429,7 @@
     <string name="request_permission_storage_dialog_content">Zum Teilen von Wetterdaten im Bildformat</string>
     <string name="retry">Erneut versuchen</string>
     <string name="revoke_fail">Netzwerkverbindung fehlgeschlagen</string>
-    <string name="revoke_permission_fail_msg">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="revoke_permission_fail_msg">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="revoke_permission_fail_next_msg">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="revoke_permission_fail_next_title">Netzwerkverbindung fehlgeschlagen</string>
     <string name="revoke_permission_fail_title">Zustimmung wurde nicht widerrufen</string>

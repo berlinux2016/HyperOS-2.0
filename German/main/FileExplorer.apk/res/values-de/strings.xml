@@ -561,7 +561,7 @@
     <string name="operation_deleting">Löschen…</string>
     <string name="operation_download">Herunterladen</string>
     <string name="operation_download_error_no_space">Unzureichender Speicher</string>
-    <string name="operation_download_error_other">Ein Systemfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="operation_download_error_other">Ein Systemfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="operation_download_error_title">Herunterladen nicht möglich</string>
     <string name="operation_editor">Bearbeiten</string>
     <string name="operation_encrypt_summary">Dateien im privaten Ordner verschlüsseln. Entschlüsseln großer Dateien kann länger als erwartet dauern.</string>
@@ -596,7 +596,7 @@
     <string name="operation_share">Teilen</string>
     <string name="operation_show_privacy_policy">Datenschutzerklärung anzeigen</string>
     <string name="operation_show_sys">Versteckte Dateien anzeigen</string>
-    <string name="operation_sync_cloud_data_error">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="operation_sync_cloud_data_error">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="operation_unfavorite">Aus Favoriten entfernen</string>
     <string name="operation_unknown_err">Diese Aktion wurde nicht abgeschlossen.</string>
     <string name="operation_upload_delete">Löschen</string>
@@ -606,7 +606,7 @@
     <string name="operation_upload_err_illegal_char">Dieser Dateiname enthält nicht unterstützte Zeichen.</string>
     <string name="operation_upload_err_larger_than_4g">Dateien größer als %d GB können nicht hochgeladen werden.</string>
     <string name="operation_upload_err_not_support_overseas">Zurzeit können nur Benutzer auf dem chinesischen Festland Elemente hochladen.</string>
-    <string name="operation_upload_err_other">Ein Systemfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="operation_upload_err_other">Ein Systemfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="operation_upload_error_title">Hochladen nicht möglich</string>
     <string name="operation_upload_retry">Erneut versuchen</string>
     <string name="operation_upload_save_to_local">Speichern unter…</string>
@@ -681,7 +681,7 @@
     <string name="pull_to_enter_private">Herunterziehen zum Öffnen privater Ordner</string>
     <string name="qq_msg">Wegen Android 11-Einschränkungen kann der Dateimanager nicht auf QQ-Dokumente zugreifen und diese anzeigen.</string>
     <string name="qq_title">Kein Zugriff auf WeChat-Dokumente</string>
-    <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="query_quota_searching">Einen Moment…</string>
     <string name="recent_file_by_source">Dateiquelle</string>
     <string name="recent_file_sort_by_date">Datum</string>

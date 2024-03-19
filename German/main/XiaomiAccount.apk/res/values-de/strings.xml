@@ -20,7 +20,7 @@
     <string name="about_device_info">Geräteinfo anzeigen</string>
     <string name="about_mi_account">Über Xiaomi-Konto</string>
     <string name="accept">Erlauben</string>
-    <string name="access_denied_info">Zu viele Versuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="access_denied_info">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="access_token_expired_warning">Weibo-Konto abgelaufen</string>
     <string name="access_token_invalid_warning">Weibo-Konto ungültig</string>
     <string name="account">Konto</string>
@@ -257,12 +257,12 @@
     <string name="fido2_close_fingerprint_auth">Ausschalten</string>
     <string name="fido2_close_fingerprint_auth_desc">Fingerabdruckverifizierung jetzt ausschalten?</string>
     <string name="fido2_err_already_registered">Dieses Konto hat diese Funktion bereits aktiviert</string>
-    <string name="fido2_err_def">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="fido2_err_def">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="fido2_err_not_regisetered">Dieses Konto hat diese Funktion noch nicht aktiviert</string>
     <string name="fido2_err_not_support">Diese Funktion wird auf diesem Gerät nicht unterstützt</string>
     <string name="fido2_err_security">Sicherheitsrisiken entdeckt. Diese Funktion kann nicht verwendet werden.</string>
-    <string name="fido2_err_service_exception">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
-    <string name="fido2_err_timeout">Anfrage wurde abgebrochen. Einen Moment warten und erneut versuchen.</string>
+    <string name="fido2_err_service_exception">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
+    <string name="fido2_err_timeout">Anfrage wurde abgebrochen. Etwas warten und erneut versuchen.</string>
     <string name="fido2_fingerprint_auth">Fingerabdruckverifizierung</string>
     <string name="fido2_fingerprint_auth_desc"><Data>Verwenden Sie Ihren Fingerabdruck, um sich an Ihrem Xiaomi-Konto anzumelden und Ihre Identität zu verifizieren. &lt;a href=>Mehr erfahren&lt;/a>.</Data></string>
     <string name="fido2_fingerprint_changed_and_afresh_register">Ihr Gerätefingerabdruck hat sich geändert. Verifizieren Sie Ihr Konto erneut, um die Fingerabdruckverifizierung zu aktivieren.</string>
@@ -668,7 +668,7 @@
     <string name="passport_first_login_prompt">Xiaomi-Konto wird automatisch erstellt, wenn Sie eine Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_forget_password">Passwort vergessen</string>
     <string name="passport_forget_password_no_underline">Passwort vergessen</string>
-    <string name="passport_frequency_try_later">Zu viele Versuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="passport_frequency_try_later">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="passport_get_back_pwd">Kontopasswort abrufen</string>
     <string name="passport_get_innetdate_agree">Prüfen</string>
     <string name="passport_get_innetdate_disagree">Nein</string>
@@ -834,7 +834,7 @@
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_sync_account_data">Kontodaten synchronisieren…</string>
     <string name="passport_sync_account_data_failed_warning">Ihre Kontodaten werden jetzt synchronisiert, Sie können sich mit Ihrer Xiaomi-Konto-ID anmelden. Wenn Sie sich mit Rufnummer oder E-Mail anmelden möchten, warten Sie, bis die Daten vollständig synchronisiert sind.</string>
-    <string name="passport_system_error">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
     <string name="passport_talkback_switch_image_captcha">Umschalten auf Bildverifikationscode</string>
     <string name="passport_talkback_switch_voice_captcha">Umschalten auf Sprachverifikationscode</string>
@@ -1048,7 +1048,7 @@
     <string name="system_ad_summary">Aktivieren Sie diese Funktion, um die Anzeige einer kleinen Anzahl von Werbung in System-Apps zu erlauben. Diese Werbung hilft uns bei der Entwicklung und Verbesserung unserer Produkte und Dienste. Sie können diese Funktion jederzeit deaktivieren.</string>
     <string name="system_ad_switch">Werbung in System-Apps</string>
     <string name="system_ad_switch_failed">Einstellung wurde nicht übernommen</string>
-    <string name="system_error_info">System ausgelastet. Einen Moment warten und erneut versuchen.</string>
+    <string name="system_error_info">System ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="talkback_scan_barcode">QR-Code scannen</string>
     <string name="template_percent">%1$d Prozent</string>
     <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>

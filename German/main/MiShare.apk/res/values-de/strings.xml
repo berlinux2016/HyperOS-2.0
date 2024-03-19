@@ -87,7 +87,7 @@
     <string name="error_send_file_no_enough_space">Senden fehlgeschlagen. Nicht genügend Speicherplatz auf dem anderen Gerät.</string>
     <string name="error_send_file_not_found">Datei nicht gefunden. Erneut versuchen.</string>
     <string name="error_send_file_service_disabled">Ausgehender Transfer abgebrochen</string>
-    <string name="error_send_transfer_error">Elemente senden fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="error_send_transfer_error">Elemente senden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="error_send_transfer_pc_error">Transfer wurde unterbrochen. Xiaomi PC Manager auf die neueste Version aktualisieren und erneut versuchen.</string>
     <string name="error_slave_wifi_in_use">Mi Share wird nicht funktionieren, wenn Dual-WLAN eingeschaltet ist. Dual-WLAN in Einstellungen ausschalten und erneut versuchen.</string>
     <string name="error_slave_wifi_in_use_china">Mi Share wird nicht funktionieren, wenn Dual-WLAN eingeschaltet ist. Dual-WLAN in Einstellungen ausschalten und erneut versuchen.</string>
@@ -222,7 +222,7 @@
     <string name="nearby_share">In der Nähe teilen</string>
     <string name="nfc_check_the_touch_device">Um die Geräte zu verbinden, sollten WLAN und Bluetooth auch auf dem anderen Gerät aktiviert sein. Prüfen Sie, ob die Verbindung für das andere Gerät unter Einstellungen > Verbinden &amp; Teilen > Verbundene Geräte erlaubt ist und versuchen Sie es erneut.</string>
     <string name="nfc_check_the_touch_device_china">Um die Geräte zu verbinden, sollten WLAN und Bluetooth auch auf dem anderen Gerät aktiviert sein. Prüfen Sie, ob die Verbindung für das andere Gerät unter Einstellungen > Verbinden &amp; Teilen > Verbundene Geräte erlaubt ist und versuchen Sie es erneut.</string>
-    <string name="nfc_connect_fail">Verbinden fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="nfc_connect_fail">Verbinden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="nfc_connect_fail_lyra_secure">Sie können Mi Share im Kontrollzentrum Ihres Geräts einschalten.</string>
     <string name="nfc_connect_fail_lyra_secure_title">Mi Share ist aus</string>
     <string name="nfc_connect_fail_pad">Verbinden fehlgeschlagen</string>

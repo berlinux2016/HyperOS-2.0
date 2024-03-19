@@ -669,7 +669,7 @@
     <string name="priority_high">Hoch</string>
     <string name="priority_label">"Priorität: "</string>
     <string name="priority_low">Niedrig</string>
-    <string name="privacy_dialog_error_service">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="privacy_dialog_error_service">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="privacy_dialog_text_policy_link">Datenschutzerklärung</string>
     <string name="privacy_dialog_tips_revoke" formatted="false">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der %s Datenschutzerklärung. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %s die Dienstleistungen auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienstleistungen von %s gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="privacy_dialog_tips_update" formatted="false">%s Datenschutzerklärung wurde aktualisiert:\n%s\nLesen und akzeptieren Sie diese neue Version, bevor Sie fortfahren.</string>
@@ -790,7 +790,7 @@
     <string name="rcs_message_disable">Diese Nachricht kann nicht im Zweitprofil angezeigt werden</string>
     <string name="rcs_my_black_chatbot_title">Sperrliste</string>
     <string name="rcs_not_online">5G Messaging nicht möglich. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="rcs_offline">Nicht bei 5G Messaging angemeldet. Einen Moment warten und erneut versuchen.</string>
+    <string name="rcs_offline">Nicht bei 5G Messaging angemeldet. Etwas warten und erneut versuchen.</string>
     <string name="rcs_offline_hint">5G Messaging ist offline. Diese Nachricht kann nicht weitergeleitet werden.</string>
     <string name="rcs_pref_category_rcs">RCS Messaging</string>
     <string name="rcs_pref_login_rcs">RCS Messaging</string>

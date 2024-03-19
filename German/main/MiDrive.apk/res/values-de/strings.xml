@@ -158,7 +158,7 @@
     <string name="exception_param_error">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="exception_rename_conflict">Umbenennen nicht möglich. Ein Element mit diesem Namen existiert bereits.</string>
     <string name="exception_rename_illegal_char">Dateinamen dürfen keine Sonderzeichen enthalten</string>
-    <string name="exception_share_file">Upload nicht möglich. Einen Moment warten und erneut versuchen.</string>
+    <string name="exception_share_file">Upload nicht möglich. Etwas warten und erneut versuchen.</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="fab_menu_sort">Sortieren</string>
     <string name="file_info_created">"Hochgeladen: "</string>
@@ -389,7 +389,7 @@
     <string name="private_empty_sub_desc">Versuchen Sie, Dateien hierher zu verschieben oder laden Sie sie direkt hoch.</string>
     <string name="private_folder_name">Private Dateien</string>
     <string name="ptp_ai_recommend_empty_page">Keine automatisch generierten PDFs hier</string>
-    <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="query_quota_searching">Einen Moment…</string>
     <string name="recent_file">Zuletzt</string>
     <string name="recent_jump_to_privacy_fail_notice">Diese Datei ist privat. Zurück zur Startseite gehen und zur Ansicht nach unten ziehen.</string>

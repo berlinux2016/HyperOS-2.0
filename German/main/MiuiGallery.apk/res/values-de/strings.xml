@@ -215,7 +215,7 @@
     <string name="ai_input_name_hint">Name eingeben</string>
     <string name="ai_loading">Einen Moment…</string>
     <string name="ai_multi_window_tip">Diese Seite kann im geteilten Bildschirm nicht angezeigt werden</string>
-    <string name="ai_network_failed">Netzwerkverbindung fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="ai_network_failed">Netzwerkverbindung fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="ai_new_name_title">Dieses KI-Bild benennen</string>
     <string name="ai_no_access_message">Anscheinend sind Sie kein Beta-Tester mehr. Bewerben Sie sich auf der Xiaomi Community, um Porträts mit KI zu erstellen!</string>
     <string name="ai_no_access_title">Beta-Tester-Berechtigungen erforderlich</string>
@@ -945,9 +945,9 @@
     <string name="error_no_wifi_tip">Verbindung mit WLAN fehlgeschlagen</string>
     <string name="error_not_acceptable">Synchronisation wurde deaktiviert</string>
     <string name="error_not_synced_action">Jetzt synchronisieren</string>
-    <string name="error_not_synced_msg">Info ist nicht synchronisiert. Einen Moment warten und erneut versuchen.</string>
+    <string name="error_not_synced_msg">Info ist nicht synchronisiert. Etwas warten und erneut versuchen.</string>
     <string name="error_not_synced_tip">Info ist nicht synchronisiert</string>
-    <string name="error_over_quota_tip">Zu viele Anfragen. Einen Moment warten und erneut versuchen.</string>
+    <string name="error_over_quota_tip">Zu viele Anfragen. Etwas warten und erneut versuchen.</string>
     <string name="error_repeat_apply">Dieses Album wurde bereits geteilt</string>
     <string name="error_share_not_support">Diese Funktion wird noch nicht unterstützt</string>
     <string name="error_share_with_creator">Dieses Album wird bereits mit Ihnen geteilt</string>
@@ -1010,7 +1010,7 @@
     <string name="face_recommend">Empfehlungen</string>
     <string name="facebook_login_btn_content_description">Mit Facebook anmelden</string>
     <string name="fail_hint">Vorgang fehlgeschlagen</string>
-    <string name="fail_reason_migrate">Elemente verarbeiten… Einen Moment warten und erneut versuchen.</string>
+    <string name="fail_reason_migrate">Elemente verarbeiten… Etwas warten und erneut versuchen.</string>
     <string name="fail_to_pick_email">Ungültige E-Mail</string>
     <string name="fail_to_sync_album">Album synchronisieren fehlgeschlagen. Netzwerkverbindung prüfen und erneut versuchen.</string>
     <string name="family_member_invitation_text">Andere Familienmitglieder</string>
@@ -1357,7 +1357,7 @@
     <string name="invite_tip">Teilen Sie Ihre Babyfotos</string>
     <string name="invite_user_activity_title">Teilen</string>
     <string name="invite_user_exist_toast">Diese Person wurde bereits eingeladen</string>
-    <string name="invite_user_fail_toast">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="invite_user_fail_toast">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="invite_user_has_joined">Dieses Album wird bereits mit dieser Person geteilt</string>
     <string name="invite_user_info_top_hint_text">Konto bestätigen</string>
     <string name="invite_user_now">Einladen</string>
@@ -1863,7 +1863,7 @@
     <string name="operation_slide_show">Diashow starten</string>
     <string name="operation_sort">Sortieren</string>
     <string name="operation_successful">Fertig</string>
-    <string name="operation_too_often">Aber hallo! Zu viele Anfragen von Ihrer IP-Adresse. Einen Moment warten und erneut versuchen.</string>
+    <string name="operation_too_often">Aber hallo! Zu viele Anfragen von Ihrer IP-Adresse. Etwas warten und erneut versuchen.</string>
     <string name="operation_unforce_top">Lösen</string>
     <string name="operation_unhide">Anzeigen</string>
     <string name="operation_upgrade_gallery">Aktualisieren</string>
@@ -2661,7 +2661,7 @@
     <string name="share_album_family_invite_resend">Erneut einladen</string>
     <string name="share_album_family_invite_sharer">Personen einladen</string>
     <string name="share_album_family_invite_title">Teilen</string>
-    <string name="share_album_family_invite_toomuch_tip">Zu viele Anfragen. Einen Moment warten und erneut versuchen.</string>
+    <string name="share_album_family_invite_toomuch_tip">Zu viele Anfragen. Etwas warten und erneut versuchen.</string>
     <string name="share_album_family_invite_waiting">Warten</string>
     <string name="share_album_family_manage">Familienfreigabe</string>
     <string name="share_album_family_share_to_friend">Freunde</string>
@@ -2684,7 +2684,7 @@
     <string name="share_album_home_share_to_home">Smart Home</string>
     <string name="share_album_home_switch_family">Umschalten</string>
     <string name="share_album_home_text_tip">Dieses Album wird mit Ihrer Familiengruppe geteilt. Es wird auch als Diashow auf den für Ihre Familiengruppe verfügbaren Bildschirmen abgespielt.</string>
-    <string name="share_album_invite_send_failed">Einladung wurde nicht gesendet. Einen Moment warten und erneut versuchen.</string>
+    <string name="share_album_invite_send_failed">Einladung wurde nicht gesendet. Etwas warten und erneut versuchen.</string>
     <string name="share_album_invite_send_success">Einladung erfolgreich gesendet</string>
     <string name="share_album_manage">Geteilte Elemente verwalten</string>
     <string name="share_album_needs_auto_upload_tip">Synchronisation mit der Cloud kann für geteilte Alben nicht deaktiviert werden</string>
@@ -2948,7 +2948,7 @@
     <string name="syncing_metadata_title">Xiaomi Cloud-Daten synchronsieren</string>
     <string name="syncing_normal_title">Fotos und Videos sichern</string>
     <string name="system_album">Systemalbum</string>
-    <string name="system_error_info">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="talkback_delete_search_history">Suchverlauf löschen</string>
     <string name="talkback_doc_with_time">Dokument, %s</string>
     <string name="talkback_doc_with_time_and_location">Dokument, %1$s, %2$s</string>
@@ -3182,7 +3182,7 @@
     <string name="transfer_status_banner_msg_pausing">Übertragung unterbrochen %1$s</string>
     <string name="transfer_status_banner_msg_preparing">Vorbereiten der Übertragung %1$s</string>
     <string name="transfer_status_banner_msg_processing">Übertragen von Fotos und Videos %1$s \n(%2$d/%3$d)</string>
-    <string name="transfer_status_banner_msg_unbinding">Konto wird jetzt entfernt. Einen Moment warten und Übertragung erneut starten %1$s</string>
+    <string name="transfer_status_banner_msg_unbinding">Konto wird jetzt entfernt. Etwas warten und Übertragung erneut starten %1$s</string>
     <string name="trash_bin">Gelöschte Elemente</string>
     <string name="trash_bin_key_word">Gelöschte Fotos</string>
     <string name="trash_bin_summary">Zuletzt gelöschte, gesicherte Fotos durchstöbern</string>

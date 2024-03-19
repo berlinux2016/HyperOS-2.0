@@ -970,8 +970,8 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="sending_message">Nachricht senden…</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat wurde nicht validiert
 \u0009 (Stellen Sie sicher, dass die 'Autom. Zeitsynchronisation' in Einstellungen eingeschaltet ist)"</string>
-    <string name="ser_resp_err_map_landing_more_failure">Anmeldung ist mehrmals hintereinander fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
-    <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="ser_resp_err_map_landing_more_failure">Anmeldung ist mehrmals hintereinander fehlgeschlagen. Etwas warten und erneut versuchen.</string>
+    <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche. Etwas warten und erneut versuchen.</string>
     <string name="ser_resp_err_map_mailbox_locked">Dieses E-Mail-Konto ist gesperrt. Wenden Sie sich zunächst an den E-Mail-Dienstanbieter, um die Sperre aufzuheben.</string>
     <string name="ser_resp_err_map_mailbox_not_open">Dieses E-Mail-Konto ist nicht aktiviert. Wenden Sie sich zunächst an den E-Mail-Anbieter, um es zu aktivieren.</string>
     <string name="ser_resp_err_map_max_connections">Auf dieses Konto wird von zu vielen Geräten aus zugegriffen. Entfernen Sie dieses Konto von einem der Geräte, um auf diesem Gerät darauf zugreifen zu können.</string>

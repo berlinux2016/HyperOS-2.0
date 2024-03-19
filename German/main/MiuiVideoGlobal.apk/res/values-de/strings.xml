@@ -224,7 +224,7 @@
     <string name="common_google_play_services_updating_text">%1$s läuft nicht ohne Google Play-Dienste, die gerade aktualisiert werden.</string>
     <string name="common_google_play_services_wear_update_text">Neue Version der Google Play-Dienste erforderlich. Sie wird sich in Kürze selbst aktualisieren.</string>
     <string name="common_open_on_phone">Am Telefon öffnen</string>
-    <string name="common_retry_late_hint">Einen Moment warten und erneut versuchen</string>
+    <string name="common_retry_late_hint">Etwas warten und erneut versuchen</string>
     <string name="common_signin_button_text">Anmelden</string>
     <string name="common_signin_button_text_long">Mit Google anmelden</string>
     <string name="confirm_activate_email">Verifiziert</string>
@@ -558,7 +558,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="galleryplus_v_dialog_hint_start_with_dot">Dateiname darf nicht mit \".\" beginnen</string>
     <string name="galleryplus_v_dialog_hint_too_long">Dateiname ist zu lang</string>
     <string name="galleryplus_v_network_failed">Netzwerkverbindung fehlgeschlagen</string>
-    <string name="galleryplus_video_circulate_error">Wiedergabe wurde nicht übertragen. Einen Moment warten und erneut versuchen.</string>
+    <string name="galleryplus_video_circulate_error">Wiedergabe wurde nicht übertragen. Etwas warten und erneut versuchen.</string>
     <string name="galleryplus_video_circulate_loading">Wiedergabe übertragen…</string>
     <string name="galleryplus_video_circulate_quit">Videowiedergabe stoppen</string>
     <string name="galleryplus_video_edit_save_video">Video mit Untertiteln erzeugen…</string>
@@ -1648,12 +1648,12 @@ Es zeigt nichts an."</string>
     <string name="toast_bookmark_url_error">Geben Sie eine gültige URL ein</string>
     <string name="toast_fail_to_delete">Löschen fehlgeschlagen. Erneut versuchen.</string>
     <string name="toast_fail_to_rename">Umbenennen fehlgeschlagen. Erneut versuchen.</string>
-    <string name="toast_incentive_claim_fail_11">Punkte nicht geltend gemacht. Einen Moment warten und erneut versuchen.</string>
+    <string name="toast_incentive_claim_fail_11">Punkte nicht geltend gemacht. Etwas warten und erneut versuchen.</string>
     <string name="toast_incentive_claim_out_of_limit_2004">Mehr Punkte sind heute nicht möglich. Kontaktieren Sie uns, wenn Sie Fragen haben.</string>
     <string name="toast_incentive_redeem_fail_not_enough_points_2003">Sie haben nicht genug Punkte</string>
     <string name="toast_incentive_redeem_fail_out_of_limit_2004">Diese Prämie kann heute nicht mehr eingelöst werden</string>
     <string name="toast_incentive_redeem_fail_prize_expired_2005">Diese Prämie ist nicht verfügbar</string>
-    <string name="toast_incentive_redeem_fail_prize_expired_error">Einlösen fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_error">Einlösen fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Diese Prämie ist derzeit nicht verfügbar. Später erneut versuchen.</string>
     <string name="toast_m3u8_download_path_tip">Download-Pfad kann für Inhalte im m3u8-Format nicht geändert werden</string>
     <string name="toast_play_error_tip">Diese Datei kann nicht abgespielt werden.</string>

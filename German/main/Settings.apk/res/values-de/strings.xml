@@ -53,7 +53,7 @@
     <string name="access_control_password_title">Passwort</string>
     <string name="access_control_recording_intro_header">Zeichnen Sie ein Entsperrmuster:</string>
     <string name="access_control_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich mit Ihrem Xiaomi-Konto an</string>
-    <string name="access_denied_info">Zu viele Versuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="access_denied_info">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="access_point_names">Zugangspunktnamen</string>
     <string name="accessibility_alarm_vibration_title">Alarmvibration</string>
     <string name="accessibility_audio_adjustment_title">Audio-Anpassung</string>
@@ -899,7 +899,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="assist_gesture_sensitivity_title">Empfindlichkeit</string>
     <string name="assist_gesture_title">Hilfsgeste</string>
     <string name="assistance_category_title">Eingabehilfen</string>
-    <string name="assistant_add_fail">Zuhören geht jetzt nicht. Einen Moment warten und erneut versuchen.</string>
+    <string name="assistant_add_fail">Zuhören geht jetzt nicht. Etwas warten und erneut versuchen.</string>
     <string name="assistant_corner_gesture_summary">Von einer unteren Ecke nach oben wischen, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_corner_gesture_title">Wischen zum Aufrufen des Assistenten</string>
     <string name="assistant_gesture_category_title">Digitaler Assistent</string>
@@ -5119,10 +5119,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="live_caption_title">Live-Untertitel</string>
     <string name="load_error">Laden fehlgeschlagen</string>
     <string name="load_esim_info">eSIM-Infos abrufen…</string>
-    <string name="load_esim_info_error">eSIM-Infos laden fehlgeschlagen. Einen Moment warten und erneut versuchen.</string>
+    <string name="load_esim_info_error">eSIM-Infos laden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="loading">Einen Moment…</string>
     <string name="loading_data">Daten laden</string>
-    <string name="loading_eid_error_message">EID-Daten nicht abrufbar. Einen Moment warten und erneut versuchen.</string>
+    <string name="loading_eid_error_message">EID-Daten nicht abrufbar. Etwas warten und erneut versuchen.</string>
     <string name="loading_eid_error_ok">Verstanden</string>
     <string name="loading_eid_error_title">Laden fehlgeschlagen</string>
     <string name="loading_eid_tip">EID-Daten abrufen…</string>
@@ -9809,7 +9809,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="system_backup_section_title_new">Lokal</string>
     <string name="system_dashboard_summary">Sprachen, Zeit, Sicherung, Updates</string>
     <string name="system_default_app_subtext">Systemstandardeinstellung</string>
-    <string name="system_error_info">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="system_haptic_feedback">Haptisches Feedback</string>
     <string name="system_language">Systemsprachen</string>
     <string name="system_navigation_title">Navigationsmodus</string>
@@ -10817,7 +10817,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="valid_net_access">Zugangsdaten zum Netzwerk anzeigen</string>
-    <string name="valid_net_result_fail">Keine Info erhalten. Einen Moment warten und erneut versuchen.</string>
+    <string name="valid_net_result_fail">Keine Info erhalten. Etwas warten und erneut versuchen.</string>
     <string name="valid_net_result_title">Ergebnis</string>
     <string name="var_font_switch_dialog_summary">Sie müssen Ihr Gerät neu starten, um diese Einstellung zu ändern.</string>
     <string name="var_font_switch_dialog_title">Gerät neu starten?</string>

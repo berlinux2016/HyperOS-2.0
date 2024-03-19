@@ -271,7 +271,7 @@
     <string name="circulate_to_mijia">Smart Home-Geräte</string>
     <string name="circulate_tv_app_opening">Am TV öffnen…</string>
     <string name="circulate_tv_capturing">Screenshot aufnehmen…</string>
-    <string name="circulate_tv_is_authing_tip">Geräte werden jetzt verifiziert. Einen Moment warten und erneut versuchen.</string>
+    <string name="circulate_tv_is_authing_tip">Geräte werden jetzt verifiziert. Etwas warten und erneut versuchen.</string>
     <string name="circulate_tv_power_alter_text">Sie haben Ihren TV so eingestellt, dass er sich komplett oder den Bildschirm ausschaltet. Fernbedienungen und TVs verschwinden von hier, wenn sich der TV ausschaltet.</string>
     <string name="circulate_tv_power_alter_title">Achtung</string>
     <string name="circulate_video_capture_fail">Screenshot fehlgeschlagen</string>
@@ -333,7 +333,7 @@
     <string name="current_wifi_tv">Aktuelles Netzwerk</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-    <string name="device_busy">Gerät ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="device_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="device_desc_trust">Vertrauenswürdige Geräte</string>
     <string name="device_permission_authorize_dialog_message">Sobald diese Berechtigung erteilt ist, kann dieses Gerät %s für die Aufnahme von Fotos und Videos verwenden.</string>
     <string name="device_permission_authorize_dialog_title">Kamera-Berechtigungen auf %s gewähren</string>
@@ -391,7 +391,7 @@
     <string name="err_toast_msg_mirror_support_support_only">Dieses Gerät unterstützt nur die Bildschirmspiegelung. Versuchen Sie, die Karte mit dem Bildschirm dieses Gerätes zu ziehen.</string>
     <string name="err_toast_msg_not_support">Diese Aktion wird nicht unterstützt</string>
     <string name="err_toast_msg_not_support_audio_protocol">Audiowiedergabe kann nicht auf dieses Gerät übertragen werden</string>
-    <string name="err_toast_msg_retry_later">Aktion wurde nicht ausgeführt. Einen Moment warten und erneut versuchen.</string>
+    <string name="err_toast_msg_retry_later">Aktion wurde nicht ausgeführt. Etwas warten und erneut versuchen.</string>
     <string name="err_toast_msg_try_switch_network">Verbinden Sie Ihr Mobilgerät und Ihren Computer mit demselben WLAN</string>
     <string name="error_a11y_label">Fehler: ungültig</string>
     <string name="error_icon_content_description">Fehler</string>
@@ -887,7 +887,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="send">Senden</string>
     <string name="server_activity_task_tips">Kamera-Feed mit %s teilen</string>
     <string name="server_camera_disconnected">Verbindung zum anderen Gerät wurde wegen eines Fehlers getrennt</string>
-    <string name="server_camera_occupied">Kamera ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="server_camera_occupied">Kamera ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="server_toast_camera_prepare">Vorbereiten der Freigabe des Kamera-Feed…</string>
     <string name="set_negative_button">Einstellungen</string>
     <string name="settings_cross_notify">Benachrichtigungen auf anderen Geräten</string>

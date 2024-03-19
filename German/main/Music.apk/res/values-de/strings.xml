@@ -1082,7 +1082,7 @@
     <string name="passport_error_user_password">Passwörter stimmen nicht überein</string>
     <string name="passport_exceed_binded_phone_times_notice">Diese Rufnummer ist bereits mit einem anderen Xiaomi-Konto verbunden</string>
     <string name="passport_facebook_login_btn_content_description">Mit Facebook anmelden</string>
-    <string name="passport_frequency_try_later">Zu viele Versuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="passport_frequency_try_later">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="passport_get_login_type_next">Weiter</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="passport_google_login_btn_content_description">Mit Google anmelden</string>
@@ -1144,7 +1144,7 @@
     <string name="passport_skip_query_account">Überspringen</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
-    <string name="passport_system_error">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
     <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
     <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>
@@ -1728,9 +1728,9 @@
     <string name="youtube_delete_dialog_title">Aus Favoriten entfernen</string>
     <string name="youtube_download_canl">Abbrechen</string>
     <string name="youtube_download_fail_net">Netzwerkerbindung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="youtube_download_fail_source">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="youtube_download_fail_source">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="youtube_download_fail_space">Herunterladen fehlgeschlagen. Nicht genug Speicherplatz.</string>
-    <string name="youtube_download_fail_unknown">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="youtube_download_fail_unknown">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="youtube_download_hint">Der Ton dieses Videos wird auf Ihrem Gerät im MP3-Format mit dem Videotitel als Dateinamen gespeichert. Jetzt herunterladen?</string>
     <string name="youtube_download_ing">Einen Moment…</string>
     <string name="youtube_download_start">Herunterladen</string>

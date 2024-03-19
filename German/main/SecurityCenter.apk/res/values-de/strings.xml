@@ -245,7 +245,7 @@
     <string name="antivirus_third_privacy_title">Datenschutzerklärung von Drittanbietern</string>
     <string name="antivirus_toast_already_update">Auf dem neuesten Stand</string>
     <string name="antivirus_toast_network_unavailable">Keine Netzwerkverbindung</string>
-    <string name="antivirus_toast_update_failed">Einen Moment warten und erneut versuchen</string>
+    <string name="antivirus_toast_update_failed">Etwas warten und erneut versuchen</string>
     <string name="antivirus_toast_update_success">Aktualisieren erfolgreich</string>
     <string name="antivirus_toast_updating">Aktualisieren…</string>
     <string name="antivirus_update_btn_contiue">Fortsetzen</string>
@@ -977,7 +977,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="best_booster_status">Spielgeschwindigkeit ist die beste, die derzeit verfügbar ist.</string>
     <string name="best_warning_dialog_button">Verstanden</string>
     <string name="bg_network_exception_title">Eingeschränkte Hintergrundverbindung</string>
-    <string name="bh_buy_order_fail_tips_text">Ein Fehler ist aufgetreten. Einen Moment warten und erneut versuchen.</string>
+    <string name="bh_buy_order_fail_tips_text">Ein Fehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="bh_card_order_detail">Bestellinfo</string>
     <string name="bh_card_order_name">Servicepaket</string>
     <string name="bh_card_order_pay_price">Gezahlter Betrag</string>

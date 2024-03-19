@@ -68,7 +68,7 @@
     <string name="default_boss_terminal_name">Xiaomi Computer</string>
     <string name="default_error_msg">Unbekannter Fehler</string>
     <string name="desktop_switch_is_closed">Startbildschirm+ ist ausgeschaltet</string>
-    <string name="device_busy">Gerät ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="device_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="device_max_screen_count_toast">Dieses Gerät unterstützt nur das gleichzeitige Öffnen von zwei Fenstern</string>
     <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>
     <string name="display_not_support_secondary_toast">Diese App kann nicht in neuem Fenster geöffnet werden</string>
@@ -479,8 +479,8 @@
     <string name="share_pc_abort_dialog_ok">Verstanden</string>
     <string name="share_pc_abort_dialog_title">Verbindung wurde unterbrochen</string>
     <string name="share_pc_file_transfer_finish">Erfolgreich übertragen</string>
-    <string name="share_pc_file_transfer_part_failed">Einige Dateien wurden nicht übertragen. Einen Moment warten und erneut versuchen.</string>
-    <string name="share_pc_file_transfer_try_later">Einen Moment warten und erneut versuchen.</string>
+    <string name="share_pc_file_transfer_part_failed">Einige Dateien wurden nicht übertragen. Etwas warten und erneut versuchen.</string>
+    <string name="share_pc_file_transfer_try_later">Etwas warten und erneut versuchen.</string>
     <string name="share_pc_folder_error_dialog_message">Ziehen von Ordnern zum Übertragen wird derzeit nicht unterstützt.</string>
     <string name="share_pc_folder_error_dialog_ok">Verstanden</string>
     <string name="share_pc_folder_error_dialog_title">Übertragen fehlgeschlagen</string>
@@ -604,6 +604,6 @@
     <string name="worker_connect_help">Hilfe</string>
     <string name="worker_connecting_message">Verbinden…</string>
     <string name="worker_try_join_in_connected_state">Erfolgreich verbunden</string>
-    <string name="worker_try_join_pc_when_pad_adv_connected">Dieses Gerät ist jetzt mit einem anderen Gerät verbunden. Einen Moment warten und erneut versuchen.</string>
+    <string name="worker_try_join_pc_when_pad_adv_connected">Dieses Gerät ist jetzt mit einem anderen Gerät verbunden. Etwas warten und erneut versuchen.</string>
     <string name="yesterday">Gestern</string>
 </resources>

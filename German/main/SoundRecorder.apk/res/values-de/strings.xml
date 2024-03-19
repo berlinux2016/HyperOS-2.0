@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="access_denied_info">Zu viele Versuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="access_denied_info">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agree_description">Diese App darf eine Internetverbindung herstellen, um alle ihre Funktionen zu verwenden.</string>
@@ -425,7 +425,7 @@
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="sync_desc_state_complete">Mit Cloud synchronisiert: %1$s</string>
-    <string name="system_error_info">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="tab_all">Alles</string>
     <string name="tab_call">Anrufe</string>
     <string name="text_btn_backward_3_seconds">%d Sek zurück</string>

@@ -723,7 +723,7 @@
     <string name="pa_widget_need_download_privacy">Datenschutz</string>
     <string name="pa_world_cup_widget_authority_tip">Gewähren Sie die Berechtigung, Infos zu den Spielen der FIFA-Weltmeisterschaft anzuzeigen.</string>
     <string name="pa_world_cup_widget_authorize">Gewähren</string>
-    <string name="pa_world_cup_widget_operation_fail_toast">Aktion wurde nicht abgeschlossen. Einen Moment warten und erneut versuchen.</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">Aktion wurde nicht abgeschlossen. Etwas warten und erneut versuchen.</string>
     <string name="pa_world_cup_widget_request_error_tip">Ein Netzwerkfehler ist aufgetreten</string>
     <string name="pa_world_cup_widget_request_retry">Erneut versuchen</string>
     <string name="pa_world_cup_widget_reserve_success_toast">Sie erhalten vor Beginn des Spiels eine Erinnerung</string>

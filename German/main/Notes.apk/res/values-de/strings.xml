@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="access_denied_info">Zu viele Versuche. Einen Moment warten und erneut versuchen.</string>
+    <string name="access_denied_info">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="access_photos_and_videos">Zugriff auf Fotos und Videos</string>
     <string name="action_collapse">Ausblenden</string>
     <string name="action_expand">Mehr anzeigen</string>
@@ -679,7 +679,7 @@
     <string name="sync_desc_state_running">Synchronisieren mit der Cloud</string>
     <string name="sync_folder_todo">%1$s und %2$s</string>
     <string name="sync_note_todo">%1$s und %2$s</string>
-    <string name="system_error_info">System ist beschäftigt. Einen Moment warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
