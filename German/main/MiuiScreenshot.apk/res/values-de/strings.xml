@@ -366,8 +366,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="toast_download_with_metered_network_btn_continue">Herunterladen</string>
     <string name="toast_download_with_metered_network_msg">Anscheinend ist Ihr Gerät nicht mit WLAN verbunden. Elemente mit mobilen Daten herunterladen?</string>
     <string name="toast_download_with_metered_network_title">Datennutzungswarnung</string>

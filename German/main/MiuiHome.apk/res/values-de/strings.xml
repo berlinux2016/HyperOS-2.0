@@ -756,8 +756,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="title_jeejen">Jeejen-Startbildschirm</string>
     <string name="toast_drag_to_assistant_reject">Infoassistent initialisieren…</string>
     <string name="toast_screen_icons_misplaced">Von anderer Quelle wiederhergestellt, einige Symbole könnten falsch platziert sein</string>

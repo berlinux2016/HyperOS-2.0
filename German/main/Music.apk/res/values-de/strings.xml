@@ -1524,8 +1524,6 @@
     <string name="ticket_summary">Kaufen Sie Tickets für Shows, Konzerte, Theaterstücke und andere Veranstaltungen</string>
     <string name="ticket_title">Tickets anzeigen</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_to_upgrade">Update ist verfügbar</string>
     <string name="tips_click_here_to_continue">Tippen, um die Wiedergabe fortzusetzen</string>
     <string name="title_command_mode">Befehlsmodus</string>

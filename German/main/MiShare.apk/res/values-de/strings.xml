@@ -373,8 +373,6 @@
     <string name="tile_state_inactive">Aus</string>
     <string name="tile_state_unavailable">Nicht verfügbar</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="tips_p2p_support_use5g">Für beste Ergebnisse sollten Sie ein 5-GHz-WLAN verwenden.</string>
     <string name="tips_p2p_support_use5g_china">Für beste Ergebnisse sollten Sie ein 5-GHz-WLAN verwenden.</string>
     <string name="to_feedback">Melden</string>

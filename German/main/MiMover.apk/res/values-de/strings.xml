@@ -787,8 +787,6 @@ Mindestens %s freigeben."</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_spent">Zeit: %1$s</string>
     <string name="title_open_wlan">WLAN einschalten</string>
     <string name="title_request_alert_window_perm">Popups erlauben</string>

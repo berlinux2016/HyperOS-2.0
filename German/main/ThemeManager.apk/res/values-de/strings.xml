@@ -1577,8 +1577,6 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="tips_theme_gate_transfer_fail">Seite öffnen nicht möglich. Etwas warten und erneut versuchen.</string>
     <string name="title_component">Thema anpassen</string>
     <string name="title_my_audio_resource">Meine Klingeltöne</string>

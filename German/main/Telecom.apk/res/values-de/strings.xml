@@ -885,8 +885,6 @@ Drücken Sie 'Löschen und Konvertieren…', um fortzufahren."</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_unit_just_now">Gerade eben</string>
     <string name="title_convert_fbe">Zu dateibasierter Verschlüsselung konvertieren</string>
     <string name="toast_emergency_can_not_pull_call">Während eines Notrufs können Sie keine Anrufe annehmen.</string>

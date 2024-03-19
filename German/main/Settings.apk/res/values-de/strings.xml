@@ -10021,8 +10021,6 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="time_picker_hour_24h_suffix">%1$d Stunden</string>
     <string name="time_picker_hour_selection">Stunde auswählen</string>
     <string name="time_picker_hour_suffix">%1$s Uhr</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_picker_minute_selection">Minuten auswählen</string>
     <string name="time_picker_minute_suffix">%1$d Minuten</string>
     <string name="time_picker_period_toggle_description">Vor- oder nachmittags auswählen</string>

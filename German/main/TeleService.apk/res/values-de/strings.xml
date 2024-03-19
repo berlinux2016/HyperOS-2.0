@@ -2049,8 +2049,6 @@
     <string name="time_end_minute">Stoppzeit Minute</string>
     <string name="time_next_day">Nächster Tag</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="time_start">Von</string>
     <string name="time_start_hour">Startzeit Stunde</string>
     <string name="time_start_minute">Startzeit Minute</string>

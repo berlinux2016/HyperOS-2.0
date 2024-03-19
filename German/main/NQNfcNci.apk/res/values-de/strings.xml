@@ -315,8 +315,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="time_picker_label_hour">Std</string>
-    <string name="time_picker_label_minute">Min</string>
     <string name="title_bluetooth_pair">Bluetooth-Gerät koppeln</string>
     <string name="title_confirm_url_open">Link jetzt öffnen?</string>
     <string name="title_connect_network">Mit Netzwerk verbinden</string>
