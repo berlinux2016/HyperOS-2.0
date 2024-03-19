@@ -1075,7 +1075,7 @@
     <string name="mhh_disable">Medizin, Gesundheit und Krankenhaus ausgeschaltet</string>
     <string name="mhh_enable">Medizin, Gesundheit und Krankenhaus eingeschaltet</string>
     <string name="mi_mobile_settings_summary">Datentarife bereitgestellt von Xiaomi</string>
-    <string name="mi_mobile_sim_activate_message">SIM %1$d aktivieren, um Mi Mobile zu verwenden. Dies kann %2$d-%3$d Min. dauern.</string>
+    <string name="mi_mobile_sim_activate_message">SIM %1$d aktivieren, um Mi Mobile zu verwenden. Dies kann %2$d-%3$d Min dauern.</string>
     <string name="mi_mobile_sim_activate_ok">Aktivieren</string>
     <string name="mi_mobile_sim_activate_title">Wilkommen bei Mi Mobile!</string>
     <string name="mi_sim_not_active">Mi Mobile SIM ist nicht aktiviert</string>

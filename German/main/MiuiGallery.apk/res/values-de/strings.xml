@@ -2618,7 +2618,7 @@
     <string name="send_public_url">Album-URL senden</string>
     <string name="send_secret_file_failed">Teilen fehlgeschlagen</string>
     <string name="send_secret_file_space_low">Nicht genügend Speicherplatz</string>
-    <string name="send_special_video_duration_more_than_40s">Verarbeitete Videos, die länger als %d Min. sind, können nur in ihrem Originalformat geteilt werden, welches ggf. nicht mit dem empfangenden Gerät kompatibel ist. Trotzdem fortfahren?</string>
+    <string name="send_special_video_duration_more_than_40s">Verarbeitete Videos, die länger als %d Min sind, können nur in ihrem Originalformat geteilt werden, welches ggf. nicht mit dem empfangenden Gerät kompatibel ist. Trotzdem fortfahren?</string>
     <string name="service_error">Serverfehler</string>
     <string name="service_is_provided_by_miui_cloud_service">Dieser Service wird von Xiaomi Cloud angeboten</string>
     <string name="set_as_baby_lock_wallpaper">Als Sperrbildschirmhintergrund festlegen</string>

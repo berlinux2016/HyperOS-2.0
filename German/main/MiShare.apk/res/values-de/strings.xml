@@ -316,7 +316,7 @@
     <string name="start_scan">SCAN STARTEN</string>
     <string name="stop_advertise">WERBUNG STOPPEN</string>
     <string name="stop_scan">SCAN STOPPEN</string>
-    <string name="sub_title_mishare_switch">Diese Funktion schaltet sich nach %d Min. automatisch ab</string>
+    <string name="sub_title_mishare_switch">Diese Funktion schaltet sich nach %d Min automatisch ab</string>
     <string name="sub_title_turbo_mode">Superschnelle Übertragungen zwischen Xiaomi Telefonen und Tablets. Das Netzwerk wird während der Übertragung unterbrochen.</string>
     <string name="sub_title_withdraw_privacy_policy_consent">Wenn Sie Ihre Zustimmung zur Datenschutzerklärung widerrufen, wird auch Mi Share deaktiviert</string>
     <string name="success_receive_much_file_from_pc">Mehr als %2$d Dateien von %1$s erhalten. Zum Anzeigen tippen.</string>
@@ -376,7 +376,7 @@
     <string name="tips_p2p_support_use5g">Für beste Ergebnisse sollten Sie ein 5-GHz-WLAN verwenden.</string>
     <string name="tips_p2p_support_use5g_china">Für beste Ergebnisse sollten Sie ein 5-GHz-WLAN verwenden.</string>
     <string name="to_feedback">Melden</string>
-    <string name="toast_auto_close_in_minutes">Mi Share schaltet sich nach %d Min. ab</string>
+    <string name="toast_auto_close_in_minutes">Mi Share schaltet sich nach %d Min ab</string>
     <string name="toast_transfering">Elemente werden übertragen. Später erneut versuchen.</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>

@@ -310,7 +310,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="accessibility_settings_tabs_physical">Physisch</string>
     <string name="accessibility_settings_tabs_visual">Visuell</string>
     <string name="accessibility_settings_title">Einstellungen für Eingabehilfen</string>
-    <string name="accessibility_shortcut_description">Wenn die Verknüpfung aktiviert ist, drücken Sie beide Lautstärketasten 3 Sek. lang, um eine Eingabehilfefunktion zu starten.</string>
+    <string name="accessibility_shortcut_description">Wenn die Verknüpfung aktiviert ist, drücken Sie beide Lautstärketasten 3 Sek lang, um eine Eingabehilfefunktion zu starten.</string>
     <string name="accessibility_shortcut_edit_dialog_summary_hardware">Beide Lautstärketasten drücken &amp; halten</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software">Auf die Eingabehilfentaste %s am unteren Bildschirmrand tippen.\n\nUm zwischen Funktionen zu wechseln, berühren &amp; halten Sie die Eingabehilfentaste.</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_floating">"<annotation id="link">Mehr Optionen</annotation>"</string>

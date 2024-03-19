@@ -490,8 +490,8 @@
     <string name="long_press_power_guide_settings">Einstellungen</string>
     <string name="long_press_power_guide_title">Mit Power-Taste aufwecken</string>
     <string name="long_press_power_key">Power-Taste lange drücken</string>
-    <string name="long_press_power_key_half_of_second">Power-Taste für 0,5 Sek. gedrückt halten, um Google Assistant einzuschalten</string>
-    <string name="long_press_power_key_half_second">Power-Taste für %s Sek. gedrückt halten</string>
+    <string name="long_press_power_key_half_of_second">Power-Taste für 0,5 Sek gedrückt halten, um Google Assistant einzuschalten</string>
+    <string name="long_press_power_key_half_second">Power-Taste für %s Sek gedrückt halten</string>
     <string name="long_press_power_key_tips">&lt;Data>Langes Drücken der Power-Taste ist &lt;font color=#999999>schneller und bequemer&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Lautstärke runter lange drücken</string>
     <string name="master_clear_apply_step_1">Widerruf der Autorisierung erfordert einen Werksreset auf Ihrem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer, bevor Sie die Autorisierung widerrufen.</string>
@@ -658,9 +658,9 @@
     <string name="power_key_how_power_force_off">So erzwingen Sie einen Neustart Ihres Geräts</string>
     <string name="power_key_how_power_force_off_detail">Halten Sie die Power-Taste gedrückt, bis Ihr Gerät neu startet</string>
     <string name="power_key_how_power_off">So öffnen Sie die Seite zum Herunterfahren</string>
-    <string name="power_key_how_power_off_detail">Halten Sie die Power-Taste für 3 Sek. gedrückt</string>
+    <string name="power_key_how_power_off_detail">Halten Sie die Power-Taste für 3 Sek gedrückt</string>
     <string name="power_key_how_start">Wie man Google Assistant aufweckt</string>
-    <string name="power_key_how_start_detail">Halten Sie die Power-Taste für 0,5 Sek. gedrückt. Loslassen zum Sprechen.</string>
+    <string name="power_key_how_start_detail">Halten Sie die Power-Taste für 0,5 Sek gedrückt. Loslassen zum Sprechen.</string>
     <string name="power_key_start_enjoy">Google Assistant verwenden</string>
     <string name="power_key_start_guide">Aufwecken von Google Assistant über die Power-Taste auf Geräten mit Vollbildschirm</string>
     <string name="pref_volume_launch_camera_summary">Drücken Sie zweimal Lautstärke runter, um Kamera zu starten</string>

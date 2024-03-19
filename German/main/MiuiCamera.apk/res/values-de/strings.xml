@@ -1648,7 +1648,7 @@
     <string name="pref_camera_auto_capture_when_stable_title">Bewegliches Motiv aufnehmen, sobald es stillsteht</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma-Blitz</string>
     <string name="pref_camera_auto_hibernation">Aufnehmen bei ausgeschaltetem Bildschirm</string>
-    <string name="pref_camera_auto_hibernation_desc">Bildschirm nach %d Min. Inaktivität ausschalten, um bei der Aufnahme von normalen Videos oder Zeitraffervideos, zeitgesteuerten Serienbildern oder Langzeitbelichtung Strom zu sparen</string>
+    <string name="pref_camera_auto_hibernation_desc">Bildschirm nach %d Min Inaktivität ausschalten, um bei der Aufnahme von normalen Videos oder Zeitraffervideos, zeitgesteuerten Serienbildern oder Langzeitbelichtung Strom zu sparen</string>
     <string name="pref_camera_auto_hibernation_description">Während der Aufnahme den Bildschirm nach %d Minuten Inaktivität ausschalten, um Strom zu sparen</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Mittenbetont</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Bildmittel</string>
