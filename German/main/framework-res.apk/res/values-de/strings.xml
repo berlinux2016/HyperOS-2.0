@@ -1900,7 +1900,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="volume_music_hint_playing_through_bluetooth">Wiedergabe durch Bluetooth</string>
     <string name="volume_music_hint_silent_ringtone_selected">Lautlosmodus festgelegt</string>
     <string name="volume_notification">Benachrichtigungslautstärke</string>
-    <string name="volume_ringtone">Klingeltonlautstärke</string>
+    <string name="volume_ringtone">Ruftonlautstärke</string>
     <string name="volume_unknown">Lautstärke</string>
     <string name="vpn_lockdown_config">Netzwerk- oder VPN-Einstellungen ändern</string>
     <string name="vpn_lockdown_connected">Always-on-VPN verbunden</string>

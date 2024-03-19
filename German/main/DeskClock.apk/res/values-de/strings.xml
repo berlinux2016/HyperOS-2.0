@@ -42,8 +42,8 @@
     <string name="alert">Klingelton</string>
     <string name="alert_ringtone">Weckton</string>
     <string name="alert_vibrate_enable_summary">Vibrieren beim Ausschalten des Weckers</string>
-    <string name="alert_volume">Klingeltonlautstärke</string>
-    <string name="alert_volume_summary">Klingeltonlautstärke für Wecker und Timer einstellen</string>
+    <string name="alert_volume">Ruftonlautstärke</string>
+    <string name="alert_volume_summary">Ruftonlautstärke für Wecker und Timer einstellen</string>
     <string name="alert_xiaoai_ringtone_desc">Mi AI spricht…</string>
     <string name="app_label">Uhr</string>
     <string name="auto_silence_entries1">Nie</string>
