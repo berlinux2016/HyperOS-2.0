@@ -802,7 +802,7 @@ Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um norm
     <string name="usage_state_go_more">Weitere Apps</string>
     <string name="usage_state_holiday_day_hour_minute">Freie Tage: %1$s %2$s</string>
     <string name="usage_state_holiday_time">Freie Tage: %s</string>
-    <string name="usage_state_hour_minute">%1$d Std %2$d Min</string>
+    <string name="usage_state_hour_minute">%1$d h %2$d m</string>
     <string name="usage_state_less_one_minute">&lt; 1 Minute</string>
     <string name="usage_state_monday">Mo</string>
     <string name="usage_state_mourth_day">Bildschirmzeit am %s</string>
@@ -839,10 +839,10 @@ Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um norm
     <string name="usage_state_use_time_remind_title">Bildschirmzeit-Wecker</string>
     <string name="usage_state_wakeups_title">Bildschirm eingeschaltet</string>
     <string name="usage_state_wednesday">Mi</string>
-    <string name="usage_state_week_day_hour_minute">An Wochenenden: %1$d Std %2$d Min</string>
+    <string name="usage_state_week_day_hour_minute">An Wochenenden: %1$d h %2$d m</string>
     <string name="usage_state_week_total_text">Bildschirmzeit (letzte 7 Tage)</string>
     <string name="usage_state_work_day">Wochentags</string>
-    <string name="usage_state_work_day_hour_minute">Wochentags: %1$d Std %2$d Min</string>
+    <string name="usage_state_work_day_hour_minute">Wochentags: %1$d h %2$d m</string>
     <string name="usage_stats_device_limit">Tägliches Bildschirmzeitlimit</string>
     <string name="usage_stats_device_limit_summary">Tageslimits für die Verwendung festlegen</string>
     <string name="usage_stats_experience_text">Tippen zum Ausprobieren (1 Min)</string>
@@ -885,7 +885,7 @@ Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um norm
     <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmzeitlimit erreicht.</string>
     <string name="usagestats_device_notification_des_reset">Limit heute: %1$s | %2$s verbleiben</string>
     <string name="usagestats_device_notification_title">Bildschirmzeit-Wecker</string>
-    <string name="usagestats_device_timeout_des">Sie haben Ihr Gerät heute für %1$d Std %2$d Min verwendet. Ruhen Sie Sich aus!</string>
+    <string name="usagestats_device_timeout_des">Sie haben Ihr Gerät heute für %1$d h %2$d m verwendet. Ruhen Sie Sich aus!</string>
     <string name="usagestats_device_timeout_negative">In 1 Std erinnern</string>
     <string name="usagestats_device_timeout_positive">Verstanden</string>
     <string name="usagestats_device_timeout_title">Bildschirmzeit-Wecker</string>

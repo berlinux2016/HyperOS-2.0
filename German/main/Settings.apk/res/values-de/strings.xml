@@ -10549,7 +10549,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Gerät zwischen %d:00 und %d:00 Uhr entsperrt</string>
     <string name="usage_state_friday">Fr</string>
     <string name="usage_state_go_more">Weitere Apps</string>
-    <string name="usage_state_hour_minute" formatted="false">%d Std %d Min</string>
+    <string name="usage_state_hour_minute" formatted="false">%d h %d m</string>
     <string name="usage_state_less_one_minute">&lt; 1 Minute</string>
     <string name="usage_state_monday">Mo</string>
     <string name="usage_state_mourth_day">Bildschirmzeit am %s</string>
@@ -10571,10 +10571,10 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usage_state_usage_time_remind">Bildschirmzeit-Wecker</string>
     <string name="usage_state_use_time_remind_title">Bildschirmzeit-Wecker</string>
     <string name="usage_state_wednesday">Mi</string>
-    <string name="usage_state_week_day_hour_minute" formatted="false">An Wochenenden: %d Std %d Min</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">An Wochenenden: %d h %d m</string>
     <string name="usage_state_week_total_text">Bildschirmzeit (letzte 7 Tage)</string>
     <string name="usage_state_work_day">Wochentags</string>
-    <string name="usage_state_work_day_hour_minute" formatted="false">Wochentags: %d Std %d Min</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">Wochentags: %d h %d m</string>
     <string name="usage_stats_normal_day">Wochentags</string>
     <string name="usage_stats_sort_by_app_name">Nach App-Name sortieren</string>
     <string name="usage_stats_sort_by_last_time_used">Nach letzter Nutzung sortieren</string>
@@ -10597,7 +10597,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usagestats_device_notification_des_over">Sie haben heute bereits Ihr Bildschirmzeit-Limit erreicht.</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">Limit heute: %s | %s übrig</string>
     <string name="usagestats_device_notification_title">Bildschirmzeit-Wecker</string>
-    <string name="usagestats_device_timeout_des" formatted="false">Sie haben Ihr Gerät heute für %d Std %d Min verwendet. Ruhen Sie Sich aus!</string>
+    <string name="usagestats_device_timeout_des" formatted="false">Sie haben Ihr Gerät heute für %d h %d m verwendet. Ruhen Sie Sich aus!</string>
     <string name="usagestats_device_timeout_negative">In 1 Stunde erinnern</string>
     <string name="usagestats_device_timeout_positive">Verstanden</string>
     <string name="usagestats_device_timeout_title">Bildschirmzeit-Wecker</string>

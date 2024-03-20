@@ -408,7 +408,7 @@
     <string name="superpower_exit_hint">Ultra-Stromsparen ausschalten…</string>
     <string name="superpower_incharging">Aufladen</string>
     <string name="superpower_progress_battery_last">%s verbleibend</string>
-    <string name="superpower_progress_left_time">%1$d Std %2$d Min</string>
+    <string name="superpower_progress_left_time">%1$d h %2$d m</string>
     <string name="superpower_search_hint">Nach Apps suchen</string>
     <string name="superpower_select_app_title">Häufig verwendete Apps</string>
     <string name="superpower_settings">Ultra-Stromsparen</string>

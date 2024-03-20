@@ -1011,8 +1011,8 @@
     <string name="remind_query_menstruation_end">Ist Ihre Periode beendet? Vergessen Sie nicht, sie zu erfassen.</string>
     <string name="remind_query_menstruation_start">Hat Ihre Periode begonnen? Vergessen Sie nicht, sie zu erfassen.</string>
     <string name="remind_sleep_report_complete">Schlafstatistik ist fertig</string>
-    <string name="remind_sleep_report_content">Sie haben letzte Nacht %1$d Std %2$d Min geschlafen. Tippen, um Details anzuzeigen.</string>
-    <string name="remind_sleep_report_content_1">Sie haben letzte Nacht %1$d Std geschlafen. Tippen, um Details anzuzeigen.</string>
+    <string name="remind_sleep_report_content">Sie haben letzte Nacht %1$d h %2$d m geschlafen. Tippen, um Details anzuzeigen.</string>
+    <string name="remind_sleep_report_content_1">Sie haben letzte Nacht %1$d h geschlafen. Tippen, um Details anzuzeigen.</string>
     <string name="remind_sleep_report_title">Schlafstatistik ist fertig</string>
     <string name="remind_subtitle_menstruation_start">2 Tage vor Beginn der nächsten Periode eine Erinnerung erhalten</string>
     <string name="remind_subtitle_record">Erinnerung erhalten, wenn Sie Start- und Enddaten Ihrer Perioden erfassen müssen</string>
