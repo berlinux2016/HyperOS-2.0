@@ -226,7 +226,7 @@
     <string name="internal_livetalk_enable">Aufladepakete für nationale Anrufe verwenden</string>
     <string name="international_livetalk_enable">Aufladepakete für internationale Anrufe verwenden</string>
     <string name="kb_reset_toast">Tastatur erfolgreich zurückgesetzt</string>
-    <string name="key_btn_space">Leerzeichen</string>
+    <string name="key_btn_space">Leertaste</string>
     <string name="key_combination_power_back">Power + Zurück</string>
     <string name="key_combination_power_menu">Power + Menü</string>
     <string name="key_combination_power_volume_down">Lautstärke runter + Power</string>

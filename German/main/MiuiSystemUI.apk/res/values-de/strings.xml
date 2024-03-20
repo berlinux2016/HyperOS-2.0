@@ -779,7 +779,7 @@
     <string name="keyboard_key_numpad_template">Nummernblock %1$s</string>
     <string name="keyboard_key_page_down">Seite nach unten</string>
     <string name="keyboard_key_page_up">Seite nach oben</string>
-    <string name="keyboard_key_space">Leerzeichen</string>
+    <string name="keyboard_key_space">Leertaste</string>
     <string name="keyboard_shortcut_clear_text">Text löschen</string>
     <string name="keyboard_shortcut_group_applications">Apps</string>
     <string name="keyboard_shortcut_group_applications_assist">Assistieren</string>
