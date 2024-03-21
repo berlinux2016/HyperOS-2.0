@@ -19,10 +19,10 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="always_on_disconnected_message">%1$s ist so eingestellt, dass es immer verbunden bleibt, aber es kann sich momentan nicht verbinden. Ihr Telefon verwendet ein öffentliches Netz, bis es wieder eine Verbindung zu %1$s herstellen kann.</string>
-    <string name="always_on_disconnected_message_lockdown">%1$s ist so eingestellt, dass es immer verbunden bleibt, aber es kann sich momentan nicht verbinden. Sie werden keine Verbindung haben, bis das VPN sich wieder verbinden kann.</string>
+    <string name="always_on_disconnected_message">%1$s ist so eingestellt, dass es immer verbunden bleibt, aber es kann sich aktuell nicht verbinden. Ihr Telefon verwendet ein öffentliches Netzwerk, bis es sich wieder mit %1$s verbinden kann.</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s ist so eingestellt, dass es immer verbunden bleibt, aber es kann sich aktuell nicht verbinden. Sie werden keine Verbindung haben, bis das VPN sich wieder verbinden kann.</string>
     <string name="always_on_disconnected_message_settings_link">VPN-Einstellungen ändern</string>
-    <string name="always_on_disconnected_title">Verbindung zum ständig aktiven VPN nicht möglich</string>
+    <string name="always_on_disconnected_title">Verbindung zum always-on-VPN nicht möglich</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="configure">Konfigurieren</string>
@@ -32,7 +32,7 @@
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="disconnect">Trennen</string>
-    <string name="dismiss">Ablehnen</string>
+    <string name="dismiss">Verwerfen</string>
     <string name="duration">Dauer:</string>
     <string name="early_morning">Morgen</string>
     <string name="eras_ad">n. Chr.</string>
@@ -101,7 +101,6 @@
     <string name="monday_shortest">M</string>
     <string name="month_april_shortest">A</string>
     <string name="month_august_shortest">A</string>
-    <string name="month_day_format">d. MMM</string>
     <string name="month_december">Dezember</string>
     <string name="month_december_short">Dez</string>
     <string name="month_december_shortest">D</string>
@@ -212,7 +211,7 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
-    <string name="warning">%s möchte eine VPN-Verbindung einrichten, die es ermöglicht, den Netzwerkverkehr zu überwachen. Akzeptieren Sie nur, wenn Sie der Quelle vertrauen. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> erscheint oben auf Ihrem Bildschirm, wenn VPN aktiv ist.</string>
+    <string name="warning">%s möchte eine VPN-Verbindung einrichten, um den Netzwerkverkehr zu überwachen. Akzeptieren Sie nur, wenn Sie der Quelle vertrauen. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> erscheint oben am Bildschirm, wenn VPN aktiv ist.</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>

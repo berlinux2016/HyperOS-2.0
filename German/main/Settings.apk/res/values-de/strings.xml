@@ -10032,7 +10032,6 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="tip_remove_data">Durch Zurücksetzen auf die Werkseinstellungen werden diese Elemente von Ihrem Gerät gelöscht</string>
     <string name="title_change_system_locale">Systemsprache in %s ändern?</string>
     <string name="title_color_calibration">Farbkorrekturvoreinstellung</string>
-    <string name="title_convert_fbe">In dateibasierte Verschlüsselung konvertieren</string>
     <string name="title_font">Font</string>
     <string name="title_font2">Font</string>
     <string name="title_font_current">Systemschrift</string>

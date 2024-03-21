@@ -994,7 +994,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_comment_rating_star_tips">Ihre Bewertung</string>
     <string name="resource_comment_sending">Kommentar senden…</string>
     <string name="resource_comment_title">Kommentar über %1$s</string>
-    <string name="resource_comment_upload_data_invalid">>Ihr eingegebener Kommentar ist ungültig</string>
+    <string name="resource_comment_upload_data_invalid">Ihr eingegebener Kommentar ist ungültig</string>
     <string name="resource_comment_upload_failed">Kommentar wurde nicht gesendet</string>
     <string name="resource_comment_upload_hint">Ihr Kommentar wird nach einer kurzen Prüfung angezeigt</string>
     <string name="resource_comment_upload_not_logined">Bitte zuerst anmelden</string>

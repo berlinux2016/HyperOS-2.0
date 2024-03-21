@@ -24,11 +24,11 @@
     <string name="abrupt_weather_settings_summary_type_b">Schalter ungewöhnliche Wetterwarnung</string>
     <string name="abrupt_weather_settings_title">Ungewöhnliche Wetterwarnung</string>
     <string name="act_find_city_hint">Ort eingeben</string>
-    <string name="act_find_city_hot_attractions_title">Beliebte Standorte</string>
+    <string name="act_find_city_hot_attractions_title">Beliebte Orte</string>
     <string name="act_find_city_hot_city_title">Beliebte Orte</string>
     <string name="act_find_city_location_button_text">Aktuellen Standort abrufen</string>
     <string name="act_find_city_location_title">Aktueller Standort</string>
-    <string name="act_location_error_to_find_city">Ortsdaten wurden nicht abgerufen. Sie können einen Ort manuell hinzufügen.</string>
+    <string name="act_location_error_to_find_city">Standortdaten abrufen fehlgeschlagen. Sie können einen Ort manuell hinzufügen.</string>
     <string name="act_set_city_find_side">Lokalisieren…</string>
     <string name="act_set_city_find_side_error">Lokalisierung nicht möglich</string>
     <string name="act_weather_find_city_added">Hinzugefügt</string>
@@ -39,7 +39,7 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activity_find_city_dialog_cancel">Abbrechen</string>
     <string name="activity_find_city_dialog_message">Wetter Standortzugriff erlauben, um genaue Standortdaten zu erhalten</string>
-    <string name="activity_find_city_dialog_message_global">Schalten Sie Standortdienste ein und lassen Sie Ihr Gerät den Standort über Drahtlosnetzwerke bestimmen.</string>
+    <string name="activity_find_city_dialog_message_global">Standortdienste einschalten und das Gerät den Standort über Drahtlosnetzwerke bestimmen lassen</string>
     <string name="activity_find_city_dialog_message_location_service">Um aktuelle Wetterdaten zu erhalten, erlauben Sie Wetter den Standortzugriff.</string>
     <string name="activity_find_city_dialog_set">Einstellungen</string>
     <string name="activity_find_city_dialog_title">Standortzugriff</string>
@@ -50,7 +50,7 @@
     <string name="activity_main_clickable">&gt;</string>
     <string name="activity_main_pub_time">Veröffentlicht um %1$s</string>
     <string name="activity_main_update_time">Aktualisiert %1$s</string>
-    <string name="activity_main_update_time_expire">Daten nicht mehr aktuell</string>
+    <string name="activity_main_update_time_expire">Daten abgelaufen</string>
     <string name="activity_main_update_time_right_now">Gerade eben</string>
     <string name="activity_minute_rain_location_fail_msg">Keine genauen Standortdaten. Zum aktuellen Ort gewechselt.</string>
     <string name="add_city">Hinzufügen</string>
@@ -70,9 +70,6 @@
     <string name="aqi_detail_24_hours">24-Std-Vorhersage</string>
     <string name="aqi_detail_5_days">5-Tage-Vorhersage</string>
     <string name="aqi_detail_co_unit">Einheit: mg/m³</string>
-    <string name="aqi_detail_no2">NO₂</string>
-    <string name="aqi_detail_o3">O₃</string>
-    <string name="aqi_detail_so2">SO₂</string>
     <string name="aqi_detail_title">Luftqualitätsindex</string>
     <string name="aqi_detail_unit">Einheit: µg/m3</string>
     <string name="aqi_fifteen_dates_time_format">dd.MM.</string>
@@ -102,7 +99,7 @@
     <string name="background_location_dialog_msg">Um sicherzustellen, dass diese App immer genaue Standortdaten verwendet, erlauben Sie ihr den Standortzugriff, wenn sie im Hintergrund läuft. Sie können diese Erlaubnis in Einstellungen erteilen.</string>
     <string name="background_location_dialog_open_button">Einstellungen</string>
     <string name="background_location_dialog_title">Berechtigungen erforderlich</string>
-    <string name="button_abandon">Veränderungen verwerfen</string>
+    <string name="button_abandon">Änderungen verwerfen</string>
     <string name="button_add_city">Ort hinzufügen</string>
     <string name="button_confirm">Erlauben</string>
     <string name="button_confirm_to_revoke_permission">Widerrufen</string>
@@ -120,7 +117,7 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="common_loading_text">Einen Moment…</string>
-    <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Später erneut versuchen.</string>
+    <string name="connect_fail">Netzwerkverbindung fehlgeschlagen. Erneut versuchen.</string>
     <string name="content_desc_activity_main_add_city">Ort hinzufügen</string>
     <string name="content_desc_activity_main_add_city_manage">Orte verwalten</string>
     <string name="content_desc_activity_main_more_settings">Mehr Einstellungen</string>
@@ -139,7 +136,7 @@
     <string name="daily_forecast_add_city_message">Folgen Sie dem Wetter in %1$s für eine genauere Vorhersage.</string>
     <string name="daily_forecast_add_city_title">Folgen Sie dem Wetter in %1$s</string>
     <string name="daily_forecast_detail_date">dd.MM.</string>
-    <string name="daily_forecast_no_data">Wetterdaten nicht geladen.\nZum Aktualisieren nach unten ziehen oder die Netzwerkeinstellungen prüfen.</string>
+    <string name="daily_forecast_no_data">Wetterdaten nicht abrufbar.\nZum Aktualisieren herunterziehen oder Netzwerkeinstellungen prüfen.</string>
     <string name="data_provided_by">Tlw. zur Verfügung gestellt von</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -148,7 +145,7 @@
     <string name="dialog_msg_score_not_good">Könnten Sie uns auch Ihr Feedback geben?</string>
     <string name="dialog_msg_score_perfect">Prima! Bewerten Sie Wetter auch im Play Store?</string>
     <string name="dialog_privacy_policy_update_msg">Wetter Datenschutzerklärung wurde aktualisiert: \n%1$s \nLesen und akzeptieren Sie die neue Version von %2$s, bevor Sie fortfahren.</string>
-    <string name="dialog_privacy_policy_update_next_msg">Sie können unsere Dienste nicht weiter nutzen, wenn Sie der neuen Version von %1$s nicht zustimmen. Jetzt der aktualisierten Datenschutzerklärung zustimmen?</string>
+    <string name="dialog_privacy_policy_update_next_msg">Sie können unsere Dienste nicht mehr nutzen, wenn Sie der neuen Version von %1$s nicht zustimmen. Jetzt der aktualisierten Datenschutzerklärung zustimmen?</string>
     <string name="dialog_privacy_policy_update_title">Datenschutzerklärung aktualisiert</string>
     <string name="dialog_score_bad">Unzufrieden</string>
     <string name="dialog_score_good">Zufrieden</string>
@@ -171,9 +168,9 @@
     <string name="exo_controls_next_description">Nächster</string>
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
-    <string name="exo_controls_repeat_all_description">Aktueller Modus: Alle wiederholen. Wiederholungsmodus umschalten.</string>
-    <string name="exo_controls_repeat_off_description">Aktueller Modus: Keinen wiederholen. Wiederholungsmodus umschalten.</string>
-    <string name="exo_controls_repeat_one_description">Aktueller Modus: Einen wiederholen. Wiederholungsmodus umschalten.</string>
+    <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
+    <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
+    <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_shuffle_description">Zufallswiedergabe</string>
     <string name="exo_download_completed">Download vollständig</string>
@@ -192,7 +189,7 @@
     <string name="feedback_climate_colder">Aktuelles Wetter ist kälter</string>
     <string name="feedback_climate_warmer">Aktuelles Wetter ist wärmer</string>
     <string name="feedback_cloudy">Wolkig</string>
-    <string name="feedback_confirm_permission_agree">Ich habe die obigen Geschäftsbedingungen gelesen und akzeptiert.</string>
+    <string name="feedback_confirm_permission_agree">Ich habe die obigen alllgemeinen Geschäftsbedingungen gelesen und akzeptiert.</string>
     <string name="feedback_foggy">Neblig</string>
     <string name="feedback_haze">Dunst</string>
     <string name="feedback_moderate_rain">Regen</string>
@@ -209,7 +206,7 @@
     <string name="feedback_result_fail_same_type">Anscheinend unterscheidet sich Ihr Bericht nicht vom aktuellen Wetter. Erneut versuchen.</string>
     <string name="feedback_result_success">Erfolgreich übermittelt. Danke für Ihr Feedback</string>
     <string name="feedback_sandy">Staubsturm</string>
-    <string name="feedback_sunny">Sonnig</string>
+    <string name="feedback_sunny">Klar</string>
     <string name="feedback_temperature_subtitle">Aktuell angezeigt: %1$s°</string>
     <string name="feedback_temperature_title">Temperatur</string>
     <string name="feedback_weather">Wetter-Feedback</string>
@@ -246,9 +243,9 @@
     <string name="home_page_forecast_video_desc">Vorhersage</string>
     <string name="hourly_forcast_now">Jetzt</string>
     <string name="hourly_forecast_date">dd.MM.</string>
-    <string name="hourly_forecast_detail_chart_view_max_temperature_text">Höchtste</string>
-    <string name="hourly_forecast_detail_chart_view_min_temperature_text">Niedrigste</string>
-    <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Höchste %1$s° | Niedrigste %2$s°</string>
+    <string name="hourly_forecast_detail_chart_view_max_temperature_text">Hoch</string>
+    <string name="hourly_forecast_detail_chart_view_min_temperature_text">Niedrig</string>
+    <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Hoch %1$s° | Niedrig %2$s°</string>
     <string name="hourly_forecast_title_24_hours_desc">24-Stunden-Vorhersage</string>
     <string name="hourly_forecast_title_hourly_desc">Stündliche Vorhersage</string>
     <string name="incognito_mode_dialog_confirm_text">Ausschalten</string>
@@ -277,14 +274,14 @@
     <string name="location_tag">Lokalisieren</string>
     <string name="main_activity_hourly_forecast_card_more_title">Mehr</string>
     <string name="manager_city_option_add_city_back_search">Zurück zur Suche</string>
-    <string name="manager_city_option_add_city_content">Diesen Ort erfolgreich zur Startseite hinzugefügt</string>
+    <string name="manager_city_option_add_city_content">Ort erfolgreich zur Startseite hinzugefügt</string>
     <string name="manager_city_option_add_city_title">Erfolgreich hinzugefügt</string>
     <string name="manager_city_option_add_home">Zur Startseite hinzufügen</string>
     <string name="manager_city_option_view_on_home">Auf Startseite anzeigen</string>
     <string name="menu_location">Orte</string>
     <string name="menu_speaker">Sprachübertragung</string>
     <string name="midnight">Nacht</string>
-    <string name="minute_rain">2-Std-Vorhersage</string>
+    <string name="minute_rain">2-Stunden-Niederschlag</string>
     <string name="minute_rain_after_an_hour">In 1 Stunde</string>
     <string name="minute_rain_after_two_hour">In 2 Stunden</string>
     <string name="minute_rain_feedback_subtitle">Teilen Sie uns das aktuelle Wetter mit</string>
@@ -375,8 +372,7 @@
     <string name="pad_keyboard_right_switch">Nächster Ort</string>
     <string name="pad_real_time_detail_title">Komfort</string>
     <string name="pad_real_time_detail_title_new">Indizes</string>
-    <string name="particulate_matter_exceeded">Überschritten</string>
-    <string name="particulate_matter_not_exceeded">Normal</string>
+    <string name="particulate_matter_exceeded">Hoch</string>
     <string name="particulate_matter_serious_exceeded">Zu hoch</string>
     <string name="permission_device_info">Geräteinfo</string>
     <string name="permission_device_introduce">Zur Erkennung der Geräte-ID anhand von Gerätemodell und IMEI und zur Bereitstellung lokalisierter Dienste anhand der Spracheinstellungen</string>
@@ -386,7 +382,7 @@
     <string name="permission_storage">Speicher</string>
     <string name="permission_storage_introduce">Für den Zugriff auf Elemente auf dem Gerät und das Speichern von Dateien</string>
     <string name="permission_user_protocol">Nutzervereinbarung (obligatorisch)</string>
-    <string name="policy_settings">Geschäftsbedingungen</string>
+    <string name="policy_settings">Allgemeine Geschäftsbedingungen</string>
     <string name="precipitation_degree_five">Schwer</string>
     <string name="precipitation_degree_four">Stark</string>
     <string name="precipitation_degree_one">Nichts</string>
@@ -395,11 +391,11 @@
     <string name="precipitation_forecast_desc">Tippen für Vorhersage</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="pressure_connect">%1$s mbar</string>
-    <string name="privacy_grant_failed">Zustimmung wurde nicht gewährt. Einen Momen warten und erneut versuchen.</string>
+    <string name="privacy_grant_failed">Zustimmung wurde nicht gewährt. Etwas warten und erneut versuchen.</string>
     <string name="privacy_grant_or_revoke_settings">Zustimmung widerrufen</string>
     <string name="privacy_grant_success">Zustimmung erfolgreich gewährt</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
-    <string name="privacy_policy_msg"><Data>Diese App enthält folgende Funktionen: &lt;br/>• Wetterspezifische Daten für Ihren Standort&lt;br/>• Wettervorhersagen&lt;br/>• Wetterwarnungen&lt;br/>&lt;br/>Wetter muss die notwendigen persönlichen Daten sammeln, um Ihnen grundlegende Dienste anbieten zu können. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Wetter verwenden. Sie können Ihre Zustimmung zur Wetter Datenschutzerklärung jederzeit in Einstellungen widerrufen.</Data></string>
+    <string name="privacy_policy_msg"><Data>Diese App enthält folgende Funktionen: &lt;br/>• Wetterspezifische Daten für Ihren Standort&lt;br/>• Wettervorhersagen&lt;br/>• Wetterwarnungen&lt;br/>&lt;br/>Wetter muss die notwendigen persönlichen Daten sammeln, um Ihnen grundlegende Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Wetter verwenden. Sie können Ihre Zustimmung zur Wetter Datenschutzerklärung jederzeit in Einstellungen widerrufen.</Data></string>
     <string name="privacy_revoke_failed">Zustimmung wurde nicht widerrufen. Etwas warten und erneut versuchen.</string>
     <string name="privacy_revoke_success">Zustimmung erfolgreich widerrufen</string>
     <string name="privacy_settings">Datenschutzerklärung</string>
@@ -410,7 +406,7 @@
     <string name="radar_cloud_update_time">Vor %1$s</string>
     <string name="rain_sound_setting_summary_text">Wetteränderungen durch Toneffekte begleiten</string>
     <string name="rain_sound_setting_title_text">Toneffekte</string>
-    <string name="rainfall_settings_summary">Niederschlagswarnungen</string>
+    <string name="rainfall_settings_summary">Niederschlagswarnung</string>
     <string name="rainfall_settings_title">Niederschlag</string>
     <string name="rating_dialog_later">Später</string>
     <string name="rating_dialog_rate_now">Jetzt bewerten</string>
@@ -421,7 +417,7 @@
     <string name="realtime_humidity_title_new">Relative Luftfeuchtigkeit</string>
     <string name="refresh_empty_data">Daten laden fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="refresh_fail">Netzwerkverbindung fehlgeschlagen</string>
-    <string name="reminder_from_xiaomi_weather_app">Mi Wetteralarm</string>
+    <string name="reminder_from_xiaomi_weather_app">Mi Wetterwarnung</string>
     <string name="request_cta_connect_net">Dieser App die Internetverbindung erlauben und die oben aufgeführten obligatorischen Berechtigungen gewähren</string>
     <string name="request_permission_background_location_dialog_content">Um sicherzustellen, dass diese App immer genaue Standortdaten verwendet, erlauben Sie ihr immer den Standortzugriff.</string>
     <string name="request_permission_location_dialog_content">Zur Anzeige der an Ihrem aktuellen Standort relevanten Wetterdaten</string>
@@ -432,7 +428,7 @@
     <string name="revoke_permission_fail_msg">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="revoke_permission_fail_next_msg">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="revoke_permission_fail_next_title">Netzwerkverbindung fehlgeschlagen</string>
-    <string name="revoke_permission_fail_title">Zustimmung wurde nicht widerrufen</string>
+    <string name="revoke_permission_fail_title">Zustimmung widerrufen fehlgeschlagen</string>
     <string name="revoke_privacy_policy_title">Zustimmung widerrufen</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -450,7 +446,7 @@
     <string name="send">Senden</string>
     <string name="setting_about_permission">Berechtigungen</string>
     <string name="setting_allowed">Gewährt</string>
-    <string name="setting_confirm_to_revoke_permission_msg">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Wetter Datenschutzerklärung. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten persönlichen Daten werden in Übereinstimmung mit den geltenden Gesetzen und Vorschriften innerhalb der festgelegten Frist gelöscht, sofern nicht anders gefordert. Da Wetter seine Dienste anhand der Erfassung der erforderlichen persönlichen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Wetter-Dienste gewertet. Zustimmung jetzt widerrufen?</string>
+    <string name="setting_confirm_to_revoke_permission_msg">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Wetter Datenschutzerklärung. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten persönlichen Daten werden in Übereinstimmung mit den geltenden Gesetzen und Vorschriften innerhalb der festgelegten Frist gelöscht, sofern nicht anders gefordert. Da Wetter seine Dienste anhand der Erfassung der erforderlichen persönlichen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Wetter-Dienste gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="setting_confirm_to_revoke_permission_title">Zustimmung widerrufen</string>
     <string name="setting_get_location">Standortzugriff</string>
     <string name="setting_not_allowed">Nicht gewährt</string>
@@ -474,7 +470,7 @@
     <string name="share_menu_title">Teilen</string>
     <string name="share_subject">Teilen</string>
     <string name="share_weather_desc_split">", "</string>
-    <string name="share_weather_save_pic_fail">Screenshot wurde nicht aufgenommen</string>
+    <string name="share_weather_save_pic_fail">Screenshot fehlgeschlagen</string>
     <string name="shortcut_short_label_24_hour_forecast">24-Std-Vorhersage</string>
     <string name="shortcut_short_label_recent_forecast">Sehen Sie nach dem Wetter</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
@@ -517,13 +513,13 @@
     <string name="suggestion_for_rain">Regenschirm nicht vergessen</string>
     <string name="suggestion_for_sand_storm">Heute vorsichtig fahren</string>
     <string name="suggestion_for_shower">Leichter Regen mit Wind erwartet</string>
-    <string name="suggestion_for_sleet">Warm halten und einen Regenschirm mitnehmen</string>
-    <string name="suggestion_for_snow_showers">Wärmer anziehen</string>
+    <string name="suggestion_for_sleet">Warm halten und Regenschirm mitnehmen</string>
+    <string name="suggestion_for_snow_showers">Ziehne Sie eine extra Schicht Kleidung an</string>
     <string name="suggestion_for_storm">Starke Winde vorhergesagt. Sicher unterwegs sein!</string>
     <string name="suggestion_for_strong_sandstorm">Ins Freie gehen vermeiden</string>
     <string name="suggestion_for_sunny">Holen Sie Ihre Sonnenbrille heraus!</string>
     <string name="suggestion_for_thunderstorm">Bleiben Sie besser im Haus</string>
-    <string name="suggestion_for_xiaoxue">Ein paar warme Sachen einpacken</string>
+    <string name="suggestion_for_xiaoxue">Ziehen Sie sich warm an</string>
     <string name="suggestion_for_yangsha">Windgeschwindigkeit kann das Fahren beeinträchtigen</string>
     <string name="suggestion_for_yin">Schlechte Sicht erwartet</string>
     <string name="suggestion_for_zhongxue">Warm halten und vorsichtig fahren</string>
@@ -597,7 +593,7 @@
     <string name="unit">Einheiten</string>
     <string name="unit_temperature">Temperatureinheit</string>
     <string name="unit_wind">Einheit Windgeschwindigkeit</string>
-    <string name="update_night_setting_summary_text">Wird zwischen 23:00 and 07:00 Uhr automatisch aktualisiert</string>
+    <string name="update_night_setting_summary_text">Wetterdaten zwischen 23:00 and 07:00 Uhr aktualisieren</string>
     <string name="update_night_setting_title_text">Nachts automatisch aktualisieren</string>
     <string name="update_notification_info">Daten im Hintergrund aktualisieren…</string>
     <string name="update_setting_title_text">Wetterdaten aktualisieren</string>
@@ -612,13 +608,13 @@
     <string name="view_indexes_item_day_after_tommorrow">Übermorgen</string>
     <string name="view_indexes_item_today">Heute</string>
     <string name="view_indexes_item_tommorrow">Morgen</string>
-    <string name="warning_weather_day_and_night_settings_summary">Tägliche Zusammenfassung mit Wetterdaten um 7:00 und 19:00 Uhr erhalten</string>
+    <string name="warning_weather_day_and_night_settings_summary">Tägliche Zusammenfassung der Wetterdaten um 7:00 und 19:00 Uhr erhalten</string>
     <string name="warning_weather_day_and_night_settings_title">Tägliche Zusammenfassung</string>
-    <string name="weather_alert_channel_name">Warnmeldungen</string>
+    <string name="weather_alert_channel_name">Warnungen</string>
     <string name="weather_aqi_full_air_quality_forcast">Vollständige Luftqualitätsprognose</string>
     <string name="weather_introduce">Immer dabei, bei Regen oder Sonnenschein.</string>
     <string name="weather_main_aqi_desc">LQI</string>
-    <string name="weather_main_minute_hour">2-Std-Vorhersage</string>
+    <string name="weather_main_minute_hour">2-Stunden-Niederschlag</string>
     <string name="weather_more_air_quality">Mehr zur Luftqualität</string>
     <string name="weather_permission_agree">Zustimmen</string>
     <string name="weather_service_channel_name">Hintergrunddienste</string>
