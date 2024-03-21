@@ -4931,8 +4931,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_paper_mode">Flux;Lesen;Lesemodus;Blaues Licht;Augen schützen</string>
     <string name="keywords_payment_settings">zahlen;tippen;Zahlungen</string>
     <string name="keywords_printing">Drucker</string>
-    <string name="keywords_profile_challenge">work challenge;Arbeit;Profil</string>
-    <string name="keywords_quick_ball">Berührungsassistent;Verknüpfung;Verknüpfungen;Schalter;Schalter</string>
+    <string name="keywords_profile_challenge">work challenge;berufliche Herausforderung;Arbeit;Profil</string>
+    <string name="keywords_quick_ball">Quick Ball;Verknüpfung;Verknüpfungen;Schalter</string>
     <string name="keywords_ramping_ringer_vibration">Haptik, vibrieren, Telefon, anrufen, klingeln, schrittweise</string>
     <string name="keywords_reduce_bright_colors">Lichtempfindlichkeit, Photophobie, dunkles Thema, Migräne, Kopfschmerzen, Lesemodus, Nachtmodus, Helligkeit reduzieren, Weißpunkt</string>
     <string name="keywords_reset_apps">zurücksetzen Präferenzen Standard</string>
@@ -6164,7 +6164,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_tof_screen_on_open_dialog_title">\"%s\" einschalten</string>
     <string name="miui_tof_screen_on_success_toast">\"Gesicht erkennen, wenn Gerät in der Nähe\" ist an. Um Ihre Privatsphäre zu schützen, schalten Sie auch \"Nach Entsperren auf dem Sperrbildschirm bleiben\" ein.</string>
     <string name="miui_tof_screen_on_title">Gesicht erkennen, wenn Gerät in der Nähe</string>
-    <string name="miui_touch_filtered_touchassistant_warning">Berechtigungsdialog wird durch den Berührungsassistent abgedeckt. Schieben Sie den Berührungsassistent weg oder schalten Sie diese Funktion aus.</string>
+    <string name="miui_touch_filtered_touchassistant_warning">Berechtigungsdialog wird durch Quick Ball abgedeckt. Schieben Sie Quick Ball weg oder schalten Sie diese Funktion aus.</string>
     <string name="miui_touch_filtered_warning">Wenn eine App einen Berechtigungsdialog blockiert, ziehen Sie das überlappende Element weg oder schließen Sie die App.</string>
     <string name="miui_type_style_summary">Schreibstil, der angewendet wird, wenn der Bildschirmleser eingeschaltet ist</string>
     <string name="miui_type_style_title">Schreibstil</string>
@@ -8447,7 +8447,7 @@ UT Interface: %5$s"</string>
     <string name="search_system_app_settings">System-Apps</string>
     <string name="search_theme_settings_title">Themen;Theme;Thema;Personalisierung;Personalisieren</string>
     <string name="search_title_font_settings">Schriftgröße;Schriftgewicht;Schriftstil</string>
-    <string name="search_touch_assistant">Quickball;Berührungsassistent</string>
+    <string name="search_touch_assistant">Quick ball;Berührungsassistent</string>
     <string name="search_touch_sensitive_title">Handschuhmodus;Handschuhe;Handschuh</string>
     <string name="search_trusted_credentials">Vertrauenswürdige Anmeldedaten;App-Signatur;App-Signaturen;Anmeldedaten;Signatur</string>
     <string name="search_tts_settings_title">Text-in-Sprache-Ausgabe,Text-in-Sprache</string>
@@ -9746,8 +9746,6 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="surround_sound_only_headset_desc">Tiefe der Klangwiedergabe für Kopfhörer verbessern</string>
     <string name="surround_sound_only_speaker_desc">Tiefe der Klangwiedergabe für Lautsprecher verbessern</string>
     <string name="surround_sound_title">Immersiver Klang</string>
-    <string name="suspension_ball_enable">Verknüpfung Berührungsassistent</string>
-    <string name="suspension_ball_enable_desc">Schalten Sie den Berührungsassistent mit der Verknüpfung an und aus</string>
     <string name="suw_back_button_label">Zurück</string>
     <string name="suw_more_button_label">Mehr</string>
     <string name="suw_next_button_label">Weiter</string>
@@ -10090,7 +10088,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="total_memory">Gesamter Speicher</string>
     <string name="total_size">Insgesamt: %s</string>
     <string name="total_size_label">Insgesamt</string>
-    <string name="touch_assistant">Berührungsassistent</string>
+    <string name="touch_assistant">Quick Ball</string>
     <string name="touch_filtered_warning">Ihre Eingabe wird von Einstellungen nicht erkannt, weil eine App die Berechtigungsanfrage verdeckt.</string>
     <string name="touch_sensitive_summary">Machen Sie den Bildschirm extra empfänglich für Druck</string>
     <string name="touch_sensitive_title">Handschuhmodus</string>

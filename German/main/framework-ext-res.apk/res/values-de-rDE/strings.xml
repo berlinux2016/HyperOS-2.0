@@ -404,7 +404,7 @@
     <string name="sc_notification_warning_title">App-Anzeigeeinstellungen</string>
     <string name="sc_relaunch_dialog_message">Diese App wird auf diesem Bildschirm ggf. nicht richtig angezeigt. Starten Sie die App neu, um Layouts anzupassen.</string>
     <string name="scanning_device_tips">Nach Geräten in der Nähe suchen… Stellen Sie sicher, dass das andere Gerät im Erkennungsmodus ist.</string>
-    <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren gleichzeitig Home- und Powertaste drücken.</string>
+    <string name="screen_button_disabled_message">Navigationstasten deaktiviert. Zum Reaktivieren gleichzeitig Home- und Power-Taste drücken.</string>
     <string name="screen_button_enabled_message">Navigationstasten aktiviert</string>
     <string name="screen_button_notification_text">Zum Einschalten Home- und Power-Taste gleichzeitig drücken</string>
     <string name="screen_button_notification_title">Navigationstasten deaktiviert</string>

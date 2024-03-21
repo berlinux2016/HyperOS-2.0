@@ -577,7 +577,7 @@
     <string name="contactdeleteFailed">SIM-Kontakt wurde nicht gelöscht</string>
     <string name="contactdeleteSuccess">SIM-Kontakt erfolgreich gelöscht</string>
     <string name="copy">Kopieren</string>
-    <string name="crescendo_ringer_summary">Ruftonlautstärke wird allmählich auf die voreingestellte Stufe ansteigen</string>
+    <string name="crescendo_ringer_summary">Ruftonlautstärke steigt allmählich auf die voreingestellte Stufe an</string>
     <string name="crescendo_ringer_title">Ansteigende Ruftonlautstärke</string>
     <string name="ct_ut_not_support_close_4glte">UT ist nicht verfügbar, bitte schalten Sie den erweiterten 4G LTE-Modus in den Einstellungen aus</string>
     <string name="data_disable_warning_no_mms">Sie können keine MMS senden und empfangen, wenn Sie mobile Daten (WCDMA/LTE) ausschalten. Sie können dies jedoch tun, wenn Ihr Gerät mit WLAN verbunden ist.</string>
@@ -2057,7 +2057,7 @@
     <string name="tuesday_shortest">D</string>
     <string name="turn_off_dual_4g_failed">Dual 4G wurde nicht ausgeschaltet</string>
     <string name="turn_on_dual_4g_failed">Dual 4G wurde nicht eingeschaltet</string>
-    <string name="turnover_mute_summary">Wenn sich das Telefon auf einer horizontalen Fläche mit dem Bildschirm nach oben befindet, drehen sie es um, dann werden Ton, Vibration und Benachrichtigungsleuchte ausgeschaltet.</string>
+    <string name="turnover_mute_summary">Wenn das Telefon auf einer horizontalen Fläche mit Bildschirm oben liegt, drehen sie es um, um Ton, Vibration und Benachrichtigungslicht auszuschalten.</string>
     <string name="turnover_mute_title">Umdrehen für lautlos</string>
     <string name="undefined">Keine</string>
     <string name="unfold_close_camera_pref_summary">Gerät während eines Videoanrufs aufklappen, um die Kamera auszuschalten</string>
