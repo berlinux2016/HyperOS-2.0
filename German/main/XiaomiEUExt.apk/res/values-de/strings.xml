@@ -20,7 +20,6 @@
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="add">Hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="app_name">Xiaomi.eu-Erweiterung</string>
     <string name="auto">Automatisch</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
@@ -67,7 +66,7 @@
     <string name="home_search_bar_app">Suchleistenanbieter</string>
     <string name="home_search_gesture_app">Suchanbieter beim Hochwischen</string>
     <string name="loading">Einen Moment…</string>
-    <string name="lockscreen_side_apps">Tastenkombinationen für die Seitenleiste</string>
+    <string name="lockscreen_side_apps">Verknüpfungen Seitenleiste</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -135,8 +134,8 @@
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="select_app">Eine App auswählen</string>
-    <string name="select_apps">Apps auswählen</string>
+    <string name="select_app">App wählen</string>
+    <string name="select_apps">Apps wählen</string>
     <string name="send">Senden</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>

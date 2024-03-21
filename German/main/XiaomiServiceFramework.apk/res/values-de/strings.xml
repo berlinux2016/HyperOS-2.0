@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="app_name">Xiaomi Serviceframework</string>
+    <string name="app_name">Xiaomi Service Framework</string>
     <string name="app_update_dialog_btn_bg_update">Aktualisieren</string>
     <string name="app_update_dialog_btn_cancel">Jetzt nicht</string>
     <string name="app_update_dialog_btn_update">Aktualisieren</string>
@@ -27,11 +27,11 @@
     <string name="error_device_id_message">Ungültige Geräte ID: %s\nGeräte-ID muss eine gültige IMEI oder MAC-Adresse sein. Ohne Geräte-ID sind einige Xiaomi-Konto- und Xiaomi Cloud-Funktionen nicht verfügbar.</string>
     <string name="error_device_id_title">Gültige Geräte-ID kann nicht ermittelt werden</string>
     <string name="explain_send_sms_permission_button">Verifizieren</string>
-    <string name="explain_send_sms_permission_msg">Um %s einzuschalten, sendet Xiaomi Service Framework eine SMS, um Ihre Rufnummer zu verifizieren. Die reguläre SMS wird Ihnen vom Mobilfunkanbieter in Rechnung gestellt.</string>
+    <string name="explain_send_sms_permission_msg">Um %s einzuschalten, sendet Xiaomi Service Framework eine SMS, um Ihre Rufnummer zu verifizieren. Die normale SMS wird Ihnen vom Mobilfunkanbieter in Rechnung gestellt.</string>
     <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Rufnummer</string>
     <string name="pop_up_allow_notify_dialog">Erlauben</string>
     <string name="pop_up_deny_notify_dialog">Ablehnen</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="sync_notification_title_format">Aktuell synchronisiert: %1$s</string>
+    <string name="sync_notification_title_format">Aktuell synchronisierendes Element: %1$s</string>
     <string name="xmsf_activate_info">XMSF Aktivierungsinfo</string>
 </resources>
