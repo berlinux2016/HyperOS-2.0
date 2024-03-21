@@ -1109,7 +1109,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="passport_area_code_title">Vorwahl</string>
     <string name="passport_bad_authentication">Benutzername oder Passwort ungültig</string>
     <string name="passport_barcode_add_account_prompt">Um ein Konto hinzuzufügen, scannen Sie den QR-Code nach dem Anmelden erneut.</string>
-    <string name="passport_can_not_receive_verification_code">Sie erhalten keinen Verifizierungscode?</string>
+    <string name="passport_can_not_receive_verification_code">Verifizierungscode nicht erhalten?</string>
     <string name="passport_checking_account">Passwort prüfen…</string>
     <string name="passport_close">Schließen</string>
     <string name="passport_delete_account">Abmelden</string>
@@ -1168,8 +1168,8 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="passport_sign_in_or_sign_up">Anmelden/Konto erstellen</string>
     <string name="passport_sms_phone_intro">Code an %1$s gesendet</string>
     <string name="passport_talkback_image_captcha">Bildverifikationscode</string>
-    <string name="passport_talkback_switch_image_captcha">Umschalten auf Bildverifikationscode</string>
-    <string name="passport_talkback_switch_voice_captcha">Umschalten auf Sprachverifikationscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>
     <string name="passport_talkback_voice_captcha">Sprachverifikationscode abspielen</string>
     <string name="passport_timeout_network_error">Zeitüberschreitung Netzwerkanfrage</string>
     <string name="passport_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>

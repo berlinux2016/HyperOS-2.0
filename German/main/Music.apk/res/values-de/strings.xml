@@ -1026,7 +1026,7 @@
     <string name="passport_account_user_avatar">Profilfoto</string>
     <string name="passport_account_user_avatar_from_album">Galerie</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
-    <string name="passport_account_user_base_info">Grundlegende Daten</string>
+    <string name="passport_account_user_base_info">Basisinfo</string>
     <string name="passport_account_user_details">Persönliche Daten</string>
     <string name="passport_account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="passport_account_user_gender">Geschlecht</string>

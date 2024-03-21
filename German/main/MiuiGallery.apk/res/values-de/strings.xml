@@ -1911,7 +1911,7 @@
     <string name="passport_auth_fail_warning">Sitzung abgelaufen. Erneut anmelden.</string>
     <string name="passport_back">Zurück</string>
     <string name="passport_bad_authentication">Benutzername oder Passwort ungültig</string>
-    <string name="passport_can_not_receive_verification_code">Code nicht erhalten?</string>
+    <string name="passport_can_not_receive_verification_code">Verifizierungscode nicht erhalten?</string>
     <string name="passport_can_not_recevie_verify_code">Code nicht erhalten?</string>
     <string name="passport_change_password">Change password</string>
     <string name="passport_check_security">Auf Sicherheitsprobleme prüfen…</string>
@@ -2024,8 +2024,8 @@
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zu Bildverifizierungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zu Sprachverifizierungscode wechseln</string>
+    <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>
     <string name="passport_talkback_voice_captcha">Sprachverifizierungscode abspielen</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_to_forget_password">Passwort vergessen?</string>
