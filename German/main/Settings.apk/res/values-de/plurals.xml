@@ -53,34 +53,6 @@
         <item quantity="other">%d Apps dürfen automatisch starten</item>
         <item quantity="one">%d App darf automatisch starten</item>
     </plurals>
-    <plurals name="autofill_passwords_count">
-        <item quantity="other">%1$d Passwörter</item>
-        <item quantity="one">%1$d Passwort</item>
-    </plurals>
-    <plurals name="battery_manager_app_restricted">
-        <item quantity="other">%1$d Apps eingeschränkt</item>
-        <item quantity="one">%1$d App eingeschränkt</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_app_dialog_title">
-        <item quantity="other">%1$d Apps einschränken?</item>
-        <item quantity="one">%1$d App einschränken?</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">Diese Apps dürfen nicht im Hintergrund laufen</item>
-        <item quantity="one">Diese App darf nicht im Hintergrund laufen</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_handled_title">
-        <item quantity="other">%2$d Apps kürzlich eingeschränkt</item>
-        <item quantity="one">%1$s kürzlich eingeschränkt</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d Apps nutzen viel Akku im Hintergrund</item>
-        <item quantity="one">%1$s nutzt viel Akku im Hintergrund</item>
-    </plurals>
-    <plurals name="battery_tip_restrict_title">
-        <item quantity="other">%1$d Apps einschränken</item>
-        <item quantity="one">%1$d App einschränken</item>
-    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d Apps können sich mit dem Netzwerk verbinden</item>
         <item quantity="one">%d App kann sich mit dem Netzwerk verbinden</item>
@@ -93,13 +65,13 @@
         <item quantity="other">%d verfügbare Geräte</item>
         <item quantity="one">%d verfügbares Gerät</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">Alle %d Sekunden</item>
-        <item quantity="one">Nach %d Sekunde</item>
-    </plurals>
     <plurals name="clean_time">
         <item quantity="other">%d Sekunden</item>
         <item quantity="one">%d Sekunde</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Alle %d Sekunden</item>
+        <item quantity="one">Nach %d Sekunde</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d Geräte</item>
@@ -110,15 +82,11 @@
         <item quantity="one">Eingeschränkte Verbindung für %s App</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d Personen sind verbunden</item>
-        <item quantity="one">%1$d Person ist verbunden</item>
+        <item quantity="other">%1$d Personen verbunden</item>
+        <item quantity="one">%1$d Person verbunden</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
-    </plurals>
-    <plurals name="high_power_count">
-        <item quantity="other">%d Apps dürfen Akkuoptimierung umgehen</item>
-        <item quantity="one">%d App darf Akkuoptimierung umgehen</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
@@ -141,41 +109,37 @@
         <item quantity="one">Sie können bis zu %d Zeichen eingeben</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">Geben Sie mindestens %d Zeichen ein</item>
-        <item quantity="one">Geben Sie mindestens %d Zeichen ein</item>
+        <item quantity="other">Geben Sie mind. %d Zeichen ein</item>
+        <item quantity="one">Geben Sie mind. %d Zeichen ein</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN muss %d Ziffern lang sein</item>
-        <item quantity="one">PIN muss %d Ziffer lang sein</item>
+        <item quantity="other">PIN muss %d Ziffern haben</item>
+        <item quantity="one">PIN muss %d Ziffer haben</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN kann bis zu %d Zeichen enthalten</item>
-        <item quantity="one">PIN kann bis zu %d Zeichen enthalten</item>
+        <item quantity="other">Sie können bis zu %d Ziffern eingeben</item>
+        <item quantity="one">Sie können bis zu %d Ziffer eingeben</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN muss %d Zeichen lang sein</item>
-        <item quantity="one">PIN muss %d Zeichen lang sein</item>
+        <item quantity="other">Geben Sie mind. %d Ziffern ein</item>
+        <item quantity="one">Geben Sie mind. %d Ziffer ein</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Mindestens %d Punkte verbinden. Erneut versuchen.</item>
-        <item quantity="one">Mindestens %d Punkt verbinden. Erneut versuchen.</item>
+        <item quantity="other">Mind. %d Punkte verbinden. Erneut versuchen.</item>
+        <item quantity="one">Mind. %d Punkt verbinden. Erneut versuchen.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Zu viele falsche Versuche. Erneut in %d Sekunden versuchen.</item>
-        <item quantity="one">Zu viele falsche Versuche. Erneut in %d Sekunde versuchen.</item>
+        <item quantity="other">Zu viele falsche Versuche. In %d Sek erneut versuchen.</item>
+        <item quantity="one">Zu viele falsche Versuche. In %d Sek erneut versuchen.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">%d Sekunden warten und erneut versuchen</item>
-        <item quantity="one">%d Sekunde warten und erneut versuchen</item>
+        <item quantity="other">%d Sek warten und erneut versuchen</item>
+        <item quantity="one">%d Sek warten und erneut versuchen</item>
     </plurals>
     <plurals name="lockscreen_quick_affordances_summary">
         <item quantity="other">%1$s, %2$s</item>
         <item quantity="zero">Nichts</item>
         <item quantity="one">%1$s</item>
-    </plurals>
-    <plurals name="master_clear_with_account_summary">
-        <item quantity="other">%1$d Konten werden zurückgesetzt</item>
-        <item quantity="one">%1$d Konto wird zurückgesetzt</item>
     </plurals>
     <plurals name="max_number_of_processes">
         <item quantity="other">Max. %d Prozesse</item>
@@ -210,16 +174,16 @@
         <item quantity="one">%d Element gewählt</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">Sie sind %1$d Schritte vom CIT entfernt.</item>
-        <item quantity="one">Sie sind %1$d Schritt vom CIT entfernt.</item>
+        <item quantity="other">Sie sind %1$d Schritte vom Aufrufen des CIT entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt vom Aufrufen des CIT entfernt.</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">In %1$d Schritten sind Sie ein Entwickler.</item>
         <item quantity="one">In %1$d Schritt sind Sie ein Entwickler.</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Sie sind %1$d Schritte vom Öffnen der Geräteinfo entfernt.</item>
-        <item quantity="one">Sie sind %1$d Schritt vom Öffnen der Geräteinfo entfernt.</item>
+        <item quantity="other">Sie sind %1$d Schritte vom Öffnen der Gerätedaten entfernt.</item>
+        <item quantity="one">Sie sind %1$d Schritt vom Öffnen der Gerätedaten entfernt.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Sie sind %1$d Schritte von den Fehlerberichten entfernt.</item>
@@ -236,10 +200,6 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s Apps dürfen Benachrichtungen anzeigen</item>
         <item quantity="one">%s App darf Benachrichtigungen anzeigen</item>
-    </plurals>
-    <plurals name="storage_compact_warning">
-        <item quantity="other">%1$d Berechtigungen bearbeiten</item>
-        <item quantity="one">%1$d Berechtigung bearbeiten</item>
     </plurals>
     <plurals name="string_after_int_minute">
         <item quantity="other">Nach %d Min</item>
@@ -260,30 +220,6 @@
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">Warnen, wenn einer Ihrer Ohrhörer länger als %d Minuten vom Ohr oder der Ladehülle entfernt ist.</item>
         <item quantity="one">Warnen, wenn einer Ihrer Ohrhörer länger als %d Minute vom Ohr oder der Ladehülle entfernt ist.</item>
-    </plurals>
-    <plurals name="total_num">
-        <item quantity="other">%d Elemente,</item>
-        <item quantity="one">%d Element,</item>
-    </plurals>
-    <plurals name="trans_failed_summary">
-        <item quantity="other">%d Elemente wurden nicht übertragen. Tippen für Details.</item>
-        <item quantity="one">%d Element wurde nicht übertragen. Tippen für Details.</item>
-    </plurals>
-    <plurals name="trans_item_failed_summary">
-        <item quantity="other">%d Elemente wurden nicht übertragen</item>
-        <item quantity="one">%d Element wurde nicht übertragen</item>
-    </plurals>
-    <plurals name="trans_time_format_hours">
-        <item quantity="other">%d Stunden</item>
-        <item quantity="one">%d Stunde</item>
-    </plurals>
-    <plurals name="trans_time_format_minute">
-        <item quantity="other">%d Minuten</item>
-        <item quantity="one">%d Minute</item>
-    </plurals>
-    <plurals name="uninstall_game_count_title">
-        <item quantity="other">%d Spiele nicht hinzugefügt</item>
-        <item quantity="one">%d Spiel nicht hinzugefügt</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d-mal entsperrt</item>
@@ -358,8 +294,8 @@
         <item quantity="one">%d Risiko gefunden</item>
     </plurals>
     <plurals name="wifi_share_count">
-        <item quantity="other">%d geteilte Netzwerke</item>
-        <item quantity="one">%d geteiltes Netzwerk</item>
+        <item quantity="other">%d freigebene Netzwerke</item>
+        <item quantity="one">%d freigebenes Netzwerk</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d Geräte verbunden</item>

@@ -349,7 +349,7 @@
     <string name="permission_camera_title">Kamera</string>
     <string name="permission_denied">Nicht gewährt</string>
     <string name="permission_phone_desc">Zugriff auf Rufnummer und Gerätestatus</string>
-    <string name="permission_phone_title">Geräteinfo</string>
+    <string name="permission_phone_title">Gerätedaten</string>
     <string name="permission_storage_desc">Zugriff auf und Speichern von Fotos und Dateien auf diesem Gerät</string>
     <string name="permission_storage_desc_pad">Zugriff auf Fotos und Dateien auf dem Gerät</string>
     <string name="permission_storage_title">Speicher</string>
@@ -403,10 +403,10 @@
     <string name="rename_ext_confirm_dialog_desc">Ändern des Dateityps kann die Datei unbrauchbar machen</string>
     <string name="rename_file_select_error">Mehrere Elemente umbenennen nicht möglich</string>
     <string name="rename_success">Erfolgreich umbenannt</string>
-    <string name="request_permission_account_state">Für die Schnellanmeldung beim Xiaomi-Konto</string>
+    <string name="request_permission_account_state">Für die Schnellanmeldung am Xiaomi-Konto</string>
     <string name="request_permission_confirm">Verstanden</string>
     <string name="request_permission_content">Mi Drive benötigt die Berechtigung, auf Konten, Fotos und Dateien auf Ihrem Gerät zuzugreifen und Benachrichtigungen zu senden. Diese Berechtigungen werden verwendet, um die Schnellanmeldung für das Xiaomi-Konto und Vorschau, Hochladen, Herunterladen und Synchronisieren von Elementen zu ermöglichen.</string>
-    <string name="request_permission_content_with_phone_state">Damit Sie sich beim Xiaomi-Konto anmelden, Dateien in der Vorschau anzeigen, hochladen, herunterladen und synchronisieren sowie nach Updates suchen können, benötigt Mi Drive Zugriffsrechte auf Ihre Konten, Fotos, Dateien und IMEI.</string>
+    <string name="request_permission_content_with_phone_state">Damit Sie sich am Xiaomi-Konto anmelden, Dateien in der Vorschau anzeigen, hochladen, herunterladen und synchronisieren sowie nach Updates suchen können, benötigt Mi Drive Zugriffsrechte auf Ihre Konten, Fotos, Dateien und IMEI.</string>
     <string name="request_permission_external_storage">Zugriff auf Gerätespeicher</string>
     <string name="request_permission_external_storage_desc">Für Vorschau, Hochladen, Herunterladen und Synchronisieren von Elementen</string>
     <string name="request_permission_manual_authorized">Einstellungen</string>

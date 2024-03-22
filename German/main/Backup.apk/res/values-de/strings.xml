@@ -713,7 +713,7 @@
     <string name="storage_usb">USB-Laufwerk</string>
     <string name="succ_description">Erfolgreich</string>
     <string name="succeed">Abgeschlossen</string>
-    <string name="summary_err_backup_encrypting">Melden Sie sich in Ihrem Xiaomi-Konto an</string>
+    <string name="summary_err_backup_encrypting">Melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="summary_err_backup_no_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="summary_err_restore_encrypting">Wiederherstellen fehlgeschlagen. Stellen Sie sicher, dass diese Sicherung mit Ihrem Xiaomi-Konto erstellt wurde.</string>
     <string name="summary_err_restore_no_network">Netzwerkverbindung fehlgeschlagen</string>

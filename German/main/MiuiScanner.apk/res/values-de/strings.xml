@@ -216,7 +216,7 @@
     <string name="examples_form_guide">Wie man Tabellen scannt</string>
     <string name="examples_text_guide">Wie man Text scannt</string>
     <string name="expand_button_title">Erweitert</string>
-    <string name="experience_new_feature_tips">Melden Sie sich in Ihrem Xiaomi-Konto an, um die Berechtigung zur Nutzung der Beta-Version zu beantragen. Sie können die Beta-Version nutzen, sobald wir Ihren Antrag geprüft haben. Die Beta-Version kann Fehler enthalten.</string>
+    <string name="experience_new_feature_tips">Melden Sie sich an Ihrem Xiaomi-Konto an, um die Berechtigung zur Nutzung der Beta-Version zu beantragen. Sie können die Beta-Version nutzen, sobald wir Ihren Antrag geprüft haben. Die Beta-Version kann Fehler enthalten.</string>
     <string name="experience_new_features">Beta Version</string>
     <string name="experiential_version_of_the_prompt_content">Am Xiaomi-Konto anmelden, um auf Scanner Beta zuzugreifen. Jetzt anmelden?</string>
     <string name="express_no_empty">Erst Bestellnummer eingeben</string>

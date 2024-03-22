@@ -282,7 +282,7 @@
     <string name="micloud_confusion_setting_question">Deaktivieren Sie die Synchronisation mit Geräten, die mit Ihrem Konto verbunden sind</string>
     <string name="micloud_confusion_setting_title">Zu viele Geräte</string>
     <string name="micloud_confusion_toast_confirm">Gerät bestätigt</string>
-    <string name="micloud_confusion_toast_deny">Beim Xiaomi-Konto anmelden</string>
+    <string name="micloud_confusion_toast_deny">Am Xiaomi-Konto anmelden</string>
     <string name="micloud_confusion_yes">Ja</string>
     <string name="micloud_dspt_provision">Sie können Xiaomi Cloud verwenden, um Fotos, Kontakte, Nachrichten, Anruflisten, Notizen und andere Daten zu synchronisieren, Ihr Gerät zu orten und Elemente mit Freunden zu teilen. Diese App benötigt eine Internetverbindung, um normal zu funktionieren. Die Synchronisierung von Elementen kann eine mobile Datenverbindung und die Aktivierung von WLAN erfordern.</string>
     <string name="micloud_dspt_provision_china">Xiaomi Cloud verwenden, um Daten zu synchronisieren, Ihr Gerät zu orten und Dinge mit Freunden zu teilen</string>

@@ -58,7 +58,7 @@
     <string name="hybrid_provider">Bereitgestellt von %1$s</string>
     <string name="mibi_account_disable_dialog_btn_negative">Abbrechen</string>
     <string name="mibi_account_disable_dialog_btn_positive">Einschalten</string>
-    <string name="mibi_account_disable_dialog_msg">Um Mi Coin zu verwenden, müssen Sie sich in Ihr Xiaomi-Konto einloggen. Bitte aktivieren Sie den Xiaomi-Kontodienst unter Einstellungen/App-Management.</string>
+    <string name="mibi_account_disable_dialog_msg">Um Mi Coin zu verwenden, müssen Sie sich an Ihrem Xiaomi-Konto anmelden. Bitte aktivieren Sie den Xiaomi-Kontodienst unter Einstellungen/App-Management.</string>
     <string name="mibi_account_disable_dialog_title">Hinweis</string>
     <string name="mibi_all_license_message">Sie sind dabei, Mi Coin zu nutzen, einen Service von Xiaomi Inc. Bevor Sie diesen Service nutzen können, müssen Sie die Nutzungsbedingungen akzeptieren. Tippen Sie OK, wenn Sie die in %1$s und %2$s beschriebenen allgemeinen Geschäftsbedingungen akzeptieren. Sie müssen eine Internetverbindung herstellen und Ihr Gerät lokalisieren, um Mi Coin zu verwenden.</string>
     <string name="mibi_all_purpose">Willkommen bei Mi Coin. Mit dieser App können Sie Mi Coin aufladen, Ihre Geschenkgutscheine prüfen usw.</string>

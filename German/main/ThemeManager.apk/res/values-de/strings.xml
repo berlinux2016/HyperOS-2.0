@@ -1285,7 +1285,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="super_wallpaper_setting_coordinate_title">Koordinaten</string>
     <string name="super_wallpaper_setting_view_height_title">Höhe</string>
     <string name="supersave_mode_toast_message">Diese Funktion ist nicht verfügbar, wenn Sie Ultra-Stromsparen verwenden. Ausschalten, um die Funktion zu nutzen.</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Dieser Hintergrund ist bereits mit einem anderen Xiaomi-Konto verknüpft. Mite diesem Xiaomi-Konto anmelden und erneut versuchen.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Dieser Hintergrund ist bereits mit einem anderen Xiaomi-Konto verknüpft. Mit diesem Xiaomi-Konto anmelden und erneut versuchen.</string>
     <string name="support_theme_store_des">Gute Themen werden immer von talentierten Designern entworfen. Unsere App enthält eine kleine Anzahl an Werbung, mit der wir deren Arbeit unterstützen.</string>
     <string name="support_theme_store_supported">Danke für Ihre Unterstützung!</string>
     <string name="support_theme_store_title">Unterstützen Sie unsere Designer</string>
@@ -1414,7 +1414,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="theme_is_external_priority_storage_summary">Themen-App wird sofort neu gestartet, um diese Einstellung zu übernehmen.</string>
     <string name="theme_log_out">Abmelden</string>
     <string name="theme_multiple_button_title_customize">Anpassen</string>
-    <string name="theme_need_login_dialog_content">Beim Xiaomi-Konto anmelden, um fortzufahren</string>
+    <string name="theme_need_login_dialog_content">Am Xiaomi-Konto anmelden, um fortzufahren</string>
     <string name="theme_no">Nein</string>
     <string name="theme_not_include_module_desc">Dieses Thema enthält die folgenden Elemente nicht: %s</string>
     <string name="theme_on_the_phone_alert">Während Anrufen ist Abspielen nicht möglich</string>

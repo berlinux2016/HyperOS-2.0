@@ -1905,7 +1905,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="bootloader_status_locked">Gesperrt</string>
     <string name="bootloader_status_locked_info">Dieses Gerät ist gesperrt.</string>
     <string name="bootloader_status_locked_summary">Telefon ist sicher</string>
-    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock benötigt Zugang zu Ihrem Xiaomi-Konto, CPU ID, IMSI, um normal zu arbeiten. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Zustimmen?</Data></string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock benötigt Zugriff auf Xiaomi-Konto, CPU ID, IMSI, um normal zu arbeiten. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Zustimmen?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Abbrechen</string>
     <string name="bootloader_status_privacy_dialog_title">Erforderliche Berechtigungen</string>
     <string name="bootloader_status_privacy_dialog_url_text">Datenschutzerklärung</string>
@@ -3068,7 +3068,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="device_ime_keyboard_fold">Tastaturen für faltbare Geräte</string>
     <string name="device_ime_keyboard_pad">Tastaturen für Tablets</string>
     <string name="device_info_default">Unbekannt</string>
-    <string name="device_info_label">Geräteinfo</string>
+    <string name="device_info_label">Gerätedaten</string>
     <string name="device_info_not_available">Nicht verfügbar</string>
     <string name="device_info_protected_single_press">Tippen, um Infos anzuzeigen</string>
     <string name="device_info_settings">Telefonstatus</string>
@@ -4537,7 +4537,7 @@ Speichern Sie Ihre Systemeinstellungen, Konten, App-Daten und andere Elemente au
 Synchronisieren Sie Ihre Kontakte, Fotos, Videos, die App-Liste, Systemeinstellungen und das Layout des Startbildschirms mit der Cloud."</string>
     <string name="how_backup_title">Wie kann ich Elemente sichern?</string>
     <string name="how_encrypt_content">"Sie können nur lokale Sicherungen verschlüsseln. Hier sind einige Verschlüsselungsmethoden, die Sie verwenden können:
-a) In Einstellungen > Weitere Einstellungen auf der Seite mit Ihren lokalen Sicherungen. Button antippen, um die Verschlüsselung einzuschalten, und an Ihrem Xiaomi-Konto anmelden. Sicherungen werden danach automatisch verschlüsselt. Nicht vergessen, sich beim Xiaomi-Konto anzumelden, um Elemente aus verschlüsselten Sicherungen wiederherzustellen.
+a) In Einstellungen > Weitere Einstellungen auf der Seite mit Ihren lokalen Sicherungen. Button antippen, um die Verschlüsselung einzuschalten, und an Ihrem Xiaomi-Konto anmelden. Sicherungen werden danach automatisch verschlüsselt. Nicht vergessen, sich am Xiaomi-Konto anzumelden, um Elemente aus verschlüsselten Sicherungen wiederherzustellen.
 b) Bei Verwendung von Mi PC Suite zur Sicherung von Elementen können Sie dort Verschlüsselungsoptionen nutzen.
 \nHinweis: Vergessen Sie das Passwort für verschlüsselte Sicherungen nicht! Sie werden Ihre Sicherungen sonst nicht mehr entschlüsseln können."</string>
     <string name="how_encrypt_title">Wie verschlüssele ich meine Sicherungen?</string>
@@ -5058,7 +5058,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="launcher_title">Startbildschirm &amp; Schnellzugriff</string>
     <string name="launcher_wallpaper_title">Startbildschirm &amp; Hintergrund</string>
     <string name="launching_cit">CIT öffnen…</string>
-    <string name="launching_pho">Geräteinfo öffnen…</string>
+    <string name="launching_pho">Gerätedaten öffnen…</string>
     <string name="launching_rep">Berichten…</string>
     <string name="layout_exhuge_font_take_effect_tips">XXL-Textgröße funktioniert nur in Telefon, Nachrichten und Kontakten</string>
     <string name="layout_exhuge_font_tips">Weitere Optionen sind in %1$s verfügbar</string>
@@ -7625,10 +7625,10 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="private_dns_mode_provider_hostname_hint">Hostname des DNS-Providers eingeben</string>
     <string name="private_gallery_need_to_unlock">Password erforderlich:</string>
     <string name="private_gallery_recording_intro_header">Entsperrmuster zeichnen:</string>
-    <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich in Ihrem Xiaomi-Konto an</string>
+    <string name="private_gallery_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="private_sms_need_to_unlock">Passwort erforderlich:</string>
     <string name="private_sms_recording_intro_header">Entsperrmuster zeichnen:</string>
-    <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich in Ihrem Xiaomi-Konto an</string>
+    <string name="private_sms_reset_by_account">Um Ihr Passwort zurückzusetzen, melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="privileged_action_disable_fail_text">Etwas ist schief gelaufen und Ihr Anbieter konnte nicht deaktiviert werden.</string>
     <string name="privileged_action_disable_fail_title">Anbieter kann nicht deaktiviert werden</string>
     <string name="privileged_action_disable_sub_dialog_progress">SIM ausschalten…</string>
@@ -9696,7 +9696,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="suggestion_button_close">Schließen</string>
     <string name="suggestion_for_phone_recycled">Andere Rufnummer hinzufügen</string>
     <string name="suggestions_available">Vorschläge unten</string>
-    <string name="summary_err_backup_encrypting">Melden Sie sich in Ihrem Xiaomi-Konto an</string>
+    <string name="summary_err_backup_encrypting">Melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="summary_quick_control_all_devices">Steuerelemente für nahegelegene TVs, Lautsprecher und Autos im Kontrollzentrum anzeigen</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_first_day_of_week">Sonntag</string>
@@ -10064,7 +10064,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="toast_bluetooth_disable">Bluetooth kann nicht aktiviert werden. Offenbar wurde das Bluetooth-Modul neu installiert oder der Bluetooth-Zugriff wurde eingeschränkt.</string>
     <string name="toast_disconnect_earphone">Kopfhörer trennen und erneut versuchen</string>
     <string name="toast_lockscreen_glogin_empty_password">Passwort eingeben</string>
-    <string name="toast_need_login">Melden Sie sich in Ihrem Xiaomi-Konto an</string>
+    <string name="toast_need_login">Melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="toast_sta_ap_works_wifi_display_disable">Keine Übertragung bei bestehender WLAN-Verbindung und aktiviertem Hotspot</string>
     <string name="today">Heute</string>
     <string name="tof_gesture_cue_tone_summary">Bestätigungston abspielen, wenn Ihre Handfläche erkannt wird</string>
@@ -10484,7 +10484,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="unlock_sound_effect_enable_title">Ton beim Gerät entsperren abspielen</string>
     <string name="unlock_type_category_title">Erkennungsmethode</string>
     <string name="unlogin_account_summary">Alle Xiaomi-Dienste. Ein Xiaomi-Konto</string>
-    <string name="unlogin_account_title">Beim Xiaomi-Konto anmelden</string>
+    <string name="unlogin_account_title">Am Xiaomi-Konto anmelden</string>
     <string name="unmute_sound_title">Ton abspielen, wenn der Lautlosmodus ausgeschaltet wird</string>
     <string name="unrestrict_max_aspect_ratio_title">Diese Apps sind für den Vollbildmodus optimiert</string>
     <string name="unrestricted_app_summary">Beim Datensparen uneingeschränkten Datenzugriff erlauben</string>

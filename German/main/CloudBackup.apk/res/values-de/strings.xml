@@ -148,7 +148,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="cloud_backup_permission_allow">Gewährt</string>
     <string name="cloud_backup_permission_not_allow">Nicht gewährt</string>
     <string name="cloud_backup_phone_state_summary">Zugriff auf Rufnummer und Gerätestatus</string>
-    <string name="cloud_backup_phone_state_title">Zugriff auf Geräteinfo</string>
+    <string name="cloud_backup_phone_state_title">Zugriff auf Gerätedaten</string>
     <string name="cloud_backup_rw_storage_summary">Für die Cloud-Sicherung von Startbildschirm-Layout, App-Daten und App-Einstellungen</string>
     <string name="cloud_backup_rw_storage_title">Speicherzugriff</string>
     <string name="cloud_backup_select_recover">Wählen Sie eine Sicherung in Xiaomi Cloud</string>

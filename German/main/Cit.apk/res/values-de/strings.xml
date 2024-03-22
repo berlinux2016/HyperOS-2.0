@@ -546,7 +546,7 @@ Auf die Taste tippen, um den Berührungsmodus auf THP-Modus oder FW-Modus umzusc
     <string name="cit_tt_rx_check_title">Chip RX-Empfangspfad-Erkennung</string>
     <string name="cit_tt_tx_check_title">Chip TX-Übertragungspfad-Erkennung</string>
     <string name="cit_ultra_camera_check_title">Ultra-Kamera</string>
-    <string name="cit_usb_OTG_error_condition">"USB-Gerät ist angeschlossen, Geräteinformationen aber nicht abrufbar.
+    <string name="cit_usb_OTG_error_condition">"USB-Gerät ist angeschlossen, Gerätedaten aber nicht abrufbar.
 Test fehlgeschlagen!"</string>
     <string name="cit_usb_OTG_in">USB_OTG-Gerät ist angeschlossen, bitte entfernen und umgedreht wieder einstecken</string>
     <string name="cit_usb_OTG_in_charge">USB OTG-Gerät erkannt</string>

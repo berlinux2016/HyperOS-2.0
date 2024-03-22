@@ -374,7 +374,7 @@
     <string name="pad_real_time_detail_title_new">Indizes</string>
     <string name="particulate_matter_exceeded">Hoch</string>
     <string name="particulate_matter_serious_exceeded">Zu hoch</string>
-    <string name="permission_device_info">Geräteinfo</string>
+    <string name="permission_device_info">Gerätedaten</string>
     <string name="permission_device_introduce">Zur Erkennung der Geräte-ID anhand von Gerätemodell und IMEI und zur Bereitstellung lokalisierter Dienste anhand der Spracheinstellungen</string>
     <string name="permission_exit">Beenden</string>
     <string name="permission_privacy">Datenschutzerklärung (obligatorisch)</string>

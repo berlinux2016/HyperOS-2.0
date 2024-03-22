@@ -878,7 +878,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="print_scheduler_title">Alle Planer drucken</string>
     <string name="privacy_and_help">Datenschutz und Hilfe</string>
     <string name="privacy_and_private_permission">Zustimmung zur Nutzervereinbarung und Datenschutzerklärung</string>
-    <string name="privacy_des">Protokolle enthalten Debugging-Infos des E-Mail-Clienten und Ihre Geräteinformationen. Diese Informationen werden verwendet, um Probleme schneller zu lokalisieren. Indem Sie unten auf \"%1$s\" tippen, stimmen Sie unserer \"%2$s\" zu.</string>
+    <string name="privacy_des">Protokolle enthalten Debugging-Infos des E-Mail-Clienten und Ihre Gerätedaten. Diese Informationen werden verwendet, um Probleme schneller zu lokalisieren. Indem Sie unten auf \"%1$s\" tippen, stimmen Sie unserer \"%2$s\" zu.</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_setting_agree">Zustimmen</string>
     <string name="progress">Fortschritt:</string>

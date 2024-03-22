@@ -34,7 +34,7 @@
     <string name="activate_history_title">SIM-Kartenaktivierung</string>
     <string name="activate_phone_failed_notif_title_sim">\"%2$s\" wurde mit SIM %1$d nicht aktiviert</string>
     <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Xiaomi-Konto mit SIM %d erfolgreich erstellt</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Xiaomi-Konto wurde mit SIM %d nicht erstellt</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Xiaomi-Konto mit SIM %d nicht erstellt</string>
     <string name="activate_phone_server_failed_notif_title">\"%s\" wurde nicht aktiviert</string>
     <string name="activate_phone_server_success_notif_title">\"%s\" erfolgreich aktiviert</string>
     <string name="activate_phone_success_notif_title_sim">\"%2$s\" mit SIM %1$d erfolgreich aktiviert</string>

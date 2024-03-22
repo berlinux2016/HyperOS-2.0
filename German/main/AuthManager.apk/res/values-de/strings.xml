@@ -431,7 +431,7 @@
     <string name="virtual_reject_notice_title_calendar">Kalenderzugriff durch %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Anruflistenzugriff durch %1$s</string>
     <string name="virtual_reject_notice_title_contacts">Kontaktezugriff durch %1$s</string>
-    <string name="virtual_reject_notice_title_phonestate">Geräteinfozugriff durch %1$s</string>
+    <string name="virtual_reject_notice_title_phonestate">Gerätedatenzugriff durch %1$s</string>
     <string name="virtual_reject_notice_title_sms">Nachrichtenzugriff durch %1$s</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>

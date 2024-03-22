@@ -73,7 +73,7 @@
     <string name="auto_fill_not_sport_on_water_mark_version">Autofill-Anmeldung wird bei Versionen mit Wasserzeichen nicht unterstützt</string>
     <string name="bind_facebook">Facebook-Konto verbinden</string>
     <string name="bind_google">Google-Konto verbinden</string>
-    <string name="bind_safe_phone_msg">Fügen Sie Ihre Rufnummer hinzu, damit Sie sich das nächste Mal bei Ihrem Xiaomi-Konto anmelden können.</string>
+    <string name="bind_safe_phone_msg">Fügen Sie Ihre Rufnummer hinzu, damit Sie sich das nächste Mal an Ihrem Xiaomi-Konto anmelden können.</string>
     <string name="bind_sns_description">Anmelden mit %s</string>
     <string name="bind_weixin">WeChat-Konto verbinden</string>
     <string name="binded">Verbunden</string>
@@ -227,7 +227,7 @@
     <string name="find_device_locked_account_email" formatted="false">%s, verknüpfte E-Mail-Adresse: %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, verknüpfte Rufnummer: %s</string>
     <string name="find_device_message">Gerät ist gesperrt. Nachricht: %1$s. Rufnummer: %2$s.</string>
-    <string name="find_device_null_credential_error">Geräteinfo kann nicht gelesen werden, kontaktieren Sie den Xiaomi Kundenservice</string>
+    <string name="find_device_null_credential_error">Gerätedaten kann nicht gelesen werden, kontaktieren Sie den Xiaomi Kundenservice</string>
     <string name="find_device_open">An</string>
     <string name="find_device_operation_failed_error">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
     <string name="find_device_operation_failed_error_unknown">Ein Fehler ist aufgetreten, später erneut versuchen</string>
