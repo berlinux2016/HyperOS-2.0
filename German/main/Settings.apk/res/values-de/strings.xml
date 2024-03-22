@@ -6060,7 +6060,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_lab_aiasst_call_screen_title">KI-Anrufassistent</string>
     <string name="miui_lab_drive_mode_desc">Sprachsteuerung verwenden &amp; WeChat-Nachrichten abhören</string>
     <string name="miui_lab_drive_mode_desc_new">Sprachsteuerung verwenden</string>
-    <string name="miui_lab_drive_mode_title">Automodus</string>
+    <string name="miui_lab_drive_mode_title">Auto-Modus</string>
     <string name="miui_lab_feature_applied">Angewendet</string>
     <string name="miui_lab_feature_off">Aus</string>
     <string name="miui_lab_feature_on">An</string>
@@ -6071,8 +6071,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miui_lab_gesture_title">Vollbildschirm-Gesten</string>
     <string name="miui_lab_home_feed_desc">Helle Ideen. Überzeugende Geschichten.</string>
     <string name="miui_lab_install_drive_mode_error">Wurde nicht installiert, erneut versuchen.</string>
-    <string name="miui_lab_install_drive_mode_summary">Automodus ist eine System-App. Installation erfordert keine Internetverbindung.</string>
-    <string name="miui_lab_install_drive_mode_title">Automodus installieren</string>
+    <string name="miui_lab_install_drive_mode_summary">Auto-Modus ist eine System-App. Installation erfordert keine Internetverbindung.</string>
+    <string name="miui_lab_install_drive_mode_title">Auto-Modus installieren</string>
     <string name="miui_lab_settings">Lab</string>
     <string name="miui_lab_slogan">Lernen. Erkunden. Entdecken.</string>
     <string name="miui_lab_super_resolution_desc">Bilder schärfer machen</string>

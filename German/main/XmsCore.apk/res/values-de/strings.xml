@@ -26,14 +26,13 @@
     <string name="click_to_restore">Systemelemente wiederherstellen, um das Gerät nach einem Werksreset normal zu verwenden. Zum Starten tippen.</string>
     <string name="close">Schließen</string>
     <string name="com_android_deskclock">Uhr</string>
-    <string name="com_android_email">E-Mail</string>
     <string name="com_miui_calculator">Rechner</string>
     <string name="com_miui_compass">Kompass</string>
     <string name="com_miui_gallery">Galerie</string>
     <string name="com_miui_notes">Notizen</string>
     <string name="com_miui_weather2">Wetter</string>
     <string name="com_xiaomi_calendar">Kalender</string>
-    <string name="com_xiaomi_drivemode">Automodus</string>
+    <string name="com_xiaomi_drivemode">Auto-Modus</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="do_not_restore_temporarily">Jetzt nicht</string>
     <string name="download_right_now">Herunterladen</string>
@@ -95,7 +94,6 @@
     <string name="monday_shortest">M</string>
     <string name="month_april_shortest">A</string>
     <string name="month_august_shortest">A</string>
-    <string name="month_day_format">d. MMM</string>
     <string name="month_december">Dezember</string>
     <string name="month_december_short">Dez</string>
     <string name="month_december_shortest">D</string>
@@ -161,7 +159,7 @@
     <string name="system_app_restore_completed">Erfolgreich wiederhergestellt</string>
     <string name="system_app_restore_completed_detail">Alle Systemelemente erfolgreich wiederhergestellt</string>
     <string name="system_app_restore_failed">Ein Fehler ist aufgetreten</string>
-    <string name="system_app_restore_failed_detail">Systemelemente wurden nicht wiederhergestellt. Netzwerkeinstellungen prüfen und das Gerät nicht neu starten oder ausschalten, bis die Elemente vollständig wiederhergestellt sind. Auf Taste unten tippen, um es erneut zu versuchen.</string>
+    <string name="system_app_restore_failed_detail">Systemelemente wiederherstellen fehlgeschlagen. Netzwerkeinstellungen prüfen und das Gerät nicht neu starten oder ausschalten, bis die Elemente vollständig wiederhergestellt sind. Auf Taste unten tippen, um es erneut zu versuchen.</string>
     <string name="system_restore">Elemente wiederherstellen</string>
     <string name="tap_to_update_system_app">Tippen, um System-Apps zu aktualisieren</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>

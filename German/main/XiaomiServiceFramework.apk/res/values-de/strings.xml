@@ -32,6 +32,6 @@
     <string name="pop_up_allow_notify_dialog">Erlauben</string>
     <string name="pop_up_deny_notify_dialog">Ablehnen</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="sync_notification_title_format">Aktuell synchronisierendes Element: %1$s</string>
+    <string name="sync_notification_title_format">Aktuell synchronisiert: %1$s</string>
     <string name="xmsf_activate_info">XMSF Aktivierungsinfo</string>
 </resources>

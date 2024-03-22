@@ -5718,7 +5718,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="task_summary_close_dark_mode">Dark Mode ausschalten</string>
     <string name="task_summary_close_dc_light">Anti-Flacker-Modus ausschalten</string>
     <string name="task_summary_close_dial_tone">Wähltöne ausschalten</string>
-    <string name="task_summary_close_drive_mode">Automodus ausschalten</string>
+    <string name="task_summary_close_drive_mode">Auto-Modus ausschalten</string>
     <string name="task_summary_close_eye_care_mode">Lesemodus ausschalten</string>
     <string name="task_summary_close_hotspot">Mobilen Hotspot ausschalten</string>
     <string name="task_summary_close_location">Standortdienste ausschalten</string>
@@ -5738,7 +5738,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="task_summary_open_dc_light">Anti-Flacker-Modus einschalten</string>
     <string name="task_summary_open_dial_tone">Wähltöne einschalten</string>
     <string name="task_summary_open_disturb_mode">DND-Modus einschalten</string>
-    <string name="task_summary_open_drive_mode">Automodus einschalten</string>
+    <string name="task_summary_open_drive_mode">Auto-Modus einschalten</string>
     <string name="task_summary_open_eye_care_mode">Lesemodus einschalten</string>
     <string name="task_summary_open_hotspot">Mobilen Hotspot einschalten</string>
     <string name="task_summary_open_location">Standortdienste einschalten</string>
@@ -5971,7 +5971,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="title_result_brightness">Auto-Helligkeit</string>
     <string name="title_result_dark">Dark Mode</string>
     <string name="title_result_dial_tone">Wähltöne</string>
-    <string name="title_result_drive">Automodus</string>
+    <string name="title_result_drive">Auto-Modus</string>
     <string name="title_result_examination">Sicherheitsscan</string>
     <string name="title_result_eye_care">Lesemodus</string>
     <string name="title_result_flashlight">Lampe</string>

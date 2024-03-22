@@ -1080,7 +1080,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="notification_channel_account">Kontostatus</string>
     <string name="notification_channel_alerts">Warnungen</string>
     <string name="notification_channel_call_forward">Rufumleitung</string>
-    <string name="notification_channel_car_mode">Automodus</string>
+    <string name="notification_channel_car_mode">Auto-Modus</string>
     <string name="notification_channel_developer">Entwicklernachrichten</string>
     <string name="notification_channel_developer_important">Wichtige Entwicklernachrichten</string>
     <string name="notification_channel_device_admin">Warnungen von Ihrem IT-Admin</string>
@@ -1198,7 +1198,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_deliverCompanionMessages">Erlaubt einer Begleit-App, Begleitnachrichten an andere Geräte zu übermitteln.</string>
     <string name="permdesc_detectScreenCapture">Diese App wird benachrichtigt, wenn ein Screenshot gemacht wird, während die App verwendet wird.</string>
     <string name="permdesc_disableKeyguard">Erlaubt der App, die Tastensperre sowie den damit verbundenen Passwortschutz zu deaktivieren. Z. B. deaktiviert das Telefon die Tastensperre, wenn ein Anruf eingeht, und aktiviert diese wieder, nachdem das Gespräch beendet wurde.</string>
-    <string name="permdesc_enableCarMode">Erlaubt der App, den Automodus zu aktivieren</string>
+    <string name="permdesc_enableCarMode">Erlaubt der App, den Auto-Modus zu aktivieren</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">Befreit die App von Beschränkungen für Audioaufnahme</string>
     <string name="permdesc_expandStatusBar">Erlaubt der App, die Statusleiste ein- oder auszublenden</string>
     <string name="permdesc_foregroundService">Erlaubt der App die Nutzung von Vordergrunddiensten</string>
@@ -1395,7 +1395,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permlab_deliverCompanionMessages">Begleitnachrichten zustellen</string>
     <string name="permlab_detectScreenCapture">Bildschirmaufnahmen von App-Fenstern erkennen</string>
     <string name="permlab_disableKeyguard">Bildschirmsperre deaktivieren</string>
-    <string name="permlab_enableCarMode">Automodus aktivieren</string>
+    <string name="permlab_enableCarMode">Auto-Modus aktivieren</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">Ausgenommen von Audio-Aufnahmebeschränkungen</string>
     <string name="permlab_expandStatusBar">Statusleiste ein-/ausblenden</string>
     <string name="permlab_foregroundService">Vordergrunddienst ausführen</string>
