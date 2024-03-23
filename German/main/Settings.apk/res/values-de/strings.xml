@@ -1306,18 +1306,18 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="battery_tip_limited_temporarily_title">Ladevorgang zum Schutz des Akkus optimiert</string>
     <string name="battery_tip_low_battery_summary">Akku kann keine gute Akkulaufzeit bieten</string>
     <string name="battery_tip_low_battery_title">Niedrige Akkukapazität</string>
-    <string name="battery_tip_restrict_app_dialog_message">Um Akku zu schonen, halten Sie %1$s von der Akkunutzung im Hintergrund ab. Diese App funktioniert eventuell nicht richtig und Benachrichtigungen können sich verzögern.</string>
+    <string name="battery_tip_restrict_app_dialog_message">Um Akku zu schonen, halten Sie %1$s vom Akkuverbrauch im Hintergrund ab. Diese App funktioniert eventuell nicht richtig und Benachrichtigungen können sich verzögern.</string>
     <string name="battery_tip_restrict_app_dialog_ok">Einschränken</string>
     <string name="battery_tip_restrict_app_dialog_title">{count, plural, =1 {App einschränken?} other {# Apps einschränken?} }</string>
-    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">Um Akku zu schonen, halten Sie diese Apps von der Akkunutzung im Hintergrund ab. Beschränkte Apps funktionieren eventuell nicht richtig und Benachrichtigungen können sich verzögern.\n\nApps:</string>
-    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">Um Akku zu schonen, halten Sie diese Apps von der Akkunutzung im Hintergrund ab. Beschränkte Apps funktionieren eventuell nicht richtig und Benachrichtigungen können sich verzögern.\n\nApps:\n%1$s.</string>
+    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">Um Akku zu schonen, halten Sie diese Apps vom Akkuverbrauch im Hintergrund ab. Beschränkte Apps funktionieren eventuell nicht richtig und Benachrichtigungen können sich verzögern.\n\nApps:</string>
+    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">Um Akku zu schonen, halten Sie diese Apps vom Akkuverbrauch im Hintergrund ab. Beschränkte Apps funktionieren eventuell nicht richtig und Benachrichtigungen können sich verzögern.\n\nApps:\n%1$s.</string>
     <string name="battery_tip_restrict_handled_summary">"{count, plural, =1 {Diese App kann nicht im Hintergrund laufen} other {Diese Apps können nicht im Hintergrund laufen} }"</string>
     <string name="battery_tip_restrict_handled_title">{count, plural, =1 {{label} kürzlich eingeschränkt} other {# Apps kürzlich eingeschränkt} }</string>
     <string name="battery_tip_restrict_summary">{count, plural, =1 {{label} verbraucht viel Akku im Hintergrund} other {# Apps verbrauchen viel Akku im Hintergrund} }</string>
     <string name="battery_tip_restrict_title">{count, plural, =1 {# App einschränken} other {# Apps einschränken} }</string>
     <string name="battery_tip_smart_battery_summary">Akkumanager einschalten</string>
     <string name="battery_tip_smart_battery_title">Akkulaufzeit Ihres Telefons verbessern</string>
-    <string name="battery_tip_summary_summary">Telefon hat typische Akkunutzung im Hintergrund</string>
+    <string name="battery_tip_summary_summary">Telefon hat typischen Akkuverbrauch im Hintergrund</string>
     <string name="battery_tip_summary_title">Apps laufen normal</string>
     <string name="battery_tip_unrestrict_app_dialog_cancel">Abbrechen</string>
     <string name="battery_tip_unrestrict_app_dialog_message">Diese App kann Akku im Hintergrund verwenden. Ihr Akku kann schneller leer sein als erwartet.</string>
@@ -4505,7 +4505,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="high_performance_title">Wenn Sie einen Benchmark laufen lassen, stellen Sie die Stromverwaltung auf \"Leistung\" für bestmögliche Resultate.</string>
     <string name="high_power_apps">Akkuoptimierung</string>
     <string name="high_power_filter_on">Nicht optimiert</string>
-    <string name="high_power_off">Akkunutzung optimieren</string>
+    <string name="high_power_off">Akkuverbrauch optimieren</string>
     <string name="high_power_on">Akkuoptimierung ignorieren</string>
     <string name="high_power_prompt_body">App %1$s bleibt im Hintergrund verbunden? Sie könnte mehr Akku verbrauchen.</string>
     <string name="high_power_prompt_title">Akkuoptimierungen ignorieren?</string>
