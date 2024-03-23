@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
+    <string name="accelerate_play">Geschwindigkeit: %sX</string>
     <string name="accept_cookies_confirm_message">Deaktivieren dieser Funktion könnte auf einigen Seiten zu Fehlverhalten führen</string>
     <string name="accessibility_button_clear">Eingabe löschen</string>
     <string name="account_bind_secure_email_title">Wiederherstellungs-E-Mail hinzufügen</string>
@@ -267,6 +268,9 @@
     <string name="btn_agree">Zustimmen</string>
     <string name="btn_cancel">Abbrechen</string>
     <string name="btn_confirm">Verstanden</string>
+    <string name="btn_copied">Kopiert</string>
+    <string name="btn_copy">Kopieren</string>
+    <string name="btn_open">Öffnen</string>
     <string name="camera_permission_name">Kamera verwenden</string>
     <string name="can_not_send_with_too_many">So viele Elemente können nicht auf einmal gesendet werden</string>
     <string name="cancel">Abbrechen</string>
@@ -984,6 +988,8 @@
     <string name="junk_files_found">Müll gefunden</string>
     <string name="just_a_second">Einen Moment…</string>
     <string name="just_now">Gerade eben</string>
+    <string name="kindred_coupons_terms">Allgemeine Geschäftsbedingungen anzeigen</string>
+    <string name="kindred_coupons_title">Gutscheine</string>
     <string name="le_download_failed_server_error">Download war wegen eines Serverfehlers nicht möglich.</string>
     <string name="le_network_chagne_to_none">Netzwerkverbindung unterbrochen. Alle Downloads wurden angehalten.</string>
     <string name="list_item_click">Auf Listenelement tippen</string>
@@ -1957,6 +1963,8 @@
     <string name="record_permission_name">Audio aufnehmen</string>
     <string name="recovery_page_popup">Machen Sie da weiter, wo Sie aufgehört haben</string>
     <string name="refresh">Aktualisieren</string>
+    <string name="refresh_button_update_item">%d Updates sind verfügbar</string>
+    <string name="refresh_button_update_latest">Sie sehen die neuesten Artikel</string>
     <string name="refresh_fail">Info wurde nicht geladen</string>
     <string name="refresh_guide">Zurück nach oben</string>
     <string name="refreshing">Aktualisieren…</string>
@@ -2114,7 +2122,6 @@
     <string name="setting_privacy_password">Entsperrmuster einrichten</string>
     <string name="setting_searchable_content">Durchsuchbare Elemente</string>
     <string name="setting_sms_content">SMS-Inhalt</string>
-    <string name="setting_swipe_up">Auf Startbildschirm nach oben wischen</string>
     <string name="settings_search_online_apps">App-Märkte</string>
     <string name="settings_search_online_apps_desc">Inhalt von App-Märkten</string>
     <string name="share_image_text">Ich habe ein Foto geteilt, seht es euch an! @Mi Browser</string>
@@ -2255,6 +2262,7 @@
     <string name="tab_forward_description">Nächste Verlaufseite</string>
     <string name="tab_game">Spiele</string>
     <string name="tab_home">Startseite</string>
+    <string name="tab_mall">Geschäft</string>
     <string name="tab_mine">Profil</string>
     <string name="tab_novel">Bücher</string>
     <string name="tab_quicklinks">Startseite</string>

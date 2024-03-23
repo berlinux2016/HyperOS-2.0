@@ -74,10 +74,6 @@
         <item>Nichts</item>
         <item>Neuer Benutzer</item>
     </string-array>
-  <string-array name="setting_swipe_up_target">
-    <item>Suche</item>
-    <item>Nachrichten</item>
-  </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Löschen</item>
         <item>Nein danke</item>

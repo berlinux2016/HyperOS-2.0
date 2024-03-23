@@ -4202,6 +4202,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="gadget_toggle_wifi">WLAN-Einstellungen aktualisieren</string>
     <string name="gadget_wifi">WLAN</string>
     <string name="gallery_privacy_password_role_instruction">Um die privat erstellten Elemente anzuzeigen, in \"Alben\" nach unten wischen</string>
+    <string name="gallery_wallpaper_history">Tippen, um frühere Bilder im Hintergrundkarussell anzuzeigen</string>
+    <string name="gallery_wallpaper_history_go">Anzeigen</string>
     <string name="game_booster">Spiel;Spiele;Turbo;Spielen;Spielemodus</string>
     <string name="game_controller_settings_category">Spielsteuerung</string>
     <string name="game_driver_all_apps_preference_title">Für alle Apps aktivieren</string>
@@ -10032,6 +10034,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="tip_remove_data">Durch Zurücksetzen auf die Werkseinstellungen werden diese Elemente von Ihrem Gerät gelöscht</string>
     <string name="title_change_system_locale">Systemsprache in %s ändern?</string>
     <string name="title_color_calibration">Farbkorrekturvoreinstellung</string>
+    <string name="title_device_control">Gerätesteuerung</string>
     <string name="title_font">Font</string>
     <string name="title_font2">Font</string>
     <string name="title_font_current">Systemschrift</string>
@@ -11028,6 +11031,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wallpaper_attributions_values">Satellitenbildanbieter:\n ©2014 CNES / Astrium, DigitalGlobe, Bluesky</string>
     <string name="wallpaper_dashboard_summary">Startbildschirm, Sperrbildschirm</string>
     <string name="wallpaper_desktop">Startbildschirm</string>
+    <string name="wallpaper_history">Hintergrundverlauf</string>
     <string name="wallpaper_live">Live-Hintergrund</string>
     <string name="wallpaper_lockscreen">Sperrbildschirm</string>
     <string name="wallpaper_setting_title">Hintergründe für faltbare Geräte</string>
