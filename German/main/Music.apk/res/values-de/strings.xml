@@ -237,7 +237,7 @@
     <string name="close">Schließen</string>
     <string name="close_music_time">"Verbleibende Zeit: "</string>
     <string name="columbus_ad_flag_text">WERBUNG</string>
-    <string name="columbus_player_close_desc">Sie verlieren Ihre Belohnung</string>
+    <string name="columbus_player_close_desc">Sie verlieren Ihre Prämie</string>
     <string name="columbus_player_close_resume">VIDEO FORTSETZEN</string>
     <string name="columbus_player_close_title">Video schließen?</string>
     <string name="columbus_player_close_video">VIDEO SCHLIESSEN</string>
@@ -1623,7 +1623,7 @@
     <string name="tt_feedback_submit_text">Sie haben bereits Feedback eingereicht! Bitte reichen Sie es nicht erneut ein.</string>
     <string name="tt_feedback_thank_text">Vielen Dank für Ihr Feedback!</string>
     <string name="tt_full_screen_skip_tx">Überspringen</string>
-    <string name="tt_get_reward">Belohnung erhalten</string>
+    <string name="tt_get_reward">Prämie erhalten</string>
     <string name="tt_init_setting_config_not_complete">Initialisierung der Einstellungen ist nicht abgeschlossen</string>
     <string name="tt_label_cancel">Abbrechen</string>
     <string name="tt_load_creative_icon_error">Symbol laden fehlgeschlagen</string>
@@ -1632,7 +1632,7 @@
     <string name="tt_loading_language">Startseite lädt…</string>
     <string name="tt_logo_cn">WERBUNG</string>
     <string name="tt_logo_en">WERBUNG</string>
-    <string name="tt_msgPlayable">Spiel beenden, um Belohnungen zu erhalten</string>
+    <string name="tt_msgPlayable">Spiel beenden, um Prämien zu erhalten</string>
     <string name="tt_negtiveBtnBtnText">Beenden</string>
     <string name="tt_negtive_txt">Abbrechen</string>
     <string name="tt_net_error">Netzwerkfehler</string>
@@ -1645,7 +1645,7 @@
     <string name="tt_postiveBtnTextPlayable">Wiedergabe fortsetzen</string>
     <string name="tt_privacy_title">Datenschutzerklärung</string>
     <string name="tt_reward_full_skip">Nach %1$ss überspringen</string>
-    <string name="tt_reward_msg">Sehen Sie sich das gesamte Video an, um die Belohnung zu erhalten</string>
+    <string name="tt_reward_msg">Sehen Sie sich das gesamte Video an, um die Prämie zu erhalten</string>
     <string name="tt_reward_screen_skip_tx">Überspringen</string>
     <string name="tt_ror_code_show_event_error">Ereignisfehler anzeigen</string>
     <string name="tt_skip_ad_time_text">Nach %ds überspringen</string>

@@ -4275,7 +4275,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos abgerufe
     <string name="google_assistant_guide_tip">*Power-Taste für %s Sekunden gedrückt halten, um das Menü zum Herunterfahren zu öffnen</string>
     <string name="google_backup_enable">Sicherung aktivieren</string>
     <string name="google_backup_section_title">Google Sichern &amp; Zurücksetzen</string>
-    <string name="google_service_title">Google Dienste</string>
+    <string name="google_service_title">Google-Dienste</string>
     <string name="got_it">Verstanden</string>
     <string name="gps_description">Mehrere Satellitennavigationssysteme (GPS, BeiDou, GLONASS, Galileo) werden unterstützt</string>
     <string name="gps_description_global">Xiaomi-Geräte sind mit mehreren Navigationssystemen kompatibel, darunter GPS, NavIC, BeiDou, GLONASS und Galileo</string>
@@ -9853,9 +9853,9 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="tare_on">An</string>
     <string name="tare_other_interaction">Andere Benutzerinteraktion</string>
     <string name="tare_revert">Zu Standardeinstellungen zurückkehren</string>
-    <string name="tare_rewards_instantaneous">Belohnungen pro Einzelereignis</string>
-    <string name="tare_rewards_max">Maximale Belohnungen pro Tag</string>
-    <string name="tare_rewards_ongoing">Belohnungen pro Sekunde der Ereignisdauer</string>
+    <string name="tare_rewards_instantaneous">Prämien pro Einzelereignis</string>
+    <string name="tare_rewards_max">Maximale Prämien pro Tag</string>
+    <string name="tare_rewards_ongoing">Prämien pro Sekunde der Ereignisdauer</string>
     <string name="tare_settings">TARE-Einstellungen</string>
     <string name="tare_settings_reverted_toast">Einstellungen auf Standard zurückgesetzt</string>
     <string name="tare_top_activity">Wichtigste Aktivität</string>

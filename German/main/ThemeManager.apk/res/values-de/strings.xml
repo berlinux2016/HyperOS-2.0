@@ -202,7 +202,7 @@
     <string name="de_icon_text_comment">Kommentar</string>
     <string name="de_icon_text_discuss">Diskutieren</string>
     <string name="de_icon_text_favorite">Zu Favoriten hinzufügen</string>
-    <string name="de_icon_text_reward">Belohnung</string>
+    <string name="de_icon_text_reward">Prämie</string>
     <string name="de_icon_text_share">Teilen</string>
     <string name="de_mix">Bauen</string>
     <string name="de_mix_dialog_title">Bauen Sie sich Ihr Thema</string>
@@ -252,11 +252,11 @@
     <string name="detail_reward_build_order_error">Ordnung schaffen fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="detail_reward_custom_amount">Eigener Betrag</string>
     <string name="detail_reward_duplicate_order_error">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
-    <string name="detail_reward_exceed_limit">Belohnungen können bis zu 200 CNY enthalten</string>
+    <string name="detail_reward_exceed_limit">Prämien können bis zu 200 CNY enthalten</string>
     <string name="detail_reward_know_it">Verstanden</string>
-    <string name="detail_reward_limited_to_200">Belohnungen können bis zu 200 Mi Coins enthalten.</string>
+    <string name="detail_reward_limited_to_200">Prämien können bis zu 200 Mi Coins enthalten.</string>
     <string name="detail_reward_loading_failed">Info laden fehlgeschlagen. Erneut versuchen.</string>
-    <string name="detail_reward_no_one">Noch keine Belohnungen. Erste Belohnung vergeben!</string>
+    <string name="detail_reward_no_one">Noch keine Prämien. Erste Prämie vergeben!</string>
     <string name="detail_reward_reached_upper_limit">Belohnen heute nicht möglich. Kommen Sie morgen wieder!</string>
     <string name="detail_reward_resource_error">Wegen Fehler belohnen nicht möglich</string>
     <string name="detail_reward_server_error">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>

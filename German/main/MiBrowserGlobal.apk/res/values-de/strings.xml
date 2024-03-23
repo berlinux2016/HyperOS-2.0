@@ -356,7 +356,7 @@
     <string name="collect_diagnosis_log">Protokoll erfassen</string>
     <string name="collection_articles">Artikel</string>
     <string name="columbus_ad_flag_text">WERBUNG</string>
-    <string name="columbus_player_close_desc">Sie werden Ihre Belohnung verlieren</string>
+    <string name="columbus_player_close_desc">Sie werden Ihre Prämie verlieren</string>
     <string name="columbus_player_close_resume">VIDEO FORTSETZEN</string>
     <string name="columbus_player_close_title">Video schließen?</string>
     <string name="columbus_player_close_video">VIDEO SCHLIESSEN</string>
@@ -1410,7 +1410,7 @@
     <string name="my_account">Mein Konto</string>
     <string name="my_cahnnel">Meine Kanäle</string>
     <string name="my_channel">Meine Kanäle</string>
-    <string name="my_prize_entry">Meine Belohnungen</string>
+    <string name="my_prize_entry">Meine Prämien</string>
     <string name="name_empty">Sie müssen einen Namen eingeben.</string>
     <string name="native_body">Körper</string>
     <string name="native_headline">Überschrift</string>
@@ -1530,7 +1530,7 @@
     <string name="operation_rename">Umbenennen</string>
     <string name="operation_rename_message">Neuen Namen eingeben</string>
     <string name="operation_send">Senden</string>
-    <string name="opr_activity_title">Staffel ansehen und Belohnungen erhalten</string>
+    <string name="opr_activity_title">Staffel ansehen und Prämien erhalten</string>
     <string name="other_channel">Tippen, um weitere Kanäle hinzuzufügen</string>
     <string name="page_info">Seiteninfo</string>
     <string name="page_info_address">Adresse:</string>

@@ -265,8 +265,8 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="one">Noch %d Tag</item>
     </plurals>
     <plurals name="web_reward_dialog_title">
-        <item quantity="other">Wenn Sie %d Sek zusehen, erhalten Sie eine VIP-Mitgliedschaft als Belohnung. Trotzdem beenden?</item>
-        <item quantity="one">Wenn Sie %d Sek zusehen, erhalten Sie eine VIP-Mitgliedschaft als Belohnung. Trotzdem beenden?</item>
+        <item quantity="other">Wenn Sie %d Sek zusehen, erhalten Sie eine VIP-Mitgliedschaft als Prämie. Trotzdem beenden?</item>
+        <item quantity="one">Wenn Sie %d Sek zusehen, erhalten Sie eine VIP-Mitgliedschaft als Prämie. Trotzdem beenden?</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">%d Dateien hinzugefügt</item>

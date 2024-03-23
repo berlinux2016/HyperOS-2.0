@@ -90,12 +90,12 @@
          <item quantity="one">%1$d weiterer Kommentar</item>
     </plurals>
     <plurals name="detail_reward_few_times">
-        <item quantity="other">%s Belohnungen</item>
-        <item quantity="one">%s Belohnung</item>
+        <item quantity="other">%s Prämien</item>
+        <item quantity="one">%s Prämie</item>
     </plurals>
     <plurals name="detail_reward_times">
-     <item quantity="other">%s Belohnungen</item>
-        <item quantity="one">%s Belohnung</item>
+     <item quantity="other">%s Prämien</item>
+        <item quantity="one">%s Prämie</item>
     </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">Vor %d Stunden</item>

@@ -2512,8 +2512,8 @@
     <string name="search_feedback_likely_title">Anscheinend haben diese Fotos \"%s\"</string>
     <string name="search_feedback_task_complete">Alle Aufgaben sind erledigt</string>
     <string name="search_feedback_task_progress">Aufgabe %1$d/%2$d</string>
-    <string name="search_feedback_task_request_award_failed">"Belohnung nicht erhalten. Später erneut versuchen.​"</string>
-    <string name="search_feedback_task_requesting_award">Belohnung erhalten…</string>
+    <string name="search_feedback_task_request_award_failed">"Prämie nicht erhalten. Später erneut versuchen.​"</string>
+    <string name="search_feedback_task_requesting_award">Prämie erhalten…</string>
     <string name="search_feedback_user_notice">Ich habe die %s gelesen und akzeptiert.</string>
     <string name="search_feedback_user_policy">Galerie KI Algorithmus-Programm Datenschutzerklärung</string>
     <string name="search_hint">Tippen zum Suchen​</string>
