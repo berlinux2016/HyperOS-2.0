@@ -828,14 +828,14 @@ Anzeigen und Verwenden der Elemente, die Sie gekauft oder zu den Favoriten hinzu
     <string name="privacy_pad_fold_entry">Datenschutz</string>
     <string name="privacy_pad_fold_logoff_service_content">Hintergrund- &amp; Personalisierungsdienste kündigen</string>
     <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Alle Hintergründe, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Alle Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Dienste zu kündigen, bevor Sie fortfahren.
 2. Die Kündigung von Hintergrund- &amp; Personalisierungsdiensten hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
 3. Die Kündigung des Dienstes ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald die Dienste gekündigt sind. Folgende Daten werden nach der Kündigung des Dienstes dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden vorgeschrieben):"</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Alle Bestellungen (inkl. bezahlte Bestellungen), die auf den Xiaomi-Geräten getätigt wurden. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.
 Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten erstellt wurden.
 Alle Hintergründe, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.
-Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
 Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Die Kündigung des Dienstes bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor der Kündigung des Dienstes durchgeführten Handlungen entstanden sind.</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Erklärung zur Kündigung von Hintergrund- &amp; Personalisierungsdiensten</string>
@@ -844,7 +844,7 @@ Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standa
     <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung zur Kündigung von Hintergrund- &amp; Personalisierungsdiensten&lt;/a>&lt;/font>\" gelesen und akzeptiert.</Data></string>
     <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrund &amp; Personalisierung&lt;/a>&lt;/font>\" gelesen und akzeptiert.</Data></string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Alle Hintergründe, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.</string>
-    <string name="privacy_pad_fold_revoke_agree_content_4">4. Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Alle Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrund &amp; Personalisierung</string>
     <string name="privacy_pad_fold_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrund &amp; Personalisierung\", bevor Sie Ihre Zustimmung widerrufen.</string>
     <string name="privacy_pad_fold_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Hintergrund &amp; Personalisierung. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb der festgelegten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Hintergrund &amp; Personalisierung ihre Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringen, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Hintergrund &amp; Personalisierung betrachtet.</string>
@@ -858,14 +858,14 @@ Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwe
 Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwenden (z. B. als Hintergründe oder Klingeltöne einstellen), werden Sie aufgefordert, dieser App den Speicherzugriff zu erlauben."</string>
     <string name="privacy_phone_logoff_service_content">Themen-Dienste kündigen</string>
     <string name="privacy_phone_logoff_theme_content_3">3. Alle auf dieses Gerät heruntergeladenen Themen, Hintergründe, dynamischen Hintergründe, Schriftarten, Symbole und Klingeltöne.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Alle Suchverläufe, Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Dienste zu kündigen, bevor Sie fortfahren.
 2. Die Kündigung von Themen hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
 3. Die Kündigung des Dienstes ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald die Dienste gekündigt sind. Folgende Daten werden nach der Kündigung des Dienstes dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden vorgeschrieben):"</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_2">"Alle Bestellungen (inkl. bezahlte Bestellungen), die auf den Xiaomi-Geräten getätigt wurden. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.
 Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten erstellt wurden.
 Alle auf dieses Gerät heruntergeladenen Themen, Hintergründe, dynamischen Hintergründe, Schriftarten, Symbole und Klingeltöne.
-Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle Suchverläufe, Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
 Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
     <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Die Kündigung des Dienstes bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor der Kündigung des Dienstes durchgeführten Handlungen entstanden sind.</string>
     <string name="privacy_phone_logoff_theme_service_detail_prompt">Erklärung zur Kündigung der Themendienste</string>
@@ -876,14 +876,14 @@ Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standa
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung zur Kündigung der Themendienste&lt;/a>&lt;/font>\" gelesen und akzeptiert.</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>Ich habe die \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Themen&lt;/a>&lt;/font>\"gelesen und akzeptiert.</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Alle auf dieses Gerät heruntergeladenen Themen, Hintergründe, dynamischen Hintergründe, Schriftarten, Symbole und Klingeltöne.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Alle Suchverläufe, Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Vergewissern Sie sich, dass Sie das Recht haben, Dienste zu kündigen, bevor Sie fortfahren.
 2. Der Widerruf Ihrer Zustimmung zur Datenschutzerklärung von Themen hat keinen Einfluss auf die normale Nutzung anderer Xiaomi-Produkte.
 3. Der Widerruf Ihrer Zustimmung ist eine unwiderrufliche Aktion. Sichern Sie alle wichtigen Daten, bevor Sie fortfahren, da sie ggf. endgültig gelöscht werden. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald die Dienste gekündigt sind. Folgende Daten werden nach der Kündigung des Dienstes dauerhaft gelöscht oder anonymisiert (sofern nicht durch Gesetze und Vorschriften anders geregelt oder von Aufsichtsbehörden vorgeschrieben):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Alle Bestellungen (inkl. bezahlte Bestellungen), die Sie auf den Xiaomi-Geräten mit Ihrem Xiaomi-Konto getätigt haben. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden.
 Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten mit Ihrem Xiaomi-Konto erstellt wurden.
 Alle auf dieses Gerät heruntergeladenen Themen, Hintergründe, dynamischen Hintergründe, Schriftarten, Symbole und Klingeltöne.
-Alle Suchverläufe, Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle Suchverläufe, Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
 Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
     <string name="privacy_phone_revoke_agree_detail_content_3">"4. Wenn Sie Ihre Zustimmung zur Datenschutzerklärung von Themen widerrufen, werden wir die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb einer bestimmten Frist gelöscht, sofern nicht anders gefordert. 
 5. Der Widerruf der Zustimmung bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor dem Widerruf der Zustimmung durchgeführten Handlungen entstanden sind."</string>
@@ -914,7 +914,7 @@ Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standa
     <string name="private_pad_fold_revoke_agree_detail_content_2">"Alle Bestellungen (inkl. bezahlte Bestellungen), die Sie auf den Xiaomi-Geräten mit Ihrem Xiaomi-Konto getätigt haben. Sie können die von Ihnen gekauften Elemente nicht mehr verwenden
 Alle Daten über Ihre Likes, Kommentare, Bewertungen und Follower, die auf den Xiaomi-Geräten mit Ihrem Xiaomi-Konto erstellt wurden.
 Alle Hintergründe, Schriftarten und Klingeltöne, die auf dieses Gerät heruntergeladen wurden.
-Alle Berechtigungseinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
+Alle Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.
 Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standard-Personalisierungseinstellungen werden wiederhergestellt."</string>
     <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Wenn Sie Ihre Zustimmung zur Datenschutzerklärung für Hintergrund &amp; Personalisierung widerrufen, werden wir die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb einer bestimmten Frist gelöscht, sofern nicht anders gefordert. 
 5. Der Widerruf der Zustimmung bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor dem Widerruf der Zustimmung durchgeführten Handlungen entstanden sind."</string>
