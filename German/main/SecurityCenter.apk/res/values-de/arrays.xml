@@ -76,7 +76,7 @@
     </string-array>
     <string-array name="debug_open_intercept">
         <item>Mit einem Computer ist es möglich, auf Dateien auf Ihrem Gerät zuzugreifen und diese zu bearbeiten.</item>
-        <item>Installation von Apps auf Ihrem Gerät ohne Ihre ausdrückliche Genehmigung ist erlaubt.</item>
+        <item>Installation von Apps auf Ihrem Gerät ohne Ihre ausdrückliche Zustimmung ist erlaubt.</item>
         <item>Sie werden in der Lage sein, Ihren Bildschirminhalt aus der Ferne zu überwachen und aufzuzeichnen.</item>
         <item>Es wird möglich sein, auf detaillierte Gerätedaten zuzugreifen.</item>
     </string-array>

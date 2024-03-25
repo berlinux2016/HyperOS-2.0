@@ -307,8 +307,8 @@
     <string name="mibi_privacy_manage_user_license">Nutzervereinbarung</string>
     <string name="mibi_privacy_policy">Datenschutzerklärung</string>
     <string name="mibi_privacy_setting">Datenschutzeinstellung</string>
-    <string name="mibi_privacy_tip_message">Sie können Mi Coins nicht nutzen, wenn die Genehmigung widerrufen.</string>
-    <string name="mibi_privacy_tip_title">Zuerst Genehmigung erteilen</string>
+    <string name="mibi_privacy_tip_message">Sie können Mi Coins nicht nutzen, wenn die Zustimmung widerrufen.</string>
+    <string name="mibi_privacy_tip_title">Zuerst Berechtigung erteilen</string>
     <string name="mibi_process_expired">Wo waren Sie? Diese Operation ist abgelaufen.</string>
     <string name="mibi_progress_creating">Auftragsdaten abrufen…</string>
     <string name="mibi_progress_deduct_creating">%1$s automatisches Zahlungsprotokoll aktivieren​…</string>
@@ -597,7 +597,7 @@
     <string name="passport_register_restricted">Zu viele Konten mit dieser Nummer verknüpft. Versuchen Sie eine andere</string>
     <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
     <string name="passport_request_agree">Erlauben</string>
-    <string name="passport_request_camera_permission_message">Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
+    <string name="passport_request_camera_permission_message">Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Zustimmung widerrufen.</string>
     <string name="passport_request_cancel">Abbrechen</string>
     <string name="passport_request_error_invalid_token">Verifizieren fehlgeschlagen</string>
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

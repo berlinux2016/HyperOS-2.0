@@ -1285,7 +1285,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_setWallpaperHints">Erlaubt der App, die Größenhinweise für den Systemhintergrund festzulegen</string>
     <string name="permdesc_sim_communication">Erlaubt der App das Senden von Befehlen an die SIM. Dies ist äußerst risikoreich.</string>
     <string name="permdesc_startForegroundServicesFromBackground">Erlaubt einer Begleit-App das Starten von Diensten im Vordergrund aus dem Hintergrund.</string>
-    <string name="permdesc_startReviewPermissionDecisions">Erlaubt dem Besitzer des Startbildschirms, Genehmigungsentscheidungen zu prüfen. Sollte für normale Apps nie benötigt werden.</string>
+    <string name="permdesc_startReviewPermissionDecisions">Erlaubt dem Besitzer des Startbildschirms, Berechtigungsentscheidungen zu prüfen. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_startViewAppFeatures">Erlaubt dem Besitzer, die Funktionsinfos einer App einzusehen.</string>
     <string name="permdesc_startViewPermissionUsage">Erlaubt dem Inhaber, die Rechtevergabe für eine App zu starten. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_statusBar">Erlaubt der App, die Statusleiste zu deaktivieren oder Systemsymbole hinzuzufügen oder zu entfernen</string>

@@ -1257,9 +1257,9 @@
     <string name="priority_storage">Externe SD-Karte verwenden</string>
     <string name="priority_storage_summary">Automatisch auf externe SD-Karte herunterladen, falls verfügbar</string>
     <string name="privacy_authorize_network_error">Ihr Gerät benötigt eine Netzwerkverbindung, damit Sie Ihre Zustimmung widerrufen können. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="privacy_authorize_revoke_failed">Genehmigung widerrufen fehlgeschlagen</string>
-    <string name="privacy_authorize_revoke_success">Genehmigung erfolgreich widerrufen</string>
-    <string name="privacy_authorize_revoking">Genehmigung widerrufen…</string>
+    <string name="privacy_authorize_revoke_failed">Zustimmung widerrufen fehlgeschlagen</string>
+    <string name="privacy_authorize_revoke_success">Zustimmung erfolgreich widerrufen</string>
+    <string name="privacy_authorize_revoking">Zustimmung widerrufen…</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_request_desc">&lt;Data>Mi Music muss notwendige personenbezogene Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.&lt;/Data></string>

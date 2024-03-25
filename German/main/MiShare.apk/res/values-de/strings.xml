@@ -19,7 +19,7 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="agree_desc">Oben aufgeführte obligatorische Genehmigungen erteilen</string>
+    <string name="agree_desc">Oben aufgeführte obligatorische Berechtigungen erteilen</string>
     <string name="btn_cancel">Abbrechen</string>
     <string name="btn_cancel_send">Diese Übertragung abbrechen</string>
     <string name="btn_exit_send">Beenden</string>
