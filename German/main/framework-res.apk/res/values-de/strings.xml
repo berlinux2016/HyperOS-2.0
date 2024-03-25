@@ -147,18 +147,18 @@
     <string name="VideoView_error_title">Videoproblem</string>
     <string name="accept">Annehmen</string>
     <string name="accessibility_binding_label">Eingabehilfen</string>
-    <string name="accessibility_button_instructional_text">Um zwischen Funktionen zu wechseln, Taste Eingabehilfen berühren &amp; halten.</string>
+    <string name="accessibility_button_instructional_text">Um zwischen Funktionen zu wechseln, Eingabehilfentaste gedrückt halten.</string>
     <string name="accessibility_button_prompt_text">Wählen Sie eine Funktion zum Verwenden aus, wenn Sie auf die Eingabehilfe tippen:</string>
     <string name="accessibility_dialog_button_allow">Erlauben</string>
     <string name="accessibility_dialog_button_deny">Ablehnen</string>
-    <string name="accessibility_edit_shortcut_menu_button_title">Funktionen wählen, die mit der Eingabehilfen-Taste verwendet werden sollen</string>
-    <string name="accessibility_edit_shortcut_menu_volume_title">Funktionen wählen, die mit dem Lautstärketasten-Kurzbefehl verwendet werden sollen</string>
+    <string name="accessibility_edit_shortcut_menu_button_title">Funktionen wählen, die mit der Eingabehilfentaste verwendet werden sollen</string>
+    <string name="accessibility_edit_shortcut_menu_volume_title">Funktionen wählen, die mit dem Lautstärketasten-Kürzel verwendet werden sollen</string>
     <string name="accessibility_enable_service_title">%1$s erlauben, die volle Kontrolle über Ihr Gerät zu erhalten?</string>
     <string name="accessibility_freeform_caption">Untertitelzeile von %1$s</string>
     <string name="accessibility_gesture_3finger_instructional_text">Um zwischen Funktionen zu wechseln, mit drei Fingern hochwischen und halten.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Funktion wählen, die mit der Eingabehilfen-Geste verwendet werden soll (mit drei Fingern vom unteren Bildschirmrand hochwischen):</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Funktion wählen, die mit der Eingabehilfengeste verwendet werden soll (mit drei Fingern vom unteren Bildschirmrand hochwischen):</string>
     <string name="accessibility_gesture_instructional_text">Um zwischen Funktionen zu wechseln, mit zwei Fingern hochwischen und halten.</string>
-    <string name="accessibility_gesture_prompt_text">Funktion wählen, die mit der Eingabehilfen-Geste verwendet werden soll (mit zwei Fingern vom unteren Bildschirmrand hochwischen):</string>
+    <string name="accessibility_gesture_prompt_text">Funktion wählen, die mit der Eingabehilfengeste verwendet werden soll (mit zwei Fingern vom unteren Bildschirmrand hochwischen):</string>
     <string name="accessibility_magnification_chooser_text">Vergrößerung</string>
     <string name="accessibility_select_shortcut_menu_title">Funktion antippen, um sie zu verwenden:</string>
     <string name="accessibility_service_action_perform_description">Ihre Interaktionen mit einer App oder einem Hardwaresensor können verfolgt und in Ihrem Namen mit Apps interagiert werden.</string>
@@ -175,15 +175,15 @@
 Aktuelle Funktionen:
 %1$s
 Sie können ausgewählte Funktionen unter Einstellungen > Eingabehilfen ändern."</string>
-    <string name="accessibility_shortcut_multiple_service_warning_title">Verknüpfung für Eingabehilfenfunktionen einschalten?</string>
+    <string name="accessibility_shortcut_multiple_service_warning_title">Kürzel für Eingabehilfenfunktionen einschalten?</string>
     <string name="accessibility_shortcut_off">Nicht einschalten</string>
     <string name="accessibility_shortcut_on">Einschalten</string>
     <string name="accessibility_shortcut_single_service_warning">"Durch Drücken beider Lautstärketasten für einige Sekunden wird %1$s eingeschaltet, eine Eingabehilfe. Dies kann die Funktionsweise Ihres Geräts ändern.
 
-Sie können diesen Kurzbefehl unter Einstellungen > Eingabehilfen in eine andere Funktion ändern."</string>
-    <string name="accessibility_shortcut_single_service_warning_title">%1$s-Verknüpfung einschalten?</string>
+Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Funktion ändern."</string>
+    <string name="accessibility_shortcut_single_service_warning_title">%1$s-Kürzel einschalten?</string>
     <string name="accessibility_shortcut_spoken_feedback">Lautstärketasten loslassen. Um %1$s einzuschalten, halten Sie beide Lautstärketasten erneut für 3 Sekunden gedrückt.</string>
-    <string name="accessibility_shortcut_toogle_warning">Wenn die Verknüpfung aktiviert ist, wird durch 3 Sekunden langes Drücken beider Lautstärketasten eine Eingabehilfenfunktion gestartet.</string>
+    <string name="accessibility_shortcut_toogle_warning">Wenn das Kürzel aktiviert ist, wird durch 3 Sekunden langes Drücken beider Lautstärketasten eine Eingabehilfenfunktion gestartet.</string>
     <string name="accessibility_shortcut_warning_dialog_title">Eingabehilfenverküpfung verwenden?</string>
     <string name="accessibility_system_action_back_label">Zurück</string>
     <string name="accessibility_system_action_dismiss_notification_shade">Benachrichtigungsleiste schließen</string>

@@ -278,7 +278,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="accessibility_services_title">Dienste</string>
     <string name="accessibility_setting_item_control_timeout_title">Zeit zu Handeln (Zeitüberschreitung Eingabehilfen)</string>
     <string name="accessibility_settings">Eingabehilfen</string>
-    <string name="accessibility_settings_summary">Bildschirmr, Interaktion, Audio</string>
+    <string name="accessibility_settings_summary">Bildschirm, Interaktion, Audio</string>
     <string name="accessibility_settings_tabs_general">Allgemein</string>
     <string name="accessibility_settings_tabs_hearing">Gehör</string>
     <string name="accessibility_settings_tabs_physical">Physisch</string>
