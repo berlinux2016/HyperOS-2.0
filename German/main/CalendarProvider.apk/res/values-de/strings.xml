@@ -10,7 +10,7 @@
     <string name="channel_name">Kalendererinnerungen</string>
     <string name="cta_notice">Kalender öffnen und zuerst die Internetverbindung erlauben</string>
     <string name="debug_tool_delete_button">Löschen</string>
-    <string name="debug_tool_email_body">Beigefügt ist meine Kalenderdatenbank mit meinen Terminen und persönlichen Daten. Bitte gehen Sie sorgfältig damit um.</string>
+    <string name="debug_tool_email_body">Beigefügt ist meine Kalenderdatenbank mit meinen Terminen und personenbezogenen Daten. Bitte gehen Sie sorgfältig damit um.</string>
     <string name="debug_tool_email_sender_picker">App zum Senden der Datei auswählen</string>
     <string name="debug_tool_email_subject">Kalender-Debuggungtool beigefügt</string>
     <string name="debug_tool_message">Sie sind dabei, Ihre Kalenderdatenbank auf die SD-Karte/den USB-Speicher zu kopieren, wo sie von jeder App gelesen werden kann, und sie per E-Mail zu versenden. Denken Sie ans Löschen der Kopie, sobald sie erfolgreich gesichert ist oder wenn die gesendete E-Mail empfangen wurde.</string>

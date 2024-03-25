@@ -124,7 +124,7 @@
     <string name="backup_theme_progress_message">Sichern…</string>
     <string name="backup_theme_success_message">Ihre aktuellen Thema-Einstellungen wurden gesichert.</string>
     <string name="basic_mode">Offline-Modus</string>
-    <string name="basic_mode_desc">Erlauben Sie dieser App nicht, sich mit dem Internet zu verbinden. Greifen Sie nur auf Elemente auf Ihrem Gerät zu (z. B. Fotos, Audio und Videos) und verwenden Sie diese. Keine Ihrer persönlichen Daten werden gesammelt.</string>
+    <string name="basic_mode_desc">Erlauben Sie dieser App nicht, sich mit dem Internet zu verbinden. Greifen Sie nur auf Elemente auf Ihrem Gerät zu (z. B. Fotos, Audio und Videos) und verwenden Sie diese. Keine Ihrer personenbezogenen Daten werden gesammelt.</string>
     <string name="boot_audio_dialog_cancel">Abbrechen</string>
     <string name="boot_audio_dialog_content">Boot-Ton ist jetzt aus. Wieder einschalten und diesen Ton anwenden?</string>
     <string name="boot_audio_dialog_title">Achtung</string>
@@ -132,7 +132,7 @@
     <string name="both_all_apply_success">Hintergrund wurde angewendet</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="browse_mode">Online-Modus</string>
-    <string name="browse_mode_desc">Erlauben Sie dieser App, sich mit dem Internet zu verbinden, auf Online-Inhalte zuzugreifen und Elemente auf Ihrem Gerät zu verwenden (z. B. Fotos, Audio und Videos). Keine Ihrer persönlichen Daten werden gesammelt.</string>
+    <string name="browse_mode_desc">Erlauben Sie dieser App, sich mit dem Internet zu verbinden, auf Online-Inhalte zuzugreifen und Elemente auf Ihrem Gerät zu verwenden (z. B. Fotos, Audio und Videos). Keine Ihrer personenbezogenen Daten werden gesammelt.</string>
     <string name="browser_local_resource">Lokale Quellen</string>
     <string name="can_not_apply">Anwenden nicht möglich</string>
     <string name="can_not_apply_error">Dieses Videoformat wird nicht unterstützt</string>
@@ -847,7 +847,7 @@ Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standa
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Alle Rechteeinstellungen, Einstellungen und zwischengespeicherten Elemente, die auf diesem Gerät erstellt wurden.</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrund &amp; Personalisierung</string>
     <string name="privacy_pad_fold_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Hintergrund &amp; Personalisierung\", bevor Sie Ihre Zustimmung widerrufen.</string>
-    <string name="privacy_pad_fold_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Hintergrund &amp; Personalisierung. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb der festgelegten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Hintergrund &amp; Personalisierung ihre Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringen, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Hintergrund &amp; Personalisierung betrachtet.</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Hintergrund &amp; Personalisierung. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der festgelegten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Hintergrund &amp; Personalisierung ihre Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringen, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Hintergrund &amp; Personalisierung betrachtet.</string>
     <string name="privacy_pad_fold_update_content">Hintergrund &amp; Personalisierung-Datenschutzerklärung wurde aktualisiert:</string>
     <string name="privacy_pad_important_prompt_content">"Anscheinend haben Sie unserer Nutzervereinbarung und Datenschutzerklärung noch nicht zugestimmt. Die grundlegenden Funktionen und Dienste von Hintergrund &amp; Personalisierung stehen Ihnen jedoch weiterhin zur Verfügung.
 Wenn Sie die auf diesem Gerät gespeicherten Elemente zur Personalisierung verwenden (z. B. als Hintergründe oder Klingeltöne einstellen), werden Sie aufgefordert, dieser App den Speicherzugriff zu erlauben."</string>
@@ -889,7 +889,7 @@ Alle derzeit auf diesem Gerät verwendeten Personalisierungselemente. Die Standa
 5. Der Widerruf der Zustimmung bedeutet keine Aufhebung oder Milderung der Verantwortlichkeiten, die durch die vor dem Widerruf der Zustimmung durchgeführten Handlungen entstanden sind."</string>
     <string name="privacy_phone_revoke_agree_detail_prompt">Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Themen</string>
     <string name="privacy_phone_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung über den Widerruf der Zustimmung zur Datenschutzerklärung von Themen\", bevor Sie Ihre Zustimmung widerrufen.</string>
-    <string name="privacy_phone_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Themen. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb der festgelegten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Themen seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Themen betrachtet.</string>
+    <string name="privacy_phone_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihr Einverständnis mit der Datenschutzerklärung von Themen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der festgelegten Frist gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Themen seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Dienste von Themen betrachtet.</string>
     <string name="privacy_phone_update_content">Themen-Datenschutzerklärung  wurde aktualisiert:</string>
     <string name="privacy_read_statement">Erst den allgemeinen Geschäftsbedingungen zustimmen</string>
     <string name="privacy_read_the_updated_privacy_policy_content">"Lesen und akzeptieren Sie die neue Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a>, bevor Sie fortfahren."</string>

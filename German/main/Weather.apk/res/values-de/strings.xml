@@ -161,7 +161,7 @@
     <string name="empty_view_refresh">Erneut versuchen</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
-    <string name="eu_region_version_first_start_network_msg">"Durch die Nutzung dieses Produkts erklären Sie sich damit einverstanden, dass es eine Netzwerkverbindung herstellt und Ihre persönlichen Daten, inkl. der Koordinaten der von Ihnen gesuchten Orte, sowie andere in unserer Datenschutzerklärung genannte Datenarten erfasst, verarbeitet und nutzt. Lesen Sie unsere Datenschutzerklärung, um zu erfahren, wie wir Daten sammeln und verarbeiten. Indem Sie auf \"Zustimmen\" tippen, erklären Sie sich mit Xiaomi's %1$s und %2$s einverstanden."</string>
+    <string name="eu_region_version_first_start_network_msg">"Durch die Nutzung dieses Produkts erklären Sie sich damit einverstanden, dass es eine Netzwerkverbindung herstellt und Ihre personenbezogenen Daten, inkl. der Koordinaten der von Ihnen gesuchten Orte, sowie andere in unserer Datenschutzerklärung genannte Datenarten erfasst, verarbeitet und nutzt. Lesen Sie unsere Datenschutzerklärung, um zu erfahren, wie wir Daten sammeln und verarbeiten. Indem Sie auf \"Zustimmen\" tippen, erklären Sie sich mit Xiaomi's %1$s und %2$s einverstanden."</string>
     <string name="evening">Nachmittag</string>
     <string name="exo_controls_fastforward_description">Schnellvorlauf</string>
     <string name="exo_controls_fullscreen_description">Vollbildmodus</string>
@@ -395,7 +395,7 @@
     <string name="privacy_grant_or_revoke_settings">Zustimmung widerrufen</string>
     <string name="privacy_grant_success">Zustimmung erfolgreich gewährt</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
-    <string name="privacy_policy_msg"><Data>Diese App enthält folgende Funktionen: &lt;br/>• Wetterspezifische Daten für Ihren Standort&lt;br/>• Wettervorhersagen&lt;br/>• Wetterwarnungen&lt;br/>&lt;br/>Wetter muss die notwendigen persönlichen Daten sammeln, um Ihnen grundlegende Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Wetter verwenden. Sie können Ihre Zustimmung zur Wetter Datenschutzerklärung jederzeit in Einstellungen widerrufen.</Data></string>
+    <string name="privacy_policy_msg"><Data>Diese App enthält folgende Funktionen: &lt;br/>• Wetterspezifische Daten für Ihren Standort&lt;br/>• Wettervorhersagen&lt;br/>• Wetterwarnungen&lt;br/>&lt;br/>Wetter muss die notwendigen personenbezogenen Daten sammeln, um Ihnen grundlegende Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Lesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a>, bevor Sie Wetter verwenden. Sie können Ihre Zustimmung zur Wetter Datenschutzerklärung jederzeit in Einstellungen widerrufen.</Data></string>
     <string name="privacy_revoke_failed">Zustimmung wurde nicht widerrufen. Etwas warten und erneut versuchen.</string>
     <string name="privacy_revoke_success">Zustimmung erfolgreich widerrufen</string>
     <string name="privacy_settings">Datenschutzerklärung</string>
@@ -446,7 +446,7 @@
     <string name="send">Senden</string>
     <string name="setting_about_permission">Berechtigungen</string>
     <string name="setting_allowed">Gewährt</string>
-    <string name="setting_confirm_to_revoke_permission_msg">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Wetter Datenschutzerklärung. Wir werden aufhören, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten persönlichen Daten werden in Übereinstimmung mit den geltenden Gesetzen und Vorschriften innerhalb der festgelegten Frist gelöscht, sofern nicht anders gefordert. Da Wetter seine Dienste anhand der Erfassung der erforderlichen persönlichen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Wetter-Dienste gewertet. Zustimmung jetzt widerrufen?</string>
+    <string name="setting_confirm_to_revoke_permission_msg">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Wetter Datenschutzerklärung. Wir werden aufhören, Ihre personenbezogenen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden in Übereinstimmung mit den geltenden Gesetzen und Vorschriften innerhalb der festgelegten Frist gelöscht, sofern nicht anders gefordert. Da Wetter seine Dienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Annahme der Wetter-Dienste gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="setting_confirm_to_revoke_permission_title">Zustimmung widerrufen</string>
     <string name="setting_get_location">Standortzugriff</string>
     <string name="setting_not_allowed">Nicht gewährt</string>

@@ -96,7 +96,7 @@
     <string name="cloud_app_no_network">Netzwerkverbindung nicht möglich</string>
     <string name="cloud_app_other_devices">Andere Geräte</string>
     <string name="cloud_app_restore_app_and_data">Gerät einrichten</string>
-    <string name="cloud_app_restore_data">Persönliche Daten und vorherige App-Installationen werden automatisch auf Ihrem Gerät wiederhergestellt</string>
+    <string name="cloud_app_restore_data">Personenbezogene Daten und vorherige App-Installationen werden automatisch auf Ihrem Gerät wiederhergestellt</string>
     <string name="cloud_app_restore_error">Wiederherstellen nicht möglich</string>
     <string name="cloud_app_restore_success">Apps wiederhergestellt</string>
     <string name="cloud_app_restore_wifi_prompt">Wiederherstellen aus einer Cloud-Sicherung</string>

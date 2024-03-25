@@ -227,7 +227,7 @@
     <string name="choose_music_lang_pref">Bevorzugte Sprache für Titel</string>
     <string name="choose_stream_quality">Streamingqualität einstellen</string>
     <string name="clause_content_first">Aufgrund gesetzlicher Bestimmungen benötigt Mi Music Ihre Zustimmung, um Ihnen die entsprechenden Dienste anzubieten.</string>
-    <string name="clause_content_second">Wir schützen Ihre persönlichen Daten gemäß den Sicherheitsnormen der Branche.</string>
+    <string name="clause_content_second">Wir schützen Ihre personenbezogenen Daten gemäß den Sicherheitsnormen der Branche.</string>
     <string name="clause_content_third">Sie können Ihre Zustimmung jederzeit in Einstellungen widerrufen.</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
@@ -1042,7 +1042,7 @@
     <string name="passport_account_user_avatar_from_album">Galerie</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Basisinfo</string>
-    <string name="passport_account_user_details">Persönliche Daten</string>
+    <string name="passport_account_user_details">Personenbezogene Daten</string>
     <string name="passport_account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="passport_account_user_gender">Geschlecht</string>
     <string name="passport_account_user_id">Xiaomi-Konto-ID</string>
@@ -1262,7 +1262,7 @@
     <string name="privacy_authorize_revoking">Genehmigung widerrufen…</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
-    <string name="privacy_request_desc">&lt;Data>Mi Music muss notwendige persönliche Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.&lt;/Data></string>
+    <string name="privacy_request_desc">&lt;Data>Mi Music muss notwendige personenbezogene Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.&lt;/Data></string>
     <string name="privacy_request_subtitle">Willkommen bei Mi Music! Diese App bietet die folgenden Dienste: \n- Ein lokaler Audioplayer \n- Online-Streaming-Dienste</string>
     <string name="privacy_request_subtitle_offline">Willkommen bei Mi Music! Diese App bietet einen lokalen Player für Audiodateien.</string>
     <string name="privacy_request_title">Allgemeine Geschäftsbedingungen</string>
@@ -1287,8 +1287,8 @@
     <string name="recommended_no_file_size_download_in_mobile">Mobile Datenverbindung verwenden, um diese Datei herunterzuladen?</string>
     <string name="remove">Entfernen</string>
     <string name="remove_download">Entfernen</string>
-    <string name="remove_user_privacy_dialog_message">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Music. Wir hören auf, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der nach geltendem Recht vorgeschriebenen Frist gelöscht. Mi Music muss die notwendigen personenbezogenen Daten erfassen, um Ihnen grundlegende Dienste anzubieten. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Annahmeverweigerung der auf den gesammelten personenbezogenen Daten basierenden Dienste gewertet.</string>
-    <string name="remove_user_privacy_dialog_message_canuse">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Mi Music Datenschutzerklärung. Wir hören auf, Ihre persönlichen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der nach geltendem Recht vorgeschriebenen Frist gelöscht. Mi Music muss die notwendigen personenbezogenen Daten erfassen, um Ihnen Online-Streaming-Dienste anzubieten. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Annahmeverweigerung der oben genannten Online-Dienste auf Grundlage der gesammelten persönlichen Daten gewertet.</string>
+    <string name="remove_user_privacy_dialog_message">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Music. Wir hören auf, Ihre personenbezogenen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der nach geltendem Recht vorgeschriebenen Frist gelöscht. Mi Music muss die notwendigen personenbezogenen Daten erfassen, um Ihnen grundlegende Dienste anzubieten. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Annahmeverweigerung der auf den gesammelten personenbezogenen Daten basierenden Dienste gewertet.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Mi Music Datenschutzerklärung. Wir hören auf, Ihre personenbezogenen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb der nach geltendem Recht vorgeschriebenen Frist gelöscht. Mi Music muss die notwendigen personenbezogenen Daten erfassen, um Ihnen Online-Streaming-Dienste anzubieten. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Annahmeverweigerung der oben genannten Online-Dienste auf Grundlage der gesammelten personenbezogenen Daten gewertet.</string>
     <string name="remove_user_privacy_dialog_title">Zustimmung widerrufen</string>
     <string name="renew_dialog_title">Pro gehen. \nGlücklich sein.</string>
     <string name="repeat_all_notif">Alle Titel wiederholen</string>

@@ -648,10 +648,10 @@
     <string name="cosmetic_mirror_instructions_hint">Schauen Sie in die Kamera und tippen Sie doppelt auf den Bildschirm, um Ihr Gesicht zu vergrößern und zentriert auszurichten\n(funktioniert nur mit einer Person im Bild).</string>
     <string name="cosmetic_mirror_shortcut_short">Taschenspiegel</string>
     <string name="cosmetic_mirror_title">Taschenspiegel</string>
-    <string name="cta_mimoji_msg">Willkommen bei Fun Cam! Mit dieser App können Sie Fotos machen und Videos aufnehmen. Um normal zu funktionieren, benötigt diese App eine Internetverbindung und folgende Berechtigungen, um Ihre persönlichen Daten zu erfassen:</string>
+    <string name="cta_mimoji_msg">Willkommen bei Fun Cam! Mit dieser App können Sie Fotos machen und Videos aufnehmen. Um normal zu funktionieren, benötigt diese App eine Internetverbindung und folgende Berechtigungen, um Ihre personenbezogenen Daten zu erfassen:</string>
     <string name="cta_mimoji_perm_type">Zwingende Berechtigungen (verwendet für grundlegende Funktionen und Dienste dieser App)</string>
     <string name="cta_mimoji_user_links"><Data>Lesen und akzeptieren Sie unsere &lt;a href =%1$s>Nutzervereinbarung&lt;/a> und &lt;a href =%2$s>Datenschutzerklärung&lt;/a>, bevor Sie diese App verwenden.</Data></string>
-    <string name="cta_mimoji_user_tips">Wenn Sie ablehnen, zwingende Berechtigungen zu erteilen oder Ihre persönlichen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. Wenn Sie optionale Berechtigungen nicht gewähren, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit die Berechtigungen einschränken oder Ihre Zustimmung in den Einstellungen zurückziehen.</string>
+    <string name="cta_mimoji_user_tips">Wenn Sie ablehnen, zwingende Berechtigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. Wenn Sie optionale Berechtigungen nicht gewähren, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit die Berechtigungen einschränken oder Ihre Zustimmung in den Einstellungen zurückziehen.</string>
     <string name="cta_msg">Willkommen bei Kamera! Mit dieser App können Sie Fotos und Videos aufnehmen. Diese App benötigt diese App eine Internetverbindung und folgende optionale Berechtigungen:</string>
     <string name="cta_perm_cam">Kamera verwenden</string>
     <string name="cta_perm_cam_desc">Zum Fotografieren</string>

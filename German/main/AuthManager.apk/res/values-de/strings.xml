@@ -427,7 +427,7 @@
     <string name="tuesday_shortest">D</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
-    <string name="virtual_reject_notice_content">Eine leere Antwort wurde an die App geschickt, um Ihre persönlichen Daten zu schützen.</string>
+    <string name="virtual_reject_notice_content">Eine leere Antwort wurde an die App geschickt, um Ihre personenbezogenen Daten zu schützen.</string>
     <string name="virtual_reject_notice_title_calendar">Kalenderzugriff durch %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Anruflistenzugriff durch %1$s</string>
     <string name="virtual_reject_notice_title_contacts">Kontaktezugriff durch %1$s</string>

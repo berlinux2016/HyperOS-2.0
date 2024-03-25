@@ -44,7 +44,7 @@
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Basisinfo</string>
     <string name="account_user_birthday">Geburtstag</string>
-    <string name="account_user_details">Persönliche Daten</string>
+    <string name="account_user_details">Personenbezogene Daten</string>
     <string name="account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="account_user_gender">Geschlecht</string>
     <string name="account_user_id">Xiaomi-Konto-ID</string>
@@ -1991,7 +1991,7 @@
     <string name="replace">Ersetzen</string>
     <string name="replay">Erneut abspielen</string>
     <string name="reply_comment_title">AW: %s</string>
-    <string name="request_camera_permission_message">Dieser Dienst benötigt Ihre Zustimmung wie folgt, wir werden uns strikt an die einschlägigen Gesetze halten, um Ihre persönlichen Daten zu schützen: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufnahmedienste zum Einstellen des Avatar &lt;/b>&lt;br>&lt;br> Wenn Sie dem Erteilen der oben genannten Berechtigungen nicht zustimmen, funktioniert diese Funktion nicht ordnungsgemäß, es hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Einwilligung zu widerrufen.</string>
+    <string name="request_camera_permission_message">Dieser Dienst benötigt Ihre Zustimmung wie folgt, wir werden uns strikt an die einschlägigen Gesetze halten, um Ihre personenbezogenen Daten zu schützen: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufnahmedienste zum Einstellen des Avatar &lt;/b>&lt;br>&lt;br> Wenn Sie dem Erteilen der oben genannten Berechtigungen nicht zustimmen, funktioniert diese Funktion nicht ordnungsgemäß, es hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Einwilligung zu widerrufen.</string>
     <string name="request_profile_error">Abrufen von Kontodaten fehlgeschlagen</string>
     <string name="resend_active_email">Erneut senden</string>
     <string name="resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Stellen Sie sicher, dass sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
@@ -2107,7 +2107,7 @@
     <string name="sensitive_permissions_prompt_download_title">Unbekannte App herunterladen</string>
     <string name="sensitive_permissions_prompt_message">"Die Webseite benötigt Folgendes: "</string>
     <string name="sensitive_permissions_prompt_more_info">Mehr erfahren</string>
-    <string name="sensitive_permissions_prompt_open_message">Diese Webseite möchte eine potenziell unsichere App öffnen, die Ihre persönlichen Daten erfassen könnte. Dieser Versuch wurde blockiert.</string>
+    <string name="sensitive_permissions_prompt_open_message">Diese Webseite möchte eine potenziell unsichere App öffnen, die Ihre personenbezogenen Daten erfassen könnte. Dieser Versuch wurde blockiert.</string>
     <string name="sensitive_permissions_prompt_open_title">Warnung vor Sicherheitsrisiko</string>
     <string name="service_error">Serverfehler</string>
     <string name="set_default_browser_msg">Mi Browser als Standardbrowser festlegen</string>
@@ -2435,7 +2435,7 @@
     <string name="video_downloader_edit_hint">Fügen Sie einen Link zum Herunterladen eines Videos ein. Zum Beispiel:\n https://www.facebook.com/miui.global.official/videos/1602181069951748</string>
     <string name="video_downloader_fail">Dieses Element wurde nicht heruntergeladen</string>
     <string name="video_downloader_retry">Erneut versuchen</string>
-    <string name="video_feedback_description">Wir sammeln und verwenden die von Ihnen oben eingegebenen Daten, um Ihre Nutzererfahrung zu verbessern. Um mehr darüber zu erfahren, wie wir Ihre persönlichen Daten sammeln und verarbeiten, lesen Sie bitte unsere Datenschutzerklärung.</string>
+    <string name="video_feedback_description">Wir sammeln und verwenden die von Ihnen oben eingegebenen Daten, um Ihre Nutzererfahrung zu verbessern. Um mehr darüber zu erfahren, wie wir Ihre personenbezogenen Daten sammeln und verarbeiten, lesen Sie bitte unsere Datenschutzerklärung.</string>
     <string name="video_feedback_description_title">Diese Daten werden nur für Inhaltsempfehlungen verwendet</string>
     <string name="video_feedback_not_sumbit_toast">Wählen Sie eine Antwort vor dem Absenden</string>
     <string name="video_feedback_thanks">Danke für Ihr Feedback</string>
@@ -2636,7 +2636,7 @@
     <string name="whatsapp_status_saver">WhatsApp Statussicherung</string>
     <string name="whatsapp_webpage_btn">Anzeigen</string>
     <string name="whatsapp_webpage_tips">WhatsApp Statussicherung</string>
-    <string name="withdraw_dia_content">Wenn Sie Ihre Zustimmung zur Inhaltscenter Datenschutzerklärung widerrufen, wird diese Funktion Ihre persönlichen Daten nicht mehr erfassen. Alle zuvor erfassten und auf unsere Server hochgeladenen personenbezogenen Daten werden gelöscht. Sobald Sie Ihre Zustimmung widerrufen, können Sie Inhaltscenter nicht mehr nutzen. Zustimmung jetzt widerrufen?</string>
+    <string name="withdraw_dia_content">Wenn Sie Ihre Zustimmung zur Inhaltscenter Datenschutzerklärung widerrufen, wird diese Funktion Ihre personenbezogenen Daten nicht mehr erfassen. Alle zuvor erfassten und auf unsere Server hochgeladenen personenbezogenen Daten werden gelöscht. Sobald Sie Ihre Zustimmung widerrufen, können Sie Inhaltscenter nicht mehr nutzen. Zustimmung jetzt widerrufen?</string>
     <string name="xiaomi_sign_in_btn_txt">Anmelden oder Konto erstellen</string>
     <string name="year_month_day_format">d. MMM yyyy</string>
     <string name="yes">Ja</string>

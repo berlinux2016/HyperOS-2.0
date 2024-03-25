@@ -249,7 +249,7 @@
     <string name="public_replace">Ersetzen</string>
     <string name="public_request_senior_password">Passwort mit höchster Berechtigung eingeben</string>
     <string name="public_revoke">%s widerrufen</string>
-    <string name="public_revoke_privacy_content">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS). Wir werden aufhören, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb eines bestimmten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Ihr Widerruf der Zustimmung wird als Ablehnung der von Mi Doc Viewer (Powered by WPS) angebotenen Dienste angesehen.</string>
+    <string name="public_revoke_privacy_content">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS). Wir werden aufhören, Ihre personenbezogenen Daten zu sammeln, und die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb eines bestimmten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Ihr Widerruf der Zustimmung wird als Ablehnung der von Mi Doc Viewer (Powered by WPS) angebotenen Dienste angesehen.</string>
     <string name="public_revoke_privacy_desc">Widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Mi Doc Viewer (Powered by WPS)</string>
     <string name="public_revoke_privacy_title">Zustimmung widerrufen</string>
     <string name="public_ribbon_font">Schriftart</string>
@@ -262,7 +262,7 @@
     <string name="public_search_empty">Zuerst Inhalt eingeben</string>
     <string name="public_searchnotfound">Keine Ergebnisse</string>
     <string name="public_secre_dialog_content_1">Um Ihnen unsere Dienste anzubieten und unsere Produkte zu verbessern, benötigen wir die Berechtigung zum Speicherzugriff und zur Datenerhebung, wie Sie unsere Funktionen nutzen.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Wir werden Ihre persönlichen Daten entsprechend unserer &lt;a href=\"%s\">Nutzungsbedingungen&lt;/a> und &lt;a href=\"%s\">Datenschutzerklärung&lt;/a> schützen.&lt;/Data></string>
+    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Wir werden Ihre personenbezogenen Daten entsprechend unserer &lt;a href=\"%s\">Nutzungsbedingungen&lt;/a> und &lt;a href=\"%s\">Datenschutzerklärung&lt;/a> schützen.&lt;/Data></string>
     <string name="public_secre_dialog_exit">Beenden</string>
     <string name="public_secre_dialog_positive">Zustimmen</string>
     <string name="public_secre_dialog_tips_agree">Wenn Sie unsere allgemeinen Geschäftsbedingungen, Nutzungsbedingungen und Datenschutzerklärung akzeptieren, tippen Sie auf \"Zustimmen\", um unsere Dienste zu verwenden.</string>

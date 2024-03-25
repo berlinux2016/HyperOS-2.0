@@ -312,7 +312,7 @@
     <string name="miui_penengine_ppw_select_paste">Einfügen</string>
     <string name="miui_penengine_ppw_shortcut_long_click">Gedrückt halten</string>
     <string name="miui_penengine_ppw_shortcut_pk_long_click_tip">Zum Radiergummi wechseln. Zum Radieren halten.</string>
-    <string name="miui_penengine_ppw_shortcut_pk_single_click_tip">Werkzeuge ändern</string>
+    <string name="miui_penengine_ppw_shortcut_pk_single_click_tip">Tools ändern</string>
     <string name="miui_penengine_ppw_shortcut_primary_key">Schreiben-Taste</string>
     <string name="miui_penengine_ppw_shortcut_secondary_key">Screenshot-Taste</string>
     <string name="miui_penengine_ppw_shortcut_single_click">Drücken</string>
@@ -528,7 +528,7 @@
     <string name="pc_note_trash_folder_remind">Diese Notiz wurde gelöscht. Zum Bearbeiten wiederherstellen.</string>
     <string name="pc_todo_fast_create_hint">Text eingeben und \"Eingabe\" antippen, um eine nicht beendete Aufgabe hinzuzufügen</string>
     <string name="pc_todo_set_remind_time_hint">Zeit festlegen</string>
-    <string name="permdesc_accessNote">Schädliche Apps können dies nutzen, um auf Ihre persönlichen Daten zuzugreifen.</string>
+    <string name="permdesc_accessNote">Schädliche Apps können dies nutzen, um auf Ihre personenbezogenen Daten zuzugreifen.</string>
     <string name="permission_data_shared_desc">Notizen Erklärung zur Weitergabe von Daten an Dritte</string>
     <string name="permission_intro_contact">Zur Markierung von Notizen, die während eines Anrufs gemacht werden</string>
     <string name="permission_intro_microphone">Zur Aufnahme von Sprachnotizen</string>

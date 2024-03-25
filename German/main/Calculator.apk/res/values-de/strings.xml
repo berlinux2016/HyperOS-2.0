@@ -64,7 +64,7 @@
     <string name="detail_close_btn">Rückzahlungsübersicht ausblenden</string>
     <string name="detail_expand_btn">Rückzahlungsübersicht anzeigen</string>
     <string name="devided_by_zero_reminder_message">Division durch Null nicht möglich</string>
-    <string name="dialog_privacy_disagree_msg">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Rechner. Wir werden die Erfassung Ihrer persönlichen Daten einstellen. Die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb des von geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Rechner muss notwendige persönliche Daten sammeln, um Ihnen grundlegende Dienste anzubieten. Wenn Sie Ihre Zustimmung zu seiner Datenschutzerklärung widerrufen, wird dies als Verweigerung der Annahme seiner Dienste anhand der gesammelten persönlichen Daten gewertet.</string>
+    <string name="dialog_privacy_disagree_msg">Indem Sie den Schalter ausschalten, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Rechner. Wir werden die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des von geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Rechner muss notwendige personenbezogene Daten sammeln, um Ihnen grundlegende Dienste anzubieten. Wenn Sie Ihre Zustimmung zu seiner Datenschutzerklärung widerrufen, wird dies als Verweigerung der Annahme seiner Dienste anhand der gesammelten personenbezogenen Daten gewertet.</string>
     <string name="dialog_privacy_revoke_btn_ok">Widerrufen</string>
     <string name="dialog_privacy_revoke_title">Zustimmung widerrufen</string>
     <string name="dialog_rating_desc_ask">Was halten Sie von Rechner?</string>

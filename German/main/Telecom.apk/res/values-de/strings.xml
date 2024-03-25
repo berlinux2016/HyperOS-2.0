@@ -255,7 +255,7 @@
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
     <string name="scam_cancle">Abbrechen</string>
-    <string name="scam_message">Sie richten eine Rufumleitung ein. Danach werden alle Ihre eingehenden Anrufe von der Rufnummer %1$s angenommen. Wenn Sie nicht im Besitz dieser Umleitungsnummer sind, besteht die Gefahr, dass Sie Ihre persönlichen Daten preisgeben oder die Sicherheit Ihres Eigentums gefährden. Verwenden Sie diese Funktion mit Bedacht.</string>
+    <string name="scam_message">Sie richten eine Rufumleitung ein. Danach werden alle Ihre eingehenden Anrufe von der Rufnummer %1$s angenommen. Wenn Sie nicht im Besitz dieser Umleitungsnummer sind, besteht die Gefahr, dass Sie Ihre personenbezogenen Daten preisgeben oder die Sicherheit Ihres Eigentums gefährden. Verwenden Sie diese Funktion mit Bedacht.</string>
     <string name="scam_message_2">**21*Umleitungsnummer# ist der Code für die Rufumleitung. Wenden Sie sich an Ihren Anbieter, wenn Sie Fragen haben.</string>
     <string name="scam_ok">Wählen</string>
     <string name="scam_title">Hinweis auf Betrugsrisiko</string>

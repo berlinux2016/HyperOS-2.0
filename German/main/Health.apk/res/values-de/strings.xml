@@ -938,7 +938,7 @@
     <string name="permission_check_result_failed">Einrichten nicht möglich</string>
     <string name="permission_manage">Berechtigungen verwalten</string>
     <string name="permission_tip">Xiaomi Health folgende Berechtigungen erteilen, damit es Ihren Schlaf genau verfolgen kann</string>
-    <string name="personal_course_recommend_subtitle">Erhalten Sie Zugang zu den Kursen, die Ihnen auf Basis Ihrer persönlichen Daten, Gesundheitsdaten und Vorlieben empfohlen werden</string>
+    <string name="personal_course_recommend_subtitle">Erhalten Sie Zugang zu den Kursen, die Ihnen auf Basis Ihrer personenbezogenen Daten, Gesundheitsdaten und Vorlieben empfohlen werden</string>
     <string name="personal_course_recommend_title">Empfohlene Kurse</string>
     <string name="phone_detection">Automatisch erkannt</string>
     <string name="photograph">Kamera</string>

@@ -308,7 +308,7 @@
     <string name="lion">Löwe</string>
     <string name="lion_info">Löwen sind wilde und starke Raubtiere. Sie leben in Gruppen und haben einen ausgeprägten Sinn für Territorien.</string>
     <string name="loading_error">Elemente laden fehlgeschlagen</string>
-    <string name="lock_summary">Schützen Sie Ihre persönlichen Daten</string>
+    <string name="lock_summary">Schützen Sie Ihre personenbezogenen Daten</string>
     <string name="long_tai1ed_iaeger">Falkenraubmöwe </string>
     <string name="low_flicker_mode">Schwachlicht</string>
     <string name="low_flicker_mode_summary">Flimmern bei schlechten Lichtverhältnissen verhindern, um die Augen zu schonen</string>
@@ -683,15 +683,15 @@
     <string name="usage_home_premission_main_summary">Willkommen bei Bildschirmzeit! Mit dieser App können Sie Bildschirmzeiten festlegen, Statistiken anzeigen und zum Fokusmodus wechseln. Diese App muss Infos zur Bildschirmzeit sammeln (z. B. die Anzahl, wie oft Sie Ihr Telefon und den Bildschirm einschalten, sowie die App-Nutzungsdauer), um normal zu funktionieren.</string>
     <string name="usage_home_premission_main_summary_new">"Willkommen bei Bildschirmzeit!
 Um normal zu funktionieren, muss diese App Infos zur Bildschirmzeit sammeln: die Anzahl der Telefonentsperrungen, App-Namen und App-Nutzungsdauer werden benötigt, um die Bildschirmzeit-Statistik zu generieren; die Einstellungen des Fokusmodus sind erforderlich, um die Statistik dessen zu generieren.
-Diese App muss außerdem eine Internetverbindung herstellen und benötigt folgende Berechtigungen, um Ihre persönlichen Daten zu sammeln:"</string>
+Diese App muss außerdem eine Internetverbindung herstellen und benötigt folgende Berechtigungen, um Ihre personenbezogenen Daten zu sammeln:"</string>
     <string name="usage_home_premission_main_summary_new_o">"Willkommen bei Bildschirmzeit!
 Um normal zu funktionieren, muss diese App Infos zur Bildschirmzeit sammeln: die Anzahl der Telefonentsperrungen, App-Namen und App-Nutzungsdauer werden benötigt, um die Bildschirmzeit-Statistik zu generieren.
-Diese App muss außerdem eine Internetverbindung herstellen und benötigt folgende Berechtigungen, um Ihre persönlichen Daten zu sammeln:"</string>
-    <string name="usage_home_premission_second_summary">Um normal zu funktionieren, muss diese App Ihre persönlichen Daten erfassen. Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">Wir werden Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen. Wenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre persönlichen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. Sie können Ihre Autorisierung unter Bildschirmzeit &gt; Einstellungen &gt; Bildschirmzeit ausschalten widerrufen.</string>
+Diese App muss außerdem eine Internetverbindung herstellen und benötigt folgende Berechtigungen, um Ihre personenbezogenen Daten zu sammeln:"</string>
+    <string name="usage_home_premission_second_summary">Um normal zu funktionieren, muss diese App Ihre personenbezogenen Daten erfassen. Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen. Wenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. Sie können Ihre Autorisierung unter Bildschirmzeit &gt; Einstellungen &gt; Bildschirmzeit ausschalten widerrufen.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Bevor Sie diese App verwenden, lesen und akzeptieren Sie unsere &lt;a href='%1s'>Nutzervereinbarung&lt;/a> und &lt;a href='%2s'>Datenschutzerklärung&lt;/a>."</Data></string>
-    <string name="usage_home_premission_second_summary_new">"Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien.
-Wenn Sie nicht zustimmen, diese Berechtigungen zu erteilen oder Ihre persönlichen Daten zu teilen und hochzuladen, können Sie diese App nicht nutzen.
+    <string name="usage_home_premission_second_summary_new">"Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien.
+Wenn Sie nicht zustimmen, diese Berechtigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diese App nicht nutzen.
 Sie können Ihre Autorisierung unter Bildschirmzeit &gt; Einstellungen &gt; Bildschirmzeit ausschalten widerrufen. Wenn Sie weitere Fragen zum Thema Datenschutz haben, können Sie uns unter privacy@xiaomi.com kontaktieren."</string>
     <string name="usage_new_category_limit_summary">Tägliche Nutzungsgrenzen für alle Apps in dieser Kategorie festlegen</string>
     <string name="usage_new_category_limit_title">Nutzung für App-Kategorie einschränken</string>
@@ -737,7 +737,7 @@ Sie können Ihre Autorisierung unter Bildschirmzeit &gt; Einstellungen &gt; Bild
     <string name="usage_optional_title">Optionale Berechtigungen</string>
     <string name="usage_permisison_agree_desc_o">Um Ihnen Bildschirmzeit-Statistiken zur Verfügung zu stellen, muss diese App folgende Daten erfassen: die Anzahl der Geräteentsperrungen, die App-Liste zusammen mit der entsprechenden Nutzungsdauer.</string>
     <string name="usage_permisison_agree_desc_p">Um Ihnen Bildschirmzeit- und Fokusmodus-Statistiken zur Verfügung zu stellen, muss diese App folgende Daten erfassen: die Anzahl der Geräteentsperrungen, die App-Liste zusammen mit der entsprechenden Nutzungsdauer, wie oft der Bildschirm an war und die Fokusmodus-Einstellungen.</string>
-    <string name="usage_permission_double_link" formatted="false"><Data>Diese App muss sich mit dem Internet verbinden und die erforderlichen persönlichen Daten sammeln, um normal zu funktionieren. Um Ihre Rechte als Benutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2s\">Datenschutzerklärung&lt;/a>."</Data></string>
+    <string name="usage_permission_double_link" formatted="false"><Data>Diese App muss sich mit dem Internet verbinden und die erforderlichen personenbezogenen Daten sammeln, um normal zu funktionieren. Um Ihre Rechte als Benutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;a href=\"%1s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2s\">Datenschutzerklärung&lt;/a>."</Data></string>
     <string name="usage_permission_main_desc">"Willkommen bei Bildschirmzeit!
 Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um normal zu funktionieren:"</string>
     <string name="usage_permission_title">Achtung</string>

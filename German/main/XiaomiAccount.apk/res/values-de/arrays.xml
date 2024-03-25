@@ -103,7 +103,7 @@
     <string-array name="settings_search_user_information">
         <item>Kontodaten</item>
         <item>Ihr Profilfoto ansehen und Kontodaten verwalten</item>
-        <item>Persönliche Daten;Profilfoto;Spitzname;Kontodaten;Mi-ID;ID;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
+        <item>Personenbezogene Daten;Profilfoto;Spitzname;Kontodaten;Mi-ID;ID;Mi-Konto;Mi Konto;Xiaomi-Konto;Xiaomi Konto;Konto</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Nutzervereinbarung</item>

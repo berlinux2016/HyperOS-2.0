@@ -38,7 +38,7 @@
     <string name="already_understand_the_risks_market_unknown">Ich verstehe, dass dieses Installationspaket nicht auf Sicherheitsprobleme getestet wurde</string>
     <string name="already_understood_bundle_app">Ich verstehe die Risiken von gebündelten Apps</string>
     <string name="anonymous_source_continue">Fortfahren</string>
-    <string name="anonymous_source_warning">Ihr Telefon und Ihre persönlichen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
+    <string name="anonymous_source_warning">Ihr Telefon und Ihre personenbezogenen Daten sind anfälliger für Angriffe unbekannter Apps. Durch die Installation dieser App stimmen Sie zu, dass Sie für Schäden an Ihrem Telefon oder Datenverluste verantwortlich sind, die durch die Verwendung dieser App entstehen können.</string>
     <string name="app_already_on_the_app_store">Von GetApps herunterladen</string>
     <string name="app_crash_test_text">Paketinstaller zwangsweise beendet</string>
     <string name="app_description_picture">App-Beschreibung</string>
@@ -182,7 +182,7 @@
     <string name="enhanced_protection_f_1_demo">Am 1. Februar 2023 installierte Herr Chen eine App, über die Betrüger ihn dazu brachten, mehrfach Geld zu überweisen. Herr Chen verlor insgesamt 78.238 CNY.</string>
     <string name="enhanced_protection_f_1_des">Ohne erhöhten Schutz könnten bösartige Apps Sie betrügen.</string>
     <string name="enhanced_protection_f_1_title">Schutz vor Betrug</string>
-    <string name="enhanced_protection_f_2_des">Wenn der erhöhte Schutz deaktiviert ist, können bösartige Apps auf Ihre persönlichen Daten zugreifen.</string>
+    <string name="enhanced_protection_f_2_des">Wenn der erhöhte Schutz deaktiviert ist, können bösartige Apps auf Ihre personenbezogenen Daten zugreifen.</string>
     <string name="enhanced_protection_f_2_title">Datenschutz</string>
     <string name="enhanced_protection_f_3_title">Systemstabilität</string>
     <string name="eras_ad">n. Chr.</string>
@@ -263,7 +263,7 @@
     <string name="install_package_error_four_des">Deinstallieren Sie diese App oder schalten Sie die Berechtigung zur Installation von Apps aus unbekannten Quellen aus</string>
     <string name="install_source">Quelle</string>
     <string name="install_source_dialog_safe_title">%1$s installieren?</string>
-    <string name="install_source_dialog_safe_title_des">Ihr Gerät und Ihre persönlichen Daten sind anfälliger für Angriffe von unbekannten Apps. Durch die Installation dieser App verstehen und übernehmen Sie die Verantwortung für alle damit verbundenen Risiken und Konsequenzen.</string>
+    <string name="install_source_dialog_safe_title_des">Ihr Gerät und Ihre personenbezogenen Daten sind anfälliger für Angriffe von unbekannten Apps. Durch die Installation dieser App verstehen und übernehmen Sie die Verantwortung für alle damit verbundenen Risiken und Konsequenzen.</string>
     <string name="install_source_dialog_tip">Diese App wurde von Benutzern und GetApps als riskant eingestuft und steht nicht mehr zum Download zur Verfügung. Andere Apps, die von der gleichen Quelle oder dem gleichen Entwickler bereitgestellt werden, können ebenfalls riskant sein.</string>
     <string name="install_source_no_credible">Nicht vertrauenswürdige Quelle</string>
     <string name="install_unknow_source">Unbekannte Apps installieren</string>
@@ -474,7 +474,7 @@
     <string name="passport_account_user_avatar_from_album">Galerie</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Basisinfo</string>
-    <string name="passport_account_user_details">Persönliche Daten</string>
+    <string name="passport_account_user_details">Personenbezogene Daten</string>
     <string name="passport_account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="passport_account_user_gender">Geschlecht</string>
     <string name="passport_account_user_id">Xiaomi-Konto-ID</string>
@@ -702,7 +702,7 @@
     <string name="pure_introduction_des1">Apps aus unbekannten Quellen vor der Installation auf mögliche Sicherheitsrisiken prüfen</string>
     <string name="pure_introduction_des2">Überwachung, Kontrolle und Einschränkung schädlicher App-Aktivitäten</string>
     <string name="pure_introduction_des3">Zahlungsumgebung auf Sicherheitsprobleme prüfen, um die Gültigkeit von Finanztransaktionen zu gewährleisten</string>
-    <string name="pure_introduction_des4">Datenschutzrelevante Berechtigungen kontrollieren, um zu verhindern, dass Ihre persönlichen Daten veröffentlicht werden</string>
+    <string name="pure_introduction_des4">Datenschutzrelevante Berechtigungen kontrollieren, um zu verhindern, dass Ihre personenbezogenen Daten veröffentlicht werden</string>
     <string name="pure_introduction_des5">Verdächtige Aktivitäten erkennen und möglichen Betrug verhindern</string>
     <string name="pure_introduction_label3">Finanzen</string>
     <string name="pure_introduction_label4">Datenschutz</string>
@@ -1001,7 +1001,7 @@
     <string name="unrecorded_risk_app_description_2">Als Entwickler können Sie Beschwerde einreichen</string>
     <string name="unrecorded_risk_app_description_temp">Der Entwickler hat die Auflistung dieser App nicht an die Aufsichtsbehörden weitergegeben. Evtl. können Sie den Entwickler nicht kontaktieren, falls Ihre Interessen verletzt werden.</string>
     <string name="untrusted_external_source_title">\"%1$s\" erlauben, Apps zu installieren?</string>
-    <string name="untrusted_external_source_warning_summary">Ihr Gerät und Ihre persönlichen Daten sind anfällig für Angriffe durch installierte Apps aus unbekannten Quellen. Indem Sie die Installation von Apps aus dieser Quelle zulassen, akzeptieren Sie die Verantwortung für jegliche Schäden oder Datenverluste, die während der Nutzung dieser Apps auftreten können.</string>
+    <string name="untrusted_external_source_warning_summary">Ihr Gerät und Ihre personenbezogenen Daten sind anfällig für Angriffe durch installierte Apps aus unbekannten Quellen. Indem Sie die Installation von Apps aus dieser Quelle zulassen, akzeptieren Sie die Verantwortung für jegliche Schäden oder Datenverluste, die während der Nutzung dieser Apps auftreten können.</string>
     <string name="update_start">Aktualisieren</string>
     <string name="uri_no_permission">Datei wurde nicht gelesen, Berechtigung verweigert</string>
     <string name="user_is_not_allowed_dlg_text">Aktueller Benutzer darf diese Deinstallation nicht durchführen.</string>

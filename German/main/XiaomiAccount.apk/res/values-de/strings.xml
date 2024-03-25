@@ -46,7 +46,7 @@
     <string name="account_user_avatar_activity_not_found">Galerie öffnen fehlgeschlagen</string>
     <string name="account_user_avatar_from_album">Foto wählen</string>
     <string name="account_user_avatar_from_camera">Foto machen</string>
-    <string name="account_user_base_info">Persönliche Daten</string>
+    <string name="account_user_base_info">Personenbezogene Daten</string>
     <string name="account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="account_user_gender">Geschlecht</string>
     <string name="account_user_id">Xiaomi-Konto-ID</string>
@@ -482,7 +482,7 @@
     <string name="passport_account_user_avatar_from_album">Galerie</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Basisinfo</string>
-    <string name="passport_account_user_details">Persönliche Daten</string>
+    <string name="passport_account_user_details">Personenbezogene Daten</string>
     <string name="passport_account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="passport_account_user_gender">Geschlecht</string>
     <string name="passport_account_user_id">Xiaomi-Konto-ID</string>
@@ -631,7 +631,7 @@
     <string name="passport_photo_picker_not_found">Keine Fotos vorhanden</string>
     <string name="passport_privacy_policy">Datenschutzerklärung</string>
     <string name="passport_privacy_policy_required">Datenschutzerklärung (obligatorisch)</string>
-    <string name="passport_provision_input_email_register_prompt">Ihre persönlichen Daten werden gemäß den Gesetzen und Vorschriften der von Ihnen gewählten Region gespeichert.</string>
+    <string name="passport_provision_input_email_register_prompt">Ihre personenbezogenen Daten werden gemäß den Gesetzen und Vorschriften der von Ihnen gewählten Region gespeichert.</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> Zeichen mit mind. <xliff id="min_pwd_type" refersto="2">%3$d</xliff> der folgenden Typen: Buchstaben, Ziffern, Sonderzeichen</string>
     <string name="passport_qq_login_btn_content_description">Mit QQ anmelden</string>
     <string name="passport_querying_phone_info">Kontodaten abrufen…</string>
@@ -761,7 +761,7 @@
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="privacy_policy_reject_confirm_msg">Sie können Xiaomi-Konto nicht weiter nutzen, wenn Sie der neuen Version der Datenschutzerklärung nicht zustimmen. Der aktualisierten Xiaomi-Konto &lt;a href=%1$s>Datenschutzerklärung&lt;/a> jetzt zustimmen?"</string>
     <string name="privacy_policy_reject_confirm_title">Xiaomi-Konto kann nicht genutzt werden</string>
-    <string name="privacy_policy_update_msg">Xiaomi-Konto Datenschutzerklärung wurde aktualisiert: &lt;br/>%1$s&lt;br/>Lesen und akzeptieren Sie die neue Version der &lt;a href=%2$s>&lt;u>Datenschutzerklärung&lt;/u>&lt;/a> bevor Sie fortfahren.</string>
+    <string name="privacy_policy_update_msg">Xiaomi-Konto Datenschutzerklärung wurde aktualisiert: &lt;br/>%1$s&lt;br/>Lesen und akzeptieren Sie die neue Version der &lt;a href=%2$s>&lt;u>Datenschutzerklärung&lt;/u>&lt;/a>, bevor Sie fortfahren.</string>
     <string name="privacy_policy_update_title">Datenschutzerklärung aktualisiert</string>
     <string name="progressbar_title">Auf Sicherheitsprobleme prüfen…</string>
     <string name="provision_back">Zurück</string>
@@ -812,14 +812,14 @@
     <string name="search_mi_account_desc">Xiaomi-Konto</string>
     <string name="search_mi_account_key_words">Xiaomi Cloud,Kontoeinstellungen,Mi Pay Info,Abmelden</string>
     <string name="search_mi_account_path">Einstellungen/Xiaomi-Konto</string>
-    <string name="search_user_detail">Persönliche Daten</string>
+    <string name="search_user_detail">Personenbezogene Daten</string>
     <string name="search_user_detail_bottom_key_words">Einkommen ändern,Ausbildung ändern,Standort ändern,Region ändern</string>
-    <string name="search_user_detail_desc">Persönliche Daten</string>
-    <string name="search_user_detail_path">Einstellungen/Xiaomi-Konto/Persönliche Daten</string>
-    <string name="search_user_detail_top_key_words">Persönliche Daten,Profilfoto ändern,Benutzername ändern,Spitzname ändern,Geburtstag ändern,Geschlecht ändern</string>
+    <string name="search_user_detail_desc">Personenbezogene Daten</string>
+    <string name="search_user_detail_path">Einstellungen/Xiaomi-Konto/Personenbezogene Daten</string>
+    <string name="search_user_detail_top_key_words">Personenbezogene Daten,Profilfoto ändern,Benutzername ändern,Spitzname ändern,Geburtstag ändern,Geschlecht ändern</string>
     <string name="select_all">Alle auswählen</string>
     <string name="selected">Gewählt</string>
-    <string name="self_account_info">Persönliche Daten</string>
+    <string name="self_account_info">Personenbezogene Daten</string>
     <string name="send">Senden</string>
     <string name="service_error">Serverfehler</string>
     <string name="set_success">Erfolgreich geändert</string>

@@ -127,7 +127,7 @@
     <string name="cognition_privacy_request">Autorisierung</string>
     <string name="cognition_privacy_revoke">Zustimmung widerrufen</string>
     <string name="cognition_privacy_revoke_and">Das Widerrufen Ihrer Zustimmung deaktiviert diese Funktion</string>
-    <string name="cognition_privacy_revoke_dialog_message">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung der geräteeigenen Erkennungsfunktion. Wir werden aufhören, Ihre persönlichen Daten zu sammeln, und die bereits gesammelten und gespeicherten persönlichen Daten werden innerhalb eines bestimmten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da die geräteeigene Erkennungsfunktion ihre Dienste basierend auf der Erfassung notwendiger personenbezogener Daten erbringt, wird Ihr Widerruf der Zustimmung als Verweigerung der Annahme dieser Dienste gewertet.</string>
+    <string name="cognition_privacy_revoke_dialog_message">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung der geräteeigenen Erkennungsfunktion. Wir werden aufhören, Ihre personenbezogenen Daten zu sammeln, und die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb eines bestimmten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da die geräteeigene Erkennungsfunktion ihre Dienste basierend auf der Erfassung notwendiger personenbezogener Daten erbringt, wird Ihr Widerruf der Zustimmung als Verweigerung der Annahme dieser Dienste gewertet.</string>
     <string name="cognition_privacy_revoke_dialog_negative">Widerruf</string>
     <string name="cognition_privacy_revoke_dialog_negative_count">Widerruf (%ds)</string>
     <string name="cognition_privacy_revoke_dialog_positive">Abbrechen</string>
@@ -411,7 +411,7 @@
     <string name="passport_account_user_avatar_from_album">Galerie</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Basisinfo</string>
-    <string name="passport_account_user_details">Persönliche Daten</string>
+    <string name="passport_account_user_details">Personenbezogene Daten</string>
     <string name="passport_account_user_email">Wiederherstellungs-E-Mail</string>
     <string name="passport_account_user_gender">Geschlecht</string>
     <string name="passport_account_user_id">Xiaomi-Konto-ID</string>
@@ -509,7 +509,7 @@
     <string name="passport_register_restricted">Zu viele Konten mit dieser Nummer verknüpft, versuchen Sie eine andere</string>
     <string name="passport_relogin_notice">Sie müssen sich erneut anmelden</string>
     <string name="passport_request_agree">Erlauben</string>
-    <string name="passport_request_camera_permission_message">Wir schützen Ihre persönlichen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
+    <string name="passport_request_camera_permission_message">Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie solchen Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können in den Einstellungen jederzeit die Berechtigungen einschränken oder Ihre Genehmigung widerrufen.</string>
     <string name="passport_request_cancel">Abbrechen</string>
     <string name="passport_request_error_invalid_token">Verifizieren nicht möglich</string>
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>

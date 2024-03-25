@@ -710,7 +710,7 @@
     <string name="privacy_browser_desc">Suchverlauf</string>
     <string name="privacy_cache_empty">Keine privaten Daten</string>
     <string name="privacy_cache_scaning">Prüfen…</string>
-    <string name="privacy_cache_title">Persönliche Daten</string>
+    <string name="privacy_cache_title">Personenbezogene Daten</string>
     <string name="privacy_clipboard_desc">Inhalt Zwischenablage</string>
     <string name="privacy_clipboard_type">Zwischenablage</string>
     <string name="privacy_search_desc">Suchverlauf</string>

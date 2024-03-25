@@ -307,7 +307,7 @@
     <string name="importFailed">Import nicht möglich</string>
     <string name="import_contact">Kontakt importieren</string>
     <string name="import_picture">Importieren</string>
-    <string name="impunity_declaration_content">"Scanner muss Ihre Kamera verwenden und die Bilder verarbeiten, die Sie während der App-Nutzung machen. Verwenden Sie Scanner nicht, um Fotos von Objekten zu machen, die Ihre persönlichen Daten enthalten. Mit Tippen auf \"Zustimmen\" akzeptieren Sie unsere &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Datenschutzerklärung&lt;/a>&lt;/font> und erlauben Scanner die Internetverbindung."</string>
+    <string name="impunity_declaration_content">"Scanner muss Ihre Kamera verwenden und die Bilder verarbeiten, die Sie während der App-Nutzung machen. Verwenden Sie Scanner nicht, um Fotos von Objekten zu machen, die Ihre personenbezogenen Daten enthalten. Mit Tippen auf \"Zustimmen\" akzeptieren Sie unsere &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Datenschutzerklärung&lt;/a>&lt;/font> und erlauben Scanner die Internetverbindung."</string>
     <string name="impunity_declaration_negative_text">Beenden</string>
     <string name="impunity_declaration_title">Datenschutzerklärung</string>
     <string name="intelligent_participle">Sätze</string>

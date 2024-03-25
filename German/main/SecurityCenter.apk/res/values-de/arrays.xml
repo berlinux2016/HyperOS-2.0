@@ -117,7 +117,7 @@
         <item>Leistung priorisieren</item>
     </string-array>
     <string-array name="perm_intercept_notification">
-        <item>Alle Benachrichtigungen lesen, inkl. des Inhalts Ihrer Textnachrichten und anderer Elemente, die persönliche Daten enthalten können</item>
+        <item>Alle Benachrichtigungen lesen, inkl. des Inhalts Ihrer Textnachrichten und anderer Elemente, die personenbezogene Daten enthalten können</item>
         <item>Benachrichtigungsrechte für einige Apps einschränken</item>
         <item>Antippen von Benachrichtigungen und geöffneten Apps simulieren</item>
         <item>DND-Modus ein- und ausschalten</item>
@@ -128,7 +128,7 @@
     </string-array>
     <string-array name="perm_intercept_unknown_source">
         <item>Nicht verifizierte Drittanbieter-Apps können multiple Probleme verursachen und die Systemstabilität beeinträchtigen.</item>
-        <item>Einige Drittanbieter-Apps können Malware enthalten, die Ihre persönlichen Daten gefährden.</item>
+        <item>Einige Drittanbieter-Apps können Malware enthalten, die Ihre personenbezogenen Daten gefährden.</item>
     </string-array>
     <string-array name="pp_lab_compact_blur_location_entry">
         <item>Standard</item>
