@@ -29,7 +29,7 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="cloud_addr_info">Cloud-Info</string>
-    <string name="cloud_allow_change_addr">Status der autom. Cloud-Synchronisation ändern</string>
+    <string name="cloud_allow_change_addr">Status der aut. Cloud-Synchronisation ändern</string>
     <string name="cloud_china_addr">Chinesische Serverdaten aktualisieren</string>
     <string name="cloud_international_addr">Internationale Serverdaten aktualisieren</string>
     <string name="cloud_russion_addr">Russische Serverdaten aktualisieren</string>
@@ -50,7 +50,7 @@
     <string name="config_suggest_suffix_title">Stromsparen (empfohlen)</string>
     <string name="connect_intranet_hint">Mit Intranet verbinden</string>
     <string name="copy">Kopieren</string>
-    <string name="current_allow_sync_is">Autom. Cloud-Aktualisierung:</string>
+    <string name="current_allow_sync_is">Aut. Cloud-Aktualisierung:</string>
     <string name="current_cloud_addr_is">Adresse Cloud-Kontrollserver lautet:</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>

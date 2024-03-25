@@ -175,7 +175,7 @@
     <string name="accessibility_quick_settings_open_settings">%s-Einstellungen öffnen</string>
     <string name="accessibility_quick_settings_page">Seite %1$d von %2$d</string>
     <string name="accessibility_quick_settings_power_menu">Power-Menü</string>
-    <string name="accessibility_quick_settings_rotation">Bildschirm autom. drehen</string>
+    <string name="accessibility_quick_settings_rotation">Bildschirm aut. drehen</string>
     <string name="accessibility_quick_settings_settings">Einstellungen öffnen</string>
     <string name="accessibility_quick_settings_user">Angemeldet als %s</string>
     <string name="accessibility_recent">Übersicht</string>

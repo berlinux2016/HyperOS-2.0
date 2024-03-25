@@ -47,8 +47,8 @@
     <string name="airplane_mode">Flugmodus</string>
     <string name="already_in_small_freeform">Einige Apps werden in Popups geöffnet</string>
     <string name="app_name">System UI Plugin</string>
-    <string name="auto_brightness_off">Autom. Helligkeit ist aus</string>
-    <string name="auto_brightness_on">Autom. Helligkeit ist an</string>
+    <string name="auto_brightness_off">Aut. Helligkeit ist aus</string>
+    <string name="auto_brightness_on">Aut. Helligkeit ist an</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigationstasten deaktiviert. Doppeltipp auf beliebige Taste, um sie wieder zu aktivieren.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigationstasten aktiviert</string>
     <string name="bt_is_off">Bluetooth ist aus</string>

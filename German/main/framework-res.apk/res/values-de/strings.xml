@@ -146,8 +146,8 @@
     <string name="VideoView_error_text_unknown">Dieses Video kann leider nicht abgespielt werden</string>
     <string name="VideoView_error_title">Videoproblem</string>
     <string name="accept">Annehmen</string>
-    <string name="accessibility_binding_label">Eingabehilfe</string>
-    <string name="accessibility_button_instructional_text">Um zwischen Funktionen zu wechseln, Taste Eingabehilfe berühren &amp; halten.</string>
+    <string name="accessibility_binding_label">Eingabehilfen</string>
+    <string name="accessibility_button_instructional_text">Um zwischen Funktionen zu wechseln, Taste Eingabehilfen berühren &amp; halten.</string>
     <string name="accessibility_button_prompt_text">Wählen Sie eine Funktion zum Verwenden aus, wenn Sie auf die Eingabehilfe tippen:</string>
     <string name="accessibility_dialog_button_allow">Erlauben</string>
     <string name="accessibility_dialog_button_deny">Ablehnen</string>

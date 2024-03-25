@@ -324,7 +324,7 @@
     <string name="local_config_off">Aus</string>
     <string name="local_config_on">An</string>
     <string name="local_home_title">Lokale Sicherungen</string>
-    <string name="local_main_auto_backup_title">Autom. sichern</string>
+    <string name="local_main_auto_backup_title">Aut. sichern</string>
     <string name="local_main_backup">Lokale Sicherungen</string>
     <string name="local_main_backup_and_restore">Auf diesem Gerät</string>
     <string name="local_main_backup_detail_title">Systemeinstellungen, Konten und App-Daten</string>

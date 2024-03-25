@@ -171,7 +171,7 @@
     <string name="articles_collection_empty">Noch keine Artikel hier</string>
     <string name="auth_fail_warning">Sitzung abgelaufen. Erneut anmelden.</string>
     <string name="autoSwithcingSearchEngineTips">Zur meistgenutzten Suchmaschine gewechselt</string>
-    <string name="auto_play_permission_name">Autom. Wiedergabe</string>
+    <string name="auto_play_permission_name">Aut. Wiedergabe</string>
     <string name="autologin_bar_error">Anmeldung fehlgeschlagen</string>
     <string name="autologin_bar_hide_text">Ausblenden</string>
     <string name="autologin_bar_login_text">Anmelden</string>

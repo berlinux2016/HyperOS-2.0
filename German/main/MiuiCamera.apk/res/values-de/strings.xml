@@ -28,7 +28,7 @@
     <string name="accessibility_ai_watermark_panel_on">Panel KI-Wasserzeichen</string>
     <string name="accessibility_ambilight_panel_on">Panel Langzeitbelichtung öffnen</string>
     <string name="accessibility_aperture_adjust">Blende</string>
-    <string name="accessibility_aperture_default">Autom. Blendeneinstellung</string>
+    <string name="accessibility_aperture_default">Aut. Blendeneinstellung</string>
     <string name="accessibility_aperture_panel_on">Panel Blende öffnen</string>
     <string name="accessibility_audio_gain_adjust">Lautstärkeeinstellung</string>
     <string name="accessibility_auto_macro_off">Auto-Nahfokus ist aus</string>
