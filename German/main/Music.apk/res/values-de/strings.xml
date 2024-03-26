@@ -1204,7 +1204,7 @@
     <string name="payment_success_message">Dankeschön! Ihre Zahlung wurde erfolgreich verarbeitet. Genießen Sie die Gold-Dienste.</string>
     <string name="payment_success_title">Gratulation!</string>
     <string name="pending_apk">Ausstehend…</string>
-    <string name="permission_declaration_message">Speicherzugriff unter Sicherheit/Rechte/Rechteverwaltung/Speicher/Musik zulassen, damit Mi Musik ordungsgemäß funktioniert.</string>
+    <string name="permission_declaration_message">Speicherzugriff unter Sicherheit/Rechte/Rechtemanager/Speicher/Musik zulassen, damit Mi Musik ordungsgemäß funktioniert.</string>
     <string name="permission_declaration_negative_text">Später</string>
     <string name="permission_declaration_positive_text">Zu Sicherheit gehen</string>
     <string name="permission_declaration_title">Zugriff erlauben</string>

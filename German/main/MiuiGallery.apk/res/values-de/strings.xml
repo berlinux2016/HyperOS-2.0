@@ -305,7 +305,7 @@
     <string name="album_page_empty">Leer</string>
     <string name="album_page_label">Alben</string>
     <string name="album_pano_name">Panoramen</string>
-    <string name="album_permission_activity_title">Berechtigungen verwalten</string>
+    <string name="album_permission_activity_title">Rechte verwalten</string>
     <string name="album_permission_state_granted">Gewährt</string>
     <string name="album_permission_state_non_granted">Gewähren</string>
     <string name="album_permission_subtitle_single">%2$d Album ( %1$s)</string>
@@ -1249,7 +1249,7 @@
     <string name="grant_permission_shortcut">Erst zulassen, dass diese App Startbildschirm-Verknüpfungen erstellt.</string>
     <string name="grant_permission_storage">Erst den Speicherzugriff für diese App zulassen.</string>
     <string name="grant_permission_storage_unlock">Gerät entsperren und erst für diese App den Speicherzugriff zulassen.</string>
-    <string name="grant_permission_text">Galerie benötigt Zugriff auf \n%s,\num richtig zu funktionieren.\nAuf Einstellen tippen, um zur Rechteverwaltung zu gelangen.</string>
+    <string name="grant_permission_text">Galerie benötigt Zugriff auf \n%s,\num richtig zu funktionieren.\nAuf Einstellen tippen, um zum Rechtemanager zu gelangen.</string>
     <string name="grant_permission_title">Zugriff erlauben</string>
     <string name="grant_permission_unlock_and_set">Entsperren und einstellen</string>
     <string name="grant_permission_unlock_and_set_2">Entsperren</string>
@@ -2430,7 +2430,7 @@
     <string name="rubbish_album_move_to_other_album_success">Sie können sich diese Elemente jetzt unter \"Andere Alben\" ansehen.</string>
     <string name="rubbish_nomedia_manager_button_text">Alben mit \".nomedia\"-Dateien verwalten</string>
     <string name="runtime_permission_ungranted">Galerie wegen fehlender Berechtigungen beendet</string>
-    <string name="saf_hyper_link_text">Berechtigungen verwalten</string>
+    <string name="saf_hyper_link_text">Rechte verwalten</string>
     <string name="saf_operation_guide_1">"Galerie benötigt Berechtigungen, um Ihre Daten zu schützen und zu verwalten. "</string>
     <string name="saf_operation_guide_2">Um die Erlaubnis zu erteilen, auf \"%1$s\" tippen und dann \"%2$s\" wählen.</string>
     <string name="saf_operation_guide_param1">Weiter</string>

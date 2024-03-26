@@ -676,7 +676,7 @@
     <string name="load_failed">Elemente wurden nicht geladen. Etwas warten und erneut versuchen.</string>
     <string name="loading">Einen Moment…</string>
     <string name="location_perm_description">Zur Verfolgung von Outdoor-Workouts und Aufnahme von Routen</string>
-    <string name="location_permission_dialog_content">Erlauben Sie Xiaomi Health den Zugriff auf Ihren Standort in \"Xiaomi Health\" &gt; \"Berechtigungen verwalten\", um Ihre Workouts im Freien zu verfolgen.</string>
+    <string name="location_permission_dialog_content">Erlauben Sie Xiaomi Health den Zugriff auf Ihren Standort in \"Xiaomi Health\" &gt; \"Rechte verwalten\", um Ihre Workouts im Freien zu verfolgen.</string>
     <string name="location_permission_dialog_negative">Jetzt nicht</string>
     <string name="location_permission_dialog_positive">Erlauben</string>
     <string name="location_permission_dialog_title">Standortberechtigung erforderlich</string>
@@ -936,7 +936,7 @@
     <string name="period">Zyklus</string>
     <string name="permission_check_result">Erfolgreich eingerichtet</string>
     <string name="permission_check_result_failed">Einrichten nicht möglich</string>
-    <string name="permission_manage">Berechtigungen verwalten</string>
+    <string name="permission_manage">Rechte verwalten</string>
     <string name="permission_tip">Xiaomi Health folgende Berechtigungen erteilen, damit es Ihren Schlaf genau verfolgen kann</string>
     <string name="personal_course_recommend_subtitle">Erhalten Sie Zugang zu den Kursen, die Ihnen auf Basis Ihrer personenbezogenen Daten, Gesundheitsdaten und Vorlieben empfohlen werden</string>
     <string name="personal_course_recommend_title">Empfohlene Kurse</string>

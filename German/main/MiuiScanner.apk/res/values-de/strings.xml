@@ -293,7 +293,7 @@
     <string name="grayscale">Graustufen</string>
     <string name="half_covered_mode">Nicht verdeckt</string>
     <string name="hand_query">Bestellung prüfen</string>
-    <string name="hint_no_permissions_text">Auf die Taste Einstellungen tippen und Rechteverwaltung eingeben, um die Speicherberechtigung der Kamera und des Mobiltelefons für die normale Nutzung zu aktivieren. Scannen.</string>
+    <string name="hint_no_permissions_text">Auf die Taste Einstellungen tippen und Rechtemanager eingeben, um die Speicherberechtigung der Kamera und des Mobiltelefons für die normale Nutzung zu aktivieren. Scannen.</string>
     <string name="history">Verlauf</string>
     <string name="history_empty">Noch keine Einträge hier</string>
     <string name="history_list_is_empty2">Gescannte Dokumente werden hier angezeigt.</string>

@@ -571,7 +571,7 @@
     <string name="permission_content_title">Berechtigungen erforderlich</string>
     <string name="permission_dialog_positive_btn">Einstellungen</string>
     <string name="permission_intro">Berechtigungsdetails</string>
-    <string name="permission_management_entrance">Berechtigungen verwalten</string>
+    <string name="permission_management_entrance">Rechte verwalten</string>
     <string name="permission_not_admit">Nicht gewährt</string>
     <string name="permission_purpose">Mit dieser Funktion können Sie Elemente auf Ihrem Mobilgerät, Computer und auf USB-Laufwerken sichern und wiederherstellen.</string>
     <string name="permission_purpose_pad">Mit dieser Funktion können Sie Elemente auf Ihrem Mobilgerät, Computer und auf USB-Laufwerken sichern und wiederherstellen.</string>

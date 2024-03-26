@@ -357,7 +357,7 @@
     <string name="liter_long">{count, plural, =1 {1 Liter} other {# Liter}}</string>
     <string name="loading">Laden…</string>
     <string name="manage_data_section">Daten verwalten</string>
-    <string name="manage_permissions">Berechtigungen verwalten</string>
+    <string name="manage_permissions">Rechte verwalten</string>
     <string name="manage_permissions_learn_more">Datenschutzerklärung lesen</string>
     <string name="manage_permissions_manage_app_header">Apps verwalten</string>
     <string name="manage_permissions_rationale">Daten, die Sie mit %1$s teilen, fallen unter deren Datenschutzerklärung</string>

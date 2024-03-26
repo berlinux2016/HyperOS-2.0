@@ -3600,7 +3600,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_action_virtual">Leere Nachrichten zurücksenden</string>
     <string name="permission_action_virtual_common_summary">Apps die erforderlichen Berechtigungen erteilen, gibt aber leere Meldungen zurück, um Ihre Privatsphäre zu schützen</string>
     <string name="permission_action_virtual_phone_summary">Apps die entsprechenden Berechtigungen erteilen, aber ihnen nicht erlauben, auf die echte Rufnummer der SIM-Karte zuzugreifen</string>
-    <string name="permission_close_permission_control_dialog_msg">Wenn die Rechteverwaltung ausgeschaltet ist, werden Apps nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen.</string>
+    <string name="permission_close_permission_control_dialog_msg">Wenn der Rechtemanager ausgeschaltet ist, werden Apps nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen.</string>
     <string name="permission_close_permission_control_dialog_title">Ausschalten?</string>
     <string name="permission_exception_title">Verbindung für Apps eingeschränkt</string>
     <string name="permission_group_audio">Mit dieser Berechtigung können Apps auf Musik und andere Audiodateien zugreifen, die auf diesem Gerät gespeichert sind.</string>
@@ -3686,7 +3686,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_instruction_write_settings">Mit dieser Berechtigung können Apps Systemeinstellungen ändern. Bösartige Apps könnten diese Berechtigung nutzen, um Ihre Systemeinstellungen zu manipulieren und die normale Nutzung Ihres Geräts zu beeinträchtigen.</string>
     <string name="permission_legacy_storage">Zugriff auf Fotos, Videos, Audio und Dateien</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Apps werden nicht um Erlaubnis fragen vor dem Lesen Ihrer Kontakte, Anzeigen der Anrufliste, Ändern von Systemeinstellungen oder dem Zugriff auf Kamera und andere Gerätequellen. Sie können diese Funktion in den Rechteeinstellungen einschalten.</string>
-    <string name="permission_permission_control_closed_desc_dialog_title">Rechteverwaltung</string>
+    <string name="permission_permission_control_closed_desc_dialog_title">Rechtemanager</string>
     <string name="permission_precise_location">Genauer Standort</string>
     <string name="permission_precise_location_sumary">Wenn diese Funktion ausgeschaltet ist, können Apps nur auf Ihren ungefähren Standort zugreifen</string>
     <string name="permission_share_uid">Genauer Standort</string>
@@ -5397,7 +5397,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="system_anti_fraud_dialog_title2">Warnung vor Betrug</string>
     <string name="system_anti_fraud_stayaway_from_risk">Digitalen Betrug vermeiden</string>
     <string name="system_app">System-Apps</string>
-    <string name="system_app_permission_instruction">Diese App benötigt folgende Berechtigungen, um grundlegende Systemdienste bereitzustellen. Die Rechteverwaltung ist für diese App eingeschränkt, da eine Änderung des Berechtigungsstatus zu Anomalien im Systembetrieb führen kann.</string>
+    <string name="system_app_permission_instruction">Diese App benötigt folgende Berechtigungen, um grundlegende Systemdienste bereitzustellen. Rechtevewaltung ist für diese App eingeschränkt, da eine Änderung des Berechtigungsstatus zu Anomalien im Systembetrieb führen kann.</string>
     <string name="system_application">System-Apps</string>
     <string name="system_permission_declare_agree">Zustimmen</string>
     <string name="system_permission_declare_analytics_declare">Wir laden Sie ein, sich für unser Benutzererfahrungsprogramm anzumelden. Diese App muss eine Internetverbindung herstellen und folgende Berechtigungen oder Funktionen zum Sammeln von Statistiken nutzen, um die von uns angebotenen Dienste zu verbessern. Wir sammeln hier nur Daten für statistische Zwecke und wir können Sie anhand der von uns gesammelten Daten nicht persönlich identifizieren.</string>
@@ -5679,9 +5679,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="title_password_manager">Passwortmanager einschalten</string>
     <string name="title_payment_protection">Zahlungen sind sicher</string>
     <string name="title_payment_risk">Zahlungsrisiken gefunden</string>
-    <string name="title_permission_no">Rechteverwaltung aus</string>
+    <string name="title_permission_no">Rechtemanager aus</string>
     <string name="title_permission_root">Root-Zugriff</string>
-    <string name="title_permission_yes">Rechteverwaltung an</string>
+    <string name="title_permission_yes">Rechtemanager an</string>
     <string name="title_power_optimizer">Stromsparen</string>
     <string name="title_realname_verify">ID-Verifikation</string>
     <string name="title_reply">Kommentar</string>
