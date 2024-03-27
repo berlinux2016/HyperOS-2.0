@@ -290,7 +290,7 @@
     <string name="preference_enable_earpiece_summary">Audio über den Hörerlautsprecher wiedergeben</string>
     <string name="preference_enable_earpiece_title">Hörer-Modus</string>
     <string name="preference_led_indicator">Sperrbildschirm-Benachrichtigungen</string>
-    <string name="preference_led_indicator_prompt">Blauen Indikator am Sperrbildschirm anzeigen und LED-Licht blinken lassen während der Aufnahme</string>
+    <string name="preference_led_indicator_prompt">Blauen Indikator am Sperrbildschirm anzeigen und LED blinken lassen während der Aufnahme</string>
     <string name="preference_record_desktop_indicator_summary">Blauen Indikator am Startbildschirm anzeigen während der Aufnahme</string>
     <string name="preference_record_desktop_indicator_title">Startbildschirm-Indikator</string>
     <string name="preference_record_scenes_dialog_title">Aufnahmetyp wählen</string>

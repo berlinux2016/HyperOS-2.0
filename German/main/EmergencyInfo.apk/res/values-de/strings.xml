@@ -694,7 +694,7 @@
     <string name="verify_apps_over_usb_title">Apps über USB prüfen</string>
     <string name="vpn_settings_not_available">VPN-Einstellungen sind für diesen Benutzer nicht verfügbar</string>
     <string name="wait_for_debugger">Warten auf Debugger</string>
-    <string name="wait_for_debugger_summary">Debugging-App wartet darauf, dass der Debugger angehängt wird, bevor er ausgeführt wird</string>
+    <string name="wait_for_debugger_summary">Debug-App wartet darauf, dass der Debugger angehängt wird, bevor er ausgeführt wird</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt zeitweise voll</string>
     <string name="wifi_cant_connect">Verbinden fehlgeschlagen</string>
     <string name="wifi_cant_connect_to_ap">"Verbindung mit '%1$s' fehlgeschlagen"</string>

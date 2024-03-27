@@ -5438,7 +5438,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="task_summary_close_auto_brightness">Auto-Helligkeit ausschalten</string>
     <string name="task_summary_close_bluetooth">Bluetooth ausschalten</string>
     <string name="task_summary_close_dark_mode">Dark Mode ausschalten</string>
-    <string name="task_summary_close_dc_light">Anti-Flacker-Modus ausschalten</string>
+    <string name="task_summary_close_dc_light">Anti-Flicker-Modus ausschalten</string>
     <string name="task_summary_close_dial_tone">Wähltöne ausschalten</string>
     <string name="task_summary_close_drive_mode">Auto-Modus ausschalten</string>
     <string name="task_summary_close_eye_care_mode">Lesemodus ausschalten</string>
@@ -5457,7 +5457,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="task_summary_open_auto_brightness">Auto-Helligkeit einschalten</string>
     <string name="task_summary_open_bluetooth">Bluetooth einschalten</string>
     <string name="task_summary_open_dark_mode">Dark Mode einschalten</string>
-    <string name="task_summary_open_dc_light">Anti-Flacker-Modus einschalten</string>
+    <string name="task_summary_open_dc_light">Anti-Flicker-Modus einschalten</string>
     <string name="task_summary_open_dial_tone">Wähltöne einschalten</string>
     <string name="task_summary_open_disturb_mode">DND-Modus einschalten</string>
     <string name="task_summary_open_drive_mode">Auto-Modus einschalten</string>
@@ -5709,7 +5709,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="title_result_start_activity">App öffnen</string>
     <string name="title_result_switch">Ausschalten</string>
     <string name="title_result_touch">Haptisches Feedback</string>
-    <string name="title_result_twinkle">Anti-Flacker-Modus</string>
+    <string name="title_result_twinkle">Anti-Flicker-Modus</string>
     <string name="title_result_typeface">Textgröße &amp; Schriftgrad</string>
     <string name="title_result_wlan">WLAN</string>
     <string name="title_result_zen_mode">DND-Modus</string>
