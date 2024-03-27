@@ -221,12 +221,11 @@
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
-    <string name="bt_hci_snoop_log">Bluetooth HCI Snoop Log einschalten</string>
     <string name="bt_hci_snoop_log_summary">Bluetooth-Pakete erfassen. (Bluetooth nach Ändern dieser Einstellung umschalten.)</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Ausgabe ändern</string>
-    <string name="bt_le_audio_broadcast_dialog_sub_title">Wenn Sie %1$s übertragen oder die Ausgabe ändern, wird Ihre aktuelle Übertragung beendet</string>
-    <string name="bt_le_audio_broadcast_dialog_switch_app">%1$s übertragen</string>
-    <string name="bt_le_audio_broadcast_dialog_title">Übertragung von %1$s beenden?</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">Wenn Sie %1$s übertragen oder die Ausgabe ändern, wird Ihr aktueller Broadcast beendet</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">Broadcast von %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">Broadcast von %1$s stoppen?</string>
     <string name="bugreport_in_power">Fehlerberichtsverknüpfung</string>
     <string name="bugreport_in_power_summary">Button im Powermenü anzeigen, um einen Fehlerbericht zu erstellen</string>
     <string name="cached_apps_freezer_device_default">Gerätestandard</string>

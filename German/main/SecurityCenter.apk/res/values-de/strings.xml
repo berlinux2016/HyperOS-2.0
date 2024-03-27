@@ -665,7 +665,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="applock_close_dialog_title">App-Sperre ausschalten?</string>
     <string name="applock_exit_account_info">Konto wird bei der Abmeldung automatisch entfernt</string>
     <string name="applock_face_unlock_summary">Apps mit Gesichtsdaten entsperren</string>
-    <string name="applock_face_unlock_title">Gesichtsentsperrung</string>
+    <string name="applock_face_unlock_title">Gesichtssperre</string>
     <string name="applock_fingerprint_detect">Fingerabdruck verwenden</string>
     <string name="applock_fingerprint_unlock">Fingerabdruck verwenden</string>
     <string name="applock_function_base_settings">App-Sperre</string>
@@ -1864,8 +1864,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="face_unlock_face_auth_failed_title">Gesichtsdaten wurden nicht verifiziert. Umschalten auf andere Entsperrmethoden…</string>
     <string name="face_unlock_face_start_title">Gesichtsdaten verifizieren…</string>
     <string name="face_unlock_finger_or_password_switch">Verwenden Sie Ihren Fingerabdruck oder geben Sie ein Passwort zum Entsperren ein.</string>
-    <string name="face_unlock_guide_confirm">Gesichtsentsperrung einschalten</string>
-    <string name="face_unlock_guide_dialog_summary">Sie können Gesichtsdaten verwenden, um Ihr Gerät zu entsperren. Gesichtsentsperrung einschalten?</string>
+    <string name="face_unlock_guide_confirm">Gesichtssperre einschalten</string>
+    <string name="face_unlock_guide_dialog_summary">Sie können Gesichtsdaten verwenden, um Ihr Gerät zu entsperren. Gesichtssperre einschalten?</string>
     <string name="face_unlock_not_found">Sie wurden nicht erkannt</string>
     <string name="face_unlock_open_eye">Augen etwas mehr öffnen</string>
     <string name="face_unlock_reveal_eye">Augen sichtbar machen</string>
@@ -1876,11 +1876,11 @@ Sie verlieren keine App-Daten."</string>
     <string name="face_unlock_verity_dialog_title_succeed">Erfolgreich verifiziert</string>
     <string name="file_confirm_start_activity">%s ist nicht berechtigt, auf Ihre Galerie- und Social Media-Apps zuzugreifen. Diese App möchte auf Dateien zugreifen, die auf diesem Gerät gespeichert sind, um Elemente zu teilen. Erlauben?</string>
     <string name="finger_remind_message">Zuerst eigenen Fingerabdruck hinzufügen. Tippen Sie hier, um Einstellungen zu öffnen.</string>
-    <string name="fingerprint_identify_msg">Fingerabdruckentsperrung aktivieren</string>
+    <string name="fingerprint_identify_msg">Fingerabdrucksperre aktivieren</string>
     <string name="fingerprint_not_identified_msg">Fingerabdruck wurde nicht erkannt. Geben Sie Ihr Passwort ein.</string>
     <string name="fingerprint_not_remind">Nicht wieder nachfragen</string>
-    <string name="fingerprint_remind_dialog_title">Fingerabdruckentsperrung</string>
-    <string name="fingerprint_to_lock">Fingerabdruckentsperrung</string>
+    <string name="fingerprint_remind_dialog_title">Fingerabdrucksperre</string>
+    <string name="fingerprint_to_lock">Fingerabdrucksperre</string>
     <string name="fingerprint_to_lock_summary">Apps mit Fingerabdruck entsperren</string>
     <string name="fingerprint_verify_failed">Fingerabdruck wurde nicht verifiziert</string>
     <string name="fingerprint_verify_succeed">Fingerabdruck verifiziert</string>

@@ -603,7 +603,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="face_acquired_too_much_motion">Zu viel Bewegung. Telefon ruhig halten.</string>
     <string name="face_acquired_too_right">Telefon nach links bewegen</string>
     <string name="face_acquired_too_similar">Position des Kopfes leicht verändern</string>
-    <string name="face_app_setting_name">Gesichtsentsperrung verwenden</string>
+    <string name="face_app_setting_name">Gesichtssperre verwenden</string>
     <string name="face_authenticated_confirmation_required">Gesicht authentifiziert, bitte bestätigen.</string>
     <string name="face_authenticated_no_confirmation_required">Gesicht authentifiziert</string>
     <string name="face_dialog_default_subtitle">Gesicht verwenden zum Fortfahren</string>
@@ -611,7 +611,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="face_error_hw_not_available">Gesicht wurde nicht verifiziert. Hardware nicht verfügbar.</string>
     <string name="face_error_hw_not_present">Gesichtserkennung wird auf diesem Gerät nicht unterstützt</string>
     <string name="face_error_lockout">Zu viele Versuche. Später erneut versuchen.</string>
-    <string name="face_error_lockout_permanent">Zu viele Versuche. Gesichtsentsperrung nicht verfügbar.</string>
+    <string name="face_error_lockout_permanent">Zu viele Versuche. Gesichtssperre nicht verfügbar.</string>
     <string name="face_error_lockout_screen_lock">Zu viele Versuche. Stattdessen Bildschirmsperre eingeben.</string>
     <string name="face_error_no_space">Neue Gesichtsdaten wurden nicht gespeichert. Zuerst einen alten Datensatz löschen.</string>
     <string name="face_error_not_enrolled">Sie haben keine Gesichtserkennung eingerichtet.</string>
@@ -625,11 +625,11 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="face_or_screen_lock_app_setting_name">Gesicht oder Bildschirmsperre verwenden</string>
     <string name="face_or_screen_lock_dialog_default_subtitle">Gesicht oder Bildschirmsperre verwenden zum Fortfahren</string>
     <string name="face_recalibrate_notification_content">Tippen, um Ihr Gesichtsmodell zu löschen und dann Ihr Gesicht erneut hinzufügen.</string>
-    <string name="face_recalibrate_notification_name">Gesichtsentsperrung</string>
-    <string name="face_recalibrate_notification_title">Problem mit Gesichtsentsperrung</string>
-    <string name="face_sensor_privacy_enabled">Um Gesichtsentsperrung zu verwenden, aktivieren Sie <b>Kamerazugriff</b> in Einstellungen > Datenschutz</string>
+    <string name="face_recalibrate_notification_name">Gesichtssperre</string>
+    <string name="face_recalibrate_notification_title">Problem mit Gesichtssperre</string>
+    <string name="face_sensor_privacy_enabled">Um Gesichtssperre zu verwenden, aktivieren Sie <b>Kamerazugriff</b> in Einstellungen > Datenschutz</string>
     <string name="face_setup_notification_content">Telefon entsperren durch Anschauen</string>
-    <string name="face_setup_notification_title">Gesichtsentsperrung einrichten</string>
+    <string name="face_setup_notification_title">Gesichtssperre einrichten</string>
     <string name="faceunlock_multiple_failures">Maximale Face Unlock-Versuche überschritten</string>
     <string name="factory_reset_message">Admin-App kann nicht verwendet werden. Ihr Gerät wird nun gelöscht. \n\nBei Fragen kontaktieren Sie Ihren Firmen-Admin.</string>
     <string name="factory_reset_warning">Ihr Gerät wird gelöscht</string>
@@ -679,7 +679,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="fingerprint_or_screen_lock_app_setting_name">Fingerabdruck oder Bildschirmsperre verwenden</string>
     <string name="fingerprint_or_screen_lock_dialog_default_subtitle">Fingerabdruck oder Bildschirmsperre zum Fortfahren verwenden</string>
     <string name="fingerprint_recalibrate_notification_content">Reparaturservice aufsuchen</string>
-    <string name="fingerprint_recalibrate_notification_name">Fingerabdruckentsperrung</string>
+    <string name="fingerprint_recalibrate_notification_name">Fingerabdrucksperre</string>
     <string name="fingerprint_recalibrate_notification_title">Fingerabdrucksensor verwenden nicht möglich</string>
     <string name="fingerprint_setup_notification_content">Tippen, um einen Fingerabdruck hinzuzufügen</string>
     <string name="fingerprint_setup_notification_title">Mehr Wege zum Entsperren einrichten</string>
@@ -811,7 +811,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="keyguard_accessibility_add_widget">Widget hinzufügen</string>
     <string name="keyguard_accessibility_camera">Kamera</string>
     <string name="keyguard_accessibility_expand_lock_area">Entsperrbereich erweitern</string>
-    <string name="keyguard_accessibility_face_unlock">Gesichtsentsperrung</string>
+    <string name="keyguard_accessibility_face_unlock">Gesichtssperre</string>
     <string name="keyguard_accessibility_password_unlock">Passwort-Entsperrung</string>
     <string name="keyguard_accessibility_pattern_area">Musterbereich</string>
     <string name="keyguard_accessibility_pattern_unlock">Muster-Entsperrung</string>

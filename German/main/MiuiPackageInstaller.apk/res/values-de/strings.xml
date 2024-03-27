@@ -206,7 +206,7 @@
     <string name="face_unlock_reveal_eye">Machen Sie Ihre Augen sichtbar</string>
     <string name="face_unlock_reveal_mouth">Machen Sie Ihre Lippen sichtbar</string>
     <string name="face_unlock_verity_tips_succeed">Erfolgreich verifiziert</string>
-    <string name="face_verify_authority">Mit Gesichtsentsperrung verifizieren</string>
+    <string name="face_verify_authority">Mit Gesichtssperre verifizieren</string>
     <string name="face_verify_retry_tips">Tippen, um es erneut zu versuchen</string>
     <string name="features_introduce">&lt;u>Über diese Funkzion&lt;u/></string>
     <string name="fingerprint_authrioze_done">Erfolgreich verifiziert</string>
@@ -446,7 +446,7 @@
     <string name="night">Abend</string>
     <string name="no_install_because_32bit">Installieren Sie die 64-Bit-Version dieser App von einer vertrauenswürdigen Quelle</string>
     <string name="no_install_permission_tip">%1$s hat keine Berechtigung, Apps zu installieren</string>
-    <string name="no_set_lock_screen_tip">Wenn Sie für die Bildschirmsperre weder Passwort, Fingerabdruck noch Gesichtsentsperrung eingerichtet haben, können Sie dies in den Einstellungen tun.</string>
+    <string name="no_set_lock_screen_tip">Wenn Sie für die Bildschirmsperre weder Passwort, Fingerabdruck noch Gesichtssperre eingerichtet haben, können Sie dies in den Einstellungen tun.</string>
     <string name="noon">Mittag</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="only_get_app_for_mi_store">Laden Sie Apps nur von GetApps und verifizierten Entwickler herunter</string>

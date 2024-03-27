@@ -1321,8 +1321,8 @@
     <string name="notification_switch_auto_title">Mobilfunknetze</string>
     <string name="notification_voicemail_no_vm_number">Sprachboxnummer unbekannt</string>
     <string name="notification_voicemail_text_format">%s anrufen</string>
-    <string name="notification_voicemail_title">Neue Sprachbox</string>
-    <string name="notification_voicemail_title_count">Neue Sprachbox (%d)</string>
+    <string name="notification_voicemail_title">Neue Sprachnachricht</string>
+    <string name="notification_voicemail_title_count">Neue Sprachnachricht (%d)</string>
     <string name="nr_network_info">5G-Netznutzungsinfo</string>
     <string name="nr_usaged_first_used_time">Im 5G-Netz registriert</string>
     <string name="nr_usaged_module">Gerätemodell</string>
@@ -1474,7 +1474,7 @@
     <string name="pin_progress_unlock_icc">SIM entsperren…</string>
     <string name="pin_puk_system_user_only">Nur der Besitzer des Geräts kann PIN-/PUK-Codes eingeben.</string>
     <string name="ping_test_label">Ping-Test ausführen</string>
-    <string name="play_voicemail_settings">Sprachbox abspielen</string>
+    <string name="play_voicemail_settings">Sprachnachricht abspielen</string>
     <string name="police_type_description">Polizei</string>
     <string name="pref_sim_item_no_default">Nicht festgelegt</string>
     <string name="prefered_network_type_3g_promp">Sie sollten VoLTE ausschalten, bevor Sie 3G als bevorzugten Netzwerktyp auswählen. Jetzt ausschalten?</string>
@@ -2121,7 +2121,7 @@
     <string name="voice_service_warning_dialog_ok">Verstanden</string>
     <string name="voice_service_warning_dialog_ok_timer">Verstanden (%d)</string>
     <string name="voice_service_warning_dialog_title">VoLTE-Anrufe</string>
-    <string name="voicemail">Sprachbox</string>
+    <string name="voicemail">Sprachnachricht</string>
     <string name="voicemail_callforward_settings">Sprachbox &amp; Rufumleitung</string>
     <string name="voicemail_change_pin_dialog_title">PIN ändern</string>
     <string name="voicemail_default">Ihr Mobilfunkanbieter</string>
@@ -2142,7 +2142,7 @@
     <string name="volte_provision_text">VoLTE-Anrufe bieten eine bessere Qualität als normale Anrufe. SMS zum Aktivieren senden?</string>
     <string name="volte_provision_title">VoLTE-Anrufe aktivieren</string>
     <string name="volte_provisioned_switch_string">VoLTE bereitgestellt</string>
-    <string name="volte_switch_globalization_prompt">Dieses Mobilfunknetz wurde nicht für VoLTE auf diesem Gerät verifiziert. Die Aktivierung dieser Funktion kann sich auf die Akkulaufzeit, Anrufe, Nachrichten, Voicemail und mobile Datennutzung auswirken.</string>
+    <string name="volte_switch_globalization_prompt">Dieses Mobilfunknetz wurde nicht für VoLTE auf diesem Gerät verifiziert. Die Aktivierung dieser Funktion kann sich auf die Akkulaufzeit, Anrufe, Textnachrichten, Sprachnachrichten und mobile Datennutzung auswirken.</string>
     <string name="volte_switch_globalization_prompt_title">Achtung</string>
     <string name="volte_switch_not_support_summary">VoLTE-Anrufe werden für diese SIM nicht unterstützt</string>
     <string name="volte_switch_not_support_summary2">VoLTE-Anrufe werden vom Mobilfunkanbieter nicht unterstützt.</string>
@@ -2187,7 +2187,7 @@
     <string name="wificall_switch_title">Über WLAN telefonieren</string>
     <string name="wild_prompt_str">Platzhalter ersetzen mit</string>
     <string name="wrong_password">Eingegebenes Passwort ist falsch</string>
-    <string name="xcap_setting_summary">Anrufsperre, Sprachbox &amp; Rufumleitung und Anklopfen</string>
+    <string name="xcap_setting_summary">Anrufsperre, Sprachbox &amp; Rufumleitung sowie Anklopfen</string>
     <string name="xcap_setting_title">Einstellungen Anrufdienst</string>
     <string name="xiaoai_assistant_setting_title">Mi AI Anrufassistent</string>
     <string name="yesterday">Gestern</string>

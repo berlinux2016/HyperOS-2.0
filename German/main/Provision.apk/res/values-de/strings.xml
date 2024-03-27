@@ -246,7 +246,7 @@ Die verfügbaren Interkonnektivitätsdienste können sich je nach Systemversion 
     <string name="interconnection_service_summary_global">Die Funktionen von Xiaomi Interkonnektivität können je nach Gerätemodell und Systemversion variieren. Besuchen Sie die offizielle System-Webseite, um mehr zu erfahren.</string>
     <string name="interconnection_service_title">Xiaomi Interkonnektivitätsdienste</string>
     <string name="item_contents_wwarning">Wenn Ihr Gerät verloren geht, können Sie nicht verhindern, dass andere Personen es verwenden und auf Ihre Daten zugreifen, es sei denn, Sie setzen eine Bildschirmsperre. Trotzdem überspringen?</string>
-    <string name="item_facerecognition">Gesichtsentsperrung</string>
+    <string name="item_facerecognition">Gesichtssperre</string>
     <string name="item_fingerprint">Fingerabdruck</string>
     <string name="item_lock_screen_password">Nur Bildschirmsperre</string>
     <string name="item_lock_screen_password_only">Bildschirmsperre</string>
