@@ -369,7 +369,7 @@
     <string name="download_auto_cancel">Lieblingstitel herunterladen ist aus</string>
     <string name="download_auto_message">Lieblingstitel werden automatisch heruntergeladen, sobald eine WLAN-Verbindung besteht. Sie können dies in Einstellungen ändern.</string>
     <string name="download_auto_when_free_network">Nur WLAN verwenden</string>
-    <string name="download_auto_when_free_network_summary">Zusätzliche Einstellungen für Lieblingstitel</string>
+    <string name="download_auto_when_free_network_summary">Weitere Einstellungen für Lieblingstitel</string>
     <string name="download_complete">Herunterladen abgeschlossen</string>
     <string name="download_complete_btn">Installiert…</string>
     <string name="download_complete_start_install">Installation…</string>
@@ -394,7 +394,7 @@
     <string name="download_paused_in_power_save_mode">Wenn Stromsparen an ist, pausieren alle Downloads</string>
     <string name="download_processing">Herunterladen…</string>
     <string name="download_quality">Downloadqualität</string>
-    <string name="download_quality_summary">Zusätzliche Einstellungen für heruntergeladene Titel</string>
+    <string name="download_quality_summary">Weitere Einstellungen für heruntergeladene Titel</string>
     <string name="download_queued">Warteschlange</string>
     <string name="download_running">Läuft gerade</string>
     <string name="download_running_percent">Läuft gerade, %d%%</string>
@@ -459,8 +459,8 @@
     <string name="exo_controls_fullscreen_exit_description">Vollbildmodus beenden</string>
     <string name="exo_controls_hide">Player-Steuerungen ausblenden</string>
     <string name="exo_controls_next_description">Nächster</string>
-    <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
-    <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen anzeigen</string>
+    <string name="exo_controls_overflow_hide_description">Weitere Einstellungen ausblenden</string>
+    <string name="exo_controls_overflow_show_description">Weitere Einstellungen anzeigen</string>
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
@@ -630,7 +630,7 @@
     <string name="hungama_free_download_out_summary_toast">Sie haben bereits %d Titel heruntergeladen. Besorgen Sie sich ein Abo, um weitere herunterzuladen.</string>
     <string name="hungama_playlist_category">Kategorie Wiedergabeliste</string>
     <string name="hungama_privacy_desc">hungama Datenschutzerklärung (optional)</string>
-    <string name="hungama_privacy_tips_content">Um Zugang zu Online-Inhalten zu erhalten, müssen Sie die &lt;a href="/link/click">hungama Datenschutzerklärung&lt;/a> akzeptieren.</string>
+    <string name="hungama_privacy_tips_content">Um Zugriff auf Online-Inhalte zu erhalten, müssen Sie die &lt;a href="/link/click">hungama Datenschutzerklärung&lt;/a> akzeptieren.</string>
     <string name="hungama_privacy_tips_title">hungama Datenschutzerklärung</string>
     <string name="hungama_subscribe_message">Gold-Mitgliedschaft kaufen, um Musik in hoher Qualität herunterzuladen</string>
     <string name="hungama_subscribe_positive_button">Gold-Mitgliedschaft kaufen</string>
@@ -678,7 +678,7 @@
     <string name="joox_auth_dialog_message">Wir haben einige Musikempfehlungen für Sie. VIP-Mitgliedschaft erhalten, um Beschränkungen aufzuheben.</string>
     <string name="joox_auth_message_connect_network">Längere Zeit keine Verbindung zum Server hergestellt. Mit Netzwerk verbinden, um heruntergeladene Titel abzuspielen.</string>
     <string name="joox_auth_message_content_for_vip_only">Dieses Element ist nur für VIP-Mitglieder verfügbar</string>
-    <string name="joox_auth_message_content_offline">Online-Dienste sind derzeit nicht verfügbar. Wir werden einige Dinge verbessern und den Zugang bald wieder öffnen. Bleiben Sie dran!</string>
+    <string name="joox_auth_message_content_offline">Online-Dienste sind derzeit nicht verfügbar. Wir werden einige Dinge verbessern und den Zugriff bald wieder öffnen. Bleiben Sie dran!</string>
     <string name="joox_auth_message_login_status_expired">Anmeldesitzung abgelaufen, erneut anmelden.</string>
     <string name="joox_auth_message_one_hour_limit_for_one_company">Sie können stündlich bis zu 6 Titel desselben Plattenlabels abspielen. Hören Sie sich vorerst einige empfohlene Titel an.</string>
     <string name="joox_auth_message_recommend_for_you">Empfohlen</string>
@@ -1294,7 +1294,7 @@
     <string name="repeat_all_notif">Alle Titel wiederholen</string>
     <string name="repeat_current_notif">Aktuellen Titel wiederholen</string>
     <string name="request_overlay_permission_desc">Erlauben Sie Mi Music, Popups anzuzeigen, um diese Funktion zu verwenden.</string>
-    <string name="request_privacy_permission_title">Lesen und akzeptieren Sie die nachstehenden allgemeinen Geschäftsbedingungen, um Zugang zu allen unseren Diensten zu erhalten.</string>
+    <string name="request_privacy_permission_title">Lesen und akzeptieren Sie die nachstehenden allgemeinen Geschäftsbedingungen, um Zugriff auf alle unsere Dienste zu erhalten.</string>
     <string name="request_share_info">Einen Moment…</string>
     <string name="request_subscription_status">Einen Moment…</string>
     <string name="restart_immediate">Neu starten</string>

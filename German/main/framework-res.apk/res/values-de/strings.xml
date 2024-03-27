@@ -1031,7 +1031,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="mmiErrorNotSupported">Funktion nicht unterstützt</string>
     <string name="mmiErrorWhileRoaming">Während des Roamings können Sie die Einstellungen für die Rufumleitung nicht von Ihrem Telefon aus ändern.</string>
     <string name="mmiFdnError">Vorgang ist nur auf Festnetznummern beschränkt.</string>
-    <string name="mobile_no_internet">Mobilfunknetz hat keinen Internetzugang</string>
+    <string name="mobile_no_internet">Mobilfunknetz hat keinen Internetzugriff</string>
     <string name="month_day_year" formatted="false">%-e. %B %Y</string>
     <string name="more_item_label">Mehr</string>
     <string name="move_button_text">Tippen Sie auf die Rahmentaste, um das gesamte Fenster zu verschieben</string>
@@ -1051,7 +1051,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="network_partial_connectivity">%1$s hat eine begrenzte Konnektivitä</string>
     <string name="network_partial_connectivity_detailed">Tippen, um trotzdem zu verbinden</string>
     <string name="network_switch_metered">Auf %1$s umgeschaltet</string>
-    <string name="network_switch_metered_detail">Gerät verwendet %1$s, wenn %2$s keinen Internetzugang hat. Es können Kosten anfallen.</string>
+    <string name="network_switch_metered_detail">Gerät verwendet %1$s, wenn %2$s keinen Internetzugriff hat. Es können Kosten anfallen.</string>
     <string name="network_switch_metered_toast">Von %1$s auf %2$s umgeschaltet</string>
     <string name="network_switch_type_name_unknown">Unbekannter Netzwerktyp</string>
     <string name="new_app_action">%1$s öffnen</string>
@@ -1149,7 +1149,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="pasted_from_clipboard">%1$s hat von Ihrer Zwischenablage eingefügt</string>
     <string name="perm_costs_money">Hierfür können Kosten anfallen.</string>
     <string name="permdesc_acceptHandovers">Erlaubt der App, einen Anruf fortzusetzen, der in einer anderen App gestartet wurde</string>
-    <string name="permdesc_accessBackgroundLocation">Wenn dies zusätzlich zum ungefähren oder präzisen Standortzugang gewährt wird, kann die App im Hintergrund auf den Standort zugreifen.</string>
+    <string name="permdesc_accessBackgroundLocation">Wenn dies zusätzlich zum ungefähren oder präzisen Standortzugriff gewährt wird, kann die App im Hintergrund auf den Standort zugreifen.</string>
     <string name="permdesc_accessCoarseLocation">Diese App kann Ihren Standort basierend auf Netzwerkquellen wie Mobilfunkmasten und WLAN-Netzen ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann.</string>
     <string name="permdesc_accessDrmCertificates">Erlaubt einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_accessFineLocation">Diese App kann Ihren Standort basierend auf GPS oder Netzwerkquellen wie Mobilfunkmasten und WLAN ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann. Dies kann den Akkuverbrauch erhöhen.</string>

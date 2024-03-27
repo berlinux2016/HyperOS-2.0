@@ -826,8 +826,8 @@
     <string name="exo_controls_fullscreen_exit_description">Vollbildmodus beenden</string>
     <string name="exo_controls_hide">Player-Steuerungen ausblenden</string>
     <string name="exo_controls_next_description">Nächster</string>
-    <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
-    <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen anzeigen</string>
+    <string name="exo_controls_overflow_hide_description">Weitere Einstellungen ausblenden</string>
+    <string name="exo_controls_overflow_show_description">Weitere Einstellungen anzeigen</string>
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>

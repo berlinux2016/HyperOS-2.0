@@ -127,7 +127,7 @@
         <item>Bildschirm anschalten</item>
         <item>Konten abrufen</item>
         <item>Im Hintergrund laufen</item>
-        <item>Zugang Lautstärke</item>
+        <item>Lautstärkezugriff</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>Ungefährer Standort</item>
@@ -690,7 +690,7 @@
         <item>Verzeichnis erstellen: mkdir /media/mtp</item>
         <item>"Benutzergruppenrechte in der aktuellen 'fuse user group' bestätigen"</item>
         <item>Erneut anmelden</item>
-        <item>Zugang zum gemounteten Gerät über: mtpfs /media/mtp via Dateimanager; wie lokaler Ordner</item>
+        <item>Zugriff auf gemountetes Gerät über: mtpfs /media/mtp via Dateimanager; wie lokaler Ordner</item>
         <item>"Gerät entfernen: fusermount -u /media/mtp
 Hinweis: Nur für Ubuntu 8.04!"</item>
     </string-array>

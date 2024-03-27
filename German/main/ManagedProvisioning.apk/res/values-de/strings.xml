@@ -60,7 +60,7 @@
     <string name="financed_device_screen_header">Dieses %1$s wurde auf Kredit bei %2$s gekauft</string>
     <string name="financed_make_payments_subheader_description">%1$s kann die %2$s-App installieren, damit Sie Zahlungen für dieses %3$s vornehmen können.</string>
     <string name="financed_make_payments_subheader_title">Zahlungen für dieses %1$s vornehmen</string>
-    <string name="financed_restrict_device_subheader_description">%1$s kann den Zugang zu diesem %2$s einschränken, wenn Sie keine Zahlungen leisten.</string>
+    <string name="financed_restrict_device_subheader_description">%1$s kann den Zugriff auf %2$s einschränken, wenn Sie keine Zahlungen leisten.</string>
     <string name="financed_restrict_device_subheader_title">Dieses %1$s kann eingeschränkt werden</string>
     <string name="fully_managed_device_cancel_setup_button">Einrichtung abbrechen</string>
     <string name="fully_managed_device_provisioning_accept_header">Lassen Sie uns Ihr Arbeitsgerät einrichten!</string>

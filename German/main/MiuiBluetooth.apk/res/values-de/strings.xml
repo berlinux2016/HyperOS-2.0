@@ -77,7 +77,7 @@
     <string name="bluetooth_profile_hid">Eingabegerät</string>
     <string name="bluetooth_profile_map">Textnachrichten</string>
     <string name="bluetooth_profile_opp">Dateitransfer</string>
-    <string name="bluetooth_profile_pan">Internetzugang</string>
+    <string name="bluetooth_profile_pan">Internetzugriff</string>
     <string name="bluetooth_profile_pan_nap">Internetverbindung teilen</string>
     <string name="bluetooth_profile_pbap">Kontakt teilen</string>
     <string name="bluetooth_profile_pbap_summary">Zum Kontakte teilen verwenden</string>
@@ -122,7 +122,7 @@
     <string name="disconnect_device">Gerät trennen</string>
     <string name="early_morning">Morgen</string>
     <string name="easy_tether_auto_connect_summary">Sie können den Hotspot einschalten und Geräte in der Nähe, die Ihr Konto verwenden, automatisch verbinden lassen, wenn sie nicht mit anderen Methoden auf das Netzwerk zugreifen können.</string>
-    <string name="easy_tether_auto_connect_summary_v2">Automatisch die Mobilfunkzelle oder den Hotspot einschalten und verbinden, wenn Geräte in der Nähe mit demselben Konto Internetzugang benötigen.</string>
+    <string name="easy_tether_auto_connect_summary_v2">Automatisch die Mobilfunkzelle oder den Hotspot einschalten und verbinden, wenn Geräte in der Nähe mit demselben Konto Internetzugriff benötigen.</string>
     <string name="easy_tether_auto_connect_toast">Verbunden mit dem Hotspot von %1$s. Legen Sie in diesem Gerät unter Einstellungen > Persönlicher Hotspot Datenlimits fest.</string>
     <string name="easy_tether_cancel">Nein</string>
     <string name="easy_tether_confirm">Ja</string>

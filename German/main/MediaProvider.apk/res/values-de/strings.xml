@@ -102,7 +102,7 @@
     <string name="picker_banner_cloud_dismiss_button">Ablehnen</string>
     <string name="picker_banner_cloud_first_time_available_desc">Sie können Fotos vom %1$s-Konto %2$s wählen</string>
     <string name="picker_banner_cloud_first_time_available_title">Gesicherte Fotos jetzt enthalten</string>
-    <string name="picker_browse">Durchsuchen...</string>
+    <string name="picker_browse">Durchsuchen…</string>
     <string name="picker_category_camera">Kamera</string>
     <string name="picker_category_favorites">Favoriten</string>
     <string name="picker_cloud_sync">Cloud-Medien von %1$s jetzt verfügbar</string>

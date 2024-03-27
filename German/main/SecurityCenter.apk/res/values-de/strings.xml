@@ -977,7 +977,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="behavior_widget_get_installed_apps">App-Zugriff</string>
     <string name="behavior_widget_get_location">Standortzugriff</string>
     <string name="behavior_widget_read_clipboard">Zwischenablagezugriff</string>
-    <string name="behavior_widget_read_contact">Kontaktzugriff</string>
+    <string name="behavior_widget_read_contact">Kontaktezugriff</string>
     <string name="behavior_widget_read_write_external_storage">Dateizugriff</string>
     <string name="best_booster_status">Spielgeschwindigkeit ist die beste, die derzeit verfügbar ist.</string>
     <string name="bg_network_exception_title">Hintergrundverbindung eingeschänkt</string>
@@ -5293,7 +5293,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="summary_cloud_account">Alle von Xiaomi angebotenen Dienste nutzen</string>
     <string name="summary_cloud_service">Synchronisieren Sie Ihre Fotos, Kontakte und mehr zwischen all Ihren Geräten</string>
     <string name="summary_cloud_space_almost_full">Speicherplatz holen</string>
-    <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und Zugang zu weiteren Funktionen</string>
+    <string name="summary_cloud_space_full">Holen Sie sich mehr Speicherplatz und Zugriff auf weitere Funktionen</string>
     <string name="summary_cmcc_app_check">Einige Apps wurden nicht verifiziert</string>
     <string name="summary_condition_charge_to_target">Wenn der Akku bis zum eingestellten\nWert geladen ist</string>
     <string name="summary_condition_charge_to_target_percent">Wenn der Akku bis %d%% geladen ist</string>

@@ -245,7 +245,7 @@
     <string name="remote_pbap_version_change">Versionsänderung des Remote-Telefonbuchprofils</string>
     <string name="remote_phonebook_feature_downgrade">Remote-Telefonbuchfunktion downgraden</string>
     <string name="repair_for_adv_phonebook_feature">Wieder koppeln für erweiterte Telefonbuchfunktionen</string>
-    <string name="repair_for_phonebook_access_version_comp">Wieder koppeln für Telefonbuchzugang-Versionskompatibilität</string>
+    <string name="repair_for_phonebook_access_version_comp">Wieder koppeln für Telefonbuchzugriff-Versionskompatibilität</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

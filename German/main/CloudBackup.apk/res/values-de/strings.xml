@@ -473,7 +473,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="session_backup_apk_text">Startbildschirm-Layout und Systemeinstellungen sichern…</string>
     <string name="session_ending_backup_text">Fast fertig…</string>
     <string name="session_ending_restore_text">Fast fertig…</string>
-    <string name="session_failed_app_usage_denied_detail">Diese App benötigt Zugang zur App-Nutzungsstatistik. Sie können diese Erlaubnis in den Einstellungen erteilen.</string>
+    <string name="session_failed_app_usage_denied_detail">Diese App benötigt Zugriff auf die App-Nutzungsstatistik. Sie können diese Erlaubnis in den Einstellungen erteilen.</string>
     <string name="session_failed_app_usage_denied_title">Berechtigungen erforderlich</string>
     <string name="session_failed_cloud_no_space_detail">Diese Sicherung benötigt mindestens %s Cloud-Speicher.</string>
     <string name="session_failed_cloud_no_space_title">Unzureichender Cloud-Speicher. Speicherplatz erweitern und erneut versuchen.</string>

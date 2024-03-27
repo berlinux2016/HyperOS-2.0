@@ -1834,7 +1834,7 @@ dd.MM."</string>
     <string name="wifitrackerlib_admin_restricted_network">Von Ihrer Firma nicht erlaubt</string>
     <string name="wifitrackerlib_auto_connect_disable">Auto-Verbinden ist aus</string>
     <string name="wifitrackerlib_available_via_app">Verfügbar über %1$s</string>
-    <string name="wifitrackerlib_checking_for_internet_access">Auf Internetzugang prüfen…</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Auf Internetzugriff prüfen…</string>
     <string name="wifitrackerlib_connected_via_app">Verbunden über %1$s</string>
     <string name="wifitrackerlib_osu_completing_sign_up">Anmeldung abschließen…</string>
     <string name="wifitrackerlib_osu_connect_failed">Verbinden fehlgeschlagen</string>

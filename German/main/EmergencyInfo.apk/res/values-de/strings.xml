@@ -195,31 +195,26 @@
     <string name="bluetooth_profile_vcp">Lautstärkeregler</string>
     <string name="bluetooth_sap_profile_summary_connected">Mit SAP erbunden</string>
     <string name="bluetooth_sap_profile_summary_use_for">Für SIM-Zugriff verweden</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth-Audio pro Abtastziffer</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Bluetooth Audio Codec auslösen
-Auswahl: Anzahl Bits pro Samples"</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth-Audiokanalmodus</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Bluetooth Audio Codec auslösen
-Auswahl: Kanalmodus"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabe-Qualität</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Bluetooth Audio LDAC auslösen
-Codec-Auswahl: Wiedergabe-Qualität"</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth-Audio-Abtastrate</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Bluetooth Audio Codec auslösen
-Auswahl: Sample Rate"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio - Bits pro Sample</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Bluetooth Audio Codec auslösen\nAuswahl: Bits pro Sample</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Audio Kanalmodus</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Bluetooth Audio Codec auslösen\nAuswahl: Kanalmodus</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Wiedergabequalität</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Bluetooth Audio LDAC Codec wählen:\n Wiedergabequalität</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Audio Abtastrate</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Bluetooth Audio Codec auslösen\nAuswahl: Abtastrate</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Bluetooth-Audiocodec</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Bluetooth Audio Codec auslösen
-auswählen"</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Audio Codec auslösen\n\nAuswahl</string>
     <string name="bluetooth_select_a2dp_codec_type_help_info">Ausgegraut bedeutet keine Unterstützung durch Telefon oder Headset</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Version wählen</string>
     <string name="bluetooth_select_map_version_dialog_title">Bluetooth MAP Version wählen</string>
     <string name="bluetooth_show_devices_without_names">Bluetooth-Geräte ohne Namen anzeigen</string>
-    <string name="bluetooth_show_devices_without_names_summary">Bluetooth-Geräte werden ohne Namen angezeigt (nur MAC-Adressen)</string>
-    <string name="bluetooth_talkback_group">Geräte gruppieren</string>
+    <string name="bluetooth_show_devices_without_names_summary">Bluetooth-Geräte ohne Namen (nur MAC-Adressen) werden angezeigt</string>
+    <string name="bluetooth_talkback_group">Gerätegruppe</string>
     <string name="bluetooth_talkback_headphone">Kopfhörer</string>
     <string name="bluetooth_talkback_imaging">Bildgebung</string>
-    <string name="bluetooth_talkback_input_peripheral">Eingabe-Peripheriegerät</string>
+    <string name="bluetooth_talkback_input_peripheral">Peripherie-Eingabegerät</string>
     <string name="bluetooth_talkback_phone">Telefon</string>
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>

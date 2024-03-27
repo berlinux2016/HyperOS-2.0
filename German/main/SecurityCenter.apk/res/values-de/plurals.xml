@@ -523,8 +523,8 @@ Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">Ihre Netzwerkoptimierung endet in %d Tag. Vielleicht treten dann Netzwerkverzögerungen auf. Jetzt die Sitzung verlängern?</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Netzwerkzugang beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
-        <item quantity="one">"Netzwerkzugang beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
+        <item quantity="other">"Netzwerkzugriff beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> Apps"</item>
+        <item quantity="one">"Netzwerkzugriff beschränkt auf &lt;font color='#ff0000'>%d&lt;/font> App"</item>
     </plurals>
     <plurals name="not_added_apps_count">
         <item quantity="other">%d Apps nicht hinzugefügt</item>

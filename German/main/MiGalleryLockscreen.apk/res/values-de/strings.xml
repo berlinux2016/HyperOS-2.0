@@ -87,7 +87,7 @@
     <string name="cancel_service_running">Dienste kündigen…</string>
     <string name="cancel_service_summary">Wenn Sie fortfahren, werden die Hintergrundkarussell-Dienste gekündigt. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Dienste trotzdem kündigen?</string>
     <string name="carousel_declaration_btn_text">Hintergrundkarussell einschalten</string>
-    <string name="carousel_declaration_cta">"Hintergrundkarussell benötigt eine Internetverbindung, um normal zu funktionieren. Um Zugang zu Online-Inhalten zu erhalten, müssen Sie unsere &lt;a href='%s'>Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?"</string>
+    <string name="carousel_declaration_cta">"Hintergrundkarussell benötigt eine Internetverbindung, um normal zu funktionieren. Um Zugriff auf Online-Inhalte zu erhalten, müssen Sie unsere &lt;a href='%s'>Datenschutzerklärung&lt;/a> akzeptieren. Zustimmen?"</string>
     <string name="carousel_declaration_cta_btn_text">Zustimmen und einschalten</string>
     <string name="carousel_declaration_des">Sehen Sie schöne Orte und erhalten Sie spannende Überraschungen mit Hintergrundkarussell</string>
     <string name="carousel_declaration_des2">Fügen Sie eigene Bilder zu Hintergrundkarussell hinzu</string>

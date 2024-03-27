@@ -137,7 +137,7 @@
     <string name="wifi_fail_to_scan">Netzwerksuche nicht möglich</string>
     <string name="wifitrackerlib_auto_connect_disable">Auto-Verbinden ist aus</string>
     <string name="wifitrackerlib_available_via_app">Verfügbar über %1$s</string>
-    <string name="wifitrackerlib_checking_for_internet_access">Internetzugang prüfen...</string>
+    <string name="wifitrackerlib_checking_for_internet_access">Internetzugriff prüfen…</string>
     <string name="wifitrackerlib_connected_via_app">Verbunden über %1$s</string>
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">APN vorübergehend voll</string>

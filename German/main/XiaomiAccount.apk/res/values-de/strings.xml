@@ -457,7 +457,7 @@
     <string name="operator_other">Rufnummer</string>
     <string name="optional_permissions">Optionale Berechtigungen</string>
     <string name="page_load_failed">Seite kann nicht geöffnet werden</string>
-    <string name="passport_access_denied">Zugang verweigert</string>
+    <string name="passport_access_denied">Zugriff verweigert</string>
     <string name="passport_account_crop_user_avatar">Foto zuschneiden</string>
     <string name="passport_account_empty_user_name">Name eingeben</string>
     <string name="passport_account_error_all_space_user_name">Name darf nicht leer sein</string>

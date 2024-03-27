@@ -692,8 +692,8 @@
     <string name="exo_controls_fullscreen_exit_description">Vollbildmodus beenden</string>
     <string name="exo_controls_hide">Player-Steuerungen ausblenden</string>
     <string name="exo_controls_next_description">Nächster</string>
-    <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
-    <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen anzeigen</string>
+    <string name="exo_controls_overflow_hide_description">Weitere Einstellungen ausblenden</string>
+    <string name="exo_controls_overflow_show_description">Weitere Einstellungen anzeigen</string>
     <string name="exo_controls_play_description">Abspielen</string>
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
@@ -1327,10 +1327,10 @@
     <string name="mw_miuichromium_error_page_network_hijack">Aktuelles Netzwerk ist nicht sicher</string>
     <string name="mw_miuichromium_error_page_network_off">WLAN oder mobile Daten einschalten</string>
     <string name="mw_miuichromium_error_page_no_network">Netzwerkverbindung fehlgeschlagen</string>
-    <string name="mw_miuichromium_error_page_problem_access_denied">Zugang zu %s0 wurde verweigert</string>
+    <string name="mw_miuichromium_error_page_problem_access_denied">Zugriff auf %s0 wurde verweigert</string>
     <string name="mw_miuichromium_error_page_problem_cache_miss">Zwischengespeicherte Version dieser Seite kann nicht geladen werden</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">Seite kann nicht geöffnet werden</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Seite kann nicht geöffnet werden, Zugang verweigert durch %s0 .</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Seite kann nicht geöffnet werden, Zugriff verweigert durch %s0 .</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">Seite kann nicht geöffnet werden, %s0 hat die Verbindung unterbrochen.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">Seite kann nicht geöffnet werden, %s0 verweigerte die Verbindung.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">Seite kann nicht geöffnet werden, Verbindung wurde zurückgesetzt.</string>

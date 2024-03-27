@@ -561,7 +561,7 @@
     <string name="wallpaper_group_shadow_geometry_title">Geometrie der Schatten</string>
     <string name="wallpaper_overlapping_space_title">Form und Schatten</string>
     <string name="waterdrop_preview">Tröpfchen</string>
-    <string name="wifi_assistant_wifi_no_internet">Dieses WLAN hat keinen Zugang zum Internet.</string>
+    <string name="wifi_assistant_wifi_no_internet">Dieses WLAN hat keinen Internetzugriff.</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tippen, um Details anzuzeigen.</string>
     <string name="wifi_disable_micar_p2p_dialog_message">Wenn Sie sich mit einem neuen WLAN verbinden, wird die Verbindung zwischen Ihrem Gerät und Ihrem Auto getrennt. Jetzt trennen?</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith">Wenn Sie sich mit einem neuen WLAN verbinden, wird die Verbindung zwischen Ihrem Gerät und CarWith getrennt. Jetzt trennen?</string>

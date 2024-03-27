@@ -72,7 +72,7 @@
     <string name="audio_record_perm_description">Zur Aufzeichnung von Schnarchen und Sprechen bei der Analyse des Schlafzyklus</string>
     <string name="audio_record_permission_description">Zur Aufnahme von Sprechen und Schnarchen bei der Analyse des Schlafzyklus</string>
     <string name="auth_description">%1$s erlauben, Daten von den folgenden Geräten zu synchronisieren</string>
-    <string name="auth_dialog_description">Empfehlungen einschalten?\n\nUm Ihnen Empfehlungen zu geben, werden wir Ihre Gesundheitsdaten an einen Drittdienstleister weitergeben. Zu den Elementen, die wir weitergeben werden, gehören private Daten (Alter, Geschlecht), Gesundheitsstatistiken (Größe, Gewicht, Workout-Routine), Verhaltensdaten (Start- und Endzeit sowie die Dauer Ihres Workouts).\n\nWir anonymisieren diese Elemente, bevor wir sie weitergeben, um zu verhindern, dass Drittdienstleister Sie anhand der erhaltenen Daten persönlich identifizieren können.\n\nWenn Sie keinen Zugang zu den empfohlenen Kursen erhalten möchten, können Sie immer noch die regulären Workouts verwenden.</string>
+    <string name="auth_dialog_description">Empfehlungen einschalten?\n\nUm Ihnen Empfehlungen zu geben, werden wir Ihre Gesundheitsdaten an einen Drittdienstleister weitergeben. Zu den Elementen, die wir weitergeben werden, gehören private Daten (Alter, Geschlecht), Gesundheitsstatistiken (Größe, Gewicht, Workout-Routine), Verhaltensdaten (Start- und Endzeit sowie die Dauer Ihres Workouts).\n\nWir anonymisieren diese Elemente, bevor wir sie weitergeben, um zu verhindern, dass Drittdienstleister Sie anhand der erhaltenen Daten persönlich identifizieren können.\n\nWenn Sie keinen Zugriff auf die empfohlenen Kurse erhalten möchten, können Sie immer noch die regulären Workouts verwenden.</string>
     <string name="auth_dialog_link">Um Ihre Rechte als Benutzer sowie die Art und Weise, in der wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#0D84FF\">&lt;a href=%2$s>Datenschutzerklärung&lt;/a>&lt;/font>.</string>
     <string name="auth_dialog_title">Empfohlene Kurse</string>
     <string name="auto_start_fail">Berechtigung wurde nicht erteilt</string>
@@ -938,7 +938,7 @@
     <string name="permission_check_result_failed">Einrichten nicht möglich</string>
     <string name="permission_manage">Rechte verwalten</string>
     <string name="permission_tip">Xiaomi Health folgende Berechtigungen erteilen, damit es Ihren Schlaf genau verfolgen kann</string>
-    <string name="personal_course_recommend_subtitle">Erhalten Sie Zugang zu den Kursen, die Ihnen auf Basis Ihrer personenbezogenen Daten, Gesundheitsdaten und Vorlieben empfohlen werden</string>
+    <string name="personal_course_recommend_subtitle">Erhalten Sie Zugriff auf die Kurse, die Ihnen auf Basis Ihrer personenbezogenen Daten, Gesundheitsdaten und Vorlieben empfohlen werden.</string>
     <string name="personal_course_recommend_title">Empfohlene Kurse</string>
     <string name="phone_detection">Automatisch erkannt</string>
     <string name="photograph">Kamera</string>

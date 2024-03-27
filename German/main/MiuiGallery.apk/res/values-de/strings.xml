@@ -490,7 +490,7 @@
     <string name="backup_settings_banner_title_off">Sicherung ist aus</string>
     <string name="backup_settings_banner_title_on">Sicherung ist an</string>
     <string name="backup_settings_jump_err">Google Fotos-Sicherung wurde nicht aktiviert</string>
-    <string name="backup_settings_more">Zusätzliche Einstellungen</string>
+    <string name="backup_settings_more">Weitere Einstellungen</string>
     <string name="backup_stop">Sicherung anhalten</string>
     <string name="backup_sync_dialog_confirm">Einschalten</string>
     <string name="backup_sync_dialog_tips">Synchronisation mit der Cloud einschalten, um Einstellungen zu ändern</string>
@@ -2575,7 +2575,7 @@
     <string name="security_share_subtitle_hide">Standortdaten wurden entfernt</string>
     <string name="security_share_subtitle_no_hide">Enthält Standortdaten</string>
     <string name="see_ignore_faces">Ignorierte Personen anzeigen</string>
-    <string name="see_more_settings">Zusätzliche Einstellungen</string>
+    <string name="see_more_settings">Weitere Einstellungen</string>
     <string name="segment_change_background">Hintergrund ändern</string>
     <string name="segment_copy">Kopieren</string>
     <string name="segment_copy_fail">Kopieren fehlgeschlagen</string>
