@@ -199,7 +199,7 @@
     <string name="help_and_feedback">Hilfe &amp; Feedback</string>
     <string name="input_password_hint">Passwort eingeben</string>
     <string name="keybag_create_by_new_passcode_prompt">Dieser Passcode schützt Ihre in der Cloud gespeicherten Passwörter. Sie können nicht mehr auf sie zugreifen, wenn Sie diesen Passcode vergessen.</string>
-    <string name="keybag_create_by_screen_password_prompt">Dieser Passcode schützt Ihre in der Cloud gespeicherten Passwörter. Geben Sie Ihre Bildschirmsperre ein, um sie als Kennwort für den Password-Manager festzulegen.</string>
+    <string name="keybag_create_by_screen_password_prompt">Dieser Passcode schützt Ihre in der Cloud gespeicherten Passwörter. Geben Sie Ihre Bildschirmsperre ein, um sie als Kennwort für den Passwort-Manager festzulegen.</string>
     <string name="keybag_dialog_cancel">Abbrechen</string>
     <string name="keybag_install_by_passcode_prompt">Dieser Passcode schützt Ihre in der Cloud gespeicherten Passwörter. Sie haben ihn bereits festgelegt, als Sie die Cloud-Synchronisierung für den Passwort-Manager aktiviert haben.</string>
     <string name="keybag_password_check_screen_lock">Bildschirmsperre eingeben</string>

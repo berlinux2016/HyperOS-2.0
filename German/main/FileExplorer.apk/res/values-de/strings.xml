@@ -747,7 +747,7 @@
     <string name="server_control_advanced_settings">Weitere Einstellungen</string>
     <string name="server_control_charset">Übertragungscodierung</string>
     <string name="server_control_settings">Einstellungen</string>
-    <string name="set_pattern">Password erneuern</string>
+    <string name="set_pattern">Passwort erneuern</string>
     <string name="set_pattern_btn">Festgelegt</string>
     <string name="set_pattern_msg">Passwort erneut festlegen. Datenschutz-Passwort funktioniert auch für Fotos, Nachrichten und Notizen.</string>
     <string name="size_lv1">Kleiner als %d KB</string>

@@ -163,7 +163,7 @@
     <string name="accessibility_select_shortcut_menu_title">Funktion antippen, um sie zu verwenden:</string>
     <string name="accessibility_service_action_perform_description">Ihre Interaktionen mit einer App oder einem Hardwaresensor können verfolgt und in Ihrem Namen mit Apps interagiert werden.</string>
     <string name="accessibility_service_action_perform_title">Anzeigen und Ausführen von Aktionen</string>
-    <string name="accessibility_service_screen_control_description">Alle Inhalte am Bildschirm können gelesen und Inhalte über andere Apps angezeigt werden.</string>
+    <string name="accessibility_service_screen_control_description">Alle Inhalte am Bildschirm können gelesen und Inhalte über anderen Apps angezeigt werden.</string>
     <string name="accessibility_service_screen_control_title">Bildschirm anzeigen und steuern</string>
     <string name="accessibility_service_warning_description">Volle Kontrolle ist für Apps geeignet, die Sie als Eingabehilfen unterstützen, aber nicht für die meisten Apps.</string>
     <string name="accessibility_shortcut_disabling_service">Lautstärketasten gehalten. %1$s ausgeschaltet.</string>
@@ -233,10 +233,10 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="aerr_report">Feedback senden</string>
     <string name="aerr_restart">App erneut öffnen</string>
     <string name="aerr_wait">Warten</string>
-    <string name="alert_windows_notification_channel_group_name">Über anderen Apps anzeigen</string>
-    <string name="alert_windows_notification_channel_name">%s über anderen Apps anzeigen</string>
+    <string name="alert_windows_notification_channel_group_name">Andere Apps überlagern</string>
+    <string name="alert_windows_notification_channel_name">%s überlagert andere Apps</string>
     <string name="alert_windows_notification_message">Wenn %s diese Funktion nicht verwenden soll, öffnen Sie Einstellungen und schalten Sie es aus.</string>
-    <string name="alert_windows_notification_title">%s wird über anderen Apps angezeigt</string>
+    <string name="alert_windows_notification_title">%s überlagert andere Apps</string>
     <string name="alert_windows_notification_turn_off_action">Ausschalten</string>
     <string name="allow">Erlauben</string>
     <string name="alwaysUse">Immer für diese Aktion verwenden</string>
@@ -1073,7 +1073,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="notification_app_name_settings">Einstellungen</string>
     <string name="notification_appops_camera_active">Kamera</string>
     <string name="notification_appops_microphone_active">Mikrofon</string>
-    <string name="notification_appops_overlay_active">Am Bildschirm über anderen Apps anzeigen</string>
+    <string name="notification_appops_overlay_active">Am Bildschirm andere Apps überlagern</string>
     <string name="notification_channel_abusive_bg_apps">Hintergrundaktivität</string>
     <string name="notification_channel_accessibility_magnification">Vergrößerung</string>
     <string name="notification_channel_accessibility_security_policy">Verwendung Eingabehilfen</string>
@@ -1291,7 +1291,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_statusBar">Erlaubt der App, die Statusleiste zu deaktivieren oder Systemsymbole hinzuzufügen oder zu entfernen</string>
     <string name="permdesc_statusBarService">Erlaubt der App, zur Statusleiste zu werden</string>
     <string name="permdesc_subscribedFeedsRead">Erlaubt der App, Details zu den zurzeit synchronisierten Feeds abzurufen</string>
-    <string name="permdesc_systemAlertWindow">Diese App kann über anderen Apps oder anderen Teilen des Bildschirms erscheinen. Dies kann die normale App-Nutzung beeinträchtigen und die Darstellung anderer Apps verändern.</string>
+    <string name="permdesc_systemAlertWindow">Diese App kann andere Apps oder andere Teile des Bildschirms überlagern. Dies kann die normale App-Nutzung beeinträchtigen und die Darstellung anderer Apps verändern.</string>
     <string name="permdesc_systemCamera">Diese privilegierte oder System-App kann jederzeit Bilder und Videos mit einer Systemkamera aufnehmen. Erfordert, dass die android.permission.CAMERA-Berechtigung auch von der App gehalten wird</string>
     <string name="permdesc_transmitIr">Erlaubt der App, den Infrarot-Sender des Telefons zu verwenden.</string>
     <string name="permdesc_turnScreenOn">Erlaubt der App, den Bildschirm einzuschalten.</string>
@@ -1488,7 +1488,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permlab_statusBar">Statusleiste deaktivieren oder ändern</string>
     <string name="permlab_statusBarService">Statusleiste sein</string>
     <string name="permlab_subscribedFeedsRead">Abonnierte Feeds lesen</string>
-    <string name="permlab_systemAlertWindow">Diese App kann über anderen Apps erscheinen</string>
+    <string name="permlab_systemAlertWindow">Diese App kann andere Apps überlagern</string>
     <string name="permlab_systemCamera">Erlaubt einer App oder einem Dienst den Zugriff auf Systemkameras, um Bilder und Videos aufzunehmen</string>
     <string name="permlab_transmitIr">Kann Infrarot übertragen</string>
     <string name="permlab_turnScreenOn">Bildschirm einschalten</string>

@@ -322,8 +322,8 @@
     <string name="enable_opengl_traces_title">OpenGL-Spuren aktivieren</string>
     <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugriff bietet</string>
     <string name="enable_terminal_title">Lokales Terminal</string>
-    <string name="enable_verbose_vendor_logging">Ausführliche Vendor-Protokollierung einschalten</string>
-    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Protokolle in Fehlerberichte einbeziehen, die eventuell private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen</string>
+    <string name="enable_verbose_vendor_logging">Ausführliches Vendor-Logging aktivieren</string>
+    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Logs in Fehlerberichte einbeziehen, die eventuell private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
     <string name="enabled_by_admin">Vom Administrator aktiviert</string>
     <string name="enhanced_connectivity_summary">Aktiviert die Funktion Erweiterte Konnektivität</string>
     <string name="error_a11y_label">Fehler: ungültig</string>

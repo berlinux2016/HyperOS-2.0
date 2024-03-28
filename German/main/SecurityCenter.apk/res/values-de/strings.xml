@@ -3354,9 +3354,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="other_milink_connect">Casting fehlgeschlagen. Ein weiteres Merkmal wird gerade übertragen.</string>
     <string name="other_operator_name_virtual_operator">Andere virtuelle Anbieter</string>
     <string name="over_package_reminder_type">Wenn der Datentarif verbraucht ist</string>
-    <string name="overlay_permission_dialog_comment">Sicherheit erlauben, Elemente über anderen Apps anzuzeigen</string>
-    <string name="overlay_permission_dialog_comment_pad">Sicherheit erlauben, Elemente über anderen Apps anzuzeigen</string>
-    <string name="overlay_permission_dialog_comment_security_service">\"Sicherheits-Tools\" erlauben, Elemente über anderen Apps anzuzeigen. Sie können diese Berechtigung in Einstellungen erteilen.</string>
+    <string name="overlay_permission_dialog_comment">Sicherheit darf andere Apps mit Elementen überlagern</string>
+    <string name="overlay_permission_dialog_comment_pad">Sicherheit darf andere Apps mit Elementen überlagern</string>
+    <string name="overlay_permission_dialog_comment_security_service">\"Sicherheits-Tools\" dürfen andere Apps mit Elementen überlagern. Sie können diese Berechtigung in Einstellungen erteilen.</string>
     <string name="overlay_permission_dialog_message">Sicherheit benötigt Berechtigungen, um normal zu funktionieren</string>
     <string name="overlay_permission_dialog_message_pad">Sicherheit benötigt Berechtigungen, um normal zu funktionieren</string>
     <string name="overlay_permission_dialog_message_security_service">Sicherheit benötigt bestimmte Berechtigungen, um normal zu funktionieren</string>
@@ -4993,8 +4993,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_website_scan_summary">Sicheres Surfen im Internet</string>
     <string name="sp_website_scan_title">Webseiten prüfen</string>
     <string name="special_number_group">Gemeldete Nummern blockieren</string>
-    <string name="special_perm_above_msg">Apps dürfen Elemente über andere Apps anzeigen</string>
-    <string name="special_perm_above_title">Elemente über anderen Apps anzeigen</string>
+    <string name="special_perm_above_msg">Apps dürfen andere Apps mit Elementen überlagern</string>
+    <string name="special_perm_above_title">Andere Apps mit Elementen überlagern</string>
     <string name="special_perm_allow_running_msg">Apps dürfen mobile Datennutzungslimits ignorieren</string>
     <string name="special_perm_allow_running_title">Datennutzungslimits ignorieren</string>
     <string name="special_perm_app_msg">Apps dürfen bestimmen, ob sie nur als Arbeits-Apps verwendet werden sollen</string>
@@ -5023,7 +5023,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="special_perm_intercept_chat_msg">Inkl. Benachrichtigungen aus WeChat und QQ</string>
     <string name="special_perm_intercept_chat_title">Benachrichtigungen von Instant Messengern lesen</string>
     <string name="special_perm_intercept_check_tip">Ich bin mir der möglichen Risiken bewusst und nehme alle möglichen Konsequenzen freiwillig auf mich.</string>
-    <string name="special_perm_intercept_control_screen_msg">Alle Bildschirminhalte lesen und die Anzeige von Elementen über andere Apps erlauben</string>
+    <string name="special_perm_intercept_control_screen_msg">Alle Bildschirminhalte lesen und die Anzeige von Elementen über anderen Apps erlauben</string>
     <string name="special_perm_intercept_control_screen_title">Alle Bildschirminhalte lesen und Bildschirm steuern</string>
     <string name="special_perm_intercept_data_msg">Alle Daten auf diesem Gerät ohne Erlaubnis löschen</string>
     <string name="special_perm_intercept_data_title">Alle Daten löschen</string>

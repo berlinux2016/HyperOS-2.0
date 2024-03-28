@@ -1913,7 +1913,7 @@
     <string name="passport_bad_authentication">Benutzername oder Passwort ungültig</string>
     <string name="passport_can_not_receive_verification_code">Verifizierungscode nicht erhalten?</string>
     <string name="passport_can_not_recevie_verify_code">Code nicht erhalten?</string>
-    <string name="passport_change_password">Change password</string>
+    <string name="passport_change_password">Passwort ändern</string>
     <string name="passport_check_security">Auf Sicherheitsprobleme prüfen…</string>
     <string name="passport_checking_account">Passwort prüfen…</string>
     <string name="passport_clear_input">Eingegebenen Inhalt löschen</string>

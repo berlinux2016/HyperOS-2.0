@@ -1577,7 +1577,7 @@
     <string name="puk2_blocked">PUK2 ist dauerhaft gesperrt</string>
     <string name="puk2_label">PUK%d eingeben</string>
     <string name="puk2_locked">PUK2 gesperrt. Zum Entsperren Dienstanbieter kontaktieren.</string>
-    <string name="puk2_requested">Password falsch. SIM jetzt gesperrt. PUK2 eingeben.</string>
+    <string name="puk2_requested">Passwort falsch. SIM jetzt gesperrt. PUK2 eingeben.</string>
     <string name="puk_label">PUK eingeben</string>
     <string name="puk_lock_warning">\nIhre SIM wird nach einem weiteren gescheiterten Versuch gesperrt.</string>
     <string name="puk_requested">Passwort falsch. PIN jetzt gesperrt. PUK erforderlich.</string>
