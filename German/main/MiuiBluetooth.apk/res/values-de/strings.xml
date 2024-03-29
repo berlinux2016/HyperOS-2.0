@@ -112,6 +112,7 @@
     <string name="confignet_app_download">Installieren</string>
     <string name="confignet_cancel">Abbrechen</string>
     <string name="confignet_download_title">Mi Fitness installieren, um fortzufahren</string>
+    <string name="cooler_reset">Zum Koppeln %d-mal drücken</string>
     <string name="copy">Kopieren</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
