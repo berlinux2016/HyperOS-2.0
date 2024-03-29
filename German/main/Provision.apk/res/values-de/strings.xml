@@ -599,7 +599,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="shut_down">Schließen</string>
     <string name="sim_activation_introduction">Der SIM-Kartenaktivierungsdienst prüft die Daten der aktuell eingelegten SIM-Karte, um sicherzustellen, dass die Systemdienste normal funktionieren. Zu diesen Diensten gehören Gerät finden, Mi Message, das Erstellen von Xiaomi-Konten mithilfe von Rufnummern und die Synchronisation von Nachrichten und Anruflisten.</string>
     <string name="sim_card_detecting">SIM-Karte prüfen…</string>
-    <string name="sim_card_detecting_check">SIM-Karte nicht gefunden. Achten Sie darauf, dass die SIM-Karte richtig installiert ist und Sie über genügend Guthaben verfügen.</string>
+    <string name="sim_card_detecting_check">SIM-Karte nicht gefunden. SIM-Karte muss richtig installiert sein und Sie müssen über genügend Guthaben verfügen.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Verbindung zu mobilen Datennetzen zulassen? In diesem Fall wird die eingelegte SIM-Karte zur Verbindung mit mobilen Datennetzen verwendet.</string>
     <string name="sim_card_detecting_title">SIM-Karte prüfen…</string>
     <string name="sim_card_detection">SIM-Karte einsetzen</string>
@@ -614,7 +614,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="sim_card_network_card">Daten-SIM %d</string>
     <string name="sim_dectection_next">Weiter</string>
     <string name="sim_redetection">Erneut prüfen</string>
-    <string name="sim_scard_detecting_check_mobile_not_available">Ihre SIM-Karte konnte sich nicht mit einem gültigen Mobilfunknetz verbinden. Achten Sie darauf, dass Sie genügend Guthaben besitzen und versuchen Sie es erneut.</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">Ihre SIM-Karte konnte sich nicht mit einem gültigen Mobilfunknetz verbinden. Sie müssen über genügend Guthaben verfügen. Erneut versuchen.</string>
     <string name="skip_gesture_guide_dialog_message">Sie müssen wissen, wie man Vollbildgesten verwendet, bevor Sie diese Option wählen.</string>
     <string name="skip_gesture_guide_dialog_negative_btn">Abbrechen</string>
     <string name="skip_gesture_guide_dialog_title">Vollbildgesten</string>

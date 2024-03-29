@@ -9047,7 +9047,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="structure_face_data_introduction_title">3D-Gesichtsdaten hinzufügen</string>
     <string name="structure_face_data_ir_input_face">Kopf leicht bewegen</string>
     <string name="structure_face_data_manage_delete_msg">3D-Gesichtsdaten löschen</string>
-    <string name="structure_face_data_suggestion_text">Alle Teile Ihres Gesichts müssen deutlich sichtbar sein. Tragen Sie während der Aufnahme von 3D-Gesichtsdaten keine Hüte, Sonnenbrillen oder andere Accessoires, die Ihr Gesicht verdecken könnten. Achten Sie darauf, dass Ihr Gesicht gleichmäßig beleuchtet ist.</string>
+    <string name="structure_face_data_suggestion_text">Alle Teile Ihres Gesichts müssen deutlich sichtbar sein. Tragen Sie während der Aufnahme von 3D-Gesichtsdaten keine Hüte, Sonnenbrillen oder andere Accessoires, die Ihr Gesicht verdecken könnten. Ihr Gesicht muss gleichmäßig beleuchtet sein.</string>
     <string name="structure_face_data_suggestion_warning_text">Hinweis: Die Verwendung von 3D-Gesichtsdaten ist etwas weniger sicher als ein Passwort. Personen oder Objekte, die Ihnen sehr ähnlich sehen, könnten Ihr Gerät eventuell entsperren.</string>
     <string name="structure_face_delete_data_dialog_msg">Kamera starten und Vorschau anzeigen fehlgeschlagen. Erneut versuchen.</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Erneut versuchen</string>

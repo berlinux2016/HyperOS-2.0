@@ -1846,7 +1846,7 @@
     <string name="smart_switch_dual_sim_prompt">Für die Verbindung mit dem mobilen Datennetz über SIM %1$s können zusätzliche Kosten entstehen. Legen Sie ein Limit für die Datennutzung fest, um zusätzliche Kosten zu vermeiden.</string>
     <string name="smart_switch_dual_sim_summary">Automatisch zwischen Daten-SIM-Karten wechseln, je nach Qualität der Netzwerkverbindung und Gerätestatus</string>
     <string name="smart_switch_dual_sim_title">Zwischen Daten-SIM-Karten wechseln</string>
-    <string name="smsc_dialog_message">Achten Sie darauf, dass die von Ihnen eingegebene Nummer korrekt ist. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Anbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
+    <string name="smsc_dialog_message">Eingegebene Nummer muss korrekt sein. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Anbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>

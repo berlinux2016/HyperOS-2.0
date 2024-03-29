@@ -315,7 +315,7 @@
     <string name="ambient_lighting_type_wind">Windböe</string>
     <string name="ambilight_description_title">Über Langzeitbelichtung</string>
     <string name="ambilight_intro_crowd_moving_part1">Wenn Sie auf einer belebten Straße fotografieren, bitten Sie Ihr Motiv, still zu stehen. Andere Personen erscheinen als unscharfe Spuren.</string>
-    <string name="ambilight_intro_crowd_moving_part2">Sie können auch Bilder von regem Verkehr und sich bewegenden Menschenmengen machen. Bei Langzeitbelichtung bleiben die Gebäude scharf, aber alle sich bewegenden Objekte sind unscharf.</string>
+    <string name="ambilight_intro_crowd_moving_part2">Sie können auch Bilder von regem Verkehr und sich bewegenden Menschenmengen machen. Bei Langzeitbelichtung bleiben die Gebäude scharf, aber alle sich bewegenden Motive sind unscharf.</string>
     <string name="ambilight_intro_light_track">Verwenden Sie eine Lichtquelle, um über eine dunkle Szene zu \"malen\", um alle beleuchteten Teile in einem Bild zusammenzubringen.</string>
     <string name="ambilight_intro_magic_star">Verwenden Sie diesen Modus an Orten mit geringer Lichtverschmutzung. Die Belichtung wird auf %d Sekunden eingestellt, daher ist die Verwendung eines Stativs eine gute Idee.</string>
     <string name="ambilight_intro_magic_star_ae">Verwenden Sie diesen Modus an Orten mit geringer Lichtverschmutzung. Die Belichtung kann bis zu %d Sekunden eingestellt werden, daher ist die Verwendung eines Stativs eine gute Idee.</string>
@@ -347,7 +347,7 @@
     <string name="audio_track_mutex_truecolor_setting_tips">Source Tracking wird für Dolby Vision/8K/%sFPS-Videos nicht unterstützt</string>
     <string name="auto_hibernation_enter_tip">Bildschirm wird gerade ausgeschaltet…</string>
     <string name="auto_recommend_switch_lens">Mehrere Personen erkannt. Auf 0.6X schalten für beste Wirkung.</string>
-    <string name="autozoom_click_hint">Tippen Sie auf ein Objekt, um es während der Bewegung scharf zu halten. Bleiben Sie mindestens %d Meter entfernt, um den besten Effekt zu erzielen.</string>
+    <string name="autozoom_click_hint">Tippen Sie auf ein Motiv, um es während der Bewegung scharf zu halten. Bleiben Sie mindestens %d Meter entfernt, um den besten Effekt zu erzielen.</string>
     <string name="autozoom_disabled_hint">Verfolgen eines beweglichen Motivs gestoppt</string>
     <string name="autozoom_hint">Bewegliches Motiv verfolgen</string>
     <string name="autozoom_landscape_hint">Im Querformat aufnehmen für besten Effekt</string>
@@ -522,8 +522,8 @@
     <string name="clone_guide_copy_tip7">Experimentieren Sie mit Posen.</string>
     <string name="clone_guide_copy_title2">Videos mit Standbild</string>
     <string name="clone_guide_tip1">Klonen funktioniert nur mit Menschen.</string>
-    <string name="clone_guide_tip3">Vermeiden Sie bewegte Objekte und eintönige Hintergründe.</string>
-    <string name="clone_guide_tip4">Halten Sie Ihr Gerät ruhig und achten Sie darauf, dass Ihr Motiv ausreichend beleuchtet ist.</string>
+    <string name="clone_guide_tip3">Vermeiden Sie bewegte Motive und eintönige Hintergründe.</string>
+    <string name="clone_guide_tip4">Halten Sie Ihr Gerät ruhig. Ihr Motiv muss ausreichend beleuchtet sein.</string>
     <string name="clone_guide_tip5">Experimentieren Sie mit Posen.</string>
     <string name="clone_guide_tip6">Lassen Sie Klone kämpfen.</string>
     <string name="clone_guide_tip7">Erfassen Sie Interaktionen.</string>
@@ -621,7 +621,7 @@
     <string name="confirm_install_scanner_message">Mit Scanner können Sie QR-Codes, Strichcodes und mehr scannen. Sie benötigen keine Internetverbindung für die Installation.</string>
     <string name="confirm_install_scanner_title">Scanner installieren</string>
     <string name="confirm_location_alert">Aufnahmestandort speichern</string>
-    <string name="confirm_location_message"><Data>Willkommen bei Kamera! Durch Markierung Ihrer Fotos und Videos mit den Orten, an denen sie aufgenommen wurden, wird Ihre Galerie übersichtlicher und hilft Ihnen, Objekte schneller zu finden. Einige Funktionen sind möglicherweise nicht verfügbar, wenn Sie das Hinzufügen von Standortdaten einschränken.&lt;br/>&lt;br/>Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.</Data></string>
+    <string name="confirm_location_message"><Data>Willkommen bei Kamera! Durch Markierung Ihrer Fotos und Videos mit den Orten, an denen sie aufgenommen wurden, wird Ihre Galerie übersichtlicher und hilft Ihnen, Objekte schneller zu finden. Einige Funktionen sind ggf. nicht verfügbar, wenn Sie das Hinzufügen von Standortdaten einschränken.&lt;br/>&lt;br/>Wir werden Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien schützen.</Data></string>
     <string name="confirm_location_title">Aufnahmestandort speichern?</string>
     <string name="confirm_recording_fail_calling_alert">Aufnahme während eines Anrufs nicht möglich</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Eine andere App benutzt vermutlich das Gerätemikrofon, um etwas aufzunehmen</string>
@@ -774,8 +774,8 @@
     <string name="download_waiting">Ausstehend…</string>
     <string name="dual_camera_lens_covered_toast">Linse verdeckt</string>
     <string name="dual_camera_lowlight_toast">Anscheinend ist es zu dunkel.</string>
-    <string name="dual_camera_too_close_toast">Die Kamera ist zu nah am Objekt.</string>
-    <string name="dual_camera_use_hint">Achten Sie darauf, dass das Objekt nicht weiter als 2 Meter entfernt ist.</string>
+    <string name="dual_camera_too_close_toast">Die Kamera ist zu nah am Motiv.</string>
+    <string name="dual_camera_use_hint">Motiv darf nicht weiter als 2 Meter entfernt sein.</string>
     <string name="dual_video_record_merged">Kombiniert</string>
     <string name="dual_video_record_remote">Duale Telefonaufnahme</string>
     <string name="dual_video_record_standalone">Getrennt</string>
@@ -2201,9 +2201,9 @@
     <string name="street_middle_desc">%1$s-Meter Fokussierabstand</string>
     <string name="street_near_desc">%1$s-Meter Fokussierabstand</string>
     <string name="street_preferred_description">Um diese Funktion zu aktivieren, gehen Sie zu Einstellungen > Kamera starten und wählen Sie \"Foto machen\"</string>
-    <string name="street_tip_far">Objekt innerhalb von %d Metern platzieren</string>
-    <string name="street_tip_middle">Objekt innerhalb von %d Metern platzieren</string>
-    <string name="street_tip_near">Objekt innerhalb von %1$s Metern platzieren</string>
+    <string name="street_tip_far">Motiv innerhalb von %d Metern platzieren</string>
+    <string name="street_tip_middle">Motiv innerhalb von %d Metern platzieren</string>
+    <string name="street_tip_near">Motiv innerhalb von %1$s Metern platzieren</string>
     <string name="street_top_tip">Schärfentiefe: %1$sm - %2$sm</string>
     <string name="street_top_tip_infinity">Schärfentiefe: %1$sm - %2$s</string>
     <string name="subtitle_network_exception_tips">Netzwerkverbindung fehlgeschlagen. Umwandeln nicht möglich.</string>

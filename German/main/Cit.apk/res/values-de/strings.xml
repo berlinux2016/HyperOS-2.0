@@ -173,7 +173,7 @@ Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautspreche
     <string name="cit_bluetooth_scanning_opening_bluetooth">Bluetooth-Gerät öffnen…</string>
     <string name="cit_bottom_left_speaker_test">Test unterer Lautsprecher links</string>
     <string name="cit_bottom_right_speaker_test">Test unterer Lautsprecher rechts</string>
-    <string name="cit_btn_security_test_summary">"1. Bitte drücken Sie die Taste und warten Sie eine Weile; achten Sie darauf, den Netzwerkstatus zu prüfen.
+    <string name="cit_btn_security_test_summary">"1. Bitte drücken Sie die Taste und warten Sie eine Weile; prüfen Sie den Netzwerkstatus.
 2. Wenn Update erfolgreich erscheint, bedeutet dies, dass das Widevine-Zertifikat erfolgreich aktualisiert wurde.
 3. Wenn Zertifikatsaktualisierung fehlgeschlagen erscheint, bedeutet dies, dass die Aktualisierung des Widevine-Zertifikats fehlgeschlagen ist.
 4. Dieses Tool wird nicht als regulärer Test verwendet.
