@@ -327,7 +327,7 @@
     <string name="international_home_pull_up_content">Auf Startbildschirm hochwischen, um das Inhaltszentrum zu öffnen.</string>
     <string name="international_home_pull_up_sub_content">Zum Öffnen der Suche von der Mitte des Startbildschirms runterwischen.</string>
     <string name="jeejen_description">Größere UI-Elemente.\nBesser zugängliches Telefonieren.\nErhöhte Sicherheit.</string>
-    <string name="key_shortcut_settings_title">Tastenverknüpfungen</string>
+    <string name="key_shortcut_settings_title">Tastenkürzel</string>
     <string name="keyguard_multi_window_tip">Diese Seite kann nur im Vollbildmodus angezeigt werden</string>
     <string name="label">Beschriftung</string>
     <string name="launcher_icon_management">Startbildschirm-Verknüpfungen verwalten</string>

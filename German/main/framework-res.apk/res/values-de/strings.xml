@@ -1878,7 +1878,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="user_creation_adding">%1$s erlauben, einen neuen Benutzer mit %2$s anzulegen?</string>
     <string name="user_logging_out_message">%1$s abmelden…</string>
     <string name="user_owner_app_label">Zur/zum persönlichen %1$s wechseln</string>
-    <string name="user_owner_label">Zum persönlichen Profil wechseln</string>
+    <string name="user_owner_label">Zum Privatprofil wechseln</string>
     <string name="user_switched">Aktueller Benutzer %1$s</string>
     <string name="user_switching_message">Wechseln zu %1$s…</string>
     <string name="validity_period">Gültigkeit:</string>

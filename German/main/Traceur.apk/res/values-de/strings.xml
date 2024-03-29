@@ -54,7 +54,7 @@
     <string name="failed_to_open_app_settings_toast">Einstellungen für %1$s öffnen fehlgeschlagen</string>
     <string name="help_feedback_label">Hilfe &amp; Feedback</string>
     <string name="help_label">Hilfe &amp; Feedback</string>
-    <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Eingabemethode verwenden?</string>
+    <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie gehört zu %1$s. Eingabemethode verwenden?</string>
     <string name="install_type_instant">Instant App</string>
     <string name="keywords">systrace, trace, leistung</string>
     <string name="lb_navigation_menu_contentDescription">Navigationsmenü</string>

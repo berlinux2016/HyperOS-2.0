@@ -725,7 +725,7 @@
     <string name="how_to_use_drawer_summary">Wischen Sie im oberen Bildschirmbereich nach rechts</string>
     <string name="how_to_use_fsg">Sie können diese Aktionen mit Gesten durchführen:</string>
     <string name="humidity_format">Feuchtigkeit %s</string>
-    <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. persönlicher Daten wie Passwörter und Kreditkartennummern. Sie gehört zur App %1$s. Diese Eingabemethode verwenden?</string>
+    <string name="ime_security_warning">Diese Eingabemethode kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie gehört zu %1$s. Eingabemethode verwenden?</string>
     <string name="inattentive_sleep_warning_message">Gerät wird sich bald ausschalten; drücken, um es eingeschaltet zu lassen.</string>
     <string name="inline_done_button">Fertig</string>
     <string name="inline_ok_button">Anwenden</string>
@@ -1072,7 +1072,7 @@ dd.MM."</string>
     <string name="monitoring_description_managed_device_named_vpn">Dieses Gerät ist über %1$s mit dem Internet verbunden. Ihre Netzwerkaktivitäten, inkl. E-Mails und Browsing-Daten, sind für Ihren IT-Admin sichtbar.</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Ihre Firma hat in Ihrem Arbeitsprofil eine Zertifizierung eingerichtet. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Ihre Arbeits-Apps sind über %1$s mit dem Internet verbunden. Ihre Netzwerkaktivitäten in Arbeits-Apps, inkl. E-Mails und Browsing-Daten, sind für Ihren IT-Administrator und VPN-Anbieter sichtbar.</string>
-    <string name="monitoring_description_managed_profile_network_logging">Ihr Administrator hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr in Ihrem Arbeitsprofil, aber nicht in Ihrem persönlichen Profil überwacht.</string>
+    <string name="monitoring_description_managed_profile_network_logging">Ihr Administrator hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr in Ihrem Arbeitsprofil, aber nicht in Ihrem Privatprofil überwacht.</string>
     <string name="monitoring_description_management">Ihr Gerät gehört Ihrer Firma.\n\nIhr IT-Administrator kann Einstellungen, Unternehmenszugriff, Apps, mit Ihrem Telefon verknüpfte Daten und Standortdaten überwachen und verwalten.\nFür weitere Informationen wenden Sie sich bitte an Ihren IT-Administrator.</string>
     <string name="monitoring_description_management_ca_certificate">Ihre Firma hat eine Zertifizierung auf diesem Telefon installiert. Ihr sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
     <string name="monitoring_description_management_network_logging">Ihr Administrator hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr auf Ihrem Telefon überwacht.</string>
