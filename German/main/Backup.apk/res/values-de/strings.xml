@@ -69,7 +69,7 @@
     <string name="backup_hint_pad">Gerät an lassen</string>
     <string name="backup_is_running">Sicherung läuft</string>
     <string name="backup_new">Neu:</string>
-    <string name="backup_notice_content">Ihre Sicherungen werden nicht verschlüsselt, was bedeutet, dass sie von Drittanbieter-Apps aufgerufen oder verfälscht werden könnten. Auch andere Sicherheitsrisiken können auftreten. Stellen Sie sicher, dass Sie Ihre Sicherungskopien in einer gut geschützten Umgebung aufbewahren.</string>
+    <string name="backup_notice_content">Ihre Sicherungen werden nicht verschlüsselt, was bedeutet, dass sie von Drittanbieter-Apps aufgerufen oder verfälscht werden könnten. Auch andere Sicherheitsrisiken können auftreten. Sie müssen Ihre Sicherungskopien in einer gut geschützten Umgebung aufbewahren.</string>
     <string name="backup_notice_title">Achtung</string>
     <string name="backup_notification_title">\"Sicherung\" läuft…</string>
     <string name="backup_progress">Sichern…</string>
@@ -91,7 +91,7 @@
     <string name="broken_screen_rescue_service_tips_1">%1$d. Wenn Ihre Bildschirmsperre %2$d ist, sollte die Nachricht wie folgt aussehen: *#*#%3$d#*#*. Wenn Sie ein Passwort verwenden, das sowohl Buchstaben als auch Ziffern enthält, bitten Sie die andere Person, es ohne Auslassungen in die Nachricht aufzunehmen.</string>
     <string name="broken_screen_rescue_service_tips_2">%1$d. Wenn Sie ein Muster verwenden, kann es durch Ziffern in der Nachricht dargestellt werden. Der Punkt in der oberen linken Ecke ist %2$d. Die Nummerierung geht von links nach rechts, Zeile für Zeile, und endet mit %3$d in der unteren rechten Ecke.</string>
     <string name="broken_screen_rescue_service_tips_3">%1$d. Wenn Sie keine Bildschirmsperre verwenden, verwenden Sie \"nopassword\" anstelle der Zeichen, die sie in der Nachricht darstellen.</string>
-    <string name="broken_screen_rescue_service_tips_4">%1$d. Sie haben nur %2$d Versuche, diese Funktion zu aktivieren. Stellen Sie sicher, dass die SMS-Nachricht, die die andere Person sendet, korrekt ist und die Person in Ihren Kontakten ist, um erfolgreich zu sein.</string>
+    <string name="broken_screen_rescue_service_tips_4">%1$d. Sie haben nur %2$d Versuche, diese Funktion zu aktivieren. Die SMS-Nachricht, die die andere Person sendet, muss korrekt sein und die Person muss in Ihren Kontakten sein, damit es funktioniert.</string>
     <string name="broken_screen_rescue_service_tips_5">%1$d. Wir empfehlen Ihnen, diese Funktion im Beisein unseres Kundensupports zu nutzen.</string>
     <string name="broken_screen_rescue_service_tips_6">%1$d. Wenn Sie Elemente nicht auf Ihrem Computer sichern können, erfahren Sie in unserer Hilfedokumentation, wie Sie dieses Problem lösen können.</string>
     <string name="broken_screen_rescue_service_tips_title">Tipps</string>
@@ -238,7 +238,7 @@
     <string name="findlost_contact">Kontakte wiederherstellen</string>
     <string name="findlost_contact_online">Kontakte aus Xiaomi Cloud wiederherstellen</string>
     <string name="flash_drive_backup_btn">Sichern auf USB-Laufwerk</string>
-    <string name="flash_drive_backup_note">Inhalt auf USB-Laufwerk sichern.\nStellen Sie sicher, dass das USB-Laufwerk genügend Speicher hat, bevor Sie beginnen.</string>
+    <string name="flash_drive_backup_note">Inhalt auf USB-Laufwerk sichern.\nDas USB-Laufwerk muss genügend Speicher haben, bevor Sie beginnen.</string>
     <string name="flash_drive_backup_restore">USB-Sicherungen</string>
     <string name="flash_drive_connection_failed">USB-Laufwerk getrennt</string>
     <string name="flash_drive_restore_btn">Wiederherstellen von USB-Laufwerk</string>
@@ -307,7 +307,7 @@
     <string name="import_data_from_icloud">Daten aus iCloud importieren</string>
     <string name="import_from_xiaomi_account_hint2">Falls bereits eine Sicherung vorhanden ist, Weiter drücken</string>
     <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
-    <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
+    <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Sie müssen vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
     <string name="lack_perm_msg">Mi Mover benötigt folgende Berechtigungen: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Berechtigungen erforderlich</string>
     <string name="list_footer_tip_title">Tipps:</string>
@@ -500,7 +500,7 @@
     <string name="new_tab_pc_backup">Sichern</string>
     <string name="new_tab_pc_restore">Wiederherstellen</string>
     <string name="new_task_finished">Fertig</string>
-    <string name="new_usb_detail_description">Hinweis:\n%1$d. Diese Methode ermöglicht die Sicherung von Drittanbieter-Apps und App-Daten.\n%2$d. Stellen Sie sicher, dass auf Ihrem USB-Laufwerk genügend Speicherplatz für die Sicherungen vorhanden ist..</string>
+    <string name="new_usb_detail_description">Hinweis:\n%1$d. Diese Methode ermöglicht die Sicherung von Drittanbieter-Apps und App-Daten.\n%2$d. Auf Ihrem USB-Laufwerk muss genügend Speicherplatz für die Sicherungen vorhanden sein.</string>
     <string name="new_usb_disconnect_dialog_message">Zuerst ein USB-Laufwerk anschließen.</string>
     <string name="new_usb_disconnect_dialog_title">USB-Laufwerk nicht gefunden</string>
     <string name="new_usb_select_data_no_space">Nur %s an Speicherplatz auf Ihrem USB-Laufwerk verfügbar. Speicherplatz freigeben.</string>
@@ -715,7 +715,7 @@
     <string name="succeed">Abgeschlossen</string>
     <string name="summary_err_backup_encrypting">Melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="summary_err_backup_no_network">Netzwerkverbindung fehlgeschlagen</string>
-    <string name="summary_err_restore_encrypting">Wiederherstellen fehlgeschlagen. Stellen Sie sicher, dass diese Sicherung mit Ihrem Xiaomi-Konto erstellt wurde.</string>
+    <string name="summary_err_restore_encrypting">Wiederherstellen fehlgeschlagen. Prüfen Sie, ob diese Sicherung mit Ihrem Xiaomi-Konto erstellt wurde.</string>
     <string name="summary_err_restore_no_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
@@ -860,7 +860,7 @@
     <string name="trans_intro_desc_3">Übertragung abbrechen, Mi Mover beenden und neu beginnen. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
     <string name="trans_intro_desc_4">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden. Allerdings können sich einige neuere Geräte (z. B. Mi 6) während der Übertragung noch über WLAN mit dem Internet verbinden.</string>
     <string name="trans_intro_desc_4_market">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden.</string>
-    <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Stellen Sie sicher, dass Sie mindestens 500 MB - 1 GB freier Speicher auf Ihrem alten Telefon haben, bevor Sie mit einer Übertragung beginnen.</string>
+    <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Sie müssen mindestens 500 MB - 1 GB freien Speicher auf Ihrem alten Telefon haben, bevor Sie mit einer Übertragung beginnen.</string>
     <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät etc.</string>
     <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die App-Daten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
     <string name="trans_intro_desc_8">WeChat-App-Daten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>

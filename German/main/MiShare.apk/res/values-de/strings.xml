@@ -57,7 +57,7 @@
     <string name="eras_bc">v. Chr.</string>
     <string name="error_ap_in_use">Dateien an andere Geräte senden nicht möglich, wenn Hotspot an ist</string>
     <string name="error_ap_or_screen_already_hosting">Während des Castings oder der Nutzung eines mobilen Hotspots können Elements nicht an andere Geräte gesendet werden.</string>
-    <string name="error_ble_connect_failure">Empfängergerät ist nicht mit Bluetooth verbunden. Stellen Sie sicher, dass sein Bildschirm an ist.</string>
+    <string name="error_ble_connect_failure">Empfängergerät ist nicht mit Bluetooth verbunden. Der Bildschirm muss an sein.</string>
     <string name="error_ble_connect_timeout">Bluetooth-Verbindung fehlgeschlagen. Bluetooth-Verbindung auf beiden Geräten wiederherstellen und erneut versuchen.</string>
     <string name="error_device_lost">Anscheinend antwortet das andere Gerät nicht. Etwas warten und erneut versuchen.</string>
     <string name="error_has_occurred">Ein Fehler ist aufgetreten</string>
@@ -229,8 +229,8 @@
     <string name="nfc_connecting">Verbinden…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Um die Geräte zu verbinden, schalten Sie zuerst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Um die Geräte zu verbinden, schalten Sie zuerst WLAN und Bluetooth auf diesem Gerät ein. Jetzt einschalten?</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbinden mit PC fehlgeschlagen. Stellen Sie sicher, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
-    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbinden mit PC fehlgeschlagen. Stellen Sie sicher, dass WLAN und Bluetooth sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sind und dass auf Ihrem Computer Xiaomi PC Manager läuft.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Verbinden mit PC fehlgeschlagen. WLAN und Bluetooth müssen sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sein und auf Ihrem Computer muss der Xiaomi PC Manager laufen.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Verbinden mit PC fehlgeschlagen. WLAN und Bluetooth müssen sowohl auf Ihrem mobilen Gerät als auch auf Ihrem Computer aktiviert sein und auf Ihrem Computer muss der Xiaomi PC Manager laufen.</string>
     <string name="nfc_wifi_and_bluetooth">WLAN und Bluetooth einschalten</string>
     <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>
@@ -260,7 +260,7 @@
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
-    <string name="scanning_device_tips">Nach Geräten in der Nähe suchen… Stellen Sie sicher, dass das andere Gerät im Erkennungsmodus ist.</string>
+    <string name="scanning_device_tips">Nach Geräten in der Nähe suchen… Prüfen Sie, ob das andere Gerät im Erkennungsmodus ist.</string>
     <string name="scanning_only_xiaomi_device">Dieses Element kann nur auf Xiaomi- oder Black Shark-Geräte übertragen werden</string>
     <string name="search_menu_title">Suchen</string>
     <string name="seize_content">Bildschirm teilen beenden, um Elemente zu übertragen. Teilen jetzt beenden?</string>
@@ -410,8 +410,8 @@
     <string name="v7_preference_on">AN</string>
     <string name="view_file">Anzeigen</string>
     <string name="wait_receive_file">Auf Empfang warten…</string>
-    <string name="wait_remote_receive_tips">Stellen Sie sicher, dass die Bildschirme beider Geräte an sind und WLAN und Bluetooth aktiviert sind.</string>
-    <string name="wait_remote_receive_tips_china">Stellen Sie sicher, dass die Bildschirme beider Geräte an sind und WLAN und Bluetooth aktiviert sind.</string>
+    <string name="wait_remote_receive_tips">Die Bildschirme beider Geräte müssen an und WLAN und Bluetooth aktiviert sein.</string>
+    <string name="wait_remote_receive_tips_china">Die Bildschirme beider Geräte müssen an und WLAN und Bluetooth aktiviert sein.</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>

@@ -289,7 +289,7 @@
     <string name="device_data_manage">Geräte verwalten</string>
     <string name="device_data_sync">Gesundheitsdaten synchronisieren</string>
     <string name="device_description">Dieses Gerät ist mit Xiaomi-Konto %s verbunden. Wenn Sie das benötigte Gerät nicht finden, fügen Sie es erst in Mi Fit oder Xiaomi Wear hinzu.</string>
-    <string name="device_list_origin_description">Diese Geräte sind mit dem Xiaomi-Konto %1$s verbunden. Wenn Sie das benötigte Gerät hier nicht finden, stellen Sie sicher, dass Sie es bereits in der entsprechenden App hinzugefügt haben.</string>
+    <string name="device_list_origin_description">Diese Geräte sind mit dem Xiaomi-Konto %1$s verbunden. Wenn Sie das benötigte Gerät hier nicht finden, prüfen Sie, ob Sie es bereits in der entsprechenden App hinzugefügt haben.</string>
     <string name="device_off_sync_description">Auf diesem Gerät generierte Gesundheitsdaten werden nicht mit Xiaomi Health synchronisiert.</string>
     <string name="device_unbound_from_account">Dieses Gerät ist nicht länger mit Ihrem Konto verbunden</string>
     <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen</string>
@@ -515,7 +515,7 @@
     <string name="group">Zyklen</string>
     <string name="guide_data_cloud_sync_tip">Sie können die Synchronisation unter Einstellungen &gt; Cloud-Dienste ausschalten.</string>
     <string name="guide_exit">Xiaomi Health beenden</string>
-    <string name="guide_exit_description">Wir können keine Dienste für Personen unter 14 Jahren anbieten. Stellen Sie sicher, dass Sie dieses Gerät mit der Erlaubnis Ihres Erziehungsberechtigten verwenden. Tippen Sie auf die Taste unten, um die App zu beenden.</string>
+    <string name="guide_exit_description">Wir können keine Dienste für Personen unter 14 Jahren anbieten. Sie dürfen dieses Gerät nur mit der Erlaubnis Ihres Erziehungsberechtigten verwenden. Tippen Sie auf die Taste unten, um die App zu beenden.</string>
     <string name="guide_exit_title">Sie können Xiaomi Health ab Ihrem 14. Geburtstag nutzen.</string>
     <string name="guide_local_data_sync_subtitle">Schritte, Schlaf, Gewicht und Perioden</string>
     <string name="guide_local_data_sync_title">Daten dieses Geräts hochladen</string>
@@ -1138,7 +1138,7 @@
     <string name="sleep_deep_light_no_data">Schlaf verfolgen nicht möglich. Wenn Sie Ihr Mobilgerät neben dem Kopfkissen platzieren, werden die Schlafdaten genauer.</string>
     <string name="sleep_detection_enable">Schlafzyklus analysieren</string>
     <string name="sleep_detection_guide_four_description">Schlafaufnahme verbraucht nur etwa 1%% Ihres Akkus pro Nacht</string>
-    <string name="sleep_detection_guide_four_high_power_description">Stellen Sie sicher, dass Ihr Gerät ausreichend aufgeladen ist, bevor Sie zu Bett gehen. Eine schwacher Akku kann die Schlafverfolgung unterbrechen.</string>
+    <string name="sleep_detection_guide_four_high_power_description">Ihr Gerät muss ausreichend aufgeladen sein, bevor Sie zu Bett gehen. Eine schwacher Akku kann die Schlafverfolgung unterbrechen.</string>
     <string name="sleep_detection_guide_four_high_power_title">Halten Sie Ihr Gerät geladen</string>
     <string name="sleep_detection_guide_four_title">Niedriger Stromverbrauch</string>
     <string name="sleep_detection_guide_one_description">Legen Sie Ihr Gerät neben sich, wenn Sie schlafen, um Körperbewegungen zu verfolgen und eine Schlafzyklusstatistik zu erstellen.</string>
@@ -1248,7 +1248,7 @@
     <string name="snore_detection_guide_one_title">Audio mit Mikrofon aufnehmen</string>
     <string name="snore_detection_guide_schedule_suggest">Mikrofon wird je nach Ihrer Schlafenszeit ein- und ausgeschaltet. Stellen Sie Ihren Schlafenszeitplan so ein, dass es funktioniert</string>
     <string name="snore_detection_guide_schedule_suggest_details">Mikrofon wird während der Schlafenszeit eingeschaltet, um Ihren Schlafzyklus zu analysieren. Um die Statistik genauer zu machen, stellen Sie Ihre Schlafenszeit in der Uhr ein.</string>
-    <string name="snore_detection_guide_three_description">Stellen Sie sicher, dass Ihr Gerät ausreichend aufgeladen ist, bevor Sie zu Bett gehen. Ein schwacher Akku kann die Tonaufnahme unterbrechen.</string>
+    <string name="snore_detection_guide_three_description">Ihr Gerät muss ausreichend aufgeladen sein, bevor Sie zu Bett gehen. Ein schwacher Akku kann die Tonaufnahme unterbrechen.</string>
     <string name="snore_detection_guide_three_title">Halten Sie Ihr Gerät aufgeladen</string>
     <string name="snore_detection_guide_two_description">Mikrofon wird je nach Ihrer Schlafenszeit ein- und ausgeschaltet.</string>
     <string name="snore_detection_guide_two_title">Geräusche automatisch erkennen</string>

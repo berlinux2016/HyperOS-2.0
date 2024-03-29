@@ -129,7 +129,7 @@
     <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
     <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="check_for_updates">Nach Updates suchen</string>
-    <string name="check_for_updates_description">Stellen Sie sicher, dass die installierten Apps auf dem neuesten Stand sind</string>
+    <string name="check_for_updates_description">Die installierten Apps müssen auf dem neuesten Stand sein.</string>
     <string name="chloride">Chlorid</string>
     <string name="cholesterol">Cholesterin</string>
     <string name="chromium">Chrom</string>

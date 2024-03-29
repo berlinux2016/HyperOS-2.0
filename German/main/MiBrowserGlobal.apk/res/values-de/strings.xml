@@ -85,7 +85,7 @@
     <string name="action_mode_select_all">Alle auswählen</string>
     <string name="action_update_phone">Rufnummer ändern</string>
     <string name="actionbar_button_up_description">Zurück</string>
-    <string name="activate_email_notice">Stellen Sie sicher, dass Sie Ihr Konto innerhalb von 24 Stunden aktivieren</string>
+    <string name="activate_email_notice">Sie müssen Ihr Konto innerhalb von 24 Stunden aktivieren</string>
     <string name="activity_not_found_notice">App nicht gefunden</string>
     <string name="ad_flag_text">WERBUNG</string>
     <string name="ad_loading_tips_text">Werbung laden…</string>
@@ -1518,7 +1518,7 @@
     <string name="open_app_confirm_message">Dieser Seite erlauben, %s zu öffnen?</string>
     <string name="open_by_other_app">Mit anderer App öffnen</string>
     <string name="open_desktop">Erfolgreich zur Desktopversion gewechselt</string>
-    <string name="open_google_gaid">Um diese Funktion zu nutzen, stellen Sie sicher, dass Sie die Werbepersonalisierung unter Einstellungen > Google > Werbung nicht deaktiviert haben.</string>
+    <string name="open_google_gaid">Sie dürfen die Werbepersonalisierung unter Einstellungen > Google > Werbung nicht deaktivieren, um diese Funktion zu nutzen.</string>
     <string name="open_personalized_services">Aktivieren Sie personalisierte Dienste, um diese Funktion zu nutzen.</string>
     <string name="open_private_folder">Loslassen, um versteckte Ordner anzuzeigen</string>
     <string name="open_settings">Zu Einstellungen gehen</string>
@@ -1994,7 +1994,7 @@
     <string name="request_camera_permission_message">Dieser Dienst benötigt Ihre Zustimmung wie folgt, wir werden uns strikt an die einschlägigen Gesetze halten, um Ihre personenbezogenen Daten zu schützen: &lt;br>&lt;br>&lt;b> Kamerazugriff: Erleben Sie Echtzeit-Aufnahmedienste zum Einstellen des Avatar &lt;/b>&lt;br>&lt;br> Wenn Sie dem Erteilen der oben genannten Berechtigungen nicht zustimmen, funktioniert diese Funktion nicht ordnungsgemäß, es hat jedoch keine Auswirkungen auf Ihre Verwendung der Grundfunktionen dieser App. Sie können den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um Ihre Einwilligung zu widerrufen.</string>
     <string name="request_profile_error">Abrufen von Kontodaten fehlgeschlagen</string>
     <string name="resend_active_email">Erneut senden</string>
-    <string name="resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Stellen Sie sicher, dass sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
+    <string name="resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Prüfen Sie, ob sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
     <string name="resend_email_reach_limit_title">Zu viele Versuche</string>
     <string name="resend_email_success">Erfolgreich gesendet</string>
     <string name="restart">Neu beginnen</string>

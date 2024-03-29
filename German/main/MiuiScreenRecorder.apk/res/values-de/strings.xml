@@ -24,7 +24,7 @@
     <string name="app_notification_record_saved">Bildschirmaufnahme gespeichert. Zum Anzeigen tippen.</string>
     <string name="app_notification_title">Bildschirmrekorder</string>
     <string name="auto_stop_title">Video erfolgreich gespeichert</string>
-    <string name="battery_not_allowed_warning">Aufnehmen nicht möglich, wenn der Akku unter %1$s ist. Stellen Sie sicher, dass er mind. %2$s geladen ist.</string>
+    <string name="battery_not_allowed_warning">Aufnehmen nicht möglich, wenn der Akku unter %1$s ist. Er muss mind. zu %2$s geladen sein.</string>
     <string name="bit_rate">Videoqualität</string>
     <string name="bit_rate_summary">Bessere Qualität bedeutet größere Dateien</string>
     <string name="bubble_text">Zum Aufnehmen tippen</string>

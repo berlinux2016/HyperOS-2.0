@@ -71,7 +71,7 @@
     <string name="account_user_phone">Wiederherstellungsrufnummer</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="actionbar_overflow_item_desc">Mehr Einstellungen</string>
-    <string name="activate_email_notice">Stellen Sie sicher, dass Sie Ihr Konto innerhalb von 24 Stunden aktivieren</string>
+    <string name="activate_email_notice">Sie müssen Ihr Konto innerhalb von 24 Stunden aktivieren</string>
     <string name="activity_not_found_notice">App nicht gefunden</string>
     <string name="add_automatically_alert_msg">Fotos von \"%1$s\" automatisch zu diesem Album hinzufügen?</string>
     <string name="add_automatically_alert_title">Fotos automatisch hinzufügen</string>
@@ -938,7 +938,7 @@
     <string name="error_no_cta_permission_msg">Netzwerkzugriff ist eingeschränkt</string>
     <string name="error_no_cta_permission_tip">Netzwerkzugriff ist eingeschränkt</string>
     <string name="error_no_network_action">Netzwerkeinstellungen</string>
-    <string name="error_no_network_msg">Stellen Sie sicher, dass Ihr Gerät mit WLAN verbunden ist oder mobile Daten an sind</string>
+    <string name="error_no_network_msg">Ihr Gerät muss mit WLAN verbunden sein oder mobile Daten müssen an sein</string>
     <string name="error_no_network_tip">Netzwerkverbindung fehlgeschlagen</string>
     <string name="error_no_wifi_action">Mobile Daten verwenden</string>
     <string name="error_no_wifi_msg">Ihr Gerät ist nicht mit WLAN verbunden. Beim Verwenden mobiler Daten können zusätzliche Kosten anfallen.</string>
@@ -961,7 +961,7 @@
     <string name="error_storage_no_write_permission_tip_action">Gewähren</string>
     <string name="error_storage_no_write_permission_tip_title">"Bei einigen Alben sind Berechtigungen erforderlich zum Synchronisieren. "</string>
     <string name="error_sync_off_action">Einschalten</string>
-    <string name="error_sync_off_msg">Stellen Sie sicher, dass Synchronisation mit Xiaomi Cloud an ist</string>
+    <string name="error_sync_off_msg">Synchronisation mit Xiaomi Cloud muss an sein</string>
     <string name="error_sync_off_tip">Synchronisation ist aus</string>
     <string name="error_title">Synchronisation fehlgeschlagen</string>
     <string name="error_unauthorized">Synchronisation wurde wegen zu vieler Anmeldeversuche deaktiviert.</string>
@@ -1461,7 +1461,7 @@
     <string name="magic_idp_dsc">Speichern fehlgeschlagen</string>
     <string name="magic_idp_guide_tack">Wie man ein gutes Foto macht</string>
     <string name="magic_idp_guide_text2">Wählen Sie einen einfarbigen Hintergrund.</string>
-    <string name="magic_idp_guide_text3">Stellen Sie sicher, dass Ihr Gesicht gleichmäßig beleuchtet ist.</string>
+    <string name="magic_idp_guide_text3">Ihr Gesicht muss gleichmäßig beleuchtet sein.</string>
     <string name="magic_idp_guide_text4">Tragen Sie einfache Kleidung und vermeiden Sie Accessoires.</string>
     <string name="magic_idp_guide_text5">Lassen Sie die Haare nicht Ihr Gesicht verdecken, zeigen Sie Ihre Ohren, und schauen Sie direkt in die Kamera.</string>
     <string name="magic_idp_save_type">Ergebnisse speichern</string>
@@ -2450,7 +2450,7 @@
     <string name="scan_qr_code">QR-Code scannen</string>
     <string name="scan_qr_code_buttom_text">QR-Code scannen, um dieses Album anzuzeigen</string>
     <string name="scan_qr_to_accept_invitation">QR-Code scannen, um Einladung anzunehmen</string>
-    <string name="scanning_device_tips">Nach Geräten in der Nähe suchen… Stellen Sie sicher, dass das andere Gerät im Erkennungsmodus ist.</string>
+    <string name="scanning_device_tips">Nach Geräten in der Nähe suchen… Prüfen Sie, ob das andere Gerät im Erkennungsmodus ist.</string>
     <string name="scope_storage_dialog_cancel_btn">Abbrechen</string>
     <string name="scope_storage_dialog_confirm_btn">Weiter</string>
     <string name="scope_storage_dialog_description">Galerieberechtigungen wurden aktualisiert. Erlauben Sie der Galerie den Zugriff auf diesen Ordner, um seinen Inhalt anzuzeigen.</string>

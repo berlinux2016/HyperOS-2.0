@@ -197,9 +197,9 @@
     <string name="attachment_type_blocked">Leider können Sie diese Art von Anhang nicht speichern oder öffnen.</string>
     <string name="attachment_unknown">%s-Datei</string>
     <string name="attachments_header">Anhänge</string>
-    <string name="attachments_security_alert_install_message">Dieser Anhang ist ein Installationspaket. Stellen Sie sicher, dass Sie der Quelle vertrauen, bevor Sie ihn öffnen. Jetzt installieren?</string>
+    <string name="attachments_security_alert_install_message">Dieser Anhang ist ein Installationspaket. Sie müssen der Quelle vertrauen, bevor Sie es öffnen. Jetzt installieren?</string>
     <string name="attachments_security_alert_install_title">Achtung</string>
-    <string name="attachments_security_alert_message">Diese Nachricht enthält ein Installationspaket. Stellen Sie sicher, dass Sie der Quelle vertrauen, bevor Sie ihn öffnen.</string>
+    <string name="attachments_security_alert_message">Diese Nachricht enthält ein Installationspaket.  Sie müssen der Quelle vertrauen, bevor Sie es öffnen.</string>
     <string name="attachments_security_install">Installieren</string>
     <string name="attendee_needed">Mindestens einen Eingeladenen hinzufügen</string>
     <string name="auto_login_fail">Automatische Anmeldung fehlgeschlagen</string>
@@ -969,7 +969,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="send_encrypt_dialog_fail_title">Verschlüsselte E-Mails senden fehlgeschlagen</string>
     <string name="sending_message">Nachricht senden…</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Serverzertifikat wurde nicht validiert
-\u0009 (Stellen Sie sicher, dass die 'Aut. Zeitsynchronisation' in Einstellungen eingeschaltet ist)"</string>
+\u0009 ('Aut. Zeitsynchronisation' in Einstellungen muss eingeschaltet sein)"</string>
     <string name="ser_resp_err_map_landing_more_failure">Anmeldung ist mehrmals hintereinander fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="ser_resp_err_map_landing_too_frequently">Zu viele Anmeldeversuche. Etwas warten und erneut versuchen.</string>
     <string name="ser_resp_err_map_mailbox_locked">Dieses E-Mail-Konto ist gesperrt. Wenden Sie sich zunächst an den E-Mail-Dienstanbieter, um die Sperre aufzuheben.</string>
@@ -989,7 +989,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="server_cet_domain">"Domain-Name: "</string>
     <string name="server_cet_error_sug">"Versuchen Sie Folgendes:
 1. Mit einem anderen Netzwerk verbinden oder WLAN-Router neu starten.
-2. Stellen Sie sicher, dass Sie gültige Zertifikate verwenden."</string>
+2. Sie müssen gültige Zertifikate verwenden."</string>
     <string name="server_cet_error_title_1">Server-Zertifikat unterstützt diese Domain nicht"</string>
     <string name="server_cet_error_title_2">Zertifikat abgelaufen</string>
     <string name="server_cet_error_title_3">Aussteller des Zertifikats ist keine vertrauenswürdige Organisation.</string>

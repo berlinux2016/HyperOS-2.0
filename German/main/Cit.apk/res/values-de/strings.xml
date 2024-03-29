@@ -111,7 +111,7 @@ Bevor Sie das Gerät kalibrieren, legen Sie es auf eine ebene Fläche."</string>
     <string name="cit_aud_spkcal">Kalibrieren</string>
     <string name="cit_aud_test_result">"Testergebnis: "</string>
     <string name="cit_audio_cali_summary">Lautsprecher PA kalibrieren</string>
-    <string name="cit_audio_cali_test_summary">Bevor Sie den Lautsprecher kalibrieren, stellen Sie sicher, dass der Lautsprecher nicht läuft.</string>
+    <string name="cit_audio_cali_test_summary">Um den Lautsprecher zu kalibrieren, darf der Lautsprecher nicht aktiv sein.</string>
     <string name="cit_audio_cali_title">Lautsprecher PA-Kalibrierungstest</string>
     <string name="cit_audio_hw_check_tips">Test läuft</string>
     <string name="cit_audio_lb_auxmic_to_earpiece_title">Aux Mikro-Rückkopplungstest</string>
@@ -228,7 +228,7 @@ Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautspreche
     <string name="cit_digital_hall_sensor_cali_title">Digitaler Hall-Kalibrierungstest</string>
     <string name="cit_digital_hall_sensor_check_summary">Winkelwert wird unten angezeigt</string>
     <string name="cit_digital_hall_sensor_check_title">Digitaler Hall-Test</string>
-    <string name="cit_display_check_summary">Stellen Sie sicher, dass die Farben über den gesamten Bildschirm gleichmäßig dargestellt werden. Achten Sie darauf, dass es keine unregelmäßigen hellen und dunklen Flecken gibt.</string>
+    <string name="cit_display_check_summary">Die Farben müssen über den gesamten Bildschirm gleichmäßig dargestellt werden. Es darf keine unregelmäßigen hellen und dunklen Flecken geben.</string>
     <string name="cit_display_check_title">Anzeige</string>
     <string name="cit_display_continue">Bildschirm berühren, um den Test zu starten</string>
     <string name="cit_display_expand_screen_tips">Bitte erweitern Sie den Bildschirm vor dem Testen</string>
@@ -578,7 +578,7 @@ Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt 
     <string name="cit_vice_touch_panel_test_title">Stellvertreter-Berührungssensor</string>
     <string name="cit_wifi_address_check_summary">Nachfolgend die Adresse des WLAN, mit dem das Gerät gerade verbunden ist. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
     <string name="cit_wifi_address_check_title">WLAN-Adresse</string>
-    <string name="cit_wifi_address_error">WLAN-Adresse nicht erhalten. Stellen Sie sicher, dass WLAN aktiviert ist.</string>
+    <string name="cit_wifi_address_error">WLAN-Adresse nicht erhalten. WLAN muss aktiviert sein.</string>
     <string name="cit_wifi_ap_scan_check_summary">Nachfolgend finden Sie die WLAN-AP-Info der erkannten Geräte in der Umgebung. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
     <string name="cit_wifi_ap_scan_check_title">WLAN-AP-Scan</string>
     <string name="cit_wifi_ap_scan_retry">Erneut scannen…</string>
@@ -596,7 +596,7 @@ Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt 
     <string name="edittextdisplay">Willkommen bei SAR-Tool!</string>
     <string name="edittextdisplayf">Berechtigungen wurden eingeschränkt!!!</string>
     <string name="enrol">Registrieren</string>
-    <string name="enrollment_error_tip">Die Strategie zur Kontrolle der Fingerabdruck-Eingabekarte wurde ausgelöst. Bitte stellen Sie sicher, dass die Fingerabdrücke klar und sauber sind, oder beenden Sie den aktuellen Prüfling und starten Sie den Test erneut.</string>
+    <string name="enrollment_error_tip">Die Strategie zur Kontrolle der Fingerabdruck-Eingabekarte wurde ausgelöst. Die Fingerabdrücke müssen klar und sauber sein, oder beenden Sie den aktuellen Prüfling und starten Sie den Test erneut.</string>
     <string name="failed_to_get_permission">Erkennung der Cloud-Steuerung fehlgeschlagen und einige Funktionen verloren</string>
     <string name="fingerprint_input_title">Fingerabdruck-Eingabetest</string>
     <string name="firstplug_mic_check_record_tip">Aufnahme stoppen. Wenn Sie das Headset eingesteckt haben, bestätigen Sie das Ergebnis.</string>

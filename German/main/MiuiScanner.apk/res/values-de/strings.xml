@@ -42,7 +42,7 @@
     <string name="all_text">Volltext</string>
     <string name="already_ocr_result">Elemente automatisch ausgewählt</string>
     <string name="always">Immer</string>
-    <string name="app_description_content">Scanner kann QR-Codes, Dokumente, Visitenkarten und mehr scannen. Stellen Sie sicher, dass Sie diese Funktionen nicht benötigen, bevor Sie die App löschen.</string>
+    <string name="app_description_content">Scanner kann QR-Codes, Dokumente, Visitenkarten und mehr scannen. Prüfen Sie, ob Sie diese Funktionen nicht benötigen, bevor Sie die App löschen.</string>
     <string name="app_description_title">Über Scanner</string>
     <string name="back">Zurück</string>
     <string name="barcode_into_rectangle">Code im Rahmen platzieren</string>
@@ -760,7 +760,7 @@
     <string name="translate_text_compare">Vergleich</string>
     <string name="translate_text_compare_copy">Kopieren</string>
     <string name="translate_text_compare_save">Speichern</string>
-    <string name="translate_try_again">Stellen Sie sicher, dass der Text deutlich sichtbar ist</string>
+    <string name="translate_try_again">Text muss deutlich sichtbar sein</string>
     <string name="translate_try_agains">Bild wurde nicht erkannt</string>
     <string name="translate_type_take_pic">Foto</string>
     <string name="translation_language_chinese">Chinesisch</string>

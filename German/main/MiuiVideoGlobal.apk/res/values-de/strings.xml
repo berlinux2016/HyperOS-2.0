@@ -778,7 +778,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="lv_share_tips">Screenshot erfolgreich. Jetzt können Sie ihn teilen.</string>
     <string name="lv_storage_external_sdcard">Externer Speicher</string>
     <string name="lv_storage_internal_sdcard">Interner Speicher</string>
-    <string name="lv_subtitle_add_subtitle_failed">Untertitel wurden nicht hinzugefügt. Stellen Sie sicher, dass die Datei nicht beschädigt ist.</string>
+    <string name="lv_subtitle_add_subtitle_failed">Untertitel wurden nicht hinzugefügt. Die Datei darf nicht beschädigt sein.</string>
     <string name="lv_subtitle_changed">Neue Untertitel</string>
     <string name="lv_subtitle_folder_up">Vorheriger Ordner</string>
     <string name="lv_subtitle_font_color_title">Textfarbe</string>
@@ -1276,7 +1276,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="plus_player_subtitle">Untertitel</string>
     <string name="plus_player_subtitle_dir_back">Nach oben</string>
     <string name="plus_player_subtitle_local">Lokale Untertitel</string>
-    <string name="plus_player_subtitle_local_add_fail">Untertitel hinzufügen fehlgeschlagen. Stellen Sie sicher, dass die Datei nicht beschädigt ist.</string>
+    <string name="plus_player_subtitle_local_add_fail">Untertitel hinzufügen fehlgeschlagen. Die Datei darf nicht beschädigt sein.</string>
     <string name="plus_player_subtitle_local_add_success">Untertitel erfolgreich</string>
     <string name="plus_player_subtitle_no_file">Hier keine Untertitel</string>
     <string name="plus_player_subtitle_online">Online-Untertitel</string>

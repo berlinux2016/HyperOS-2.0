@@ -208,7 +208,7 @@
     <string name="circulate_headset_duplicate_dialog_message">Anscheinend ist ein anderer Satz Ohrhörer an Ihr %1$s angeschlossen. Mit dem aktuellen Set tauschen?</string>
     <string name="circulate_headset_duplicate_dialog_title">An %1$s angeschlossene Ohrhörer tauschen</string>
     <string name="circulate_headset_duplicate_ok">Tauschen</string>
-    <string name="circulate_headset_error_account_not_match">Stellen Sie sicher, dass Sie auf beiden Geräten dasselbe Xiaomi-Konto verwenden</string>
+    <string name="circulate_headset_error_account_not_match">Sie müssen auf beiden Geräten dasselbe Xiaomi-Konto verwenden</string>
     <string name="circulate_headset_error_acquired_by_other_host">Jetzt wird ein anderes Gerät verwendet. Später erneut versuchen.</string>
     <string name="circulate_headset_error_default">Zeitüberschreitung der Verbindung</string>
     <string name="circulate_headset_error_device_not_support">Ohrhörer wurden nicht mit diesem Gerät verbunden</string>
@@ -381,7 +381,7 @@
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Verbinden Sie sowohl Ihr Mobilgerät als auch Ihren TV mit demselben WLAN.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g> Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. &lt;a href=milink://com.milink.service/specification>\"Hilfe\"&lt;/a> anzeigen, um mehr zu erfahren.</Data></string>
     <string name="dialog_only_suport_content">Fotos, Videos, oder Musik streamen</string>
     <string name="dialog_open_wifi_bt">Einschalten</string>
-    <string name="dialog_please_make_sure_tv_ok_or_help">Stellen Sie sicher, dass auf dem Zielgerät drahtloses Casting aktiviert ist.\nSehen Sie sich die Hilfe an, wenn Sie Probleme mit dem Verbinden haben.</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">Auf dem Zielgerät muss drahtloses Casting aktiviert ist.\nSehen Sie sich die Hilfe an, wenn Sie Probleme mit dem Verbinden haben.</string>
     <string name="dialog_recent_connected">Zuletzt</string>
     <string name="dialog_retry">Erneut versuchen</string>
     <string name="dialog_scan_message">%1$d. Verbinden Sie sowohl Ihr Mobilgerät als auch Ihren TV mit demselben WLAN.\n\n%2$d. Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. \"Hilfe\" anzeigen, um mehr zu erfahren.</string>
@@ -492,10 +492,10 @@ Hinweis: Ältere TV-Modelle unterstützen ggf. kein Casting über verschiedene N
 %2$d. Wenn Sie TVs, Set-Top-Boxen oder Projektoren anderer Marken verwenden, verbinden Sie sowohl Ihr Mobilgerät als auch den externen Monitor mit demselben WLAN.
 Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, aktivieren Sie Miracast auf Ihrem externen Monitor. Die Benennung der Miracast-Funktionalität kann variieren."</string>
     <string name="help_page_text_06_new_1">TVs, Set-Top-Boxen und Projektoren von Xiaomi:</string>
-    <string name="help_page_text_06_new_2">%1$d. Stellen Sie sicher, dass Ihr Mobilgerät und der externe Monitor mit demselben WLAN verbunden sind. \n%2$d. Bei einigen Xiaomi-TVs können Sie das Casting über den TV einrichten und die Methoden für die Gerätesuche und -verifizierung anpassen.</string>
+    <string name="help_page_text_06_new_2">%1$d. Ihr Mobilgerät und der externe Monitor müssen mit demselben WLAN verbunden sein. \n%2$d. Bei einigen Xiaomi-TVs können Sie das Casting über den TV einrichten und die Methoden für die Gerätesuche und -verifizierung anpassen.</string>
     <string name="help_page_text_06_new_3">*Sie können die Casting-Präferenzen für Ihr TV in den Casting-Einstellungen festlegen.</string>
     <string name="help_page_text_06_new_4">Nicht-Xiaomi TVs, Set-Top-Boxen und Projektoren:</string>
-    <string name="help_page_text_06_new_5">%1$d. Stellen Sie sicher, dass Ihr Mobilgerät und der externe Monitor mit demselben WLAN verbunden sind. \n%2$d. Bei einigen TV-Marken müssen Sie Miracast aktivieren, um das Casting durchzuführen.</string>
+    <string name="help_page_text_06_new_5">%1$d. Ihr Mobilgerät und der externe Monitor müssen mit demselben WLAN verbunden sein. \n%2$d. Bei einigen TV-Marken müssen Sie Miracast aktivieren, um das Casting durchzuführen.</string>
     <string name="help_page_text_06_new_6">Mehr erfahren</string>
     <string name="help_page_text_08">Schritt %1$d: Casting einschalten</string>
     <string name="help_page_text_08_new">Schritt %1$d: Casting einschalten</string>
@@ -508,8 +508,8 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="help_page_text_12">Wählen Sie ein externes Gerät aus der Liste der verfügbaren Geräte aus, um mit dem Casting zu beginnen.</string>
     <string name="help_page_text_12_new_1">Wählen Sie ein externes Gerät aus der Liste der verfügbaren Geräte aus, um das Casting zu starten.</string>
     <string name="help_page_text_13">Verbinden mit einem externen Gerät nicht möglich?</string>
-    <string name="help_page_text_13_desc_1">"%1$d. Stellen Sie sicher, dass Ihr Mobilgerät und der externe Monitor mit demselben WLAN oder Hotspot verbunden sind.
-%2$d. Stellen Sie sicher, dass die Netzwerkumgebung stabil ist. Falls nicht, versuchen Sie, Ihren Router neu zu starten oder wechseln Sie zu einem %3$d-GHz-Netzwerkband.
+    <string name="help_page_text_13_desc_1">"%1$d. Ihr Mobilgerät und der externe Monitor müssen mit demselben WLAN oder Hotspot verbunden sein.
+%2$d. Die Netzwerkumgebung muss stabil sein. Falls nicht, versuchen Sie, Ihren Router neu zu starten oder wechseln Sie zu einem %3$d-GHz-Netzwerkband.
 %4$d. Wenn Sie auf ein Xiaomi TV übertragen, schalten Sie drahtloses Casting auf dem TV ein. Bleiben Sie während der Verbindung auf der Casting-Seite.
 %5$d. Einige große öffentliche LANs, wie die von Unternehmen und Schulen, unterstützen nicht die Möglichkeit, Geräte im selben LAN zu erkennen."</string>
     <string name="help_page_text_13_desc_2">Einige TVs verwenden während des Castings eine Nicht-LAN-Verbindung. Es ist normal, dass bei diesen Geräten die Netzwerkverbindung unterbrochen wird. Normalerweise wird die Verbindung innerhalb von %1$d-%2$d Sekunden nach Ende dem Casting wiederhergestellt.</string>
@@ -546,8 +546,8 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="help_page_text_50">AODIN Kundendienst: 400-810-5858</string>
     <string name="help_page_text_52">Stellen Sie zunächst sicher, dass die Miracast-Funktionalität auf Ihrem Gerät unterstützt wird. Bei einigen Modellen können Sie diese Funktion einschalten unter Einstellungen > Netzwerk > Mehrere Bildschirme > Drahtlose Anzeige.</string>
     <string name="help_page_text_53">LeEco Kundendienst: 10109000</string>
-    <string name="help_page_text_55">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. Lesen Sie folgende Informationen, um zu erfahren, wie Sie Miracast aktivieren können. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
-    <string name="help_page_text_55_global">Wenn Sie keine Netzwerkverbindung herstellen können, stellen Sie sicher, dass Ihr externer Monitor die Miracast-Funktionalität unterstützt und sie eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
+    <string name="help_page_text_55">Wenn Sie keine Netzwerkverbindung herstellen können, prüfen Sie, ob Ihr externer Monitor die Miracast-Funktionalität unterstützt und diese eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. Lesen Sie folgende Informationen, um zu erfahren, wie Sie Miracast aktivieren können. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
+    <string name="help_page_text_55_global">Wenn Sie keine Netzwerkverbindung herstellen können, prüfen Sie, ob Ihr externer Monitor die Miracast-Funktionalität unterstützt und diese eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
     <string name="help_page_text_end">Wenn Ihre Gerätemarke hier nicht aufgeführt ist, wenden Sie sich an den Hersteller, um mehr über die Casting-Funktion zu erfahren.</string>
     <string name="hm_always">Merken</string>
     <string name="hm_conflict_title">Angehaltenes Muster: %1$s</string>
@@ -583,8 +583,8 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="invisible_mode_dialog_title">Sie sind inkognito</string>
     <string name="is_creating_camera_cooperation">Gerät zum Verbinden entsperren</string>
     <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
-    <string name="km_synergy_error">Zeitüberschreitung der Verbindung. Stellen Sie sicher, dass Bluetooth und WLAN auf beiden Geräten eingeschaltet sind und sie sich in Reichweite befinden.</string>
-    <string name="km_synergy_error_china">Zeitüberschreitung der Verbindung. Stellen Sie sicher, dass Bluetooth und WLAN auf beiden Geräten eingeschaltet sind und sie sich in Reichweite befinden.</string>
+    <string name="km_synergy_error">Zeitüberschreitung der Verbindung. Bluetooth und WLAN müssen auf beiden Geräten eingeschaltet sein und sie müssen sich in Reichweite befinden.</string>
+    <string name="km_synergy_error_china">Zeitüberschreitung der Verbindung. Bluetooth und WLAN müssen auf beiden Geräten eingeschaltet sein und sie müssen sich in Reichweite befinden.</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_24h_suffix">%1$s Stunden</string>
     <string name="material_hour_selection">Stunde auswählen</string>
@@ -813,7 +813,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Ich habe die \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Erklärung zum Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität&lt;/a>&lt;/font>\" gelesen und akzeptiert."</Data></string>
     <string name="privacy_positive">Zustimmen</string>
     <string name="privacy_read_statement">Erst den allgemeinen Geschäftsbedingungen zustimmen</string>
-    <string name="privacy_revoke_agree_detail_content">%1$d. Stellen Sie sicher, dass Sie das Recht haben, Ihre Zustimmung zu widerrufen, bevor Sie fortfahren. \n%2$d. Wenn Sie Ihre Zustimmung widerrufen, werden die bereits gesammelten und gespeicherten personenbezogenen Daten innerhalb einer bestimmten Frist in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Interkonnektivitätsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten bereitgestellt werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Interkonnektivitätsdienste gewertet. Ihr Widerruf der Zustimmung hat keine Auswirkungen auf die normale Nutzung anderer Funktionen und Dienste. \n%3$d. Der Widerruf der Zustimmung ist eine unumkehrbare Handlung. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald Sie Ihre Zustimmung widerrufen haben.</string>
+    <string name="privacy_revoke_agree_detail_content">%1$d. Sie müssen das Recht haben, Ihre Zustimmung zu widerrufen, bevor Sie fortfahren. \n%2$d. Wenn Sie Ihre Zustimmung widerrufen, werden die bereits gesammelten und gespeicherten personenbezogenen Daten innerhalb einer bestimmten Frist in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Interkonnektivitätsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten bereitgestellt werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Interkonnektivitätsdienste gewertet. Ihr Widerruf der Zustimmung hat keine Auswirkungen auf die normale Nutzung anderer Funktionen und Dienste. \n%3$d. Der Widerruf der Zustimmung ist eine unumkehrbare Handlung. Denken Sie daran, dass Sie Ihre Entscheidung nicht mehr revidieren können, sobald Sie Ihre Zustimmung widerrufen haben.</string>
     <string name="privacy_revoke_agree_detail_prompt">Erklärung zum Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität</string>
     <string name="privacy_revoke_agree_detail_title">Lesen und akzeptieren Sie die \"Erklärung zum Widerruf der Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität\", bevor Sie Ihre Zustimmung widerrufen.</string>
     <string name="privacy_revoke_agree_introduce">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung für Xiaomi Interkonnektivität. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nichts anderes verlangt wird. Da die Interkonnektivitätsdienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbracht werden, wird Ihr Widerruf der Zustimmung als Ablehnung der Interkonnektivitätsdienste gewertet. Ihr Widerruf der Zustimmung hat keinen Einfluss auf die normale Nutzung anderer Funktionen und Dienste.</string>
@@ -895,7 +895,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="screen_projection_example_gallery_summary">Tippen Sie auf die Teilen-Taste unter einem Element in der Galerie-App, um es auf einem externen Monitor anzuzeigen.</string>
     <string name="screen_projection_example_gallery_summary_miui15">Betrachten Sie Ihre Fotos und Videos auf dem TV-Bildschirm</string>
     <string name="screen_projection_example_gallery_title">Fotos &amp; Videos</string>
-    <string name="screen_projection_example_game_hint_miui15">*Um Spiele zu übertragen, tippen Sie während des Spiels auf \"Casting\" in Game Turbo. \nStellen Sie sicher, dass Sie Game Turbo eingeschaltet haben, bevor Sie Spiele übertragen.</string>
+    <string name="screen_projection_example_game_hint_miui15">*Um Spiele zu übertragen, tippen Sie während des Spiels auf \"Casting\" in Game Turbo. \nGame Turbo muss eingeschaltet sein, bevor Sie Spiele übertragen.</string>
     <string name="screen_projection_example_game_summary">Game Turbo erlaubt Ihnen, Spiele auf einen externen Monitor zu übertragen. Verwenden Sie die Verknüpfung in der Toolbox von Game Turbo, um diese Funktion einzuschalten.</string>
     <string name="screen_projection_example_game_summary_miui15">Betrachten Sie Ihre Spielsitzungen auf dem TV</string>
     <string name="screen_projection_example_game_title">Spiele</string>

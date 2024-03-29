@@ -49,7 +49,7 @@
     <string name="dolby_dax_title">Surround Sound</string>
     <string name="ear_canal_scan_function_description">Gehörgang-Scan</string>
     <string name="ear_canal_scan_function_name">Erleben Sie optimierten Klang basierend auf Ihrer Ohrform</string>
-    <string name="ear_canal_scan_notice_disconnect">Scan wurde unterbrochen. Stellen Sie sicher, dass Ihre Ohrhörer angeschlossen sind.</string>
+    <string name="ear_canal_scan_notice_disconnect">Scan wurde unterbrochen. Prüfen Sie, ob Ihre Ohrhörer angeschlossen sind.</string>
     <string name="ear_canal_scan_notice_prepare">Setzen Sie beide Ohrhörer ein und bringen Sie sie in eine bequeme Position.</string>
     <string name="ear_canal_scan_notice_running">Nehmen Sie Ihre Ohrhörer nicht heraus</string>
     <string name="ear_canal_scan_toast_no_double_headset">Setzen Sie beide Ohrhörer ein</string>
@@ -259,7 +259,7 @@
     <string name="multi_music_coexistence_summary">Medienlautstärke nicht während eingehender Benachrichtigungen oder der Audio-Wiedergabe durch eine andere Quelle anpassen</string>
     <string name="multi_music_coexistence_title">Mehrere Audioquellen</string>
     <string name="music_add_my_sound">Eigene Voreinstellungen hinzufügen</string>
-    <string name="music_app_unavailable">Stellen Sie sicher, dass Mi Music installiert ist.</string>
+    <string name="music_app_unavailable">Mi Music muss installiert sein.</string>
     <string name="music_audio_effect_optimize">Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HiFi, Kopfhörer und weitere Audioeinstellungen</string>
@@ -414,7 +414,7 @@
     <string name="sound_id_music_two_title">Nachtfieber</string>
     <string name="sound_id_no_effect_msg">Keinen personalisierten Klang verwenden</string>
     <string name="sound_id_notice_headset_change_msg">Anscheinend verwenden Sie ein anderes Paar Ohrhörer. Test wurde abgebrochen.</string>
-    <string name="sound_id_notice_headset_change_msg2">Anscheinend verwenden Sie ein anderes Paar Ohrhörer. Stellen Sie sicher, dass dieser personalisierte Klang zu diesem Paar Ohrhörer passt.</string>
+    <string name="sound_id_notice_headset_change_msg2">Anscheinend verwenden Sie ein anderes Paar Ohrhörer. Dieser personalisierte Klang muss zu diesem Paar Ohrhörer passen.</string>
     <string name="sound_id_notice_headset_change_title">Ohrhörerstatus bestätigen</string>
     <string name="sound_id_pref_description">Klangeffekte an Ohrhörermodelle anpassen</string>
     <string name="sound_id_pref_name">Eigene Effekte</string>

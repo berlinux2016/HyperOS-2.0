@@ -3,8 +3,8 @@
     <string name="a2dp_connect_success">Audiowiedergabe auf verbundenem Lautsprecher…</string>
     <string name="a2dp_disconnect_success">Audiowiedergabe auf diesem Gerät…</string>
     <string name="a2dp_not_pair">Gerät ist nicht verbunden</string>
-    <string name="a2dp_not_pair_desc">Schalten Sie Bluetooth auf Ihrem Lautsprecher ein. \nStellen Sie sicher, dass die Firmware des Lautsprechers auf dem neuesten Stand ist.</string>
-    <string name="a2dp_not_pair_desc_same_wifi">Verbinden Sie beide Geräte mit demselben Netzwerk und versuchen Sie es erneut. \nStellen Sie sicher, dass die Firmware Ihres Lautsprechers auf dem neuesten Stand ist.</string>
+    <string name="a2dp_not_pair_desc">Schalten Sie Bluetooth auf Ihrem Lautsprecher ein. \nDie Firmware des Lautsprechers muss auf dem neuesten Stand sein.</string>
+    <string name="a2dp_not_pair_desc_same_wifi">Verbinden Sie beide Geräte mit demselben Netzwerk und versuchen Sie es erneut. \nDie Firmware des Lautsprechers muss auf dem neuesten Stand sein.</string>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_up_description">Nach oben</string>
     <string name="abc_action_menu_overflow_description">Weitere Optionen</string>

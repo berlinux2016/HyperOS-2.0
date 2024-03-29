@@ -529,7 +529,7 @@
     <string name="wireless_charging_saver_message">Stromsparen ist jetzt an. Drahtloses Umkehrladen verfügbar halten?</string>
     <string name="wireless_charging_saver_ok">Halten</string>
     <string name="wireless_charging_tips_disable">Nicht mehr anzeigen</string>
-    <string name="wireless_charging_tips_message">Legen Sie das Gerät, das Sie drahtlos laden möchten (z. B. Telefon, Smartwatch, Ohrhörer), auf die Rückseite dieses Telefons. Stellen Sie sicher, dass dieses Telefon mindestens %d%% geladen ist, bevor Sie das drahtlose Umkehrladen verwenden.</string>
+    <string name="wireless_charging_tips_message">Legen Sie das Gerät, das Sie drahtlos laden möchten (z. B. Telefon, Smartwatch, Ohrhörer), auf die Rückseite dieses Telefons. Dieses Telefon muss mind. zu %d%% geladen sein, bevor Sie das drahtlose Umkehrladen verwenden.</string>
     <string name="wireless_charging_tips_sub_message">Das andere Gerät muss drahtloses Qi-Laden unterstützen.</string>
     <string name="wireless_charging_tips_title">Drahtloses Umkehrladen</string>
     <string name="yesterday">Gestern</string>

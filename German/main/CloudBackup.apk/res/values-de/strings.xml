@@ -160,7 +160,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="confirm_restore_summary">Ihr Startbildschirm wird neu gestartet. Gesicherte Apps werden automatisch heruntergeladen.</string>
     <string name="confirm_restore_title">Wiederherstellen</string>
     <string name="copy">Kopieren</string>
-    <string name="cta_dialog_all_purpose">Willkommen bei Cloud-Backup! Mit dieser App können Sie Startbildschirm-Layout, Apps, Systemeinstellungen und WeChat-Daten in der Cloud sichern. Stellen Sie sicher, dass Sie die neueste Version verwenden, um alle unsere Funktionen nutzen zu können.</string>
+    <string name="cta_dialog_all_purpose">Willkommen bei Cloud-Backup! Mit dieser App können Sie Startbildschirm-Layout, Apps, Systemeinstellungen und WeChat-Daten in der Cloud sichern. Sie müssen die neueste Version verwenden, um alle unsere Funktionen nutzen zu können.</string>
     <string name="cta_dialog_permission_description_get_installed_apps">Zum Sichern und Wiederherstellen von Apps</string>
     <string name="cta_dialog_permission_description_storage">Zum Sichern und Wiederherstellen von Elemente</string>
     <string name="customization">&lt;u&gt;Anpassen&lt;/u&gt;</string>
@@ -204,8 +204,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="dialog_negative_btn_cancel_restore">Wiederherstellung beenden</string>
     <string name="dialog_positive_btn_cancel_backup">Nicht abbrechen</string>
     <string name="dialog_positive_btn_cancel_restore">Nicht beenden</string>
-    <string name="dialog_recommend_wechat_backup_content">Sie können jetzt WeChat-Unterhaltungen und andere Daten in der Xiaomi Cloud sichern. Um Ihre Elemente zu sichern, stellen Sie sicher, dass Sie über genügend Cloud-Speicher verfügen und dass dieses Gerät gesperrt ist, mehr als %s Akku hat und nachts mit WLAN verbunden ist. Sie können auch jederzeit eine manuelle Sicherung durchführen.</string>
-    <string name="dialog_recommend_wechat_backup_content_china">Sie können jetzt WeChat-Unterhaltungen und andere Daten in der Xiaomi Cloud sichern. Um Ihre Elemente zu sichern, stellen Sie sicher, dass Sie über genügend Cloud-Speicher verfügen und dass dieses Gerät gesperrt ist, mehr als %s Akku hat und nachts mit WLAN verbunden ist. Sie können auch jederzeit eine manuelle Sicherung durchführen.</string>
+    <string name="dialog_recommend_wechat_backup_content">Sie können jetzt WeChat-Unterhaltungen und andere Daten in der Xiaomi Cloud sichern. Sie müssen über genügend Cloud-Speicher verfügen, dieses Gerät muss gesperrt sein, mehr als %s Akku haben und nachts mit WLAN verbunden sein, um Ihre Elemente zu sichern. Sie können auch jederzeit eine manuelle Sicherung durchführen.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Sie können jetzt WeChat-Unterhaltungen und andere Daten in der Xiaomi Cloud sichern. Sie müssen über genügend Cloud-Speicher verfügen, dieses Gerät muss gesperrt sein, mehr als %s Akku haben und nachts mit WLAN verbunden sein, um Ihre Elemente zu sichern. Sie können auch jederzeit eine manuelle Sicherung durchführen.</string>
     <string name="dialog_recommend_wechat_backup_negative">Verstanden</string>
     <string name="dialog_recommend_wechat_backup_positive">Mehr erfahren</string>
     <string name="dialog_recommend_wechat_backup_title">WeChat-Daten sichern</string>

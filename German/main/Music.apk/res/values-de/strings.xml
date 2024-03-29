@@ -139,7 +139,7 @@
     <string name="asm_download_success">\"%1$s\" heruntergeladen</string>
     <string name="asm_during_the_payment">Zahlungsstatus prüfen…</string>
     <string name="asm_fail_play_song">Titel herunterladen fehlgeschlagen</string>
-    <string name="asm_google_connect_failed">Zahlung wurde nicht abgeschlossen. Stellen Sie sicher, dass Sie im Play Store angemeldet sind.</string>
+    <string name="asm_google_connect_failed">Zahlung wurde nicht abgeschlossen. Prüfen Sie, ob Sie im Play Store angemeldet sind.</string>
     <string name="asm_google_no_goods">Produktinfo abrufen fehlgeschlagen</string>
     <string name="asm_google_not_login">Im Play Store anmelden und erneut versuchen</string>
     <string name="asm_google_pay_success">Google Pay-Bestellung generiert</string>
@@ -521,7 +521,7 @@
     <string name="feed_back_button_text">Feedback senden</string>
     <string name="feed_back_button_toast">Feedback erfolgreich gesendet</string>
     <string name="feed_back_icon_problem">Ich kann das Mi Music-Symbol nicht finden</string>
-    <string name="feed_back_iconp_desc">Stellen Sie sicher, dass Sie die Anzeige der Mi Music-Verknüpfung auf dem Startbildschirm unter Einstellungen > Apps > Startbildschirm-Verknüpfungen verwalten erlaubt haben.</string>
+    <string name="feed_back_iconp_desc">Sie müssen die Anzeige der Mi Music-Verknüpfung auf dem Startbildschirm unter Einstellungen > Apps > Startbildschirm-Verknüpfungen verwalten erlaubt haben.</string>
     <string name="feed_back_iconp_generate">Sie können auch unten tippen, um eine Startbildschirm-Verknüpfung für Mi Music zu erstellen.</string>
     <string name="feed_back_iconp_text">Verknüpfung erstellen</string>
     <string name="feed_back_iconp_toast">Startbildschirm-Verknüpfung erfolgreich erstellt</string>

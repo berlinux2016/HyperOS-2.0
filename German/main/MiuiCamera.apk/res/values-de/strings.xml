@@ -740,7 +740,7 @@
     <string name="dolly_zoom_capture_tip4">Gerät zu weit weg bewegt. Neu beginnen.</string>
     <string name="dolly_zoom_capture_tip5">Video wurde nicht gespeichert</string>
     <string name="dolly_zoom_capture_tip6">Motiv in die Mitte des Bildes bewegen</string>
-    <string name="dolly_zoom_guide_tip1">Stellen Sie sicher, dass zwischen Ihrem Motiv und dem Hintergrund genügend Platz ist.</string>
+    <string name="dolly_zoom_guide_tip1">Zwischen Ihrem Motiv und dem Hintergrund muss genügend Platz sein.</string>
     <string name="dolly_zoom_guide_tip10">Und noch mehr!</string>
     <string name="dolly_zoom_guide_tip2">Versuchen Sie, große Flächen mit Volltonfarben zu vermeiden.</string>
     <string name="dolly_zoom_guide_tip3">Platzieren Sie Ihr Motiv in den Rahmen.</string>
@@ -1575,7 +1575,7 @@
     <string name="pic_flaw_blink_more">Anscheinend hat jemand im Bild die Augen geschlossen</string>
     <string name="pic_flaw_blink_one">Anscheinend hat die Person im Bild die Augen geschlossen</string>
     <string name="pic_flaw_cover">Anscheinend ist die Linse teilweise verdeckt</string>
-    <string name="pixel_mode_capture_hint">Stellen Sie sicher, dass die Umgebung gut beleuchtet ist</string>
+    <string name="pixel_mode_capture_hint">Die Umgebung muss gut beleuchtet sein</string>
     <string name="popup_tip_3d_beauty_intro_text">3D-Verschönerung</string>
     <string name="popup_tips_near_range_mode">Fokus schließen</string>
     <string name="popup_tips_privacy_watermark_edit">Wasserzeichen bearbeiten</string>
