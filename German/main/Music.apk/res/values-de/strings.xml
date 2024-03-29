@@ -1146,7 +1146,7 @@
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_request_error_unknown">Ein Systemfehler ist aufgetreten. Zurückgehen und erneut versuchen.</string>
     <string name="passport_request_gallery_permission_message">Zugriff auf Galerie erlauben:&lt;br />Zum Einstellen von Profilfotos</string>
-    <string name="passport_resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Vergewissern Sie sich, dass sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
+    <string name="passport_resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Prüfen Sie, ob sich die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs befindet.</string>
     <string name="passport_resend_email_reach_limit_title">Zu viele Versuche</string>
     <string name="passport_resend_ticket">Code erneut senden</string>
     <string name="passport_retry">Erneut versuchen</string>

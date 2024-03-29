@@ -284,7 +284,7 @@
     <string name="hsa_send_again_countdown">Erneut senden (%ds)</string>
     <string name="hsa_send_failed">Verifizierungscode wurde nicht gesendet. Etwas warten und erneut versuchen.</string>
     <string name="hsa_sending">Senden…</string>
-    <string name="hsa_tip_message">1. Wenn Sie den Bestätigungscode nicht erhalten, vergewissern Sie sich, dass Sie sich auf Ihrem Apple-Gerät bereits bei iCloud angemeldet haben. \n2. Wenn die Eingabe des Verifizierungscodes nicht hilft, schalten Sie die Zwei-Faktor-Authentifizierung aus.</string>
+    <string name="hsa_tip_message">1. Wenn Sie den Bestätigungscode nicht erhalten, prüfen Sie, ob Sie sich auf Ihrem Apple-Gerät bereits bei iCloud angemeldet haben. \n2. Wenn die Eingabe des Verifizierungscodes nicht hilft, schalten Sie die Zwei-Faktor-Authentifizierung aus.</string>
     <string name="hsa_tip_message_shutdown_hsa">So deaktivieren Sie die Zwei-Faktor-Authentisierung</string>
     <string name="hsa_tip_message_with_device">1. Ein Verifizierungscode wurde an %s gesendet, verknüpft mit Ihrer Apple ID.\n2. Deaktivieren Sie Zwei-Faktor-Authentisierung, wenn der Verifizierungscode nicht funktioniert.</string>
     <string name="hsa_tip_title">Tipps:</string>
@@ -973,7 +973,7 @@
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
     <string name="unknown_hint">Unbekannt</string>
-    <string name="usb_backup_select_data_too_large">Ausgewählte Dateien sind groß. Vergewissern Sie sich, dass das USB-Laufwerk genügend Speicher hat.\nNur wichtige Elemente übertragen.</string>
+    <string name="usb_backup_select_data_too_large">Ausgewählte Dateien sind groß. USB-Laufwerk muss genügend Speicher haben.\nNur wichtige Elemente übertragen.</string>
     <string name="usb_restore_select_data_too_large">Sicherungsdateien sind groß. Das Wiederherstellen kann eine Weile dauern.\nWiederherstellen nur wichtiger Elemente geht schneller.</string>
     <string name="usb_trans_native_no_space">Auf Ihrem Gerät sind nur %s verfügbar.\nSpeicher freigeben oder mehrere kleinere Übertragungen durchführen.</string>
     <string name="usb_trans_old_phone_low_space_msg">Zusätzlicher Speicher wird benötigt, um Ihre Sicherungen zu packen. Nicht genügend Speicher vorhanden, um die Übertragung fortzusetzen. Sie können in \"Sicherheit\" Speicher freigeben und unnötige Dateien löschen oder versuchen, nur wichtige Elemente zu übertragen.</string>

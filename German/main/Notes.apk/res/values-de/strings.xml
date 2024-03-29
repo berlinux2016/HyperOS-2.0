@@ -99,7 +99,7 @@
     <string name="date_time_picker_has_not_set_alarm">Wecker ist nicht eingestellt</string>
     <string name="date_time_picker_has_set_alarm">Wecker erfolgreich eingestellt</string>
     <string name="db_downgrade_clear_button">App-Daten löschen</string>
-    <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere Systemversion wechseln, müssen Sie die App-Daten von Notizen löschen. Bevor Sie das tun, vergewissern Sie sich, dass Sie Ihre Notizen in der Cloud gesichert haben.</string>
+    <string name="db_downgrade_clear_date_reminder">Wenn Sie auf eine andere Systemversion wechseln, müssen Sie die App-Daten von Notizen löschen. Bevor Sie das tun, müssen Sie Ihre Notizen in der Cloud gesichert haben.</string>
     <string name="default_folder_name">Ordner nicht benannt</string>
     <string name="default_update_documents">Update verfügbar. Jetzt aktualisieren?</string>
     <string name="delete_folder_dialog_tile">Ordner löschen</string>

@@ -72,7 +72,7 @@
     <string name="bh_cancel">Abbrechen</string>
     <string name="bh_cancellation_of_carrier_services">Dienste kündigen</string>
     <string name="bh_cancellation_of_carrier_services_des">Mi Carrier-Dienste kündigen</string>
-    <string name="bh_cancellation_of_carrier_services_result">Wenn Sie fortfahren, kündigen Sie die Mi Carrier Services.  Danach hören wir auf, Ihre personenbezogenen Daten zu sammeln und zu verwenden, und löschen Ihren Bestellverlauf dauerhaft.Vergewissern Sie sich, dass alle Ihre Transaktionen abgeschlossen sind, bevor Sie die Dienste kündigen.</string>
+    <string name="bh_cancellation_of_carrier_services_result">Wenn Sie fortfahren, kündigen Sie die Mi Carrier Services.  Danach hören wir auf, Ihre personenbezogenen Daten zu sammeln und zu verwenden, und löschen Ihren Bestellverlauf dauerhaft. All Ihre Transaktionen müssen abgeschlossen sein, bevor Sie die Dienste kündigen.</string>
     <string name="bh_cannot_action">%1$s wurde nicht verwendet. Installieren Sie zuerst die entsprechende App.</string>
     <string name="bh_cannot_fetch_num">Unbekannte Rufnummer</string>
     <string name="bh_cannot_login_miacount">Anmelden am Xiaomi-Konto nicht möglich</string>
@@ -214,7 +214,7 @@
     <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Zustimmung widerrufen und Dienst kündigen</string>
     <string name="bh_withdrawal_of_consent_des">Zustimmung zur Datenschutzerklärung der Mi Carrier-Dienste widerrufen</string>
     <string name="bh_withdrawal_of_consent_long">Zustimmung widerrufen</string>
-    <string name="bh_withdrawal_of_consent_result">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung der Mi Carrier-Dienste. Danach werden wir aufhören, Ihre personenbezogenen Daten zu sammeln und zu verwenden, und Ihre Bestellhistorie dauerhaft löschen. Vergewissern Sie sich, dass alle Ihre Transaktionen abgeschlossen sind, bevor Sie Ihre Zustimmung widerrufen.</string>
+    <string name="bh_withdrawal_of_consent_result">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung der Mi Carrier-Dienste. Danach werden wir aufhören, Ihre personenbezogenen Daten zu sammeln und zu verwenden, und Ihre Bestellhistorie dauerhaft löschen. All Ihre Transaktionen müssen abgeschlossen sein, bevor Sie Ihre Zustimmung widerrufen.</string>
     <string name="bh_wrong_number_hint">Gültige Rufnummer eingeben</string>
     <string name="bind_simcard_default">Standard-SIM für Anrufe</string>
     <string name="bind_simcard_menu">Standard-SIM für Anrufe festlegen</string>

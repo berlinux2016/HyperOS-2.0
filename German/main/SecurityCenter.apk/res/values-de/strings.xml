@@ -1022,7 +1022,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="bh_settings_declare">Haftungsausschluss</string>
     <string name="bh_settings_policy_text">Datenschutzerklärung</string>
     <string name="bh_settings_user_agreement">Nutzervereinbarung</string>
-    <string name="bh_settings_withdrawal_dialog_content_text">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Yulore Limited.\nDanach werden wir aufhören, Ihre personenbezogenen Daten zu sammeln und zu verwenden und Ihre Bestellhistorie dauerhaft löschen. Vergewissern Sie sich, dass alle Ihre Transaktionen abgeschlossen sind, bevor Sie Ihre Zustimmung widerrufen.</string>
+    <string name="bh_settings_withdrawal_dialog_content_text">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Yulore Limited.\nDanach werden wir aufhören, Ihre personenbezogenen Daten zu sammeln und zu verwenden und Ihre Bestellhistorie dauerhaft löschen. All Ihre Transaktionen müssen abgeschlossen sein, bevor Sie Ihre Zustimmung widerrufen.</string>
     <string name="bh_settings_withdrawal_dialog_not_content_text">Anscheinend möchten Sie Ihre Zustimmung zur Datenschutzerklärung von Yulore Limited widerrufen.\nEinige Ihrer Transaktionen sind jedoch noch nicht abgeschlossen. Um Ihre Zustimmung zu widerrufen, wenden Sie sich bitte an den Kundensupport, um Ihre Bestellungen abzuschließen.</string>
     <string name="bh_settings_withdrawal_dialog_title">Zustimmung widerrufen</string>
     <string name="bh_settings_withdrawal_subtitle">Zustimmung zur Datenschutzerklärung von Datennutzung widerrufen</string>
@@ -4919,7 +4919,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_antispam_scan_title">Sperrliste</string>
     <string name="sp_background_risk_dialog_summary">, prüfen und beheben Sie Zahlungsprobleme.</string>
     <string name="sp_background_risk_dialog_summary_new">Die derzeitige Zahlungsumgebung könnte Sicherheitsrisiken bergen. Nehmen Sie sich einen Moment Zeit, um mehr zu erfahren.</string>
-    <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem ggf. unsicheren öffentlichen WLAN verbunden. Vergewissern Sie sich, dass Ihre Zahlung geschützt ist, bevor Sie sie abschließen.</string>
+    <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem ggf. unsicheren öffentlichen WLAN verbunden. Ihre Zahlung muss geschützt sein, bevor Sie sie abschließen.</string>
     <string name="sp_background_risk_dialog_title">Risiko erkannt</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Warnung bei öffentlichem WLAN</string>
     <string name="sp_background_risk_type_messaging">Systemnachrichten-App hat sich geändert</string>

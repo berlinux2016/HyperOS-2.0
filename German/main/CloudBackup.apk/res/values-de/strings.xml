@@ -425,7 +425,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_from_mimover">Von Ihrem alten Gerät mit Mi Mover übertragen</string>
     <string name="restore_from_this_device">Sicherung wählen</string>
     <string name="restore_header_backup_size">Sicherungsgröße: %s</string>
-    <string name="restore_header_msg">Vergewissern Sie sich vor der Wiederherstellung von WeChat-Daten, dass WeChat nicht auf diesem Gerät installiert ist. Öffnen oder verwenden Sie WeChat nicht, während die Daten wiederhergestellt werden.</string>
+    <string name="restore_header_msg">Prüfen Sie vor der Wiederherstellung von WeChat-Daten, dass WeChat nicht auf diesem Gerät installiert ist. Öffnen oder verwenden Sie WeChat nicht, während die Daten wiederhergestellt werden.</string>
     <string name="restore_header_title">Gesamtgröße: %s</string>
     <string name="restore_header_title2">Sicherungen insgesamt: %s</string>
     <string name="restore_header_title_backup_time">Zeit</string>
@@ -487,7 +487,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="session_failed_override_detail">Lokale Sicherung unterscheidet sich von der Sicherung in der Xiaomi Cloud. Wenn Sie fortfahren, wird die aktuelle Sicherung die vorherige überschreiben. Jetzt überschreiben?</string>
     <string name="session_failed_override_title">Sicherung überschreiben</string>
     <string name="session_failed_restore_app_data_btn_text">Zurück</string>
-    <string name="session_failed_restore_app_data_detail">Vergewissern Sie sich, dass WeChat auf diesem Gerät nicht installiert ist, bevor Sie Elemente wiederherstellen. Öffnen oder verwenden Sie WeChat nicht, während die Daten wiederhergestellt werden.</string>
+    <string name="session_failed_restore_app_data_detail">WeChat darf auf diesem Gerät nicht installiert sein, bevor Sie Elemente wiederherstellen. Öffnen oder verwenden Sie WeChat nicht, während die Daten wiederhergestellt werden.</string>
     <string name="session_failed_restore_app_data_title">WeChat deinstallieren</string>
     <string name="session_failed_title_backup">Sichern nicht möglich</string>
     <string name="session_failed_title_restore">Wiederherstellen nicht möglich</string>

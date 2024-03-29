@@ -568,7 +568,7 @@
     <string name="card_title_pastyear_sports">Workouts letztes Jahr</string>
     <string name="card_title_recent_memory">Neueste Erinnerungen</string>
     <string name="card_title_three_month_baby">Zeit verfliegt</string>
-    <string name="cast_devices_unavailable_desc">Vergewissern Sie sich, dass sowohl dieses Gerät als auch der Projektor an dasselbe WLAN angeschlossen sind.</string>
+    <string name="cast_devices_unavailable_desc">Sowohl dieses Gerät als auch der Projektor müssen an dasselbe WLAN angeschlossen sein.</string>
     <string name="cast_devices_unavailable_title">Projektor nicht gefunden</string>
     <string name="cd_back">Wiederherstellen</string>
     <string name="cd_btn_back">Zurück-Taste</string>

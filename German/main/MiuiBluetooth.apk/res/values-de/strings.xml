@@ -102,8 +102,8 @@
     <string name="bt_plugin_update_notification_updating">Bluetooth-Update</string>
     <string name="celluar_tether_disconect_title">Getrennt</string>
     <string name="celluar_tether_name">Drahtloses Tethering</string>
-    <string name="celluar_tether_prompt">Mit drahtlosem Tethering kann Ihr Tablet die mobilen Daten Ihres Telefons nutzen. Es scheint kein kompatibles Xiaomi-Telefon in der Nähe zu sein. Vergewissern Sie sich, dass Ihr Telefon und Ihr Tablet mit demselben Xiaomi-Konto angemeldet sind, die mobilen Daten Ihres Telefons aktiviert sind und beide Geräte mit WLAN verbunden sind.</string>
-    <string name="celluar_tether_prompt_china">Mit drahtlosem Tethering kann Ihr Tablet die mobilen Daten Ihres Telefons nutzen. Es scheint kein kompatibles Xiaomi-Telefon in der Nähe zu sein. Vergewissern Sie sich, dass Ihr Telefon und Ihr Tablet mit demselben Xiaomi-Konto angemeldet sind, die mobilen Daten Ihres Telefons aktiviert sind und beide Geräte mit WLAN verbunden sind.</string>
+    <string name="celluar_tether_prompt">Mit drahtlosem Tethering kann Ihr Tablet die mobilen Daten Ihres Telefons nutzen. Es scheint kein kompatibles Xiaomi-Telefon in der Nähe zu sein. Ihr Telefon und Ihr Tablet müssen mit demselben Xiaomi-Konto angemeldet sein, mobile Daten Ihres Telefons müssen aktiviert und beide Geräte mit WLAN verbunden sein.</string>
+    <string name="celluar_tether_prompt_china">Mit drahtlosem Tethering kann Ihr Tablet die mobilen Daten Ihres Telefons nutzen. Es scheint kein kompatibles Xiaomi-Telefon in der Nähe zu sein. Ihr Telefon und Ihr Tablet müssen mit demselben Xiaomi-Konto angemeldet sein, mobile Daten Ihres Telefons müssen aktiviert und beide Geräte mit WLAN verbunden sein.</string>
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="close">Schließen</string>
     <string name="config_net_device_connect">Verbinden</string>

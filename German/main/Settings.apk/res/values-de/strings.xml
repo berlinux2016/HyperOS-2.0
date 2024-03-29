@@ -5133,8 +5133,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mashup_sound_australia">Australien</string>
     <string name="master_clear_accounts">"Sie sind zurzeit in folgenden Konten angemeldet: "</string>
     <string name="master_clear_all">Alle Daten vom internen Telefonspeicher löschen? Sie können diese Aktion nicht rückgängig machen.</string>
-    <string name="master_clear_apply_step_1"><b>\"Werksreset\" löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere personenbezogene Daten. Vergewissern Sie sich, dass Sie all Ihre wichtigen Daten auf einem Computer gesichert haben.</string>
-    <string name="master_clear_apply_step_2">Vergewissern Sie sich, dass Sie wichtige Daten auf einem Computer gesichert haben. Sämtliche Daten werden während des Rücksetzens von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
+    <string name="master_clear_apply_step_1"><b>\"Werksreset\" löscht alle Daten auf Ihrem Telefon</b>, inkl. Fotos, Musik, Notizen und andere personenbezogene Daten. All Ihre wichtigen Daten müssen auf einem Computer gesichert sein.</string>
+    <string name="master_clear_apply_step_2">Wichtige Daten müssen auf einem Computer gesichert sein. Sämtliche Daten werden während des Rücksetzens von Ihrem Gerät gelöscht. <b>Sie können nicht gesicherte Inhalte anschließend nicht mehr wiederherstellen.</b></string>
     <string name="master_clear_apply_title">Hinweis</string>
     <string name="master_clear_button_text">Telefon zurücksetzen</string>
     <string name="master_clear_confirm_title">Zurücksetzen?</string>
@@ -5309,7 +5309,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_Intelligentpickfree_summary">Wenn die Geräuschunterdrückung eingeschaltet ist, schalten Ihre Ohrhörer automatisch für kurze Zeit auf Transparenz um, wenn sie Stimmen erkennen.</string>
     <string name="miheadset_LEAudio_summary">Einige Funktionen sind nicht verfügbar, wenn LE Audio aktiviert ist.</string>
     <string name="miheadset_LEAudio_title">LE Audio einschalten?</string>
-    <string name="miheadset_LE_on_toast">Vergewissern Sie sich, dass beide Ohrhörer aufgeladen sind und nehmen Sie sie aus der Ladeschale, bevor Sie diese Funktion einschalten.</string>
+    <string name="miheadset_LE_on_toast">Beide Ohrhörer müssen aufgeladen sein. Nehmen Sie sie aus der Ladeschale, bevor Sie diese Funktion einschalten.</string>
     <string name="miheadset_LeftEar">Links</string>
     <string name="miheadset_RightEar">Rechts</string>
     <string name="miheadset_active">Kraftvoll</string>
@@ -10059,7 +10059,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="usb_adb_input_desc">Berechtigungen erteilen und Eingabesimulation über USB-Debugging erlauben</string>
     <string name="usb_audio_disable_routing">USB-Audio-Routing deaktivieren</string>
     <string name="usb_audio_disable_routing_summary">Automatisches Routing auf USB-Audio-Peripheriegeräte deaktivieren</string>
-    <string name="usb_backup_select_data_too_large">Ausgewählte Dateien sind groß. Vergewissern Sie sich, dass das USB-Laufwerk genügend Speicher hat.\nNur wichtige Elemente übertragen.</string>
+    <string name="usb_backup_select_data_too_large">Ausgewählte Dateien sind groß. USB-Laufwerk muss genügend Speicher haben.\nNur wichtige Elemente übertragen.</string>
     <string name="usb_charging_summary">Schalten Sie alle anderen USB-Verbindungen ab, um das Laden zu beschleunigen.</string>
     <string name="usb_charging_title">Laden beschleunigen</string>
     <string name="usb_connection_category">Verbinden als</string>

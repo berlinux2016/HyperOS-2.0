@@ -351,7 +351,7 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
     <string name="cit_second_screen_accelermeter_sensor_cali_title">Zweiter Bildschirm Kalibrierungstest Beschleunigungssensor</string>
     <string name="cit_second_screen_gyroscope_sensor_cali_title">Zweiter Bildschirm Gyroskopsensor-Kalibrierungstest</string>
     <string name="cit_signature_check_label">Signaturprüfung:</string>
-    <string name="cit_sim_check_summary">Vergewissern Sie sich, dass der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden, nur zwei NFC-SIM-Karten gleichzeitig vorhanden sind und bei korrektem Status ist es bestanden.</string>
+    <string name="cit_sim_check_summary">Prüfen Sie, ob der Status und die Informationen der NFC-SIM-Karte korrekt angezeigt werden, nur zwei NFC-SIM-Karten gleichzeitig vorhanden sind und bei korrektem Status ist es bestanden.</string>
     <string name="cit_sim_check_title">SIM-Karte</string>
     <string name="cit_sim_error_unknown">Unbekannt</string>
     <string name="cit_sim_network_operator">Netzwerkdienstleister:</string>
@@ -564,7 +564,7 @@ Test fehlgeschlagen!"</string>
     <string name="cit_uwb_calibrate_data_cali_tip">Datenkalibrierung</string>
     <string name="cit_uwb_calibrate_summary">Dieser Test ist für Wartungstechniker gedacht, bitte nutzen Sie ihn mit Bedacht</string>
     <string name="cit_uwb_calibrate_title">UWB-Kalibrierungstest</string>
-    <string name="cit_version_check_summary">Unten finden Sie Infos zur OS-Version. Vergewissern Sie sich, dass die grün markierte Info korrekt ist.</string>
+    <string name="cit_version_check_summary">Unten finden Sie Infos zur OS-Version. Die grün markierte Info muss korrekt sein.</string>
     <string name="cit_version_check_title">Versionsinfo prüfen</string>
     <string name="cit_vga_camera_cameralist_fail">Fehler: cameralist stimmt nicht überein</string>
     <string name="cit_vibrator_check">Vibrationstest</string>
@@ -576,10 +576,10 @@ Bestätigen Sie, dass die Farben am gesamten Bildschirm einheitlich dargestellt 
     <string name="cit_vice_touch_panel_test_summary">Nach Einschalten des kleinen Bildschirms und einem Doppeltipp zum Aufhellen des Bildschirms müssen Sie den Bildschirm umdrehen und auf den hinteren kleinen Bildschirm doppelt tippen, um den Bildschirm aufzuhellen, und auf dem kleinen Bildschirm ein Kreuz entlang des Rasters zeichnen.</string>
     <string name="cit_vice_touch_panel_test_tips">Bitte bestätigen Sie, dass der kleine Bildschirm und der Doppeltipp zum Einschalten des Bildschirms am kleinen Bildschirm auf der Rückseite eingeschaltet sind, dann tippen Sie.</string>
     <string name="cit_vice_touch_panel_test_title">Stellvertreter-Berührungssensor</string>
-    <string name="cit_wifi_address_check_summary">Nachfolgend die Adresse des WLAN, mit dem das Gerät gerade verbunden ist. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
+    <string name="cit_wifi_address_check_summary">Nachfolgend die Adresse des WLAN, mit dem das Gerät gerade verbunden ist. Die grün markierte Info muss korrekt sein.</string>
     <string name="cit_wifi_address_check_title">WLAN-Adresse</string>
     <string name="cit_wifi_address_error">WLAN-Adresse nicht erhalten. WLAN muss aktiviert sein.</string>
-    <string name="cit_wifi_ap_scan_check_summary">Nachfolgend finden Sie die WLAN-AP-Info der erkannten Geräte in der Umgebung. Vergewissern Sie sich, dass die grün markierte Information korrekt ist.</string>
+    <string name="cit_wifi_ap_scan_check_summary">Nachfolgend finden Sie die WLAN-AP-Info der erkannten Geräte in der Umgebung. Die grün markierte Info muss korrekt sein.</string>
     <string name="cit_wifi_ap_scan_check_title">WLAN-AP-Scan</string>
     <string name="cit_wifi_ap_scan_retry">Erneut scannen…</string>
     <string name="cit_wifi_ap_scanning">Scannen…</string>
