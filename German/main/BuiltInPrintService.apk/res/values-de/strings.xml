@@ -36,7 +36,7 @@
     <string name="recommendation_enable_summary">Zum Aktivieren auswählen</string>
     <string name="recommendation_install_summary">Zum Installieren auswählen</string>
     <string name="recommendation_manage">Dienste verwalten</string>
-    <string name="recommendation_summary">Der Standard-Druckdienst bietet grundlegende Optionen. Andere Optionen für diesen Drucker sind möglicherweise von einem anderen Druckdienst erhältlich.</string>
+    <string name="recommendation_summary">Der Standard-Druckdienst bietet grundlegende Optionen. Andere Optionen für diesen Drucker sind ggf. von einem anderen Druckdienst erhältlich.</string>
     <string name="recommendations_heading">Empfohlene Dienstleistungen</string>
     <string name="reject">Verwerfen</string>
     <string name="saved_printers">Gespeicherte Drucker</string>

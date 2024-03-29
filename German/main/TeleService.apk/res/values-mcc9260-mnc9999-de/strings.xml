@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="change_data_preference_4g_only_prompt">Anscheinend ist eine SIM-Karte installiert, die nur LTE unterstützt. Für den ordnungsgemäßen Betrieb sollte diese Karte als Standard für mobile Daten festgelegt werden. Jetzt festlegen?</string>
-    <string name="change_data_sim_4g_only_prompt">SIM 1 unterstützt nur LTE. Wenn SIM 2 nicht die Standard-SIM für mobile Daten ist, funktioniert die SIM-Karte möglicherweise nicht ordnungsgemäß. Jetzt wechseln?</string>
+    <string name="change_data_sim_4g_only_prompt">SIM 1 unterstützt nur LTE. Wenn SIM 2 nicht die Standard-SIM für mobile Daten ist, funktioniert die SIM-Karte ggf. nicht ordnungsgemäß. Jetzt wechseln?</string>
     <string name="dual_4g_switch_summary">LTE-Verbindung für beide SIM-Steckplätze zulassen</string>
     <string name="dual_4g_switch_title">Dual-LTE</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE erfordert eine LTE-Verbindung für beide SIM-Steckplätze. Jetzt zu Dual-LTE wechseln?</string>

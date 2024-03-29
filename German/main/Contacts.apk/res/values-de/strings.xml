@@ -323,7 +323,7 @@
     <string name="cloud_upgrade_recommend">Kontakte können wegen unzureichendem Cloud-Speicher nicht synchronisiert werden. Aktualisieren Sie Ihren Cloud-Speichertarif.</string>
     <string name="comma">Komma</string>
     <string name="composer_failed_to_get_database_infomation">Abrufen der Datenbankinformationen nicht möglich</string>
-    <string name="composer_has_no_exportable_contact">Keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden, ist das Exportieren der Kontakte möglicherweise durch den Datenanbieter gesperrt.</string>
+    <string name="composer_has_no_exportable_contact">Keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden, ist das Exportieren der Kontakte ggf. durch den Datenanbieter gesperrt.</string>
     <string name="composer_not_initialized">Programm zum Erstellen der vCard wurde nicht richtig ausgeführt</string>
     <string name="conference_call_disable_tip">Anrufen nicht möglich. Ihr Gerät muss mit einem 4G-Netzwerk mit VoLTE-Unterstützung verbunden sein.</string>
     <string name="confirm_call_log_dial_summary">Bitten Sie um Bestätigung, bevor Sie aus den Anrufprotokollen anwählen, um versehentliche Anrufe zu vermeiden.</string>

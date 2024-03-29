@@ -39,7 +39,7 @@
     <string name="add_holiday_title">Urlaub hinzufügen</string>
     <string name="additional_cal_dialog_title">Kalender wählen</string>
     <string name="additional_cal_pref_title">Zusätzliche Kalender</string>
-    <string name="additional_calendar_note">Einige zusätzliche Kalender sind möglicherweise nicht verfügbar oder variieren in Abhängigkeit von verschiedenen Faktoren</string>
+    <string name="additional_calendar_note">Einige zusätzliche Kalender sind ggf. nicht verfügbar oder variieren in Abhängigkeit von verschiedenen Faktoren</string>
     <string name="address">Adresse</string>
     <string name="afternoon">Nachmittag</string>
     <string name="agenda_month_empty_hint">Keine Termine heute</string>

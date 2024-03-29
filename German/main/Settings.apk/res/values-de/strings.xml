@@ -7528,9 +7528,9 @@ UT Interface: %5$s"</string>
     <string name="screen_dark_mode_advanced_title">Erweitert</string>
     <string name="screen_dark_mode_select_time_error_summary">Startzeit und Endzeit dürfen nicht identisch sein</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Drittanbieter-Apps</string>
-    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Einige Apps werden im Dark Mode möglicherweise falsch angezeigt. Hier können Sie die Verwendung des Dark Mode für einzelne Apps einschränken.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Einige Apps werden im Dark Mode ggf. falsch angezeigt. Hier können Sie die Verwendung des Dark Mode für einzelne Apps einschränken.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Einzelne Apps</string>
-    <string name="screen_dark_mode_smart_dark_summary">Dark Mode auch auf Drittanbieter-Apps anwenden. Einige Apps werden möglicherweise falsch angezeigt.</string>
+    <string name="screen_dark_mode_smart_dark_summary">Dark Mode auch auf Drittanbieter-Apps anwenden. Einige Apps werden ggf. falsch angezeigt.</string>
     <string name="screen_dark_mode_smart_dark_title">Dark Mode überall</string>
     <string name="screen_dark_mode_time_summary">Ihr Gerät wechselt zur geplanten Zeit in den Dark Mode, wenn Sie den Bildschirm ausschalten</string>
     <string name="screen_dark_mode_time_title">Zeitplan Dark Mode</string>

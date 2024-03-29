@@ -466,7 +466,7 @@
     <string name="new_local_button_restore">Wiederherstellen</string>
     <string name="new_local_click_to_jump">Tippen, um detaillierte Anweisungen anzuzeigen</string>
     <string name="new_local_detail_description">Hinweis:\n%1$d. Kopieren Sie Sicherungen auf Ihren Computer, um Datenverluste zu vermeiden. %2$s.\n%3$d. Sicherungen werden in MIUI-Backup-AllBackup gespeichert.</string>
-    <string name="new_local_detail_description_global">Hinweis:\n%1$d. Kopieren Sie Sicherungen auf Ihren Computer, um Datenverluste zu vermeiden. %2$s.\n%3$d. Sicherungen werden in MIUI-Backup-AllBackup gespeichert.\n%4$d. Einige Apps unterstützen möglicherweise keine Sicherungen.</string>
+    <string name="new_local_detail_description_global">Hinweis:\n%1$d. Kopieren Sie Sicherungen auf Ihren Computer, um Datenverluste zu vermeiden. %2$s.\n%3$d. Sicherungen werden in MIUI-Backup-AllBackup gespeichert.\n%4$d. Einige Apps unterstützen ggf. keine Sicherungen.</string>
     <string name="new_local_tab_backup">Sichern</string>
     <string name="new_local_tab_backup_pad">Sichern</string>
     <string name="new_local_tab_restore">Wiederherstellen</string>
