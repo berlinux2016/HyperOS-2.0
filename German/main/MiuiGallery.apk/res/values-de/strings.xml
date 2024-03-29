@@ -2202,7 +2202,7 @@
     <string name="photo_font_cancel_download">Abbrechen</string>
     <string name="photo_font_download">Herunterladen</string>
     <string name="photo_font_download_failed_for_notwork">Herunterladen fehlgeschlagen. Mit Netzwerk verbinden und erneut versuchen.</string>
-    <string name="photo_font_download_without_wifi_msg">Verwendung mobiler Daten zum Herunterladen von Dateien wird Ihre Datennutzung erhöhen. Wenn Sie Ihren Datentarif überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+    <string name="photo_font_download_without_wifi_msg">Verwendung mobiler Daten zum Herunterladen von Dateien wird Ihre Datennutzung erhöhen. Wenn Sie Ihren Datentarif überschreiten, kann Ihr Anbieter Ihnen zusätzliche Kosten berechnen.</string>
     <string name="photo_font_download_without_wifi_title">Warnhinweis Datennutzung</string>
     <string name="photo_movie_module_finish">Clips erfolgreich geladen</string>
     <string name="photo_movie_module_loading">Clips laden…</string>

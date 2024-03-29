@@ -48,14 +48,14 @@
     <string name="activate_popup_confirm_failed_server">Erneut versuchen</string>
     <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Um \"%2$s\" zu aktivieren, werden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale kostenpflichtige SMS&lt;/b> gesendet. Ihr Anbieter wird Ihnen diese Nachrichten berechnen.</string>
     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Um \"%2$s\" zu aktivieren, werden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>inländische kostenpflichtige SMS&lt;/b> gesendet. Ihr Anbieter wird Ihnen diese Nachrichten berechnen.</string>
-    <string name="activate_popup_desc_all_gateway_failed_query_info">Rufnummer wurde nicht gefunden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.\nGeben Sie die zugehörige Rufnummer ein, um %s zu reaktivieren.</string>
-    <string name="activate_popup_desc_all_gateway_failed_send_sms">Aktivierungsnachricht wurde nicht gesendet. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert wurde.\nGeben Sie die zugehörige Rufnummer ein, um %s zu reaktivieren.</string>
+    <string name="activate_popup_desc_all_gateway_failed_query_info">Rufnummer wurde nicht gefunden. Prüfen Sie, ob Ihre SIM-Karte aktiviert wurde.\nGeben Sie die zugehörige Rufnummer ein, um %s zu reaktivieren.</string>
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">Aktivierungsnachricht wurde nicht gesendet. Prüfen Sie, ob Ihre SIM-Karte aktiviert wurde.\nGeben Sie die zugehörige Rufnummer ein, um %s zu reaktivieren.</string>
     <string name="activate_popup_desc_error_device">Ungültige IMEI. Tippen, um es erneut zu versuchen.</string>
     <string name="activate_popup_desc_failed_phone_error">Eingegebene Nummer ist ungültig</string>
-    <string name="activate_popup_desc_failed_query_info">Rufnummer nicht gefunden. Stellen Sie sicher, dass Ihre SIM-Karte aktiviert ist.</string>
-    <string name="activate_popup_desc_failed_query_info_msg">Rufnummer wurde nicht geprüft. Stellen Sie sicher, dass SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="activate_popup_desc_failed_query_info_msg_one_sim">Rufnummer wurde nicht geprüft. Stellen Sie sicher, dass die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="activate_popup_desc_failed_receive_sms">Stellen Sie sicher, dass die eingegebene Nummer korrekt und Ihre SIM-Karte aktiviert ist</string>
+    <string name="activate_popup_desc_failed_query_info">Rufnummer nicht gefunden. Ihre SIM-Karte muss aktiviert sein.</string>
+    <string name="activate_popup_desc_failed_query_info_msg">Rufnummer wurde nicht geprüft. Prüfen Sie, ob SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_popup_desc_failed_query_info_msg_one_sim">Rufnummer wurde nicht geprüft. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_popup_desc_failed_receive_sms">Eingegebene Nummer muss korrekt und Ihre SIM-Karte aktiviert sein</string>
     <string name="activate_popup_desc_failed_server">Netzwerkverbindung prüfen und erneut versuchen.</string>
     <string name="activate_popup_desc_failed_server_msg">Ein Serverfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Um \"%3$s\" zu aktivieren, geben Sie die Rufnummer von SIM %2$d ein. Wenn Sie diese SIM-Karte ersetzen, wird eine weitere Aktivierungs-SMS gesendet.</string>
@@ -68,21 +68,21 @@
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Um %2$s zu aktivieren, wird &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>kostenpflichtige SMS&lt;/font> gesendet. Ihr Anbieter wird Ihnen diese Nachricht berechnen.</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Um \"%3$s\" zu aktivieren, geben Sie die Rufnummer von SIM %2$d ein. Technischer Support wird teilweise von Weihuitel geleistet. Einzelheiten finden Sie in der Weihuitel-Datenschutzerklärung.</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Um \"%2$s\" zu aktivieren, geben Sie Ihre Rufnummer ein. Technischer Support wird zum Teil von Weihuitel bereitgestellt. Einzelheiten finden Sie in der Weihuitel-Datenschutzerklärung.</string>
-    <string name="activate_popup_failed_send_sms_desc">Aktivierungs-SMS wurde nicht gesendet. Stellen Sie sicher, dass SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="activate_popup_failed_send_sms_desc_one_sim">Aktivierungs-SMS wurde nicht gesendet. Stellen Sie sicher, dass die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_popup_failed_send_sms_desc">Aktivierungs-SMS wurde nicht gesendet. Prüfen Sie, ob SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">Aktivierungs-SMS wurde nicht gesendet. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
     <string name="activate_progress_status_title">\"%s\" aktivieren…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">Xiaomi-Konto wurde nicht erstellt</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Xiaomi-Konto wurde erfolgreich erstellt</string>
     <string name="activate_status_desc_acquire_phone_number">Rufnummer verifizieren…</string>
-    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Rufnummer wurde nicht verifiziert. Stellen Sie sicher, dass SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Rufnummer wurde nicht verifiziert. Stellen Sie sicher, dass die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Rufnummer wurde nicht verifiziert. Prüfen Sie, ob SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Rufnummer wurde nicht verifiziert. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
     <string name="activate_status_desc_completed_with_sms_sent_for_activate_server">Zur Aktivierung dieses Dienstes wurde %d normale SMS verschickt.</string>
     <string name="activate_status_desc_getting_gateway">SMS-Gateway abrufen…</string>
     <string name="activate_status_desc_query_activation_server_info">Info abrufen…</string>
     <string name="activate_status_desc_registering_sim_account">SIM-Karte registrieren…</string>
     <string name="activate_status_desc_request_activation_sms">Aktivierungs-SMS anfordern…</string>
-    <string name="activate_status_desc_request_activation_sms_server_error_tip">Aktivierungs-SMS wurde nicht empfangen. Stellen Sie sicher, dass SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Aktivierungs-SMS wurde nicht empfangen. Stellen Sie sicher, dass die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip">Aktivierungs-SMS wurde nicht empfangen. Prüfen Sie, ob SIM %d richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">Aktivierungs-SMS wurde nicht empfangen. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
     <string name="activate_status_desc_sending_sms">Aktivierungs-SMS senden…</string>
     <string name="activate_status_desc_wait_for_sms">Auf Aktivierungs-SMS vom Server warten…</string>
     <string name="activate_status_title_activating_sim">\"%2$s\" mit SIM %1$d aktivieren…</string>
@@ -103,8 +103,8 @@
     <string name="error_network_io_tip">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="error_no_get_send_sms_permission">Erst SIM %d erlauben, SMS zu senden</string>
     <string name="error_no_get_send_sms_permission_one_sim">Erst den Versand von SMS zulassen.</string>
-    <string name="error_sim_not_in_service_tip">SIM %d kann keine Netzwerkverbindung herstellen. Stellen Sie sicher, dass die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="error_sim_not_in_service_tip_one_sim">Netzwerkverbindung nicht möglich. Stellen Sie sicher, dass die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="error_sim_not_in_service_tip">SIM %d kann keine Netzwerkverbindung herstellen. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">Netzwerkverbindung nicht möglich. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
     <string name="evening">Nachmittag</string>
     <string name="explain_activate_register_xiaomi_account_title">Xiaomi-Konto erstellen</string>
     <string name="explain_activate_send_sms_permission_msg">Um %s zu aktivieren, benötigt Ihr Gerät die Berechtigung zum Senden von Aktivierungs-SMS. Diese Nachricht wird Ihnen von Ihrem Anbieter berechnet.</string>

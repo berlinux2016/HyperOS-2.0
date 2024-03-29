@@ -182,8 +182,8 @@
         <item quantity="one">&lt;Data>Sie können &lt;font color=#F22424>%d&lt;/font> App deinstallieren&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">Sie haben bereits %s tägliches Datenlimit verwendet. \n\nBeim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten berechnen.</item>
-        <item quantity="one">Sie haben bereits %s tägliches Datenlimit verwendet. \n\nBeim Einschalten mobiler Daten kann Ihr Mobilfunkanbieter zusätzliche Kosten berechnen.</item>
+        <item quantity="other">Sie haben bereits %s tägliches Datenlimit verwendet. \n\nBeim Einschalten mobiler Daten kann Ihr Anbieter zusätzliche Kosten berechnen.</item>
+        <item quantity="one">Sie haben bereits %s tägliches Datenlimit verwendet. \n\nBeim Einschalten mobiler Daten kann Ihr Anbieter zusätzliche Kosten berechnen.</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Sie haben bereits %s tägliches Datenlimit verwendet</item>

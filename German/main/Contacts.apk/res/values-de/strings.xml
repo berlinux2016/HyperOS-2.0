@@ -997,7 +997,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="recentCallsIconLabel">Anrufliste</string>
     <string name="recent_contacts_label">Neueste</string>
     <string name="recent_number">Aktuell</string>
-    <string name="redirect_calls_to_vm_confirm_message">Bevor Sie Ihre Mailbox einrichten, prüfen Sie die Vertragsbedingungen Ihres Mobilfunkanbieters.</string>
+    <string name="redirect_calls_to_vm_confirm_message">Bevor Sie Ihre Mailbox einrichten, prüfen Sie die Vertragsbedingungen Ihres Anbieters.</string>
     <string name="relationLabelsGroup">Beziehung</string>
     <string name="removePhoto">Foto entfernen</string>
     <string name="remove_blacklist">Entsperren</string>

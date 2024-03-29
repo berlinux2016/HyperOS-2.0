@@ -192,7 +192,7 @@
     <string name="print_fail_network_error">Drucken fehlgeschlagen. Netzwerkverbindung prüfen und erneut versuchen.</string>
     <string name="print_forget_printer">Drucker vergessen</string>
     <string name="print_help_label">Hilfe</string>
-    <string name="print_help_tip">Stellen Sie sicher, dass sowohl Ihr Telefon als auch der Drucker mit dem gleichen WLAN verbunden sind oder Wi-Fi Direct an ist. %1$s.</string>
+    <string name="print_help_tip">Sowohl Ihr Telefon als auch der Drucker müssen mit dem gleichen WLAN verbunden oder Wi-Fi Direct an sein. %1$s.</string>
     <string name="print_help_tip_reg">\"Hilfe\" anzeigen</string>
     <string name="print_no_print_services">Druckdienste nicht aktiviert</string>
     <string name="print_no_printers">Keine Drucker gefunden</string>

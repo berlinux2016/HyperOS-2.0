@@ -189,7 +189,7 @@
     <string name="ent_activating">Aktivieren…</string>
     <string name="ent_activation">Aktivieren</string>
     <string name="ent_activation_hint">Geben Sie Ihren Firmencode zusammen mit dem Lizenzcode ein, um den Unternehmensmodus zu aktivieren. Danach werden benutzerdefinierte Unternehmensdienste aktiviert.</string>
-    <string name="ent_activation_hint_whit_licence">Aktivieren Sie den Unternehmensmodus, um benutzerdefinierte Unternehmensdienste zu aktivieren. \nStellen Sie sicher, dass der Name Ihres Unternehmens korrekt ist. Lesen und akzeptieren Sie die entsprechenden Datenschutzerklärung, bevor Sie diese aktivieren.</string>
+    <string name="ent_activation_hint_whit_licence">Aktivieren Sie den Unternehmensmodus, um benutzerdefinierte Unternehmensdienste zu aktivieren. \nDer Name Ihres Unternehmens muss korrekt sein. Lesen und akzeptieren Sie die entsprechenden Datenschutzerklärung, bevor Sie diese aktivieren.</string>
     <string name="ent_agency_code">Unternehmenscode</string>
     <string name="ent_agency_code_hint">Unternehmenscode eingeben</string>
     <string name="ent_agency_code_invalid">Eingegebener Unternehmenscode ist ungültig.</string>
@@ -495,7 +495,7 @@
     <string name="long_press_power_key_tips">&lt;Data>Langes Drücken der Power-Taste ist &lt;font color=#999999>schneller und bequemer&lt;/font>&lt;/Data></string>
     <string name="long_press_volume_down">Lautstärke runter lange drücken</string>
     <string name="master_clear_apply_step_1">Widerruf der Autorisierung erfordert einen Werksreset auf Ihrem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer, bevor Sie die Autorisierung widerrufen.</string>
-    <string name="master_clear_apply_step_2">Stellen Sie sicher, dass alle wichtigen Elemente auf Ihrem Computer gesichert sind. Nach dem Tippen auf \"OK\" wird ein Werksreset auf Ihrem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
+    <string name="master_clear_apply_step_2">Alle wichtigen Elemente auf Ihrem Computer müssen gesichert sein. Nach dem Tippen auf \"OK\" wird ein Werksreset auf Ihrem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
     <string name="master_clear_apply_title">Vorsicht</string>
     <string name="master_clear_not_available">Werksreset ist von Ihrem Unternehmen eingeschränkt.</string>
     <string name="master_clear_not_available_ep">Sie dürfen jetzt keinen Werksreset durchführen oder Ihre Autorisierung widerrufen. Wenden Sie sich an Ihren Vorgesetzten.</string>
@@ -746,7 +746,7 @@
     <string name="set_space_password">Passwort festlegen</string>
     <string name="set_space_pwd_detail">Sie können das Zweitprofil mit diesem Passwort erreichen</string>
     <string name="set_space_pwd_suc">Zweitprofilpasswort hinzugefügt</string>
-    <string name="setting_finger_print_sub_title">Stellen Sie sicher, dass der Fingerabdruck unterschiedlich zum Hauptprofilfingerabdruck ist</string>
+    <string name="setting_finger_print_sub_title">Fingerabdruck muss sich vom Hauptprofilfingerabdruck unterscheiden</string>
     <string name="setting_finger_print_title">Zweitprofilfingerabdruck hinzufügen</string>
     <string name="setting_fingerprint_title">Zweitprofilpasswort hinzufügen</string>
     <string name="setting_is_show_text_contacts">Private Kontakte und Nachrichten einrichten</string>
@@ -866,7 +866,7 @@
     <string name="stylus_ota_completed">Erfolgreich aktualisiert</string>
     <string name="stylus_ota_completed_tip">Firmware erfolgreich aktualisiert. Bringen Sie den Stift zum Koppeln an.</string>
     <string name="stylus_ota_current_firmware_version">Firmware-Version</string>
-    <string name="stylus_ota_demands">Lassen Sie Bluetooth während der Aktualisierung eingeschaltet. Stellen Sie sicher, dass der Akku nicht unter %1$s sinkt.</string>
+    <string name="stylus_ota_demands">Lassen Sie Bluetooth während der Aktualisierung eingeschaltet. Akku darf nicht unter %1$s sinken.</string>
     <string name="stylus_ota_download_failed">Firmware herunterladen fehlgeschlagen</string>
     <string name="stylus_ota_downloading_firmware">Firmware herunterladen</string>
     <string name="stylus_ota_firmware_update">Firmware aktualisieren</string>

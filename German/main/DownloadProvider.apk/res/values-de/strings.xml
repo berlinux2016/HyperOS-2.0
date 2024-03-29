@@ -306,12 +306,12 @@
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="warning_tip_cancel">Herunterladen</string>
-    <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Wenn Sie Ihre mobile Datenverbindung nutzen, um diesen Download abzuschließen, erhöht sich Ihren Datenverbrauch. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten in Rechnung stellen.</string>
+    <string name="warning_tip_content">Sie sind nicht mehr mit WLAN verbunden. Wenn Sie Ihre mobile Datenverbindung nutzen, um diesen Download abzuschließen, erhöht sich Ihren Datenverbrauch. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Anbieter Ihnen zusätzliche Kosten in Rechnung stellen.</string>
     <string name="warning_tip_title">Warnung Datennutzung</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="wifi_recommended_body">%1$s herunterladen kann Ihre mobilen Daten extrem überschreiten. Je nach Tarif können zusätzliche Kosten bei Ihrem Mobilfunkanbieter entstehen.\n\nAuf %2$s tippen, um den Download bei der nächsten WLAN-Verbindung zu starten.</string>
+    <string name="wifi_recommended_body">%1$s herunterladen kann Ihre mobilen Daten extrem überschreiten. Je nach Tarif können zusätzliche Kosten bei Ihrem Anbieter entstehen.\n\nAuf %2$s tippen, um den Download bei der nächsten WLAN-Verbindung zu starten.</string>
     <string name="wifi_recommended_title">In Warteschlange für späteren Download?</string>
     <string name="wifi_required_body">Mit WLAN verbinden, um den %1$s fertig herunterzuladen.\n\nAuf %2$s tippen, um den Download bei der nächsten WLAN-Verbindung zu starten.</string>
     <string name="wifi_required_title">Datei zu groß zum Download über mobile Daten</string>

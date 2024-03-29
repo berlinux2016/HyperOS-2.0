@@ -782,7 +782,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="input_method_ime_switch_button_desc">Eingabemethode umschalten</string>
     <string name="input_method_nav_back_button_desc">Zurück</string>
     <string name="install_carrier_app_notification_button">App herunterladen</string>
-    <string name="install_carrier_app_notification_text">Mobilfunkanbieter-App herunterladen, um Ihre neue SIM zu aktivieren</string>
+    <string name="install_carrier_app_notification_text">Anbieter-App herunterladen, um Ihre neue SIM zu aktivieren</string>
     <string name="install_carrier_app_notification_text_app_name">%1$s-App herunterladen, um Ihre neue SIM zu aktivieren</string>
     <string name="install_carrier_app_notification_title">Mobilservice aktivieren</string>
     <string name="invalidPin">Geben Sie eine PIN ein, die 4 bis 8 Zahlen enthält</string>
@@ -931,7 +931,7 @@ In %3$d Sekunden erneut versuchen."</string>
     <string name="lockscreen_pattern_instructions">Muster zum Entsperren zeichnen</string>
     <string name="lockscreen_pattern_wrong">Erneut versuchen</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"Ihre SIM wurde dauerhaft deaktiviert.
-Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM zu erhalten."</string>
+Wenden Sie sich an Ihren Anbieter, um eine andere SIM zu erhalten."</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">SIM unbrauchbar</string>
     <string name="lockscreen_return_to_call">Zurück zum Anruf</string>
     <string name="lockscreen_screen_locked">Bildschirm gesperrt</string>
@@ -1154,7 +1154,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_accessDrmCertificates">Erlaubt einer App die Bereitstellung und Nutzung von DRM-Zertifikaten. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_accessFineLocation">Diese App kann Ihren Standort basierend auf GPS oder Netzwerkquellen wie Mobilfunkmasten und WLAN ermitteln. Diese Ortungsdienste müssen eingeschaltet und auf Ihrem Telefon verfügbar sein, damit die App sie nutzen kann. Dies kann den Akkuverbrauch erhöhen.</string>
     <string name="permdesc_accessImsCallService">Erlaubt der App, den IMS-Service zu verwenden, um Anrufe ohne Ihr Eingreifen zu machen</string>
-    <string name="permdesc_accessLocationExtraCommands">Erlaubt der App, auf zusätzliche Befehle des StandortMobilfunkanbieters zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
+    <string name="permdesc_accessLocationExtraCommands">Erlaubt der App, auf zusätzliche Befehle des StandortAnbieters zuzugreifen. Damit könnte die App die Funktionsweise von GPS oder anderen Standortquellen beeinträchtigen.</string>
     <string name="permdesc_accessNetworkConditions">Erlaubt der App, Informationen zu den Netzwerkbedingungen zu erfassen. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_accessNetworkState">Erlaubt der App, Informationen zu Netzwerkverbindungen abzurufen, etwa welche Netzwerke existieren und verbunden sind.</string>
     <string name="permdesc_accessNotifications">Erlaubt der App das Abrufen, Prüfen und Löschen von Benachrichtigungen, inkl. Benachrichtigungen, die von anderen Apps gepostet wurden</string>
@@ -1166,8 +1166,8 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_answerPhoneCalls">Erlaubt der App, einen eingehenden Anruf anzunehmen.</string>
     <string name="permdesc_audioWrite">Erlaubt der App, Ihre Musiksammlung zu ändern</string>
     <string name="permdesc_backgroundCamera">Diese App kann jederzeit Fotos und Videos mit der Kamera aufnehmen.</string>
-    <string name="permdesc_bindCarrierMessagingService">Erlaubt dem Inhaber, sich an die Top-Level-Schnittstelle eines Mobilfunkanbieter-Nachrichtendienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
-    <string name="permdesc_bindCarrierServices">Erlaubt dem Inhaber, sich an einen Mobilfunkanbieterdienst zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
+    <string name="permdesc_bindCarrierMessagingService">Erlaubt dem Inhaber, sich an die Top-Level-Schnittstelle eines Anbieter-Nachrichtendienstes zu binden. Sollte nie für normale Apps benötigt werden.</string>
+    <string name="permdesc_bindCarrierServices">Erlaubt dem Inhaber, sich an einen Anbieterdienst zu binden. Sollte für normale Apps eigentlich nicht notwendig sein.</string>
     <string name="permdesc_bindCellBroadcastService">Erlaubt der App, sich an das Cell Broadcast-Modul zu binden, um Cell Broadcast-Meldungen weiterzuleiten, wenn sie empfangen werden. Cell Broadcast-Warnungen werden an einigen Orten zugestellt, um Sie vor Notfallsituationen zu warnen. Bösartige Apps können die Leistung oder den Betrieb Ihres Geräts beeinträchtigen, wenn ein Cell Broadcast-Notfall empfangen wird.</string>
     <string name="permdesc_bindConditionProviderService">Erlaubt dem Inhaber, sich an die Oberfläche eines Bedingungsproviderdienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
     <string name="permdesc_bindDreamService">Erlaubt der App, sich an die Oberfläche eines Dream-Dienstes auf oberster Ebene zu binden. Für normale Apps sollte dies nie erforderlich sein.</string>
@@ -1224,7 +1224,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permdesc_highSamplingRateSensors">Erlaubt der App, Sensordaten mit einer Rate von mehr als 200 Hz abzutasten</string>
     <string name="permdesc_imagesWrite">Erlaubt der App, Ihre Fotosammlung zu ändern</string>
     <string name="permdesc_install_shortcut">Erlaubt einer App das Hinzufügen von Verknüpfungen zum Startbildschirm ohne Eingriff des Benutzers</string>
-    <string name="permdesc_invokeCarrierSetup">Erlaubt dem Inhaber, die vom Mobilfunkanbieter bereitgestellte Konfigurations-App aufzurufen. Sollte für normale Apps nie benötigt werden.</string>
+    <string name="permdesc_invokeCarrierSetup">Erlaubt dem Inhaber, die vom Anbieter bereitgestellte Konfigurations-App aufzurufen. Sollte für normale Apps nie benötigt werden.</string>
     <string name="permdesc_killBackgroundProcesses">Erlaubt der App, Hintergrundprozesse anderer Apps zu beenden. Das kann dazu führen, dass andere Apps nicht mehr ausgeführt werden.</string>
     <string name="permdesc_manageFingerprint">Erlaubt der App, Methoden zum Löschen und Erstellen von Fingerabdrücken aufzurufen</string>
     <string name="permdesc_manageNetworkPolicy">Erlaubt der App, Netzwerkrichtlinien zu verwalten und appspezifische Regeln festzulegen</string>
@@ -1363,8 +1363,8 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permlab_answerPhoneCalls">Anrufe annehmen</string>
     <string name="permlab_audioWrite">Ihre Musiksammlung ändern</string>
     <string name="permlab_backgroundCamera">Bilder und Videos im Hintergrund aufnehmen</string>
-    <string name="permlab_bindCarrierMessagingService">An einen Mobilfunkanbieter-Nachrichtendienst binden</string>
-    <string name="permlab_bindCarrierServices">An Mobilfunkanbieterdienste binden</string>
+    <string name="permlab_bindCarrierMessagingService">An einen Anbieter-Nachrichtendienst binden</string>
+    <string name="permlab_bindCarrierServices">An Anbieterdienste binden</string>
     <string name="permlab_bindCellBroadcastService">Cell Broadcast-Meldungen weiterleiten</string>
     <string name="permlab_bindConditionProviderService">An ConditionProviderService binden</string>
     <string name="permlab_bindDreamService">An Dream-Service binden</string>
@@ -1421,7 +1421,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="permlab_highSamplingRateSensors">Zugriff auf Sensordaten mit einer hohen Abtastrate</string>
     <string name="permlab_imagesWrite">Ihre Fotosammlung ändern</string>
     <string name="permlab_install_shortcut">Verknüpfungen installieren</string>
-    <string name="permlab_invokeCarrierSetup">Vom Mobilfunkanbieter bereitgestellte Konfigurations-App aufrufen</string>
+    <string name="permlab_invokeCarrierSetup">Vom Anbieter bereitgestellte Konfigurations-App aufrufen</string>
     <string name="permlab_killBackgroundProcesses">Andere Apps schließen</string>
     <string name="permlab_manageFingerprint">Fingerabdruckhardware verwalten</string>
     <string name="permlab_manageNetworkPolicy">Netzwerkrichtlinien verwalten</string>

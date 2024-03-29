@@ -355,7 +355,7 @@
     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s Bildschirmzeit übrig</string>
     <string name="preference_copied">\"%1$s\" in Zwischenspeicher kopiert</string>
     <string name="privacy_declare_dialog_title">Nutzungsbedingungen</string>
-    <string name="privacy_prompt_traffic_purchase_message">Ihre Rufnummer und die Mobilfunkanbieterdaten werden verschlüsselt und auf die Mi-Server hochgeladen, um weitere Infos über Datenkaufoptionen zu erhalten</string>
+    <string name="privacy_prompt_traffic_purchase_message">Ihre Rufnummer und die Anbieterdaten werden verschlüsselt und auf die Mi-Server hochgeladen, um weitere Infos über Datenkaufoptionen zu erhalten</string>
     <string name="renew_now">Erneuern</string>
     <string name="retry_action">Erneut versuchen</string>
     <string name="saturday">Samstag</string>

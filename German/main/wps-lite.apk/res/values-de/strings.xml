@@ -64,7 +64,7 @@
     <string name="documentmanager_log_type_fileroaming_error">Fehlerprotokoll Datei-Roaming</string>
     <string name="documentmanager_log_type_save_error">Fehlerprotokoll speichern</string>
     <string name="documentmanager_loginView_toastpassword">Passwort eingeben</string>
-    <string name="documentmanager_noEmailApp">Keine E-Mail-App gefunden. Stellen Sie sicher, dass eine solche installiert ist und Sie angemeldet sind.</string>
+    <string name="documentmanager_noEmailApp">Keine E-Mail-App gefunden. Prüfen Sie, ob eine solche installiert ist und Sie angemeldet sind.</string>
     <string name="documentmanager_nocall_app">Keine Telefon-App gefunden. Installieren Sie jetzt eine.</string>
     <string name="documentmanager_phone_setting">Einstellungen</string>
     <string name="documentmanager_searchbof">Letztes Ergebnis erreichen</string>

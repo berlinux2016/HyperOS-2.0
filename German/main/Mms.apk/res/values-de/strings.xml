@@ -121,7 +121,7 @@
     <string name="cm_privacy_dialog_allow">Zustimmen</string>
     <string name="cm_privacy_dialog_cancel">Abbrechen</string>
     <string name="cm_privacy_dialog_spannable_tips">Datenschutzerklärung</string>
-    <string name="cm_privacy_dialog_tips">Smart Messaging Services werden von Ihrem Mobilfunkanbieter bereitgestellt. Nachrichten muss eine Internetverbindung herstellen und auf Ihren Standort zugreifen, um diese Dienste bereitzustellen. Sie müssen die %1s Ihres Anbieters akzeptieren, bevor Sie diese Dienste nutzen. Zustimmen?</string>
+    <string name="cm_privacy_dialog_tips">Smart Messaging Services werden von Ihrem Anbieter bereitgestellt. Nachrichten muss eine Internetverbindung herstellen und auf Ihren Standort zugreifen, um diese Dienste bereitzustellen. Sie müssen die %1s Ihres Anbieters akzeptieren, bevor Sie diese Dienste nutzen. Zustimmen?</string>
     <string name="cm_privacy_dialog_title">Achtung</string>
     <string name="cmcc_privacy">China Mobile Carrier Datenschutzerklärung</string>
     <string name="cn_privacy_dialog_title">Achtung</string>
@@ -431,7 +431,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
     <string name="mms_5g_mms_privacy_policy">5G Messaging Datenschutzerklärung</string>
     <string name="mms_5g_mms_privacy_policy_revoke">Zustimmung zur 5G Messaging Datenschutzerklärung widerrufen</string>
-    <string name="mms_block_alert_message">Alle MMS mit Ausnahme der von autorisierten Absendern gesendeten Nachrichten werden blockiert. Zu den zugelassenen Absendern gehören Mobilfunkanbieter, nationale Bahnbuchungssysteme etc.</string>
+    <string name="mms_block_alert_message">Alle MMS mit Ausnahme der von autorisierten Absendern gesendeten Nachrichten werden blockiert. Zu den zugelassenen Absendern gehören Anbieter, nationale Bahnbuchungssysteme etc.</string>
     <string name="mms_block_alert_ok">Blockieren</string>
     <string name="mms_block_alert_title">MMS blockieren</string>
     <string name="mms_block_hint">Dieser Absender ist nicht in Ihren Kontakten.\nDiese Nachricht kann unerwünscht sein.</string>
@@ -502,7 +502,7 @@
     <string name="mx_filter_message_from_stranger_dialog_desc">Sie können weiterhin normale SMS von unbekannten Nummern empfangen. Sie können diese Funktion jederzeit unter Mi Message &gt; Einstellungen ein-/ausschalten.</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Mi Message von unbekannten Nummern blockieren</string>
     <string name="mx_filter_message_from_stranger_summary">Nur Mi Message von Ihren Kontakten zulassen</string>
-    <string name="mx_main_purpose">Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer kostenlos über das Internet senden.\nFür die Aktivierung von Mi Message ist eine ausgehende SMS erforderlich. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
+    <string name="mx_main_purpose">Mit Mi Message können Sie Nachrichten an andere Mi Message-Benutzer kostenlos über das Internet senden.\nFür die Aktivierung von Mi Message ist eine ausgehende SMS erforderlich. Ihr Anbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
     <string name="mx_main_purpose_short">Mi Message erlaubt Xiaomi-Benutzern, kostenlose SMS und MMS zu senden und zu empfangen.</string>
     <string name="mx_on_sim_1">Mi Message SIM-Slot 1</string>
     <string name="mx_on_sim_2">Mi Message SIM-Slot 2</string>
@@ -811,8 +811,8 @@
     <string name="rcs_service_agreement">Dienstleistungsvertrag</string>
     <string name="rcs_setting">5G Messaging-Einstellungen</string>
     <string name="rcs_silence_message">Nachrichten-Benachrichtigungen stummschalten</string>
-    <string name="rcs_summary_auto_resend_mms">5G-Multimedianachrichten in MMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
-    <string name="rcs_summary_auto_resend_sms">5G-Textnachrichten in SMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Mobilfunkanbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
+    <string name="rcs_summary_auto_resend_mms">5G-Multimedianachrichten in MMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Anbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
+    <string name="rcs_summary_auto_resend_sms">5G-Textnachrichten in SMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Anbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
     <string name="rcs_summary_silence_message">Nachrichten-Benachrichtigungen stummschalten, wenn der Desktop-Client arbeitet</string>
     <string name="rcs_unable_send_file">Diese Datei wurde nicht gesendet</string>
     <string name="rcs_unavailable">5G Messaging jetzt nicht möglich. China Mobile SIM-Karte ist nicht Ihre Standard-Datenkarte.</string>

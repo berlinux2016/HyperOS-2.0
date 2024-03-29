@@ -238,7 +238,7 @@
     <string name="c_iwlan_exit_notification_title">Voice Over Cellular Internet nicht verfügbar</string>
     <string name="callEnded_pulled">Anruf zu anderem Gerät übertragen</string>
     <string name="callFailed_NetworkBusy">Netzwerk beschäftigt. Anruf bitte später erneut versuchen.</string>
-    <string name="callFailed_NetworkCongested">Netzwerk überlastet. Wenden Sie sich an Ihren Mobilfunkanbieter, um Hilfe zu erhalten.</string>
+    <string name="callFailed_NetworkCongested">Netzwerk überlastet. Wenden Sie sich an Ihren Anbieter, um Hilfe zu erhalten.</string>
     <string name="callFailed_QOS_unavailable">Servicequalität nicht verfügbar</string>
     <string name="callFailed_access_information_discarded">Zugangsdaten verworfen</string>
     <string name="callFailed_already_dialing">Anruf nicht möglich, da ein anderer abgehender Anruf bereits gewählt wird.</string>
@@ -411,10 +411,10 @@
     <string name="call_waiting_tone_title">Anklopfbenachrichtigung</string>
     <string name="call_waiting_tone_twice_and_vibrate">Benachrichtigungston abspielen und zweimal vibrieren</string>
     <string name="call_waiting_tone_twice_only">Benachrichtigungston zweimal abspielen</string>
-    <string name="caller_id_summary">Nummer bei ausgehenden Anrufen unterdücken (wenn Ihr Mobilfunkanbieter diese Funktion unterstützt)</string>
+    <string name="caller_id_summary">Nummer bei ausgehenden Anrufen unterdücken (wenn Ihr Anbieter diese Funktion unterstützt)</string>
     <string name="caller_id_title">Rufnummernanzeige</string>
     <string name="calling_via_template">Via %s anrufen</string>
-    <string name="callwait_open_hint">\"Anklopfen\" ist eine Funktion, die von Ihrem Mobilfunkanbieter bereitgestellt wird. Wenn Sie eine Fehlermeldung erhalten, kontaktieren Sie Ihren Mobilfunkanbieter und stellen Sie sicher, dass diese Funktion unterstützt wird.</string>
+    <string name="callwait_open_hint">\"Anklopfen\" ist eine Funktion, die von Ihrem Anbieter bereitgestellt wird. Wenn Sie eine Fehlermeldung erhalten, kontaktieren Sie Ihren Anbieter und prüfen Sie, ob diese Funktion unterstützt wird.</string>
     <string name="can_not_use">Verwenden nicht möglich</string>
     <string name="can_not_use_for_not_data_sim">(Verwenden nicht möglich: Muss als Standarddaten-SIM festgelegt sein)</string>
     <string name="cancel">Abbrechen</string>
@@ -428,7 +428,7 @@
     <string name="card_title_redialing">Wahlwiederholung</string>
     <string name="carrier_info">Anbieterinfo</string>
     <string name="carrier_mmi_msg_title">%s-Nachricht</string>
-    <string name="carrier_settings_euicc">Mobilfunkanbieter</string>
+    <string name="carrier_settings_euicc">Anbieter</string>
     <string name="carrier_settings_title">Anbietereinstellungen</string>
     <string name="cb_sms_settings">Einstellungen Cell Broadcast SMS</string>
     <string name="cbrs_data_switch_string">CBRS-Daten</string>
@@ -438,8 +438,8 @@
     <string name="cdma_call_waiting">Anklopfen einschalten?</string>
     <string name="cdma_call_waiting_in_ims_off">CDMA-Anklopfen unter IMS AUS</string>
     <string name="cdma_call_waiting_in_ims_on">CDMA-Anklopfen unter IMS AN</string>
-    <string name="cdma_display_precise_call_state_message">Wenn Ihr Mobilfunkanbieter diese Funktion nicht unterstützt, kann der Anrufstatus ungenau sein</string>
-    <string name="cdma_display_precise_call_state_summary">Bestätigen Sie, dass Ihr Mobilfunkanbieter diese Funktion unterstützt</string>
+    <string name="cdma_display_precise_call_state_message">Wenn Ihr Anbieter diese Funktion nicht unterstützt, kann der Anrufstatus ungenau sein</string>
+    <string name="cdma_display_precise_call_state_summary">Bestätigen Sie, dass Ihr Anbieter diese Funktion unterstützt</string>
     <string name="cdma_display_precise_call_state_title">Anrufstatus anzeigen</string>
     <string name="cdma_lte_data_service">Datendienst einrichten</string>
     <string name="cdma_options">CDMA-Optionen</string>
@@ -595,7 +595,7 @@
     <string name="data_usage_title">Datennutzung</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-    <string name="dc_alert_dialog_message">Einige Apps benötigen eine mobile Datenverbindung. Sie können sich mit Ihrem Mobilfunkanbieter in Verbindung setzen, um zu erfahren, welche %s Ihnen zur Verfügung stehen.</string>
+    <string name="dc_alert_dialog_message">Einige Apps benötigen eine mobile Datenverbindung. Sie können sich mit Ihrem Anbieter in Verbindung setzen, um zu erfahren, welche %s Ihnen zur Verfügung stehen.</string>
     <string name="dc_alert_dialog_title">Datennutzungswarnung</string>
     <string name="dds_switch_warning_message_data_off">SIM %1$s nicht gefunden. SIM %2$s ist jetzt als Standard für mobile Daten eingestellt. Mobile Daten sind nun ausgeschaltet.</string>
     <string name="dds_switch_warning_message_data_on">SIM %1$s nicht gefunden. SIM %2$s ist jetzt als Standard für mobile Daten eingestellt. Mobile Daten werden abgeschaltet, um unnötige Kosten zu vermeiden.</string>
@@ -647,9 +647,9 @@
     <string name="disable">Ausschalten</string>
     <string name="disable_all_cf">Alle Rufumleitungen ausschalten</string>
     <string name="disable_cdma_cw">Abbrechen</string>
-    <string name="disable_cfb_forbidden">Ihr Mobilfunkanbieter unterstützt die Deaktivierung der Rufumleitung bei besetzter Leitung nicht</string>
-    <string name="disable_cfnrc_forbidden">Ihr Mobilfunkanbieter unterstützt die Deaktivierung der Rufumleitung bei Nichterreichbarkeit nicht</string>
-    <string name="disable_cfnry_forbidden">Ihr Mobilfunkanbieter unterstützt die Deaktivierung der Rufumleitung bei Nichtbeantwortung nicht</string>
+    <string name="disable_cfb_forbidden">Ihr Anbieter unterstützt die Deaktivierung der Rufumleitung bei besetzter Leitung nicht</string>
+    <string name="disable_cfnrc_forbidden">Ihr Anbieter unterstützt die Deaktivierung der Rufumleitung bei Nichterreichbarkeit nicht</string>
+    <string name="disable_cfnry_forbidden">Ihr Anbieter unterstützt die Deaktivierung der Rufumleitung bei Nichtbeantwortung nicht</string>
     <string name="disable_esim_dialog_summary">SIM %s wird aktiviert, wenn Sie eSIM jetzt deaktivieren.\neSIM trotzdem deaktivieren?</string>
     <string name="disable_esim_dialog_title">eSIM deaktivieren</string>
     <string name="disable_esim_error_toast_message">eSIM deaktivieren fehlgeschlagen</string>
@@ -873,8 +873,8 @@
     <string name="full_forwarding_option_off">AUS</string>
     <string name="full_forwarding_option_voicemail">Sprachbox</string>
     <string name="full_forwarding_settings">Vollständige Rufumleitung</string>
-    <string name="fw_change_failed">Rufumleitungsnummer konnte nicht geändert werden.\nKontaktieren Sie Ihren Mobilfunkanbieter, falls das Problem weiterhin besteht.</string>
-    <string name="fw_get_in_vm_failed">Aktuelle Rufumleitungseinstellungen wurden nicht empfangen oder gespeichert.\nTrotzdem zum neuen Mobilfunkanbieter wechseln?</string>
+    <string name="fw_change_failed">Rufumleitungsnummer konnte nicht geändert werden.\nKontaktieren Sie Ihren Anbieter, falls das Problem weiterhin besteht.</string>
+    <string name="fw_get_in_vm_failed">Aktuelle Rufumleitungseinstellungen wurden nicht empfangen oder gespeichert.\nTrotzdem zum neuen Anbieter wechseln?</string>
     <string name="general_news_settings">Allgemeine Nachrichten</string>
     <string name="general_setting">Einstellungen</string>
     <string name="general_settings_category">Allgemein</string>
@@ -953,7 +953,7 @@
     <string name="jp_sb_unlock_failed">Prüfung des Entsperrcodes fehlgeschlagen.</string>
     <string name="jp_sb_unlock_success">Prüfung des Entsperrcodes erfolgreich.</string>
     <string name="jump_to_mobile_network_setting">Einstellungen Mobilfunknetz</string>
-    <string name="keywords_carrier_settings_euicc">Mobilfunkanbieter, esim, sim, euicc, Mobilfunkanbieter wechseln, Mobilfunkanbieter hinzufügen</string>
+    <string name="keywords_carrier_settings_euicc">Anbieter, esim, sim, euicc, Anbieter wechseln, Anbieter hinzufügen</string>
     <string name="kr_emergency_111">Nationale Sicherheit (%d)</string>
     <string name="kr_emergency_112">Polizei (%d)</string>
     <string name="kr_emergency_113">Spione melden (%d)</string>
@@ -1130,7 +1130,7 @@
     <string name="mobile_data_activate_cancel_button">ABBRECHEN</string>
     <string name="mobile_data_activate_diag_message">Eventuell müssen Sie Daten über %s hinzufügen</string>
     <string name="mobile_data_activate_diag_title">Daten hinzufügen?</string>
-    <string name="mobile_data_activate_footer">Sie können mobile Daten oder einen Roamingtarif über Ihren Mobilfunkanbieter hinzufügen, %s</string>
+    <string name="mobile_data_activate_footer">Sie können mobile Daten oder einen Roamingtarif über Ihren Anbieter hinzufügen, %s</string>
     <string name="mobile_data_activate_prepaid">Keine Mobilen Daten übrig</string>
     <string name="mobile_data_activate_prepaid_summary">Mobile Daten über %s hinzufügen</string>
     <string name="mobile_data_activate_roaming_plan">Kein Roamingtarif</string>
@@ -1297,7 +1297,7 @@
     <string name="no_mobile_data_roaming">Datenroaming nicht verfügbar</string>
     <string name="no_need_unlock_tip">Kein Entsperren erforderlich, da das aktuelle Telefon nicht gesperrt ist</string>
     <string name="no_rtt_when_roaming">Hinweis: RTT ist beim Roaming nicht verfügbar</string>
-    <string name="no_unlock_chance_hint">Sie haben keine Versuche mehr.\nKontaktieren Sie Ihren Mobilfunkanbieter.</string>
+    <string name="no_unlock_chance_hint">Sie haben keine Versuche mehr.\nKontaktieren Sie Ihren Anbieter.</string>
     <string name="no_vm_number">Fehlende Sprachboxnummer</string>
     <string name="no_vm_number_msg">Auf der SIM ist keine Sprachboxnummer gespeichert</string>
     <string name="no_voice_capability">Anbieter wurde nicht erreicht. Etwas warten und erneut versuchen.</string>
@@ -1359,7 +1359,7 @@
     <string name="open_smart_dual_sim">Einschalten</string>
     <string name="opened_dual_4g_confirm_prompt">Anscheinend haben Sie nur eine 4G-SIM. Dual 4G wurde automatisch eingeschaltet.</string>
     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s unterstützt nur 4G. Um sicherzustellen, dass Ihre SIM normal funktioniert, wurde Dual 4G eingeschaltet.</string>
-    <string name="operator">Mobilfunkanbieter</string>
+    <string name="operator">Anbieter</string>
     <string name="optimization_settings_category">Optimierung</string>
     <string name="ota_activate">Aktivieren</string>
     <string name="ota_call_end">Zurück</string>
@@ -1704,7 +1704,7 @@
     <string name="ringtone_unknown">Unbekannter Klingelton</string>
     <string name="roaming">Vom mobilen Datennetz getrennt</string>
     <string name="roaming_alert_title">Datenroaming erlauben?</string>
-    <string name="roaming_check_price_warning">Erkundigen Sie sich bei Ihrem Mobilfunkanbieter nach Kosten</string>
+    <string name="roaming_check_price_warning">Erkundigen Sie sich bei Ihrem Anbieter nach Kosten</string>
     <string name="roaming_customer_service_message_kr">Tippen, um den Roaming-Kundendienst zu kontaktieren (+%1$d-%2$d-%3$d-%4$d%5$d). Dieser Anruf ist im Ausland kostenlos.</string>
     <string name="roaming_customer_service_summary_kr">Kostenlose Anrufe im Ausland</string>
     <string name="roaming_customer_service_title_kr">Roaming-Kundendienst</string>
@@ -1846,7 +1846,7 @@
     <string name="smart_switch_dual_sim_prompt">Für die Verbindung mit dem mobilen Datennetz über SIM %1$s können zusätzliche Kosten entstehen. Legen Sie ein Limit für die Datennutzung fest, um zusätzliche Kosten zu vermeiden.</string>
     <string name="smart_switch_dual_sim_summary">Automatisch zwischen Daten-SIM-Karten wechseln, je nach Qualität der Netzwerkverbindung und Gerätestatus</string>
     <string name="smart_switch_dual_sim_title">Zwischen Daten-SIM-Karten wechseln</string>
-    <string name="smsc_dialog_message">Achten Sie darauf, dass die von Ihnen eingegebene Nummer korrekt ist. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Mobilfunkanbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
+    <string name="smsc_dialog_message">Achten Sie darauf, dass die von Ihnen eingegebene Nummer korrekt ist. Sonst können Sie keine SMS senden oder empfangen. Wenden Sie sich an Ihren Anbieter, um Ihre SMSC-Nummer zu bestätigen.</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Klar und hell</string>
@@ -1905,7 +1905,7 @@
     <string name="sum_common_call_settings">Zusätzliche Anrufeinstellungen</string>
     <string name="sum_cw_disabled">Während eines Anrufs über eingehende Anrufe benachrichtigen</string>
     <string name="sum_cw_enabled">Während eines Anrufs über eingehende Anrufe benachrichtigen</string>
-    <string name="sum_default_caller_id">Standardeinstellungen des Mobilfunkanbieters zur Rufnummernanzeige bei ausgehenden Anrufen nutzen</string>
+    <string name="sum_default_caller_id">Standardeinstellungen des Anbieters zur Rufnummernanzeige bei ausgehenden Anrufen nutzen</string>
     <string name="sum_fdn">Rufnummernbeschränkung verwalten</string>
     <string name="sum_fdn_change_pin">PIN ändern für FDN-Zugriff</string>
     <string name="sum_fdn_manage_list">Rufnummernliste verwalten</string>
@@ -2024,7 +2024,7 @@
     <string name="throttle_data_usage">Datenverbrauch</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d%%) von %3$s maximalem Datenzeitraum</string>
     <string name="throttle_help">Mehr erfahren</string>
-    <string name="throttle_help_subtext">Mehr Infos über die Richtlinien für die Nutzung von Mobilfunknetzdaten Ihres Mobilfunkanbieters</string>
+    <string name="throttle_help_subtext">Mehr Infos über die Richtlinien für die Nutzung von Mobilfunknetzdaten Ihres Anbieters</string>
     <string name="throttle_rate">Drosselungsrichtlinie</string>
     <string name="throttle_rate_subtext">Drosselung auf %1$d KB/s, wenn Datenlimit überschritten</string>
     <string name="throttle_status_subtext">%1$s (%2$d%%) von %3$s maximalem Datenzeitraum\nNächster Datenzeitraum startet in %4$d Tagen (%5$s)</string>
@@ -2090,11 +2090,11 @@
     <string name="vice_slot_volte_data_dialog_message"><Data>Anscheinend ist Ihre aktuelle Netzwerkverbindung instabil. Sie können versuchen, automatisch zwischen Daten-SIM-Karten zu wechseln. &lt;font color=#ff0000>&lt;b>Die Verwendung dieser Funktion kann zusätzliche Anbieterkosten verursachen&lt;/b>&lt;/font>.</Data></string>
     <string name="vice_slot_volte_data_dialog_message_ext"><Data>Anscheinend ist Ihre aktuelle Netzwerkverbindung instabil. Sie können versuchen, automatisch zwischen den Daten-SIM-Karten zu wechseln. &lt;font color=#ff0000>&lt;b>Die Verwendung dieser Funktion kann zusätzliche Anbieterkosten verursachen&lt;/b>&lt;/font>.</Data></string>
     <string name="vice_slot_volte_data_dialog_open">Einschalten</string>
-    <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit sekundärer SIM während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datenkosten entstehen. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
+    <string name="vice_slot_volte_data_switch_prompt">Ihr Gerät verbindet sich mit einem mobilen Datennetz mit sekundärer SIM während laufender VoLTE-Anrufe. Dadurch können zusätzliche Datenkosten entstehen. Wenden Sie sich an Ihren lokalen Anbieter, um Details zu Ihrem Datentarif zu erfahren.</string>
     <string name="vice_slot_volte_data_switch_summary">Während VoLTE-Anrufen verbindet sich das Gerät mit einem mobilen Datennetz mit sekundärer SIM.</string>
     <string name="vice_slot_volte_data_switch_title">Nutzung mobiler Daten bei VoLTE-Anrufen mit sekundärer SIM</string>
-    <string name="video_calling_settings_title">Mobilfunkanbieter Videoanruf</string>
-    <string name="vm_change_failed">Sprachboxnummer wurde nicht geändert.\nFalls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Mobilfunkanbieter in Verbindung.</string>
+    <string name="video_calling_settings_title">Anbieter Videoanruf</string>
+    <string name="vm_change_failed">Sprachboxnummer wurde nicht geändert.\nFalls dieses Problem weiterhin besteht, setzen Sie sich mit Ihrem Anbieter in Verbindung.</string>
     <string name="vm_change_pin_error_invalid">Neue PIN enthält ungültige Zeichen</string>
     <string name="vm_change_pin_error_mismatch">Alte PIN stimmt nicht überein</string>
     <string name="vm_change_pin_error_system_error">PIN kann nicht geändert werden</string>
@@ -2116,7 +2116,7 @@
     <string name="voice_service_cannot_call_notification_title">Anrufe im aktuellen Netz nicht möglich</string>
     <string name="voice_service_switch_summary">Einschalten, um die VoLTE-Anruffunktionalität in VoLTE-Netzen zu verwenden</string>
     <string name="voice_service_switch_title">VoLTE Anrufdienste nutzen</string>
-    <string name="voice_service_warning_dialog_body">Dieses Gerät unterstützt VoLTE-Anrufe in 4G-Netzen. Stellen Sie sicher, dass die Netzwerke, an die Ihr Gerät angeschlossen ist, diese Funktionalität unterstützen. VoLTE-Dienste werden von Ihrem Mobilfunkanbieter angeboten. Wenden Sie sich an Ihren lokalen Mobilfunkanbieter, um zu erfahren, ob VoLTE in Ihrer Region nicht unterstützt wird.\n\nWenn Sie _ in Ihrer Statusleiste sehen, sind VoLTE-Anrufe nicht verfügbar. Wenn Sie keine Anrufe tätigen oder annehmen können oder Ihre Anrufe unterbrochen werden, stellen Sie sicher, dass Ihr Netzwerk mit VoLTE kompatibel ist.\n\nDieses Gerät hat keine Hörmuschel. Sie können in den Freisprechmodus wechseln oder über Kopfhörer telefonieren.</string>
+    <string name="voice_service_warning_dialog_body">Dieses Gerät unterstützt VoLTE-Anrufe in 4G-Netzen. Netzwerke, an die Ihr Gerät angeschlossen ist, müssen diese Funktionalität unterstützen. VoLTE-Dienste werden von Ihrem Anbieter angeboten. Wenden Sie sich an Ihren lokalen Anbieter, um zu erfahren, ob VoLTE in Ihrer Region nicht unterstützt wird.\n\nWenn Sie _ in Ihrer Statusleiste sehen, sind VoLTE-Anrufe nicht verfügbar. Wenn Sie keine Anrufe tätigen oder annehmen können oder Ihre Anrufe unterbrochen werden, prüfen Sie, ob Ihr Netzwerk mit VoLTE kompatibel ist.\n\nDieses Gerät hat keine Hörmuschel. Sie können in den Freisprechmodus wechseln oder über Kopfhörer telefonieren.</string>
     <string name="voice_service_warning_dialog_cancel">Abbrechen</string>
     <string name="voice_service_warning_dialog_ok">Verstanden</string>
     <string name="voice_service_warning_dialog_ok_timer">Verstanden (%d)</string>
@@ -2124,7 +2124,7 @@
     <string name="voicemail">Sprachnachricht</string>
     <string name="voicemail_callforward_settings">Sprachbox &amp; Rufumleitung</string>
     <string name="voicemail_change_pin_dialog_title">PIN ändern</string>
-    <string name="voicemail_default">Ihr Mobilfunkanbieter</string>
+    <string name="voicemail_default">Ihr Anbieter</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrieren</string>
     <string name="voicemail_notifications_preference_title">Benachrichtigungen</string>
     <string name="voicemail_number_not_set">Nicht festgelegt</string>
@@ -2145,11 +2145,11 @@
     <string name="volte_switch_globalization_prompt">Dieses Mobilfunknetz wurde nicht für VoLTE auf diesem Gerät verifiziert. Die Aktivierung dieser Funktion kann sich auf die Akkulaufzeit, Anrufe, Textnachrichten, Sprachnachrichten und mobile Datennutzung auswirken.</string>
     <string name="volte_switch_globalization_prompt_title">Achtung</string>
     <string name="volte_switch_not_support_summary">VoLTE-Anrufe werden für diese SIM nicht unterstützt</string>
-    <string name="volte_switch_not_support_summary2">VoLTE-Anrufe werden vom Mobilfunkanbieter nicht unterstützt.</string>
+    <string name="volte_switch_not_support_summary2">VoLTE-Anrufe werden vom Anbieter nicht unterstützt.</string>
     <string name="volte_switch_summary">VoLTE zur Verbesserung der Qualität von Sprachanrufen nutzen</string>
-    <string name="volte_switch_summary2">Vergewissern Sie sich vor dem Einschalten, dass Ihr Mobilfunkanbieter diese Funktion unterstützt. Andernfalls können reguläre Anrufe beeinträchtigt werden.</string>
+    <string name="volte_switch_summary2">Vergewissern Sie sich vor dem Einschalten, dass Ihr Anbieter diese Funktion unterstützt. Andernfalls können reguläre Anrufe beeinträchtigt werden.</string>
     <string name="volte_switch_title">VoLTE nutzen</string>
-    <string name="volte_tips_when_turn_on">China Telecom VoLTE-Dienste werden nur in den Gebieten mit VoLTE-Netzabdeckung angeboten. Die VoLTE-Dienste werden vom Mobilfunkanbieter bereitgestellt.</string>
+    <string name="volte_tips_when_turn_on">China Telecom VoLTE-Dienste werden nur in den Gebieten mit VoLTE-Netzabdeckung angeboten. Die VoLTE-Dienste werden vom Anbieter bereitgestellt.</string>
     <string name="vonr_switch_summary">VoNR zur Verbesserung der Qualität von Sprachanrufen nutzen</string>
     <string name="vonr_switch_title">VoNR nutzen</string>
     <string name="vowifi_emergency_notification_content">Notrufe nur in Gebieten mit Mobilfunkabdeckung</string>

@@ -1271,8 +1271,8 @@
     <string name="mw_color_picker_value">Wert</string>
     <string name="mw_copied">Kopiert</string>
     <string name="mw_copy_to_clipboard_failure_message">In Zwischenablage kopieren fehlgeschlagen</string>
-    <string name="mw_data_traffic_prompt_change">Verwendung mobiler Daten zum Streamen von Videos wird Ihre Datennutzung erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
-    <string name="mw_data_traffic_prompt_message">Verwendung mobiler Daten zum Streamen von Videos wird Ihre Datennutzung erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+    <string name="mw_data_traffic_prompt_change">Verwendung mobiler Daten zum Streamen von Videos wird Ihre Datennutzung erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Anbieter Ihnen zusätzliche Kosten berechnen.</string>
+    <string name="mw_data_traffic_prompt_message">Verwendung mobiler Daten zum Streamen von Videos wird Ihre Datennutzung erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, kann Ihr Anbieter Ihnen zusätzliche Kosten berechnen.</string>
     <string name="mw_data_traffic_prompt_message_short">Verwendung mobiler Daten zum Streamen von Videos kann dazu führen, dass Sie Ihr Datentariflimit überschreiten.</string>
     <string name="mw_data_traffic_prompt_title">Datennutzungswarnung</string>
     <string name="mw_date_picker_dialog_clear">Löschen</string>

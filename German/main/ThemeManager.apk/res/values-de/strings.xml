@@ -1146,7 +1146,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_trial_end_time_format">HH:mm dd.MM.</string>
     <string name="resource_trial_end_title">Testversion abgelaufen</string>
     <string name="resource_trial_fail_go_settings">Einstellungen</string>
-    <string name="resource_trial_fail_message">Stellen Sie sicher, dass Ihre Systemuhr auf die richtige Zeit eingestellt ist</string>
+    <string name="resource_trial_fail_message">Ihre Systemuhr muss auf die richtige Zeit eingestellt sein</string>
     <string name="resource_trial_fail_title">Testversion wurde nicht eingerichtet</string>
     <string name="resource_trial_hours">(Testversion : %1$d h)</string>
     <string name="resource_trial_hours_minutes">(Testversion :%1$d h %2$d m)</string>

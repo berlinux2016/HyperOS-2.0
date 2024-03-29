@@ -1017,7 +1017,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="bh_purchase_dialog_cilck_to_buy">Kaufen</string>
     <string name="bh_purchase_dialog_number_text">"Rufnummer: "</string>
     <string name="bh_purchase_dialog_tips">Artikel könnten verzögert geliefert werden</string>
-    <string name="bh_set_phone_dialog_title">Stellen Sie sicher, dass die hier angegebene Rufnummer korrekt ist.\nSie können Ihre Rufnummer in den Einstellungen ändern.</string>
+    <string name="bh_set_phone_dialog_title">Die hier angegebene Rufnummer muss korrekt sein.\nSie können Ihre Rufnummer in den Einstellungen ändern.</string>
     <string name="bh_set_phone_dialog_title_new">Fügen Sie Ihre Rufnummer hinzu, um die für Sie verfügbaren Datentarife anzuzeigen und zu kaufen.\nSie können Ihre Rufnummer jederzeit in den Einstellungen ändern.</string>
     <string name="bh_settings_declare">Haftungsausschluss</string>
     <string name="bh_settings_policy_text">Datenschutzerklärung</string>
@@ -1441,7 +1441,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="details_subtitle">Nutzungsdetails</string>
     <string name="device_manager_apply_step_1">Geräteadministrator für diese App aktivieren?</string>
     <string name="device_manager_apply_step_2">Aktivierung des Geräteadministrators für diese App kann zur Preisgabe Ihrer personenbezogenen Daten führen. \nAlle Daten auf Ihrem Gerät werden ggf. gelöscht und Ihr Passwort für die Bildschirmsperre wird ggf. zurückfestgelegt.</string>
-    <string name="device_manager_apply_step_3">Stellen Sie sicher, dass Sie alle möglichen Risiken verstehen, bevor Sie fortfahren. Geräteadministrator für diese App jetzt aktivieren?</string>
+    <string name="device_manager_apply_step_3">Sie müssen alle möglichen Risiken verstehen, bevor Sie fortfahren. Geräteadministrator für diese App jetzt aktivieren?</string>
     <string name="dialog_app_roaming_message">%1$s kann beim Roaming keine mobilen Daten verwenden. Beim Roaming im Ausland können nur Apps aus den Ausnahmen mobile Daten verwenden.</string>
     <string name="dialog_app_roaming_title">Roaming im Ausland ist für %1$s nicht aktiviert</string>
     <string name="dialog_btn_delete_icon">Entfernen</string>
@@ -3106,27 +3106,27 @@ Sie verlieren keine App-Daten."</string>
     <string name="network_disable_dialog_content_cn">Ihr Gerät benötigt eine Netzwerkverbindung, um Ihre Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="network_disable_dialog_title">Netzwerkverbindung fehlgeschlagen</string>
     <string name="network_mobile_exception_detail">"Ihr Gerät kann sich nicht mit dem Internet verbinden:
-1. Stellen Sie sicher, dass Sie Ihr Datenlimit nicht überschritten haben.
+1. Prüfen Sie, ob Sie Ihr Datenlimit nicht überschritten haben.
 2. Wenn Sie Ihr Guthaben gerade aufgeladen haben, starten Sie Ihr Telefon neu und versuchen Sie es erneut.
 3. Die Signalstärke Ihres Anbieternetzes ist an Ihrem Standort evtl. zu schwach."</string>
-    <string name="network_operator_exception_summary">SIM-Karte wurde nicht aktiviert. Stellen Sie sicher, dass die SIM-Karte eingelegt und Ihr Datentarif vom Anbieter freigeschaltet ist.</string>
+    <string name="network_operator_exception_summary">SIM-Karte wurde nicht aktiviert. Prüfen Sie, ob die SIM-Karte eingelegt und Ihr Datentarif vom Anbieter freigeschaltet ist.</string>
     <string name="network_permission_exception_tips">Diese Funktion muss mobile Daten verwenden, um normal zu funktionieren.</string>
     <string name="network_roaming_exception_tips">Während Roaming kann die mobile Datenverbindung nicht zur Netzwerkverbindung verwendet werden</string>
     <string name="network_route_exception_detail">"Evtl. liegt der Fehler bei Ihrem verbundenen Router:
 <b>1. Problem mit öffentlichem WLAN</b>
 Wenn Sie mit einem öffentlichem WLAN verbunden sind, kann je nach Anzahl der verbundenen Benutzer die Geschwindigkeit beeinträchtigt werden. Wechseln Sie in ein anderes Netzwerk und versuchen Sie es erneut.
 <b>2. Problem mit dem Internetanbieter</b>
-Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Internetanbieter besitzen.
+Sie müssen ein gültiges Konto bei Ihrem Internetanbieter haben.
 <b>3. Problem mit der Routerhardware</b>
 Versuchen Sie, Ihren Router neu zu starten und/oder prüfen Sie die Admin-Einstellungen Ihres Routers.
 <b>4. Weitere Routerprobleme</b>
 Lesen Sie die Bedienungsanleitung Ihres Routers und setzen Sie den Router auf Werkseinstellungen zurück.
-<b>5. Stellen Sie sicher, dass der Router korrekt verbunden ist</b>
+<b>5. Der Router muss korrekt verbunden sein.</b>
 Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehler an der Verbindung liegt, dann kontaktieren Sie Ihren Internetanbieter."</string>
     <string name="network_sim_exception_detail">"Möglichweise liegt der Fehler an Ihrer SIM-Karte:
-1. Stellen Sie sicher, dass Sie ein gültiges Konto bei Ihrem Anbieter besitzen. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
+1. Sie müssen ein gültiges Konto bei Ihrem Anbieter haben. Versuchen Sie die SIM-Karte eines Freundes und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
 2. Wenn Sie zwei SIM-Karten verwenden, versuchen Sie es mit der anderen SIM-Karte und prüfen Sie, ob die Verbindung ordnungsgemäß funktioniert.
-3. Stellen Sie sicher, das Ihre SIM-Karte und der zugehörige SIM-Slot nicht beschädigt sind. Prüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Slot eingelegt ist."</string>
+3. Ihre SIM-Karte und der zugehörige SIM-Slot dürfen nicht beschädigt sind. Prüfen Sie, ob die SIM-Karte ordnungsgemäß im SIM-Slot eingelegt ist."</string>
     <string name="network_speed_for_apps_close">Beenden erzwingen</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Beenden dieser App erzwingen?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">System-Apps können nicht gestoppt werden</string>
@@ -4715,7 +4715,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="set_now">Einstellungen</string>
     <string name="set_numeric_password_name">PIN festlegen</string>
     <string name="set_package_tips">Wir senden eine kostenlose SMS an Ihren Anbieter, um Ihren Datentarif zu prüfen. Die von Ihnen angegebenen Daten werden verschlüsselt und auf unsere Server hochgeladen, um diese Nachricht zu verfassen.</string>
-    <string name="set_package_tips_detail">Die Daten, die auf die Xiaomi-Server hochgeladen werden, umfassen die Daten Ihres Mobilfunkanbieters sowie Ihre Rufnummer, IMEI und Ihr Xiaomi-Konto.</string>
+    <string name="set_package_tips_detail">Die Daten, die auf die Xiaomi-Server hochgeladen werden, umfassen die Daten Ihres Anbieters sowie Ihre Rufnummer, IMEI und Ihr Xiaomi-Konto.</string>
     <string name="set_pattern_password_name">Muster festlegen</string>
     <string name="set_traffic_tips">Legen Sie Ihren Datentarif fest, um die mobile Datennutzung zu verwalten und zusätzliche Anbieterkosten zu vermeiden</string>
     <string name="setting">Einstellungen</string>
@@ -5498,7 +5498,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="tc_sms_report_notify_correction_body">Zur Datennutzungs-App im Sicherheitscenter gehen und erneut manuell versuchen</string>
     <string name="tc_sms_report_notify_correction_business_hall">Neu kalibrieren in Anbieterdienste</string>
     <string name="tc_sms_report_notify_correction_failure_title">Datennutzungsinfo wurde nicht aktualisiert</string>
-    <string name="tc_sms_report_notify_get_failure_body">Datennutzungsreport wurde nicht übermittelt. Stellen Sie sicher, dass Sie mit dem Mobilnetz verbunden sind.</string>
+    <string name="tc_sms_report_notify_get_failure_body">Datennutzungsreport wurde nicht übermittelt. Sie müssen mit dem Mobilnetz verbunden sein.</string>
     <string name="tc_sms_report_notify_get_failure_title">Datennutzungs-SMS anfordern fehlgeschlagen</string>
     <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Vergewissern Sie sich bei Ihrem Anbieter, dass der eingegebene SMS-Abfragecode korrekt ist.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Datennutzungs-SMS anfordern fehlgeschlagen</string>
@@ -5768,7 +5768,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="traffic_config_alert_setted">Einstellungen übernommen</string>
     <string name="traffic_config_alert_title">Korrektur: %s</string>
     <string name="traffic_correction_failed">Info nicht verfügbar</string>
-    <string name="traffic_correction_failed_tips">Datentarif wurde nicht geprüft. Stellen Sie sicher, dass die Anbietereinstellungen korrekt sind, oder stellen Sie Ihren Tarif manuell ein.</string>
+    <string name="traffic_correction_failed_tips">Datentarif wurde nicht geprüft. Prüfen Sie, ob die Anbietereinstellungen korrekt sind, oder stellen Sie Ihren Tarif manuell ein.</string>
     <string name="traffic_correction_start_correction">Mit Anbieterserver verbinden…</string>
     <string name="traffic_correction_start_correction_failed">Anforderung senden fehlgeschlagen. Anbietereinstellungen prüfen.</string>
     <string name="traffic_correction_success">Datennutzung aktualisiert</string>

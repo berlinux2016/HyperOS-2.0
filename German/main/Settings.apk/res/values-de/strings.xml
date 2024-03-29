@@ -160,7 +160,7 @@
     <string name="accessibility_hearing_device_about_title">Über Hörgeräte</string>
     <string name="accessibility_hearing_device_connected_title">Hörgeräte</string>
     <string name="accessibility_hearing_device_control">Hörgerätesteuerung</string>
-    <string name="accessibility_hearing_device_footer_summary">Stellen Sie sicher, dass Ihr Hörgerät eingeschaltet und bereit zum Koppeln ist</string>
+    <string name="accessibility_hearing_device_footer_summary">Ihr Hörgerät muss eingeschaltet und bereit zum Koppeln sein</string>
     <string name="accessibility_hearing_device_pairing_page_title">Hörgerät koppeln</string>
     <string name="accessibility_hearing_device_pairing_title">Neues Gerät koppeln</string>
     <string name="accessibility_hearing_device_saved_title">Gespeicherte Geräte</string>
@@ -173,7 +173,7 @@
     <string name="accessibility_hearingaid_left_side_device_summary">%1$s, nur links</string>
     <string name="accessibility_hearingaid_more_device_summary">%1$s +1 mehr</string>
     <string name="accessibility_hearingaid_not_connected_summary">Keine Hörgeräte verbunden</string>
-    <string name="accessibility_hearingaid_pair_instructions_message">Tippen Sie auf dem nächsten Bildschirm auf Ihre Hörgerät. Evtl. müssen Sie das linke und das rechte Ohr separat koppeln. \n\nStellen Sie sicher, dass Ihre Hörgerät eingeschaltet und bereit zum Koppeln ist.</string>
+    <string name="accessibility_hearingaid_pair_instructions_message">Tippen Sie auf dem nächsten Bildschirm auf Ihre Hörgerät. Evtl. müssen Sie das linke und das rechte Ohr separat koppeln. \n\nIhr Hörgerät muss eingeschaltet und bereit zum Koppeln sein.</string>
     <string name="accessibility_hearingaid_pair_instructions_title">Hörgerät koppeln</string>
     <string name="accessibility_hearingaid_right_side_device_summary">%1$s, nur rechts</string>
     <string name="accessibility_hearingaid_title">Hörgeräte</string>
@@ -260,7 +260,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="accessibility_screen_magnification_short_summary">Dreifachtippen zum Vergrößern</string>
     <string name="accessibility_screen_magnification_shortcut_title">Vergrößerungskürzel</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Vergrößern mit Kürzel &amp; Dreifachtippen</string>
-    <string name="accessibility_screen_magnification_summary">&lt;b>Hereinzoomen:&lt;/b>&lt;br/> {0,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {1,number,integer}. Auf den Bildschirm tipppen&lt;br/> {2,number,integer}. 2 Finger zum Bewegen auf dem Bildschirm ziehen&lt;br/> {3,number,integer}. 2 Finger drücken, um den Zoom einzustellen&lt;br/> {4,number,integer}. Kürzel zum Stoppen der Vergrößerung verwenden&lt;br/>&lt;br/> &lt;b>Zum temporären Hereinzoomen:&lt;/b>&lt;br/> {0,number,integer}. Stellen Sie sicher, dass Ihr Vergrößerungstyp auf Vollbild eingestellt ist&lt;br/> {1,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {2,number,integer}. Irgendwo auf dem Bildschirm gedrückt halten&lt;br/> {3,number,integer}. Finger ziehen, um sich auf dem Bildschirm zu bewegen&lt;br/> {4,number,integer}. Finger heben zum Stoppen der Vergrößerung</string>
+    <string name="accessibility_screen_magnification_summary">&lt;b>Hereinzoomen:&lt;/b>&lt;br/> {0,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {1,number,integer}. Auf den Bildschirm tipppen&lt;br/> {2,number,integer}. 2 Finger zum Bewegen auf dem Bildschirm ziehen&lt;br/> {3,number,integer}. 2 Finger drücken, um den Zoom einzustellen&lt;br/> {4,number,integer}. Kürzel zum Stoppen der Vergrößerung verwenden&lt;br/>&lt;br/> &lt;b>Zum temporären Hereinzoomen:&lt;/b>&lt;br/> {0,number,integer}. Vergrößerungstyp muss auf Vollbild eingestellt sein&lt;br/> {1,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {2,number,integer}. Irgendwo auf dem Bildschirm gedrückt halten&lt;br/> {3,number,integer}. Finger ziehen, um sich auf dem Bildschirm zu bewegen&lt;br/> {4,number,integer}. Finger heben zum Stoppen der Vergrößerung</string>
     <string name="accessibility_screen_magnification_title">Vergrößerung</string>
     <string name="accessibility_screen_option">Optionen</string>
     <string name="accessibility_screen_reader_haptic_title">Bildschirmleser</string>
@@ -3816,7 +3816,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gxzw_add_fingerprint_finish">Fertig!</string>
     <string name="gxzw_add_fingerprint_indicate">In diesem Bereich leicht andrücken</string>
     <string name="gxzw_add_fingerprint_know">Fertig</string>
-    <string name="gxzw_add_fingerprint_message">Stellen Sie sicher, dass sowohl Ihr Finger als auch der Bildschirm sauber sind.</string>
+    <string name="gxzw_add_fingerprint_message">Sowohl Finger als auch Bildschirm müssen sauber sein.</string>
     <string name="gxzw_add_fingerprint_move_indicate">Finger leicht bewegen</string>
     <string name="gxzw_add_fingerprint_move_message">Bewegen Sie Ihren Finger, um alle Teile Ihres Fingerabdrucks aufzuzeichnen.</string>
     <string name="gxzw_add_fingerprint_move_title">Finger leicht bewegen</string>
@@ -4069,7 +4069,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
 2. In die Mi Talk-Einstellungen wechseln und \"Kontakte im Xiaomi-Konto sichern\" wählen"</string>
     <string name="import_from_xiaomi_account_hint2">Falls Sicherung bereits vorhanden ist, weiter drücken</string>
     <string name="import_from_xiaomi_account_hint_title">Mi Talk verwenden, um Kontakte auf anderen Geräten wiederherzustellen</string>
-    <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Stellen Sie sicher, dass Sie vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
+    <string name="import_tip_summary">Wegen Kompatibilitätsproblemen können Sie nur Teildaten von iOS-Geräten übertragen. Sie müssen vor dem Start der Übertragung ein iCloud-Backup erstellen.</string>
     <string name="importance_default">Standard</string>
     <string name="importance_high">Hoch</string>
     <string name="importance_low">Niedrig</string>
@@ -4370,7 +4370,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_hotspot_tethering">usb tether;bluetooth tether;wifi hotspot;WLAN Hotspot</string>
     <string name="keywords_ignore_optimizations">Optimierungen;ignorieren;App;Standby;schlafen</string>
     <string name="keywords_install_other_apps">Apps installieren;unbekannte Quellen</string>
-    <string name="keywords_internet">Netzwerkverbindung, Internet, drahtlos, Daten, WLAN, wifi, Wi-Fi, Wi Fi, mobil, Mobilfunkanbieter, 4g, 3g, 2g, lte</string>
+    <string name="keywords_internet">Netzwerkverbindung, Internet, drahtlos, Daten, WLAN, wifi, Wi-Fi, Wi Fi, mobil, Anbieter, 4g, 3g, 2g, lte</string>
     <string name="keywords_keyboard_and_ime">Textkorrektur;richtig;Ton;vibrieren;Auto;Sprache;Geste;vorschlagen;Anregung;Thema;offensive;Wortart;Emoji</string>
     <string name="keywords_live_caption">Untertitel, geschlossene Untertitel, CC, Live Transkription, Schwerhörigkeit, Hörverlust, CART, Sprache zu Text</string>
     <string name="keywords_location">Nähe;Standort;Bericht</string>
@@ -4385,7 +4385,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_media_vibration">Haptik, Vibrieren, Empfindlichkeit, Medien</string>
     <string name="keywords_model_and_hardware">seriennummer;hardware version</string>
     <string name="keywords_more_default_sms_app">Textnachricht</string>
-    <string name="keywords_more_mobile_networks">Mobilfunk;Mobil;Mobilfunkanbieter;drahtlos;drahtlos;Daten;4g;3g;2g;LTE</string>
+    <string name="keywords_more_mobile_networks">Mobilfunk;Mobil;Anbieter;drahtlos;drahtlos;Daten;4g;3g;2g;LTE</string>
     <string name="keywords_network_name_display">Netzwerkname anzeigen</string>
     <string name="keywords_network_reset">zurücksetzen;wiederherstellen;Werkszustand</string>
     <string name="keywords_notification_vibration">Haptik;vibrieren;Sensibilität;Empfindlichkeit</string>
@@ -4637,7 +4637,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="location_agps_reset_type">Resettypen</string>
     <string name="location_agps_reset_type_choose_dialog_title">Resettypen</string>
     <string name="location_agps_reset_type_summary">Bevorzugten Resettyp auswählen</string>
-    <string name="location_agps_roaming_help">Auswahl aller Netzwerke kann die Datennutzung beim Roaming erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+    <string name="location_agps_roaming_help">Auswahl aller Netzwerke kann die Datennutzung beim Roaming erhöhen. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Anbieter Ihnen zusätzliche Kosten berechnen.</string>
     <string name="location_agps_si_mode">AGPS-SI-Modus</string>
     <string name="location_agps_si_mode_dialog_title">AGPS-Methode</string>
     <string name="location_agps_si_mode_summary">Bevorzugte AGPS-Methode auswählen</string>
@@ -5678,7 +5678,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mobile_data_off">Mobile Daten aus</string>
     <string name="mobile_data_off_summary">Mobile Daten werden nicht automatisch verbunden</string>
     <string name="mobile_data_settings_summary">Datenzugriff über Mobilfunknetz</string>
-    <string name="mobile_data_settings_summary_auto_switch">Telefon wechselt automatisch auf diesen Mobilfunkanbieter, wenn es sich in Reichweite befindet</string>
+    <string name="mobile_data_settings_summary_auto_switch">Telefon wechselt automatisch auf diesen Anbieter, wenn es sich in Reichweite befindet</string>
     <string name="mobile_data_settings_summary_dds_roaming_unavailable">Nicht verfügbar, während ein Anruf auf der anderen SIM läuft</string>
     <string name="mobile_data_settings_summary_default_data_unavailable">Daten werden nach Beendigung des Anrufs automatisch auf diesen Anbieter umgeschaltet</string>
     <string name="mobile_data_settings_summary_on_smart_dds_unavailable">Nicht verfügbar während eines Anrufs, wenn der Smart-DDS-Schalter eingeschaltet ist</string>
@@ -5705,7 +5705,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="mobile_network_use_sim_off">Aus</string>
     <string name="mobile_network_use_sim_on">SIM verwenden</string>
     <string name="mobile_no_provisioning_url">Keine Bereitstellungswebseite für %1$s bekannt</string>
-    <string name="mobile_unknown_sim_operator">Unbekannter SIM-Mobilfunkanbieter</string>
+    <string name="mobile_unknown_sim_operator">Unbekannter SIM-Anbieter</string>
     <string name="mock_location_app">App für Scheinstandorte auswählen</string>
     <string name="mock_location_app_not_set">Keine App für Scheinstandorte ausgewählt</string>
     <string name="mock_location_app_set">App für Scheinstandorte: %1$s</string>
@@ -5892,7 +5892,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="multifunction_keyboard">Multifunktional</string>
     <string name="multiple_users_main_switch_keywords">erlauben, mehrere, Benutzer, gestatten, viele</string>
     <string name="multiple_users_main_switch_title">Mehrere Benutzer verwenden</string>
-    <string name="music_app_unavailable">Musik-App wird benötigt. Stellen Sie sicher, dass diese installiert ist.</string>
+    <string name="music_app_unavailable">Musik-App wird benötigt. Diese muss installiert sein.</string>
     <string name="music_audio_effect_optimize">Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary">Dirac, Kopfhörer und weitere Audioeinstellungen</string>
     <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD-Sound, Kopfhörer und weitere Audioeinstellungen</string>
@@ -6037,8 +6037,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="network_name_displayed_summary">Netzwerkname in der Statusleiste anzeigen</string>
     <string name="network_name_input_error">SSID wurde nicht gespeichert. Erneut versuchen.</string>
     <string name="network_operator_category">Netzwerk</string>
-    <string name="network_operator_display_title">Mobilfunkanbieter anzeigen</string>
-    <string name="network_operators_settings">Mobilfunkanbieter</string>
+    <string name="network_operator_display_title">Anbieter anzeigen</string>
+    <string name="network_operators_settings">Anbieter</string>
     <string name="network_query_error">Kein Netzwerk gefunden. Erneut versuchen.</string>
     <string name="network_recommended">" (empfohlen)"</string>
     <string name="network_reset_not_available">Netzwerkreset ist für diesen Benutzer nicht verfügbar</string>
@@ -6457,7 +6457,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="oem_radio_info_label">OEM-spezifische Infos/Einstellungen</string>
     <string name="oem_unlock_enable">OEM-Entsperrung</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Bootloader ist bereits entsperrt</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Mit dem Internet verbinden oder wenden Sie sich an Ihren Mobilfunkanbieter</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Mit dem Internet verbinden oder wenden Sie sich an Ihren Anbieter</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nicht verfügbar bei SIM-Lock-Geräten</string>
     <string name="oem_unlock_enable_summary">Bootloader-Entsperrung erlauben</string>
     <string name="off">Aus</string>
@@ -6512,7 +6512,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="open_wifi_connect_title">Verbinden mit %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Dieses Arbeitsprofil wird verwaltet von:</string>
     <string name="operation_guide_title">Anleitung</string>
-    <string name="operator_warning">Die Abrechnung der Mobilfunkanbieterdaten kann von Ihrem Gerät abweichen</string>
+    <string name="operator_warning">Die Abrechnung der Anbieterdaten kann von Ihrem Gerät abweichen</string>
     <string name="optimization_cancel">Abbrechen</string>
     <string name="os_version">OS-Version</string>
     <string name="osu_completing_sign_up">Anmeldung abschließen…</string>
@@ -7091,7 +7091,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="privileged_action_disable_sub_dialog_title">%1$s ausschalten?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">SIM ausschalten?</string>
     <string name="process_dex2oat_label">App-Optimierung</string>
-    <string name="process_provider_in_use_description">Mobilfunkanbieter %1$s wird verwendet</string>
+    <string name="process_provider_in_use_description">Anbieter %1$s wird verwendet</string>
     <string name="process_removed_apps">Apps entfernt</string>
     <string name="process_service_in_use_description">Dienst %1$s wird verwendet</string>
     <string name="process_stats_bg_ram_use">RAM-Nutzung (Hintergrund)</string>
@@ -7339,7 +7339,7 @@ UT Interface: %5$s"</string>
     <string name="reset_confirm_directory_pad">Hinweis: Prüfen Sie vor dem Wiederherstellen von Elementen, ob der Ordner \"MIUI-Backup-AllBackup\" auf Ihrem Mobilgerät existiert. Wenn nicht, erstellen Sie ihn.</string>
     <string name="reset_dashboard_title">Zurücksetzen</string>
     <string name="reset_default_apn_failed">Zurücksetzen des Standard-APN fehlgeschlagen</string>
-    <string name="reset_esim_desc">Alle eSIMs auf dem Telefon löschen. Kontaktieren Sie Ihren Mobilfunkanbieter, um Ihre eSIMs erneut herunterzuladen. Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt.</string>
+    <string name="reset_esim_desc">Alle eSIMs auf dem Telefon löschen. Kontaktieren Sie Ihren Anbieter, um Ihre eSIMs erneut herunterzuladen. Dadurch wird Ihr Mobilfunkvertrag nicht gekündigt.</string>
     <string name="reset_esim_error_msg">eSIMs können wegen eines Fehlers nicht zurückgesetzt werden</string>
     <string name="reset_esim_error_title">eSIMs können nicht zurückgesetzt werden</string>
     <string name="reset_esim_title">Auch eSIM zurücksetzen</string>
@@ -7445,7 +7445,7 @@ UT Interface: %5$s"</string>
     <string name="risk_tip">Risiko erkannt</string>
     <string name="roaming">Daten-Roaming</string>
     <string name="roaming_alert_title">Daten-Roaming erlauben?</string>
-    <string name="roaming_check_price_warning">Fragen Sie Ihren Mobilfunkanbieter nach den Preisen</string>
+    <string name="roaming_check_price_warning">Fragen Sie Ihren Anbieter nach den Preisen</string>
     <string name="roaming_disable">Bei Roaming mit Datendienst verbinden</string>
     <string name="roaming_enable">Bei Roaming mit Datendienst verbinden</string>
     <string name="roaming_warning">Ihnen können erhebliche Kosten entstehen</string>
@@ -7833,7 +7833,7 @@ UT Interface: %5$s"</string>
     <string name="search_music_headset_settings">Kopfhörer &amp; Audioeffekte;Kopfhörer und Audioeffekte;Kopfhörer;Ohrhörer;Audioeffekte</string>
     <string name="search_music_mi_effect_title">Mi Sound Enhancer;Sound verbessern;Klang verbessern</string>
     <string name="search_my_device">Über das Telefon;Über das Gerät;Mein Telefon;Mein Gerät;Telefon;Gerät</string>
-    <string name="search_networks_title">Mobilfunknetze;Mobilfunkanbieter;Mobilfunkbetreiber;Mobilfunkanbieter;</string>
+    <string name="search_networks_title">Mobilfunknetze;Anbieter;Mobilfunkbetreiber;Anbieter;</string>
     <string name="search_nfc_se_route_title">Position Secure Element</string>
     <string name="search_notification_sound_title">Standardbenachrichtigungston;Benachrichtigungston;Benachrichtigungstöne</string>
     <string name="search_ntts_settings_title">TTS;TTS Einstellungen</string>
@@ -7888,10 +7888,10 @@ UT Interface: %5$s"</string>
     <string name="search_sound_effects_enable_title">Berührungstöne;Tipptöne;Berührungstöne einschalten</string>
     <string name="search_sound_settings">Ton;Lautstärke;Vibration;Geräusch unterdrücken;Geräuschunterdrückung;Rauschunterdrückung</string>
     <string name="search_status_bar_settings">Benachrichtigungen &amp; Statusleiste;Benachrichtigungen;Statusleiste</string>
-    <string name="search_status_bar_settings_custom_carrier">Mobilfunkanbieternamen ändern;Carriername;Mobilfunkanbietername;Mobilfunkanbietername</string>
+    <string name="search_status_bar_settings_custom_carrier">Anbieternamen ändern;Carriername;Anbietername;Anbietername</string>
     <string name="search_status_bar_settings_expandable_under_keyguard">Am Sperrbildschirm anzeigen;am Sperrbildschirm anzeigen</string>
     <string name="search_status_bar_settings_manage_notification">App-Benachrichtigung;App-Benachrichtigungen;Benachrichtigungen</string>
-    <string name="search_status_bar_settings_show_carrier">Mobilfunkanbieternamen anzeigen;Carriername;Mobilfunkanbietername;Mobilfunkanbietername</string>
+    <string name="search_status_bar_settings_show_carrier">Anbieternamen anzeigen;Carriername;Anbietername;Anbietername</string>
     <string name="search_status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen;Verbindungsgeschwindigkeit</string>
     <string name="search_status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen;Benachrichtigungssymbole</string>
     <string name="search_status_bar_settings_show_screenshot_notification">Screenshot-Benachrichtigung anzeigen;Screenshot-Benachrichtigung;Screenshot</string>
@@ -8389,7 +8389,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="show_all_anrs_summary">Dialog \"App antwortet nicht\" für Hintergrund-Apps anzeigen</string>
     <string name="show_background_processes">Prozesse im Cache anzeigen</string>
     <string name="show_badge_notifications_short">Plaketten</string>
-    <string name="show_carrier_under_keyguard_title">Mobilfunkanbieter bei gesperrtem Gerät anzeigen</string>
+    <string name="show_carrier_under_keyguard_title">Anbieter bei gesperrtem Gerät anzeigen</string>
     <string name="show_charging_in_non_lockscreen_animation">Ladeanimation anzeigen, wenn das Gerät entsperrt wurde</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Ladeanimation nach dem Entsperren des Geräts weiterhin anzeigen und nur für Videowiedergabe und andere ähnliche Vollbildszenen ausblenden</string>
     <string name="show_clip_access_notification">Zugriff auf Zwischenablage anzeigen</string>
@@ -8436,7 +8436,7 @@ Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
     <string name="show_touches_summary">Visuelles Feedback für Berührungen anzeigen</string>
     <string name="show_user_info_on_lockscreen_label">Benutzerinfo am Sperrbildschirm anzeigen</string>
     <string name="show_wifi_name_title">WLAN anzeigen</string>
-    <string name="shut_down_find_device_network_failure_content">Gerät finden ausschalten fehlgeschlagen. Stellen Sie sicher, dass das Telefon mit dem Internet verbunden ist.</string>
+    <string name="shut_down_find_device_network_failure_content">Gerät finden ausschalten fehlgeschlagen. Telefon muss mit dem Internet verbunden sein.</string>
     <string name="shut_down_find_device_network_failure_title">Internetverbindung fehlgeschlagen</string>
     <string name="shuting_down_find_device">Gerät finden ausschalten…</string>
     <string name="sidebar_setting">Einstellungen Seitenleiste</string>
@@ -8812,7 +8812,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="status_bar_settings_all_app_display_loading">Einen Moment…</string>
     <string name="status_bar_settings_app_notification_preferences">App-Einstellungen</string>
     <string name="status_bar_settings_basic_settings">Grundeinstellungen</string>
-    <string name="status_bar_settings_custom_carrier">Mobilfunkanbieternamen bearbeiten</string>
+    <string name="status_bar_settings_custom_carrier">Anbieternamen bearbeiten</string>
     <string name="status_bar_settings_custom_wifi_name">WLAN-Name bearbeiten</string>
     <string name="status_bar_settings_enable_notification">Benachrichtigungen erlauben</string>
     <string name="status_bar_settings_expand_top_notification">Obere Benachrichtigung erweitern</string>
@@ -8833,9 +8833,9 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="status_bar_settings_notification_use_app_icon">App-Symbole für Benachrichtigungen verwenden</string>
     <string name="status_bar_settings_peek_notification_icon">Symbole für eingehende Benachrichtigungen anzeigen</string>
     <string name="status_bar_settings_qs_layout">Layout Schnelleinstellungen</string>
-    <string name="status_bar_settings_show_carrier">Mobilfunkanbieternamen anzeigen</string>
-    <string name="status_bar_settings_show_carrier_summary">Mobilfunkanbietername wird weiterhin am Sperrbildschirm und in der Benachrichtigungsleiste angezeigt, wenn diese Funktion deaktiviert ist</string>
-    <string name="status_bar_settings_show_carrier_under_keyguard">Mobilfunkanbieter anzeigen, wenn das Gerät gesperrt ist</string>
+    <string name="status_bar_settings_show_carrier">Anbieternamen anzeigen</string>
+    <string name="status_bar_settings_show_carrier_summary">Anbietername wird weiterhin am Sperrbildschirm und in der Benachrichtigungsleiste angezeigt, wenn diese Funktion deaktiviert ist</string>
+    <string name="status_bar_settings_show_carrier_under_keyguard">Anbieter anzeigen, wenn das Gerät gesperrt ist</string>
     <string name="status_bar_settings_show_floating_notification">Popups</string>
     <string name="status_bar_settings_show_floating_notification_summary">Wichtige Benachrichtigungen am oberen Bildschirmrand erlauben</string>
     <string name="status_bar_settings_show_flow_info">Datennutzung anzeigen</string>
@@ -9047,7 +9047,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="structure_face_data_introduction_title">3D-Gesichtsdaten hinzufügen</string>
     <string name="structure_face_data_ir_input_face">Kopf leicht bewegen</string>
     <string name="structure_face_data_manage_delete_msg">3D-Gesichtsdaten löschen</string>
-    <string name="structure_face_data_suggestion_text">Stellen Sie sicher, dass alle Teile Ihres Gesichts deutlich sichtbar sind. Tragen Sie während der Aufnahme von 3D-Gesichtsdaten keine Hüte, Sonnenbrillen oder andere Accessoires, die Ihr Gesicht verdecken könnten. Achten Sie darauf, dass Ihr Gesicht gleichmäßig beleuchtet ist.</string>
+    <string name="structure_face_data_suggestion_text">Alle Teile Ihres Gesichts müssen deutlich sichtbar sein. Tragen Sie während der Aufnahme von 3D-Gesichtsdaten keine Hüte, Sonnenbrillen oder andere Accessoires, die Ihr Gesicht verdecken könnten. Achten Sie darauf, dass Ihr Gesicht gleichmäßig beleuchtet ist.</string>
     <string name="structure_face_data_suggestion_warning_text">Hinweis: Die Verwendung von 3D-Gesichtsdaten ist etwas weniger sicher als ein Passwort. Personen oder Objekte, die Ihnen sehr ähnlich sehen, könnten Ihr Gerät eventuell entsperren.</string>
     <string name="structure_face_delete_data_dialog_msg">Kamera starten und Vorschau anzeigen fehlgeschlagen. Erneut versuchen.</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Erneut versuchen</string>
@@ -9454,7 +9454,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="theme_customization_font_title">Überschrift / Standardschriftart</string>
     <string name="theme_customization_icon_shape_title">Symbolform</string>
     <string name="theme_settings_title">Themen</string>
-    <string name="thememanager_not_found">Themen können nicht geöffnet werden. Stellen Sie sicher, dass die App installiert ist.</string>
+    <string name="thememanager_not_found">Themen können nicht geöffnet werden. App muss installiert sein.</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_fold">Mit drei Fingern horizontal über den inneren Bildschirm wischen, um den geteilten Bildschirm zu öffnen</string>
     <string name="three_fingers_slide_horizontally_into_splitscreen_pad">Mit drei Fingern horizontal wischen, um den geteilten Bildschirm zu öffnen</string>
     <string name="three_gesture_down">3 Finger nach unten ziehen</string>
@@ -9642,7 +9642,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="trans_intro_desc_3">Übertragung abbrechen, Mi Mover beenden und neu beginnen. Doppelte Dateien werden bei der neuen Übertragung überschrieben.</string>
     <string name="trans_intro_desc_4">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden. Allerdings können sich einige neuere Geräte (z. B. Mi 6) während der Übertragung noch über WLAN mit dem Internet verbinden.</string>
     <string name="trans_intro_desc_4_market">Mi Mover verwendet WLAN, um Dateien zu übertragen. Daher können Sie sich während einer Übertragung auf keinem Gerät über WLAN mit dem Internet verbinden. Sie können jedoch weiterhin mobile Daten verwenden.</string>
-    <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Stellen Sie sicher, dass Sie mindestens 500 MB - 1 GB freier Speicher auf Ihrem alten Telefon haben, bevor Sie mit einer Übertragung beginnen.</string>
+    <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Prüfen Sie, ob mind. 500 MB - 1 GB freier Speicher auf Ihrem alten Telefon ist, bevor Sie mit einer Übertragung beginnen.</string>
     <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät etc.</string>
     <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die App-Daten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
     <string name="trans_intro_desc_8">WeChat-App-Daten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
@@ -10290,7 +10290,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="vibrate_title">Vibrieren</string>
     <string name="vibrate_when_ringing_option_ramping_ringer">Erst vibrieren, dann allmählich klingeln</string>
     <string name="vibrate_when_ringing_title">Beim Klingeln vibrieren</string>
-    <string name="video_calling_settings_title">Mobilfunkanbieter-Videoanrufe</string>
+    <string name="video_calling_settings_title">Anbieter-Videoanrufe</string>
     <string name="video_tool_box_title">Video-Toolbox</string>
     <string name="view_face_privacy_policy"><Data>Lesen und akzeptieren Sie die &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Gesichtsdaten &amp; Bildschirmsperre\" Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="view_fingerprint_privacy_policy"><Data>Lesen und akzeptieren Sie die &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Fingerabdrücke &amp; Bildschirmsperre\" Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
@@ -10526,7 +10526,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wellbing_title">Digital Wellbeing &amp; Jugendschutz</string>
     <string name="wfc_disclaimer_agree_button_text">FORTFAHREN</string>
     <string name="wfc_disclaimer_disagree_text">NEIN DANKE</string>
-    <string name="wfc_disclaimer_emergency_limitation_desc_text">Notrufe über WLAN-Anrufe werden von Ihrem Mobilfunkanbieter nicht unterstützt.\nDas Gerät schaltet automatisch auf ein Mobilfunknetz um, um einen Notruf zu tätigen.\nNotrufe sind nur in Gebieten mit Mobilfunkabdeckung möglich.</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">Notrufe über WLAN-Anrufe werden von Ihrem Anbieter nicht unterstützt.\nDas Gerät schaltet automatisch auf ein Mobilfunknetz um, um einen Notruf zu tätigen.\nNotrufe sind nur in Gebieten mit Mobilfunkabdeckung möglich.</string>
     <string name="wfc_disclaimer_emergency_limitation_title_text">Notrufe</string>
     <string name="wfc_disclaimer_location_desc_text">Ihr Dienstanbieter kann Ihren Standort erfassen, um diesen Service zu erbringen.\n\nBitte lesen Sie die Datenschutzerklärung Ihres Dienstanbieters.</string>
     <string name="wfc_disclaimer_location_title_text">Standort</string>
@@ -10671,7 +10671,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="wifi_connect">Verbinden</string>
     <string name="wifi_connect_channel">WLAN-Kanal:</string>
     <string name="wifi_connect_cmcc_dialog_cancel">Abbrechen</string>
-    <string name="wifi_connect_cmcc_dialog_content">Mit dem mobilen Datennetz verbunden. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Mobilfunkanbieter Ihnen zusätzliche Kosten berechnen.</string>
+    <string name="wifi_connect_cmcc_dialog_content">Mit dem mobilen Datennetz verbunden. Wenn Sie Ihr Datentariflimit überschreiten, könnte Ihr Anbieter Ihnen zusätzliche Kosten berechnen.</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">Nicht noch mal anzeigen</string>
     <string name="wifi_connect_cmcc_dialog_title">CMCC verbunden</string>
     <string name="wifi_connect_failed_message">Telefon konnte sich nicht mit diesem WLAN verbinden</string>
@@ -11288,7 +11288,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="work_sync_dialog_yes">Ersetzen</string>
     <string name="work_use_personal_sounds_summary">Töne sind die gleichen für die Arbeits- und die persönlichen Profile</string>
     <string name="work_use_personal_sounds_title">Töne für persönliches Profil verwenden</string>
-    <string name="wps_connect_summary">Stellen Sie sicher, dass der Router WPS unterstützt und es eingeschaltet ist</string>
+    <string name="wps_connect_summary">Router muss WPS unterstützen und es muss eingeschaltet sein</string>
     <string name="wps_connect_title">WPS-Taster</string>
     <string name="write_settings">Systemeinstellungen ändern</string>
     <string name="write_settings_description">Diese Berechtigung erlaubt einer App, die Systemeinstellungen zu ändern</string>
@@ -11310,7 +11310,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronisiert Ihre Fotos, sichert Ihre Apps und Einstellungen und hilft Ihnen, Ihr Telefon mit \"Gerät finden\" zu finden.</string>
     <string name="xiaomi_cloud_service_disabled">Aus</string>
     <string name="xiaomi_cloud_service_unknown">Unbekannt</string>
-    <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Stellen Sie sicher, dass der Downloadmanager normal funktioniert.</string>
+    <string name="xiaomi_connect_download_manager_fail">Download wurde nicht gestartet. Prüfen Sie, ob der Downloadmanager normal funktioniert.</string>
     <string name="xiaomi_custom_input_method">Angepasst für Xiaomi</string>
     <string name="xiaomi_external_storage_unavailable">Kein Speicher verfügbar, prüfen Sie die SD-Karte</string>
     <string name="xiaomi_hp_location">Präziser Standortzugriff</string>
