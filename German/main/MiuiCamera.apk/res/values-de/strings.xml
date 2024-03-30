@@ -427,9 +427,9 @@
     <string name="beauty_sm_texture_cv">Haut</string>
     <string name="beauty_tab_name_live_beauty">Verschönerung</string>
     <string name="beauty_tab_name_live_filter">Filter</string>
-    <string name="bluetooth_fromkeyguard_not_permission">Dieser App den Zugriff auf den Verbindungsstatus von Bluetooth-Ohrhörern erlauben, um diese Funktion normal zu nutzen.</string>
-    <string name="bluetooth_headset_permission_des">Zur Bestimmung des Verbindungsstatus von Bluetooth-Ohrhörern und zur Tonaufnahme über das Ohrhörermikrofon</string>
-    <string name="bluetooth_permission_not_ask_again">Dieser App in den Einstellungen erlauben, sich mit Geräten in der Nähe zu verbinden, um eine Verbindung mit Bluetooth-Ohrhörern herzustellen.</string>
+    <string name="bluetooth_fromkeyguard_not_permission">Dieser App den Zugriff auf den Verbindungsstatus von Bluetooth-Kopfhörern erlauben, um diese Funktion normal zu nutzen.</string>
+    <string name="bluetooth_headset_permission_des">Zur Bestimmung des Verbindungsstatus von Bluetooth-Kopfhörern und zur Tonaufnahme über das Kopfhörermikrofon</string>
+    <string name="bluetooth_permission_not_ask_again">Dieser App in den Einstellungen erlauben, sich mit Geräten in der Nähe zu verbinden, um eine Verbindung mit Bluetooth-Kopfhörern herzustellen.</string>
     <string name="bokeh_use_hint">Tiefeneffekt</string>
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
@@ -2054,8 +2054,8 @@
     <string name="pref_watermark_title">Wasserzeichen</string>
     <string name="pref_wind_denoise_title">Windfilter</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="prek_b_j_o">Einschalten, um einen Stereo-Surround-Effekt zu erzeugen. Zum Querformatmodus wechseln oder Ohrhörer anschließen, um den besten Effekt zu erzielen</string>
-    <string name="prek_b_j_o_i">Erfassen Sie alle Geräusche in der Umgebung des Geräts und bewahren Sie dabei ihre räumlichen Eigenschaften. Geben Sie aufgenommene Audiodaten im Querformat oder über Ohrhörer wieder, um den besten Effekt zu erzielen. Diese Funktion funktioniert sowohl im Regiemodus als auch im normalen und im Pro-Videomodus. Externe Mikrofone werden nicht unterstützt.</string>
+    <string name="prek_b_j_o">Einschalten, um einen Stereo-Surround-Effekt zu erzeugen. Zum Querformatmodus wechseln oder Kopfhörer anschließen, um den besten Effekt zu erzielen</string>
+    <string name="prek_b_j_o_i">Erfassen Sie alle Geräusche in der Umgebung des Geräts und bewahren Sie dabei ihre räumlichen Eigenschaften. Geben Sie aufgenommene Audiodaten im Querformat oder über Kopfhörer wieder, um den besten Effekt zu erzielen. Diese Funktion funktioniert sowohl im Regiemodus als auch im normalen und im Pro-Videomodus. Externe Mikrofone werden nicht unterstützt.</string>
     <string name="prek_b_j_p">Einfluss von Wind auf die Tonaufnahme reduzieren</string>
     <string name="prek_b_j_p_i">Verringern Sie die Auswirkungen von Wind auf den aufgenommenen Ton bei der Videoaufnahme. Diese Funktion funktioniert im Regiemodus sowie im normalen und im Pro-Videomodus. Externe Mikrofone werden nicht unterstützt.</string>
     <string name="prep_video_ai_audio_new_desc_tip">Geräusche des Objekts im Fokus werden verstärkt</string>
@@ -2103,7 +2103,7 @@
     <string name="scan_install_prompt_loading">Scanner installieren…</string>
     <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
     <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, Lautstärke hoch und Zurück-Taste gleichzeitig drücken</string>
-    <string name="screen_on_proximity_sensor_summary">Decken Sie den Ohrhörerbereich nicht ab</string>
+    <string name="screen_on_proximity_sensor_summary">Decken Sie den Kopfhörerbereich nicht ab</string>
     <string name="search_menu_title">Suchen</string>
     <string name="search_settings">Kameraeinstellungen;Qualität;Bildqualität;Aufnahmeort;Bildort;Gesichtserkennung;Kameraton</string>
     <string name="security_line">Rahmenlinie</string>

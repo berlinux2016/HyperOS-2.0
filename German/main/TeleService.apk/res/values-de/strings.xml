@@ -1672,7 +1672,7 @@
     <string name="relay_connection_service_label">Integrierter RELAY-Anruf</string>
     <string name="removable_esim_string">Wechselbare eSIM als Standard festlegen</string>
     <string name="remove">Löschen</string>
-    <string name="report_method_entries_item1">Nur wenn Ohrhörer angeschlossen sind</string>
+    <string name="report_method_entries_item1">Nur wenn Kopfhörer angeschlossen sind</string>
     <string name="report_method_entries_item2">Immer</string>
     <string name="report_method_entries_item3">Ausschalten</string>
     <string name="requesting_unlock">Netzwerkentsperrung anfordern…</string>

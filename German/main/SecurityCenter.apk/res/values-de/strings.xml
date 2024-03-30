@@ -773,7 +773,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_default_if_exclude">Wenn</string>
     <string name="auto_task_default_task_summary_driver_car">Mobilen Hotspot einschalten bei Verbindung mit Fahrzeugsystem über Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">DND-Modus ausschalten und Bluetooth, WLAN und mobile Daten wieder einschalten</string>
-    <string name="auto_task_default_task_summary_listen_music">Musik abspielen und Ohrhörertyp wählen</string>
+    <string name="auto_task_default_task_summary_listen_music">Musik abspielen und Kopfhörertyp wählen</string>
     <string name="auto_task_default_task_summary_meet">Besprechungszeit planen und DND-Modus einschalten</string>
     <string name="auto_task_default_task_summary_noon_break">Mittagsschlaf planen und DND-Modus einschalten</string>
     <string name="auto_task_default_task_summary_save_power">Stromsparen einschalten, wenn der Akku weniger als 30 % hat</string>
@@ -2173,7 +2173,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_already_in_video_list_tips">Dieses Element ist bereits unter den hinzugefügten Video-Apps. Kann hier nicht hinzugefügt werden.</string>
     <string name="gb_application_not_find">Noch nichts da</string>
     <string name="gb_audition_instruction">Gedrückt halten zum Aufnehmen (%1$s-%2$s s)</string>
-    <string name="gb_audition_play_instruction">Ohrhörer verwenden für den besten Effekt</string>
+    <string name="gb_audition_play_instruction">Kopfhörer verwenden für den besten Effekt</string>
     <string name="gb_award_noti_message">Aktivieren Sie die Hintergrundaktualisierung von Game for Peace in Game Turbo, um Prämien zu erhalten</string>
     <string name="gb_award_noti_title">Die Game for Peace-Prämien sind da!</string>
     <string name="gb_barrage_app_manger">Apps verwalten</string>
@@ -2392,7 +2392,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_voice_changer_free">Kostenlos</string>
     <string name="gb_voice_changer_gender_female">Weiblich</string>
     <string name="gb_voice_changer_gender_man">Männlich</string>
-    <string name="gb_voice_changer_headset">Ohrhörer anschließen, um Echtzeit-Feedback zu verwenden</string>
+    <string name="gb_voice_changer_headset">Kopfhörer anschließen, um Echtzeit-Feedback zu verwenden</string>
     <string name="gb_voice_changer_lady">Frau</string>
     <string name="gb_voice_changer_loli">Mädchen</string>
     <string name="gb_voice_changer_men">Mann</string>
@@ -5299,14 +5299,14 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="summary_condition_charge_to_target_percent">Wenn der Akku bis %d%% geladen ist</string>
     <string name="summary_condition_close_absorbed_mode">Nach dem Ausschalten des Fokusmodus</string>
     <string name="summary_condition_in_charge">Beim Laden</string>
-    <string name="summary_condition_insert_headset">Kabelgebundene Ohrhörer anschließen</string>
+    <string name="summary_condition_insert_headset">Kabelgebundene Kopfhörer anschließen</string>
     <string name="summary_condition_missing_call">Verpasster Anruf</string>
     <string name="summary_condition_no_in_charge">Wenn nicht geladen wird</string>
     <string name="summary_condition_open_absorbed_mode">Nach dem Einschalten des Fokusmodus</string>
     <string name="summary_condition_reduce_to_target">Wenn der Akku den eingestellten Wert\nerreicht hat</string>
     <string name="summary_condition_reduce_to_target_percent">Wenn der Akku bei %d%% ist</string>
     <string name="summary_condition_scan_virus">Virenscan</string>
-    <string name="summary_condition_unplug_headset">Kabelgebundene Ohrhörer trennen</string>
+    <string name="summary_condition_unplug_headset">Kabelgebundene Kopfhörer trennen</string>
     <string name="summary_condition_wired_charge">Wenn das Ladegerät verbunden ist</string>
     <string name="summary_condition_wireless_charge">Beim drahtlosen Laden</string>
     <string name="summary_confirm_open_flashligt">Lampe einschalten?</string>
@@ -5632,7 +5632,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="title_condition_charge">Laden</string>
     <string name="title_condition_connect_wlan">Mit WLAN verbinden</string>
     <string name="title_condition_disconnect_wlan">WLAN ausschalten</string>
-    <string name="title_condition_headset">Kabelgebundene Ohrhörer</string>
+    <string name="title_condition_headset">Kabelgebundene Kopfhörer</string>
     <string name="title_condition_hotspot">Mobiler Hotspot</string>
     <string name="title_condition_incall">Anruf</string>
     <string name="title_condition_leave">Standort verlassen</string>

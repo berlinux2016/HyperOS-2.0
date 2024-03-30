@@ -34,8 +34,8 @@
         <item quantity="one">Taste auf der Box für %1$d Sek gedrückt halten</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Touchpad an einem der Ohrhörer für %1$d Sek festhalten</item>
-        <item quantity="one">Touchpad an einem der Ohrhörer für %1$d Sek festhalten</item>
+        <item quantity="other">Touchpad an einem der Kopfhörer für %1$d Sek festhalten</item>
+        <item quantity="one">Touchpad an einem der Kopfhörer für %1$d Sek festhalten</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
         <item quantity="other">Zum Reset %1$d Sek lang drücken und halten</item>

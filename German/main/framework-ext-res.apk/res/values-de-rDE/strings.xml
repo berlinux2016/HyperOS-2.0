@@ -203,7 +203,7 @@
     <string name="hallofmemories">Erinnerungen</string>
     <string name="handset_text_unsupported_handset_insert">Tippen zum Anzeigen von Details</string>
     <string name="handset_text_usb_handset_insert">Tippen, um weitere Einstellungen zu öffnen</string>
-    <string name="handset_title_unsupported_handset_insert">USB-Ohrhörer-Adapter werden nicht unterstützt</string>
+    <string name="handset_title_unsupported_handset_insert">USB-Kopfhörer-Adapter werden nicht unterstützt</string>
     <string name="handset_title_usb_handset_insert">Tonwiedergabe über USB</string>
     <string name="handy_mode_enter_dlg_msg">Einhandmodus einschalten?</string>
     <string name="handy_mode_enter_dlg_title">Einhandmodus einschalten</string>
@@ -411,7 +411,7 @@
     <string name="screen_on_proximity_sensor_hint">Lauter- und Zurücktaste gleichzeitig drücken, um diese Funktion zu deaktivieren</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Drücken Sie die Lauter-Taste, um diese Funktion zu deaktivieren</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar_for_kddi">Drücken Sie die Lauter-Taste, um diese Funktion zu deaktivieren</string>
-    <string name="screen_on_proximity_sensor_summary">Ohrhörerbereich nicht abdecken</string>
+    <string name="screen_on_proximity_sensor_summary">Kopfhörerbereich nicht abdecken</string>
     <string name="screen_on_proximity_sensor_summary_for_kddi">Umgebungslichtsensor nicht abdecken</string>
     <string name="screen_on_proximity_sensor_title">Taschenmodus</string>
     <string name="screen_paper_mode_enter_toast">Lesemodus ist an. Um ihn auszuschalten, gehen Sie zu Einstellungen &gt; Bildschirm &gt; Lesemodus.</string>

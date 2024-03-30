@@ -439,7 +439,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="permission_message_introduction">Zum Senden von Nachrichten an gesperrte Kontakte</string>
     <string name="permission_not_agree_service_not_working">Wenn Sie mit den oben genannten erforderlichen Berechtigungen nicht einverstanden sind, können Sie diesen Dienst nicht nutzen.</string>
     <string name="permission_number">Zugriff auf Rufnummer</string>
-    <string name="permission_number_introduction">Zum Herstellen einer Bluetooth-Verbindung mit Fahrzeugsystemen und Bluetooth-Ohrhörern</string>
+    <string name="permission_number_introduction">Zum Herstellen einer Bluetooth-Verbindung mit Fahrzeugsystemen und Bluetooth-Kopfhörern</string>
     <string name="permission_phone_imei_device">Zum Zugriff auf die IMEI zur Geräteidentifizierung</string>
     <string name="permission_phone_network">Zum Zugriff auf den Netzwerktyp, um herunterladbare Elemente zu optimieren und anzupassen</string>
     <string name="permission_phone_service">Zugriff auf Rufnummer, IMEI und IMSI</string>

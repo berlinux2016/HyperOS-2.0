@@ -272,7 +272,7 @@
     <string name="notification_requesting_video_call">Eingehende Videoanfrage</string>
     <string name="onscreenEndCallText">Ende</string>
     <string name="onscreen_add_call_text">Anruf hinzufügen</string>
-    <string name="onscreen_audio_mode_handset">Ohrhörer</string>
+    <string name="onscreen_audio_mode_handset">Kopfhörer</string>
     <string name="onscreen_audio_mode_headset">Kopfhörer</string>
     <string name="onscreen_audio_mode_speaker">Lautsprecher</string>
     <string name="onscreen_call_record">Aufnehmen</string>
@@ -312,7 +312,7 @@
     <string name="satellite_debug_evevation">Höhe</string>
     <string name="satellite_debug_rssi">RSSI-Signalstärke</string>
     <string name="satellite_debug_satellite">Satellit</string>
-    <string name="satellite_diable_earpiece">Ohrhörer kann bei Satellitenanrufen nicht verwendet werden</string>
+    <string name="satellite_diable_earpiece">Kopfhörer kann bei Satellitenanrufen nicht verwendet werden</string>
     <string name="satellite_dialog_button">Popup-Fenster</string>
     <string name="satellite_dialog_cancel">Abbrechen</string>
     <string name="satellite_guide_azimuth">Bewegen, bis sich das Satellitensymbol im blauen Bereich befindet</string>
@@ -375,7 +375,7 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="speakerphone_tip">Falten Sie das Gerät, um den Ohrhörer oder den Lautsprecher zu verwenden</string>
+    <string name="speakerphone_tip">Falten Sie das Gerät, um den Kopfhörer oder den Lautsprecher zu verwenden</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>

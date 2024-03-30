@@ -37,7 +37,7 @@
     <string name="action_item_download">Herunterladen</string>
     <string name="action_item_favorite">Zu Favoriten hinzufügen</string>
     <string name="action_item_hide">Ausblenden</string>
-    <string name="action_item_hifi">Ohrhörer</string>
+    <string name="action_item_hifi">Kopfhörer</string>
     <string name="action_item_play_all">Alle in Zufallswiedergabe</string>
     <string name="action_item_play_next">Später abspielen</string>
     <string name="action_item_play_video">Musikvideo abspielen</string>
@@ -1402,7 +1402,7 @@
     <string name="snow_ui_croller_virtualizer">Immersives Audio</string>
     <string name="snow_ui_des_back">Zurück</string>
     <string name="snow_ui_des_drop_down">Wählen</string>
-    <string name="snow_ui_equalizer_des">Setzen Sie Ohrhörer ein, bevor Sie Toneffekte einstellen</string>
+    <string name="snow_ui_equalizer_des">Setzen Sie Kopfhörer ein, bevor Sie Toneffekte einstellen</string>
     <string name="snow_ui_equalizer_launched">Testen Sie den neuen Equalizer!</string>
     <string name="snow_ui_equalizer_preset_classical">Klassisch</string>
     <string name="snow_ui_equalizer_preset_custom">Benutzerdefiniert</string>

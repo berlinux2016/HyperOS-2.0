@@ -218,8 +218,8 @@
         <item quantity="one">%d Sek</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
-        <item quantity="other">Warnen, wenn einer Ihrer Ohrhörer länger als %d Minuten vom Ohr oder der Ladehülle entfernt ist.</item>
-        <item quantity="one">Warnen, wenn einer Ihrer Ohrhörer länger als %d Minute vom Ohr oder der Ladehülle entfernt ist.</item>
+        <item quantity="other">Warnen, wenn einer Ihrer Kopfhörer länger als %d Minuten vom Ohr oder der Ladehülle entfernt ist.</item>
+        <item quantity="one">Warnen, wenn einer Ihrer Kopfhörer länger als %d Minute vom Ohr oder der Ladehülle entfernt ist.</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d-mal entsperrt</item>

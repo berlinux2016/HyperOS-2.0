@@ -170,7 +170,7 @@
     <string name="hearing_assist_transmission_label">Live-In-Ear-Monitor</string>
     <string name="hearing_assist_transmission_tips_cancel">Abbrechen</string>
     <string name="hearing_assist_transmission_tips_continue">Einschalten</string>
-    <string name="hearing_assist_transmission_tips_summary">Live-In-Ear-Monitor überträgt das Telefonmikro an die angeschlossenen Bluetooth-Ohrhörer. Jetzt einschalten?</string>
+    <string name="hearing_assist_transmission_tips_summary">Live-In-Ear-Monitor überträgt das Telefonmikro an die angeschlossenen Bluetooth-Kopfhörer. Jetzt einschalten?</string>
     <string name="hearing_assist_transmission_tips_title">Live-In-Ear-Monitor</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="kddi_miui_toast_zen_standard_to_off">Lautlosmodus ist jetzt aus. Anrufe und Benachrichtigungen werden nicht stummgeschaltet.</string>
@@ -184,10 +184,10 @@
     <string name="miplay_accessibility_prev">Vorheriger Titel</string>
     <string name="miplay_accessibility_seekbar">Fortschrittsbalken</string>
     <string name="miplay_accessibility_volume">Lautstärke</string>
-    <string name="miplay_bluetooth_share_des_text">Benutzer Xiaomi-Ohrhörer: Ladehülle öffnen oder Taste der Hülle für %ds gedrückt halten. \nBenutzer von Nicht-Xiaomi-Ohrhörern: Ohrhörer in den Bluetooth-Einstellungen zurücksetzen, dann verbinden.</string>
-    <string name="miplay_bluetooth_share_headphone_pairing">Ohrhörer hinzufügen, um Audio zu teilen</string>
+    <string name="miplay_bluetooth_share_des_text">Benutzer von Xiaomi-Ohrhörern: Ladehülle öffnen oder Taste der Hülle für %ds gedrückt halten. \nBenutzer von Nicht-Xiaomi-Ohrhörern: Kopfhörer in den Bluetooth-Einstellungen zurücksetzen, dann verbinden.</string>
+    <string name="miplay_bluetooth_share_headphone_pairing">Kopfhörer hinzufügen, um Audio zu teilen</string>
     <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Audiofreigabe beendet</string>
-    <string name="miplay_bluetooth_share_music_together_btn_content_des">Ohrhörer hinzufügen, um Audio zu teilen</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Kopfhörer hinzufügen, um Audio zu teilen</string>
     <string name="miplay_bluetooth_share_subTitle_text">Geräte-Audio mit einer anderen Person teilen</string>
     <string name="miplay_bluetooth_share_title_text">Audio teilen</string>
     <string name="miplay_detail_divider_title">Lautsprecher</string>
@@ -529,7 +529,7 @@
     <string name="wireless_charging_saver_message">Stromsparen ist jetzt an. Drahtloses Umkehrladen verfügbar halten?</string>
     <string name="wireless_charging_saver_ok">Halten</string>
     <string name="wireless_charging_tips_disable">Nicht mehr anzeigen</string>
-    <string name="wireless_charging_tips_message">Legen Sie das Gerät, das Sie drahtlos laden möchten (z. B. Telefon, Smartwatch, Ohrhörer), auf die Rückseite dieses Telefons. Dieses Telefon muss mind. zu %d%% geladen sein, bevor Sie das drahtlose Umkehrladen verwenden.</string>
+    <string name="wireless_charging_tips_message">Legen Sie das Gerät, das Sie drahtlos laden möchten (z. B. Telefon, Smartwatch, Kopfhörer), auf die Rückseite dieses Telefons. Dieses Telefon muss mind. zu %d%% geladen sein, bevor Sie das drahtlose Umkehrladen verwenden.</string>
     <string name="wireless_charging_tips_sub_message">Das andere Gerät muss drahtloses Qi-Laden unterstützen.</string>
     <string name="wireless_charging_tips_title">Drahtloses Umkehrladen</string>
     <string name="yesterday">Gestern</string>
