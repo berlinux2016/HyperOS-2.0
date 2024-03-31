@@ -222,7 +222,7 @@
     <string name="keybag_set_password_success_close">Schließen</string>
     <string name="keybag_set_password_success_get">Verstanden</string>
     <string name="keybag_set_password_success_tip">Erfolgreich festgelegt. Sie müssen diesen Passcode auf anderen Geräten eingeben, um auf die verschlüsselten Elemente zuzugreifen.</string>
-    <string name="keybag_set_password_title">Vorsicht</string>
+    <string name="keybag_set_password_title">Achtung</string>
     <string name="ks_certificate_udpate_time">Zertifikataktualisierung</string>
     <string name="ks_certificate_version">Zertifikatsnummer</string>
     <string name="ks_download_certificate">Zertifikat herunterladen</string>

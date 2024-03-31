@@ -635,7 +635,7 @@
     <string name="dial_related_setting_catory">Wählen</string>
     <string name="dial_settings_screen_title">Wähleinstellungen</string>
     <string name="dialerKeyboardHintText">Tastatur zum Wählen nutzen</string>
-    <string name="dialog_alert_title">Vorsicht</string>
+    <string name="dialog_alert_title">Achtung</string>
     <string name="dialog_cancel">Beenden</string>
     <string name="dialog_network_priority_title">Vorrangiges Netzwerk</string>
     <string name="dialog_ota_change_number_fail">Rufnummer ändern nicht möglich. Wenn dieser Fehler nach einem erneuten Versuch wieder auftritt, wenden Sie sich an Ihren Verkäufer.</string>

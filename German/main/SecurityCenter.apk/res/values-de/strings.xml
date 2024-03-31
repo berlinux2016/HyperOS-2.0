@@ -3372,7 +3372,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="password_forget_pattern_message">Aus Sicherheitsgründen können Sie Ihr Passwort nur nach einem Rücksetzen der Werksdaten zurücksetzen. Tippen, um zurückzusetzen.</string>
     <string name="password_forget_pattern_message_none">Apps sind nicht gesperrt. Sie können Ihr Passwort zurücksetzen.</string>
     <string name="password_forget_pattern_reset">Zurücksetzen</string>
-    <string name="password_forget_pattern_title">Vorsicht</string>
+    <string name="password_forget_pattern_title">Achtung</string>
     <string name="password_promotion_not_login_xiaomi_account_message">Fügen Sie Ihr Xiaomi-Konto hinzu, um Ihr Passwort zurückzusetzen, falls Sie es vergessen.</string>
     <string name="password_promotion_postbutton_text">Hinzufügen</string>
     <string name="password_promotion_title">Xiaomi-Konto hinzufügen</string>
@@ -4147,7 +4147,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pp_privacy_lab_clipboard_summary">Ihrem Gerät erlauben zu entscheiden, ob eine App auf die Zwischenablage zugreifen darf und - falls ja - ob Benachrichtigungen empfangen werden dürfen.</string>
     <string name="pp_privacy_lab_operator_get_number">Berechtigung für den Zugriff auf die Rufnummer anfordern</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Apps verpflichten, Sie um Erlaubnis zu fragen, wenn sie zur Anmeldung auf Ihre Rufnummer zugreifen wollen</string>
-    <string name="pp_privacy_lab_operator_introduction">Vorsicht</string>
+    <string name="pp_privacy_lab_operator_introduction">Achtung</string>
     <string name="pp_privacy_lab_operator_introduction_summary">Apps können Ihre Rufnummer speichern, wenn sie zuvor abgerufen wurde. Wenn Sie diese Berechtigung ändern, werden die zuvor ermittelten Rufnummern nicht gelöscht.</string>
     <string name="pp_privacy_protection">Schutz</string>
     <string name="pp_privacy_protection_function">Schutzfunktionen für Privatsphäre</string>
@@ -5953,7 +5953,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="verify_sms_title">%1$s versucht, eine Nachricht zu senden…</string>
     <string name="video_repeat">Erneut abspielen</string>
     <string name="videobox_hangup_tips_content">Ihr Bildschirm wird gesperrt, aber die App läuft weiterhin im Hintergrund, wenn diese Funktion eingeschaltet ist. Drücken Sie die Power-Taste, um den Bildschirm wieder einzuschalten. Diese Funktion jetzt einschalten?</string>
-    <string name="videobox_hangup_tips_title">Vorsicht</string>
+    <string name="videobox_hangup_tips_title">Achtung</string>
     <string name="videobox_settings_line_location">Verknüpfungsort</string>
     <string name="videobox_settings_line_location_desc">Verknüpfung am Bildschirmrand anzeigen</string>
     <string name="videobox_settings_line_location_left">Links</string>

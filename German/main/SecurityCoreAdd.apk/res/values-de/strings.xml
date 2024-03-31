@@ -496,7 +496,7 @@
     <string name="long_press_volume_down">Lautstärke runter lange drücken</string>
     <string name="master_clear_apply_step_1">Widerruf der Autorisierung erfordert einen Werksreset auf Ihrem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichern Sie alle wichtigen Elemente auf Ihrem Computer, bevor Sie die Autorisierung widerrufen.</string>
     <string name="master_clear_apply_step_2">Alle wichtigen Elemente auf Ihrem Computer müssen gesichert sein. Nach dem Tippen auf \"OK\" wird ein Werksreset auf Ihrem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
-    <string name="master_clear_apply_title">Vorsicht</string>
+    <string name="master_clear_apply_title">Achtung</string>
     <string name="master_clear_not_available">Werksreset ist von Ihrem Unternehmen eingeschränkt.</string>
     <string name="master_clear_not_available_ep">Sie dürfen jetzt keinen Werksreset durchführen oder Ihre Autorisierung widerrufen. Wenden Sie sich an Ihren Vorgesetzten.</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>

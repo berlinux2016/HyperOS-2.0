@@ -515,7 +515,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="galleryplus_permission_storage_content_reshowable_video_player">Um den lokalen Videoplayer zu verwenden, muss diese App zunächst auf den Speicher zugreifen dürfen.</string>
     <string name="galleryplus_permission_storage_content_unreshowable_video_player">Um den lokalen Videoplayer zu verwenden, erlauben Sie dieser App den Speicherzugriff im Bereich \"Rechte\" in den Einstellungen.</string>
     <string name="galleryplus_permission_storage_title">Speicherzugriff erforderlich</string>
-    <string name="galleryplus_permission_title">Vorsicht</string>
+    <string name="galleryplus_permission_title">Achtung</string>
     <string name="galleryplus_restore_play_speed">Wiedergabe aktuell in normaler Geschwindigkeit</string>
     <string name="galleryplus_save_cancel_toast">Erneut auf \"Zurück\" tippen, um das Speichern des Videos abzubrechen</string>
     <string name="galleryplus_save_fail">Speichern fehlgeschlagen</string>
@@ -1362,7 +1362,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="reload_title">Netzwerkverbindung fehlgeschlagen</string>
     <string name="remaining_space">Verfügbar: %s</string>
     <string name="remaining_space_not_enough">Herunterladen wegen zu wenig Speicher nicht möglich</string>
-    <string name="reminder">Vorsicht</string>
+    <string name="reminder">Achtung</string>
     <string name="rename">Umbenennen</string>
     <string name="rename_word_out">Dieser Dateiname ist zu lang</string>
     <string name="repeat_play">Wiederholen</string>
