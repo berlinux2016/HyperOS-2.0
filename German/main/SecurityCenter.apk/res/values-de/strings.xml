@@ -217,7 +217,7 @@
     <string name="antivirus_monitor_clean_tips">Gelöschte Elemente: %s</string>
     <string name="antivirus_monitor_risk_advice">Diese App ist nicht sicher, löschen Sie sie</string>
     <string name="antivirus_monitor_virus_advice">Diese App könnte einen Virus enthalten, löschen Sie sie</string>
-    <string name="antivirus_monitored_app_empty">Keine kompatiblen Bezahl-Apps gefunden</string>
+    <string name="antivirus_monitored_app_empty">Keine kompatiblen Zahlungs-Apps gefunden</string>
     <string name="antivirus_monitored_tips">Zahlungsumgebung automatisch auf mögliche Risiken prüfen</string>
     <string name="antivirus_not_remind_for_app">Nicht mehr vor dieser App warnen</string>
     <string name="antivirus_not_wlan">Sie sind nicht mit WLAN verbunden. Wenn Sie mobile Daten verwenden, können Kosten entstehen. Trotzdem fortfahren?</string>
@@ -4597,7 +4597,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="reset_data_dialog_ok">Werksreset</string>
     <string name="reset_data_title">Passwort kann nicht wiederhergestellt werden</string>
     <string name="result_autoscan_header">Zahlungsüberwachung</string>
-    <string name="result_autoscan_info">Automatisch die Systemumgebung überwachen, wenn Bezahl-Apps gestartet werden</string>
+    <string name="result_autoscan_info">Automatisch die Systemumgebung überwachen, wenn Zahlungs-Apps gestartet werden</string>
     <string name="result_sms_header">Nachrichtenrisiken erkannt</string>
     <string name="result_sms_info_antispam">Sperrliste einschalten, um das Gerät vor bösartigen URLs zu schützen</string>
     <string name="result_sms_info_auth">Zugriff von Drittanbieter-Apps auf Verifizierungscodes einschränken</string>
@@ -4636,7 +4636,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="root_apply_title">Wichtiger Hinweis</string>
     <string name="safe_result_header_info_protecting">Schützen</string>
     <string name="safe_result_item_button_monitor">Einstellungen überwachen</string>
-    <string name="safe_result_item_empty_monitor">Bezahl-Apps sind nicht geschützt</string>
+    <string name="safe_result_item_empty_monitor">Zahlungs-Apps sind nicht geschützt</string>
     <string name="safe_result_item_info_app_sign">Keine inoffiziellen Apps</string>
     <string name="safe_result_item_info_app_virus">Keine Viren und riskanten Apps</string>
     <string name="safe_result_item_info_sms_auth">Zugriff von Drittanbieter-Apps auf Verifizierungscodes einschränken</string>
@@ -4944,7 +4944,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_lock_screen_password_title">Bildschirmsperre</string>
     <string name="sp_micare_summary">Persönliche Sicherheit</string>
     <string name="sp_micare_title">Warnzentrale</string>
-    <string name="sp_monitored_apps_count_zero">Bezahl-Apps sind nicht geschützt</string>
+    <string name="sp_monitored_apps_count_zero">Zahlungs-Apps sind nicht geschützt</string>
     <string name="sp_monitored_apps_list_title">Zahlungssicherheit</string>
     <string name="sp_more_security_settings">Weitere Einstellungen</string>
     <string name="sp_network_privacy_dialog_message">Sicherheit kann nicht richtig funktionieren, da Sie die Internetverbindung eingeschränkt haben. Internetzugriff erlauben?</string>
@@ -4978,7 +4978,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_settings_exception_count_zero">Keine Elemente</string>
     <string name="sp_settings_group_title_check_item">Mehrere Elemente</string>
     <string name="sp_settings_info_input_method">Tastaturen auf Sicherheitsprobleme bei Zahlungen testen</string>
-    <string name="sp_settings_info_monitor">Systemumgebung überwachen, wenn Bezahl-Apps gestartet werden</string>
+    <string name="sp_settings_info_monitor">Systemumgebung überwachen, wenn Zahlungs-Apps gestartet werden</string>
     <string name="sp_settings_title_input_method">Tastaturen auf Sicherheitsprobleme testen</string>
     <string name="sp_sim_protect_summary">SIM-Daten schützen</string>
     <string name="sp_sim_protect_title">SIM-Sicherheit</string>
