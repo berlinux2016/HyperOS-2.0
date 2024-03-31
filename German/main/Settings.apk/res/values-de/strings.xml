@@ -818,8 +818,8 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="assistant_long_press_home_gesture_title">Home-Taste für Assistenten halten</string>
     <string name="assistant_security_warning_agree">Zustimmen</string>
     <string name="assisted_gps">Unterstütztes GPS verwenden</string>
-    <string name="assisted_gps_disabled">Server zur Unterstützung von GPS verwenden (deaktivieren, um GPS-Leistung zu verbessern)</string>
-    <string name="assisted_gps_enabled">Server zur Unterstützung von GPS verwenden (deaktivieren, um Netzwerknutzung zu reduzieren)</string>
+    <string name="assisted_gps_disabled">Server für GPS-Unterstützung verwenden (deaktivieren, um GPS-Leistung zu verbessern)</string>
+    <string name="assisted_gps_enabled">Server für GPS-Unterstützung verwenden (deaktivieren, um Netzwerknutzung zu reduzieren)</string>
     <string name="asst_capabilities_actions_replies_summary">Automatisch vorgeschlagene Aktionen &amp; Antworten anzeigen</string>
     <string name="asst_capabilities_actions_replies_title">Vorgeschlagene Aktionen &amp; Antworten</string>
     <string name="asst_capability_prioritizer_summary">Automatisch Benachrichtigungen mit niedrigerer Priorität auf Weich einstellen</string>

@@ -1549,7 +1549,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="dns_exception_summary">DNS-Einstellungen des Routers prüfen</string>
     <string name="dns_exception_title">DNS-Einstellungen prüfen</string>
     <string name="do_clean">Löschen…</string>
-    <string name="domestic_roaming_setting">Nationales Roaming</string>
+    <string name="domestic_roaming_setting">Internationales Roaming</string>
     <string name="dont_bore">Lassen Sie sich nicht von Tasten und Benachrichtigungen ablenken</string>
     <string name="download">Herunterladen</string>
     <string name="download_tvm_title">Plugin Phone Key Component</string>
