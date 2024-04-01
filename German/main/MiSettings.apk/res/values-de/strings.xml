@@ -709,10 +709,10 @@ Sie können Ihre Autorisierung unter Bildschirmzeit &gt; Einstellungen &gt; Bild
     <string name="usage_new_home_day_category_title">App-Kategorien</string>
     <string name="usage_new_home_day_category_title_new">Bildschirmzeit für App-Kategorien am %s</string>
     <string name="usage_new_home_day_title">Tag</string>
-    <string name="usage_new_home_day_usage_title">Individuelle Apps</string>
+    <string name="usage_new_home_day_usage_title">Einzelne Apps</string>
     <string name="usage_new_home_day_usage_title_new">Bildschirmzeit am %s</string>
     <string name="usage_new_home_first_unlock">Erstes Entsperren: %s</string>
-    <string name="usage_new_home_show_more_data_summary">Sie können auch die Bildschirmzeit für individuelle Apps begrenzen</string>
+    <string name="usage_new_home_show_more_data_summary">Sie können auch die Bildschirmzeit für einzelne Apps begrenzen</string>
     <string name="usage_new_home_show_more_data_title">Weitere Statistiken anzeigen</string>
     <string name="usage_new_home_sys_no_limit_summary">Bildschirmzeit für System-Apps können nicht begrenzt werden</string>
     <string name="usage_new_home_unlock_equals_text">Wie am Vortag</string>
@@ -730,7 +730,7 @@ Sie können Ihre Autorisierung unter Bildschirmzeit &gt; Einstellungen &gt; Bild
     <string name="usage_new_home_week_unlock_compare_decrease">(%.2f weniger als letzte Woche)</string>
     <string name="usage_new_home_week_unlock_compare_increase">(%.2f mehr als letzte Woche)</string>
     <string name="usage_new_home_week_unlock_equals_text">Wie in der letzten Woche</string>
-    <string name="usage_new_home_week_usage_title">Individuelle Apps</string>
+    <string name="usage_new_home_week_usage_title">Einzelne Apps</string>
     <string name="usage_new_home_which_week">Woche %d</string>
     <string name="usage_no_net_summary">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="usage_optional_summary">Diese Berechtigungen sind erforderlich, wenn Sie zusätzliche Funktionen verwenden.</string>

@@ -1483,7 +1483,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="transparent_wallpaper_filter_pref_summary">Transparente Hintergründe werden in eingeschränkten Apps nicht angezeigt</string>
     <string name="transparent_wallpaper_filter_pref_title">Apps wählen, die mit transparenten Hintergründen funktionieren sollen</string>
     <string name="transparent_wallpaper_filter_set_successfully">Erfolgreich eingestellt</string>
-    <string name="transparent_wallpaper_filter_setting">Individuelle Apps</string>
+    <string name="transparent_wallpaper_filter_setting">Einzelne Apps</string>
     <string name="transparent_wallpaper_guide">Zu Themen gehen</string>
     <string name="transparent_wallpaper_guide_tip">Sie können jetzt einen transparenten Hintergrund in den Themen auswählen.</string>
     <string name="transparent_wallpaper_is_running_in_background">Transparenter Hintergrund läuft gerade</string>
