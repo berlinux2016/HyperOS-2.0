@@ -578,7 +578,7 @@
     <string name="contactdeleteSuccess">SIM-Kontakt erfolgreich gelöscht</string>
     <string name="copy">Kopieren</string>
     <string name="crescendo_ringer_summary">Ruftonlautstärke steigt allmählich auf die voreingestellte Stufe an</string>
-    <string name="crescendo_ringer_title">Ansteigende Ruftonlautstärke</string>
+    <string name="crescendo_ringer_title">Ansteigende Klingellautstärke</string>
     <string name="ct_ut_not_support_close_4glte">UT ist nicht verfügbar, bitte schalten Sie den erweiterten 4G LTE-Modus in den Einstellungen aus</string>
     <string name="data_disable_warning_no_mms">Sie können keine MMS senden und empfangen, wenn Sie mobile Daten (WCDMA/LTE) ausschalten. Sie können dies jedoch tun, wenn Ihr Gerät mit WLAN verbunden ist.</string>
     <string name="data_disable_warning_with_mms">Sie können weiterhin MMS senden und empfangen, wenn Sie mobile Daten (WCDMA/LTE) ausschalten. Für die Internetnutzung verbinden Sie sich mit WLAN.</string>
@@ -1404,7 +1404,7 @@
     <string name="path_caller_id_title">System-Apps/Telefon/Erweiterte Einstellungen/Rufnummernanzeige</string>
     <string name="path_cloud_antispam_title">System-Apps/Telefon/Unbekannte Nummern identifizieren</string>
     <string name="path_connect_disconnect_vibrate_title">System-Apps/Telefon/Erweiterte Einstellungen/Bei Gesprächsannahme vibrieren</string>
-    <string name="path_crescendo_ringer_title">System-Apps/Telefon/Einstellungen für eingehende Anrufe/Ansteigende Ruftonlautstärke</string>
+    <string name="path_crescendo_ringer_title">System-Apps/Telefon/Einstellungen für eingehende Anrufe/Ansteigende Klingellautstärke</string>
     <string name="path_dtmf_tones_title">System-Apps/Telefon/Erweiterte Einstellungen/MFV-Töne</string>
     <string name="path_enable_antispam_strange_title">System-Apps/Telefon/Einstellungen für eingehende Anrufe/Erstes Klingeln stummschalten</string>
     <string name="path_enable_proximity_title">System-Apps/Telefon/Einstellungen für eingehende Anrufe/Näherungssensor</string>
