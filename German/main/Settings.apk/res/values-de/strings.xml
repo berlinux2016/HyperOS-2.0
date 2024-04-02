@@ -7101,11 +7101,11 @@ App-Daten gehen nicht verloren."</string>
     <string name="se_route_ese">Secure Element</string>
     <string name="se_route_uicc">Secure Element auf der SIM</string>
     <string name="se_wallet_uicc_jp">SIM %1$s Wallet (kann nicht automatisch gewählt werden)</string>
-    <string name="search_about_settings">Über das Gerät;Modellnummer;Android-Version;OS-Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer</string>
+    <string name="search_about_settings">Über das Gerät;Modellnummer;Android-Version;OS-Version;CPU;RAM;Interner Speicher;Speicher;Basisbandversion;Kernelversion;Buildnummer;Mein Gerät;Telefon;Gerät</string>
     <string name="search_accelerometer_title">Bildschirm automatisch drehen;Bildschirm drehen;Ausrichtung;Hochformat;Querformat</string>
-    <string name="search_access_control">Datenschutzeinstellungen;Sicherheit Datenschutz; Gast; Gast; Gastmodus</string>
+    <string name="search_access_control">Datenschutzeinstellungen;Sicherheit;Datenschutz;Gast;Gastmodus</string>
     <string name="search_accessibility_captioning_title">Untertitel</string>
-    <string name="search_accessibility_display_daltonizer_preference_title">Farbkorrekur</string>
+    <string name="search_accessibility_display_daltonizer_preference_title">Farbkorrekur;Farbe;Farben</string>
     <string name="search_accessibility_global_gesture_preference_title">Eingabehilfenverknüpfung;Eingabehilfen</string>
     <string name="search_accessibility_long_press_timeout_preference_title">Berühren- &amp; Halten-Verzögerung;Berühren- und Halten-Verzögerung;Berühren und Halten;Verzögerung</string>
     <string name="search_accessibility_screen_magnification_title">Vergrößerungsgesten;Vergrößerung</string>
@@ -7118,7 +7118,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_ambient_display_screen_title">Ambient Display;Always-on Display;Always on Display</string>
     <string name="search_apn_settings">APN;Zugangspunktnamen</string>
     <string name="search_app_invisible">App unsichbar;unsichtbare Apps</string>
-    <string name="search_app_switch_key">kürzliche;kürzlich;zuletzt;zuletzt verwendet;letzte Apps;Menü;Menütaste;Taskmanager</string>
+    <string name="search_app_switch_key">Letzte Apps;kürzlich;zuletzt;zuletzt verwendet;Menü;Menütaste;Taskmanager</string>
     <string name="search_application_count">Apps suchen</string>
     <string name="search_application_lock_name">App-Sperre</string>
     <string name="search_applications_settings">Installierte Apps</string>
@@ -7138,14 +7138,13 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_choose_timezone">Zeitzone wählen;Zeitzone;Zeitzonen</string>
     <string name="search_cloud_backup_settings_section_title">Einstellungen sichern;Sicherung;sichern;Sicherungen</string>
     <string name="search_cloud_restore_section_title">Wiederherstellen aus Mi Cloud;Mi Cloud;Cloud Backups;Cloud-Sicherungen;Xiaomi Cloud;Wiederherstellen aus Xiaomi Cloud</string>
-    <string name="search_connection_and_sharing">Mehr;drahtlos;drahtlos</string>
-    <string name="search_control_center_style">Benachrichtigungsstil</string>
+    <string name="search_connection_and_sharing">Mehr;drahtlos</string>
     <string name="search_credentials_install">Vom Speicher installieren;direkt installieren;APK installieren</string>
     <string name="search_date_and_time_settings_title">Datum &amp; Uhrzeit;Datum und Uhrzeit;Datum &amp; Zeit;Datum und Zeit;Datum;Zeit;Uhrzeit</string>
     <string name="search_description">Sucheinstellungen</string>
-    <string name="search_development_settings_title">Entwicklereinstellungen;assistieren</string>
+    <string name="search_development_settings_title">Entwicklereinstellungen;assistieren;Entwickler;entwickeln;Entwicklung;Fehlersuche;Debug;Debugging;USB debugging;USB debug</string>
     <string name="search_device_name">Gerätename</string>
-    <string name="search_display_settings">Display;Bildschirm;Umgebungslicht;Tasche;Pocketcall;Farbtemperatur;Farbe;Farben;Sättigung;Automatisch drehen;Bildschirm drehen;Helligkeit;Font;Schrift;Schriften;Schriftgröße</string>
+    <string name="search_display_settings">Display;Anzeige;Bildschirm;Umgebungslicht;Tasche;Taschenanruf; Pocketcall;Farbtemperatur;Farbe;Farben;Sättigung;Automatisch drehen;Bildschirm drehen;Helligkeit;Font;Schrift;Schriften;Schriftgröße;Auflösung</string>
     <string name="search_dndm_alarm_content">Ausnahmen</string>
     <string name="search_dndm_auto_button_title">Zeit festlegen</string>
     <string name="search_dndm_auto_time_setting">Zeit festlegen;DND</string>
@@ -7154,9 +7153,9 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Ausnahmen;Whitelist</string>
     <string name="search_dndm_wristband">Mit Mi Band aktivieren;Mi Band</string>
     <string name="search_do_not_disturb_mode">Nicht stören</string>
-    <string name="search_doze_always_on_title">Always-On</string>
-    <string name="search_dtmf_tone_enable_title">Wähltastentöne einschalten;Tpöne Wähltasten;Wähltastentöne;Tastentöne;Wähltöne</string>
-    <string name="search_empty">Keine Suchergebnisse</string>
+    <string name="search_doze_always_on_title">Always-On;AOD</string>
+    <string name="search_dtmf_tone_enable_title">Wähltastentöne einschalten;Töne Wähltasten;Wähltastentöne;Tastentöne;Wähltöne</string>
+    <string name="search_empty">Keine Ergebnisse gefunden</string>
     <string name="search_enable_adb">USB-Debugging</string>
     <string name="search_fluency_mode">Systemanimationen</string>
     <string name="search_font">Systemschrift;Font;Fonts;Schrift;Schriften;Schriftgöße;Schriftgrößen</string>
@@ -7168,7 +7167,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_history_clear_description">Suchverlauf löschen</string>
     <string name="search_history_description">Suchverlauf</string>
     <string name="search_home_key">Home;Home-Taste</string>
-    <string name="search_input_hint">Einstellungen durchsuchen</string>
+    <string name="search_input_hint">Sucheinstellungen</string>
     <string name="search_key_settings_title">Tasten;Taste</string>
     <string name="search_lab_functions_title">Betafunktionen;Labfunktionen</string>
     <string name="search_label">Einstellungen</string>
@@ -7217,17 +7216,13 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_preferred_network_type_title">Bevorzugter Netzwerktyp;Bevorzugtes Netzwerk;Netzwerktyp</string>
     <string name="search_privacy_policy">Datenschutzerklärung</string>
     <string name="search_privacy_settings">Sichern &amp; Zurücksetzen;Sichern und Zurücksetzen;Sicherung;Sichern;Reset;Zurücksetzen</string>
-    <string name="search_radio_controls_title">Mehr;Drahtlos</string>
-    <string name="search_recents_queries_label">Letzte Suchergebnisse</string>
     <string name="search_result_feedback_text">Keine Ergebnisse gefunden</string>
-    <string name="search_results_label">Ergebnisse</string>
     <string name="search_ring_volume_option_title">Lautstärke;Klingelton &amp; Benachrichtigung;Ton &amp; Benachrichtigung;Klingelton;Klingeltöne;Alarm;Wecker;Musik</string>
     <string name="search_ringtone_title">Telefonklingelton;Klingelton;Klingeltöne</string>
     <string name="search_screen_effect">Farben &amp; Sättigung;Farben &amp; Kontrast;Farbe;Farbsättigung;Kontrast</string>
     <string name="search_screen_key_long_press_timeout">Zeit für langes Drücken festlegen;langes Drücken;Drücken;gedrückt halten;Drücken und Halten</string>
     <string name="search_screen_on_proximity_sensor_title">Wählen in der Tasche verhindern;Tasche;Pocketcall</string>
     <string name="search_screen_paper_mode_title">Lesemodus;Lesen;Blaulicht;Gelblicht;Nachtmodus</string>
-    <string name="search_screen_recorder_title">Bildschirmaufnahme</string>
     <string name="search_screen_saver_settings">Bildschirmschoner</string>
     <string name="search_screen_shot">Screenshot;Bildschirmaufnahme;Aufnahme</string>
     <string name="search_screen_timeout">Ruhemodus;Bildschirm automatisch sperren;Bildschirmsperre</string>
@@ -7237,8 +7232,6 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_security_privacy_settings_title">Datenschutz;Sicherheit;Unbekannte Quellen;Passwort anzeigen;App-Signatur;App Signaturen;Logindaten löschen;Anmeldedaten löschen</string>
     <string name="search_security_settings">Datenschutzeinstellungen;Sicherheit;Datenschutz</string>
     <string name="search_settings">Suchen</string>
-    <string name="search_settings_no_results">Keine Ergebnisse</string>
-    <string name="search_settings_summary">Sucheinstellungen und Suchverlauf verwalten</string>
     <string name="search_silent_mode_title">Ruhemodus;stumm;still;Stille;Stummschalten</string>
     <string name="search_sim_management_title">Mobilfunknetze;Mobile Daten;Daten;Auslandsroaming;Roaming;MMS empfangen;Mobilnetze</string>
     <string name="search_sim_status_title">SIM-Status;SIM</string>
@@ -7302,35 +7295,32 @@ App-Daten gehen nicht verloren."</string>
     <string name="second_space">Zweitprofil</string>
     <string name="secondspace_category">Zweitprofil</string>
     <string name="secondspace_delete_space_title">Zweitprofil löschen</string>
-    <string name="secspace_fod_finger_tips">Nicht bestätigt, erneut versuchen</string>
-    <string name="secspace_fod_finger_title">Fingerabdruck bestätigen</string>
+    <string name="secspace_fod_finger_tips">Verifizieren fehlgeschlagen. Erneut versuchen</string>
+    <string name="secspace_fod_finger_title">Fingerabdruck verifizieren</string>
     <string name="secspace_fod_use_password">Passwort eingeben</string>
     <string name="secure_keyguard_business_title">Bildschirmsperre festlegen</string>
-    <string name="secure_lock_encryption_warning">Da Sie einen Eingabehilfendienst eingeschaltet haben, wird das Gerät Ihre Bildschirmsperre nicht verwenden, um die Datenverschlüsselung zu verbessern</string>
-    <string name="security_advanced_settings">Weitere Sicherheitseinstellungen</string>
-    <string name="security_advanced_settings_keywords">Sicherheit, weitere Sicherheitseinstellungen, weitere Einstellungen, erweiterte Sicherheitseinstellungen</string>
+    <string name="security_advanced_settings">Mehr Sicherheitseinstellungen</string>
+    <string name="security_advanced_settings_keywords">Sicherheit, mehr Sicherheitseinstellungen, mehr Einstellungen, erweiterte Sicherheitseinstellungen</string>
     <string name="security_advanced_settings_no_work_profile_settings_summary">Verschlüsselung, Zugangsdaten und mehr</string>
     <string name="security_advanced_settings_work_profile_settings_summary">Arbeitsprofilsperre, Verschlüsselung und mehr</string>
     <string name="security_center_title">Sicherheit</string>
     <string name="security_check_progress_dialog_message">Auf Sicherheitsprobleme prüfen…</string>
-    <string name="security_dashboard_summary">Bildschirmsperre, Fingerabdruck</string>
-    <string name="security_dashboard_summary_face">Bildschirmsperre, Gesichtssperre</string>
-    <string name="security_dashboard_summary_no_fingerprint">Bildschirmsperre</string>
-    <string name="security_encryption_alert_dialog_info_first">Sperrbildschirmpasswort einrichten, um diese Funktion zu aktivieren. Sie müssen das Sperrbildschirmpasswort nach jedem Neustart eingeben, um das Gerät zu entschlüsseln und normal zu verwenden.</string>
+    <string name="security_dashboard_summary">Bildschirmsperre, Gerät finden, App-Sicherheit</string>
+    <string name="security_encryption_alert_dialog_info_first">Bildschirmsperre einrichten, um diese Funktion einzuschalten. Sie müssen die Bildschirmsperre nach jedem Neustart eingeben, um das Gerät zu entschlüsseln und normal zu verwenden.</string>
     <string name="security_encryption_alert_dialog_title_first">Erst Bildschirmsperre einrichten</string>
-    <string name="security_encryption_attention_1">Sie können keinen Wecker verwenden, wenn das Gerät ausgeschaltet ist.</string>
-    <string name="security_encryption_attention_2">Sie müssen das Sperrbildschirmpasswort nach jedem Neustart eingeben, um das Gerät zu entschlüsseln. Neustarts dauern länger als üblich.</string>
-    <string name="security_encryption_attention_3">Sie müssen zuerst ein Sperrbildschirmpasswort einrichten.</string>
-    <string name="security_encryption_attention_4">Merken Sie sich Ihr Passwort, sonst müssen Sie Ihr Gerät komplett zurücksetzen und alle Daten löschen.</string>
-    <string name="security_encryption_attention_info">Sie können Konten, Einstellungen, heruntergeladen Apps und deren Daten, Medien und andere Dateien verschlüsseln.</string>
+    <string name="security_encryption_attention_1">Sie können keine Wecker verwenden, wenn das Gerät ausgeschaltet ist.</string>
+    <string name="security_encryption_attention_2">Sie müssen die Bildschirmsperre nach jedem Neustart eingeben, um das Gerät zu entschlüsseln. Neustarts dauern länger als üblich.</string>
+    <string name="security_encryption_attention_3">Sie müssen eine neue Bildschirmsperre festlegen.</string>
+    <string name="security_encryption_attention_4">Merken Sie sich Ihre Bildschirmsperre, sonst müssen Sie Ihr Gerät komplett zurücksetzen und alle Daten löschen.</string>
+    <string name="security_encryption_attention_info">Sie können Konten, Einstellungen, heruntergeladene Apps und deren Daten, Medien und andere Dateien verschlüsseln.</string>
     <string name="security_encryption_attention_title">Wichtig</string>
-    <string name="security_encryption_close_dialog_info">Wenn Sie das Gerät nicht verschlüsseln, sind einige Google Services nicht mehr verfügbar</string>
-    <string name="security_encryption_close_dialog_title">Zurück zur standardmäßigen Passwortsicherung</string>
+    <string name="security_encryption_close_dialog_info">Wenn Sie das Gerät nicht mit einer Bildschirmsperre verschlüsseln, könnten einige Google-Dienste nicht verfügbar sein.</string>
+    <string name="security_encryption_close_dialog_title">Zur Standard-Systemverschlüsselung zurückkehren</string>
     <string name="security_encryption_diaglog_continue">Weiter</string>
     <string name="security_encryption_is_used">An</string>
     <string name="security_encryption_progress_dialog_close">Entschlüsseln…</string>
     <string name="security_encryption_progress_dialog_open">Verschlüsseln…</string>
-    <string name="security_encryption_rejected_via_home_manager">Diese Funktion wird in der Demo-Version nicht unterstützt</string>
+    <string name="security_encryption_rejected_via_home_manager">Diese Funktion wird in der Demoversion nicht unterstützt</string>
     <string name="security_encryption_title">Gerät mit Sperrbildschirmpasswort verschlüsseln</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_1">Die Bildschirmsperre-Option ist deaktiviert. Weitere Infos erhalten Sie vom Admin Ihrer Firma.</string>
     <string name="security_fingerprint_disclaimer_lockscreen_disabled_2">Sie können weiterhin Ihren Fingerabdruck verwenden, um Einkäufe und den App-Zugriff zu autorisieren.</string>
@@ -7338,64 +7328,52 @@ App-Daten gehen nicht verloren."</string>
     <string name="security_input">Sichere Tastatur</string>
     <string name="security_input_enable">Sichere Tastatur</string>
     <string name="security_input_hint">Verwenden Sie eine sichere Tastatur, wenn Sie Passwörter eingeben.</string>
-    <string name="security_input_num_order">Festgelegt</string>
+    <string name="security_input_num_order">Feststehend</string>
     <string name="security_input_num_random_order">Zufällig</string>
     <string name="security_input_num_setting_title">Numerisches Tastenfeld</string>
     <string name="security_keyguard_category_name">Sperrbildschirm</string>
     <string name="security_password_category_name">Bildschirmsperre</string>
-    <string name="security_patch">Android\nSicherheitspatch-\nLevel</string>
-    <string name="security_patch_subtitle">"Android-Sicherheitsupdate: "</string>
+    <string name="security_patch">Android Sicherheits-Update</string>
+    <string name="security_patch_subtitle">"Android Sicherheits-Update: "</string>
     <string name="security_privacy_settings_title">Datenschutz</string>
     <string name="security_relative">Sicherheit</string>
     <string name="security_settings_activeunlock_biometric_setup">Einrichten</string>
     <string name="security_settings_activeunlock_preference_title">Uhrentsperrung</string>
     <string name="security_settings_activeunlock_require_face_fingerprint_setup_message">Sie können mit Ihrer Uhr entsperren, wenn Ihr Gesicht oder Fingerabdruck nicht erkannt wird</string>
-    <string name="security_settings_activeunlock_require_face_fingerprint_setup_title">Zuerst Gesichtssperre oder Fingerabdrucksperre einrichten</string>
+    <string name="security_settings_activeunlock_require_face_fingerprint_setup_title">Erst Gesichts- oder Fingerabdrucksperre einrichten</string>
     <string name="security_settings_activeunlock_require_face_setup_message">Sie können mit Ihrer Uhr entsperren, wenn Ihr Gesicht nicht erkannt wird</string>
-    <string name="security_settings_activeunlock_require_face_setup_title">Zuerst Gesichtssperre einrichten</string>
+    <string name="security_settings_activeunlock_require_face_setup_title">Erst Gesichtssperre einrichten</string>
     <string name="security_settings_activeunlock_require_fingerprint_setup_message">Sie können mit Ihrer Uhr entsperren, wenn Ihr Fingerabdruck nicht erkannt wird</string>
-    <string name="security_settings_activeunlock_require_fingerprint_setup_title">Zuerst Fingerabdrucksperre einrichten</string>
-    <string name="security_settings_billing_desc">Für diese App können Kosten anfallen:</string>
+    <string name="security_settings_activeunlock_require_fingerprint_setup_title">Erst Fingerabdrucksperre einrichten</string>
     <string name="security_settings_biometric_preference_summary_both_fp_multiple">Gesicht und Fingerabdrücke hinzugefügt</string>
     <string name="security_settings_biometric_preference_summary_both_fp_single">Gesicht und Fingerabdrücke hinzugefügt</string>
     <string name="security_settings_biometric_preference_summary_none_enrolled">Einrichten erforderlich</string>
     <string name="security_settings_biometric_preference_title">Gesichts- &amp; Fingerabdrucksperre</string>
-    <string name="security_settings_biometrics_description">Wenn Sie die Gesichts- und Fingerabdrucksperre einrichten, fragt Ihr Telefon nach Ihrem Fingerabdruck, wenn Sie eine Maske tragen oder sich in einem dunklen Bereich befinden.</string>
-    <string name="security_settings_biometrics_preference_use_with_apps">Authentisierung in Apps</string>
-    <string name="security_settings_biometrics_preferences_category">Gesicht oder Fingerabdruck verwenden für</string>
-    <string name="security_settings_biometrics_summary_both">Gesicht und Fingerabdruck</string>
-    <string name="security_settings_biometrics_summary_face">Nur Gesicht</string>
-    <string name="security_settings_biometrics_summary_fingerprint">Nur Fingerabdruck</string>
-    <string name="security_settings_biometrics_summary_none">Tippen zum Einrichten</string>
-    <string name="security_settings_biometrics_title">Gesichts- &amp; Fingerabdrucksperre</string>
-    <string name="security_settings_biometrics_types_category">Arten der Entsperrung</string>
-    <string name="security_settings_desc">Diese App kann auf folgende Funktionen Ihres Telefons zugreifen:</string>
-    <string name="security_settings_desc_multi">Diese App kann auf Folgendes auf Ihrem Telefon zugreifen. Um die Leistung zu verbessern und die Speicherauslastung zu verringern, hat %1$s einige dieser Berechtigungen, weil es im selben Prozess wie %2$s ausgeführt wird:</string>
     <string name="security_settings_face_enroll_consent_introduction_title">Gesichtssperre erlauben</string>
-    <string name="security_settings_face_enroll_done">Erledigt</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Wenn die Eingabehilfe Gesichtssperre deaktiviert ist, funktionieren einige Einrichtungsschritte ggf. nicht richtig mit TalkBack.</string>
+    <string name="security_settings_face_enroll_done">Fertig</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message">Wenn die Eingabehilfe Gesichtssperre ausgeschaltet ist, funktionieren einige Einrichtungsschritte mit TalkBack ggf. nicht richtig.</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Zurück</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Einrichtung fortsetzen</string>
-    <string name="security_settings_face_enroll_education_title">So richten Sie die Gesichtssperre ein</string>
+    <string name="security_settings_face_enroll_education_title">So richten Sie Gesichtssperre ein</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Gesichtssperre einrichten</string>
     <string name="security_settings_face_enroll_education_title_unlock_disabled">Benutzen Sie Ihr Gesicht zur Authentisierung</string>
     <string name="security_settings_face_enroll_enrolling_skip">Überspringen</string>
     <string name="security_settings_face_enroll_error_dialog_title">Registrierung wurde nicht abgeschlossen</string>
     <string name="security_settings_face_enroll_error_generic_dialog_message">Gesichtsregistrierung hat nicht funktioniert</string>
-    <string name="security_settings_face_enroll_error_timeout_dialog_message">Zeitraum für die Gesichtsregistrierung ist abgelaufen. Erneut versuchen.</string>
+    <string name="security_settings_face_enroll_error_timeout_dialog_message">Zeitlimit für Gesichtsregistrierung erreicht. Erneut versuchen.</string>
     <string name="security_settings_face_enroll_finish_title">Alles fertig. Sieht gut aus.</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">Löschen Sie Ihre aktuellen Gesichtsdaten, um die Gesichtssperre erneut einzurichten.\n\nDie Gesichtsdaten, die von der Gesichtssperre verwendet werden, werden dauerhaft und sicher gelöscht. Nach dem Entfernen benötigen Sie Ihre PIN, Ihr Muster oder Ihr Passwort, um Ihr Telefon zu entsperren, sich bei Apps anzumelden und Zahlungen zu bestätigen.</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">Löschen Sie Ihr aktuelles Gesichtsmodell, um Gesichtssperre erneut einzurichten.\n\nIhr Gesichtsmodell wird dauerhaft und sicher gelöscht.\n\nNach dem Löschen benötigen Sie Ihren Fingerabdruck, Ihre PIN, Ihr Muster oder Passwort zum Entsperren Ihres Telefons oder zur Authentisierung in Apps.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body">Löschen Sie Ihr aktuelles Gesichtsmodell, um die Gesichtssperre erneut einzurichten.\n\nIhr Gesichtsmodell wird dauerhaft und sicher gelöscht. \n\nNach dem Löschen benötigen Sie PIN, Muster oder Passwort zum Entsperren des Telefons oder zur Authentifizierung in Apps.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">Löschen Sie Ihr aktuelles Gesichtsmodell, um die Gesichtssperre erneut einzurichten.\n\nIhr Gesichtsmodell wird dauerhaft und sicher gelöscht. \n\nNach dem Löschen benötigen Sie Fingerabdruck, PIN, Muster oder Passwort zum Entsperren des Telefons oder zur Authentifizierung in Apps.</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Gesichtssperre einrichten</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Einrichtung Eingabehilfen verwenden</string>
-    <string name="security_settings_face_enroll_introduction_agree">Zustimmen</string>
+    <string name="security_settings_face_enroll_introduction_agree">Ich stimme zu</string>
     <string name="security_settings_face_enroll_introduction_cancel">Abbrechen</string>
     <string name="security_settings_face_enroll_introduction_consent_message">Die Verwendung des Gesichts Ihres Kindes zum Entsperren des Telefons kann weniger sicher sein als ein starkes Muster oder eine PIN.</string>
-    <string name="security_settings_face_enroll_introduction_consent_message_0">Erlauben Sie Ihrem Kind, sein Gesicht zum Entsperren des Telefons zu verwenden</string>
-    <string name="security_settings_face_enroll_introduction_consent_message_0_class3">Erlauben Sie Ihrem Kind, sein Gesicht zu verwenden, um sein Telefon zu entsperren oder zu bestätigen, dass es ihm gehört. Dies geschieht, wenn es sich bei Apps anmeldet, einen Kauf bestätigt und vieles mehr.</string>
-    <string name="security_settings_face_enroll_introduction_message">Gesicht verwenden, um Ihr Telefon zu entsperren, Einkäufe zu autorisieren oder sich bei Apps anzumelden</string>
-    <string name="security_settings_face_enroll_introduction_message_class3">Verwenden Sie Ihr Gesicht zum Entsperren Ihres Telefons oder zur Authentifizierung in Apps, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen.</string>
-    <string name="security_settings_face_enroll_introduction_message_setup">Gesicht verwenden, um Ihr Telefon zu entsperren, Einkäufe zu autorisieren oder sich bei Apps anzumelden</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0">Ihr Kind darf sein Gesicht zum Entsperren des Telefons verwenden</string>
+    <string name="security_settings_face_enroll_introduction_consent_message_0_class3">Ihr Kind darf sein Gesicht verwenden, um sein Telefon zu entsperren oder zu verifizieren, dass es das eigene Gesicht ist. Dies geschieht, wenn es sich bei Apps anmeldet, einen Kauf bestätigt und vieles mehr.</string>
+    <string name="security_settings_face_enroll_introduction_message">Gesicht verwenden, um Ihr Telefon zu entsperren, Einkäufe zu bestätigen oder sich bei Apps anzumelden</string>
+    <string name="security_settings_face_enroll_introduction_message_class3">Gesicht verwenden zu Entsperrung Ihres Telefons oder zur Authentifizierung in Apps, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen.</string>
+    <string name="security_settings_face_enroll_introduction_message_setup">Gesicht verwenden, um Ihr Telefon zu entsperren, Einkäufe zu bestätigen oder sich bei Apps anzumelden</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">Gesicht verwenden, um Ihr Telefon zu entsperren oder Einkäufe zu bestätigen.\n\nHinweis: Sie können Ihr Gesicht nicht verwenden, um dieses Gerät zu entsperren. Weitere Infos erhalten Sie beim Admin Ihrer Firma.</string>
     <string name="security_settings_face_enroll_introduction_more">Mehr</string>
     <string name="security_settings_face_enroll_introduction_no_thanks">Nein danke</string>
@@ -7408,92 +7386,80 @@ App-Daten gehen nicht verloren."</string>
     <string name="security_settings_face_enroll_should_re_enroll_title">Leistung der Gesichtssperre verbessern</string>
     <string name="security_settings_face_preference_summary">Gesicht hinzugefügt</string>
     <string name="security_settings_face_preference_summary_none">Einrichten erforderlich</string>
-    <string name="security_settings_face_preference_title">Gesicht</string>
-    <string name="security_settings_face_profile_preference_title">Gesichtssperre für Arbeitsprofil</string>
+    <string name="security_settings_face_preference_title">Gesichtssperre</string>
+    <string name="security_settings_face_profile_preference_title">Gesichtssperre für Arbeit</string>
     <string name="security_settings_face_settings_context_subtitle">Gesichtssperre zum Entsperren des Telefons verwenden</string>
-    <string name="security_settings_face_settings_enroll">Neue Gesichtssperre einrichten</string>
-    <string name="security_settings_face_settings_footer">"Gesichtssperre verwenden, um Ihr Gerät zu entsperren, sich bei Apps anzumelden und Zahlungen zu bestätigen.
+    <string name="security_settings_face_settings_enroll">Gesichtssperre einrichten</string>
+    <string name="security_settings_face_settings_footer">"Gesicht verwenden zum Entsperren Ihres Telefons oder zur Authentifizierung in Apps, z. B. wenn Sie sich anmelden oder einen Kauf bestätigen.
 \nBeachten Sie:
-Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
-\nIhr Telefon kann von jemand anders entsperrt werden, wenn es vor Ihr Gesicht gehalten wird und Ihre Augen offen sind.
-\nIhr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, z. B. von Ihrem Kind oder einem identisches Geschwisterteil."</string>
-    <string name="security_settings_face_settings_footer_class3">"Verwenden Sie Ihr Gesicht, um Ihr Telefon zu entsperren oder zu verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen.
-\nDenken Sie daran:
 Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzufügen, löschen Sie das aktuelle.
 \nEin Blick auf das Telefon kann es entsperren, auch wenn Sie dies nicht beabsichtigen.
 \nIhr Telefon kann von einer anderen Person entsperrt werden, wenn es vor Ihr Gesicht gehalten wird.
-\nIhr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, wie ein identisches Geschwisterteil."</string>
-    <string name="security_settings_face_settings_footer_class3_attention_not_supported">"Verwenden Sie Ihr Gesicht, um Ihr Telefon zu entsperren oder zu verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen.
-\nDenken Sie daran:
-Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzufügen, löschen Sie das aktuelle.
-\nEin Blick auf das Telefon kann es entsperren, auch wenn Sie dies nicht beabsichtigen.
-\nIhr Telefon kann von einer anderen Person entsperrt werden, wenn es vor Ihr Gesicht gehalten wird, auch wenn Ihre Augen geschlossen sind.
 \nIhr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, wie ein identisches Geschwisterteil."</string>
     <string name="security_settings_face_settings_footer_attention_not_supported">"Gesichtssperre verwenden, um Ihr Gerät zu entsperren, sich bei Apps anzumelden und Zahlungen zu bestätigen.
 \nBeachten Sie:
 Wenn Sie auf das Telefon schauen, können Sie es unbeabsichtigt entsperren.
 \nIhr Telefon kann von jemand anders entsperrt werden, wenn es vor Ihr Gesicht gehalten wird, auch wenn Ihre Augen geschlossen sind.
 \nIhr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, z. B. von einem identischen Geschwisterteil."</string>
+    <string name="security_settings_face_settings_footer_class3">"Gesicht verwenden zum Entsperren Ihres Telefons oder zur Authentifizierung in Apps, z. B. wenn Sie sich anmelden oder einen Kauf bestätigen.
+\nBeachten Sie:
+Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzufügen, löschen Sie das aktuelle.
+\nEin Blick auf das Telefon kann es entsperren, auch wenn Sie dies nicht beabsichtigen.
+\nIhr Telefon kann von einer anderen Person entsperrt werden, wenn es vor Ihr Gesicht gehalten wird, auch wenn Ihre Augen geschlossen sind.
+\nIhr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, wie ein identisches Geschwisterteil."</string>
+    <string name="security_settings_face_settings_footer_class3_attention_not_supported">"Gesicht verwenden, um das Telefon zu entsperren oder zu verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf genehmigen.
+\nBeachten Sie:
+Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzufügen, löschen Sie das aktuelle.
+\nEin Blick auf das Telefon kann es entsperren, auch wenn Sie dies nicht beabsichtigen.
+\nIhr Telefon kann von einer anderen Person entsperrt werden, wenn es vor Ihr Gesicht gehalten wird, auch wenn Ihre Augen geschlossen sind.
+\nIhr Telefon kann von jemandem entsperrt werden, der Ihnen sehr ähnlich sieht, wie ein identisches Geschwisterteil."</string>
     <string name="security_settings_face_settings_preferences_category">Bei Verwendung der Gesichtssperre</string>
-    <string name="security_settings_face_settings_remove_dialog_details">Die durch Gesichtssperre erfassten Daten werden dauerhaft und sicher gelöscht. Nach dem Entfernen benötigen Sie PIN, Muster oder Passwort, um Ihr Telefon zu entsperren, sich bei Apps anzumelden und Zahlungen zu bestätigen.</string>
-    <string name="security_settings_face_settings_remove_dialog_details_convenience">Ihr Gesichtsmodell wird dauerhaft und sicher gelöscht.\n\nNach dem Löschen benötigen Sie PIN, Muster oder Passwort, um Ihr Telefon zu entsperren.</string>
-    <string name="security_settings_face_settings_remove_dialog_title">Gesichtsdaten löschen?</string>
-    <string name="security_settings_face_settings_remove_face_data">Gesichtsdaten löschen</string>
+    <string name="security_settings_face_settings_remove_dialog_details">Ihr Gesichtsmodell wird dauerhaft und sicher gelöscht. \n\nNach dem Löschen benötigen Sie PIN, Muster oder Passwort zum Entsperren des Telefons oder zur Authentifizierung in Apps.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_convenience">Ihr Gesichtsmodell wird dauerhaft und sicher gelöscht.\n\nNach dem Löschen benötigen Sie PIN, Muster oder Passwort zum Entsperren des Telefons.</string>
+    <string name="security_settings_face_settings_remove_dialog_title">Gesichtsmodell löschen?</string>
     <string name="security_settings_face_settings_remove_face_model">Gesichtsmodell löschen</string>
-    <string name="security_settings_face_settings_remove_model_dialog_details">Ihr Gesichtsmodell wird dauerhaft und sicher gelöscht.\n\nNach dem Löschen benötigen Sie Ihren Fingerabdruck, Ihre PIN, Ihr Muster oder Passwort zum Entsperren Ihres Telefons oder zur Authentisierung in Apps.</string>
-    <string name="security_settings_face_settings_remove_model_dialog_title">Gesichtsmodell löschen?</string>
-    <string name="security_settings_face_settings_require_attention">Mit offenen Augen auf den Bildschirm schauen</string>
-    <string name="security_settings_face_settings_require_attention_details">Zum Entsperren des Telefons immer mit offenen Augen auf den Bildschirm schauen</string>
-    <string name="security_settings_face_settings_require_category">Erforderlich für die Gesichtssperre</string>
-    <string name="security_settings_face_settings_require_confirmation">Mit Taste bestätigen</string>
-    <string name="security_settings_face_settings_require_confirmation_details">Bei der App-Authentisierung ist immer eine Bestätigung erforderlich</string>
+    <string name="security_settings_face_settings_require_attention">Augen müssen offen sein</string>
+    <string name="security_settings_face_settings_require_attention_details">Zum Entsperren des Telefons müssen Ihre Augen offen sein</string>
+    <string name="security_settings_face_settings_require_confirmation">Immer Bestätigung verlangen</string>
+    <string name="security_settings_face_settings_require_confirmation_details">Bei Verwendung von Gesichtssperre in Apps immer Bestätigungsschritt verlangen</string>
     <string name="security_settings_face_settings_use_face_category">Gesichtssperre verwenden für</string>
-    <string name="security_settings_face_settings_use_face_for_apps">App-Anmeldung &amp; Zahlungen</string>
-    <string name="security_settings_face_settings_use_face_unlock_phone">Telefonentsperrung</string>
     <string name="security_settings_face_watch_preference_summary">Gesicht und %s hinzugefügt</string>
     <string name="security_settings_fingerprint">Fingerabdruck</string>
-    <string name="security_settings_fingerprint_bad_calibration">Fingerabdrucksensor verwenden fehlgeschlagen. Besuchen Sie einen Reparaturdienstleister</string>
+    <string name="security_settings_fingerprint_bad_calibration">Suchen Sie einen Reparaturbetrieb auf.</string>
     <string name="security_settings_fingerprint_bad_calibration_title">Fingerabdrucksensor kann nicht verwendet werden</string>
     <string name="security_settings_fingerprint_enroll_consent_introduction_title">Fingerabdrucksperre erlauben</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Löschen</string>
     <string name="security_settings_fingerprint_enroll_dialog_try_again">Erneut versuchen</string>
     <string name="security_settings_fingerprint_enroll_done">Fertig</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Später erledigen</string>
-    <string name="security_settings_fingerprint_enroll_error_dialog_title">Zeitüberschreitung Einrichten Fingerabdruck</string>
-    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Fingerabdruckanmeldung funktioniert nicht. Erneut versuchen oder einen anderen Finger verwenden.</string>
+    <string name="security_settings_fingerprint_enroll_error_dialog_title">Zeitüberschreitung Fingerabdruck einrichten</string>
+    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Etwas ist schief gelaufen. Sie können Ihren Fingerabdruck später einrichten.</string>
     <string name="security_settings_fingerprint_enroll_error_generic_dialog_message_setup">Etwas ist schief gelaufen. Sie können Ihren Fingerabdruck später in Einstellungen einrichten.</string>
-    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Jetzt erneut versuchen oder Fingerabdruck später in den Einstellungen einrichten</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Sie können Ihren Fingerabdruck später einrichten.</string>
     <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message_setup">Sie können Ihren Fingerabdruck später in Einstellungen einrichten.</string>
-    <string name="security_settings_fingerprint_enroll_error_unable_to_process_dialog_title">Erfassung wurde nicht abgeschlossen</string>
+    <string name="security_settings_fingerprint_enroll_error_unable_to_process_dialog_title">Einrichtung wurde nicht abgeschlossen</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_message">Sie können es jetzt erneut versuchen oder Ihren Fingerabdruck später einrichten.</string>
     <string name="security_settings_fingerprint_enroll_error_unable_to_process_message_setup">Sie können es jetzt erneut versuchen oder Ihren Fingerabdruck später in Einstellungen einrichten.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Abbildung mit dem Gerät und der Position des Sensors</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Abbildung mit Gerät und Position des Sensors</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_message">Er ist auf der Rückseite Ihres Telefons. Zeigefinger verwenden.</string>
     <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensor berühren</string>
-    <string name="security_settings_fingerprint_enroll_finish_message">Wenn Sie dieses Symbol sehen, verwenden Sie Ihren Fingerabdruck zur Identifizierung oder um Einkäufe zu autorisieren</string>
     <string name="security_settings_fingerprint_enroll_finish_title">Fingerabdruck hinzugefügt</string>
     <string name="security_settings_fingerprint_enroll_finish_v2_add_fingerprint_message">Jetzt können Sie Ihr Telefon mit Ihrem Fingerabdruck entsperren oder verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen. \n\nFügen Sie einen weiteren Fingerabdruck hinzu, damit es einfacher ist, das Telefon zu entsperren, wenn Sie es auf unterschiedliche Weise halten.</string>
     <string name="security_settings_fingerprint_enroll_finish_v2_message">Jetzt können Sie Ihr Telefon mit Ihrem Fingerabdruck entsperren oder verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen</string>
     <string name="security_settings_fingerprint_enroll_introduction_agree">Ich stimme zu</string>
     <string name="security_settings_fingerprint_enroll_introduction_cancel">Abbrechen</string>
-    <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Überspringen</string>
-    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Erlauben Sie Ihrem Kind, sein Telefon mit seinem Fingerabdruck zu entsperren oder zu verifizieren, dass es ihm gehört. Dies geschieht, wenn es sich bei Apps anmeldet, einen Kauf bestätigt und vieles mehr.</string>
-    <string name="security_settings_fingerprint_enroll_introduction_continue">Weiter</string>
-    <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Nächster</string>
+    <string name="security_settings_fingerprint_enroll_introduction_consent_message">Ihr Kind darf sein Telefon mit seinem Fingerabdruck entsperren oder verifizieren, dass es es selbst ist. Dies geschieht, wenn es sich bei Apps anmeldet, einen Kauf bestätigt und mehr.</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_1">Sie haben die Kontrolle</string>
-    <string name="security_settings_fingerprint_enroll_introduction_footer_title_2">Nicht vergessen</string>
+    <string name="security_settings_fingerprint_enroll_introduction_footer_title_2">Beachten Sie</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_consent_1">Sie und Ihr Kind haben die Kontrolle</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">Tippen Sie einfach auf den Sensor, um Ihr Gerät zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden. Passen Sie auf, wessen Fingerabdrücke Sie hinzufügen. Jeder hinzugefügte Fingerabdruck erlaubt diese Funktionen.\nHinweis: Ihr Fingerabdruck ist evtl. weniger sicher als ein starkes Muster oder eine PIN. </string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_setup">Benutzen Sie Ihren Fingerabdruck, um Ihr Telefon zu entsperren oder Einkäufe zu autorisieren.\nHinweis: Ihr Fingerabdruck ist evtl. weniger sicher als ein starkes Muster oder eine PIN.</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">Benutzen Sie Ihren Fingerabdruck, um Ihr Telefon zu entsperren oder Einkäufe zu autorisieren.\nHinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu entsperren. Für weitere Informationen wenden Sie sich bitte an den Admin Ihres Unternehmens.</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_warning">Hinweis: Ihr Fingerabdruck ist evtl. weniger sicher als ein starkes Muster oder eine PIN.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">Benutzen Sie Ihren Fingerabdruck, um Ihr Telefon zu entsperren oder Einkäufe zu bestätigen.\nHinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu entsperren. Weitere Infos erhalten Sie beim Admin Ihrer Firma.</string>
     <string name="security_settings_fingerprint_enroll_introduction_no_thanks">Nein danke</string>
     <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Mehr erfahren</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Mit Fingerabdruck entsperren</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Verwenden Sie Ihren Fingerabdruck</string>
     <string name="security_settings_fingerprint_enroll_introduction_v3_message">Verwenden Sie Ihren Fingerabdruck, um Ihr %s zu entsperren oder zu verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Kauf bestätigen.</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Finger anheben, danach den Sensor nochmals berühren</string>
-    <string name="security_settings_fingerprint_enroll_onboard_message">Um mit Fingerabdruck den Bildschirm zu entsperren oder Einkäufe zu autorisieren, müssen Sie Folgendes tun:</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message">Um mit Fingerabdruck den Bildschirm zu entsperren oder Einkäufe zu bestätigen, müssen Sie Folgendes tun:</string>
     <string name="security_settings_fingerprint_enroll_onboard_message_1">Einrichten einer Backup-Bildschirmsperre </string>
     <string name="security_settings_fingerprint_enroll_onboard_message_2">Fingerabdruck hinzufügen</string>
     <string name="security_settings_fingerprint_enroll_onboard_title">Fingerabdruck einrichten</string>
@@ -9245,27 +9211,27 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="unlock_disable_frp_warning_content_password">Geräteschutz wird ohne ein Passwort nicht funktionieren</string>
     <string name="unlock_disable_frp_warning_content_password_face">Ein Passwort schützt das Telefon bei Verlust oder Diebstahl.\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_password_face_fingerprint">Ein Passwort schützt das Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">Geräteschutz wird ohne ein Passwort nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich an Apps anzumelden.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Profilschutz funktioniert nicht ohne Ihr Passwort.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Profil freizuschalten, Einkäufe zu autorisieren oder sich an Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">Geräteschutz wird ohne ein Passwort nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht, Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich an Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Profilschutz funktioniert nicht ohne Ihr Passwort.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Profil freizuschalten, Einkäufe zu bestätigen oder sich an Apps anzumelden.</string>
     <string name="unlock_disable_frp_warning_content_password_profile">Profilschutz wird ohne Ihr Passwort nicht funktionieren</string>
     <string name="unlock_disable_frp_warning_content_pattern">Geräteschutz funktioniert ohne ein Entsperrmuster nicht</string>
     <string name="unlock_disable_frp_warning_content_pattern_face">Ein Muster schützt das Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">Ein Muster schützt das Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Geräteschutz wird ohne ein Entsperrmuster nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Geräteschutz wird ohne ein Entsperrmuster nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Geräteschutz wird ohne ein Entsperrmuster nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich in Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Geräteschutz wird ohne ein Entsperrmuster nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich in Apps anzumelden.</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">Profilschutz wird ohne ein Entsperrmuster nicht funktionieren</string>
     <string name="unlock_disable_frp_warning_content_pin">Geräteschutz funktioniert nicht ohne eine PIN</string>
     <string name="unlock_disable_frp_warning_content_pin_face">Eine PIN schützt das Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">Eine PIN schützt das Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Geräteschutz wird ohne eine PIN nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profilschutz wird ohne Ihre PIN nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Geräteschutz wird ohne eine PIN nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich in Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Profilschutz wird ohne Ihre PIN nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich in Apps anzumelden.</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Profilschutz wird ohne Ihre PIN nicht funktionieren</string>
     <string name="unlock_disable_frp_warning_content_profile">Profilschutzfunktionen funktionieren nicht ohne Ihr Passwort</string>
     <string name="unlock_disable_frp_warning_content_unknown">Geräteschutz funktioniert nicht ohne eine Bildschirmsperre</string>
     <string name="unlock_disable_frp_warning_content_unknown_face">Geräteschutzfunktionen funktionieren nicht ohne die Bildschirmsperre.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">Geräteschutzfunktionen funktionieren nicht ohne die Bildschirmsperre.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Geräteschutz wird ohne eine Bildschirmsperre nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu autorisieren oder sich in Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Geräteschutz wird ohne eine Bildschirmsperre nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch vom Gerät gelöscht und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich in Apps anzumelden.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren.\nIhre gespeicherten Fingerabdrücke werden auch aus diesem Profil entfernt und Sie werden nicht mehr in der Lage sein, Ihr Gerät damit zu entsperren, Einkäufe zu bestätigen oder sich in Apps anzumelden.</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">Profilschutz wird ohne Ihre Bildschirmsperre nicht funktionieren</string>
     <string name="unlock_disable_frp_warning_ok">Ja, löschen</string>
     <string name="unlock_disable_frp_warning_title">Geräteschutz löschen?</string>
