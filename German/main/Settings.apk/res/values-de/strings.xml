@@ -2341,7 +2341,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="customize_knock_gesture">Eigene Knöchelgesten</string>
     <string name="cutout_mode_always">Notch immer anzeigen</string>
     <string name="cutout_mode_default">Automatisch</string>
-    <string name="cutout_mode_settings_title">Einige Apps werden eventuell falsch angezeigt, wenn Sie die Notch-Anzeige anpassen.</string>
+    <string name="cutout_mode_settings_title">Einige Apps werden evtl. falsch angezeigt, wenn Sie die Notch-Anzeige anpassen.</string>
     <string name="cutout_mode_title">Notch in einzelnen Apps</string>
     <string name="cutout_type_desc">Einschalten zum Glätten der Notch-Kurven</string>
     <string name="cutout_type_title">Anpassen der Notch-Form</string>
@@ -3057,7 +3057,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="enable_terminal_title">Lokales Terminal</string>
     <string name="enable_text">Aktivieren</string>
     <string name="enable_verbose_vendor_logging">Ausführliches Vendor-Logging aktivieren</string>
-    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Logs in Fehlerberichte einbeziehen, die eventuell private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
+    <string name="enable_verbose_vendor_logging_summary">Zusätzliche gerätespezifische Vendor-Logs in Fehlerberichte einbeziehen, die evtl. private Daten enthalten, mehr Akku verbrauchen und/oder mehr Speicherplatz benötigen.</string>
     <string name="enable_wifi_display">Drahtlose Anzeige</string>
     <string name="enabled">An</string>
     <string name="enabled_5g_mode_title">5G aktivieren</string>
@@ -3542,7 +3542,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="force_hw_ui_summary">GPU-Rendering für 2D erzwingen</string>
     <string name="force_immersive_compatibility_dont_hide">Nicht verbergen</string>
     <string name="force_immersive_compatibility_hide">Verbergen</string>
-    <string name="force_immersive_compatibility_hint_message">Einige Apps funktionieren eventuell nicht richtig, wenn Sie die Softkeytasten verbergen</string>
+    <string name="force_immersive_compatibility_hint_message">Einige Apps funktionieren evtl. nicht richtig, wenn Sie die Softkeytasten verbergen</string>
     <string name="force_immersive_compatibility_hint_title">Kompatibilitätsprobleme</string>
     <string name="force_msaa">4x MSAA erzwingen</string>
     <string name="force_msaa_new">4x MSAA erzwingen</string>
@@ -3791,7 +3791,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gxzw_dialog_ok">Verstanden</string>
     <string name="gxzw_dialog_title">Über Bildschirm-Fingerabdrucksensor</string>
     <string name="gxzw_enroll_again">Heben Sie Ihren Finger an und drücken Sie den Fingerabdruckscanner erneut</string>
-    <string name="gxzw_lowlight_open_summary">Verringern Sie die Helligkeit des Fingerabdrucksymbols bei schlechten Lichtverhältnissen. Ihr Gerät entsperrt sich eventuell langsamer, wenn diese Funktion eingeschaltet ist.</string>
+    <string name="gxzw_lowlight_open_summary">Verringern Sie die Helligkeit des Fingerabdrucksymbols bei schlechten Lichtverhältnissen. Ihr Gerät entsperrt sich evtl. langsamer, wenn diese Funktion eingeschaltet ist.</string>
     <string name="gxzw_lowlight_open_title">Fingerabdrucksperre bei schwachem Licht</string>
     <string name="gxzw_quick_open_enable_summary">Gestenverknüpfungen verwenden, um Apps zu öffnen, oder App-Funktionen verwenden, wenn Ihr Gerät entsperrt ist</string>
     <string name="gxzw_quick_open_enable_title">Fingerabdruck-Verknüpfungen</string>
@@ -7928,8 +7928,8 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="solid_text">Verwendet niederfrequentes taktiles Feedback und entsprechende visuelle Übergänge, um ein solides, kraftvolles Gestenerlebnis zu schaffen</string>
     <string name="sometimes_running">Läuft manchmal (%s)</string>
-    <string name="sort_avg_use">Nach durchschnittl. Verwendung sortieren</string>
-    <string name="sort_max_use">Nach max. Verwendung sortieren</string>
+    <string name="sort_avg_use">Nach durchschnittl. Nutzung sortieren</string>
+    <string name="sort_max_use">Nach max. Nutzung sortieren</string>
     <string name="sort_order_alpha">Nach Namen sortieren</string>
     <string name="sort_order_frequent_notification">Häufigste</string>
     <string name="sort_order_recent_notification">Letzte</string>
@@ -7959,14 +7959,18 @@ Zum Markieren von Kontakten als Notfallkontakte
 Zum Senden von Textnachrichten an Notfallkontakte
 • Standortzugriff
 Zum Teilen Ihres Standorts mit Notfallkontakten
-Wenn Sie nicht damit einverstanden sind, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. In solchen Fällen können Sie Notfall-SOS ausschalten oder nicht verwenden.
+• Audioaufnahme
+Zum Senden von Aufnahmen der Umgebungsgeräusche an Notfallkontakte
+• Kamera verwenden
+Zum Senden von Fotos an Notfallkontakte
+Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. In solchen Fällen können Sie Notfall-SOS ausschalten oder nicht verwenden.
 Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_dialog_message_old_version">"Mit Notfall-SOS können Sie Ihren Standort in Echtzeit mitteilen und Textnachrichten an Ihre Notfallkontakte senden.
 Wir schützen Ihre personenbezogenen Daten gemäß den einschlägigen Gesetzen, Vorschriften und Datenschutzerklärungen.
 Beachten Sie, dass diese App eine Internetverbindung und folgende Berechtigungen benötigt, um Ihre personenbezogenen Daten zu erfassen:
 • Speicherzugriff
 Zum Speichern von Notfallkontakten
-• Zugriff auf Kontakte
+• Kontaktezugriff
 Zum Markieren von Kontakten als Notfallkontakte
 • SMS senden
 Zum Senden von Textnachrichten an Notfallkontakte
@@ -7974,9 +7978,9 @@ Zum Senden von Textnachrichten an Notfallkontakte
 Zum Teilen Ihres Standorts mit Notfallkontakten
 Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten zu teilen und hochzuladen, können Sie diese App nicht verwenden. In solchen Fällen können Sie Notfall-SOS ausschalten oder nicht verwenden.
 Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
-    <string name="sos_privacy_dialog_title">AGB</string>
+    <string name="sos_privacy_dialog_title">Allgemeine Geschäftsbedingungen</string>
     <string name="sos_privacy_policy">Datenschutzerklärung</string>
-    <string name="sos_privacy_policy_change_endtitle">Lesen und akzeptieren Sie die neue Version von %s, bevor Sie fortfahren.</string>
+    <string name="sos_privacy_policy_change_endtitle">Lesen und akzeptieren Sie die neue Version der %s, bevor Sie fortfahren.</string>
     <string name="sos_privacy_policy_change_message_reject">Sie können Notfall-SOS nicht weiter nutzen, wenn Sie der neuen Version der Datenschutzerklärung nicht zustimmen. Der aktualisierten %s jetzt zustimmen?</string>
     <string name="sos_privacy_policy_change_subtitle">Datenschutzerklärung Notfall-SOS wurde aktualisiert:</string>
     <string name="sos_privacy_policy_change_title">Datenschutzerklärung aktualisiert</string>
@@ -7985,7 +7989,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_policy_no_net_message">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="sos_privacy_policy_no_net_title">Netzwerkverbindung fehlgeschlagen</string>
     <string name="sos_privacy_policy_revoke">Zustimmung widerrufen</string>
-    <string name="sos_privacy_policy_revoke_message_reject">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zu der Datenschutzerklärung von Notfall-SOS. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\n\nDa Notfall-SOS seine Dienste auf der Grundlage der Erhebung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Sicherheitsdienste gewertet.\n\nZustimmung %s jetzt widerrufen?</string>
+    <string name="sos_privacy_policy_revoke_message_reject">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zu der Datenschutzerklärung von Notfall-SOS. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\n\nDa Notfall-SOS seine Dienste auf der Grundlage der Erhebung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Sicherheitsdienste gewertet.\n\nZustimmung zur %s jetzt widerrufen?</string>
     <string name="sos_privacy_policy_revoke_title_reject">Achtung</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Ein Serverfehler ist aufgetreten. Einen Momnet warten und erneut versuchen.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Zustimmung widerrufen fehlgeschlagen</string>
@@ -7994,10 +7998,8 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sound_assist_summary">Toneinstellungen anpassen</string>
     <string name="sound_assist_title">Tonassistent</string>
     <string name="sound_category_call_ringtone_vibrate_title">Klingel- &amp; Benachrichtigungston</string>
-    <string name="sound_category_notification_title">Benachrichtigungen</string>
-    <string name="sound_category_sound_title">Allgemein</string>
     <string name="sound_dashboard_summary">Lautstärke, Vibration, Nicht Stören</string>
-    <string name="sound_effects_enable_title">Ton bei Berührung</string>
+    <string name="sound_effects_enable_title">Ton beim Tippen</string>
     <string name="sound_haptic_settings">Ton &amp; Berühren</string>
     <string name="sound_mode">Tonoptionen</string>
     <string name="sound_settings">Töne</string>
@@ -8008,7 +8010,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sound_title">Töne</string>
     <string name="sound_vibrate_settings">Ton &amp; Vibration</string>
     <string name="sound_work_settings">Ton Arbeitsprofil</string>
-    <string name="source_info_details_title">Infos Broadcast-Quelle</string>
+    <string name="source_info_details_title">Info Broadcast-Quelle</string>
     <string name="spatial_audio_footer_learn_more_text">Einstellungen verbundener Geräte</string>
     <string name="spatial_audio_footer_title">Sie können auch Raumklang für Bluetooth-Geräte einschalten.</string>
     <string name="spatial_audio_speaker">Telefonlautsprecher</string>
@@ -8022,7 +8024,6 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="speaker_clean">Lautsprecher reinigen</string>
     <string name="special_access">Spezielle Berechtigungen</string>
     <string name="special_access_more">Mehr anzeigen</string>
-    <string name="special_preview">Demos</string>
     <string name="speech_category_title">Sprache</string>
     <string name="speed_label_fast">Schnell</string>
     <string name="speed_label_slow">Langsam</string>
@@ -8031,148 +8032,70 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="speed_mode_noti_summary">Ihr Gerät wird wärmer und verbraucht mehr Strom</string>
     <string name="speed_mode_noti_title">Zum Geschwindigkeitsmodus gewechselt</string>
     <string name="speed_mode_summary">Vorrang der Leistung vor Stromverbrauch und Temperaturkontrolle</string>
-    <string name="spell_checker_master_switch_title">Rechtschreibprüfung nutzen</string>
     <string name="spell_checker_not_selected">Nicht ausgewählt</string>
     <string name="spell_checker_primary_switch_title">Rechtschreibprüfung verwenden</string>
     <string name="spellchecker_language">Sprache</string>
     <string name="spellchecker_quick_settings">Einstellungen</string>
     <string name="spellchecker_security_warning">Diese Rechtschreibprüfung kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. personenbezogener Daten wie Passwörter und Kreditkartennummern. Sie ist Teil der App \"%1$s\". Möchten Sie die Rechtschreibprüfung verwenden?</string>
-    <string name="spellchecker_switch_title">Rechtschreibprüfung aktivieren</string>
+    <string name="spellchecker_switch_title">Rechtschreibprüfung einschalten</string>
     <string name="spellcheckers_settings_for_work_title">Rechtschreibprüfung für die Arbeit</string>
     <string name="spellcheckers_settings_title">Rechtschreibprüfung</string>
     <string name="split_operation_guide_title">Wie man den geteilten Bildschirm verwendet</string>
     <string name="split_screen">Geteilten Bildschirm öffnen</string>
-    <string name="ssl_ca_cert_dialog_title">Netzwerküberwachung</string>
-    <string name="ssl_ca_cert_info_message">{numberOfCertificates, plural, =1 {{orgName} hat eine Zertifizierungsstelle für Ihr Arbeitsprofil installiert, die es ermöglicht, die Aktivitäten im Arbeitsnetzwerk, einschl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Admin.} other {{orgName} hat Zertifizierungsstellen für Ihr Arbeitsprofil installiert, die es ermöglichen, die Aktivitäten im Arbeitsnetzwerk, einschl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Admin} }</string>
-    <string name="ssl_ca_cert_info_message_device_owner">{numberOfCertificates, plural, =1 {{orgName} hat eine Zertifizierungsstelle auf Ihrem Gerät installiert, die es ermöglicht, die Netzwerkaktivitäten Ihres Geräts, einschl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Admin.} other {{orgName} hat Zertifizierungsstellen auf Ihrem Gerät installiert, die es ermöglichen, die Netzwerkaktivitäten Ihres Geräts, einschl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Admin} }</string>
-    <string name="ssl_ca_cert_settings_button">Vertrauenswürdige Anmeldedaten prüfen</string>
-    <string name="ssl_ca_cert_warning">Netzwerk wird eventuell überwacht</string>
+    <string name="ssl_ca_cert_dialog_title">{count, plural, =1 {Zertifikat vertrauen oder entfernen} other {Zertifikaten vertrauen oder entfernen} }</string>
+    <string name="ssl_ca_cert_info_message">{numberOfCertificates, plural, =1 {{orgName} hat eine Zertifizierungsstelle für Ihr Arbeitsprofil installiert, die es ermöglicht, die Aktivitäten im Arbeitsnetzwerk, inkl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Admin.} other {{orgName} hat Zertifizierungsstellen für Ihr Arbeitsprofil installiert, die es ermöglichen, die Aktivitäten im Arbeitsnetzwerk, inkl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Admin} }</string>
+    <string name="ssl_ca_cert_info_message_device_owner">{numberOfCertificates, plural, =1 {{orgName} hat eine Zertifizierungsstelle auf Ihrem Gerät installiert, die es ermöglicht, die Netzwerkaktivitäten Ihres Geräts, inkl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesem Zertifikat erhalten Sie von Ihrem Admin.} other {{orgName} hat Zertifizierungsstellen auf Ihrem Gerät installiert, die es ermöglichen, die Netzwerkaktivitäten Ihres Geräts, inkl. E-Mails, Apps und sichere Webseiten, zu überwachen.\n\nWeitere Informationen zu diesen Zertifikaten erhalten Sie von Ihrem Admin} }</string>
+    <string name="ssl_ca_cert_settings_button">{count, plural, =1 {Zertifikat prüfen} other {Zertifikate prüfen} }</string>
+    <string name="ssl_ca_cert_warning">Netzwerk wird evtl. überwacht</string>
     <string name="ssl_ca_cert_warning_message">Dritte können Ihre Netzwerkaktivitäten überwachen, inkl. E-Mails, Apps und sichere Webseiten.\nDies wird durch vertrauenswürdige Anmeldedaten erlaubt, die auf Ihrem Gerät installiert sind.</string>
     <string name="stable_build">Stabil</string>
-    <string name="standard">Stumm</string>
+    <string name="standard">Lautlos</string>
     <string name="standard_info">Anrufe und Benachrichtigungen werden stummgeschaltet</string>
     <string name="standard_limit">Standardlimit</string>
     <string name="standby_bucket_summary">Status App-Standby: %s</string>
-    <string name="start_backup">Sichern</string>
-    <string name="start_restore">Wiederherstellen</string>
-    <string name="start_silent_mode">Lautlosmodus aktivieren</string>
-    <string name="starting_android">Android starten…</string>
-    <string name="state_mounting">Auf Ihren Routerspeicher zugreifen…</string>
-    <string name="state_waiting">Einen Moment…</string>
-    <string name="status_awaiting_tap">TAG antippen, um zu schreiben…</string>
-    <string name="status_bar_and_notification_bar">Benachrichtigungsleiste und Statusleiste</string>
-    <string name="status_bar_app_disable_notification">Ausblenden</string>
+    <string name="start_silent_mode">Lautlosmodus einschalten</string>
+    <string name="status_bar_app_disable_notification">Benachrichtigungen ausgeblendet</string>
     <string name="status_bar_app_enable_floating">Popups</string>
     <string name="status_bar_app_enable_keyguard">Sperrbildschirm</string>
     <string name="status_bar_app_enable_message">Plaketten</string>
-    <string name="status_bar_app_enable_on_notificationBar">Anzeigen</string>
     <string name="status_bar_carrier_settings_no_sim_card">Keine SIM</string>
     <string name="status_bar_icons_title">Statusleistensymbole</string>
-    <string name="status_bar_key_position_custom">Benutzerdefinierte Tastenposition</string>
-    <string name="status_bar_screen_button_desc">Runterwischen, um Bildschirmtasten zu verbergen</string>
-    <string name="status_bar_screen_button_force_immersive_desc">Wischen Sie von unten nach oben am Bildschirm, um Softtasten anzuzeigen</string>
-    <string name="status_bar_screen_button_key">Bildschirmtasten</string>
-    <string name="status_bar_screen_button_key_can_hide">Bildschirmtasten können ausgeblendet werden</string>
-    <string name="status_bar_screen_button_key_force_immersive">Bildschirmtasten ausblenden</string>
-    <string name="status_bar_screen_key_back">Zurücktaste</string>
-    <string name="status_bar_screen_key_home">Home-Taste</string>
-    <string name="status_bar_screen_key_menu">Menütaste</string>
-    <string name="status_bar_screen_key_recent_apps">Letzte-Apps-Taste</string>
     <string name="status_bar_settings">Benachrichtigungen &amp; Statusleiste</string>
-    <string name="status_bar_settings_advanced">Weitere Einstellungen</string>
     <string name="status_bar_settings_all_app_display_loading">Einen Moment…</string>
-    <string name="status_bar_settings_app_notification_preferences">App-Einstellungen</string>
-    <string name="status_bar_settings_basic_settings">Grundeinstellungen</string>
-    <string name="status_bar_settings_custom_carrier">Anbieternamen bearbeiten</string>
-    <string name="status_bar_settings_custom_wifi_name">WLAN-Name bearbeiten</string>
-    <string name="status_bar_settings_enable_notification">Benachrichtigungen erlauben</string>
-    <string name="status_bar_settings_expand_top_notification">Obere Benachrichtigung erweitern</string>
-    <string name="status_bar_settings_expandable_under_keyguard">Am Sperrbildschirm aktivieren</string>
-    <string name="status_bar_settings_function_description">Über diese Funktion</string>
-    <string name="status_bar_settings_long_click_sort">Zum Sortieren Schalter gedrückt halten</string>
     <string name="status_bar_settings_manage_notification">App-Benachrichtigungen</string>
-    <string name="status_bar_settings_no_carrier">Nichts</string>
     <string name="status_bar_settings_notification_bar">Benachrichtigungsleiste</string>
-    <string name="status_bar_settings_notification_led">Benachrichtigungslicht</string>
-    <string name="status_bar_settings_notification_led_custom">Benutzerdefinierte Farbe</string>
-    <string name="status_bar_settings_notification_priority">Priorität</string>
-    <string name="status_bar_settings_notification_priority_summary">Benachrichtigungen am Anfang der Liste anzeigen</string>
-    <string name="status_bar_settings_notification_shade_shortcut">Kürzel Benachrichtigungsleiste</string>
-    <string name="status_bar_settings_notification_sound">Ton</string>
-    <string name="status_bar_settings_notification_sound_custom">Benutzerdefinierter Ton</string>
-    <string name="status_bar_settings_notification_style">Benachrichtigungsstil</string>
     <string name="status_bar_settings_notification_use_app_icon">App-Symbole für Benachrichtigungen verwenden</string>
-    <string name="status_bar_settings_peek_notification_icon">Symbole für eingehende Benachrichtigungen anzeigen</string>
     <string name="status_bar_settings_qs_layout">Layout Schnelleinstellungen</string>
-    <string name="status_bar_settings_show_carrier">Anbieternamen anzeigen</string>
-    <string name="status_bar_settings_show_carrier_summary">Anbietername wird weiterhin am Sperrbildschirm und in der Benachrichtigungsleiste angezeigt, wenn diese Funktion deaktiviert ist</string>
-    <string name="status_bar_settings_show_carrier_under_keyguard">Anbieter anzeigen, wenn das Gerät gesperrt ist</string>
-    <string name="status_bar_settings_show_floating_notification">Popups</string>
-    <string name="status_bar_settings_show_floating_notification_summary">Wichtige Benachrichtigungen am oberen Bildschirmrand erlauben</string>
-    <string name="status_bar_settings_show_flow_info">Datennutzung anzeigen</string>
-    <string name="status_bar_settings_show_home_message">App-Symbol</string>
-    <string name="status_bar_settings_show_keyguard_notification">Benachrichtigungen am Sperrbildschirm</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary">Wichtige Benachrichtigungen am Sperrbildschirm erlauben</string>
     <string name="status_bar_settings_show_lte_for_4g">LTE-Symbol für 4G anzeigen</string>
-    <string name="status_bar_settings_show_network_speed">Verbindungsgeschwindigkeit anzeigen</string>
-    <string name="status_bar_settings_show_notification_icon">Benachrichtigungssymbole anzeigen</string>
-    <string name="status_bar_settings_show_weather">Wetterdaten anzeigen</string>
-    <string name="status_bar_settings_show_wifi_name">WLAN anzeigen</string>
-    <string name="status_bar_settings_status_bar">Benachrichtigungsleiste</string>
-    <string name="status_bar_settings_style">Benachrichtigungs- &amp; Schalterlayout</string>
-    <string name="status_bar_settings_toggle_collapse_after_clicked">Nach Auswahl einklappen</string>
-    <string name="status_bar_settings_toggle_position">Schalteranordnung</string>
-    <string name="status_bar_settings_user_fold">Benachrichtigungsordner</string>
-    <string name="status_bar_settings_user_fold_disable">Aus</string>
-    <string name="status_bar_settings_user_fold_enable">An</string>
-    <string name="status_bar_settings_user_fold_summary">Alle unwichtigen Benachrichtigungen werden in einem separaten Ordner angezeigt</string>
-    <string name="status_bar_style_list">Kombiniert</string>
-    <string name="status_bar_style_page">Getrennt</string>
+    <string name="status_bar_settings_status_bar">Statusleiste</string>
     <string name="status_bar_title">Kontrollzentrum &amp; Statusleiste</string>
     <string name="status_bt_address">Bluetooth-Adresse</string>
     <string name="status_data_network_type">Mobiler Datennetztyp</string>
     <string name="status_data_state">Mobilfunkstatus</string>
     <string name="status_device_wifi_mac_address">Geräte-WLAN-MAC-Adresse</string>
-    <string name="status_failed_to_write">fehlgeschlagen, Daten auf den NFC-Tag zu schreiben. Falls das Problem weiterhin auftritt, verwenden Sie einen anderen Tag</string>
-    <string name="status_invalid_password">Ungültiges Passwort, erneut versuchen</string>
     <string name="status_latest_area_info">Betreiberinfo</string>
-    <string name="status_network_type">Mobilfunktyp</string>
-    <string name="status_number">Meine Rufnummer</string>
+    <string name="status_number">Rufnummer</string>
     <string name="status_number_sim_slot">Rufnummer (SIM-Slot %1$d)</string>
     <string name="status_number_sim_softbank">Rufnummer %1$d</string>
     <string name="status_number_sim_status">Rufnummer der SIM</string>
     <string name="status_operator">Netzwerk</string>
     <string name="status_prl_version">PRL-Version</string>
     <string name="status_serial_number">Seriennummer</string>
-    <string name="status_serialno">Seriennummer</string>
-    <string name="status_service_state">Servicestatus</string>
+    <string name="status_serialno">Seriennr.</string>
+    <string name="status_service_state">Dienststatus</string>
     <string name="status_signal_strength">Signalstärke</string>
     <string name="status_sim">SIM-Status</string>
-    <string name="status_summary">Antippen für Details</string>
-    <string name="status_tag_not_writable">NFC-Tag ist nicht beschreibbar. Bitte verwenden Sie einen anderen Tag.</string>
+    <string name="status_summary">Tippen für Details</string>
     <string name="status_unavailable">Nicht verfügbar</string>
     <string name="status_up_time">Betriebszeit</string>
     <string name="status_voice_network_type">Mobiler Sprachnetztyp</string>
     <string name="status_wifi_mac_address">WLAN-MAC-Adresse</string>
-    <string name="status_wimax_mac_address">4G-MAC-Adresse</string>
-    <string name="status_write_success">Erfolgreich!</string>
-    <string name="statusbar_permission_desc">Folgende Berechtigungen gelten nur für wichtige Benachrichtigungen</string>
-    <string name="stop_upload_audio_log">Audio-Protokollierung benden</string>
-    <string name="stop_upload_gps_log">GPS-Protokollierung beenden</string>
-    <string name="stop_upload_modem_log">Modem-Protokollierung beenden</string>
     <string name="storage_category">Speicher</string>
     <string name="storage_default_internal_storage">Dieses Gerät</string>
-    <string name="storage_detail_cached">Daten im Cache</string>
-    <string name="storage_detail_dialog_other">Andere beinhaltet von Apps gespeicherte Dateien, Downloads, Androiddateien etc.\nUm den gesamten Inhalt von ^1 anzuzeigen, tippen Sie auf Erkunden.</string>
-    <string name="storage_detail_dialog_system">System enthält Dateien, die zur Ausführung der Android-Version %s verwendet werden</string>
-    <string name="storage_detail_dialog_user">^1 hat eventuell Musik, Videos, Apps oder andere Dateien gespeichert, die ^2 an Speicher belegen.\nUm Details anzuzeigen, wechseln Sie zu ^1.</string>
-    <string name="storage_detail_explore">^1 erkunden</string>
-    <string name="storage_detail_images">Bilder</string>
-    <string name="storage_detail_other">Andere</string>
-    <string name="storage_dialog_unmountable">^1 ist beschädigt.\nErst einrichten, um ^1 zu verwenden.</string>
-    <string name="storage_dialog_unsupported">Dieses Gerät unterstützt ^1 nicht.\nErst einrichten, um ^1 mit diesem Gerät zu verwenden.</string>
+    <string name="storage_detail_dialog_system">System enthält Dateien zur Ausführung der Android-Version %s</string>
+    <string name="storage_dialog_unmountable">^1 ist beschädigt.\n\nErst einrichten, um ^1 zu verwenden.</string>
     <string name="storage_documents_and_other">Dokumente &amp; anderes</string>
-    <string name="storage_external_title">Tragbares Speichermedium</string>
+    <string name="storage_external_title">Tragbarer Speicher</string>
     <string name="storage_files">Dateien</string>
     <string name="storage_format">Formatierung</string>
     <string name="storage_free_up_space_summary">Zur Dateien-App gehen, um Speicherplatz zu verwalten und freizugeben</string>
@@ -8181,10 +8104,19 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="storage_images">Bilder</string>
     <string name="storage_internal_forget_confirm">Alle Apps, Fotos und Daten, die ^1 enthält, gehen für immer verloren</string>
     <string name="storage_internal_forget_confirm_title">^1 vergessen?</string>
-    <string name="storage_internal_forget_details">Um Apps, Fotos und Daten, die ^1 enthält, zu nutzen, legen Sie den Speicher wieder ein.\nAlternativ können Sie Speicher vergessen auswählen, wenn das Gerät nicht verfügbar ist.\nWenn Sie Speicher vergessen auswählen, gehen alle Daten darauf verloren.\nSie können Apps später wieder installieren, aber deren gespeicherte Daten sind für immer verloren.</string>
-    <string name="storage_internal_format_details">Sie können diese SD-Karte formatieren, um Fotos, Videos, Musik und mehr zu speichern und auf anderen Geräten darauf zuzugreifen. \nAlle Daten auf dieser SD-Karte werden gelöscht. \n<b>Fotos &amp; andere Medien sichern</b>\nVerschieben Sie Ihre Medien auf einen anderen Speicher in diesem Telefon oder kopieren Sie diese über USB auf einen PC.\n<b>Apps sichern</b>\nAlle Apps auf ^1 werden deinstalliert und deren Daten werden gelöscht. Um diese Apps zu behalten, verschieben Sie diese auf einen anderen Speicher auf diesem Telefon.</string>
+    <string name="storage_internal_forget_details">Um Apps, Fotos und Daten, die ^1 enthält, zu nutzen, legen Sie das Gerät wieder ein.\n\nAlternativ können Sie Speicher vergessen auswählen, wenn das Gerät nicht verfügbar ist.\n\nWenn Sie Speicher vergessen auswählen, gehen alle Daten darauf verloren.\n\nSie können die Apps später wieder installieren, aber deren gespeicherte Daten sind für immer verloren.</string>
+    <string name="storage_internal_format_details">"Sie können diese SD-Karte formatieren, um Fotos, Videos, Musik und mehr zu speichern und auf anderen Geräten darauf zuzugreifen.
+"<b>Alle Daten auf dieser SD-Karte werden gelöscht.</b>"
+
+"<b>Vor dem Formatieren:</b>"
+
+"<b>Fotos &amp; andere Medien sichern</b>"
+Verschieben Sie Ihre Mediendateien auf einen anderen Speicherplatz auf diesem Gerät, oder übertragen Sie sie mit einem USB-Kabel auf einen Computer.
+
+"<b>Apps sichern</b>" 
+Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelöscht. Wenn Sie diese Apps behalten möchten, verschieben Sie sie auf einen anderen Speicherplatz auf diesem Gerät."</string>
     <string name="storage_internal_title">Systemunabhängiger Speicher</string>
-    <string name="storage_internal_unmount_details"><b>Wenn Sie ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Dateien darauf werden erst nach dem Wiedereinlegen verfügbar sein</b>\n^1 ist formatiert, um nur auf diesem Gerät zu funktionieren, wird also auf andern Geräten nicht funktionieren.</string>
+    <string name="storage_internal_unmount_details"><b>Wenn Sie ^1 auswerfen, werden die Apps darauf nicht mehr funktionieren und die Mediendateien darauf werden erst nach dem Wiedereinlegen verfügbar sein</b>\n^1 ist formatiert, um nur auf diesem Gerät zu funktionieren, wird also auf anderen nicht funktionieren.</string>
     <string name="storage_label">Speicher</string>
     <string name="storage_menu_forget">Vergessen</string>
     <string name="storage_menu_format">SD-Karte als tragbaren Speicher formatieren</string>
@@ -8194,24 +8126,23 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="storage_menu_free">Speicher freigeben</string>
     <string name="storage_menu_manage">Speicher verwalten</string>
     <string name="storage_menu_migrate">Daten migrieren</string>
-    <string name="storage_menu_mount">Einbinden</string>
+    <string name="storage_menu_mount">Einhängen</string>
     <string name="storage_menu_rename">Umbenennen</string>
     <string name="storage_menu_set_up">Einrichten</string>
     <string name="storage_menu_unmount">Auswerfen</string>
-    <string name="storage_mount_failure">%1$s wurde nicht eingebunden</string>
-    <string name="storage_mount_success">%1$s ist eingebunden</string>
+    <string name="storage_mount_failure">%1$s wurde nicht eingehängt</string>
+    <string name="storage_mount_success">%1$s ist eingehängt</string>
     <string name="storage_other_users">Andere Benutzer</string>
     <string name="storage_rename_title">Speicher umbenennen</string>
     <string name="storage_settings">Speicher</string>
     <string name="storage_settings_for_app">Speicher &amp; Cache</string>
     <string name="storage_settings_title">Speichereinstellungen</string>
-    <string name="storage_size_large">^1<small><small> ^2</small></small></string>
-    <string name="storage_summary">%1$s von %2$s verwendet</string>
-    <string name="storage_summary_format">%1$s verwendet in %2$s</string>
+    <string name="storage_summary">%1$s belegt - %2$s frei</string>
+    <string name="storage_summary_format">%1$s belegt in %2$s</string>
     <string name="storage_title_usb">Über USB mit dem Computer verbinden</string>
     <string name="storage_total_summary">%1$s %2$s gesamt</string>
     <string name="storage_trash">Papierkorb</string>
-    <string name="storage_trash_dialog_ask_message">Es befinden sich %1$s an Dateien im Papierkorb. Alle Elemente werden für immer gelöscht und können nicht mehr wiederhergestellt werden.</string>
+    <string name="storage_trash_dialog_ask_message">%1$s an Dateien befinden sich im Papierkorb. Alle Elemente werden für immer gelöscht und können nicht mehr wiederhergestellt werden.</string>
     <string name="storage_trash_dialog_confirm">Papierkorb leeren</string>
     <string name="storage_trash_dialog_empty_message">Papierkorb ist leer</string>
     <string name="storage_trash_dialog_title">Papierkorb leeren?</string>
@@ -8223,21 +8154,20 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="storage_usb">USB-Speicher</string>
     <string name="storage_use_title">Belegt</string>
     <string name="storage_used">Verwendeter Speicher</string>
-    <string name="storage_volume_summary">%1$s von %2$s verwendet</string>
-    <string name="storage_wizard_format_confirm_public_body">^1 muss formatiert werden.\n<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b> Um Datenverlust zu vermeiden, erstellen Sie eine Sicherung.</string>
-    <string name="storage_wizard_format_confirm_third_body">^1 wird formatiert</string>
+    <string name="storage_wizard_format_confirm_public_body">Dazu muss ^1 formatiert werden.\n<b>Formatieren löscht alle Daten, die auf ^1 gespeichert sind.</b> Um Datenverlust zu vermeiden, erstellen Sie eine Sicherung.</string>
+    <string name="storage_wizard_format_confirm_third_body">^1 formatieren…</string>
     <string name="storage_wizard_format_confirm_v2_action">^1 formatieren</string>
     <string name="storage_wizard_format_confirm_v2_body">^1 muss formatiert werden, um Apps, Dateien und Medien zu speichern.\n\nFormatieren löscht vorhandene Inhalte auf ^2. Um den Inhalt zu behalten, sichern Sie ihn auf ^3 oder einem anderen Gerät.</string>
-    <string name="storage_wizard_format_confirm_v2_body_external">Diese ^1 muss formatiert werden, um Fotos, Videos, Musik und mehr zu speichern. \n\nBeim Formatieren wird der vorhandene Inhalt auf der ^2 gelöscht. Um den Verlust von Inhalten zu vermeiden, sichern Sie sie auf einer anderen ^3 oder einem anderen Gerät.</string>
+    <string name="storage_wizard_format_confirm_v2_body_external">^1 muss formatiert werden, um Fotos, Videos, Musik und mehr zu speichern. \n\nFormatieren löscht vorhandene Inhalte auf ^2. Um den Inhalt zu behalten, sichern Sie ihn auf ^3 oder einem anderen Gerät.</string>
     <string name="storage_wizard_format_confirm_v2_title">^1 formatieren?</string>
     <string name="storage_wizard_format_progress_body">Entfernen Sie ^1 nicht, während die Formatierung läuft</string>
     <string name="storage_wizard_format_progress_title">^1 formatieren…</string>
-    <string name="storage_wizard_guest">Benutzer des Gastmodus können SD-Karten nicht formatieren</string>
+    <string name="storage_wizard_guest">Gastmodus-Benutzer können SD-Karten nicht formatieren</string>
     <string name="storage_wizard_init_v2_external_action">Formatieren</string>
     <string name="storage_wizard_init_v2_external_summary">Speichern Sie Fotos, Videos, Musik und mehr und greifen Sie von anderen Geräten aus darauf zu. &lt;a href=https://support.google.com/android/answer/12153449>Erfahren Sie mehr über das Einrichten einer SD-Karte&lt;/a>.</string>
     <string name="storage_wizard_init_v2_external_title">SD-Karte als tragbaren Speicher formatieren</string>
     <string name="storage_wizard_init_v2_internal_action">Formatieren</string>
-    <string name="storage_wizard_init_v2_internal_summary">Speichern Sie Apps &amp; Medien, die nur auf diesem Telefon verwendet werden können. &lt;a href=https://support.google.com/android/answer/12153449>Erfahren Sie mehr über das Einrichten einer SD-Karte&lt;/a>.</string>
+    <string name="storage_wizard_init_v2_internal_summary">Speichern Sie Apps &amp; Medien, die nur auf diesem Telefon verwendet werden. &lt;a href=https://support.google.com/android/answer/12153449>Erfahren Sie mehr über das Einrichten einer SD-Karte&lt;/a>.</string>
     <string name="storage_wizard_init_v2_internal_title">SD-Karte als internen Speicher formatieren</string>
     <string name="storage_wizard_init_v2_later">Später einrichten</string>
     <string name="storage_wizard_init_v2_or">Oder</string>
@@ -8259,51 +8189,39 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="storage_wizard_move_unlock">Um Daten zu verschieben, müssen Sie Benutzer ^1 entsperren.</string>
     <string name="storage_wizard_ready_external_body">Ihr ^1 ist bereit zur Nutzung für Fotos und andere Medien</string>
     <string name="storage_wizard_ready_title">^1 ist bereit</string>
-    <string name="storage_wizard_ready_v2_external_body">Sie können Ihre ^1 verwenden</string>
-    <string name="storage_wizard_ready_v2_internal_body">Sie können Ihre ^1 verwenden</string>
-    <string name="storage_wizard_ready_v2_internal_moved_body">Sie können Ihre ^1 verwenden</string>
-    <string name="storage_wizard_slow_body">^1 scheint langsam zu sein.\nSie können fortfahren, aber Apps, die Sie dorthin verschieben, könnten ruckeln und der Datentransfer dauert sehr lange.\nErwägen Sie die Verwendung eines schnelleren Geräts für bessere Leistung.</string>
+    <string name="storage_wizard_ready_v2_external_body">Sie können ^1 verwenden</string>
+    <string name="storage_wizard_ready_v2_internal_body">Sie können ^1 verwenden</string>
+    <string name="storage_wizard_ready_v2_internal_moved_body">Sie können ^1 verwenden</string>
     <string name="storage_wizard_slow_v2_body">Sie können ^1 weiter nutzen, aber das Gerät könnte langsam sein.\n\nAuf ^2 gespeicherte Apps könnten nicht richtig funktionieren, und Datenübertragung könnte lange dauern.\n\n^3 als schnelleres Gerät oder stattdessen ^4 als tragbaren Speicher nutzen.</string>
     <string name="storage_wizard_slow_v2_continue">Fortfahren</string>
     <string name="storage_wizard_slow_v2_start_over">Neu beginnen</string>
     <string name="storage_wizard_slow_v2_title">^1 langsam</string>
     <string name="storageuse_settings_title">Speichernutzung</string>
-    <string name="strict_mode">Strikter Modus aktiviert</string>
-    <string name="strict_mode_summary">Bei längeren Aktionen im Hauptthread Bildschirm kurz aufblinken</string>
+    <string name="strict_mode">Strikter Modus</string>
+    <string name="strict_mode_summary">Bildschirm blinken bei langen App-Operationen am Hauptthread</string>
     <string name="string_KB_per_log_buffer">%d KB per pro Log-Puffer</string>
     <string name="string_MB_per_log_buffer">%d MB pro Log-Puffer</string>
-    <string name="string_after_int_minute">Nach %d Minute</string>
-    <string name="string_after_int_minutes">Nach %d Minuten</string>
     <string name="string_after_int_seconds">Nach %d Sekunden</string>
     <string name="string_always">Immer</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Kurze Latenzzeit (%1$d~%2$dms)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Mittlere Latenzzeit (%1$d~%2$dms)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Lange Latenzzeit (%1$d~%2$dms)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimiert für niedrige Latenz (%dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimiert für Verbindungsqualität (%dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Ausgeglichene Audio- und Verbindungsqualität (%1$d/%2$dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimiert für Audioqualität (%dkbps)</string>
-    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Beste Leistung (automatische Bitrate)</string>
-    <string name="string_float_inches">%f Zoll</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Kurze Latenzzeit (%1$d~%2$d ms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Mittlere Latenzzeit (%1$d~%2$d ms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Lange Latenzzeit (%1$d~%2$d ms)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimiert für niedrige Latenz (%d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimiert für Verbindungsqualität (%d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Ausgeglichene Audio- und Verbindungsqualität (%1$d/%2$d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimiert für Audioqualität (%d kbps)</string>
+    <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Beste Leistung (aut. Bitrate)</string>
     <string name="string_float_seconds">%f Sekunden</string>
     <string name="string_immediately">Sofort</string>
-    <string name="string_int_hour">%d Std</string>
-    <string name="string_int_hours">%d Std</string>
-    <string name="string_int_minute">%d Min</string>
-    <string name="string_int_minutes">%d Min</string>
-    <string name="string_int_second">%d Sek</string>
-    <string name="string_int_seconds">%d Sek</string>
     <string name="string_never">Nie</string>
     <string name="string_off">Aus</string>
-    <string name="string_offed">AN</string>
-    <string name="string_scale_float">Animationsskala %.1fx</string>
-    <string name="string_scale_int">Animationsskala %dx</string>
+    <string name="string_offed">Aus</string>
     <string name="string_unlimited">Unbegrenzt</string>
     <string name="strong_suppression_summary">Ihr Gerät reagiert weniger auf zufällige Berührungen, einige Gestensteuerungen funktionieren evtl. nicht an den Kanten</string>
     <string name="strong_suppression_title">Großer Bereich</string>
     <string name="structure_add_facerecoginition_text">3D-Gesichtsdaten hinzufügen</string>
     <string name="structure_face_data_delete_fail">3D-Gesichtsdaten löschen fehlgeschlagen. Erneut versuchen.</string>
-    <string name="structure_face_data_input_down">Kopf senken</string>
+    <string name="structure_face_data_input_down">Senken Sie den Kopf</string>
     <string name="structure_face_data_input_error_away_screen">Telefon etwas weiter vom Gesicht entfernt halten</string>
     <string name="structure_face_data_input_error_expose_features">Einige Teile Ihres Gesichts sind nicht sichtbar</string>
     <string name="structure_face_data_input_error_keep_inface">Gesicht innerhalb des Rahmens halten</string>
@@ -8314,20 +8232,20 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="structure_face_data_input_timeout_title">Erneut versuchen</string>
     <string name="structure_face_data_input_up">Nach oben schauen</string>
     <string name="structure_face_data_introduction_back">Zurück</string>
-    <string name="structure_face_data_introduction_msg">Mit 3D-Gesichtsdaten können Sie Ihr Gerät entsperren und Ihre Identität verifizieren. Sie müssen ein Passwort festlegen, bevor Sie diese Funktion nutzen können.</string>
+    <string name="structure_face_data_introduction_msg">Mit 3D-Gesichtsdaten können Sie Ihr Gerät entsperren und Ihre Identität verifizieren. Sie müssen ein Passwort festlegen, bevor Sie diese Funktion nutzen.</string>
     <string name="structure_face_data_introduction_title">3D-Gesichtsdaten hinzufügen</string>
     <string name="structure_face_data_ir_input_face">Kopf leicht bewegen</string>
     <string name="structure_face_data_manage_delete_msg">3D-Gesichtsdaten löschen</string>
     <string name="structure_face_data_suggestion_text">Alle Teile Ihres Gesichts müssen deutlich sichtbar sein. Tragen Sie während der Aufnahme von 3D-Gesichtsdaten keine Hüte, Sonnenbrillen oder andere Accessoires, die Ihr Gesicht verdecken könnten. Ihr Gesicht muss gleichmäßig beleuchtet sein.</string>
-    <string name="structure_face_data_suggestion_warning_text">Hinweis: Die Verwendung von 3D-Gesichtsdaten ist etwas weniger sicher als ein Passwort. Personen oder Objekte, die Ihnen sehr ähnlich sehen, könnten Ihr Gerät eventuell entsperren.</string>
+    <string name="structure_face_data_suggestion_warning_text">Hinweis: Verwendung von 3D-Gesichtsdaten ist etwas weniger sicher als ein Passwort. Personen oder Objekte, die Ihnen sehr ähnlich sehen, könnten Ihr Gerät evtl. entsperren.</string>
     <string name="structure_face_delete_data_dialog_msg">Kamera starten und Vorschau anzeigen fehlgeschlagen. Erneut versuchen.</string>
     <string name="structure_face_delete_data_dialog_msg_retry">Erneut versuchen</string>
     <string name="structure_face_delete_data_dialog_title">Kamera starten fehlgeschlagen</string>
-    <string name="structure_face_enroll_not_able_low_electric_itle">Funktion kann nicht verwendet werden, da der Akkustand niedrig ist</string>
-    <string name="structure_face_enroll_not_able_low_electric_msg">Akku muss mindestens 5% geladen sein, um mit der Aufnahme anzufangen.</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">Funktion kann wegem zu schwachem Akku nicht verwendet werden</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">Akku muss mind. 5% geladen sein, um mit der Aufnahme zu beginnen.</string>
     <string name="structure_face_hardware_abnormal_btn">Verstanden</string>
-    <string name="structure_face_hardware_abnormal_msg">Ein Hardware-Fehler ist aufgetreten. Starten Sie Ihr Gerät neu. Wenn das nicht hilft, rufen Sie 400-100-5678 an, um Hilfe zu erhalten.</string>
-    <string name="structure_face_hardware_abnormal_title">Hardware-Fehler</string>
+    <string name="structure_face_hardware_abnormal_msg">Ein Hardwarefehler ist aufgetreten. Starten Sie Ihr Gerät neu. Wenn das nicht hilft, rufen Sie 400-100-5678 an, um Hilfe zu erhalten.</string>
+    <string name="structure_face_hardware_abnormal_title">Hardwarefehler</string>
     <string name="structure_face_modules_abnormal_btn">Neu starten</string>
     <string name="structure_face_modules_abnormal_msg">Aufnehmen von Gesichtsdaten wegen eines Fehlers im Optikmodul fehlgeschlagen. Gerät neu starten und erneut versuchen.</string>
     <string name="structure_face_modules_abnormal_title">Fehler Optikmodul</string>
@@ -8340,7 +8258,7 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="structure_face_unlock_model_other">Andere</string>
     <string name="structure_face_unlock_model_other_msg_2d">2D-Erkennung</string>
     <string name="structure_face_unlock_model_other_msg_3d">3D-Erkennung</string>
-    <string name="structure_face_unlock_model_other_suggestion_2d">2D-Gesichtserkennung ist weniger sicher als ein Muster, eine PIN oder ein Passwort. Wenn diese Funktion eingeschaltet ist, wird Ihr Gerät eventuell durch Ihr Foto sowie durch Personen oder Objekte, die Ihnen ähnlich sehen, entsperrt.</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">2D-Gesichtserkennung ist weniger sicher als ein Muster, eine PIN oder ein Passwort. Wenn diese Funktion eingeschaltet ist, wird Ihr Gerät evtl. durch Ihr Foto sowie durch Personen oder Objekte, die Ihnen ähnlich sehen, entsperrt.</string>
     <string name="structure_face_unlock_model_other_suggestion_3d">3D-Gesichtserkennung ist relativ sicher. Es ist sehr unwahrscheinlich, dass Ihr Gerät mit Ihrem Foto entsperrt werden kann, wenn diese Funktion eingeschaltet ist. Es könnte jedoch von Personen oder Objekten, die wie Sie aussehen, entsperrt werden.</string>
     <string name="structure_face_unlock_model_other_title">Gesichtserkennung</string>
     <string name="structure_face_unlock_not_same_person">Sie müssen alle Schritte selbst durchführen. Tauschen Sie mit niemandem den Platz.</string>
@@ -8916,7 +8834,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="trans_intro_desc_5">Speicher auf alten Geräten wird für die Erstellung von Transferpaketen genutzt. Prüfen Sie, ob mind. 500 MB - 1 GB freier Speicher auf Ihrem alten Telefon ist, bevor Sie mit einer Übertragung beginnen.</string>
     <string name="trans_intro_desc_6">Es gibt mehrere Gründe, warum das passieren kann: Kompatibilitätsprobleme mit System- und App-Versionen, Netzwerkprobleme, Kompatibilitätsprobleme speziell für ein bestimmtes Gerät etc.</string>
     <string name="trans_intro_desc_7">Einige App-Profile (E-Banking, Finanzen etc.) sind aus Sicherheitsgründen mit einem bestimmten Gerät verbunden. Versuchen Sie, die App-Daten zu löschen oder die App auf einem neuen Gerät neu zu installieren.</string>
-    <string name="trans_intro_desc_8">WeChat-App-Daten und Chatverlauf werden eventuell nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
+    <string name="trans_intro_desc_8">WeChat-App-Daten und Chatverlauf werden evtl. nicht vollständig mit Mi Mover übertragen. Gehen Sie zu den WeChat-Einstellungen und melden Sie sich von Ihrem Konto ab, um mehr Chancen für eine erfolgreiche Übertragung zu erhalten.</string>
     <string name="trans_intro_desc_9_method_1_dec">Gehen Sie zur Startseite &gt; Tools &gt; Feedback</string>
     <string name="trans_intro_desc_9_method_1_title">1. Teilen Sie Ihr Feedback mit der \"Feedback\"-App.</string>
     <string name="trans_intro_desc_9_method_2_dec">Senden Sie Ihr Feedback an miui-mover@xiaomi.com.</string>
@@ -9634,7 +9552,7 @@ Sie können Ihr Androidtelefon in einen mobilen WLAN-Hotspot verwandeln, um die 
     <string name="voip_assistant_settings_off">Aus</string>
     <string name="voip_assistant_settings_on">AN</string>
     <string name="voip_assistant_settings_summary">VoIP-Anrufe aufnehmen und Sprachausgabeoptimierung verwenden</string>
-    <string name="volte_5G_limited_text">Dies schaltet auch Ihre 5G-Verbindung aus.\nWährend eines Sprachanrufs können Sie das Internet nicht nutzen und einige Apps funktionieren eventuell nicht.</string>
+    <string name="volte_5G_limited_text">Dies schaltet auch Ihre 5G-Verbindung aus.\nWährend eines Sprachanrufs können Sie das Internet nicht nutzen und einige Apps funktionieren evtl. nicht.</string>
     <string name="volte_5G_limited_title">VoLTE ausschalten?</string>
     <string name="volte_provisioned_flag_off">VoLTE-Bereitstellungsflag ausschalten</string>
     <string name="volte_provisioned_flag_on">VoLTE-Bereitstellungsflag einschalten</string>
