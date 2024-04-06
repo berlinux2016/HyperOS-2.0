@@ -9096,7 +9096,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="user_new_profile_name">Neues Profil</string>
     <string name="user_new_user_name">Neuer Benutzer</string>
     <string name="user_nickname">Spitzname</string>
--    <string name="user_picture_title">Foto-ID</string>
+    <string name="user_picture_title">Foto-ID</string>
     <string name="user_profile_confirm_remove_message">Alle Apps und Daten werden gelöscht</string>
     <string name="user_profile_confirm_remove_title">Profil entfernen?</string>
     <string name="user_remove_user">Benutzer entfernen</string>
