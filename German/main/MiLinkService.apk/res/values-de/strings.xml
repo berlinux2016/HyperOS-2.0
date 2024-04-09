@@ -285,7 +285,7 @@
     <string name="close_auxiliary_wifi_hint">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um zu übertragen</string>
     <string name="close_auxiliary_wifi_hint_china">\"Dualband-WLAN Geschwindigkeitssteigerung\" ausschalten, um zu übertragen</string>
     <string name="close_dp_casting_hint">Kabel trennen und erneut versuchen</string>
-    <string name="close_hotspot_hint">Tragbaren Hotspot vor dem Casting ausschalten</string>
+    <string name="close_hotspot_hint">Mobilen Hotspot vor dem Casting ausschalten</string>
     <string name="close_hotspot_hint_DFS">Um Elemente auf einen TV zu übertragen, schalten Sie erst den Hotspot aus.</string>
     <string name="close_invisible_mode_dialog_cancel">Abbrechen</string>
     <string name="close_invisible_mode_dialog_message">Mi Smart Play kann jetzt nicht verwendet werden. Inkognito-Modus in den Einstellungen ausschalten, um diese Funktion zu verwenden.</string>

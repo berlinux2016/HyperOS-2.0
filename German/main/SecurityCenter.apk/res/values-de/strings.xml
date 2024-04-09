@@ -3974,7 +3974,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_optimize_close_gps">Standortdienste ausschalten</string>
     <string name="power_optimize_close_haptic_feedback">Haptisches Feedback ausschalten</string>
     <string name="power_optimize_close_wake_notification">Bei Benachrichtigungen Bildschirm nicht aufwecken</string>
-    <string name="power_optimize_close_wlan">Tragbaren Hotspot ausschalten</string>
+    <string name="power_optimize_close_wlan">Mobilen Hotspot ausschalten</string>
     <string name="power_optimize_close_wlan_summary">Strom sparen, wenn keine Geräte angeschlossen sind</string>
     <string name="power_optimize_darkmode">In den Dark Mode wechseln</string>
     <string name="power_optimize_darkmode_dialog_confirm">Einschalten</string>
