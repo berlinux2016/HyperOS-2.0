@@ -652,7 +652,7 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="radio_info_data_disconnected">Getrennt</string>
     <string name="radio_info_data_network_type_label">Datennetzwerktyp:</string>
     <string name="radio_info_data_suspended">Ausgesetzt</string>
-    <string name="radio_info_entry">Mobilnetzinfo</string>
+    <string name="radio_info_entry">Mobilfunknetzinfo</string>
     <string name="radio_info_gprs_service_label">Datenservice:</string>
     <string name="radio_info_gsm_service_label">Sprachservice:</string>
     <string name="radio_info_neighboring_location_label">Nachbarzelleninfo:</string>

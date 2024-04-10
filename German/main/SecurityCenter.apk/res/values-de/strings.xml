@@ -5498,7 +5498,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="tc_sms_report_notify_correction_body">Zur Datennutzungs-App im Sicherheitscenter gehen und erneut manuell versuchen</string>
     <string name="tc_sms_report_notify_correction_business_hall">Neu kalibrieren in Anbieterdienste</string>
     <string name="tc_sms_report_notify_correction_failure_title">Datennutzungsinfo wurde nicht aktualisiert</string>
-    <string name="tc_sms_report_notify_get_failure_body">Datennutzungsreport wurde nicht übermittelt. Sie müssen mit dem Mobilnetz verbunden sein.</string>
+    <string name="tc_sms_report_notify_get_failure_body">Datennutzungsreport wurde nicht übermittelt. Sie müssen mit dem Mobilfunknetz verbunden sein.</string>
     <string name="tc_sms_report_notify_get_failure_title">Datennutzungs-SMS anfordern fehlgeschlagen</string>
     <string name="tc_sms_report_notify_get_timeout_body">Zeitüberschreitung. Vergewissern Sie sich bei Ihrem Anbieter, dass der eingegebene SMS-Abfragecode korrekt ist.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Datennutzungs-SMS anfordern fehlgeschlagen</string>
