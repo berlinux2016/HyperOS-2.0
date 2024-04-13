@@ -185,7 +185,12 @@
     <string name="columbus_player_speed_title">Video überspringen?</string>
     <string name="columbus_player_speed_video">VIDEO überspringen</string>
     <string name="columbus_player_unit_sec">Sek</string>
+    <string name="columbus_reward_style_access">Mehr erfahren</string>
+    <string name="columbus_reward_style_close_cancel">Beenden</string>
+    <string name="columbus_reward_style_close_desc">Sehen Sie sich das Video zu Ende an, um eine Prämie zu erhalten. Weiterschauen?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortfahren</string>
     <string name="columbus_skip_ad">Überspringen</string>
+    <string name="columbus_skip_ad_time">Überspringen (%d)</string>
     <string name="common_google_play_services_enable_button">Aktivieren</string>
     <string name="common_google_play_services_enable_text">%1$s wird nur laufen, wenn Sie Google Play-Dienste aktivieren.</string>
     <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>

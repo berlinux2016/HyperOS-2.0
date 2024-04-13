@@ -227,7 +227,7 @@ Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautspreche
     <string name="cit_digital_hall_sensor_cali_summary">Zur Kalibrierung bitte das Gerät geschlossen halten</string>
     <string name="cit_digital_hall_sensor_cali_title">Digitaler Hall-Kalibrierungstest</string>
     <string name="cit_digital_hall_sensor_check_summary">Winkelwert wird unten angezeigt</string>
-    <string name="cit_digital_hall_sensor_check_title">Digitaler Hall-Test</string>
+    <string name="cit_digital_hall_sensor_check_title">Erkennung von Öffnen und Schließen</string>
     <string name="cit_display_check_summary">Die Farben müssen über den gesamten Bildschirm gleichmäßig dargestellt werden. Es darf keine unregelmäßigen hellen und dunklen Flecken geben.</string>
     <string name="cit_display_check_title">Anzeige</string>
     <string name="cit_display_continue">Bildschirm berühren, um den Test zu starten</string>

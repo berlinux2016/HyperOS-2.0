@@ -108,6 +108,14 @@
         <item quantity="other">Alle %1$s Min</item>
         <item quantity="one">Alle %1$s Min</item>
       </plurals>
+    <plurals name="snooze_duration_minute">
+        <item quantity="other">Alle %1$d Min</item>
+        <item quantity="one">Alle %1$d Min</item>
+    </plurals>
+    <plurals name="snooze_duration_time">
+        <item quantity="other">%1$d-mal ausschalten</item>
+        <item quantity="one">%1$d-mal ausschalten</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">%d Minuten schlummern</item>
         <item quantity="one">%d Minute schlummern</item>
