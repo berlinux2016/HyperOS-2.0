@@ -296,6 +296,9 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_headset_pull_finish">Kopfhörer wurden getrennt</string>
     <string name="cit_headset_pull_finish_test">Kopfhörer wurden getrennt, Test abgeschlossen</string>
     <string name="cit_headset_right_hph_val">Impedanzwert rechter Kanal:</string>
+    <string name="cit_high_accdata_sensor_check_summary">Die Werte für X-, Y- und Z-Koordinaten sollten unten angezeigt werden. Bitte legen Sie Ihr Telefon flach auf die Arbeitsfläche, bevor Sie den Test durchführen</string>
+    <string name="cit_high_accdata_sensor_check_title">Hoher Beschleunigungssensor</string>
+    <string name="cit_high_accdata_sensor_graph_title">Kurve hoher Beschleunigungssensor</string>
     <string name="cit_horn_motor_test">Hornmotortest</string>
     <string name="cit_hvdcp_charger_in">Laden über (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Init-Fingerabdruck-Testumgebung</string>
@@ -311,6 +314,7 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_leds_check_title">Benachrichtigungslicht (LED)</string>
     <string name="cit_light_sensor_check_summary">DAC-Wert sollte unten erscheinen, bitte testen Sie den Lichtsensor.</string>
     <string name="cit_light_sensor_check_title">Lichtsensor</string>
+    <string name="cit_lpd_test">LPD-Test</string>
     <string name="cit_macro_camera_check_title">Makrokameratest</string>
     <string name="cit_magnetic_info_hint">Bitte rotieren  Sie das Gerät in Form einer 8</string>
     <string name="cit_magnetic_sensor_check_summary">Werte für X/Y/Z-Koordinaten sollten unten stehen</string>
