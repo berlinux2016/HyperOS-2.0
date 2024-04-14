@@ -165,9 +165,9 @@
     <string name="asm_pay_order_generate">Bestellung generieren…</string>
     <string name="asm_pay_order_generate_failed">Bestellung generieren fehlgeschlagen</string>
     <string name="asm_pay_query_overtime">Zeitüberschreitung bei Anforderung Zahlungsstatus</string>
-    <string name="asm_privacy_desc">Wansheng Datenschutzerklärung</string>
-    <string name="asm_privacy_tips_content">Akzeptieren Sie die <a href="/link/click">Wansheng Datenschutzerklärung</a>, um Online-Musikdienste zu nutzen.</string>
-    <string name="asm_privacy_tips_title">Wansheng Datenschutzerklärung</string>
+    <string name="asm_privacy_desc">ASM Datenschutzerklärung</string>
+    <string name="asm_privacy_tips_content">Akzeptieren Sie die <a href="/link/click">ASM Datenschutzerklärung</a>, um Online-Musikdienste zu nutzen.</string>
+    <string name="asm_privacy_tips_title">ASM Datenschutzerklärung</string>
     <string name="asm_pro_center">Mitgliedschaft</string>
     <string name="asm_search_result_contain_music">Enthält: \"%1$s\"</string>
     <string name="asm_song_err_connect">Serververbindung fehlgeschlagen</string>
@@ -756,6 +756,21 @@
     <string name="lrc_search_failed">Songtext wurde nicht gefunden</string>
     <string name="lrc_searching">Suchen…</string>
     <string name="ludo_tab_guide">Entdecken Sie unsere neuen Musikräume</string>
+    <string name="lyric_ai_apply_fail">Verwenden nicht möglich. Erneut versuchen.</string>
+    <string name="lyric_ai_button_text">KI Songtext</string>
+    <string name="lyric_ai_dialog_one">•Sie können den Text durch Antippen erkennen, und wir geben den Text mithilfe der KI-Spracherkennungstechnologie für Sie ein.</string>
+    <string name="lyric_ai_dialog_three">•Sie können den Fortschritt in der Songtext-Symbolleiste prüfen.</string>
+    <string name="lyric_ai_dialog_two">•Erkennung wird ein paar Minuten dauern. Sobald sie abgeschlossen ist, wird der Songtext automatisch eingefügt.</string>
+    <string name="lyric_ai_identify_success">Songtext erfolgreich erkannt</string>
+    <string name="lyric_ai_song">Aktueller Titel</string>
+    <string name="lyric_ai_song_list">Titel</string>
+    <string name="lyric_ai_state_apply">Songtext verwenden</string>
+    <string name="lyric_ai_state_default">Titel nicht erkannt</string>
+    <string name="lyric_ai_state_fail">Songtext nicht erkannt</string>
+    <string name="lyric_ai_state_identify">Erkennen</string>
+    <string name="lyric_ai_state_identifying">Einen Momen…</string>
+    <string name="lyric_ai_state_use">Verwenden</string>
+    <string name="lyric_ai_title">KI Songtexterkennung</string>
     <string name="lyric_is_empty">Keine Songtexte verfügbar</string>
     <string name="lyric_label">Songtexte</string>
     <string name="lyric_open_other_connect">Songtexte über mobile Datenverbindung herunterladen</string>
@@ -1273,7 +1288,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">Erfolgreich geladen</string>
     <string name="pulluprefreshrecyclerview_loading_running">Laden…</string>
     <string name="queue_is_empty">Warteschlange ist leer</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Lesen und akzeptieren Sie die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Datenschutzerklärung&lt;/a>&lt;/font>, um Online-Musikdienste zu nutzen.</string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Lesen und akzeptieren Sie die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Datenschutzerklärung&lt;/a>&lt;/font>, um Online-Musikdienste zu nutzen.</string>
     <string name="read_and_agree_hungama_protocol">&lt;Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
     <string name="read_and_agree_mi_protocol">&lt;Data>Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>

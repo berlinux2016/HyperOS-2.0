@@ -3786,10 +3786,10 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gxzw_anim_title">Fingerabdruck-\nanimation</string>
     <string name="gxzw_aod_show_summary">Heben Sie das Gerät an oder tippen Sie auf den Bildschirm, damit das Fingerabdrucksymbol erscheint. Diese Funktion erhöht den Stromverbrauch des Systems, gestattet es Ihnen aber, das Gerät schneller zu entsperren.</string>
     <string name="gxzw_aod_show_tittle">Fingerabdrucksymbol bei Bildschirm aus anzeigen</string>
-    <string name="gxzw_dialog_message">Um den Bildschirm-Fingerabdrucksensor normal zu verwenden, verwenden Sie keine Schutzfolie. Wenn Sie der Meinung sind, dass eine Schutzfolie immer noch notwendig ist, wählen Sie unter den autorisierten kompatiblen Optionen.</string>
+    <string name="gxzw_dialog_message">Bildschirmschutzfolien können die Fingerabdruckerkennung des Bildschirms beeinträchtigen. Wir empfehlen die Verwendung einer offiziellen Xiaomi-Folie, wenn Sie einen Bildschirmschutz benötigen.</string>
     <string name="gxzw_dialog_not_show_again">Nicht mehr anzeigen</string>
     <string name="gxzw_dialog_ok">Verstanden</string>
-    <string name="gxzw_dialog_title">Über Bildschirm-Fingerabdrucksensor</string>
+    <string name="gxzw_dialog_title">Tipp für den Bildschirmschutz</string>
     <string name="gxzw_enroll_again">Heben Sie Ihren Finger an und drücken Sie den Fingerabdruckscanner erneut</string>
     <string name="gxzw_lowlight_open_summary">Verringern Sie die Helligkeit des Fingerabdrucksymbols bei schlechten Lichtverhältnissen. Ihr Gerät entsperrt sich evtl. langsamer, wenn diese Funktion eingeschaltet ist.</string>
     <string name="gxzw_lowlight_open_title">Fingerabdrucksperre bei schwachem Licht</string>
@@ -4819,9 +4819,13 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="low_label">Gering</string>
     <string name="low_storage_summary">Geringer Speicherplatz. %1$s belegt - %2$s frei.</string>
     <string name="lyra_account_ap_summary">Tablets und Computer in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, dürfen den Hotspot auf diesem Gerät einschalten und sich mit ihm verbinden</string>
+    <string name="lyra_account_ap_summary_v2">Erlauben Sie an Ihrem Xiaomi-Konto angemeldeten Tablets und Computern in der Nähe, die mobilen Daten dieses Geräts zu nutzen und den Hotspot auf diesem Gerät einzuschalten und sich damit zu verbinden</string>
     <string name="lyra_account_ap_title">Netzwerkunterstützung</string>
+    <string name="lyra_account_ap_title_v2">Geteilte Konnektivität</string>
     <string name="lyra_auto_connect_summary">Hotspot automatisch einschalten und Geräte in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, damit verbinden, wenn sie nicht mit dem Netzwerk verbunden sind</string>
+    <string name="lyra_auto_connect_summary_v2">Hotspot automatisch einschalten und an Ihrem Xiaomi-Konto angemeldete Geräte in der Nähe mit ihm verbinden, wenn sie keine Netzwerkverbindung haben, und ihnen erlauben, die mobilen Daten dieses Geräts zu nutzen</string>
     <string name="lyra_auto_connect_title">Hotspot automatisch einschalten</string>
+    <string name="lyra_auto_connect_title_v2">Automatisch teilen</string>
     <string name="macaddr_label">MAC-Adresse:</string>
     <string name="magic_list_empty_text_pad">Keine Apps gefunden, die parallele Fenster unterstützen</string>
     <string name="magic_window_name_pad">Parallele Fenster</string>
@@ -9413,6 +9417,8 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifi_ap_choose_dual">Beide</string>
     <string name="wifi_ap_choose_vendor_dual_band">Dualband</string>
     <string name="wifi_ap_hidden_ssid">SSID ausblenden</string>
+    <string name="wifi_ap_prefer_5G">5.0 GHz Band bevorzugt</string>
+    <string name="wifi_ap_prefer_6G">6.0 GHz Band bevorzugt</string>
     <string name="wifi_ap_ssid_off">Aus</string>
     <string name="wifi_ap_ssid_on">An</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Zugangspunkt temporär voll</string>

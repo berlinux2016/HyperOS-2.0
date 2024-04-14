@@ -427,7 +427,9 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="gallery_wallpaper">Hintergrund-Karussell</string>
+    <string name="gallery_wallpaper">Hintergrundkarussell</string>
+    <string name="gallery_wallpaper_history">Tippen, um frühere Bilder im Hintergrundkarussell anzuzeigen</string>
+    <string name="gallery_wallpaper_history_go">Anzeigen</string>
     <string name="gallery_wallpaper_theme">Must Have-Hintergründe</string>
     <string name="gift_share">Teilen</string>
     <string name="goto_purchased_list">Kaufhistorie anzeigen</string>
@@ -543,6 +545,7 @@
     <string name="local_photos">Lokale Fotos</string>
     <string name="local_resouce_creator_name">Entwickler: %1$s</string>
     <string name="lock_screen_apply">Als Sperrbildschirm festlegen</string>
+    <string name="lock_screen_card_title">Künstlerischer Sperrbildschirm</string>
     <string name="lock_screen_keyguard_guide_popup">Entdecken Sie die brandneuen, personalisierten Funktionen und Designs des Sperrbildschirms</string>
     <string name="lock_screen_keyguard_tip_title">Brandneuer personalisierter Sperrbildschirm</string>
     <string name="lockscreen_apply_failured">Sperrbildschirmhintergrund wurde nicht angewendet</string>
@@ -1561,6 +1564,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="wallpaper_download_incall_show">Video herunterladen</string>
     <string name="wallpaper_dynamic">Dynamisch</string>
     <string name="wallpaper_group_set_loop">Sperrbildschirm-Diashow mit ähnlichen Bildern</string>
+    <string name="wallpaper_history">Hintergrundverlauf</string>
     <string name="wallpaper_light_mode_image_preview_tip">Light Modus-Vorschau</string>
     <string name="wallpaper_loop_add_success">Erfolgreich hinzugefügt</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Zur Startbildschirm-Diashow hinzufügen</string>

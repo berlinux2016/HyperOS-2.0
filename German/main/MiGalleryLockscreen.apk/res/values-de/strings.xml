@@ -265,6 +265,12 @@
     <string name="later">Nicht ausschalten</string>
     <string name="launch_bg_permission_exception">Hintergrundkarussell in Sicherheit erlauben, Popups anzuzeigen, während es im Hintergrund läuft</string>
     <string name="left_lks_detail_entrance">Mehr anzeigen</string>
+    <string name="left_lks_download_now">Herunterladen</string>
+    <string name="left_lks_reverse">Vorbestellung</string>
+    <string name="left_lks_view">Anzeigen</string>
+    <string name="left_xout_frequently">Wird zu oft angezeigt</string>
+    <string name="left_xout_low_quality">Werbung ist von geringer Qualität</string>
+    <string name="left_xout_title">Sagen Sie uns, warum Sie diese Werbung nicht sehen wollen</string>
     <string name="like">Zu Favoriten hinzufügen</string>
     <string name="liked">Zu Favoriten hinzugefügt</string>
     <string name="lks_cta_dont_mention">Nicht mehr anzeigen</string>

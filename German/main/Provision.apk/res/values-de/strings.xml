@@ -178,71 +178,70 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
     <string name="input_method_category">Standardtastatur wählen, die Sie zum Schreiben von Nachrichten, Notizen und fast allem anderen verwenden. Beachten Sie, dass Sie später auch andere Drittanbieter-Tastaturen installieren können.</string>
     <string name="input_method_setting">Tastatur wählen</string>
     <string name="install_preinstall_app">Apps laden…</string>
-    <string name="interconnection_communication_introduction">Mit Xiaomi Internet Kommunikationsdienste können Sie andere Xiaomi-Geräte entdecken, verbinden und mit ihnen kommunizieren.</string>
+    <string name="interconnection_communication_introduction">Durch Xiaomi Internetkommunikationsdienste können Sie andere Xiaomi-Geräte entdecken, verbinden und mit ihnen kommunizieren.</string>
     <string name="interconnection_service_global_item_title">Xiaomi Interkonnektivität</string>
-    <string name="interconnection_service_global_label">&lt;Data>Xiaomi Interkonnektivität ermöglicht Ihren Geräten, drahtlos miteinander zu interagieren. Indem Sie diesen Schalter aktivieren, erklären Sie sich mit der Xiaomi Interkonnektivität &lt;a href=%1$s>Datenschutzerklärung&lt;/a> einverstanden.&lt;/Data></string>
-    <string name="interconnection_service_summary_china">"Xiaomi Interkonnektivitätsdienste erlauben Ihren Geräten, drahtlos miteinander zu interagieren. Zu diesen Diensten gehören Mi Smart Play, Übertragung, App-Weitergabe, Startbildschirm+, gemeinsame Zwischenablage, geräteübergreifende Bilderfassung, Netzwerkunterstützung, gemeinsame Tastaturen und Mäuse, gemeinsame Kamera und Mi Smart Hub. Damit Xiaomi Interkonnektivitätsdienste normal funktionieren, benötigen sie eine Internetverbindung und folgende Berechtigungen:
-\u0009\u0009Mi Smart Play und Casting:
-\u0009\u0009Bluetooth ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe für die Verbindung über Bluetooth
-\u0009\u0009WLAN ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe und zur Übertragung von Elementen über WLAN
-\u0009\u0009Übertragen von Elementen auf andere Geräte
-\u0009\u0009Zum Herstellen einer Bluetooth-Verbindung zwischen Geräten und zum Übertragen von Elementen
-\u0009\u0009Standortzugriff
-\u0009\u0009Zum Zugriff auf die Daten von Geräten in der Nähe
-\u0009\u0009Internes Gerätetaudio aufnehmen
-\u0009\u0009Für die Übermittlung und Wiedergabe von Audio zwischen Geräten bei Casting und Spiegelung
-\u0009\u0009Zugriff auf Fotos, Videos und Audiodateien, gespeichert auf dem Gerät
-\u0009\u0009Zum Senden und Empfangen von übertragenen Inhalten
-\u0009\u0009Zugriff auf Geräte-MAC-Adresse
-\u0009\u0009Zur Erkennung verbundener Geräte
-\u0009\u0009Zugriff auf Bildschirminhalt
-\u0009\u0009Zum Zugriff auf Bildschirminhalte während der Aufnahme oder Casting, inkl. sensibler Daten wie Audio, Passwörter, Zahlungspasswörter, Fotos, Nachrichten etc.
-\u0009\u0009App-Übergabe und Startbildschirm+:
-\u0009\u0009Bluetooth ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe über Bluetooth
-\u0009\u0009WLAN ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe und zur Übertragung von Elementen über WLAN
-\u0009\u0009Zugriff auf Geräte-MAC-Adresse
-\u0009\u0009Zur Erkennung verbundener Geräte
-\u0009\u0009Zugriff auf Fotos, Videos und Audiodateien, gespeichert auf dem Gerät
-\u0009\u0009Zum Senden und Empfangen von übertragenen Inhalten
-\u0009\u0009Übertragen von Elementen auf andere Geräte
-\u0009\u0009Zum Herstellen einer Bluetooth-Verbindung zwischen Geräten und zum Übertragen von Elementen
-\u0009\u0009Internes Gerätetaudio aufnehmen
-\u0009\u0009Für die Übermittlung und Wiedergabe von Audio zwischen Geräten bei Casting und Spiegelung
-\u0009\u0009Zugriff auf Bildschirminhalt
-\u0009\u0009Zum Zugriff auf Bildschirminhalte während der Aufnahme oder Casting, inkl. sensibler Daten wie Audio, Passwörter, Zahlungspasswörter, Fotos, Nachrichten etc.
-\u0009\u0009Gemeinsame Zwischenablage und geräteübergreifende Bilderfassung:
-\u0009\u0009Bluetooth ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe über Bluetooth
-\u0009\u0009WLAN ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe und zur Übertragung von Elementen über WLAN
-\u0009\u0009Zugriff auf Fotos, Videos und Audiodateien, gespeichert auf dem Gerät
-\u0009\u0009Zum Senden und Empfangen von übertragenen Inhalten
-\u0009\u0009Zugriff auf Zwischenablage
-\u0009\u0009Um Apps den Zugriff auf kopierte Inhalte zu erlauben
-\u0009\u0009Netzwerkunterstützung, gemeinsam genutzte Tastaturen und Mäuse sowie eine gemeinsame Kamera:
-\u0009\u0009Bluetooth ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe über Bluetooth
-\u0009\u0009WLAN ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe und zur Übertragung von Elementen über WLAN
-\u0009\u0009Zugriff auf Fotos, Videos und Audiodateien, gespeichert auf dem Gerät
-\u0009\u0009Zum Senden und Empfangen von übertragenen Inhalten
-\u0009\u0009Kamerazugriff
-\u0009\u0009Zum Fotografieren und Aufnehmen von Videos
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Bluetooth ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe über Bluetooth
-\u0009\u0009WLAN ein- oder ausschalten
-\u0009\u0009Zur Erkennung von Geräten in der Nähe und zur Übertragung von Elementen über WLAN
-\u0009\u0009Internes Gerätetaudio aufnehmen
-\u0009\u0009Für die Übermittlung und Wiedergabe von Audio zwischen Geräten bei Casting und Spiegelung
-\u0009\u0009Zugriff auf Fotos, Videos und Audiodateien, gespeichert auf dem Gerät
-\u0009\u0009Zum Senden und Empfangen von übertragenen Inhalten
-Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie diese Dienste nicht nutzen.
-Die verfügbaren Interkonnektivitätsdienste können sich je nach Systemversion und Gerätemodell unterscheiden. Weitere Informationen finden Sie unter %s."</string>
+    <string name="interconnection_service_global_label">&lt;Data>Durch Xiaomi Interkonnektivität können Ihren Geräte drahtlos miteinander interagieren. Indem Sie diesen Schalter aktivieren, akzeptieren Sie die Xiaomi Interkonnektivität &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.&lt;/Data></string>
+    <string name="interconnection_service_summary_china">Durch Xiaomi Interkonnektivitätsdienste können Ihre Geräte drahtlos miteinander interagieren. %1$s Die verfügbaren Interkonnektivitätsdienste können je nach Systemversion und Gerätemodell variieren. Weitere Informationen finden Sie unter %2$s.</string>
+    <string name="interconnection_service_summary_china_fragment1">Zu diesen Diensten gehören Mi Smart Play, Casting, App-Weitergabe, Startbildschirm+, gemeinsame Zwischenablage, drahtloses Tethering (inkl. Netzwerksynchr.), geräteübergreifende Steuerung, geräteübergreifende Kamera und Mi Smart Hub. Damit Xiaomi Interkonnektivitätsdienste normal funktionieren, benötigen sie eine Internetverbindung und folgende Berechtigungen:</string>
+    <string name="interconnection_service_summary_china_fragment10">Zum Zugriff auf Daten von Geräten in der Nähe</string>
+    <string name="interconnection_service_summary_china_fragment11">Internes Geräteaudio aufnehmen</string>
+    <string name="interconnection_service_summary_china_fragment12">Zum Übertragen und Wiedergeben von Audio zwischen Geräten bei Casting und Spiegelung</string>
+    <string name="interconnection_service_summary_china_fragment13">Zugriff auf Fotos, Videos und Audio, gespeichert auf dem Gerät</string>
+    <string name="interconnection_service_summary_china_fragment14">Zum Senden und Empfangen von übertragenen Inhalten</string>
+    <string name="interconnection_service_summary_china_fragment15">Zugriff auf Geräte-MAC-Adresse</string>
+    <string name="interconnection_service_summary_china_fragment16">Zum Erkennen verbundener Geräte</string>
+    <string name="interconnection_service_summary_china_fragment17">Zugriff auf Bildschirminhalt</string>
+    <string name="interconnection_service_summary_china_fragment18">Zum Zugriff auf Bildschirminhalte während Aufnahme oder Casting, inkl. sensibler Daten wie Audio, Passwörter, Zahlungspasswörter, Fotos, Nachrichten etc.</string>
+    <string name="interconnection_service_summary_china_fragment19">App-Übergabe und Startbildschirm+:</string>
+    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play und Casting:</string>
+    <string name="interconnection_service_summary_china_fragment20">Bluetooth ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment21">Zum Erkennen von Geräten in der Nähe für die Verbindung über Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment22">WLAN ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment23">Zum Erkennen von Geräten in der Nähe und Übertragen von Elementen über WLAN</string>
+    <string name="interconnection_service_summary_china_fragment24">Zugriff auf Geräte-MAC-Adresse</string>
+    <string name="interconnection_service_summary_china_fragment25">Zum Erkennen verbundener Geräte</string>
+    <string name="interconnection_service_summary_china_fragment26">Zugriff auf Fotos, Videos und Audio, gespeichert auf dem Gerät</string>
+    <string name="interconnection_service_summary_china_fragment27">Zum Senden und Empfangen von übertragenen Inhalten</string>
+    <string name="interconnection_service_summary_china_fragment28">Elemente auf andere Geräte übertragen</string>
+    <string name="interconnection_service_summary_china_fragment29">Zum Herstellen einer Bluetooth-Verbindung zwischen Geräten und Übertragen von Elementen</string>
+    <string name="interconnection_service_summary_china_fragment3">Bluetooth ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment30">Internes Geräteaudio aufnehmen</string>
+    <string name="interconnection_service_summary_china_fragment31">Zum Übertragen und Wiedergeben von Audio zwischen Geräten bei Casting und Spiegelung</string>
+    <string name="interconnection_service_summary_china_fragment32">Zugriff auf Bildschirminhalt</string>
+    <string name="interconnection_service_summary_china_fragment33">Zum Zugriff auf Bildschirminhalte während Aufnahme oder Casting, inkl. sensibler Daten wie Audio, Passwörter, Zahlungspasswörter, Fotos, Nachrichten etc.</string>
+    <string name="interconnection_service_summary_china_fragment34">Gemeinsame Zwischenablage:</string>
+    <string name="interconnection_service_summary_china_fragment35">Bluetooth ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment36">Zum Erkennen von Geräten in der Nähe für die Verbindung über Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment37">WLAN ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment38">Zum Erkennen von Geräten in der Nähe und Übertragen von Elementen über WLAN</string>
+    <string name="interconnection_service_summary_china_fragment39">Zugriff auf Fotos, Videos und Audio, gespeichert auf dem Gerät</string>
+    <string name="interconnection_service_summary_china_fragment4">Zum Erkennen von Geräten in der Nähe für die Verbindung über Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment40">Zum Senden und Empfangen von übertragenen Inhalten</string>
+    <string name="interconnection_service_summary_china_fragment41">Zugriff auf Zwischenablage</string>
+    <string name="interconnection_service_summary_china_fragment42">Um Apps den Zugriff auf kopierte Inhalte zu erlauben</string>
+    <string name="interconnection_service_summary_china_fragment43">Drahtloses Tethering (inkl. Netzwerksynchr.), geräteübergreifende Steuerung/Kamera:</string>
+    <string name="interconnection_service_summary_china_fragment44">Bluetooth ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment45">Zum Erkennen von Geräten in der Nähe für die Verbindung über Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment46">WLAN ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment47">Zum Erkennen von Geräten in der Nähe und Übertragen von Elementen über WLAN</string>
+    <string name="interconnection_service_summary_china_fragment48">Zugriff auf Fotos, Videos und Audio, gespeichert auf dem Gerät</string>
+    <string name="interconnection_service_summary_china_fragment49">Zum Senden und Empfangen von übertragenen Inhalten</string>
+    <string name="interconnection_service_summary_china_fragment5">WLAN ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment50">Kamerazugriff</string>
+    <string name="interconnection_service_summary_china_fragment51">Zum Fotografieren und Aufnehmen von Videos</string>
+    <string name="interconnection_service_summary_china_fragment53">Bluetooth ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment54">Zum Erkennen von Geräten in der Nähe für die Verbindung über Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment55">WLAN ein- oder ausschalten</string>
+    <string name="interconnection_service_summary_china_fragment56">Zum Erkennen von Geräten in der Nähe und Übertragen von Elementen über WLAN</string>
+    <string name="interconnection_service_summary_china_fragment57">Internes Geräteaudio aufnehmen</string>
+    <string name="interconnection_service_summary_china_fragment58">Zum Übertragen und Wiedergeben von Audio zwischen Geräten bei Casting und Spiegelung</string>
+    <string name="interconnection_service_summary_china_fragment59">Zugriff auf Fotos, Videos und Audio, gespeichert auf dem Gerät</string>
+    <string name="interconnection_service_summary_china_fragment6">Zum Erkennen von Geräten in der Nähe und Übertragen von Elementen über WLAN</string>
+    <string name="interconnection_service_summary_china_fragment60">Zum Senden und Empfangen von übertragenen Inhalten</string>
+    <string name="interconnection_service_summary_china_fragment61">Wenn Sie diesen Berechtigungen nicht zustimmen, können Sie diese Dienste nicht nutzen.</string>
+    <string name="interconnection_service_summary_china_fragment7">Elemente auf andere Geräte übertragen</string>
+    <string name="interconnection_service_summary_china_fragment8">Zum Herstellen einer Bluetooth-Verbindung zwischen Geräten und Übertragen von Elementen</string>
+    <string name="interconnection_service_summary_china_fragment9">Standortzugriff</string>
     <string name="interconnection_service_summary_global">Die Funktionen von Xiaomi Interkonnektivität können je nach Gerätemodell und Systemversion variieren. Besuchen Sie die offizielle System-Webseite, um mehr zu erfahren.</string>
     <string name="interconnection_service_title">Xiaomi Interkonnektivitätsdienste</string>
     <string name="item_contents_wwarning">Wenn Ihr Gerät verloren geht, können Sie nicht verhindern, dass andere Personen es verwenden und auf Ihre Daten zugreifen, es sei denn, Sie setzen eine Bildschirmsperre. Trotzdem überspringen?</string>
@@ -365,7 +364,7 @@ Die verfügbaren Interkonnektivitätsdienste können sich je nach Systemversion 
     <string name="other_settings_auto_update">Automatische Systemupdates</string>
     <string name="other_settings_auto_update_summary">Das System wählt den besten Zeitpunkt für den Download und die Installation von Updates aus. Ihr Gerät wird automatisch neu gestartet, um die Änderungen anzuwenden.</string>
     <string name="other_settings_auto_update_summary_v1">Dem System erlauben, den besten Zeitpunkt für den Download und die Installation von Updates zu wählen. Ihr Gerät wird automatisch neu gestartet, um die Änderungen anzuwenden.</string>
-    <string name="other_settings_enhanced_lockscreen">Hintergrund-Karussell</string>
+    <string name="other_settings_enhanced_lockscreen">Hintergrundkarussell</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Datenschutzerklärung</string>
     <string name="other_settings_enhanced_lockscreen_summary">Lassen Sie sich täglich kuratierte Bilder und Geschichten auf Ihrem Sperrbildschirm anzeigen. %1$s und %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Endbenutzer-Lizenzvereinbarung</string>
@@ -561,7 +560,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="service_agreement">Ich habe die Allgemeinen Geschäftsbedingungen gelesen und akzeptiert.</string>
     <string name="service_company_adjust_content">Xunlei Network Services Nutzervereinbarung</string>
     <string name="service_fast_pairing_policy"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Mi Link Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
-    <string name="service_interconnection_communication">Xiaomi Internet Kommunikationsdienste</string>
+    <string name="service_interconnection_communication">Xiaomi Internetkommunikationsdienste</string>
     <string name="service_location_share_policy"><Data>Lesen und akzeptieren Sie die &lt;a href=%1$s>Standortdienste Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="service_mi_account">Xiaomi-Konto</string>
     <string name="service_name_address_dialing">Kontakte und Telefon</string>
@@ -659,7 +658,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="terms_of_use_label_ai_assistant">KI-Assistent</string>
     <string name="terms_of_use_label_back">Sicherungsdienst</string>
     <string name="terms_of_use_label_ble">Anbieter eines gesicherten Standorts</string>
-    <string name="terms_of_use_label_communication_service">Xiaomi Internet Kommunikationsdienste</string>
+    <string name="terms_of_use_label_communication_service">Xiaomi Internetkommunikationsdienste</string>
     <string name="terms_of_use_label_finddevice">Gerät finden</string>
     <string name="terms_of_use_label_game">Spiele</string>
     <string name="terms_of_use_label_home">Startbildschirm</string>

@@ -727,6 +727,8 @@
     <string name="pa_world_cup_widget_request_error_tip">Ein Netzwerkfehler ist aufgetreten</string>
     <string name="pa_world_cup_widget_request_retry">Erneut versuchen</string>
     <string name="pa_world_cup_widget_reserve_success_toast">Sie erhalten vor Beginn des Spiels eine Erinnerung</string>
+    <string name="passport_oauth_actionbar_title">Mi-Konto</string>
+    <string name="passport_oauth_sucess_tip">Erfolgreich autorisiert</string>
     <string name="password_toggle_content_description">Passwort anzeigen</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
     <string name="saturday">Samstag</string>

@@ -61,6 +61,10 @@
     <string name="accessibility_closed">Aus</string>
     <string name="accessibility_color">Farbe</string>
     <string name="accessibility_cv_lens_panel_on">Master‑lens-Systemsteuerung öffnen</string>
+    <string name="accessibility_cv_watermark_show_location_off">Koordinaten werden nicht angezeigt</string>
+    <string name="accessibility_cv_watermark_show_location_on">Koordinaten werden angezeigt</string>
+    <string name="accessibility_cv_watermark_show_time_off">Zeitstempel ist aus</string>
+    <string name="accessibility_cv_watermark_show_time_on">Zeitstempel ist an</string>
     <string name="accessibility_date">Datum</string>
     <string name="accessibility_delay_capture_10s_button">Timer auf 10 Sekunden festgelegt</string>
     <string name="accessibility_delay_capture_3s_button">Timer auf 3 Sekunden festgelegt</string>
@@ -190,6 +194,8 @@
     <string name="accessibility_reference_line_image_on">Gitterlinien anzeigen</string>
     <string name="accessibility_reference_line_text">Panel Rasterlinienoptionen öffnen</string>
     <string name="accessibility_review_thumbnail">Neueste Fotos</string>
+    <string name="accessibility_sdsr_tip_off">Ultra-Zoom ist aus</string>
+    <string name="accessibility_sdsr_tip_on">Ultra-Zoom ist an</string>
     <string name="accessibility_select_all">Alle auswählen</string>
     <string name="accessibility_select_all_end">Alle ausgewählt</string>
     <string name="accessibility_selected">Ausgewählte Elemente</string>
@@ -226,9 +232,14 @@
     <string name="accessibility_video_capture_button">Taste für die Aufnahme von Fotos während der Videoaufnahme</string>
     <string name="accessibility_video_pause_button">Videoaufnahme angehalten</string>
     <string name="accessibility_video_resume_button">Videoaufnahme fortgesetzt</string>
+    <string name="accessibility_watermark_device_off">Gerätewasserzeichen ist aus</string>
+    <string name="accessibility_watermark_device_on">Gerätewasserzeichen ist an</string>
     <string name="accessibility_watermark_image_off">Wasserzeichen ist aus</string>
     <string name="accessibility_watermark_image_on">Wasserzeichen ist an</string>
     <string name="accessibility_watermark_text">Anpassungsfeld Wasserzeichen öffnen</string>
+    <string name="accessibility_watermark_time_off">Zeitstempel ist aus</string>
+    <string name="accessibility_watermark_time_on">Zeitstempel ist an</string>
+    <string name="accessibility_watermark_userdefine_enable">Option Eigenes Wasserzeichen</string>
     <string name="accessibility_whitebalance_custom_panel_on">Panel manuelle Einstellungen</string>
     <string name="accessibility_zoom_button">Zoommodus</string>
     <string name="actionbar_button_up_description">Zurück</string>
@@ -816,7 +827,9 @@
     <string name="emoticon">Stickerpaket</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
+    <string name="error_a11y_label">Fehler: ungültig</string>
     <string name="error_fail_to_start_audio_capture">Audioaufnahme wurde nicht gestartet</string>
+    <string name="error_icon_content_description">Fehler</string>
     <string name="esp_tip">Vorschau äußere Anzeige</string>
     <string name="evening">Nachmittag</string>
     <string name="exo_controls_cc_disabled_description">Untertitel aktivieren</string>
@@ -858,6 +871,7 @@
     <string name="exo_track_surround_7_point_1">7.1 Surround Sound</string>
     <string name="exo_track_unknown">Unbekannt</string>
     <string name="expand_button_title">Erweitert</string>
+    <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="extend_time_watermark_2_logo_text">SUPERMOND</string>
     <string name="eye_light">Augenfunkeln</string>
     <string name="eye_light_angel">Engel</string>
@@ -1600,6 +1614,8 @@
     <string name="portrait_bokeh_first_tips">Verwenden Sie Hochformat,\num den Hintergrund Ihrer Fotos zu verwischen.</string>
     <string name="portrait_bokeh_text">Hochformat</string>
     <string name="portrait_bokeh_tips">Platzieren Sie das Motiv innerhalb von 1,5 Metern.</string>
+    <string name="portrait_cvtype_item_title1">Porträtstil: Leica Porträt</string>
+    <string name="portrait_cvtype_item_title2">Porträtstil: Meisterporträt</string>
     <string name="portrait_deblur_tips">HD-Porträt</string>
     <string name="portrait_india_effect_entry_memory">Erinnerung</string>
     <string name="portrait_india_effect_entry_portrait">Porträt</string>
@@ -1608,7 +1624,13 @@
     <string name="portrait_india_effect_entry_sunny">Sonnig</string>
     <string name="portrait_india_effect_entry_sweet">Karamell</string>
     <string name="portrait_india_effect_entry_young">Jung</string>
+    <string name="portrait_mode_confirm_text">Bestätigen</string>
     <string name="portrait_mode_depth_effect_success_hint">Tiefeneffekt</string>
+    <string name="portrait_mode_hint_title">Porträtstil wählen</string>
+    <string name="portrait_mode_item_item1">Elegant und dezent</string>
+    <string name="portrait_mode_item_item2">Natürlich und realistisch</string>
+    <string name="portrait_mode_item_title1">Meisterporträt</string>
+    <string name="portrait_mode_item_title2">Leica Porträt</string>
     <string name="portrait_mode_lowlight_hint">Jetzt ist es zu dunkel</string>
     <string name="portrait_mode_too_close_hint">Weiter vom Motiv entfernen</string>
     <string name="portrait_mode_too_far_hint">Motiv innerhalb von 2 Metern platzieren</string>
@@ -1993,6 +2015,9 @@
     <string name="pref_s_n_r_s_c">Rauschen in Videos abhängig von der Szene reduzieren</string>
     <string name="pref_scan_qrcode_summary">Nur die hintere Kamera kann QR-Codes im Fotomodus scannen</string>
     <string name="pref_scan_qrcode_title">QR-Codes scannen</string>
+    <string name="pref_sdsr_summary">KI soll die Klarheit von vergrößerten Bildern verbessern</string>
+    <string name="pref_sdsr_title">Ultra-Zoom</string>
+    <string name="pref_sdsr_title_beta">Ultra-Zoom (Beta)</string>
     <string name="pref_simple_hdr_entry_off">Aus</string>
     <string name="pref_simple_hdr_entry_on">An</string>
     <string name="pref_skin_beautify_color_title">Hautton</string>
@@ -2104,6 +2129,7 @@
     <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
     <string name="screen_on_proximity_sensor_hint">Um die Funktion zu deaktivieren, Lautstärke hoch und Zurück-Taste gleichzeitig drücken</string>
     <string name="screen_on_proximity_sensor_summary">Decken Sie den Kopfhörerbereich nicht ab</string>
+    <string name="sdsr_capture_reprocess_toast">Verarbeitung Ultra-Zoom…</string>
     <string name="search_menu_title">Suchen</string>
     <string name="search_settings">Kameraeinstellungen;Qualität;Bildqualität;Aufnahmeort;Bildort;Gesichtserkennung;Kameraton</string>
     <string name="security_line">Rahmenlinie</string>
@@ -2131,6 +2157,7 @@
     <string name="simple_mode_button_text_fast_video">Zeitlupe ausschalten</string>
     <string name="simple_mode_button_text_gradienter">Begradigen ausschalten</string>
     <string name="simple_mode_button_text_groupshot">Gruppenselfie ausschalten</string>
+    <string name="simple_mode_button_text_hand_night">HHT ausschalten</string>
     <string name="simple_mode_button_text_magic_mirror">Magischen Spiegel ausschalten</string>
     <string name="simple_mode_button_text_manual">Manuellen Modus ausschalten</string>
     <string name="simple_mode_button_text_panorama">Panorama ausschalten</string>

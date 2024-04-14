@@ -110,6 +110,7 @@
     <string name="cancel">Abbrechen</string>
     <string name="cancel_choose">Abwählen</string>
     <string name="cancel_subscribe_tips">Nicht mehr folgen?</string>
+    <string name="card_content_descriptor">Karte</string>
     <string name="cast_ad_label">Werbung</string>
     <string name="cast_casting_to_device">Casting auf %1$s</string>
     <string name="cast_closed_captions">Untertitel</string>
@@ -261,6 +262,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="dialog_cancel">Abbrechen</string>
     <string name="dialog_clearn_content">Browserverlauf jetzt löschen?</string>
     <string name="dialog_clearn_title">Verlauf löschen</string>
+    <string name="dialog_confirm">Hinzufügen</string>
     <string name="dialog_delete_bookmarks_content">Lesezeichen jetzt löschen?</string>
     <string name="dialog_disagree_continue">Fortfahren</string>
     <string name="dialog_disagree_info">Wenn Sie der Mi Video-Datenschutzerklärung nicht zustimmen, können Sie unsere Online-Dienste nicht nutzen und nur die auf Ihrem Gerät gespeicherten Videos ansehen. Trotzdem fortfahren?</string>
@@ -578,6 +580,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="hidden_channels">Folgende Kanäle werden auf der Startseite nicht angezeigt.</string>
     <string name="hide">Ausblenden</string>
     <string name="hide_video_toast">Dieses Element wurde ausgeblendet. Sie können ausgeblendete Elemente unter Lokal > Ordner > Versteckte Elemente finden und verwalten.</string>
+    <string name="hiding_dialog_ok">Festlegen</string>
     <string name="hint_icon_ad_title">Empfohlen</string>
     <string name="hint_in_mivideo">Sie können jetzt in der Seitenleiste nach zusätzlichen Funktionen suchen</string>
     <string name="history">Verlauf</string>
@@ -1206,6 +1209,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="phone_number">Rufnummer</string>
     <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
     <string name="pip_not_supported_toast">Aktualisieren Sie auf die neueste Systemversion, um Bild-in-Bild zu verwenden.</string>
+    <string name="play_at_normal_speed">Mit 1X-Geschwindigkeit abspielen</string>
     <string name="play_list_save_dialog_create">Wiedergabeliste erstellen</string>
     <string name="play_list_save_dialog_title">Zur Wiedergabeliste hinzufügen</string>
     <string name="play_list_sign_in_dialog_message">Mit Ihrem Google-Konto anmelden, um alle Ihre Wiedergabelisten anzuzeigen.</string>
@@ -1433,6 +1437,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="shake_to_open_ad">Schütteln, um mehr zu erfahren</string>
     <string name="share">Teilen</string>
     <string name="share_text_before_link">Tolle Videos kostenlos auf Mi Video ansehen und herunterladen</string>
+    <string name="share_title">Teilen</string>
     <string name="share_ugc_content">Werfen Sie einen Blick auf %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Mitmachen</string>
     <string name="share_ugc_waitting">Link generieren…</string>
