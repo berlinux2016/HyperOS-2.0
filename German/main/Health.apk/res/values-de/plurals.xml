@@ -126,12 +126,12 @@
         <item quantity="one">in 1 Minute</item>
     </plurals>
     <plurals name="last_measure_date_interval">
-        <item quantity="other">%1$d Tage seit dem letzten Wiegen</item>
-        <item quantity="one">%1$d Tag seit dem letzten Wiegen</item>
+        <item quantity="other">%1$d Tage seit letztem Wiegen</item>
+        <item quantity="one">%1$d Tag seit letztem Wiegen</item>
     </plurals>
     <plurals name="last_measure_day_body_weight">
-        <item quantity="other">%1$d Tage seit dem letzten Wiegen</item>
-        <item quantity="one">%1$d Tag seit dem letzten Wiegen</item>
+        <item quantity="other">%1$d Tage seit letztem Wiegen</item>
+        <item quantity="one">%1$d Tag seit letztem Wiegen</item>
     </plurals>
     <plurals name="length_unit_meter_format">
         <item quantity="other">%1$d Meter</item>
@@ -186,11 +186,11 @@
     </plurals>
     <plurals name="sleep_management_exp_hours">
         <item quantity="other">Die aktuellen Einstellungen garantieren Ihnen keine %1$d Stunden Schlaf täglich. Sie brauchen mehr als das.</item>
-        <item quantity="one">Die aktuellen Einstellungen garantieren Ihnen keine Stunde Schlaf täglich. Sie brauchen mehr als das.</item>
+        <item quantity="one">Die aktuellen Einstellungen garantieren Ihnen nicht %1$d Stunde Schlaf täglich. Sie brauchen mehr als das.</item>
     </plurals>
     <plurals name="sport_tts_goal_consume">
-        <item quantity="other">%s Kalorien mehr, die Sie noch verbrennen können, bis Sie Ihr Ziel erreichen</item>
-        <item quantity="one">%s Kalorie mehr, die Sie noch verbrennen können, bis Sie Ihr Ziel erreichen</item>
+        <item quantity="other">%s Kalorien mehr zum Verbrennen, bis Sie Ihr Ziel erreichen</item>
+        <item quantity="one">%s Kalorie mehr zum Verbrennen, bis Sie Ihr Ziel erreichen</item>
     </plurals>
     <plurals name="sport_tts_goal_distance">
         <item quantity="other">Noch %s Kilometer mehr, bis Sie Ihr Ziel erreichen</item>
@@ -213,8 +213,8 @@
         <item quantity="one">Sie haben %s Kalorien verbrannt</item>
     </plurals>
     <plurals name="sport_tts_walking_distance">
-        <item quantity="other">Sie sind %s Kilometer gewalkt</item>
-        <item quantity="one">Sie sind %s Kilometer gewalkt</item>
+        <item quantity="other">Sie haben %s Kilometer zurückgelegt</item>
+        <item quantity="one">Sie haben %s Kilometer zurückgelegt</item>
     </plurals>
     <plurals name="sporting_content_calories">
         <item quantity="other">Sie haben bereits %1$s Kalorien verbrannt</item>
@@ -236,19 +236,13 @@
         <item quantity="other">%1$d Sekunden</item>
         <item quantity="one">%1$d Sekunde</item>
     </plurals>
-    <plurals name="sporting_content_speed">
-        <item quantity="other">Aktuelle Geschwindigkeit beträgt %1$d Min %2$d Sek pro Kilometer</item>
-    </plurals>
-    <plurals name="sporting_content_time">
-        <item quantity="other">%1$d Min %2$d Sek beim Teilen</item>
-    </plurals>
     <plurals name="sporting_content_walking_km">
-        <item quantity="other">Sie sind bereits %1$s Kilometer gelaufen</item>
-        <item quantity="one">Sie sind bereits %1$s Kilometer gelaufen</item>
+        <item quantity="other">Sie haben bereits %1$s Kilometer zurückgelegt</item>
+        <item quantity="one">Sie haben bereits %1$s Kilometer zurückgelegt</item>
     </plurals>
     <plurals name="sporting_content_walking_stpe">
-        <item quantity="other">Sie sind bereits %1$s Schritte gelaufen</item>
-        <item quantity="one">Sie sind bereits %1$s Schritt gelaufen</item>
+        <item quantity="other">Sie sind bereits %1$s Schritte gegangen</item>
+        <item quantity="one">Sie sind bereits %1$s Schritt gegangen</item>
     </plurals>
     <plurals name="sporting_unit_calories">
         <item quantity="other">%1$d Kalorien</item>
@@ -267,20 +261,20 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Seit %1$d Tagen nichts mehr aufgenommen. Zeiten erfassen, um genauere Voraussagen zu erhalten.</item>
-        <item quantity="one">Seit %1$d Tag nichts mehr aufgenommen. Zeiten erfassen, um genauere Voraussagen zu erhalten.</item>
+        <item quantity="other">Sie haben seit %1$d Tagen nichts aufgezeichnet. Zeichnen Sie Ihre Perioden auf, um genauere Vorhersagen zu erhalten.</item>
+        <item quantity="one">Sie haben seit %1$d Tag nichts aufgezeichnet. Zeichnen Sie Ihre Perioden auf, um genauere Vorhersagen zu erhalten.</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">Dieser Zeitraum dauert insgesamt %1$d Tage</item>
-        <item quantity="one">Dieser Zeitraum dauert insgesamt %1$d Tag</item>
+        <item quantity="other">Diese Periode dauert insgesamt %1$d Tage</item>
+        <item quantity="one">Diese Periode dauert insgesamt %1$d Tag</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
         <item quantity="other">Tag %1$d dieses Menstruationszyklus</item>
         <item quantity="one">Tag %1$d dieses Menstruationszyklus</item>
     </plurals>
     <plurals name="sum_cycle_days">
-        <item quantity="other">%1$d-Tageszyklus</item>
-        <item quantity="one">%1$d-Tageszyklus</item>
+        <item quantity="other">%1$d-Tage-Zyklus</item>
+        <item quantity="one">%1$d-Tages-Zyklus</item>
     </plurals>
     <plurals name="time_duration_compare_standard">
         <item quantity="other">≤%1$d Minuten</item>

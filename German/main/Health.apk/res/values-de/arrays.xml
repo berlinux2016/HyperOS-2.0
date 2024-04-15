@@ -17,7 +17,7 @@
         <item>Workout</item>
     </string-array>
     <string-array name="arr_prompt_label">
-        <item>Angemessen</item>
+        <item>Vernünftig</item>
         <item>Lange</item>
         <item>Zu lange</item>
     </string-array>
@@ -56,7 +56,7 @@
         <item>A</item>
         <item>B</item>
         <item>AB</item>
-        <item>0</item>
+        <item>O</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Tag</item>
@@ -83,28 +83,19 @@
         <item>Positiv</item>
     </string-array>
     <string-array name="run_in_background_state">
-        <item>Keine Beschränkungen</item>
+        <item>Keine Einschränkungen</item>
         <item>Hintergrundaktivität einschränken</item>
         <item>Nach 10 Minuten stoppen</item>
         <item>Niemals</item>
     </string-array>
-    <string-array name="splash_loading">
-        <item>Aktivitätsziel berechnen…</item>
-        <item>Aktivitätsziel: %1$d Schritte</item>
-        <item>Sie sind heute %1$d Schritte gegangen</item>
-        <item>Schlafziel berechnen…</item>
-        <item>Schlafziel: %1$d Std</item>
-        <item>Bislang keine Schlafdaten</item>
-        <item>Mi Health öffnen</item>
-    </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>Bewegungsmangel verursacht viele Gesundheitsprobleme. Wenn die Gesamtdauer der sitzenden Tätigkeit nicht verkürzt werden kann, können zeitweilige stehende Tätigkeiten die Beschwerden wirksam verbessern.</item>
-        <item>Der Stehassistent hilft dem Sitzenden, mind. 1 Minute pro Stunde zu stehen, täglich das 12-Stunden-Stehziel zu erreichen und sich von der Gefahr des Bewegungsmangels zu schützen.</item>
-        <item>Tippen Sie auf Weiter, um den Stehassistenten zu verstehen und zu öffnen.</item>
+        <item>Sitzen ist nicht gut für Ihre Gesundheit. Selbst wenn Sie die Zeit, die Sie im Sitzen verbringen, nicht verkürzen können, ist es eine gute Idee, ab und zu aufzustehen.</item>
+        <item>Diese Funktion erinnert Sie daran, jede Stunde mindestens 1 Minute im Stehen zu verbringen. 12 Stunden mit Stehpausen täglich helfen Ihnen, die Risiken einer sitzenden Lebensweise zu vermeiden.</item>
+        <item>Tippen Sie auf \"Weiter\", um mehr zu erfahren und diese Funktion zu aktivieren.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
         <item>Xiaomi Health erkennt und zeichnet auf, wenn Sie aufstehen. Sie können auch Erinnerungen zum Aufstehen nach 1 Stunde Inaktivität erhalten.</item>
-        <item>Diese Funktion verfolgt Ihre Bewegung und sendet auf der Grundlage der Ergebnisse Erinnerungen.</item>
+        <item>Diese Funktion verfolgt Ihre Bewegungen und sendet Erinnerungen basierend auf den Ergebnissen.</item>
     </string-array>
     <string-array name="week">
         <item>Sonntag</item>

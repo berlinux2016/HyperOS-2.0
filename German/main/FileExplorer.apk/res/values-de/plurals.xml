@@ -30,8 +30,8 @@
         <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d Videos in WeChat-Unterhaltungen laufen bald ab. Benötigen Sie eine Sicherung?</item>
-        <item quantity="one">%1$d Video in WeChat-Unterhaltungen läuft bald ab. Benötigen Sie eine Sicherung?</item>
+        <item quantity="other">%1$d Videos in WeChat-Unterhaltungen laufen bald ab. Sichern Sie sie auf dem internen Speicher Ihres Geräts?</item>
+        <item quantity="one">%1$d Video in WeChat-Unterhaltungen läuft bald ab. Sichern Sie es auf dem internen Speicher Ihres Geräts?</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">%1$s Tage in Folge eingecheckt, weiter so!</item>
