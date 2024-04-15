@@ -50,16 +50,8 @@
         <item quantity="one">%1$d Kontakt löschen</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">%1$d-mal angeklingelt</item>
-        <item quantity="one">%1$d-mal angeklingelt</item>
-    </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d Rufnummern</item>
-        <item quantity="one">%d Rufnummer</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d Rufnummern löschen?</item>
-        <item quantity="one">%d Rufnummer löschen?</item>
+        <item quantity="other">%1$d-mal geklingelt</item>
+        <item quantity="one">%1$d-mal geklingelt</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d Kontakte oder Fotos nicht synchronisiert</item>
@@ -124,10 +116,6 @@
     <plurals name="half_hour_ago">
         <item quantity="other">vor einer halben Stunde</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d Einträge gefunden</item>
-        <item quantity="one">%1$d Eintrag gefunden</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d Kontakte</item>
         <item quantity="one">%1$d Kontakt</item>
@@ -164,17 +152,9 @@
         <item quantity="other">%d Kontakte</item>
         <item quantity="one">%d Kontakt</item>
     </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d Kontakte mit Rufnummern</item>
-        <item quantity="one">1 Kontakt mit Rufnummer</item>
-    </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d Kontakte mit teilw. identischer Info</item>
         <item quantity="one">%1$d Kontakt mit teilw. identischer Info</item>
-    </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">aus %0$d Quellen zusammengeführt</item>
-        <item quantity="one">nicht zusammengeführt</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
@@ -183,10 +163,6 @@
     <plurals name="notification_missedCallsMsg">
         <item quantity="other">%d verpasste Anrufe</item>
         <item quantity="one">%d verpasster Anruf</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Sprachnachrichten</item>
-        <item quantity="one">Sprachnachricht</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d ausgewählt</item>
@@ -197,17 +173,9 @@
         <item quantity="other">%1$d Personen von %2$s</item>
         <item quantity="one">%1$d Person von %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d Gruppen</item>
-        <item quantity="one">%d Gruppe</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">vor %d Minuten</item>
         <item quantity="one">vor 1 Minute</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d Elemente übrig</item>
-        <item quantity="one">%1$d Element übrig</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d ausgewählt</item>
@@ -232,10 +200,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d gefunden</item>
         <item quantity="one">%d gefunden</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s Ergebnisse</item>
-        <item quantity="one">%s Ergebnis</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Nicht mehr als %1$d wählen, alle auswählen nicht möglich</item>

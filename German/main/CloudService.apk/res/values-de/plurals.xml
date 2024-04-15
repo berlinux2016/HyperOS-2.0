@@ -29,13 +29,9 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">%s Elemente synchronisieren nicht möglich</item>
-        <item quantity="one">%s Element synchronisieren nicht möglich</item>
-    </plurals>
     <plurals name="cloud_storage_full_upgrade_text">
-        <item quantity="other">Unzureichender Speicherplatz. %d Fotos wurden nicht synchronisiert.</item>
-        <item quantity="one">Unzureichender Speicherplatz. %d Foto wurde nicht synchronisiert.</item>
+        <item quantity="other">Nicht genügend Speicher. %d Fotos wurden nicht synchronisiert.</item>
+        <item quantity="one">Nicht genügend Speicher. %d Foto wurde nicht synchronisiert.</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d Sperrlisteneinträge</item>
@@ -65,10 +61,6 @@
         <item quantity="other">%d Nachrichten</item>
         <item quantity="one">%d Nachricht</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d Lieder</item>
-        <item quantity="one">%d Lied</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d Notizen</item>
         <item quantity="one">%d Notiz</item>
@@ -88,10 +80,6 @@
     <plurals name="dirty_recorder_count">
         <item quantity="other">%d Aufnahmen</item>
         <item quantity="one">%d Aufnahme</item>
-    </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">%d versteckte Fotos wurden nicht synchronisiert. Abmelden, wenn alle Elemente synchronisiert sind, um sie zu behalten. Andernfalls werden die Elemente gelöscht.</item>
-        <item quantity="one">%d verstecktes Foto wurde nicht synchronisiert. Abmelden, wenn alle Elemente synchronisiert sind, um sie zu behalten. Andernfalls werden die Elemente gelöscht.</item>
     </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d WLANs</item>
@@ -145,10 +133,6 @@
         <item quantity="other">Elemente warten auf Synchronisation: %d</item>
         <item quantity="one">Element wartet auf Synchronisation: %d</item>
     </plurals>
-    <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d Elemente warten auf Synchronisation</item>
-        <item quantity="one">%d Element wartet auf Synchronisation</item>
-    </plurals>
     <plurals name="last_sync_time_hours_ago">
         <item quantity="other">vor %s Stunden</item>
         <item quantity="one">vor %s Stunde</item>
@@ -159,14 +143,6 @@
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
-    </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Synchronisation nach %d Stunden fortsetzen.</item>
-        <item quantity="one">Synchronisation nach %d Stunde fortsetzen.</item>
-    </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Synchronisation nach %d Minuten fortsetzen.</item>
-        <item quantity="one">Synchronisation nach %d Minute fortsetzen.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">Synchronisation in %d Minuten wieder aufnehmen</item>
@@ -197,12 +173,8 @@
         <item quantity="one">Mehr als %d Element auswählen nicht möglich</item>
     </plurals>
     <plurals name="share_sdk_invitation_some_people_accepted">
-        <item quantity="other">Einladung von %d Benutzern angenommen</item>
-        <item quantity="one">Einladung von %d Benutzer angenommen</item>
-    </plurals>
-    <plurals name="sync_items_close">
-        <item quantity="other">%d sind ausgeschaltet</item>
-        <item quantity="one">%d ist ausgeschaltet</item>
+        <item quantity="other">Einladung von %d Personen angenommen</item>
+        <item quantity="one">Einladung von %d Person angenommen</item>
     </plurals>
     <plurals name="time_format_day">
         <item quantity="other">%1$s Tage</item>

@@ -3,8 +3,4 @@
     <string-array name="bh_required_permission_list_all_desc">
         <item>Für die Bereitstellung von Diensten für ein bestimmtes Gerät</item>
     </string-array>
-    <string-array name="otherLabels">
-        <item>Organisation</item>
-        <item>Hinweis</item>
-    </string-array>
 </resources>

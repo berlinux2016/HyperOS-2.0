@@ -11,15 +11,15 @@
         <item>Wecker in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Einmalig</item>
+        <item>Einmal</item>
         <item>Täglich</item>
-        <item>Werktage</item>
+        <item>Werktags</item>
         <item>An freien Tagen</item>
         <item>Mo - Fr</item>
         <item>Eigene</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Einmalig</item>
+        <item>Einmal</item>
         <item>Täglich</item>
         <item>Mo - Fr</item>
         <item>Eigene</item>
@@ -45,7 +45,7 @@
     <string-array name="bedtime_guide_repeat_type">
         <item>Mo - Fr</item>
         <item>Täglich</item>
-        <item>Werktage</item>
+        <item>Werktags</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type_international">
         <item>Mo - Fr</item>
@@ -59,7 +59,7 @@
     <string-array name="bedtime_repeat_entries">
         <item>Täglich</item>
         <item>Mo - Fr</item>
-        <item>Werktage</item>
+        <item>Werktags</item>
         <item>Eigene</item>
     </string-array>
     <string-array name="cities_names_miui">
@@ -349,6 +349,8 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
+        <item>Taschkent</item>
+        <item>Bischkek</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>Elfenbeinküste</item>
@@ -637,6 +639,8 @@
         <item>Honduras</item>
         <item>Suriname</item>
         <item>Ecuador</item>
+        <item>Usbekistan</item>
+        <item>Kirgisistan</item>
     </string-array>
     <string-array name="timer_duration">
         <item>Gesamt %1$s</item>
@@ -650,6 +654,6 @@
     <string-array name="volume_button_setting_entries">
         <item>Keine Aktion</item>
         <item>Schlummern</item>
-        <item>Beenden</item>
+        <item>Verwerfen</item>
     </string-array>
 </resources>

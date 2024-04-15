@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="animator_duration_scale_entries">
-        <item>Aus</item>
+        <item>Animation aus</item>
         <item>Skala 0.5x</item>
         <item>Skala 1x</item>
         <item>Skala 1.5x</item>
@@ -12,10 +12,10 @@
     <string-array name="app_process_limit_entries">
         <item>Standardlimit</item>
         <item>Keine Hintergrundprozesse</item>
-        <item>Maximal ein Prozess</item>
-        <item>Maximal 2 Prozesse</item>
-        <item>Maximal 3 Prozesse</item>
-        <item>Maximal 4 Prozesse</item>
+        <item>Max. 1 Prozess</item>
+        <item>Max. 2 Prozesse</item>
+        <item>Max. 3 Prozesse</item>
+        <item>Max. 4 Prozesse</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Systemauswahl nutzen (Standard)</item>
@@ -42,13 +42,13 @@
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimiert für Audioqualität</item>
         <item>Ausgewogene Audio- und Verbindungsqualität</item>
-        <item>Optimiert auf Verbindungsqualität</item>
+        <item>Optimiert für Verbindungsqualität</item>
         <item>Beste Leistung (Adaptive Bitrate)</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
         <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
-        <item>Optimiert auf Verbindungsqualität (330kbps/303kbps)</item>
+        <item>Optimiert für Verbindungsqualität (330kbps/303kbps)</item>
         <item>Beste Leistung (Adaptive Bitrate)</item>
       </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
@@ -92,8 +92,8 @@
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>" | Aktiv"</item>
-        <item>" | Aktiv (Medien abspielen)"</item>
-        <item>" | Aktiv (Telefonieren)"</item>
+        <item>" | Aktiv (Medien)"</item>
+        <item>" | Aktiv (Telefon)"</item>
       </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.5 (Standard)</item>
@@ -126,9 +126,9 @@
         <item>Vollständig löschen</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Erweiterte Farben</item>
-        <item>Natürliche Farben wie vom Auge gesehen</item>
-        <item>Farben für digitale Inhalte optimiert</item>
+        <item>Verbesserte Farben</item>
+        <item>Natürliche Farben, wie sie das Auge sieht</item>
+        <item>Optimierte Farben für digitale Inhalte</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Lebendig (Standard)</item>
@@ -170,14 +170,6 @@
         <item>4K (hochskaliert, sicher)</item>
         <item>720p, 1080p (Dual-Bildschirm)</item>
     </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Aus</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Aus</item>
         <item>64K</item>
@@ -191,6 +183,14 @@
         <item>1M pro Log-Puffer</item>
         <item>4M pro Log-Puffer</item>
         <item>16M pro Log-Puffer</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Aus</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Aus</item>
@@ -244,24 +244,24 @@
         <item>Authentifizieren…</item>
         <item>IP-Adresse beziehen…</item>
         <item>Verbunden</item>
-        <item>Angehalten</item>
-        <item>Verbindung trennen…</item>
+        <item>Ausgesetzt</item>
+        <item>Trennen…</item>
         <item>Getrennt</item>
-        <item>Nicht erfolgreich</item>
+        <item>Erfolglos</item>
         <item>Blockiert</item>
         <item>Schlechte Verbindung temporär vermeiden</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Scannen…</item>
-        <item>Verbunden mit %1$s…</item>
+        <item>Verbinden mit %1$s…</item>
         <item>Authentifizieren mit %1$s…</item>
         <item>IP-Adresse beziehen von %1$s…</item>
         <item>Verbunden mit %1$s</item>
-        <item>Angehalten</item>
-        <item>Verbindung von %1$s trennen…</item>
+        <item>Ausgesetzt</item>
+        <item>Trennen von %1$s…</item>
         <item>Getrennt</item>
-        <item>Nicht erfolgreich</item>
+        <item>Erfolglos</item>
         <item>Blockiert</item>
         <item>Schlechte Verbindung temporär vermeiden</item>
     </string-array>

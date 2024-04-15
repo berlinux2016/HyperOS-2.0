@@ -29,10 +29,6 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
-    <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Taste für %1$s Sek gedrückt halten, wenn das Gerät aus ist</item>
-        <item quantity="one">Taste für %1$s Sek gedrückt halten, wenn das Gerät aus ist</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>

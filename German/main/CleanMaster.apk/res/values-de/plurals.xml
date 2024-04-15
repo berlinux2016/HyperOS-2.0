@@ -41,59 +41,41 @@
         <item quantity="other">Seit %d Jahren nicht verwendet</item>
         <item quantity="one">Seit %d Jahr nicht verwendet</item>
     </plurals>
-    <plurals name="clean_app_data_selected_app">
-        <item quantity="other">%d Apps für Datenlöschung ausgewählt</item>
-        <item quantity="one">%d App für Datenlöschung ausgewählt</item>
-    </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"Bereinigen: %1$d Dateien (%2$d%%)
-"</item>
-        <item quantity="one">"Bereinigen: %1$d Datei (%2$d%%)
-"</item>
+        <item quantity="other">Bereinigen: %1$d Dateien (%2$d%%)\n</item>
+        <item quantity="one">Bereinigen: %1$d Datei (%2$d%%)\n</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d%% Elemente/Sekunde | verbleibende Zeit: %2$s</item>
-        <item quantity="one">%1$d%% Element/Sekunde | verbleibende Zeit: %2$s</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">vor %1$d Tagen</item>
-        <item quantity="zero">vor %1$d Tagen</item>
-        <item quantity="one">gestern</item>
-        <item quantity="two">vor %1$d Tagen</item>
-        <item quantity="few">vor %1$d Tagen</item>
-        <item quantity="many">vor %1$d Tagen</item>
+        <item quantity="other">%1$d%% Elemente/Sek | Verbleibende Zeit: %2$s</item>
+        <item quantity="one">%1$d%% Element/Sek | Verbleibende Zeit: %2$s</item>
     </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="other">%1$d Schritte ausführen, um %2$s freizugeben</item>
         <item quantity="one">%1$d Schritt ausführen, um %2$s freizugeben</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> Apks löschen&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> Apk löschen&lt;/Data></item>
+        <item quantity="other">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> APKs löschen&lt;/Data></item>
+        <item quantity="one">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> APK löschen&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_app_data">
-        <item quantity="other">&lt;Data>Daten von &lt;font color=#0097FF>%d&lt;/font> Apps löschen&lt;/Data></item>
-        <item quantity="one">&lt;Data>Daten von &lt;font color=#0097FF>%d&lt;/font> App löschen&lt;/Data></item>
-    </plurals>
-     <plurals name="dc_item_summary_app_reset">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> Apps verbrauchen viel Speicher&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> App verbraucht viel Speicher&lt;/Data></item>
+        <item quantity="other">&lt;Data>Sie können Daten von &lt;font color=#0097FF>%d&lt;/font> Apps löschen&lt;/Data></item>
+        <item quantity="one">&lt;Data>Sie können Daten von &lt;font color=#0097FF>%d&lt;/font> App löschen&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> überflüssige Fotos löschen&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> überflüssiges Foto löschen&lt;/Data></item>
+        <item quantity="other">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> überflüssige Fotos löschen&lt;/Data></item>
+        <item quantity="one">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> überflüssiges Foto löschen&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> große Dateien löschen&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> große Datei löschen&lt;/Data></item>
+        <item quantity="other">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> große Dateien löschen&lt;/Data></item>
+        <item quantity="one">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> große Datei löschen&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> selten genutzte Apps deinstallieren&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> selten genutzte App deinstallieren&lt;/Data></item>
+        <item quantity="other">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> selten genutzte Apps deinstallieren&lt;/Data></item>
+        <item quantity="one">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> selten genutzte App deinstallieren&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_video">
-        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> Videos löschen&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> Video löschen&lt;/Data></item>
+        <item quantity="other">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> Videos löschen&lt;/Data></item>
+        <item quantity="one">&lt;Data>Sie können &lt;font color=#0097FF>%d&lt;/font> Video löschen&lt;/Data></item>
       </plurals>
     <plurals name="deepclean_apk_summary">
         <item quantity="other">%d APKs gefunden, Sie können die unnötigen löschen.</item>
@@ -136,12 +118,12 @@
         <item quantity="one">Täglich</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Titel)&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Titel)&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigegeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Titel)&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigegeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Titel)&lt;/Data></item>
     </plurals>
     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Fotos)&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Foto)&lt;/Data></item>
+        <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigegeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Fotos)&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> freigegeben (genug für &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> Foto)&lt;/Data></item>
     </plurals>
     <plurals name="global_wa_image">
         <item quantity="other">%1$d Elemente</item>
@@ -165,14 +147,6 @@
     <plurals name="hour">
         <item quantity="other">%1$d Stunden</item>
         <item quantity="one">%1$d Stunde</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">vor %1$d Stunden</item>
-        <item quantity="zero">vor %1$d Stunden</item>
-        <item quantity="one">vor %1$d Stunde</item>
-        <item quantity="two">vor %1$d Stunden</item>
-        <item quantity="few">vor %1$d Stunden</item>
-        <item quantity="many">vor %1$d Stunden</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
@@ -202,17 +176,6 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
     </plurals>
-    <plurals name="million">
-        <item quantity="other">Von %1$d Personen heruntergeladen</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">vor %1$d Minuten</item>
-        <item quantity="zero">vor %1$d Minuten</item>
-        <item quantity="one">vor %1$d Minute</item>
-        <item quantity="two">vor %1$d Minuten</item>
-        <item quantity="few">vor %1$d Minuten</item>
-        <item quantity="many">vor %1$d Minuten</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="other">%1$d Minuten</item>
         <item quantity="one">%1$d Minute</item>
@@ -237,37 +200,13 @@
         <item quantity="other">Von %1$d Personen heruntergeladen</item>
         <item quantity="one">Von %1$d Person heruntergeladen</item>
     </plurals>
-    <plurals name="reset_app_selected_app">
-        <item quantity="other">%d Apps zum Zurücksetzen ausgewählt</item>
-        <item quantity="one">%d App zum Zurücksetzen ausgewählt</item>
-    </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> Apps wurden lange nicht verwendet. Schauen Sie mal nach.&lt;/Data></item>
         <item quantity="one">&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> App wurde lange nicht verwendet. Schauen Sie mal nach.&lt;/Data></item>
     </plurals>
-    <plurals name="rs_clean_size_hint_image">
-        <item quantity="other">Genug für %d Fotos</item>
-        <item quantity="one">Genug für %d Foto</item>
-    </plurals>
-    <plurals name="rs_clean_size_hint_song">
-        <item quantity="other">Genug für %d Titel</item>
-        <item quantity="one">Genug für %d Titel</item>
-    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d Sekunden</item>
         <item quantity="one">%1$d Sekunde</item>
-    </plurals>
-    <plurals name="select_app">
-        <item quantity="other">%d Apps ausgewählt</item>
-        <item quantity="one">%d App ausgewählt</item>
-    </plurals>
-    <plurals name="unload_app_selected_app">
-        <item quantity="other">%d Apps zum Deinstallieren ausgewählt</item>
-        <item quantity="one">%d App zum Deinstallieren ausgewählt</item>
-    </plurals>
-    <plurals name="video_clean_scan_app_result">
-        <item quantity="other">%d Apps mit Videos im Cache</item>
-        <item quantity="one">%d App mit Videos im Cache</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s-mal angesehen</item>

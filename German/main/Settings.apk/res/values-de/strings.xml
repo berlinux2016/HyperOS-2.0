@@ -4532,7 +4532,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lock_after_timeout_summary">%1$s nach Timeout</string>
     <string name="lock_after_timeout_summary_with_exception">%1$s nach Timeout, außer es bleibt entsperrt durch %2$s</string>
     <string name="lock_failed_attempts_before_wipe">Erneut versuchen. Versuch %1$d von %2$d.</string>
-    <string name="lock_immediately_summary_with_exception">Sofort nach Timeout, außer es bleibt entsperrt durch %1$s</string>>
+    <string name="lock_immediately_summary_with_exception">Sofort nach Timeout, außer es bleibt entsperrt durch %1$s</string>
     <string name="lock_last_attempt_before_wipe_warning_title">Ihre Daten werden gelöscht</string>
     <string name="lock_last_password_attempt_before_wipe_device">Wenn Sie beim nächsten Versuch das Passwort falsch eingeben, werden die Gerätedaten gelöscht</string>
     <string name="lock_last_password_attempt_before_wipe_profile">Wenn Sie beim nächsten Versuch das Passwort falsch eingeben, werden Ihr Arbeitsprofil und seine Daten gelöscht</string>

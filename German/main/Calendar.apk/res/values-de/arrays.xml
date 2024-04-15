@@ -41,10 +41,10 @@
     <string-array name="default_reminder_labels">
         <item>Zum Termin</item>
         <item>5 Minuten vorher</item>
-        <item>10 Minuten vorher</item>
         <item>15 Minuten vorher</item>
         <item>30 Minuten vorher</item>
         <item>1 Stunde vorher</item>
+        <item>4 Stunden vorher</item>
         <item>1 Tag vorher</item>
         <item>2 Tage vorher</item>
         <item>1 Woche vorher</item>
@@ -151,8 +151,8 @@
         <item>31.</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>Aus</item>
-        <item>Uhrzeit</item>
+        <item>Nie</item>
+        <item>Zeit</item>
         <item>Anzahl</item>
     </string-array>
     <string-array name="repeat_choose_month">

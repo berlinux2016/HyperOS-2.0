@@ -80,20 +80,8 @@
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
-    <plurals name="numberOfItemsAvailable">
-        <item quantity="other">%d Elemente löschen?</item>
-        <item quantity="one">Dieses Element löschen?</item>
-    </plurals>
     <plurals name="number_items">
         <item quantity="other">%1$d Elemente</item>
         <item quantity="one">%1$d Element</item>
-    </plurals>
-    <plurals name="sniff_find_resource">
-        <item quantity="other">%d Elemente gefunden</item>
-        <item quantity="one">1 Element gefunden</item>
-    </plurals>
-    <plurals name="sniff_find_result">
-        <item quantity="other">%d Ergebnisse gefunden</item>
-        <item quantity="one">1 Ergebnis gefunden</item>
     </plurals>
 </resources>

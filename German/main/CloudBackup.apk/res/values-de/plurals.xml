@@ -30,12 +30,8 @@
         <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
-        <item quantity="other">Anscheinend haben Sie seit %s Wochen keine Sicherung mehr erstellt. Sicherungskopie erstellen, damit nichts Wichtiges verloren geht.</item>
-        <item quantity="one">Anscheinend haben Sie seit %s Woche keine Sicherung mehr erstellt. Sicherungskopie erstellen, damit nichts Wichtiges verloren geht.</item>
-    </plurals>
-    <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Alle %d Tage sichern</item>
-        <item quantity="one">Täglich sichern</item>
+        <item quantity="other">Anscheinend haben Sie seit %s Wochen nicht mehr gesichert. Erstellen Sie Sicherungen, damit nichts Wichtiges verloren geht.</item>
+        <item quantity="one">Anscheinend haben Sie seit %s Woche nicht mehr gesichert. Erstellen Sie Sicherungen, damit nichts Wichtiges verloren geht.</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s Sicherungen (%2$s)</item>
@@ -75,22 +71,6 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d Apps auf diesem Gerät</item>
-        <item quantity="one">%d App auf diesem Gerät</item>
-    </plurals>
- <plurals name="restore_app_order_normal">
-        <item quantity="other">Normale Priorität: %d Apps</item>
-        <item quantity="one">Normale Priorität: %d App</item>
-    </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">Hohe Priorität: %d Apps</item>
-        <item quantity="one">Hohe Priorität: %d App</item>
-    </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other"> %d Dateien wiederherstellen</item>
-        <item quantity="one">%d Datei wiederherstellen</item>
     </plurals>
     <plurals name="session_starting_app_count_backup_text">
         <item quantity="other">%d Apps gesichert</item>
