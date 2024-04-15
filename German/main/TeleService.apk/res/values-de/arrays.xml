@@ -15,7 +15,7 @@
         <item>Max. 1 Prozess</item>
         <item>Max. 2 Prozesse</item>
         <item>Max. 3 Prozesse</item>
-        <item>Max. 4 Prozesse</item>>
+        <item>Max. 4 Prozesse</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Systemauswahl nutzen (Standard)</item>
