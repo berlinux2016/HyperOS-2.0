@@ -54,7 +54,7 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
-        <item quantity="one">vor 1 Minute</item>
+        <item quantity="one">Vor 1 Minute</item>
     </plurals>
     <plurals name="settings_clear_data_confirmation">
         <item quantity="other">"Wenn Sie jetzt Passwörter löschen, müssen Sie sie bei der nächsten Anmeldung manuell eingeben.

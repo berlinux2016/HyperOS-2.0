@@ -35,7 +35,7 @@
     </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">%s für Sie empfohlene Artikel anzeigen</item>
-        <item quantity="one">%s für Sie empfohlenes Artikel anzeigen</item>
+        <item quantity="one">%s für Sie empfohlenen Artikel anzeigen</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
