@@ -154,8 +154,8 @@
         <item quantity="one">WLAN wird automatisch eingeschaltet, wenn Ihr Gerät gespeicherte Netzwerke in der Nähe erkennt, und nach %d Min ausgeschaltet, wenn keine Verbindung hergestellt wird</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d Elemente gewählt</item>
-        <item quantity="one">%d Element gewählt</item>
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d neue Benachrichtigungen</item>
@@ -170,8 +170,8 @@
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
     <plurals name="saved_network_checked_num">
-        <item quantity="other">%d Elemente gewählt</item>
-        <item quantity="one">%d Element gewählt</item>
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Sie sind %1$d Schritte vom Aufrufen des CIT entfernt.</item>

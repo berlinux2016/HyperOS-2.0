@@ -30,12 +30,12 @@
         <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="article_num">
-        <item quantity="other">%d Elemente</item>
-        <item quantity="one">%d Element</item>
+        <item quantity="other">%d Artikel</item>
+        <item quantity="one">%d Artikel</item>
     </plurals>
     <plurals name="feed_article_entrance_title">
-        <item quantity="other">%s für Sie empfohlene Elemente anzeigen</item>
-        <item quantity="one">%s für Sie empfohlenes Element anzeigen</item>
+        <item quantity="other">%s für Sie empfohlene Artikel anzeigen</item>
+        <item quantity="one">%s für Sie empfohlenes Artikel anzeigen</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
@@ -69,8 +69,8 @@
         <item quantity="one">Von %1$s Person abonniert</item>
     </plurals>
     <plurals name="lockscreen_magazine_system_subscribe">
-        <item quantity="other">%1$s Bildschirmhintergründe</item>
-        <item quantity="one">%1$s Bildschirmhintergrund</item>
+        <item quantity="other">%1$s Hintergründe</item>
+        <item quantity="one">%1$s Hintergrund</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
@@ -97,7 +97,7 @@
         <item quantity="one">vor %d Std</item>
     </plurals>
     <plurals name="time_minute_ago">
-        <item quantity="other">vor %d Min</item>
+        <item quantity="other">Vor %d Min</item>
         <item quantity="one">vor %d Min</item>
     </plurals>
     <plurals name="wm_cw_count">

@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Männlich</item>
-        <item>Weiblich</item>
-    </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc">
-        <item>Für die Anmeldung mit dem Xiaomi-Konto</item>
-        <item>Für die Vorschau, das Hoch-/Herunterladen und Synchronisieren von Dateien</item>
+        <item>Zum Anmelden mit Xiaomi-Konto</item>
+        <item>Für Vorschau, Hochladen, Herunterladen und Synchronisieren von Dateien</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
-        <item>Für Xiaomi-Kontoanmeldung</item>
-        <item>Für die Vorschau, das Hoch/Herunterladen und Synchronisieren von Dateien</item>
-        <item>Für die Erkennung verfügbarer Updates</item>
+        <item>Zum Anmelden mit Xiaomi-Konto</item>
+        <item>Für Vorschau, Hochladen, Herunterladen und Synchronisieren von Dateien</item>
+        <item>Zum Erkennen verfügbarer Updates</item>
     </string-array>
 </resources>

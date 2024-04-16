@@ -77,10 +77,6 @@
         <item quantity="other">In %d Minuten</item>
         <item quantity="one">In 1 Minute</item>
     </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d Elemente ausgewählt</item>
-        <item quantity="one">%d Element ausgewählt</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
     </plurals>

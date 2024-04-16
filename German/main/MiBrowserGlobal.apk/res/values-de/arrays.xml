@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Männlich</item>
-        <item>Weiblich</item>
-    </string-array>
     <string-array name="menu_theme_setting">
         <item>Weiß</item>
         <item>Gelb</item>
@@ -37,7 +33,7 @@
         <item>Nichts</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Startseite (Standard)</item>
+        <item>Standard-Startseite</item>
         <item>Benutzerdefiniert</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
@@ -49,7 +45,7 @@
         <item>Horizontale Ansicht</item>
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
-        <item>AN</item>
+        <item>An</item>
         <item>Nur im Inkognito-Modus</item>
         <item>Aus</item>
     </string-array>
@@ -63,7 +59,7 @@
     <string-array name="pref_web_permissions">
         <item>Einschränken</item>
         <item>Fragen</item>
-        <item>Zulassen</item>
+        <item>Erlauben</item>
     </string-array>
     <string-array name="pref_web_permissions_sub_one">
         <item>Einschränken</item>
@@ -71,7 +67,7 @@
     </string-array>
     <string-array name="pref_web_permissions_sub_two">
         <item>Einschränken</item>
-        <item>Zulassen</item>
+        <item>Erlauben</item>
     </string-array>
     <string-array name="protection_name">
         <item>Automatisch</item>
@@ -91,7 +87,7 @@
         <item>Den Olympischen Spielen mit Mi folgen</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>Aktuelle Netzwerkverbindung ist sehr langsam. Anscheinend befinden Sie sich in einem Gebiet mit schlechter Netzabdeckung.</item>
+        <item>Aktuelle Netzwerkverbindung ist sehr langsam. Anscheinend sind Sie in einem Gebiet mit schlechter Netzabdeckung.</item>
         <item>Aktuelle Netzwerkverbindung ist langsam.</item>
         <item>Keine Probleme mit der Netzwerkverbindung gefunden.</item>
         <item>Aktuelle Netzwerkverbindung ist schnell. Sie ist ausreichend für das Streamen von Filmen!</item>
@@ -100,7 +96,7 @@
     <string-array name="user_guide_info_array">
         <item>Videos und Fotos von Social Media herunterladen</item>
         <item>Bilder und Videos aus WhatsApp-Status speichern</item>
-        <item>Dateien auf Ihrem Gerät verwalten und sie privat machen</item>
+        <item>Dateien auf Ihrem Gerät verwalten und privat machen</item>
     </string-array>
     <string-array name="user_guide_title_array">
         <item>Videos herunterladen</item>

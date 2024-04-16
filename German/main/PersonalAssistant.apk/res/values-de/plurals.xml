@@ -167,8 +167,8 @@
         <item quantity="one">%s Artikel gewählt</item>
     </plurals>
     <plurals name="pa_express_main_mul_choice_title">
-        <item quantity="other">%d Elemente gewählt</item>
-        <item quantity="one">%d Element gewählt</item>
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
     </plurals>
     <plurals name="pa_express_settings_title_2">
         <item quantity="other">Sie haben %d Rufnummern hinzugefügt</item>

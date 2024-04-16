@@ -112,8 +112,8 @@ Längere Animationen werden an dieser Stelle gestoppt."</item>
         <item quantity="other">Sofort</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="one">in 1 Minute</item>
-        <item quantity="other">in %d Minuten</item>
+        <item quantity="one">In 1 Minute</item>
+        <item quantity="other">In %d Minuten</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>

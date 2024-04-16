@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="other">vor 1 Stunde</item>
+        <item quantity="other">Vor 1 Stunde</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">vor 1 Stunde</item>
+        <item quantity="other">Vor 1 Stunde</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
@@ -19,14 +19,14 @@
         <item quantity="other">Sofort</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d Min</item>
+        <item quantity="other">In %d Min</item>
         <item quantity="one">In %d Min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">vor %d Min</item>
+        <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="birthday_format">
@@ -122,8 +122,8 @@
         <item quantity="other">Sofort</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d Minuten</item>
-        <item quantity="one">in 1 Minute</item>
+        <item quantity="other">In %d Minuten</item>
+        <item quantity="one">In 1 Minute</item>
     </plurals>
     <plurals name="last_measure_date_interval">
         <item quantity="other">%1$d Tage seit letztem Wiegen</item>
@@ -169,8 +169,8 @@
         <item quantity="one">vor %1$d Min</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d Elemente gewählt</item>
-        <item quantity="one">%d Element gewählt</item>
+        <item quantity="other">%d Elemente ausgewählt</item>
+        <item quantity="one">%d Element ausgewählt</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d neue Benachrichtigungen</item>
