@@ -38,11 +38,11 @@
         <item quantity="one">Atmosphärischer Druck: %s Hektopascal</item>
     </plurals>
     <plurals name="character_pitch_minus">
-        <item quantity="other">Reduzierte Zeichenabstände. Zeichenabstand %s.</item>
+        <item quantity="other">Reduzierter Zeichenabstand. Zeichenabstand %s.</item>
         <item quantity="one">Reduzierter Zeichenabstand. Zeichenabstand %s.</item>
     </plurals>
     <plurals name="character_pitch_plus">
-        <item quantity="other">Vergrößerte Zeichenabstände. Zeichenabstand %s.</item>
+        <item quantity="other">Vergrößerter Zeichenabstand. Zeichenabstand %s.</item>
         <item quantity="one">Vergrößerter Zeichenabstand. Zeichenabstand %s.</item>
     </plurals>
     <plurals name="choose_long_gif_limit_toast_tip">
@@ -119,11 +119,11 @@ Längere Animationen werden an dieser Stelle gestoppt."</item>
         <item quantity="other">Gerade eben</item>
     </plurals>
     <plurals name="line_spacing_puls">
-        <item quantity="other">Vergrößerte Zeilenabstände. Zeilenabstand %s.</item>
+        <item quantity="other">Vergrößerter Zeilenabstand. Zeilenabstand %s.</item>
         <item quantity="one">Vergrößerter Zeilenabstand. Zeilenabstand %s.</item>
     </plurals>
     <plurals name="lines_pacing_minus">
-        <item quantity="other">Reduzierte Zeilenabstände. Zeilenabstand %s.</item>
+        <item quantity="other">Reduzierter Zeilenabstand. Zeilenabstand %s.</item>
         <item quantity="one">Reduzierter Zeilenabstand. Zeilenabstand %s.</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">

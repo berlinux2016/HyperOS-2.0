@@ -361,9 +361,9 @@
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>" | Aktiv"</item>
-        <item>" | Aktiv (Medien)"</item>
-        <item>" | Aktiv (Telefonieren)"</item>
+        <item>, aktiv</item>
+        <item>, aktiv (Medien)</item>
+        <item>, aktiv (Telefon)</item>
     </string-array>
     <string-array name="bluetooth_audio_routing_titles">
         <item>App-Standard verwenden</item>

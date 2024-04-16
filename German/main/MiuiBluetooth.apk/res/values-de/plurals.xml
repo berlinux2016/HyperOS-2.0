@@ -34,12 +34,12 @@
         <item quantity="one">Taste auf der Box für %1$d Sek gedrückt halten</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Touchpad an einem der Kopfhörer für %1$d Sek festhalten</item>
-        <item quantity="one">Touchpad an einem der Kopfhörer für %1$d Sek festhalten</item>
+        <item quantity="other">Beliebige berührungsempfindliche Stelle an den Kopfhörern für %1$d Sek gedrückt halten</item>
+        <item quantity="one">Beliebige berührungsempfindliche Stelle an den Kopfhörern für %1$d Sek gedrückt halten</item>
     </plurals>
     <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Zum Reset %1$d Sek lang drücken und halten</item>
-        <item quantity="one">Zum Reset %1$d Sek lang drücken und halten</item>
+        <item quantity="other">Zum Zurücksetzen %1$d Sek lang gedrückt halten</item>
+        <item quantity="one">Zum Zurücksetzen %1$d Sek lang gedrückt halten</item>
     </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Taste für %1$s Sek gedrückt halten, wenn das Gerät aus ist</item>
@@ -68,16 +68,8 @@
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d neue Benachrichtigungen</item>
-        <item quantity="one">%d neue Benachrichtigung</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d Geräte verbunden</item>
-        <item quantity="one">%1$d Gerät verbunden</item>
     </plurals>
 </resources>

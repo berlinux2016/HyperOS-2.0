@@ -30,8 +30,8 @@
         <item quantity="one">Vor %d Min</item>
     </plurals>
     <plurals name="file_received_successfully">
-        <item quantity="other">%2$d Dateien von %1$s erfolgreich erhalten</item>
-        <item quantity="one">%2$d Datei von %1$s erfolgreich erhalten</item>
+        <item quantity="other">%2$d Dateien von %1$s erfolgreich empfangen</item>
+        <item quantity="one">%2$d Datei von %1$s erfolgreich empfangen</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d Dateien</item>
@@ -41,8 +41,8 @@
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="image_received_successfully">
-        <item quantity="other">%2$d Bilder von %1$s erfolgreich erhalten</item>
-        <item quantity="one">%2$d Bild von %1$s erfolgreich erhalten</item>
+        <item quantity="other">%2$d Bilder von %1$s erfolgreich empfangen</item>
+        <item quantity="one">%2$d Bild von %1$s erfolgreich empfangen</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>
