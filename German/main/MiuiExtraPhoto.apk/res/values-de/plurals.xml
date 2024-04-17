@@ -61,7 +61,7 @@
         <item quantity="one">Insgesamt %1$d Element</item>
      </plurals>
     <plurals name="talkback_selection_numerator">
-        <item quantity="other">%1$d Elemente gewählt</item>
-        <item quantity="one">%1$d Element gewählt</item>
+        <item quantity="other">%1$d Elemente ausgewählt</item>
+        <item quantity="one">%1$d Element ausgewählt</item>
     </plurals>
 </resources>

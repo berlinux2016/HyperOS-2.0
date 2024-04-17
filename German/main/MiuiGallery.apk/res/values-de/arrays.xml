@@ -1,39 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="acc_category_color_description">
-        <item>Weiß</item>
-        <item>Dunkelblau</item>
-        <item>Hellblau</item>
-        <item>Rot</item>
-        <item>Grün</item>
-        <item>Pink</item>
-        <item>Braun</item>
-        <item>Grau</item>
-    </string-array>
-    <string-array name="acc_magic_matting_background_description">
-        <item>Bild wählen</item>
-        <item>Transparenter Hintergrund</item>
-    </string-array>
-    <string-array name="account_user_gender_name">
-        <item>Männlich</item>
-        <item>Weiblich</item>
-    </string-array>
     <string-array name="activities_title">
         <item>Besonderer Tag</item>
         <item>Unvergesslicher Tag</item>
         <item>Lebhafte Momente</item>
     </string-array>
     <string-array name="annual_foods_title">
-        <item>Ein herrliches Jahr</item>
+        <item>Ein köstliches Jahr</item>
         <item>Drei Gänge. Vier Jahreszeiten.</item>
     </string-array>
     <string-array name="annual_travel_title">
         <item>Hallo Welt!</item>
         <item>Unterwegs</item>
-        <item>Ein Kaleidoskop von Orten</item>
+        <item>Ein Kaleidoskop der Orte</item>
     </string-array>
     <string-array name="autumn_season_title">
-        <item>Herbstpracht</item>
+        <item>Herbstliche Pracht</item>
         <item>Strahlender Herbst</item>
     </string-array>
     <string-array name="baby_sexy">
@@ -52,7 +34,7 @@
         <item>Letzten Freitag</item>
     </string-array>
     <string-array name="chinese_holiday_last_year">
-        <item>Letzter chinesischer Silvesterabend</item>
+        <item>Letzten chinesischer Silvesterabend</item>
         <item>Letztes chinesisches Neujahrsfest</item>
         <item>Letztes Laternenfest</item>
         <item>Letztes Drachenboot-Festival</item>
@@ -68,7 +50,7 @@
         <item>Mittherbstfest im Laufe der Jahre</item>
     </string-array>
     <string-array name="chinese_new_year_eve_title">
-        <item>Eine denkwürdige Nacht</item>
+        <item>Eine unvergessliche Nacht</item>
         <item>Neue Seite</item>
         <item>Feuerwerk</item>
     </string-array>
@@ -88,25 +70,11 @@
         <item>Jahr des Drachen</item>
         <item>Jahr der Schlange</item>
         <item>Jahr des Pferdes</item>
-        <item>Jahr der Ziege</item>
+        <item>Jahr des Schafes</item>
     </string-array>
     <string-array name="city_title">
         <item>Stadtansichten</item>
-        <item>Straßen und Winkel</item>
-    </string-array>
-    <string-array name="collage_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mrz</item>
-        <item>Apr</item>
-        <item>Mai</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dez</item>
+        <item>Straßen und Ecken</item>
     </string-array>
     <string-array name="flowers_title">
         <item>Zarte Blütenblätter</item>
@@ -117,16 +85,16 @@
         <item>Wild und frei</item>
     </string-array>
     <string-array name="group_people_title">
-        <item>Unsere Begegnungen</item>
+        <item>Unsere Treffen</item>
         <item>In der Gesellschaft von Freunden</item>
         <item>Lange nicht gesehen</item>
     </string-array>
     <string-array name="holiday_last_year">
-        <item>Letzter Neujahrstag</item>
-        <item>Letzter Valentinstag</item>
-        <item>Letzter Tag der Arbeit</item>
-        <item>Letzter Kindertag</item>
-        <item>Letzter Nationalfeiertag</item>
+        <item>Letzten Neujahrstag</item>
+        <item>Letzten Valentinstag</item>
+        <item>Letzten Tag der Arbeit</item>
+        <item>Letzten Kindertag</item>
+        <item>Letzten Nationalfeiertag</item>
         <item>Letztes Weihnachten</item>
     </string-array>
     <string-array name="holiday_past_year">
@@ -200,136 +168,6 @@
         <item>Neue Freunde und alte Kumpel</item>
         <item>Treffen vom letzten Jahr</item>
     </string-array>
-    <string-array name="magic_effects_audio_titles">
-        <item></item>
-        <item></item>
-        <item>Freizeit</item>
-        <item>Brise</item>
-        <item>Träume</item>
-        <item>Wolken</item>
-        <item>Gedanken</item>
-        <item>Knospen</item>
-        <item>Metamorphose</item>
-        <item>Tiefe</item>
-        <item>Reflexionen</item>
-        <item>Minimalistisch</item>
-        <item>Geheimnisvoll</item>
-        <item>Nebel</item>
-    </string-array>
-    <string-array name="magic_effects_description">
-        <item>Hintergründe in Skizzen umwandeln</item>
-        <item>Hintergründe im Aquarellstil</item>
-        <item>Cyberpunk-Retro</item>
-        <item>Versetzte vertikale Segmente</item>
-        <item>Verschwommene Unschärfe</item>
-        <item>Futuristische Stimmung</item>
-    </string-array>
-    <string-array name="magic_effects_title">
-        <item>Skizze</item>
-        <item>Aquarell</item>
-        <item>RGB</item>
-        <item>Jalousien</item>
-        <item>Beschlagenes Fenster</item>
-        <item>Technik</item>
-    </string-array>
-    <string-array name="magic_effects_video_titles">
-        <item></item>
-        <item>Farbige Kontur</item>
-        <item>Gestrichelte Kontur</item>
-        <item>Fluoreszierende Kontur</item>
-        <item>Farbschatten</item>
-        <item>Stromwellen</item>
-        <item>Aktuell</item>
-        <item>Wellen</item>
-        <item>Partikel</item>
-        <item>Text</item>
-        <item>Flügel</item>
-        <item>Engel</item>
-    </string-array>
-    <string-array name="magic_idp_size_category">
-        <item>Allgemein</item>
-        <item>Reise</item>
-        <item>Arbeit</item>
-        <item>Dokumente</item>
-        <item>Bildung</item>
-        <item>Prüfungen</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_certificates">
-        <item>Soziale Sicherung</item>
-        <item>Gesundheitsbericht</item>
-        <item>Krankenversicherung</item>
-        <item>ID</item>
-        <item>Aufenthaltserlaubnis</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_common">
-        <item></item>
-        <item>Ein Stück</item>
-        <item>Zwei Stück</item>
-        <item>Kleiner als ein Stück</item>
-        <item>Kleiner als zwei Stück</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_education">
-        <item>Zulassungsantrag</item>
-        <item>Studentennetzwerk</item>
-        <item>Schülernetzwerk für Grundschulen</item>
-        <item>Profil Studentennetzwerk</item>
-        <item>Hochschulzulassung</item>
-        <item>NCEE</item>
-        <item>Wiederaufnahme</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_examination">
-        <item>College-Englisch Test 1</item>
-        <item>College-Englisch Test 2</item>
-        <item>College-Englisch Test 3</item>
-        <item>Putonghua-Kenntnistest 1</item>
-        <item>Putonghua-Kenntnistest 2</item>
-        <item>Diplom Englischtest</item>
-        <item>PET für Colleges</item>
-        <item>PETS Level 3</item>
-        <item>Nationale Computer-Ranglisten-Prüfung 1</item>
-        <item>Nationale Computer-Ranglisten-Prüfung 2</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_profession">
-        <item>Zertifizierung als Grund- und Mittelschullehrer</item>
-        <item>Lehrerzertifizierung</item>
-        <item>Führerschein</item>
-        <item>Führungserlaubnis</item>
-        <item>Elektronische Führungserlaubnis</item>
-        <item>Nationales Juraexamen</item>
-        <item>Elektronisches Konstrukteurzertifikat 1. Klasse</item>
-        <item>Konstrukteurzertifikat 2. Klasse</item>
-        <item>Junior-Buchhaltungsprüfung</item>
-        <item>Zertifizierter Wirtschaftsprüfer</item>
-        <item>Führungserlaubnis für Peking</item>
-        <item>Zwischenprüfung für Buchhaltung</item>
-        <item>Prüfung Senior-Buchhalter</item>
-        <item>Qualifikationszertifikat Buchhaltung</item>
-        <item>Prüfung zum Wirtschaftsprüfer</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_visa">
-        <item>Vereinigte Staaten</item>
-        <item>Vietnam</item>
-        <item>Japan</item>
-        <item>Hongkong und Macao</item>
-        <item>Südkorea</item>
-        <item>Thailand (Tourist)</item>
-        <item>Thailand (bei Ankunft)</item>
-        <item>Indien</item>
-        <item>Israel</item>
-        <item>Taiwan</item>
-        <item>Malaysia</item>
-        <item>Neuseeland</item>
-        <item>Italien</item>
-        <item>Argentinien</item>
-        <item>Brasilien</item>
-        <item>Island</item>
-        <item>Kenia</item>
-    </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Verschieben</item>
-        <item>Kopieren</item>
-        <item>Abbrechen</item>
-    </string-array>
     <string-array name="month">
         <item>Januar</item>
         <item>Februar</item>
@@ -345,32 +183,18 @@
         <item>Dezember</item>
     </string-array>
     <string-array name="month_last_year">
-        <item>Letzter Januar</item>
-        <item>Letzter Februar</item>
-        <item>Letzter März</item>
-        <item>Letzter April</item>
-        <item>Letzter Mai</item>
-        <item>Letzter Juni</item>
-        <item>Letzter Juli</item>
-        <item>Letzter August</item>
-        <item>Letzter September</item>
-        <item>Letzter Oktober</item>
-        <item>Letzter November</item>
-        <item>Letzter Dezember</item>
-    </string-array>
-    <string-array name="month_past_year">
-        <item>Januar-Erinnerungen</item>
-        <item>Februar-Erinnerungen</item>
-        <item>März-Erinnerungen</item>
-        <item>April-Erinnerungen</item>
-        <item>Mai-Erinnerungen</item>
-        <item>Juni-Erinnerungen</item>
-        <item>Juli-Erinnerungen</item>
-        <item>August-Erinnerungen</item>
-        <item>September-Erinnerungen</item>
-        <item>Oktober-Erinnerungen</item>
-        <item>November-Erinnerungen</item>
-        <item>Dezember-Erinnerungen</item>
+        <item>Letzten Januar</item>
+        <item>Letzten Februar</item>
+        <item>Letzten März</item>
+        <item>Letzten April</item>
+        <item>Letzten Mai</item>
+        <item>Letzten Juni</item>
+        <item>Letzten Juli</item>
+        <item>Letzten August</item>
+        <item>Letzten September</item>
+        <item>Letzten Oktober</item>
+        <item>Letzten November</item>
+        <item>Letzten Dezember</item>
     </string-array>
     <string-array name="monthly_babies_title">
         <item>Du bist groß geworden!</item>
@@ -420,16 +244,16 @@
     </string-array>
     <string-array name="recent_group_people">
         <item>Gemeinsam</item>
-        <item>Verpflichtungen und Bindungen</item>
+        <item>Bindungen und Verpflichtungen</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Ich</item>
         <item>Kind</item>
         <item>Familie</item>
-        <item>Kollegen</item>
-        <item>Schulkollegen</item>
-        <item>Freunde</item>
-        <item>Ungruppiert</item>
+        <item>Kollege</item>
+        <item>Mitschüler</item>
+        <item>Freund</item>
+        <item>Unbekannt</item>
     </string-array>
     <string-array name="season">
         <item>Frühling</item>
@@ -442,25 +266,6 @@
          <item>Letzten Sommer</item>
          <item>Letzten Herbst</item>
          <item>Letzten Winter</item>
-    </string-array>
-    <string-array name="season_past_year">
-         <item>Frühling-Erinnerungen</item>
-         <item>Sommer-Erinnerungen</item>
-         <item>Herbst-Erinnerungen</item>
-         <item>Winter-Erinnerungen</item>
-    </string-array>
-    <string-array name="season_recap">
-         <item>Frühlingsrückblick</item>
-         <item>Sommerrückblick</item>
-         <item>Herbstrückblick</item>
-         <item>Winterrückblick</item>
-    </string-array>
-    <string-array name="search_voice_assistant_suggestion">
-        <item>Helfen Sie mir bei der Suche nach dem Lichtbildausweis</item>
-        <item>Ich möchte mir die Bilder in Sanya ansehen</item>
-        <item>Finden Sie die kleinen M-Text Bilder</item>
-        <item>Nach den Mond-Neujahrsfotos vom letzten Jahr suchen</item>
-        <item>Helfen Sie mir, mich und meine Mutter letzten Monat auf dem Foto vom Meer zu finden</item>
     </string-array>
     <string-array name="sharer_relation_addressive">
         <item>Vater</item>
@@ -476,7 +281,7 @@
     </string-array>
     <string-array name="spring_season_title">
         <item>Frühlingsblüten</item>
-        <item>Der Frühling liegt in der Luft</item>
+        <item>Frühling liegt in der Luft</item>
         <item>Hallo Frühling!</item>
     </string-array>
     <string-array name="summer_season_title">
@@ -495,7 +300,7 @@
         <item>Vergangene Wochenenden</item>
         <item>Tage zum Erinnern</item>
         <item>Tägliche Termine</item>
-        <item>Gewöhnliche &amp; außerordentliche</item>
+        <item>Gewöhnlich &amp; außerordentlich</item>
     </string-array>
     <string-array name="winter_season_title">
         <item>Wintertage</item>

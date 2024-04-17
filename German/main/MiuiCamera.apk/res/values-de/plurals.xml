@@ -49,14 +49,6 @@
         <item quantity="other">Dauer: %d Sekunden</item>
         <item quantity="one">Dauer: %d Sekunde</item>
       </plurals>
-    <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Schnellvorlauf %d Sek</item>
-        <item quantity="one">Schnellvorlauf %d Sek</item>
-    </plurals>
-    <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Zurückspulen %d Sek</item>
-        <item quantity="one">Zurückspulen %d Sek</item>
-    </plurals>
     <plurals name="cinemaster_toast_camera_overflow">
         <item quantity="other">Sie können bis zu %d Kameras mit demselben Netzwerk verbinden</item>
         <item quantity="one">Sie können bis zu %d Kamera mit demselben Netzwerk verbinden</item>
@@ -69,13 +61,9 @@
         <item quantity="other">Sie können bis zu %d Klone auf einmal erstellen.</item>
         <item quantity="one">Sie können bis zu %d Klon auf einmal erstellen.</item>
     </plurals>
-    <plurals name="delete_selection">
-        <item quantity="other">Ausgewählte Elemente löschen?</item>
-        <item quantity="one">Ausgewähltes Element löschen?</item>
-    </plurals>
     <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>Verbindung zur Kamera nicht möglich.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Danach bitte etwas warten und erneut versuchen.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Verbindung zur Kamera nicht möglich.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Danach bitte etwas warten und erneut versuchen.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Kameraverbindung nicht möglich.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Danach etwas warten und erneut versuchen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kameraverbindung nicht möglich.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Danach etwas warten und erneut versuchen.&lt;/Data></item>
     </plurals>
     <plurals name="exit_thermal_hint">
         <item quantity="other">&lt;Data>Dieses Gerät ist jetzt zu heiß.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Aktueller Fortschritt wurde automatisch gespeichert.&lt;/Data></item>
@@ -84,6 +72,14 @@
     <plurals name="exit_version_hint">
         <item quantity="other">&lt;Data>Die von Ihnen verwendete Kameraversion ist nicht mit Ihrem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
         <item quantity="one">&lt;Data>Die von Ihnen verwendete Kameraversion ist nicht mit Ihrem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Schnellvorlauf %d Sek</item>
+        <item quantity="one">Schnellvorlauf %d Sek</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Zurückspulen %d Sek</item>
+        <item quantity="one">Zurückspulen %d Sek</item>
     </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d Min</item>
@@ -137,8 +133,8 @@
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Ihr Gerät ist überhitzt. Kamera wird in %d Sek geschlossen. Ihre Fotos oder Videos werden automatisch gespeichert.</item>
-        <item quantity="one">Ihr Gerät ist überhitzt. Kamera wird in %d Sek geschlossen. Ihre Fotos oder Videos werden automatisch gespeichert.</item>
+        <item quantity="other">Ihr Gerät ist überhitzt. Kamera wird in %d Sek beendet. Ihre Fotos oder Videos werden automatisch gespeichert.</item>
+        <item quantity="one">Ihr Gerät ist überhitzt. Kamera wird in %d Sek beendet. Ihre Fotos oder Videos werden automatisch gespeichert.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s Min</item>
@@ -157,7 +153,7 @@
         <item quantity="one">%1$s Foto</item>
     </plurals>
     <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Serienbilder fertig, %1$s Fotos aufgenommen</item>
-        <item quantity="one">Serienbilder fertig, %1$s Foto aufgenommen</item>
+        <item quantity="other">Serienbild fertig, %1$s Fotos gemacht</item>
+        <item quantity="one">Serienbild fertig, %1$s Foto gemacht</item>
     </plurals>
 </resources>
