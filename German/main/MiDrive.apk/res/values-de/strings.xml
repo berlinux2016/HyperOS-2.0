@@ -554,7 +554,7 @@
     <string name="unlock_password_dialog_msg">Datenschutzpasswort wird verwendet. Es funktioniert für Fotos, Notizen und Dateien.</string>
     <string name="unlock_password_dialog_title">Datenschutzpasswort</string>
     <string name="update_dialog_button_cancel">Jetzt nicht</string>
-    <string name="update_dialog_button_ok">Aktualisierung</string>
+    <string name="update_dialog_button_ok">Installieren</string>
     <string name="update_dialog_content">Neue Version: %1$s \n%2$s</string>
     <string name="update_dialog_title">Update verfügbar</string>
     <string name="update_failed">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
