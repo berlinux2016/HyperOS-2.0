@@ -38,12 +38,12 @@
         <item quantity="one">%1$d Bild jetzt löschen?</item>
       </plurals>
     <plurals name="choosed">
-        <item quantity="other">%1$d Elemente gewählt</item>
-        <item quantity="one">%1$d Element gewählt</item>
+        <item quantity="other">%1$d Elemente ausgewählt</item>
+        <item quantity="one">%1$d Element ausgewählt</item>
     </plurals>
     <plurals name="document_duplicate_data_tip">
-        <item quantity="other">Erfolgreich importiert (%1$d duplizierte Elemente gefiltert)</item>
-        <item quantity="one">Erfolgreich importiert (%1$d dupliziertes Element gefiltert)</item>
+        <item quantity="other">Erfolgreich importiert (%1$d doppelte Elemente gefiltert)</item>
+        <item quantity="one">Erfolgreich importiert (%1$d doppeltes Element gefiltert)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>

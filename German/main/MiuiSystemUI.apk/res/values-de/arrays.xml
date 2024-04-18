@@ -6,8 +6,8 @@
         <item>Symbol nicht anzeigen</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Stunde, Minute und Sekunde anzeigen</item>
-        <item>Stunde und Minute anzeigen (Standard)</item>
+        <item>Stunde, Minute u. Sekunde anzeigen</item>
+        <item>Stunde u. Minute anzeigen (Standard)</item>
         <item>Symbol nicht anzeigen</item>
     </string-array>
     <string-array name="nav_bar_buttons">
@@ -25,37 +25,37 @@
     <string-array name="tile_states_airplane">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_alarm">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_battery">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_bt">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_cameratoggle">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_cast">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_cell">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_color_correction">
         <item>Nicht verfügbar</item>
@@ -70,12 +70,12 @@
     <string-array name="tile_states_dark">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_dnd">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_dream">
         <item>Nicht verfügbar</item>
@@ -85,7 +85,7 @@
     <string-array name="tile_states_flashlight">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_font_scaling">
         <item>Nicht verfügbar</item>
@@ -95,12 +95,12 @@
     <string-array name="tile_states_hotspot">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_internet">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_inversion">
         <item>Nicht verfügbar</item>
@@ -115,12 +115,12 @@
     <string-array name="tile_states_mictoggle">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
       </string-array>
       <string-array name="tile_states_night">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_onehanded">
         <item>Nicht verfügbar</item>
@@ -135,12 +135,12 @@
     <string-array name="tile_states_reduce_brightness">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_reverse">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_rotation">
         <item>Nicht verfügbar</item>
@@ -150,46 +150,46 @@
     <string-array name="tile_states_saver">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_screenrecord">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_wallet">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_wifi">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="tile_states_work">
         <item>Nicht verfügbar</item>
         <item>Aus</item>
-        <item>AN</item>
+        <item>An</item>
     </string-array>
     <string-array name="udfps_accessibility_touch_hints">
-        <item>Nach links bewegen</item>
-        <item>Nach unten bewegen</item>
-        <item>Nach rechts bewegen</item>
-        <item>Nach oben bewegen</item>
+        <item>Nach links</item>
+        <item>Nach unten</item>
+        <item>Nach rechts</item>
+        <item>Nach oben</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>
         <item>Scannen…</item>
         <item>Verbinden…</item>
-        <item>Authentisierung…</item>
+        <item>Authentisieren…</item>
         <item>IP-Adresse abrufen…</item>
         <item>Verbunden</item>
         <item>Ausgesetzt</item>
         <item>Trennen…</item>
         <item>Getrennt</item>
-        <item>Erfolglos</item>
-        <item>Gesperrt</item>
+        <item>Fehlgeschlagen</item>
+        <item>Blockiert</item>
         <item>Temporär schlechte Verbindung vermeiden</item>
     </string-array>
 </resources>

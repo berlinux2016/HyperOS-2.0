@@ -2,17 +2,17 @@
 <resources>
     <string-array name="screenrecorder_settings_orientation">
         <item>Automatisch</item>
-        <item>Vertikal</item>
-        <item>Horizontal</item>
+        <item>Hochformat</item>
+        <item>Querformat</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
         <item>Stumm</item>
-        <item>Mikrofon</item>
-        <item>System</item>
+        <item>Mikro</item>
+        <item>Systemtöne</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_native">
         <item>Nichts</item>
-        <item>Mikrofon</item>
+        <item>Mikro</item>
         <item>System</item>
         <item>Beides</item>
     </string-array>

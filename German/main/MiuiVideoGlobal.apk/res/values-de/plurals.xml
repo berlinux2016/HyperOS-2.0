@@ -49,10 +49,6 @@
         <item quantity="other">Zurück zur Startseite in %1$d Sekunden…</item>
         <item quantity="one">Zurück zur Startseite in %1$d Sekunde…</item>
     </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d Follower</item>
-        <item quantity="one">%d Follower</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
@@ -89,8 +85,8 @@
         <item quantity="one">%d Video</item>
    </plurals>
     <plurals name="local_longpress_speed_chenge_tip">
-        <item quantity="other">Wiedergabe mit %sX Geschwindigkeit. Loslassen, um mit normaler Geschwindigkeit abzuspielen.</item>
-        <item quantity="one">Wiedergabe mit %sX Geschwindigkeit. Loslassen, um mit normaler Geschwindigkeit abzuspielen.</item>
+        <item quantity="other">Wiedergabe mit %sX Geschwindigkeit. Loslassen für normale Geschwindigkeit.</item>
+        <item quantity="one">Wiedergabe mit %sX Geschwindigkeit. Loslassen für normale Geschwindigkeit.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d Ordner</item>
@@ -105,12 +101,12 @@
         <item quantity="one">%d Staffel</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
-        <item quantity="other">Untertitel werden %.1f Sekunden früher gezeigt</item>
-        <item quantity="one">Untertitel werden %.1f Sekunde früher gezeigt</item>
+        <item quantity="other">Untertitel werden %.1f Sek früher gezeigt</item>
+        <item quantity="one">Untertitel werden %.1f Sek früher gezeigt</item>
     </plurals>
       <plurals name="lv_subtitle_offset_delay_times">
-        <item quantity="other">Untertitel werden um %.1f Sekunden verzögert</item>
-        <item quantity="one">Untertitel werden um %.1f Sekunde verzögert</item>
+        <item quantity="other">Untertitel werden um %.1f Sek verzögert</item>
+        <item quantity="one">Untertitel werden um %.1f Sek verzögert</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">Größe: %.2fKB</item>
@@ -161,8 +157,8 @@
         <item quantity="one">%s Element jetzt löschen?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
-        <item quantity="other">%s Elemente gewählt</item>
-        <item quantity="one">%s Element gewählt</item>
+        <item quantity="other">%s Elemente ausgewählt</item>
+        <item quantity="one">%s Element ausgewählt</item>
     </plurals>
     <plurals name="plus_local_edit_delete_confirm_text">
         <item quantity="other">%s Dateien jetzt endgültig löschen?</item>
@@ -184,25 +180,13 @@
         <item quantity="other">%d Videos</item>
         <item quantity="one">%d Video</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d Kommentare</item>
-        <item quantity="one">%d Kommentar</item>
-    </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d Antworten</item>
-        <item quantity="one">%d Antwort</item>
-    </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">Alle %d Kommentare anzeigen</item>
-        <item quantity="one">%d Kommentar anzeigen</item>
-    </plurals>
     <plurals name="s_double_tap_backward">
-        <item quantity="other">Doppeltipp zum Zurückspulen um %d Sekunden</item>
-        <item quantity="one">Doppeltipp zum Zurückspulen um %d Sekunde</item>
+        <item quantity="other">Doppeltipp, um %d Sek zurückzuspulen</item>
+        <item quantity="one">Doppeltipp, um %d Sek zurückzuspulen</item>
     </plurals>
     <plurals name="s_double_tap_forward">
-        <item quantity="other">Doppeltipp zum Vorspulen um %d Sekunden</item>
-        <item quantity="one">Doppeltipp zum Vorspulen um %d Sekunde</item>
+        <item quantity="other">Doppeltipp, um %d Sek vorzuspulen</item>
+        <item quantity="one">Doppeltipp, um %d Sek vorzuspulen</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s Sek</item>
@@ -213,8 +197,8 @@
         <item quantity="one"> Abonnent</item>
     </plurals>
     <plurals name="subtitle_offset_advance_times">
-        <item quantity="other">Untertitel werden %.1f Sekunden vorwärts verschoben</item>
-        <item quantity="one">Untertitel werden %.1f Sekunde vorwärts verschoben</item>
+        <item quantity="other">Untertitel werden %.1f Sekunden vorwärts versetzt</item>
+        <item quantity="one">Untertitel werden %.1f Sekunde vorwärts versetzt</item>
     </plurals>
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">Untertitel werden um %.1f Sekunden verzögert</item>
