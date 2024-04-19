@@ -146,6 +146,7 @@
     <string name="asm_google_query_failed">Produktinfo abrufen fehlgeschlagen</string>
     <string name="asm_google_service_failed">Google-Dienste wurden nicht gestartet. Erneut versuchen.</string>
     <string name="asm_gooleplay_notice">Google Play-Dienste sind nicht installiert</string>
+    <string name="asm_item_not_available">Element ist nicht verfügbar</string>
     <string name="asm_loadstate_error_retry">Internetverbindung herstellen und tippen, um es erneut zu versuchen</string>
     <string name="asm_loadstate_not_more">Das ist im Moment alles</string>
     <string name="asm_network_error">Netzwerkverbindung prüfen</string>
@@ -761,6 +762,7 @@
     <string name="lyric_ai_dialog_one">•Sie können den Text durch Antippen erkennen, und wir geben den Text mithilfe der KI-Spracherkennungstechnologie für Sie ein.</string>
     <string name="lyric_ai_dialog_three">•Sie können den Fortschritt in der Songtext-Symbolleiste prüfen.</string>
     <string name="lyric_ai_dialog_two">•Erkennung wird ein paar Minuten dauern. Sobald sie abgeschlossen ist, wird der Songtext automatisch eingefügt.</string>
+    <string name="lyric_ai_fail_toast">Datei ist zu groß zum Erkennen</string>
     <string name="lyric_ai_identify_success">Songtext erfolgreich erkannt</string>
     <string name="lyric_ai_song">Aktueller Titel</string>
     <string name="lyric_ai_song_list">Titel</string>

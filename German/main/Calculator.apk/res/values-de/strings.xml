@@ -50,7 +50,7 @@
     <string name="cosDesc">Kosinus</string>
     <string name="cta_desc">Willkommen bei Rechner! Diese App kombiniert die Funktionen eines normalen Taschenrechners mit mehreren Konvertern und Lifestyle-Funktionen. Diese App benötigt eine Internetverbindung, um normal zu funktionieren.</string>
     <string name="currency_update_connect_to_get_data">Wechselkurse werden von Webull zur Verfügung gestellt. Mit Netzwerk verbinden, um die neuesten Informationen zu erhalten.</string>
-    <string name="currency_update_support">Wechselkurse werden von Webull zur Verfügung gestellt</string>
+    <string name="currency_update_support">"Wechselkurse werden von Webull zur Verfügung gestellt. "</string>
     <string name="currency_update_time_format">Wechselkurse werden von Webull zur Verfügung gestellt (%s)</string>
     <string name="currency_update_updating">Kurse aktualisieren…</string>
     <string name="data_analysis">Analyse</string>
@@ -275,7 +275,7 @@
     <string name="mortgage_result">Ergebnis</string>
     <string name="mt_max">Eingegebener Betrag ist zu groß</string>
     <string name="mulDesc">Multiplikation</string>
-    <string name="name_discount">Rabatt (% aus)</string>
+    <string name="name_discount">Rabatt (%)</string>
     <string name="name_original">Originalpreis</string>
     <string name="name_price">Endpreis</string>
     <string name="name_save">"Sie sparen "</string>
@@ -542,6 +542,7 @@
     <string name="unit_data_display_currency_lrd">Liberianischer Dollar</string>
     <string name="unit_data_display_currency_lyd">Libyscher Dinar</string>
     <string name="unit_data_display_currency_mad">Marokkanischer Dirham</string>
+    <string name="unit_data_display_currency_mdl">Moldauischer Leu</string>
     <string name="unit_data_display_currency_mmk">Myanmar Kyat</string>
     <string name="unit_data_display_currency_mnt">Mongolischer Tugrik</string>
     <string name="unit_data_display_currency_mop">Macauische Pataca</string>
