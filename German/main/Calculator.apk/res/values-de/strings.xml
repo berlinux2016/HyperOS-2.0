@@ -275,7 +275,7 @@
     <string name="mortgage_result">Ergebnis</string>
     <string name="mt_max">Eingegebener Betrag ist zu groß</string>
     <string name="mulDesc">Multiplikation</string>
-    <string name="name_discount">Rabatt (%)</string>
+    <string name="name_discount">Rabatt (%s)</string>
     <string name="name_original">Originalpreis</string>
     <string name="name_price">Endpreis</string>
     <string name="name_save">"Sie sparen "</string>
