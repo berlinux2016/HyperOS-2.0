@@ -77,7 +77,7 @@
     <string-array name="debug_open_intercept">
         <item>Mit einem Computer ist es möglich, auf Dateien auf Ihrem Gerät zuzugreifen und diese zu bearbeiten.</item>
         <item>Installation von Apps auf Ihrem Gerät ohne Ihre ausdrückliche Zustimmung ist erlaubt.</item>
-        <item>Sie werden in der Lage sein, Ihren Bildschirminhalt aus der Ferne zu überwachen und aufzuzeichnen.</item>
+        <item>Sie können dann Ihren Bildschirminhalt aus der Ferne überwachen und aufzeichnen.</item>
         <item>Es wird möglich sein, auf detaillierte Gerätedaten zuzugreifen.</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
@@ -85,11 +85,11 @@
         <item>Nein</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
-        <item>Niedrigste</item>
+        <item>Am niedrigsten</item>
         <item>Niedrig</item>
         <item>Normal</item>
         <item>Hoch</item>
-        <item>Höchste</item>
+        <item>Am höchsten</item>
     </string-array>
     <string-array name="lock_mode">
         <item>Wenn das Gerät gesperrt ist</item>

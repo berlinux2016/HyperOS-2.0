@@ -129,7 +129,7 @@
         <item quantity="one">%1$d Nummer</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">in 1 Stunde</item>
+        <item quantity="other">In 1 Stunde</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">In einer halben Stunde</item>

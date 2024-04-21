@@ -829,7 +829,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="keyguard_accessibility_widget_empty_slot">Leer</string>
     <string name="keyguard_accessibility_widget_reorder_end">Neuordnung der Widgets abgeschlossen</string>
     <string name="keyguard_accessibility_widget_reorder_start">Neuordnung der Widgets gestartet</string>
-    <string name="keyguard_label_text">Zum Entsperren Menütaste und dann \"0\" drücken</string>
+    <string name="keyguard_label_text">Zum Entsperren Menü-Taste und dann \"0\" drücken</string>
     <string name="keyguard_password_enter_password_code">Passwort zum Entsperren eingeben</string>
     <string name="keyguard_password_enter_pin_code">PIN-Code eingeben</string>
     <string name="keyguard_password_enter_pin_password_code">PIN zum Entsperren eingeben</string>
@@ -919,8 +919,8 @@ In %3$d Sekunden erneut versuchen."</string>
     <string name="lockscreen_glogin_submit_button">Anmelden</string>
     <string name="lockscreen_glogin_too_many_attempts">Zu viele Musterversuche</string>
     <string name="lockscreen_glogin_username_hint">Benutzername (E-Mail)</string>
-    <string name="lockscreen_instructions_when_pattern_disabled">Zum Entsperren Menütaste drücken</string>
-    <string name="lockscreen_instructions_when_pattern_enabled">Drücken Sie die Menütaste, um das Telefon zu entsperren oder einen Notruf zu tätigen</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">Zum Entsperren Menü-Taste drücken</string>
+    <string name="lockscreen_instructions_when_pattern_enabled">Drücken Sie die Menü-Taste, um das Telefon zu entsperren oder einen Notruf zu tätigen</string>
     <string name="lockscreen_missing_sim_instructions">Legen Sie eine SIM ein</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM fehlt oder ist nicht lesbar. Bitte legen Sie eine SIM ein.</string>
     <string name="lockscreen_missing_sim_message">Keine SIM im Telefon</string>

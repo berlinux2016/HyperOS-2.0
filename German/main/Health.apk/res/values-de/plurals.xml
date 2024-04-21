@@ -165,8 +165,8 @@
         <item quantity="one">%1$d Min</item>
     </plurals>
     <plurals name="minutes_ago">
-        <item quantity="other">vor %1$d Min</item>
-        <item quantity="one">vor %1$d Min</item>
+        <item quantity="other">Vor %1$d Min</item>
+        <item quantity="one">Vor %1$d Min</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>

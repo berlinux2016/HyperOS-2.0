@@ -3051,7 +3051,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="enable_service_title">Dienst führt diese Aktionen durch:</string>
     <string name="enable_sizecompat_freeform">Skalierbare Fenster erzwingen</string>
     <string name="enable_sizecompat_freeform_summary">Apps mit Kompatibilitätseinschränkungen dürfen in skalierbaren Fenstern laufen</string>
-    <string name="enable_snapshot_screenlock">Zurücktaste lange gedrückt halten, um ein Foto zu machen</string>
+    <string name="enable_snapshot_screenlock">Zurück-Taste lange gedrückt halten, um ein Foto zu machen</string>
     <string name="enable_snpn">SNPN aktivieren</string>
     <string name="enable_terminal_summary">Terminal-App aktivieren, die lokalen Shell-Zugriff bietet</string>
     <string name="enable_terminal_title">Lokales Terminal</string>
@@ -4799,11 +4799,11 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="long_background_tasks_label">Lange Hintergrundaufgaben</string>
     <string name="long_background_tasks_switch_title">Langanhaltende Hintergrundaufgaben erlauben</string>
     <string name="long_background_tasks_title">Lange Hintergrundaufgaben</string>
-    <string name="long_press_back_key">Zurücktaste lange drücken</string>
+    <string name="long_press_back_key">Zurück-Taste lange drücken</string>
     <string name="long_press_buttom_key">Home-Taste am Sperrbildschirm lange drücken</string>
     <string name="long_press_home_key">Home-Taste lange drücken</string>
-    <string name="long_press_menu_key">Menütaste lange drücken</string>
-    <string name="long_press_menu_key_when_lock">Menütaste am Sperrbildschirm lange drücken</string>
+    <string name="long_press_menu_key">Menü-Taste lange drücken</string>
+    <string name="long_press_menu_key_when_lock">Menü-Taste am Sperrbildschirm lange drücken</string>
     <string name="long_press_power_key">Power-Taste lange drücken</string>
     <string name="long_press_power_key_half_of_second">Power-Taste 0,5 Sek gedrückt halten, um Google Assistant einzuschalten</string>
     <string name="long_press_power_key_half_second">Power-Taste %s Sek gedrückt halten</string>
@@ -7122,11 +7122,11 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_ambient_display_screen_title">Ambient Display;Always-on Display;Always on Display</string>
     <string name="search_apn_settings">APN;Zugangspunktnamen</string>
     <string name="search_app_invisible">App unsichbar;unsichtbare Apps</string>
-    <string name="search_app_switch_key">Letzte Apps;kürzlich;zuletzt;zuletzt verwendet;Menü;Menütaste;Taskmanager</string>
+    <string name="search_app_switch_key">Letzte Apps;kürzlich;zuletzt;zuletzt verwendet;Menü;Menü-Taste;Taskmanager</string>
     <string name="search_application_count">Apps suchen</string>
     <string name="search_application_lock_name">App-Sperre</string>
     <string name="search_applications_settings">Installierte Apps</string>
-    <string name="search_back_key">Zurück;Zurücktaste</string>
+    <string name="search_back_key">Zurück;Zurück-Taste</string>
     <string name="search_bar_search">Suchen</string>
     <string name="search_battery_indicator">Akkuanzeige</string>
     <string name="search_bluetooth_device_searchable">Erkennbar;Sichtbar;Bluetoothname</string>
@@ -8374,7 +8374,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="switch_power_sound">Ton abspielen beim Anschließen des Ladegeräts</string>
     <string name="switch_role">Wechseln</string>
     <string name="switch_screen_button_order">Tasten spiegeln</string>
-    <string name="switch_screen_button_order_desc">Zurück- und Menütaste spiegeln</string>
+    <string name="switch_screen_button_order_desc">Zurück- und Menü-Taste spiegeln</string>
     <string name="switch_select_to_speak_on">Zum Sprechen auswählen</string>
     <string name="switch_sim_dialog_no_switch_text">Um mobile Daten, Anruffunktionen und SMS zu einem späteren Zeitpunkt zu nutzen, gehen Sie zu Ihren Netzwerkeinstellungen.</string>
     <string name="switch_sim_dialog_no_switch_title">Keine aktiven SIMs verfügbar</string>

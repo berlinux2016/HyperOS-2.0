@@ -697,7 +697,7 @@
     <string name="doc_photo_enter">Im Dokument bearbeiten</string>
     <string name="document_provider_guide_step_1">%d. \"Mehr\"-Taste tippen</string>
     <string name="document_provider_guide_step_2">%d. \"Internen Speicher anzeigen\" tippen</string>
-    <string name="document_provider_guide_step_3">%d. Auf die Seitenmenütaste drücken</string>
+    <string name="document_provider_guide_step_3">%d. Auf die SeitenMenü-Taste drücken</string>
     <string name="document_provider_guide_step_4">%d. \"SD-Karte\" wählen</string>
     <string name="document_provider_guide_step_5">%d. \"Auswählen\" tippen</string>
     <string name="dolby_vision_icon">Dolby Vision-Symbol</string>

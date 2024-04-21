@@ -45,7 +45,7 @@
     <string name="doc_photo_crop_toast">Gelöschte Notizen werden nach dem Zuschneiden wieder angezeigt. Trotzdem fortfahren?</string>
     <string name="doc_photo_doc_photo_title">Dokument bearbeiten</string>
     <string name="doc_photo_enhance_bin">S/W</string>
-    <string name="doc_photo_enhance_bin_desc">Schwarz-weiß-Kopie</string>
+    <string name="doc_photo_enhance_bin_desc">Schwarz-Weiß-Kopie</string>
     <string name="doc_photo_enhance_color">Verbessert</string>
     <string name="doc_photo_enhance_color_desc">Verbesserter Farb-Scan</string>
     <string name="doc_photo_enhance_crop">Zuschneiden</string>

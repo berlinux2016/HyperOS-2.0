@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="drop_down_menu">
-        <item>Sortieren nach Empfangszeit</item>
-        <item>Sortieren nach Benachrichtigungsanzahl</item>
-        <item>Anzeigen aktiviert</item>
-        <item>Anzeigen deaktiviert</item>
+        <item>Nach Empfangszeit sortieren</item>
+        <item>Nach Benachrichtigungsanzahl sortieren</item>
+        <item>Apps mit Benachrichtigungsanzeige</item>
+        <item>Apps ohne Benachrichtigungsanzeige</item>
     </string-array>
 </resources>

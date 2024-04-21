@@ -34,8 +34,8 @@
         <item quantity="one">%1$s Element löschen?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%1$s wurden nicht synchronisiert</item>
-        <item quantity="one">%1$s wurde nicht synchronisiert</item>
+        <item quantity="other">%1$s Elemente wurden nicht synchronisiert</item>
+        <item quantity="one">%1$s Element wurde nicht synchronisiert</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d Tage später</item>
@@ -54,14 +54,14 @@
         <item quantity="one">%1$s Notiz aus dem Ordner entfernt</item>
     </plurals>
     <plurals name="format_move_notes_to_folder">
-        <item quantity="other">%1$s Notizen nach %2$s verschieben</item>
-        <item quantity="one">%1$s Notiz nach %2$s verschieben</item>
+        <item quantity="other">%1$s Notizen nach %2$s verschoben</item>
+        <item quantity="one">%1$s Notiz nach %2$s verschoben</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">in 1 Stunde</item>
+        <item quantity="other">In 1 Stunde</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">In einer halben Stunde</item>
@@ -73,10 +73,6 @@
         <item quantity="other">In %d Minuten</item>
         <item quantity="one">In 1 Minute</item>
     </plurals>
-    <plurals name="item_terms">
-        <item quantity="other">%1$s Elemente</item>
-        <item quantity="one">%1$s Element</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Gerade eben</item>
     </plurals>
@@ -87,10 +83,6 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d neue Benachrichtigungen</item>
         <item quantity="one">%d neue Benachrichtigung</item>
-    </plurals>
-    <plurals name="note_count_in_folder">
-        <item quantity="other">%1$s Notizen</item>
-        <item quantity="one">%1$s Notiz</item>
     </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s Notizen</item>
@@ -109,16 +101,8 @@
         <item quantity="one">%1$s Aufgabe gefunden</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d Sekunden übrig</item>
-        <item quantity="one">%d Sekunde übrig</item>
-    </plurals>
-    <plurals name="search_results_title">
-        <item quantity="other">%1$s Treffer für \"%2$s\"</item>
-        <item quantity="one">%1$s Treffer für \"%2$s\"</item>
-    </plurals>
-    <plurals name="toast_notes_hidden_count">
-        <item quantity="other">%1$s Notizen erfolgreich ausgeblendet</item>
-        <item quantity="one">%1$s Notiz erfolgreich ausgeblendet</item>
+        <item quantity="other">%d Sek übrig</item>
+        <item quantity="one">%d Sek übrig</item>
     </plurals>
     <plurals name="toast_notes_unhidden_count">
         <item quantity="other">%1$s Notizen erfolgreich eingeblendet</item>
