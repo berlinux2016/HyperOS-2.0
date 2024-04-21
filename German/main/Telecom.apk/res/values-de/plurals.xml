@@ -52,10 +52,6 @@
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d neue Benachrichtigungen</item>
-        <item quantity="one">%d neue Benachrichtigung</item>
-    </plurals>
     <plurals name="notification_All_AI_MissedCallTitle">
         <item quantity="other">Mi AI hat %1$d Anrufe für Sie beantwortet</item>
         <item quantity="one">Mi AI hat %1$d Anruf für Sie beantwortet</item>
@@ -67,9 +63,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d Geräte verbunden</item>
-        <item quantity="one">%1$d Gerät verbunden</item>
     </plurals>
 </resources>

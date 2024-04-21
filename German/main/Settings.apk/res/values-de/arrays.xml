@@ -371,9 +371,9 @@
         <item>Auf Telefonlautsprecher abspielen</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Standard)</item>
+        <item>AVRCP 1.5 (Standard)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_broadcast_pin_config_titles">
@@ -918,7 +918,7 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Aus</item>
-        <item>Auf Bildschirm als Balken</item>
+        <item>Am Bildschirm als Balken</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
@@ -1113,29 +1113,29 @@ Hinweis: Nur für Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Suchen…</item>
+        <item>Scannen…</item>
         <item>Verbinden…</item>
-        <item>Authentisierung…</item>
+        <item>Authentisieren…</item>
         <item>IP-Adresse abrufen…</item>
         <item>Verbunden</item>
         <item>Ausgesetzt</item>
         <item>Trennen…</item>
         <item>Getrennt</item>
-        <item>Fehlgeschlagen</item>
+        <item>Erfolglos</item>
         <item>Blockiert</item>
         <item>Temporär schlechte Verbindungen vermeiden</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Suchen…</item>
+        <item>Scannen…</item>
         <item>Verbinden mit %1$s…</item>
-        <item>Authentisierung mit %1$s…</item>
+        <item>Authentisieren mit %1$s…</item>
         <item>IP-Adresse abrufen von %1$s…</item>
         <item>Verbunden mit %1$s</item>
         <item>Ausgesetzt</item>
         <item>Trennen von %1$s…</item>
         <item>Getrennt</item>
-        <item>Fehlgeschlagen</item>
+        <item>Erfolglos</item>
         <item>Blockiert</item>
         <item>Temporär schlechte Verbindungen vermeiden</item>
     </string-array>

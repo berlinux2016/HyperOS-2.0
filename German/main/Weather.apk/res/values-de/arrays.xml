@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>Gut</item>
+        <item>Angemessen</item>
+        <item>Moderat</item>
+        <item>Ungesund</item>
+        <item>Schwerwiegend</item>
+        <item>Gefährlich</item>
+    </string-array>
     <string-array name="aqi_title_prefix">
         <item>LQI %1$s</item>
         <item>LQI %1$s</item>
@@ -9,23 +17,11 @@
         <item>LQI %1$s</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;Force 2</item>
-        <item>&lt;6.0 km/h</item>
-        <item>&lt;1.7 m/s</item>
-        <item>&lt;3.7 mph</item>
-        <item>&lt;3.2 kn</item>
-    </string-array>
-    <string-array name="aqi_detail_title">
-        <item>Gut</item>
-        <item>Angemessen</item>
-        <item>Moderat</item>
-        <item>Ungesund</item>
-        <item>Schwerwiegend</item>
-        <item>Gefährlich</item>
-    </string-array>
-    <string-array name="dislike_alert_dialog_selectitems">
-        <item>Nicht interessiert</item>
-        <item>Inhaltsqualität schlecht</item>
+        <item>Stärke 2</item>
+        <item>6–11 km/h</item>
+        <item>1,6–3,3 m/s</item>
+        <item>4–7 mph</item>
+        <item>4–6 kn</item>
     </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
@@ -51,19 +47,6 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
-    <string-array name="indices_car_wash">
-        <item>Geeignet</item>
-        <item>Nicht geeignet</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Geeignet</item>
-        <item>Nicht geeignet</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>Schwach</item>
-        <item>Mittel</item>
-        <item>Stark</item>
-    </string-array>
     <string-array name="minute_rain_array">
         <item>Stark</item>
         <item>Mäßig</item>
@@ -79,7 +62,7 @@
         <item>Außerhalb des Messbereichs</item>
     </string-array>
     <string-array name="realtime_humidity_status">
-        <item>Tocken</item>
+        <item>Trocken</item>
         <item>Komfortabel</item>
         <item>Feucht</item>
     </string-array>
@@ -100,13 +83,13 @@
         <item>Mäßig</item>
         <item>Stark</item>
         <item>Sehr stark</item>
-        <item>Schwer</item>
+        <item>Schwerwiegend</item>
     </string-array>
     <string-array name="weather_type">
         <item>Klar</item>
         <item>Bewölkt</item>
         <item>Bedeckt</item>
-        <item>Neblig</item>
+        <item>Nebel</item>
         <item>Starkregen</item>
         <item>Platzregen</item>
         <item>Regensturm</item>
@@ -132,14 +115,14 @@
         <item></item>
     </string-array>
     <string-array name="wind_direction">
-        <item>N</item>
-        <item>NO</item>
-        <item>O</item>
-        <item>SO</item>
-        <item>S</item>
-        <item>SW</item>
-        <item>W</item>
-        <item>NW</item>
+        <item>Nord</item>
+        <item>Nordost</item>
+        <item>Ost</item>
+        <item>Südost</item>
+        <item>Süd</item>
+        <item>Südwest</item>
+        <item>West</item>
+        <item>Nordwest</item>
     </string-array>
     <string-array name="wind_direction_simple">
         <item>N</item>
@@ -164,12 +147,5 @@
         <item>%1$s m/s</item>
         <item>%1$s mph</item>
         <item>%1$s kn</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Beaufortskala</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
     </string-array>
 </resources>

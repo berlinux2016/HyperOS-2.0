@@ -311,29 +311,29 @@
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Voice Changer jetzt ausprobieren,
-um eine %d-Tage-Gratis-Testversion zu erhalten!"</item>
+um eine gratis %d-Tage-Testversion zu erhalten!"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
-        <item quantity="other">Kostenlose %d-Tage-Testversion erhalten nicht möglich</item>
-        <item quantity="one">Kostenlose %d-Tag-Testversion erhalten nicht möglich</item>
+        <item quantity="other">Gratis %d-Tage-Testversion erhalten nicht möglich</item>
+        <item quantity="one">Gratis %d-Tag-Testversion erhalten nicht möglich</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_success">
         <item quantity="other">%d-Tage-Testversion erfolgreich erhalten</item>
         <item quantity="one">%d-Tag-Testversion erfolgreich erhalten</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_trial_card">
-        <item quantity="other">Kostenlose %d-Tage-Testversion erhalten</item>
-        <item quantity="one">Kostenlose %d-Tag-Testversion erhalten</item>
+        <item quantity="other">Gratis %d-Tage-Testversion erhalten</item>
+        <item quantity="one">Gratis %d-Tag-Testversion erhalten</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
         <item quantity="other">"Ihr Abo ist abgelaufen.
-Sie können jetzt eine kostenlose %d-Tage-Testversion erhalten!"</item>
+Sie können jetzt eine gratis %d-Tage-Testversion erhalten!"</item>
      <item quantity="one">"Ihr Abo ist abgelaufen.
-Sie können jetzt eine kostenlose %d-Tag-Testversion erhalten!"</item>
+Sie können jetzt eine gratis %d-Tag-Testversion erhalten!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
-        <item quantity="other">Kostenlose %d-Tage-Testversion erhalten</item>
-        <item quantity="one">Kostenlose %d-Tag-Testversion erhalten</item>
+        <item quantity="other">Gratis %d-Tage-Testversion erhalten</item>
+        <item quantity="one">Gratis %d-Tag-Testversion erhalten</item>
     </plurals>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">Bis zu %d Apps hinzufügen. Gedrückt halten, um neu zu sortieren.</item>

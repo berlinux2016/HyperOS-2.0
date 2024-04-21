@@ -64,28 +64,8 @@
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d neue Benachrichtigungen</item>
-        <item quantity="one">%d neue Benachrichtigungen</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="updated_contacts">
-        <item quantity="other">%s Kontakte aktualisiert</item>
-        <item quantity="one">einen Kontakt aktualisiert</item>
-    </plurals>
-    <plurals name="view_all_apps">
-        <item quantity="other">zeige alle %d Apps</item>
-        <item quantity="one">zeige eine App</item>
-    </plurals>
-    <plurals name="view_all_browsers">
-        <item quantity="other">zeige alle %d Browser</item>
-        <item quantity="one">zeige einen Browser</item>
-    </plurals>
-    <plurals name="view_all_devices">
-        <item quantity="other">zeige alle %d Geräte</item>
-        <item quantity="one">zeige ein Gerät</item>
     </plurals>
 </resources>

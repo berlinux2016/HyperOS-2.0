@@ -2,9 +2,9 @@
 <resources>
     <string-array name="select_logpersist_summaries">
         <item>Aus</item>
-        <item>Alle Protokollzwischenspeicher</item>
-        <item>Alle Protokollzwischenspeicher außer Funkschnittstelle</item>
-        <item>Nur Kernelprotokoll-Zwischenspeicher</item>
+        <item>Alle Logpuffer</item>
+        <item>Alle außer Funk-Logpuffer</item>
+        <item>Nur Kernel-Logpuffer</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item></item>

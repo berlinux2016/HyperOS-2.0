@@ -29,20 +29,6 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
-    <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon wird für %s Minuten in den Notfallrückrufmodus geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
-        <item quantity="one">Telefon wird für %s Minute in den Notfallrückrufmodus geschaltet. Während dieser Zeit können keine Apps mit Datenverbindung genutzt werden. Möchten Sie diesen jetzt deaktivieren?</item>
-    </plurals>
-    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
-        <item quantity="other">"Telefon befindet sich für %s Minuten im Notfallrückrufmodus.
-Wollen Sie jetzt beenden?"</item>
-        <item quantity="one">"Telefon befindet sich für %s Minute im Notfallrückrufmodus.
-Wollen Sie jetzt beenden?"</item>
-    </plurals>
-    <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Telefon ist für %s Minuten in diesem Modus. Möchten Sie diesen jetzt deaktivieren?</item>
-        <item quantity="one">Gewünschte Aktion ist im Notfallrückrufmodus nicht verfügbar. Telefon ist für %s Minute in diesem Modus. Möchten Sie diesen jetzt deaktivieren?"</item>
-    </plurals>
     <plurals name="auto_answer_summary_delay">
         <item quantity="other">Verzögerung: %d Sekunden</item>
         <item quantity="one">Verzögerung: %d Sekunde</item>
@@ -90,30 +76,14 @@ Wollen Sie jetzt beenden?"</item>
         <item quantity="other">%d Elemente ausgewählt</item>
         <item quantity="one">%d Element ausgewählt</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d neue Benachrichtigungen</item>
-        <item quantity="one">%d neue Benachrichtigung</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Seit %s Minuten keine Datenverbindung</item>
-        <item quantity="one">Seit %s Minute keine Datenverbindung</item>
-    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
-%d verbleibende Versuche"</item>
+%d Versuche übrig"</item>
         <item quantity="one">"
- %d verbleibender Versuch"</item>
-    </plurals>
-    <plurals name="remove_numbers_confirm">
-        <item quantity="other">%d Nummern werden gelöscht</item>
-        <item quantity="one">%d Nummer wird gelöscht</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d Geräte verbunden</item>
-        <item quantity="one">%1$d Gerät verbunden</item>
+ %d Versuch übrig"</item>
     </plurals>
 </resources>

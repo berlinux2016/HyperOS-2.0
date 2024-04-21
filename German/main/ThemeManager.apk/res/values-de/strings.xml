@@ -1142,7 +1142,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="resource_trial_days_hours">(Testversion :%1$d T %2$d h)</string>
     <string name="resource_trial_end_get_mibi">Mi Coins erhalten</string>
     <string name="resource_trial_end_jump_hint">Umleiten…</string>
-    <string name="resource_trial_end_message">Testversion von %1$s abgelaufen. Kaufen Sie es, wenn es Ihnen gefällt.</string>
+    <string name="resource_trial_end_message">%1$s-Testversion abgelaufen. Kaufen Sie es, wenn es Ihnen gefällt.</string>
     <string name="resource_trial_end_purchase">Kaufen</string>
     <string name="resource_trial_end_restore">Testversion beendet</string>
     <string name="resource_trial_end_time">(Testversion bis %1$s)</string>
@@ -1499,7 +1499,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="trial_count_tip">Testzeitraum endet in %1$s:%2$s:%3$s</string>
     <string name="trial_for_free">Kostenlose Testversion</string>
     <string name="trial_get_failed_tip">Schauen Sie sich das Video zu Ende an, um das Thema zu erhalten.</string>
-    <string name="trial_get_success_tip">Herzlichen Glückwunsch! Sie erhalten eine 3-tägige kostenlose Testversion.</string>
+    <string name="trial_get_success_tip">Herzlichen Glückwunsch! Sie erhalten eine gratis 3-Tage-Testversion.</string>
     <string name="trial_now">Jetzt testen</string>
     <string name="try_5_min">Jetzt für 5 Minuten testen</string>
     <string name="tuesday">Dienstag</string>
@@ -1535,7 +1535,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="v7_preference_on">AN</string>
     <string name="version_update">Nach Updates suchen</string>
     <string name="video_ad_click">Jetzt testen</string>
-    <string name="video_ad_try_for_free">Kostenlose Testversion</string>
+    <string name="video_ad_try_for_free">Gratis Testversion</string>
     <string name="video_ad_uncomplete_tip">Schauen Sie sich das Video zu Ende an, um das Thema zu erhalten.</string>
     <string name="video_ad_uncomplete_tip_cancel">Abbrechen</string>
     <string name="video_ad_uncomplete_tip_continue">Weiter anschauen</string>

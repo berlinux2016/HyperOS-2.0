@@ -77,8 +77,8 @@
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
-        <item quantity="other">In %d Apps suchen</item>
-        <item quantity="one">In %d App suchen</item>
+        <item quantity="other">%d Apps durchsuchen</item>
+        <item quantity="one">%d App durchsuchen</item>
     </plurals>
     <plurals name="second_space_notification_format">
         <item quantity="other">%d Benachrichtigungen im Zweitprofil</item>
