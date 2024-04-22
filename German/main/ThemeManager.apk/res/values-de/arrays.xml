@@ -2,4 +2,5 @@
 <resources>
     <string-array name="disable_package_replacement">
         <item>Paketname deaktivieren</item>
+     </string-array>
 </resources>
