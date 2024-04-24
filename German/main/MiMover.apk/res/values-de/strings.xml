@@ -4,10 +4,12 @@
     <string name="PRD_summary_4">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>
     <string name="PRD_summary_4_china">Ausschalten von WLAN oder WLAN-Wechsel während des Übertragungsvorgangs kann die Übertragung zum Scheitern bringen.</string>
     <string name="PRD_summary_5">Hochgeschwindigkeitsübertragungen können dazu führen, dass Ihr Gerät heißer wird als normal. Seien Sie versichert, dass sich Ihr Gerät nach der Übertragung wieder abkühlt.</string>
+    <string name="PRD_summary_6">Private Alben, Notizen und Dateien können nicht vom alten Gerät übertragen werden. Entfernen Sie sie aus privaten Ordnern, bevor Sie die Übertragung starten.</string>
     <string name="PRD_summary_tablet_1">Während der Übertragung werden alle Daten dieser Apps (inkl. Chat-Verläufe) überschrieben.</string>
     <string name="PRD_title_1">%1$d. Auf dem neuen Gerät sind bereits App-Daten für folgende Apps vorhanden:</string>
     <string name="PRD_title_4">%1$d. Verwenden Sie Ihr Gerät mit Sorgfalt.</string>
     <string name="PRD_title_5">%1$d. Ihr Gerät wird während der Übertragung heiß.</string>
+    <string name="PRD_title_6">Private Elemente können nicht übertragen werden</string>
     <string name="PRD_title_tablet_1">%1$d. Auf dem neuen Gerät sind bereits App-Daten für folgende Apps vorhanden:</string>
     <string name="PRD_title_tablet_4">%1$d. Verwenden Sie Ihr Gerät mit Sorgfalt.</string>
     <string name="PRD_title_tablet_5">%1$d. Ihr Gerät wird während der Übertragung heiß.</string>
@@ -870,7 +872,7 @@ Mi Mover herunterladen und installieren."</string>
     <string name="uncollected">Nicht gesammelt</string>
     <string name="unselected">Nicht ausgewählt</string>
     <string name="update_later">Jetzt nicht</string>
-    <string name="update_now">Jetzt aktualisieren</string>
+    <string name="update_now">Installieren</string>
     <string name="use_purpose">Verwendungszweck</string>
     <string name="use_purpose_description">Für die Verbindung mit dem Hotspot des neuen Geräts</string>
     <string name="use_scene">Nutzungsszenario</string>

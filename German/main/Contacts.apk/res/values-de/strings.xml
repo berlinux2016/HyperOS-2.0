@@ -602,9 +602,8 @@
     <string name="groups_list_empty">Keine Gruppen</string>
     <string name="hide_app_description_content">Kontakte ist eine System-App. Sie können sie weiterhin über die Telefon-App verwenden, wenn Sie die Verknüpfung vom Startbildschirm entfernen.</string>
     <string name="hide_app_description_title">\"Kontakte\" vom Startbildschirm entfernen?</string>
-    <string name="hint_distance">Halten Sie die beiden Geräte während des Imports nahe beieinander, um sicherzustellen, dass sie verbunden bleiben.</string>
     <string name="hint_findContacts">Kontakte suchen</string>
-    <string name="hint_more_contact">Wenn der Import doppelte Kontakte erzeugt, verwenden Sie die Funktion \"Doppelte Kontakte zusammenführen\".</string>
+    <string name="hint_more_contact">Doppelte Kontakte zusammenführen</string>
     <string name="hybrid_check_network">Netzwerkeinstellungen</string>
     <string name="hybrid_data_error">Ein Fehler ist aufgetreten</string>
     <string name="hybrid_locating_fail">Ihr Standort kann nicht ermittelt werden</string>
