@@ -50,6 +50,7 @@
     <string name="chart_logarithmic_bmw">Logarithmisch</string>
     <string name="chart_moving_bmw">Gleitender Durchschnitt</string>
     <string name="chart_polynomaial_bmw">Polynomiell</string>
+    <string name="chart_power_bmw">Leistung</string>
     <string name="chart_series_bmw">Serie</string>
     <string name="chart_unsupport_bmw">Diagramm kann nicht gezeichnet werden</string>
     <string name="doc_scan_save_to_album">In Galerie gespeichert</string>
@@ -136,6 +137,7 @@
     <string name="phone_scroll_to_first_page">Dokumentbeginn erreicht</string>
     <string name="phone_scroll_to_last_page">Dokumentende erreicht</string>
     <string name="phone_ss_sheet_add">+ (Hinzufügen)</string>
+    <string name="phone_writer_readoptions_page_loading">Blättern…</string>
     <string name="ppt_audio_unsupport_format_audio">Dieses Format wird nicht unterstützt</string>
     <string name="ppt_connect">Verbinden</string>
     <string name="ppt_memery_tips">Zur zuletzt angezeigten Stelle gehen</string>
@@ -155,6 +157,7 @@
     <string name="ppt_volume_is_too_low_tip">Setzen Sie Ihre Kopfhörer auf oder drehen Sie die Lautstärke hoch</string>
     <string name="projection_fail">Casting fehlgeschlagen. Externen Monitor prüfen und erneut versuchen.</string>
     <string name="public_2pic">Als Bild exportieren</string>
+    <string name="public_about_us">über</string>
     <string name="public_amazon_autosave_finished">Dokument wurde automatisch gespeichert</string>
     <string name="public_bad_doc_to_process">Ungültiges Dokument. Vorgang kann nicht durchgeführt werden.</string>
     <string name="public_bookmark">Lesezeichen</string>
@@ -214,6 +217,7 @@
     <string name="public_mi_other_app_open_title">Öffnen mit</string>
     <string name="public_mi_privacy_desc">Zum Anzeigen und Verwalten von Dokumenten auf diesem Gerät</string>
     <string name="public_mi_privacy_purpose">Willkommen bei Mi Doc Viewer (Powered by WPS)! Dies ist eine angepasste Version der App, die von Kingsoft für Xiaomi entwickelt wurde. Sie können diese App verwenden, um Dokumente auf Ihrem Gerät anzuzeigen.</string>
+    <string name="public_more_wps">Weitere Funktionen sind in WPS verfügbar</string>
     <string name="public_no_format">Kein Format</string>
     <string name="public_not_support_in_multiwindow">Diese Funktion wird im geteilten Bildschirm nicht unterstützt</string>
     <string name="public_openDocumentFormatError">Datei kann wegen nicht unterstützter Inhalte nicht geöffnet werden.</string>

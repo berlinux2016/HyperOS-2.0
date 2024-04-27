@@ -111,6 +111,7 @@
     <string name="clearable_edittext_clear_description">Löschen</string>
     <string name="click_tip_toast">Kästchen anklicken, bevor Sie fortfahren</string>
     <string name="close">Schließen</string>
+    <string name="close_enhance_safe_guard">Erhöhten Schutz ausschalten</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Abbrechen</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Fortfahren</string>
     <string name="close_mi_protected_second_tip_dialog_cancel">Nein danke</string>
@@ -167,8 +168,8 @@
     <string name="do_not_show_again">Nicht mehr anzeigen</string>
     <string name="early_morning">Morgen</string>
     <string name="elder_mode_setting">Älterenschutz</string>
-    <string name="elder_mode_setting_subtitle">Schutz vor der Installation riskanter Apps und Datenschutzverletzungen</string>
-    <string name="elder_mode_subtitle">Schutz vor der Installation riskanter Apps, Datenschutzverletzungen und Betrug</string>
+    <string name="elder_mode_setting_subtitle">Schutz vor Installation riskanter Apps und Datenschutzverletzungen</string>
+    <string name="elder_mode_subtitle">Schutz vor Installation riskanter Apps, Datenschutzverletzungen und Betrug</string>
     <string name="elder_mode_title">Älterenschutz</string>
     <string name="empty_app">Kein Apps</string>
     <string name="enhance_mode_close_feedback">Danke für die Nutzung des erhöhten Schutzes</string>
@@ -766,6 +767,7 @@
     <string name="safe_space_tip_dialog_description">%1$s wurde von Xiaomi nicht auf Sicherheitsprobleme getestet. Um Sie vor möglichen Risiken zu schützen, wurden die folgenden Maßnahmen ergriffen:</string>
     <string name="safe_space_tip_dialog_title">Aktive Schutzmaßnahmen</string>
     <string name="safe_version_install">Sichere Version</string>
+    <string name="safety_hint_bundled_download_content">\"%1$s\" ist Teil eines gebündelten Downloads. Die eigentliche App, die installiert werden muss, wird bereitgestellt. Wenn Sie \"%1$s\" trotzdem installieren möchten, tippen Sie hier.</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

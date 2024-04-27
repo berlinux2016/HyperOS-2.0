@@ -44,6 +44,7 @@
     <string name="ai_button_single_press_desc">KI-Taste drücken, um Mi AI-Verknüpfungen anzuzeigen</string>
     <string name="ai_button_title">KI-Taste</string>
     <string name="album_introduction">Mit dieser App können Sie Fotos und Videos verwalten, bearbeiten und verschönern.</string>
+    <string name="app_battery_usage">Zur Prüfung des Akkuverbrauchs einzelner Apps</string>
     <string name="application_extension_service">App-Zusatzdienste</string>
     <string name="application_extension_service_introduction">App-Zusatzdienste bieten Ihnen Anmelde- und Verifizierungsfunktionen. Um grundlegende Dienste bereitzustellen, benötigt diese App folgende Berechtigungen:</string>
     <string name="application_package_introduction">Paket-Installer wird für die Installation von Drittanbieter-Apps verwendet, inkl. Scannen vor der Installation und Empfehlungsdienste für Apps nach der Installation.</string>
@@ -506,12 +507,16 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="permission_write_device_store">Elemente im Gerätespeicher speichern</string>
     <string name="permission_write_device_store_summary">Zum Zwischenspeichern heruntergeladener Quellkonfigurationsdateien.</string>
     <string name="permission_xunlei_introduction">Zur Anmeldung und Verwaltung von Systemkonten, um Xunlei-Dienste bereitzustellen</string>
+    <string name="phone_introduction">Mit dieser App können Sie Viren finden und neutralisieren, Anrufe und Nachrichten blockieren, die Leistung für Spiele optimieren, Strom sparen sowie Apps, Berechtigungen, Datennutzung und mehr verwalten.</string>
+    <string name="phone_name_security">Sicherheit</string>
     <string name="phone_service_introduction">Telefonie ist ein Basisdienst, der es Ihrem Gerät ermöglicht, zu telefonieren, Nachrichten zu senden und zu empfangen und sich mit dem Netzwerk zu verbinden.</string>
     <string name="poco_agree_terms_other">(Inkl. POCO Launcher Datenschutzerklärung und Nutzervereinbarung)</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher Datenschutzerklärung</string>
     <string name="poco_launcher_user_agreement">POCO Launcher Nutzervereinbarung</string>
     <string name="position_header">Standortdaten teilen</string>
     <string name="position_subheading">Standortdaten</string>
+    <string name="power_and_performance">Akku und Leistung</string>
+    <string name="power_and_performance_introduction">Dieser Dienst bietet eine grundlegende Akkuverwaltung, Nutzungsstatistiken, Stromsparfunktionen und mehr.</string>
     <string name="pref_title_data_slot">Bervorzugte Daten-SIM-Karte</string>
     <string name="pref_title_voice_slot">Bervorzugte Telefon-SIM-Karte</string>
     <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
@@ -530,6 +535,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="provision_inputmethod_policy_description1">Datenschutzerklärung</string>
     <string name="provision_next">Weiter</string>
     <string name="provision_skip_underline">Überspringen</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier ist ein Dienst, der Systemprozesse verwaltet.</string>
     <string name="read_application_info">Zugriff auf App-Daten</string>
     <string name="read_sms_and_mms">Zugriff auf SMS und MMS</string>
     <string name="recommended_font_mark">Empfohlen</string>
@@ -553,7 +559,7 @@ Sie können diese Funktion unter Einstellungen > Passwörter &amp; Sicherheit > 
     <string name="saturday_shortest">S</string>
     <string name="screen_recording_introduction">Mit dieser App können Sie aufnehmen, was auf Ihrem Bildschirm passiert.</string>
     <string name="search_menu_title">Suchen</string>
-    <string name="security_introduction">Mit dieser App können Sie den Papierkorb auf Ihrem Gerät löschen, Viren finden und neutralisieren, die Leistung für Spiele optimieren, Akku sparen, Apps und Rechte verwalten und vieles mehr.</string>
+    <string name="security_introduction">Mit dieser App können Sie Viren finden und neutralisieren, Anrufe und Nachrichten blockieren, die Leistung für Spiele optimieren, Strom sparen sowie Apps, Berechtigungen, Datennutzung und mehr verwalten.</string>
     <string name="security_mobile_account_introduction">Zur Anmeldung und Verwaltung von Systemkonten</string>
     <string name="select_font_modele_tips">Sie können jederzeit eine neue Schriftart in Themen auswählen</string>
     <string name="send">Senden</string>

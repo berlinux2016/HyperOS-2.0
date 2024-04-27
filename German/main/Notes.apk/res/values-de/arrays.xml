@@ -16,7 +16,6 @@
         <item>Webseite</item>
         <item>Adresse</item>
         <item>Notiz</item>
-        <item>Beziehung</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Klein</item>

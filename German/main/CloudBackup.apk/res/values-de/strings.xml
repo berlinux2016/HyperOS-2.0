@@ -423,11 +423,11 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="restore_finished_notification_content">Startbildschirm-Apps, Systemeinstellungen etc. wiederhergestellt</string>
     <string name="restore_from_cloud">Wiederherstellen aus Cloud-Sicherung</string>
     <string name="restore_from_mimover">Von Ihrem alten Gerät mit Mi Mover übertragen</string>
-    <string name="restore_from_this_device">Sicherung wählen</string>
-    <string name="restore_header_backup_size">Sicherungsgröße: %s</string>
+    <string name="restore_from_this_device">Daten wiederherstellen</string>
+    <string name="restore_header_backup_size">Größe</string>
     <string name="restore_header_msg">Prüfen Sie vor der Wiederherstellung von WeChat-Daten, dass WeChat nicht auf diesem Gerät installiert ist. Öffnen oder verwenden Sie WeChat nicht, während die Daten wiederhergestellt werden.</string>
-    <string name="restore_header_title">Gesamtgröße: %s</string>
-    <string name="restore_header_title2">Sicherungen insgesamt: %s</string>
+    <string name="restore_header_title">Sicherungsgröße</string>
+    <string name="restore_header_title2">Geräte</string>
     <string name="restore_header_title_backup_time">Zeit</string>
     <string name="restore_home_screen_apps">Elemente wiederherstellen</string>
     <string name="restore_home_screen_apps_options">Daten wiederherstellen</string>
