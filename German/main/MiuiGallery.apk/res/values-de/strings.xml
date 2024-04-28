@@ -258,9 +258,9 @@
     <string name="album_type_system">Systemalbum</string>
     <string name="album_wallpaper">Hintergründe</string>
     <string name="alert_secret_album_enter">Verstanden</string>
-    <string name="alert_secret_album_message">In \"Alben\" runterwischen, um privates Album anzuzeigen</string>
-    <string name="alert_secret_album_message_lower_case">" in \"Alben\" runterwischen zum Anzeigen"</string>
-    <string name="alert_secret_album_message_new">In \"Alben\" runterwischen, um private Elemente anzuzeigen.</string>
+    <string name="alert_secret_album_message">In \"Alben\" herunterwischen, um privates Album anzuzeigen</string>
+    <string name="alert_secret_album_message_lower_case">" in \"Alben\" herunterwischen zum Anzeigen"</string>
+    <string name="alert_secret_album_message_new">In \"Alben\" herunterwischen, um private Elemente anzuzeigen.</string>
     <string name="alert_secret_album_title">So zeigen Sie private Alben an</string>
     <string name="alert_secret_album_title_new">Erfolgreich hinzugefügt</string>
     <string name="alert_secret_google_error">Elemente wurden nicht gelöscht. Versuchen Sie, sie in Google Fotos zu löschen.</string>

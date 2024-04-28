@@ -419,7 +419,7 @@
     <string name="screen_shot">Screenshot machen</string>
     <string name="screenshot_gesture_detect_alert_button">In Einstellungen einschalten</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Nicht mehr anzeigen</string>
-    <string name="screenshot_gesture_detect_alert_msg">Für Screenshot mit drei Fingern runterwischen?</string>
+    <string name="screenshot_gesture_detect_alert_msg">Für Screenshot mit drei Fingern herunterwischen?</string>
     <string name="screenshot_gesture_detect_alert_title">Drei-Finger-Screenshot</string>
     <string name="secretgarden">Geheimer Garten</string>
     <string name="security_permission_denied_text">Zugriff verweigert</string>

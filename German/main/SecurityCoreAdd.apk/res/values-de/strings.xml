@@ -284,7 +284,7 @@
     <string name="gesture_hint_media_volume">Lautstärke einstellen…</string>
     <string name="gesture_hint_page_down">Nächste Seite</string>
     <string name="gesture_hint_page_up">Vorherige Seite</string>
-    <string name="gesture_hint_swipe_down">Runterwischen</string>
+    <string name="gesture_hint_swipe_down">Herunterwischen</string>
     <string name="gesture_hint_swipe_up">Hochwischen</string>
     <string name="gesture_hint_trigger">Geste erkennen…</string>
     <string name="gesture_settings_title">Gestenkürzel</string>
@@ -333,7 +333,7 @@
     <string name="guide_pwd_detail_title">Schützen Sie Ihre Daten. \nZweitprofil vom Sperrbildschirm aus erreichen.</string>
     <string name="guide_setting_guide_title">Zweitprofil verwalten</string>
     <string name="guide_start_text">Zwei Profile. Ein Gerät.</string>
-    <string name="guide_swipe_up_down">Hoch- und runterwischen</string>
+    <string name="guide_swipe_up_down">Hoch und runter wischen</string>
     <string name="has_created_second_space">Sie können das Zweitprofil jetzt öffnen. \nZwei Profile. Ein Gerät.</string>
     <string name="hidden_app">Zweitprofil</string>
     <string name="icon_content_description">Dialogsymbol</string>
@@ -1014,7 +1014,7 @@
     <string name="touchpad_quick_switch">Zwischen Apps wechseln</string>
     <string name="touchpad_quick_switch_summary">Mit drei Fingern nach links oder rechts wischen</string>
     <string name="touchpad_screen_shot">Screenshot machen</string>
-    <string name="touchpad_screen_shot_summary">Mit drei Fingern runterwischen</string>
+    <string name="touchpad_screen_shot_summary">Mit drei Fingern herunterwischen</string>
     <string name="touchpad_switch_recent_task">Letzte Apps öffnen</string>
     <string name="touchpad_switch_recent_task_summary">Mit drei Fingern hochwischen und anhalten</string>
     <string name="touchpad_title">Trackpad</string>

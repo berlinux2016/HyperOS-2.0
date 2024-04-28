@@ -186,7 +186,7 @@
     <string name="bookmarks_content_is_null">Keine Lesezeichen</string>
     <string name="bookmarks_management">Lesezeichen</string>
     <string name="bookmarks_root_folder">Root-Ordner</string>
-    <string name="bottom_bar_tabs_long_click_down_tip_txt">Zum Schließen runterwischen</string>
+    <string name="bottom_bar_tabs_long_click_down_tip_txt">Zum Schließen herunterwischen</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dies ist der letzte Tab</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Zum Schließen hochwischen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>

@@ -771,7 +771,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="ime_action_previous">Vorheriges</string>
     <string name="ime_action_search">Suchen</string>
     <string name="ime_action_send">Senden</string>
-    <string name="immersive_cling_description">Zum Schließen runterwischen</string>
+    <string name="immersive_cling_description">Zum Schließen herunterwischen</string>
     <string name="immersive_cling_positive">Verstanden</string>
     <string name="immersive_cling_title">Vollbildansicht</string>
     <string name="importance_from_person">Das ist wichtig wegen der beteiligten Personen.</string>

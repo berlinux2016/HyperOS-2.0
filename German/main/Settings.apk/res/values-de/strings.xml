@@ -112,10 +112,10 @@
     <string name="accessibility_clear">Löschen</string>
     <string name="accessibility_close_tab">Aktuellen Tab schließen</string>
     <string name="accessibility_color_and_motion_title">Farbe und Bewegung</string>
-    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Farbkorrektur zu Schnelleinstellungen hinzugefügt. Runterwischen, um sie jederzeit ein- oder auszuschalten.</string>
+    <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Farbkorrektur zu Schnelleinstellungen hinzugefügt. Herunterwischen, um sie jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_color_correction_qs_tooltip_content">Sie können Farbkorrektur auch über Schnelleinstellungen am oberen Bildschirmrand hinzufügen</string>
     <string name="accessibility_color_inversion_about_title">Über Farbumkehr</string>
-    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Farbumkehr zu Schnelleinstellungen hinzugefügt. Runterwischen, um sie jederzeit ein- oder auszuschalten.</string>
+    <string name="accessibility_color_inversion_auto_added_qs_tooltip_content">Farbumkehr zu Schnelleinstellungen hinzugefügt. Herunterwischen, um sie jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_color_inversion_footer_learn_more_content_description">Mehr über Farbumkehr erfahren</string>
     <string name="accessibility_color_inversion_qs_tooltip_content">Sie können Farbumkehr auch über Schnelleinstellungen am oberen Bildschirmrand hinzufügen</string>
     <string name="accessibility_control_timeout_about_title">Über Zeit zu Handeln (Zeitüberschreitung Eingabehilfen)</string>
@@ -150,7 +150,7 @@
     <string name="accessibility_feature_state_off">Aus</string>
     <string name="accessibility_feature_state_on">An</string>
     <string name="accessibility_fingerprint_label">Fingerabdrucksensor</string>
-    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Schriftgröße zu Schnelleinstellungen hinzugefügt. Runterwischen, um die Schriftgröße jederzeit zu ändern.</string>
+    <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Schriftgröße zu Schnelleinstellungen hinzugefügt. Herunterwischen, um die Schriftgröße jederzeit zu ändern.</string>
     <string name="accessibility_found_all_devices">Sie sehen Ihr Hörgerät nicht?</string>
     <string name="accessibility_found_hearing_devices">Verfügbare Hörgeräte</string>
     <string name="accessibility_global_gesture_preference_title">Lautstärke-Kürzel</string>
@@ -218,7 +218,7 @@
     <string name="accessibility_no_wifi">WLAN getrennt</string>
     <string name="accessibility_notification_alarm_vibration_category_title">Benachrichtigungen &amp; Wecker</string>
     <string name="accessibility_notification_vibration_title">Benachrichtigungsvibration</string>
-    <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Einhandmodus zu Schnelleinstellungen hinzugefügt. Runterwischen, um ihn jederzeit ein- oder auszuschalten.</string>
+    <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Einhandmodus zu Schnelleinstellungen hinzugefügt. Herunterwischen, um ihn jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_one_handed_mode_qs_tooltip_content">Sie können Einhandmodus auch zu Schnelleinstellungen vom oberen Bildschirmrand hinzufügen</string>
     <string name="accessibility_pair_hearing_device_about_title">Über neues Gerät koppeln</string>
     <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
@@ -229,7 +229,7 @@
     <string name="accessibility_power_button_ends_call_prerefence_title">Power-Taste beendet Anruf</string>
     <string name="accessibility_preference_magnification_summary">Am Bildschirm hereinzoomen</string>
     <string name="accessibility_quick_settings_tooltip_dismiss">Verwerfen</string>
-    <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Extra-Dimmen zu Schnelleinstellungen hinzugefügt. Runterwischen, um es jederzeit ein- oder auszuschalten.</string>
+    <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Extra-Dimmen zu Schnelleinstellungen hinzugefügt. Herunterwischen, um es jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_reduce_bright_colors_qs_tooltip_content">Sie können Extra-Dimmen auch zu Schnelleinstellungen vom oberen Bildschirmrand hinzufügen</string>
     <string name="accessibility_ring_vibration_title">Klingelvibration</string>
     <string name="accessibility_screen_magnification_about_title">Über Vergrößerung</string>
@@ -266,7 +266,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="accessibility_screen_reader_haptic_title">Bildschirmleser</string>
     <string name="accessibility_service_action_perform_description">Ihre Interaktionen mit einer App oder einem HW-Sensor können verfolgt und in Ihrem Namen mit Apps interagiert werden.</string>
     <string name="accessibility_service_action_perform_title">Anzeigen und Ausführen von Aktionen</string>
-    <string name="accessibility_service_auto_added_qs_tooltip_content">%1$s zu Schnelleinstellungen hinzugefügt. Runterwischen, um dies jederzeit ein- oder auszuschalten.</string>
+    <string name="accessibility_service_auto_added_qs_tooltip_content">%1$s zu Schnelleinstellungen hinzugefügt. Herunterwischen, um dies jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_service_default_description">Keine Beschreibung verfügbar</string>
     <string name="accessibility_service_primary_open_title">%1$s öffnen</string>
     <string name="accessibility_service_primary_switch_title">%1$s verwenden</string>
@@ -2260,7 +2260,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="convenience_key_category_title">Systemsteuerung</string>
     <string name="conversation_assistant">Konferenz-Tools</string>
     <string name="conversation_notifs_category">Unterhaltung</string>
-    <string name="conversation_onboarding_summary">Sobald Sie eine Unterhaltung als vorrangig markieren oder andere Änderungen an Unterhaltungen vornehmen, werden diese hier angezeigt.\n\nGesprächseinstellungen ändern:\nVom oberen Bildschirmrand runterwischen, um die Pulldown-Leiste zu öffnen, dann eine Unterhaltung gedrückt halten.</string>
+    <string name="conversation_onboarding_summary">Sobald Sie eine Unterhaltung als vorrangig markieren oder andere Änderungen an Unterhaltungen vornehmen, werden diese hier angezeigt.\n\nGesprächseinstellungen ändern:\nVom oberen Bildschirmrand herunterwischen, um die Pulldown-Leiste zu öffnen, dann eine Unterhaltung gedrückt halten.</string>
     <string name="conversation_onboarding_title">Vorrangige und geänderte Unterhaltungen werden hier angezeigt</string>
     <string name="conversation_section_switch_summary">App darf den Unterhaltungsbereich verwenden</string>
     <string name="conversation_section_switch_title">Unterhaltungsbereich</string>
@@ -3674,7 +3674,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gesture_settings_title">Gestenverknüpfungen</string>
     <string name="gesture_summary_go_back">Mit drei Fingern von links oder rechts wischen</string>
     <string name="gesture_summary_go_home">Mit drei Fingern irgendwo auf dem Touchpad nach oben wischen</string>
-    <string name="gesture_summary_notifications">Mit drei Fingern auf dem Startbildschirm runterwischen</string>
+    <string name="gesture_summary_notifications">Mit drei Fingern auf dem Startbildschirm herunterwischen</string>
     <string name="gesture_summary_recent_apps">Mit drei Fingern nach oben wischen, halten, dann loslassen</string>
     <string name="gesture_summary_switch_apps">Mit vier Fingern nach links oder rechts wischen</string>
     <string name="gesture_supported_title">Verfügbare Gesten</string>
@@ -4547,7 +4547,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="lock_profile_wipe_warning_content_password">Wenn Sie bei diesem Versuch ein falsches Passwort eingeben, werden Ihr Arbeitsprofil und zugehörige Daten auf diesem Gerät gelöscht</string>
     <string name="lock_profile_wipe_warning_content_pattern">Wenn Sie bei diesem Versuch ein falsches Muster eingeben, werden Ihr Arbeitsprofil und zugehörige Daten auf diesem Gerät gelöscht</string>
     <string name="lock_profile_wipe_warning_content_pin">Wenn Sie bei diesem Versuch eine falsche PIN eingeben, werden Ihr Arbeitsprofil und zugehörige Daten auf diesem Gerät gelöscht</string>
-    <string name="lock_screen_action">Auf Sperrbildschirm angezeigte Elemente nach Runterwischen</string>
+    <string name="lock_screen_action">Auf Sperrbildschirm angezeigte Elemente nach Herunterwischen</string>
     <string name="lock_screen_after_fold_screen_summary">Das Gerät wird nach dem Zusammenklappen gesperrt, außer wenn Sie die Frontkamera oder den Lautsprecher verwenden.</string>
     <string name="lock_screen_after_fold_screen_title">Falten zum Sperren</string>
     <string name="lock_screen_auto_pin_confirm_summary">Automatisch entsperren, wenn Sie eine korrekte PIN mit 6 oder mehr Ziffern eingeben. Dies ist etwas unsicherer als die Bestätigung durch Drücken der Eingabetaste.</string>
@@ -7090,7 +7090,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="screensaver_settings_toggle_title">Bildschirmschoner verwenden</string>
     <string name="screensaver_settings_when_to_dream">Wann starten</string>
     <string name="screensaver_settings_when_to_dream_bedtime">Nicht verfügbar, weil der Schlafenszeitmodus eingeschaltet ist</string>
-    <string name="screenshot_three_gesture">Mit 3 Fingern runterwischen, um ein Screenshot zu machen</string>
+    <string name="screenshot_three_gesture">Mit 3 Fingern herunterwischen, um einen Screenshot zu machen</string>
     <string name="screenshot_three_gesture_summary">Andere 3-Fingergesten werden deaktiviert</string>
     <string name="sd_data">SD-Kartendaten</string>
     <string name="sd_eject">Gemeinsamen Speicher aushängen</string>
@@ -8651,7 +8651,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="trackpad_go_home_summary">Mit drei Fingern hochwischen</string>
     <string name="trackpad_go_home_title">Zur Startseite</string>
     <string name="trackpad_mouse_settings">Touchpad &amp; Maus</string>
-    <string name="trackpad_notifications_summary">Mit drei Fingern runterwischen</string>
+    <string name="trackpad_notifications_summary">Mit drei Fingern herunterwischen</string>
     <string name="trackpad_notifications_title">Benachrichtigungen</string>
     <string name="trackpad_pointer_speed">Zeigergeschwindigkeit</string>
     <string name="trackpad_recent_apps_summary">Mit drei Fingern hochwischen, dann halten</string>

@@ -187,7 +187,7 @@
     <string name="accessibility_pro_parameters_panel_on">Menü mit PRO-Parametern öffnen</string>
     <string name="accessibility_pro_video_simple_mode">Lite-Modus</string>
     <string name="accessibility_protrait">Hochformat</string>
-    <string name="accessibility_pull_down_to_open_camera">Zum Öffnen der Kamera runterwischen</string>
+    <string name="accessibility_pull_down_to_open_camera">Zum Öffnen der Kamera herunterwischen</string>
     <string name="accessibility_record_button">Aufnahmetaste</string>
     <string name="accessibility_reduce">Verkleinern</string>
     <string name="accessibility_reference_line_image_off">Gitterlinien nicht anzeigen</string>
@@ -2402,7 +2402,7 @@
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
     <string name="too_low_battery">Akku schwach</string>
-    <string name="top_menu_hint_text">Runterwischen zum Öffnen des Menüs</string>
+    <string name="top_menu_hint_text">Herunterwischen zum Öffnen des Menüs</string>
     <string name="track_focus_mutex_hdr10plus_8k_setting_tips">Motion-Tracking-Fokus wird für Videos mit HDR10+/8K/60FPS nicht unterstützt</string>
     <string name="track_focus_mutex_hdr10plus_setting_tips">Motion-Tracking-Fokus wird für Videos mit HDR10+/60FPS nicht unterstützt</string>
     <string name="track_focus_mutex_truecolor_setting_tips">Motion-Tracking-Fokus wird für Vidoes mit Dolby Vision/8K/60FPS nicht unterstützt</string>
