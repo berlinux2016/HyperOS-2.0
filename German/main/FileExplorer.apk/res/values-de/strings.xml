@@ -658,7 +658,7 @@
     <string name="pick_file">Dateien wählen</string>
     <string name="pick_folder">Ordner wählen</string>
     <string name="port_range">Port muss zwischen 1024-65535 sein</string>
-    <string name="positive_order">Weiter</string>
+    <string name="positive_order">Aufsteigend</string>
     <string name="pre_privacy_recall">Zustimmung widerrufen</string>
     <string name="pref_permission_allowed">Gewährt</string>
     <string name="pref_permission_manage_key_storage">Zugriff auf Fotos und Dateien auf dem Gerät</string>
@@ -713,7 +713,7 @@
     <string name="request_timeout">Netzwerktimeout</string>
     <string name="reset_password">Passwort ändern</string>
     <string name="restoring">Wiederherstellen…</string>
-    <string name="reverse_order">Umgekehrt</string>
+    <string name="reverse_order">Absteigend</string>
     <string name="rlv_last_refreshing_time">Aktualisiert: %1$s</string>
     <string name="rlv_loading_more">Einen Moment…</string>
     <string name="rlv_pull_to_refresh">Zum Aktualisieren herunterziehen</string>
