@@ -562,6 +562,7 @@
     <string name="lockstyle_personal_settings">Anpassen</string>
     <string name="login_theme">Bei Themen anmelden</string>
     <string name="long_click_can_hide_resource">Gedrückt halten, um Elemente auszublenden</string>
+    <string name="loop_video_wallpaper">Video-Hintergründe in Schleife</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_selection">Stunde auswählen</string>
     <string name="material_hour_suffix">%1$s Uhr</string>

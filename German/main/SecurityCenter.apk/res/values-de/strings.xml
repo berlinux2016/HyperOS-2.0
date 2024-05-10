@@ -37,6 +37,9 @@
     <string name="HIPS_Perm_tencentControl_Desc">Zugriff auf Bilder un Dateien, gespeichert von WeChat und QQ</string>
     <string name="HIPS_Perm_use_sip_Desc">Session Initiation Protocol zum Streamen von Videos verwenden</string>
     <string name="Phonepass">Anrufe zulassen</string>
+    <string name="SC_HIPS_Perm_process_outgoing_calls">Anrufe annehmen und beenden</string>
+    <string name="SC_HIPS_Perm_read_clipboard">Zugriff auf Zwischenablage</string>
+    <string name="SC_HIPS_Perm_write_clipboard">Elemente zur Zwischenablage hinzufügen</string>
     <string name="SMS_and_MMS">SMS und MMS</string>
     <string name="SMSpass">SMS zulassen</string>
     <string name="Setting_lock">Einstellungen</string>
@@ -96,6 +99,13 @@
     <string name="access_control_need_password">%s erfolgreich hinzugefügt</string>
     <string name="access_control_need_to_unlock_nofingerprint">Passwort App-Sperre eingeben</string>
     <string name="accessibility_gameboosterservice_description">Einschalten, um eingehende WeChat-Anrufe während des Spielens stumm zu schalten.</string>
+    <string name="accessibility_keyboard_delete_button">Löschen</string>
+    <string name="accessibility_keyboard_letter_board_caps_lock_button">Feststelltaste</string>
+    <string name="accessibility_keyboard_letter_board_shift2number_button">Nummern</string>
+    <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbole</string>
+    <string name="accessibility_keyboard_ok_button">Eingabe</string>
+    <string name="accessibility_keyboard_symbol_board_shift2letter_button">Buchstaben</string>
+    <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbolsperre</string>
     <string name="action_button_text_100">Optimieren</string>
     <string name="action_button_text_60">Beheben</string>
     <string name="action_button_text_60_80">Beheben</string>
@@ -434,6 +444,13 @@
     <string name="app_install_intercept">Installation blockieren</string>
     <string name="app_install_tips_go_to">Öffnen</string>
     <string name="app_install_tips_install_success">%1$s erfolgreich installiert</string>
+    <string name="app_isolate_func_close_tip">Wenn Sie diese Funktion ausschalten, können einige App-Daten verloren gehen. Sichern Sie zuerst wichtige Daten. Jetzt ausschalten?</string>
+    <string name="app_isolate_func_closing">Ausschalten…</string>
+    <string name="app_isolate_func_opening">Einschalten…</string>
+    <string name="app_lock_face_error_to_try">Gesichtsymbol antippen, um die Gesichtsentsperrung zu verwenden</string>
+    <string name="app_lock_pwd">Passwort zum Entsperren eingeben</string>
+    <string name="app_lock_pwd_forget">Passwort vergessen</string>
+    <string name="app_lock_pwd_or_finger">Mit Passwort oder Fingerabdruck entsperren</string>
     <string name="app_management_empty_desc">Diese App unterstützt diese Funktion nicht</string>
     <string name="app_management_for_chain_start">Öffnen anderer Apps blockieren</string>
     <string name="app_management_for_chain_start_desc">Verhindern, dass diese App eine Verbindung zu anderen Apps herstellt oder diese öffnet</string>
@@ -445,6 +462,8 @@
     <string name="app_management_for_install_desc">Diese App daran hindern, andere Apps herunterzuladen oder zu installieren</string>
     <string name="app_management_measures">App-Verwaltung</string>
     <string name="app_manager_advanced_setting">Erweiterte Einstellungen</string>
+    <string name="app_manager_airtel_dlg_msg">Wenn Sie Fragen haben, wenden Sie sich an Airtel</string>
+    <string name="app_manager_airtel_dlg_title">Von Airtel blockiert</string>
     <string name="app_manager_allow">Ja</string>
     <string name="app_manager_anomaly_analysis">Probleme mit Drittanbieter-Apps analysieren</string>
     <string name="app_manager_app_ifno_version">App-Version</string>
@@ -1255,6 +1274,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="cmcc_app_check_dialog_title">System repariert</string>
     <string name="commonly_used_func_card_title">Allgemeine Funktionen</string>
     <string name="commonly_used_func_edit_too_many_func">Weitere Elemente können nicht hinzugefügt werden</string>
+    <string name="compact_safebox_dialog_tip">Um Ihnen ein besseres Nutzererlebnis zu bieten, unterstützt das Zweitprofil keine versteckten Ordner mehr. Übertragen Sie diese Elemente so schnell wie möglich, um den Verlust Ihrer Daten zu verhindern.</string>
     <string name="compatible_dialog_content">Diese App ist nicht vollständig mit der 64-bit-Architektur kompatibel. Es kann zu Leistungsproblemen und erhöhtem Stromverbrauch kommen, wenn Sie sie verwenden.</string>
     <string name="compatible_dialog_more_info">Mehr erfahren</string>
     <string name="compatible_dialog_title">Achtung</string>
@@ -1337,10 +1357,16 @@ Sie verlieren keine App-Daten."</string>
     <string name="cs_pickup_single_title">Einzelner Teilnehmer</string>
     <string name="cs_pickup_surround_desc">Verwendet AI zur Rauschunterdrückung für einen klaren und deutlichen Klang</string>
     <string name="cs_pickup_surround_title">Mikrofon-Rauschunterdrückung</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_desc">Beenden Sie den Anruf und folgen Sie den Anweisungen zum Starten.</string>
+    <string name="cs_pickup_vioce_print_guide_dialog_title">Um nur die Stimme einer Person zu hören, nehmen Sie zuerst ihren Stimmabdruck auf.</string>
+    <string name="cs_pickup_vioce_print_unsupport_tips">Stimmabdruck vor der Auswahl \"Einzelner Teilnehmer\" aufnehmen</string>
+    <string name="cs_pickup_vioce_print_unsupport_toast">Trennen Sie externe Geräte und versuchen Sie es erneut</string>
+    <string name="cs_pickup_voice_print_desc">Ton nur von einer Person aufnehmen</string>
     <string name="cs_screen_translation_title">Bildschirmübersetzung</string>
     <string name="cs_title_pickup">Rauschunterdrückung</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra HD-Modus</string>
+    <string name="cs_voice_print">Stimmabdruck aufnehmen</string>
     <string name="cta_HIPS_Perm_Location_Desc">Zur Bereitstellung der für Ihren Standort relevanten Funktionen in der Warnzentrale, Notfall-SOS, beim App-Stromsparen und im Zahlungssicherheitsscanner sowie beim ungefähren Standortdienst</string>
     <string name="cta_agree_desc">Um unsere Dienste zu nutzen, erlauben Sie dieser App die Internetverbindung und gewähren Sie die oben aufgeführten Berechtigungen.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
@@ -1356,6 +1382,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="current_network_state_not_need_diagnose">Internetverbindung ist normal</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Für die Verwendung der Sperrliste und Anrufe an Notfallkontakte bei Erdbebenwarnungen</string>
     <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Zur Verwaltung der Autorisierung bei der geräteübergreifenden Identitätsprüfung, beim USB-Debugging und bei der Wiederherstellung des Passworts für den Datenschutz und der App-Sperre</string>
+    <string name="custom_define_permission_desc_android.permission.NEARBY_DEVICES">Zum Verbinden oder Trennen von Bluetooth-Geräten für automatisierte Aufgaben</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Zur Anzeige von blockierten Anrufen in Ihrer Anrufliste</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Zur Verwendung der Sperrliste</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Zur Erkennung des Anrufstatus bei hoher Temperatur oder niedrigem Akkustand</string>
@@ -1623,6 +1650,10 @@ Sie verlieren keine App-Daten."</string>
     <string name="error_icon_content_description">Fehler</string>
     <string name="evening">Nachmittag</string>
     <string name="every_day">Täglich</string>
+    <string name="ew_action_subscribe">Abonnieren</string>
+    <string name="ew_action_subscribed">Abonniert</string>
+    <string name="ew_action_subscribed_area">Abonnierte Regionen</string>
+    <string name="ew_action_unsubscribe">Abbestellen</string>
     <string name="ew_alert_arrive_location">Seismische Welle in %s angekommen</string>
     <string name="ew_alert_dial_text">Notfallkontakt \nanrufen</string>
     <string name="ew_alert_earthquake_center_title">Epizentrum</string>
@@ -1660,6 +1691,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_contact_dialog_tips">Mindestens einen Notfallkontakt hinzufügen.</string>
     <string name="ew_contact_dialog_title">Achtung</string>
     <string name="ew_current_location">Aktueller Standort</string>
+    <string name="ew_current_location_with_bracket">" (Aktueller Standort)"</string>
     <string name="ew_emergency_allergy">Allergien</string>
     <string name="ew_emergency_basic_info">Basisdaten</string>
     <string name="ew_emergency_birthday">Geburtsdatum</string>
@@ -2078,7 +2110,12 @@ Sie verlieren keine App-Daten."</string>
     <string name="game_video_net_data">Mobile Daten</string>
     <string name="game_video_network_eror">Netzwerkverbindung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="game_wid_viewpoint_buttom">Machen Sie eine kurze Pause.</string>
+    <string name="gamebooster_confirm_dialog_negative_btn">Ablehnen</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Zustimmen</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Akzeptieren Sie unsere Datenschutzerklärung</string>
     <string name="gamebooster_dialog_recover">Verlängern</string>
+    <string name="gamebooster_dialog_start_booster_new">Steigern</string>
     <string name="gamebooster_lowbattery_notification_summary">Laden Sie Ihr Telefon auf, bevor es sich abschaltet</string>
     <string name="gamebooster_main_activity_back">Zurück</string>
     <string name="gamebooster_network_dialog_cn_message">Sie können Game Turbo nicht verwenden, wenn Sicherheit keine Internetverbindung und keinen Standortzugriff zulässt. Jetzt zulassen?</string>
@@ -2096,6 +2133,10 @@ Sie verlieren keine App-Daten."</string>
     <string name="gamebox_display_3">Hell</string>
     <string name="gamebox_display_4">Hell &amp; gesättigt</string>
     <string name="gamebox_display_set">"Visuelle Verbesserung: "</string>
+    <string name="gamebox_filter_alpha_tip">Transparenz</string>
+    <string name="gamebox_filter_tip">Ausgewählter Filter im Spiel wird angewendet, wenn Sie das Spiel beginnen</string>
+    <string name="gamebox_filter_toast_apply">Der Filter wird angewendet, wenn Sie das Spiel beginnen</string>
+    <string name="gamebox_filter_toast_open">Filter anwenden: %1$s</string>
     <string name="gamebox_func_antimsg_close">Popup-Benachrichtigungen sind jetzt erlaubt</string>
     <string name="gamebox_func_antimsg_open">Popup-Benachrichtigungen sind jetzt eingeschränkt</string>
     <string name="gamebox_func_immersion_close">Immersiver Modus ist jetzt aus</string>
@@ -2115,6 +2156,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gamebox_macro">Kombinationen</string>
     <string name="gamebox_manual_record">Aufnahme</string>
     <string name="gamebox_mem_clean">Speicher löschen</string>
+    <string name="gamebox_mem_filter">Spielfilter</string>
     <string name="gamebox_milink">Casting</string>
     <string name="gamebox_qq_not_find">QQ installieren und erneut versuchen</string>
     <string name="gamebox_recent_task_expand_fail">Apps, die mit Verknüpfungen arbeiten, werden nicht installiert</string>
@@ -2193,6 +2235,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_beauty_face">Verschönern</string>
     <string name="gb_beauty_light">Aufhelllicht</string>
     <string name="gb_beauty_nature_light">Natürlich</string>
+    <string name="gb_casual_game_application_range_prefix">NR.</string>
     <string name="gb_collimator_color">Farbe</string>
     <string name="gb_collimator_size">Größe</string>
     <string name="gb_collimator_style">Typ</string>
@@ -2560,6 +2603,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gtb_dialog_hint_smart_5g">Sie können diese Funktion unter Game Turbo &gt; Einstellungen ein- und ausschalten.</string>
     <string name="gtb_dialog_privacy_speed_message">Sie sind dabei, Xunyou Game Booster zu nutzen. Dieser Dienst erfasst Ihre Xiaomi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu erfassen.</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>Ich habe die Xunyou Game Booster &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="gtb_dialog_privacy_voice_message">Sie sind dabei, den Xunyou Game Voice Changer zu verwenden. Dieser Dienst erfasst Ihre Xiaomi-Konto-ID, um die Dauer Ihrer Mitgliedschaft zu erfassen.</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>Ich habe die Xunyou Game Voice Changer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="gtb_dialog_summary_smart_5g">Immer wenn Game Turbo ein 5G-Netz erkennt, kann es Ihr Gerät mit dem besten verfügbaren Netz verbinden, um Netzverzögerungen zu reduzieren. Diese Funktion jetzt einschalten?</string>
@@ -2729,6 +2773,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="item_system_auto_download">Updates automatisch herunterladen</string>
     <string name="item_usb_debug">USB-Debugging</string>
     <string name="item_virus_lib">Virendefinitionen automatisch aktualisieren</string>
+    <string name="keyboard_key_back">Zurück</string>
+    <string name="keyboard_key_space">Leertaste</string>
     <string name="label_callwait">Anrufbenachrichtigung</string>
     <string name="label_mi_stats">Mi Analytics</string>
     <string name="last_check_canceled">Vorige Suche wurde abgebrochen</string>
@@ -2747,6 +2793,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="local_ip_exception_summary">Lokale IP-Adresse wurde nicht abgerufen. Um den Fehler zu melden, öffnen Sie die Feedback-App und versenden Sie ein Protokoll von Ihrem Gerät.</string>
     <string name="location">Standort</string>
     <string name="lock_all_title">Alle Apps sperren</string>
+    <string name="lock_app_input_invalid_car">Einige Symbole werden nicht unterstützt</string>
     <string name="lock_mode_title">Sperreinstellungen</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s genutzt am Sperrbildschirm</string>
     <string name="lock_screen_traffic_guide_notification_title">Tippen, um Datennutzung zu verwalten</string>
@@ -2916,6 +2963,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="menu_show_work_profile_text">Arbeits-Apps anzeigen</string>
     <string name="menu_sms">SMS senden</string>
     <string name="menu_summary_antispam">Anrufe und Nachrichten blockieren</string>
+    <string name="menu_summary_antispam_calls">Spam-Anrufe blockieren</string>
     <string name="menu_summary_antivirus">Gerät auf Viren prüfen</string>
     <string name="menu_summary_app_manager">App-Einstellungen verwalten</string>
     <string name="menu_summary_garbage_cleanup">Kein Müll gefunden</string>
@@ -3090,6 +3138,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="net_boostering">Netzwerkgeschwindigkeit steigern…</string>
     <string name="net_boosting">Geschwindigkeit steigern…</string>
     <string name="net_delay_title">Verzögerung</string>
+    <string name="net_free_booster_new_user_tip">Holen Sie sich einen kostenlosen Game Booster und gewinnen Sie ein Xiaomi- Telefon!</string>
+    <string name="net_free_booster_new_user_title">Geschenk für neue Benutzer</string>
     <string name="net_overdue">Sitzung beendet</string>
     <string name="network_assistant_privacy">Um die Datennutzung pro App zu verfolgen, sammeln wir Daten wie Paketnamen, WLAN- und mobile Datennutzung, Datennutzung zu Spitzenzeiten und in der Nebenzeit und wann WLAN und mobile Daten eingeschaltet sind. Diese Daten werden lokal auf Ihrem Gerät gespeichert.</string>
     <string name="network_assistant_privacy_title">App-/Netzwerknutzungs- sowie Diagnosedaten senden</string>
@@ -3407,7 +3457,18 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_battery_history_total_consumption_title">Gesamter Stromverbrauch</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_battery_low_health_reminder">Es ist Zeit, den Akku zu wechseln</string>
+    <string name="pc_berserk_mode_dialog_title">Ultimativen Modus einschalten</string>
+    <string name="pc_berserk_mode_noti_summary">Der ultimative Modus kann den Stromverbrauch erhöhen und zu Überhitzungsproblemen führen</string>
+    <string name="pc_berserk_mode_performance_title">Ultimativer Modus</string>
     <string name="pc_button_go_to_setting">Einstellungen</string>
+    <string name="pc_camera_printer_dialog_battery_full">Voll geladen</string>
+    <string name="pc_camera_printer_dialog_battery_low">Niedriger Akku</string>
+    <string name="pc_camera_printer_dialog_negative_button">Verstanden</string>
+    <string name="pc_camera_printer_dialog_positive_button">Kamera öffnen</string>
+    <string name="pc_camera_printer_dialog_should_charge">Ladegerät anschließen</string>
+    <string name="pc_camera_printer_notify_button">Kamera öffnen</string>
+    <string name="pc_camera_printer_notify_subtitle">Verbunden</string>
+    <string name="pc_camera_printer_title">Fotodrucker-Set</string>
     <string name="pc_category_charge_settings">Ladeeinstellungen</string>
     <string name="pc_charged_auto_close_summary">Ausschalten, wenn der Akku ​%1$s oder vollständig geladen ist</string>
     <string name="pc_charged_auto_close_title">Ausschalten, wenn geladen</string>
@@ -3465,6 +3526,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_intellect_charge_protect_summary">Laden anpassen anhand von Nutzungsszenarien</string>
     <string name="pc_intellect_charge_protect_title">Optimiertes Laden</string>
+    <string name="pc_is_exiting_super_power">Ultra-Stromsparen\nausschalten</string>
     <string name="pc_keywords_fast_charge">Schnellladen</string>
     <string name="pc_keywords_low_power_consumption_save">Stromsparen</string>
     <string name="pc_keywords_low_power_mode">Stromsparmodus</string>
@@ -3509,11 +3571,13 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_phone_battery_level">Telefon</string>
     <string name="pc_power_consume_check">Akkuprüfung</string>
     <string name="pc_power_consume_check_ing">Prüfen…</string>
+    <string name="pc_power_mode_has_berserk">Ultimativer Modus ist an</string>
     <string name="pc_power_mode_has_performance">Leistungsmodus ist an</string>
     <string name="pc_power_save_settings_new">Stromspareinstellungen</string>
     <string name="pc_remind_close_cover_to_charge_summary">Gerät vor dem Aufladen zusammenklappen, um einen schnelleren und stabileren Ladevorgang zu ermöglichen.</string>
     <string name="pc_remind_close_cover_to_charge_title">Zum Laden zusammenklappen</string>
     <string name="pc_reminder_always_protect_summary">Auf begrenztes Laden umschalten, um die Akkualterung zu reduzieren</string>
+    <string name="pc_satellite_auto_enter_super_power">Ultra-Stromsparen eingeschaltet, um die Satellitenkommunikation sicherzustellen</string>
     <string name="pc_save_charge">Laden</string>
     <string name="pc_save_other_setting">Andere Einstellungen</string>
     <string name="pc_save_power">Stromsparen</string>
@@ -4605,6 +4669,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="result_sms_title_auth">Finanzielles Risiko durch SMS-Leck besteht</string>
     <string name="result_wifi_header">WLAN-Risiken erkannt</string>
     <string name="resume">Wiederherstellen</string>
+    <string name="revoke_not_allow_net_summary">Erlauben Sie Sicherheit, sich mit dem Internet zu verbinden, damit Sie Ihre Zustimmung zur Datenschutzerklärung widerrufen können.</string>
+    <string name="revoke_not_allow_net_title">Achtung</string>
     <string name="risk_app_install_agree_button">Dieser App vertrauen</string>
     <string name="risk_app_install_agree_checkbox">Ich bin bereit, alle möglichen Risiken einzugehen.</string>
     <string name="risk_app_install_agree_message">Diese App wurde von einem Drittanbieter entwickelt und könnte gegen lokale Gesetze und Vorschriften verstoßen. Xiaomi garantiert nicht die Verfügbarkeit, Kontinuität und Zugänglichkeit der von dieser App angebotenen Inhalte und Dienste. Jeglicher Verlust oder Schaden, der durch die Nutzung dieser App entsteht, wird von Ihnen getragen.</string>
@@ -4917,6 +4983,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sp_abnormal_scan_title">Probleme lösen</string>
     <string name="sp_antispam_scan_summary">Schützen Sie sich vor Betrug</string>
     <string name="sp_antispam_scan_title">Sperrliste</string>
+    <string name="sp_app_install_protect_title">Schutz bei der App-Installation</string>
     <string name="sp_background_risk_dialog_summary">, prüfen und beheben Sie Zahlungsprobleme.</string>
     <string name="sp_background_risk_dialog_summary_new">Die derzeitige Zahlungsumgebung könnte Sicherheitsrisiken bergen. Nehmen Sie sich einen Moment Zeit, um mehr zu erfahren.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Sie sind mit einem ggf. unsicheren öffentlichen WLAN verbunden. Ihre Zahlung muss geschützt sein, bevor Sie sie abschließen.</string>
