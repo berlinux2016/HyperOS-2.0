@@ -90,6 +90,7 @@
     <string name="agree_label">Zustimmen</string>
     <string name="agree_open">Einschalten</string>
     <string name="agree_permissions_request">Erlauben</string>
+    <string name="ai_summery_too_long">Originaltext ist zu lang. Qualität der smarten Zusammenfassung kann variieren.</string>
     <string name="alert_tips">Diese Webseite kann ein Sicherheitsrisiko darstellen</string>
     <string name="all">Alle</string>
     <string name="allow">Erlauben</string>
@@ -1014,6 +1015,7 @@
     <string name="mggc_request_error">Anfrage nicht vollständig abgeschlossen</string>
     <string name="mi_browser_clean_up_garbage">Mi Browser löscht Müll…</string>
     <string name="mi_browser_is_scanning">Mi Browser scannt</string>
+    <string name="mict_copylink">URL kopieren</string>
     <string name="mict_refresh">Aktualisieren</string>
     <string name="mict_share">Teilen</string>
     <string name="mict_url_copy_done">URL erfolgreich kopiert</string>
@@ -1653,6 +1655,7 @@
     <string name="permission_open_camera">Erst Mi Browser den Zugriff auf die Kamera in den Einstellungen erlauben</string>
     <string name="permission_open_location">Erst Mi Browser den Zugriff auf Ihren Standort in den Einstellungen erlauben</string>
     <string name="permission_open_mic">Erst Mi Browser den Zugriff auf das Mikrofon in den Einstellungen erlauben</string>
+    <string name="permission_open_shortcut">Startbildschirm-Verknüpfungen in Einstellungen einschalten</string>
     <string name="permission_open_storage">Erst Mi Browser den Zugriff auf den internen Speicher in den Einstellungen erlauben</string>
     <string name="permission_request_contacts">Diese Funktion erfordert die Berechtigung, auf Ihre Kontakte zuzugreifen, um normal zu funktionieren.</string>
     <string name="permission_service">Allgemeine Geschäftsbedingungen</string>

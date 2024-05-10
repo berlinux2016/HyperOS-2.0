@@ -298,6 +298,7 @@
     <string name="nfc_wifi_and_bluetooth_china">WLAN und Bluetooth einschalten</string>
     <string name="night">Abend</string>
     <string name="noon">Mittag</string>
+    <string name="not_find_car_to_mirror">Kein Fahrzeug gefunden, auf das die Apps übertragen werden können</string>
     <string name="not_set">Nicht festgelegt</string>
     <string name="notification_channel_description_download">Download-Fortschritt in Benachrichtungsleiste anzeigen</string>
     <string name="notification_channel_name_download">Download-Fortschritt anzeigen</string>
