@@ -16,19 +16,19 @@
         <item>Datenschutz und Interkonnektivität, Datenschutz</item>
     </string-array>
     <string-array name="settings_search_connection_service">
-        <item>Interkonnektivitätsdienste</item>
-        <item>Interkonnektivität/Interkonnektivitätsdienste</item>
-        <item>Interkonnektivitätsdienste</item>
+        <item>Xiaomi Interkonnektivität</item>
+        <item>Interkonnektivität/Xiaomi Interkonnektivität</item>
+        <item>Xiaomi Interkonnektivitätsdienstem, Xiaomi Interconnect</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>App-Übergabe</item>
-        <item>Interkonnektivität/App-Übergabe</item>
+        <item>Interkonnektivität/Apps</item>
         <item>Apps übertragen, Übergabe, übertragen</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>Anrufe</item>
-        <item>Interkonnektivität/Anrufe</item>
-        <item>Anrufe</item>
+        <item>Anrufsynchronisation</item>
+        <item>Interkonnektivität/Anrufsynchronisation</item>
+        <item>Anrufsynchronisation, geräteübergreifende Anrufe, Anrufweitergabe, Anrufe</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Netzwerkassistent</item>

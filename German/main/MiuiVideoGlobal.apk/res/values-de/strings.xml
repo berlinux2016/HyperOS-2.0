@@ -182,7 +182,12 @@
     <string name="columbus_player_speed_title">Video überspringen?</string>
     <string name="columbus_player_speed_video">VIDEO überspringen</string>
     <string name="columbus_player_unit_sec">Sek</string>
+    <string name="columbus_reward_style_access">Mehr erfahren</string>
+    <string name="columbus_reward_style_close_cancel">Beenden</string>
+    <string name="columbus_reward_style_close_desc">Schauen Sie das Video zu Ende, um eine Belohnung zu erhalten. Weiterschauen?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortfahren</string>
     <string name="columbus_skip_ad">Überspringen</string>
+    <string name="columbus_skip_ad_time">Überspringen (%d)</string>
     <string name="com_permission_desc">Mi Video kann nicht auf Videos auf Ihrem Gerät zugreifen. Zugriff in den Einstellungen erlauben.</string>
     <string name="com_permission_title">Berechtigungen erforderlich</string>
     <string name="comment_model_add_comment">Kommentar hinzufügen</string>
@@ -888,6 +893,14 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="mgplayer_locked">Gesperrt</string>
     <string name="mgplayer_unlocked">Entsperrt</string>
     <string name="mgplayer_wifi_tip">Video abspielen wird Daten verbrauchen. Fortfahren?</string>
+    <string name="mgtv_cd_feed_no_data">Keine Daten</string>
+    <string name="mgtv_cd_load_more_fail">Laden fehlgeschlagen</string>
+    <string name="mgtv_cd_load_more_finish">Laden abgeschlossen</string>
+    <string name="mgtv_cd_load_more_loading">Laden... </string>
+    <string name="mgtv_cd_load_more_nothing">Keine weiteren Daten verfügbar</string>
+    <string name="mgtv_cd_retry">Wiederholen</string>
+    <string name="mgtv_cd_video_err_tips">Ein Fehler ist aufgetreten, bitte erneut versuchen</string>
+    <string name="mgtv_cd_video_net_err_tips">Netzwerkfehler, bitte später erneut versuchen</string>
     <string name="mi_video_pip_mode">Bild-im-Bild</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
@@ -1021,6 +1034,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="network_failed">Netzwerkverbindung fehlgeschlagen</string>
     <string name="newyearfestival_go_to_draw_prizes">Zur Verlosung gehen</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Videos ansehen, um an der Verlosung teilzunehmen</string>
+    <string name="next_button">Weiter</string>
     <string name="nick_name">Spitzname</string>
     <string name="night">Abend</string>
     <string name="no_account">Nicht angemeldet</string>
@@ -1454,6 +1468,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="slide_or_click_to_open_ad">Schieben oder tippen, um mehr zu erfahren</string>
     <string name="slide_save_message">Video erstellen…</string>
     <string name="slide_to_open_ad">Schieben, um mehr zu erfahren</string>
+    <string name="small_mango_play_next_episode">Nächste Episode</string>
     <string name="small_video_load_more_hint">Hochwischen, um mehr Videos abzuspielen</string>
     <string name="small_video_report">Melden</string>
     <string name="small_video_report_dialog_title">Grund wählen</string>
@@ -1542,6 +1557,7 @@ Es zeigt nichts an."</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="sure_to_logout">Jetzt abmelden?</string>
+    <string name="swipe_to_exit">Erneut wischen zum Beenden</string>
     <string name="switch_ratio_pause">Wiedergabegeschwindigkeit ist instabil. Zurückschalten auf Standardgeschwindigkeit.</string>
     <string name="sync_favorites_limit_new">Es gibt mehr als %d Videos in Ihren Favoriten. Wir müssen einige der früheren Videos löschen, um die Synchronisierung fortzusetzen.</string>
     <string name="sync_favorites_message">Favoriten dieses Geräts mit Ihrem Konto synchronisieren? Elemente, die nicht mehr verfügbar sind, werden gelöscht.</string>
@@ -1780,6 +1796,7 @@ Es zeigt nichts an."</string>
     <string name="v_menu_hide">Ausblenden</string>
     <string name="v_more">Mehr</string>
     <string name="v_next">Weiter</string>
+    <string name="v_ok">Weiter</string>
     <string name="v_online_play">Online streamen</string>
     <string name="v_pw_need_update_app">Aktualisieren Sie Mi Video, um alle Funktionen zu nutzen</string>
     <string name="v_save">Speichern</string>
@@ -1791,6 +1808,7 @@ Es zeigt nichts an."</string>
     <string name="video_download_fail">Video herunterladen fehlgeschlagen</string>
     <string name="video_download_fail_hint">Herunterladen fehlgeschlagen</string>
     <string name="video_download_floating_guide">Videos kostenlos herunterladen</string>
+    <string name="video_download_folder">Heruntergeladene Videos</string>
     <string name="video_download_folder_title">Mi Video Downloads</string>
     <string name="video_download_forbidden">Herunterladen von dieser Webseite nicht möglich</string>
     <string name="video_download_login_guide">Bei %s anmelden, um Videos herunterzuladen</string>

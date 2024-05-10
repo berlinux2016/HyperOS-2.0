@@ -22,6 +22,7 @@
     <string name="afternoon">Nachmittag</string>
     <string name="answering_tel1">Auf Tablet anworten…</string>
     <string name="answering_tel2">Vom Telefon übertragen…</string>
+    <string name="app_name_vtcamera">Geräteübergreifende Kamera</string>
     <string name="appcirculate_alert_busy_negative">Abbrechen</string>
     <string name="appcirculate_alert_busy_positive">Unterbrechen</string>
     <string name="appcirculate_alert_busy_text">Anscheinend überträgt das andere Gerät jetzt Dateien. Casting unterbrechen, um fortzufahren?</string>
@@ -66,10 +67,15 @@
     <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="camera_associate_connecting">Mit Kamera verbinden</string>
+    <string name="camera_associate_disconnecting">Telefonkamera trennen</string>
     <string name="camera_associate_failed">Kameraverbindung fehlgeschlagen</string>
     <string name="camera_associate_success">Kamera verbunden</string>
+    <string name="camera_choose_device">Gerät wählen</string>
     <string name="camera_connecting">%s möchte die Kamera dieses Geräts verwenden</string>
+    <string name="camera_connecting_device">Verbinden mit %s</string>
     <string name="camera_disassociate">Von Kamera getrennt</string>
+    <string name="camera_disconnecting_device">Trennen von %s</string>
+    <string name="camera_title">Nach verfügbaren Geräten suchen…</string>
     <string name="cancel_button">Abbrechen</string>
     <string name="car_air_con_back_switch_close">AC auf dem Rücksitz ausschalten</string>
     <string name="car_air_con_back_switch_open">AC auf dem Rücksitz einschalten</string>
@@ -167,6 +173,7 @@
     <string name="circulate_cta_app_name">Xiaomi Interkonnektivität</string>
     <string name="circulate_cta_desc_lite_phone">Xiaomi Interkonnektivitätsdienste ermöglichen Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
     <string name="circulate_cta_desc_phone">Xiaomi Interkonnektivitätsdienste ermöglichen Ihren Geräten, drahtlos miteinander zu interagieren. Um normal zu funktionieren, benötigen diese Dienste eine Internetverbindung und erfordern folgende Berechtigungen:</string>
+    <string name="circulate_cta_desc_phone_global">Xiaomi Interkonnektivitätsdienste erlauben Ihren Geräten, drahtlos miteinander zu interagieren.</string>
     <string name="circulate_cta_exit">Beenden</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Zum Verbinden von Geräten und Übertragen von Daten zwischen ihnen</string>
     <string name="circulate_cta_premission_get_installed_apps_subtitle">Für den Zugriff auf die Liste der auf einem mobilen Gerät installierten Apps und die Bildschirmspiegelung auf Computer</string>
@@ -181,6 +188,7 @@
     <string name="circulate_cta_premission_transferring_data_subtitle">Zum Übertragen von Daten zwischen angeschlossenen Geräten</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Zum Übertragen von Elementen und die Verbindung von Geräten über WLAN</string>
     <string name="circulate_cta_premission_wlan_title_global">WLAN ein- und ausschalten</string>
+    <string name="circulate_cta_title_global">Datenschutzerklärung</string>
     <string name="circulate_device_type_name_mijia">Smart Home-Geräte</string>
     <string name="circulate_device_type_name_phone">Telefon</string>
     <string name="circulate_device_type_name_wifi_speaker">Lautsprecher</string>
@@ -291,6 +299,24 @@
     <string name="close_invisible_mode_dialog_message">Mi Smart Play kann jetzt nicht verwendet werden. Inkognito-Modus in den Einstellungen ausschalten, um diese Funktion zu verwenden.</string>
     <string name="close_invisible_mode_dialog_ok">Einstellungen</string>
     <string name="close_invisible_mode_dialog_title">Sie sind inkognito</string>
+    <string name="common_google_play_services_enable_button">Aktivieren</string>
+    <string name="common_google_play_services_enable_text">%1$s wird nur laufen, wenn Sie Google Play-Dienste aktivieren.</string>
+    <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
+    <string name="common_google_play_services_install_button">Installieren</string>
+    <string name="common_google_play_services_install_text">%1$s läuft nicht ohne Google Play-Dienste, die auf Ihrem Gerät fehlen.</string>
+    <string name="common_google_play_services_install_title">Google Play-Dienste abrufen</string>
+    <string name="common_google_play_services_notification_channel_name">Verfügbarkeit Google Play-Dienste</string>
+    <string name="common_google_play_services_notification_ticker">Fehler Google Play-Dienste</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit den Google Play-Diensten. Bitte erneut versuchen.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s läuft nicht ohne Google Play-Dienste, die von Ihrem Gerät nicht unterstützt werden.</string>
+    <string name="common_google_play_services_update_button">Aktualisieren</string>
+    <string name="common_google_play_services_update_text">%1$s läuft nicht, wenn Sie Google Play-Dienste nicht aktualisieren.</string>
+    <string name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
+    <string name="common_google_play_services_updating_text">%1$s läuft nicht ohne Google Play-Dienste, die gerade aktualisiert werden.</string>
+    <string name="common_google_play_services_wear_update_text">Neue Version der Google Play-Dienste erforderlich. Sie wird sich in Kürze selbst aktualisieren.</string>
+    <string name="common_open_on_phone">Am Telefon öffnen</string>
+    <string name="common_signin_button_text">Anmelden</string>
+    <string name="common_signin_button_text_long">Mit Google anmelden</string>
     <string name="connect_device_fail">Gerät verbinden fehlgeschlagen</string>
     <string name="connect_setting_privacy_title">Datenschutz</string>
     <string name="connect_settings_application_ecological">Apps kombinieren</string>
@@ -313,6 +339,7 @@
     <string name="connect_settings_summary"><Data>Erkennen Sie automatisch Geräte in Ihrer Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, und verbinden Sie sie miteinander, um eine Vielzahl von Aufgaben auf mehreren Geräten auszuführen. &lt;a href=%1$s>Mehr erfahren&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Erlauben Sie Ihren Geräten, drahtlos miteinander zu interagieren</string>
     <string name="connect_settings_summary_corp_phone">Beantworten Sie Anrufe auf Tablets oder Computern in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind</string>
+    <string name="connect_settings_summary_global"><Data>Entdecken Sie Geräte in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, und fügen Sie sie zu Mi Smart Hub hinzu</Data></string>
     <string name="connect_settings_summary_hyper_mind">Diese Funktion lernt Ihre Muster und nutzt sie, um Ihre Smart Home-Geräte zu steuern. Powered by Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Aufgaben in derselben App auf einem anderen Gerät fortsetzen</string>
     <string name="connect_settings_summary_share_clipboard">Text und Bilder auf anderen Geräten innerhalb von %d Minuten nach dem Kopieren auf diesem Gerät einfügen</string>
@@ -325,6 +352,7 @@
     <string name="connection_failed">Kamera verbinden fehlgeschlagen</string>
     <string name="console_guide_btn_got_it">Verstanden</string>
     <string name="console_guide_subtitle_hang_up">Sie können das Casting fortsetzen, wenn der Bildschirm Ihres Geräts ausgeschaltet ist. Diese Funktion reduziert den Stromverbrauch.</string>
+    <string name="copy_toast_msg">Link in Zwischenablage kopiert</string>
     <string name="console_guide_subtitle_private">Keine Popup-Benachrichtigungen, eingehenden Anrufe und andere privaten Elemente auf externen Monitoren anzeigen</string>
     <string name="console_guide_subtitle_small_window">Projiziertes Fenster minimieren, um andere Funktionen Ihres Telefons zu verwenden</string>
     <string name="controller_auth_cancel">Abbrechen</string>
@@ -356,7 +384,9 @@
     <string name="dialog_miplay_permission_positive">Einstellungen</string>
     <string name="dialog_miplay_permission_title">Berechtigungen erforderlich</string>
     <string name="dialog_nearbydevice_permission_message">Diesem Gerät den Zugriff auf Geräte in der Nähe erlauben, um Casting-Funktionen nutzen zu können.</string>
+    <string name="dialog_nearbydevice_permission_message_connectivity">Die Xiaomi Interkonnektivität-Funktion, die Sie verwenden, benötigt die Berechtigung, sich mit Geräten in der Nähe zu verbinden. Ohne sie kann diese Funktion nicht normal funktionieren. Sie können diese Berechtigung in Einstellungen erteilen.</string>
     <string name="dialog_nearbydevice_permission_title">Berechtigungen erforderlich</string>
+    <string name="dialog_nearbydevice_permission_title_connectivity">Berechtigungen erforderlich</string>
     <string name="dialog_nfc_cast_wifi_off">WLAN einschalten, um mit NFC zu übertragen. Jetzt einschalten?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Verbinden Sie sowohl Ihr Mobilgerät als auch Ihren TV mit demselben WLAN.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. &lt;a href=milink://com.milink.service/specification>\"Hilfe\"&lt;/a> anzeigen, um mehr zu erfahren.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Verbinden Sie sowohl Ihr Mobilgerät als auch Ihren TV mit demselben WLAN.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g> Bei einigen TV-Modellen ist diese Funktion nur verfügbar, wenn Bildschirmspiegelung an ist. &lt;a href=milink://com.milink.service/specification>\"Hilfe\"&lt;/a> anzeigen, um mehr zu erfahren.</Data></string>
@@ -398,6 +428,9 @@
     <string name="evening">Nachmittag</string>
     <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
+    <string name="fallback_menu_item_copy_link">Link kopieren</string>
+    <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
+    <string name="fallback_menu_item_share_link">Link teilen</string>
     <string name="file_read_des">Zur Anzeige von Fotos und anderen Dateien auf externen Monitoren</string>
     <string name="find_device_close">Verstanden</string>
     <string name="find_device_notification_content_phone">%1$s sucht mit %2$s nach diesem Gerät. Entsperren, um die Tonwiedergabe zu beenden.</string>
@@ -436,6 +469,10 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
+    <string name="global_dialog_cancle">Abbrechen</string>
+    <string name="global_dialog_miplay_permission_positive">Einstellungen</string>
+    <string name="global_dialog_nearbydevice_permission_message">Xiaomi Interkonnektivitätsdienste benötigen die Berechtigung, sich mit Geräten in der Nähe zu verbinden, um sie zu erkennen. Erteilen Sie diese Berechtigung in Einstellungen, damit Sie sie normal nutzen können.</string>
+    <string name="global_dialog_nearbydevice_permission_title">Berechtigungen erforderlich</string>
     <string name="global_privacy">Allgemeine Geschäftsbedingungen</string>
     <string name="global_privacy_detail"><Data>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung &lt;/a> und &lt;a href=%2$s>Datenschutzerklärung &lt;/a>, bevor Sie diese App nutzen.&lt;br>Wenn Sie der Nutzung der vorgenannten Dienste nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionalität steht Ihnen jedoch weiterhin zur Verfügung.</Data></string>
     <string name="global_privacy_explain">Willkommen bei Casting! Diese App bietet folgende Dienste:</string>
@@ -453,6 +490,10 @@
     <string name="head_toast_fail">Verbinden fehlgeschlagen</string>
     <string name="head_toast_success">Erfolgreich verbunden</string>
     <string name="headset_content_description">Kopfhörer mit diesem Gerät verbunden. Zum Aktivieren doppelt drücken. Mit zwei Fingern drücken und ziehen, um die Wiedergabe zu übertragen.</string>
+    <string name="help_page_question_1st_01_international">%1$d. Wenn es sich bei dem Gerät, an das Sie übertragen, um ein Xiaomi TV handelt, aktivieren Sie Miracast auf diesem Gerät.
+%2$d. Wenn es sich bei dem Gerät, an das Sie übertragen, um ein Nicht-Xiaomi-TV handelt, stellen Sie sicher, dass der Fernseher Miracast unterstützt und dass diese Funktion aktiviert ist. Diese Funktion kann bei einigen TV-Modellen einen anderen Namen haben, wie z. B. Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme.</string>
+    <string name="help_page_setp_1st_02_international">%1$d. Bei einigen TV-Marken ist Miracast ggf. automatisch aktiviert.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Schalten Sie Miracast auf Ihrem Xiaomi TV ein.</string>
     <string name="help_page_text_01">Hilfe</string>
     <string name="help_page_text_02">Was ist Casting?</string>
     <string name="help_page_text_03">Beim Casting werden Elemente vom Bildschirm Ihres Geräts auf einen größeren externen Monitor projiziert. Es erlaubt Ihnen, Bilder und Videos mit Ihren Freunden und Ihrer Familie zu teilen, ohne mobile Daten zu verwenden.</string>
@@ -741,6 +782,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="onehop_mirror_guide_message_button">Verstanden</string>
     <string name="onehop_mirror_guide_message_text_1">Mit einem Tippen das Casting des Telefon-Displays auf Ihren Computer durchführen.</string>
     <string name="onehop_mirror_guide_message_text_2">Wählen Sie Fotos, Videos und andere Dateien aus der Galerie oder dem Dateimanager, um sie auf Ihren Computer zu übertragen.</string>
+    <string name="onehop_mirror_guide_message_title">Xiaomi Interkonnektivität</string>
     <string name="open_game_accelerate">Game Turbo einschalten</string>
     <string name="p2p_location_des">Zum Anschluss Ihres Mobilgeräts an externe Monitore</string>
     <string name="paipai_connect_btn_text">Fertig</string>
@@ -1054,5 +1096,6 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="wifi_scan_btn_text">Erneut scannen</string>
     <string name="wifi_username_et_hint">Konto-ID</string>
     <string name="window_card_ml_find_null">Dieses Gerät ist ggf. nicht in der Nähe</string>
+    <string name="window_card_ml_find_null_camera">Keine Kamera oder nutzbares Gerät in der Nähe gefunden</string>
     <string name="yesterday">Gestern</string>
 </resources>

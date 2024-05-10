@@ -124,6 +124,7 @@
     <string name="long_screenshot_top_msg_description_accessibility">Screenshot erstellen</string>
     <string name="long_screenshot_top_msg_manual">Screenshot zurechtschneiden und zum Abschließen Taste drücken</string>
     <string name="main_save_error_msg">Änderungen wurden wegen eines Fehlers nicht gespeichert</string>
+    <string name="mi_share_turbo_mode">Turbotransfer</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
     <string name="miuix_alphabet_indexer_name">Indexleiste</string>
@@ -269,6 +270,18 @@
     <string name="send">Senden</string>
     <string name="send_files_by">Dateien teilen mit</string>
     <string name="send_files_to">Elemente senden an</string>
+    <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s\" von %1$s</string>
+    <string name="send_one_apk_dialog_desc_received">%2$d APK \"%3$s\" von %1$s empfangen</string>
+    <string name="send_one_apk_dialog_desc_receiving"> %2$d APK \"%3$s\" von %1$s empfangen</string>
+    <string name="send_one_audio_dialog_desc">%2$d Audiodatei \"%3$s\" von %1$s</string>
+    <string name="send_one_audio_dialog_desc_received">%2$d Audiodatei \"%3$s\" von %1$s empfangen</string>
+    <string name="send_one_audio_dialog_desc_receiving"> %2$d Audiodatei \"%3$s\" von %1$s empfangen</string>
+    <string name="send_one_file_dialog_desc">%2$d %3$s Datei \"%4$s\" von %1$s</string>
+    <string name="send_one_file_dialog_desc_received">%2$d %3$s Datei \"%4$s\" von %1$s empfangen</string>
+    <string name="send_one_file_dialog_desc_receiving"> %2$d %3$s Datei \"%4$s\" von %1$s empfangen</string>
+    <string name="send_one_zip_dialog_desc">%2$d ZIP-Datei \"%3$s\" von %1$s</string>
+    <string name="send_one_zip_dialog_desc_received">%2$d ZIP-Datei \"%3$s\" von %1$s empfangen</string>
+    <string name="send_one_zip_dialog_desc_receiving"> %2$d ZIP-Datei \"%3$s\" von %1$s empfangen</string>
     <string name="share_and_delete_picture">Nach Teilen löschen</string>
     <string name="share_and_delete_screenshot">Nach Teilen löschen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
