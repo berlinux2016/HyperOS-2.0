@@ -195,7 +195,7 @@
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Touchscreen-Lautsprecher</string>
     <string name="circulate_headset_back_to_box_desc">1. Legen Sie beide Kopfhörer in die Ladehülle.\n2. Halten Sie die Taste an der Hülle gedrückt.\n3. Beenden Sie die Kopplung auf dem Zielgerät.</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Um eine Wiedergabe zwischen Geräten zu übertragen, koppeln Sie Ihre Kopfhörer zunächst mit Ihrem TV.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">1. Drücken Sie die Power-Taste auf der TV-Fernbedienung, um die Lautsprecher zu trennen.\n2. Versuchen Sie erneut, die Kopfhörer zu verbinden, sobald der Bildschirm aufleuchtet.</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">%1$d. Drücken Sie die Power-Taste auf der TV-Fernbedienung, um die Lautsprecher zu trennen.\n%2$d. Versuchen Sie erneut, die Kopfhörer zu verbinden, sobald der Bildschirm aufleuchtet.</string>
     <string name="circulate_headset_back_to_box_desc_pad">1. Legen Sie beide Kopfhörer in die Hülle.\n2. Halten Sie die Taste an der Hülle gedrückt.\n3. Beenden Sie die Kopplung in den Bluetooth-Einstellungen oder mit einem Pop-up-Dialog auf diesem Gerät.</string>
     <string name="circulate_headset_back_to_box_desc_phone">1. Legen Sie beide Kopfhörer in die Hülle.\n2. Halten Sie die Taste an der Hülle gedrückt.\n3. Beenden Sie die Kopplung in den Bluetooth-Einstellungen oder mit einem Pop-up-Dialog auf diesem Gerät.</string>
     <string name="circulate_headset_back_to_box_desc_tv">1. Legen Sie beide Kopfhörer in die Ladehülle.\n2. Halten Sie die Taste an der Hülle gedrückt.\n3. Öffnen Sie die Liste der verfügbaren Bluetooth-Geräte auf Ihrem TV und bestätigen Sie die Kopplung.</string>
@@ -328,7 +328,7 @@
     <string name="connect_settings_connect_privacy">Datenschutz</string>
     <string name="connect_settings_connection_service">Xiaomi Interkonnektivität</string>
     <string name="connect_settings_corp_network">Netzwerkunterstützung</string>
-    <string name="connect_settings_corp_phone">Anrufe</string>
+    <string name="connect_settings_corp_phone">Anrufsynchronisation</string>
     <string name="connect_settings_nfc_share">Elemente per NFC übertragen</string>
     <string name="connect_settings_not_opened">Aus</string>
     <string name="connect_settings_opened">An</string>
@@ -604,6 +604,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="keyguard_security_setting_privacy_policy">Datenschutzerklärung</string>
     <string name="km_synergy_error">Zeitüberschreitung der Verbindung. Bluetooth und WLAN müssen auf beiden Geräten eingeschaltet sein und sie müssen sich in Reichweite befinden.</string>
     <string name="km_synergy_error_china">Zeitüberschreitung der Verbindung. Bluetooth und WLAN müssen auf beiden Geräten eingeschaltet sein und sie müssen sich in Reichweite befinden.</string>
+    <string name="local_camera_device">Diese Gerät</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_24h_suffix">%1$s Stunden</string>
     <string name="material_hour_selection">Stunde auswählen</string>
@@ -927,16 +928,16 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="searchview_clear_text_content_description">Text löschen</string>
     <string name="searchview_navigation_content_description">Zurück</string>
     <string name="send">Senden</string>
-    <string name="server_activity_task_tips">Kamera-Feed mit %s teilen</string>
+    <string name="server_activity_task_tips">Kamera wird von %s verwendet</string>
     <string name="server_camera_disconnected">Verbindung zum anderen Gerät wurde wegen eines Fehlers getrennt</string>
     <string name="server_camera_occupied">Kamera ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="server_toast_camera_prepare">Vorbereiten der Freigabe des Kamera-Feed…</string>
     <string name="set_negative_button">Einstellungen</string>
-    <string name="settings_cross_notify">Benachrichtigungen auf anderen Geräten</string>
+    <string name="settings_cross_notify">Geräteübergreifende Benachrichtigungen</string>
     <string name="settings_cross_notify_app">App-Benachrichtigungen</string>
     <string name="settings_cross_notify_hidden">Benachrichtigungsinhalt ausblenden</string>
     <string name="settings_cross_notify_hidden_tips">Benachrichtigungen auf anderen Geräten mit verstecktem Inhalt anzeigen und zum Einblenden antippen</string>
-    <string name="settings_cross_notify_manager">Benachrichtigungen auf verbundenen Geräten</string>
+    <string name="settings_cross_notify_manager">Geräteübergreifende Benachrichtigungen</string>
     <string name="settings_cross_notify_power">Akku schwach</string>
     <string name="settings_cross_notify_system">Systembenachrichtigungen</string>
     <string name="settings_cross_notify_tips">Benachrichtigungen auf Tablets oder Computern in der Nähe anzeigen, wenn dieses Gerät gesperrt ist</string>
@@ -1096,6 +1097,6 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="wifi_scan_btn_text">Erneut scannen</string>
     <string name="wifi_username_et_hint">Konto-ID</string>
     <string name="window_card_ml_find_null">Dieses Gerät ist ggf. nicht in der Nähe</string>
-    <string name="window_card_ml_find_null_camera">Keine Kamera oder nutzbares Gerät in der Nähe gefunden</string>
+    <string name="window_card_ml_find_null_camera">Weder Kamera noch nutzbares Gerät in der Nähe gefunden</string>
     <string name="yesterday">Gestern</string>
 </resources>

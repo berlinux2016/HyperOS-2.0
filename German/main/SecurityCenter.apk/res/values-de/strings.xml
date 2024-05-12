@@ -456,8 +456,8 @@
     <string name="app_management_for_chain_start_desc">Verhindern, dass diese App eine Verbindung zu anderen Apps herstellt oder diese öffnet</string>
     <string name="app_management_for_device_id">Identifikatoren ausblenden und Tracking verhindern</string>
     <string name="app_management_for_device_id_desc">Verhindern, dass diese App auf Ihre Rufnummer und personenbezogene Daten zugreift</string>
-    <string name="app_management_for_independent_storage">Zwischenspeicherdaten isolieren</string>
-    <string name="app_management_for_independent_storage_desc">Der App nur den Zugriff auf ihre eigenen Dateien und Daten erlauben</string>
+    <string name="app_management_for_independent_storage">Unabhängiger Speicher</string>
+    <string name="app_management_for_independent_storage_desc">App-Daten unabhängig speichern und verhindern, dass die App auf einige externe Daten zugreift</string>
     <string name="app_management_for_install">App-Downloads blockieren</string>
     <string name="app_management_for_install_desc">Diese App daran hindern, andere Apps herunterzuladen oder zu installieren</string>
     <string name="app_management_measures">App-Verwaltung</string>
@@ -1733,7 +1733,6 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_guide_tips_1">Sie werden über bevorstehende Erdbeben informiert und hören Warntöne</string>
     <string name="ew_guide_tips_2">Erdbebenfrühwarninformationen und -warntöne werden während des Erdbebens aktualisiert</string>
     <string name="ew_guide_tips_3">Sie können den nächstgelegenen Schutzraum finden, Ihren Notfallkontakt anrufen und bei Bedarf Ihre Krankenversicherungskarte vorlegen</string>
-    <string name="ew_guide_title">Demo anzeigen</string>
     <string name="ew_info_agreement">Haftungsausschluss</string>
     <string name="ew_info_other">Andere</string>
     <string name="ew_info_range">Leistungsumfang</string>
@@ -1762,8 +1761,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_main_detail_title">Einstellungen</string>
     <string name="ew_main_emergency_tips">Erfassen Sie Ihre medizinischen Basisdaten, um sie immer griffbereit zu haben</string>
     <string name="ew_main_emergency_title">Krankenversicherungskarte</string>
-    <string name="ew_main_open_tips">Diese Funktion informiert Sie über bevorstehende Erdbeben und spielt Warntöne ab. Sie werden auch nach dem Notfall-Countdown mit den Informationen über Rettungsdienste versorgt.</string>
-    <string name="ew_main_open_title">Warnmeldungen und Hilfe erhalten</string>
+    <string name="ew_main_open_tips">Diese Funktion informiert Sie über bevorstehende Erdbeben und spielt einen Warnton ab</string>
+    <string name="ew_main_open_title">Erdbebenwarnung</string>
     <string name="ew_main_place_tips">Erfahren Sie, wo sich der nächstgelegene Schutzraum befindet, wann immer Sie ihn benötigen</string>
     <string name="ew_main_place_title">Nächstgelegene Schutzräume</string>
     <string name="ew_main_setting_warning_desc">Mehr erfahren</string>
@@ -1818,8 +1817,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_settings_push_tips">Warnungen über Gebiete außerhalb Ihres Standortes erfolgen nur in Form von Benachrichtigungen.</string>
     <string name="ew_settings_set_level_summary">Warnungen über Erdbeben erhalten, wenn deren Intensität %s oder höher ist</string>
     <string name="ew_settings_set_level_title">Erdbebenwarnschwelle einstellen</string>
-    <string name="ew_sleep_mode_alert_content">Um sicherzustellen, dass Sie Erdbebenwarnungen erhalten können, wird der Schlafmodus ausgeschaltet. Hintergrund-Apps, NFC, Bluetooth, GPS, mobile Daten und WLAN werden normal funktionieren, auch wenn Sie schlafen. Erdbebenwarnung jetzt einschalten?</string>
-    <string name="ew_sleep_mode_alert_title">Erdbebenwarnung</string>
+    <string name="ew_sleep_mode_alert_content">Um sicherzustellen, dass Sie Erdbebenfrühwarnungen empfangen können, wird der Schlafmodus ausgeschaltet. Hintergrund-Apps, NFC, Bluetooth, GPS, mobile Daten und WLAN funktionieren normal, auch wenn Sie schlafen.</string>
+    <string name="ew_sleep_mode_alert_title">Wichtiger Hinweis</string>
     <string name="ew_subscribe_area_title">Hinzugefügte Gebiete verwalten</string>
     <string name="ew_subscribe_city">Hinzugefügte Gebiete</string>
     <string name="ew_subscribe_search_hint">Nach Gebieten suchen</string>
@@ -1917,7 +1916,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="fingerprint_verify_failed">Fingerabdruck wurde nicht verifiziert</string>
     <string name="fingerprint_verify_succeed">Fingerabdruck verifiziert</string>
     <string name="fingerprint_verify_try_agin">Fingerabdruck wurde nicht gescannt, erneut versuchen</string>
-    <string name="firewall_activity_lable">Datennutzung durch App einschränken</string>
+    <string name="firewall_activity_lable">Netzwerkzugriff</string>
     <string name="firewall_allow_all">Allen Apps erlauben, sich folgendermaßen zu verbinden</string>
     <string name="firewall_allow_data">Mobile Datennutzung erlauben</string>
     <string name="firewall_allow_network">Erlauben</string>
@@ -1941,7 +1940,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="firewall_statement_no_more">Nicht mehr erinnern</string>
     <string name="firewall_statement_ok">Verstanden</string>
     <string name="firewall_statement_title">Achtung</string>
-    <string name="firewall_system_title">System-App-Verbindungen</string>
+    <string name="firewall_system_title">Netzwerkzugriff für System-Apps</string>
     <string name="firewall_temp_rule_reason">%2$s hat die Internetverbindung für %1$s eingeschränkt</string>
     <string name="firewall_wifi">WLAN</string>
     <string name="firewall_wifi_dialog_message">Installierte App kann sich nicht über WLAN mit dem Internet verbinden, wenn dieser Schalter aus ist</string>
@@ -3611,7 +3610,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_wireless_charging_special_stand_summary2">Stellen Sie Ihr Gerät auf den Ständer, der mit dem drahtlosen Ladegerät geliefert wurde, um die beste Ladeleistung zu erzielen</string>
     <string name="pc_wireless_charging_special_stand_title">Mitgelieferte Ladestation verwenden</string>
     <string name="pc_wireless_handle_connected">Gerät verbunden</string>
-    <string name="pc_wireless_handle_title">Kameragriff</string>
+    <string name="pc_wireless_handle_title">Professioneller Kameragriff</string>
     <string name="pc_work_in_save_mode">Stromsparen</string>
     <string name="pc_work_in_super_save_mode">Ultra-Stromsparen</string>
     <string name="pc_xiaoai_create_auto_task">Neue Aufgabe von Mi AI</string>
@@ -3866,7 +3865,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pm_remember_choice">Meine Auswahl merken</string>
     <string name="pm_root_success_notification_infomation">Seien Sie sich der Risiken durch Root-Zugriff bewusst</string>
     <string name="pm_root_success_notification_title">Root-Zugriff erlaubt</string>
-    <string name="popular_action_anti_spam_title_global">Anrufe und Nachrichten blockieren</string>
+    <string name="popular_action_anti_spam_title_global">Spam-Anrufe blockieren</string>
     <string name="popular_action_app_lock_title_global">Apps mit App-Sperre schützen</string>
     <string name="popular_action_card_title">Beliebte Funktionen</string>
     <string name="popular_action_net_assistant_title_global">Netzwerkverbindungsgeschwindigkeit überwachen</string>
@@ -6010,7 +6009,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="vb_video_effects_spatial_summary_new">Erleben Sie verbessertes Raum- und Richtungsgefühl für unterstützte Audiosignale bei Verwendung von Kopfhörern</string>
     <string name="vb_video_effects_srs_premium_sound">Ton</string>
     <string name="vb_video_super_division">Hochskalieren</string>
-    <string name="vb_video_super_division_desc">Die Auflösung wird automatisch hochskaliert, wenn sie ≤720p ist.\n\nDie Verwendung dieser Funktion erhöht den Stromverbrauch.\n\nDiese Funktion funktioniert nicht mit der Bewegungsglättung.\nWenn Sie eine der Funktionen einschalten, schalten Sie die andere aus.</string>
+    <string name="vb_video_super_division_desc">Die Auflösung wird automatisch hochskaliert, wenn sie ≤720P ist.\n\nDie Verwendung dieser Funktion erhöht den Stromverbrauch.\n\nDiese Funktion funktioniert nicht mit der Bewegungsglättung.\nWenn Sie eine der Funktionen einschalten, schalten Sie die andere aus.</string>
     <string name="vb_video_super_division_tips">Nicht klar genug?\nVersuchen Sie, die Auflösung hochzuskalieren!</string>
     <string name="vb_vison_dynamic_enhance_close_toast">Verbesserte Animationen sind aus</string>
     <string name="vb_voice_adjust">Theater-Audio</string>

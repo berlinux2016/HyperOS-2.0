@@ -41,10 +41,6 @@
         <item quantity="other">Bisher %d Anzeigen blockiert</item>
         <item quantity="one">Bisher %d Anzeige blockiert</item>
     </plurals>
-    <plurals name="antivirus_desc_not_scanned_virus_in_days">
-        <item quantity="other">Seit %d Tagen nicht mehr gescannt</item>
-        <item quantity="one">Seit %d Tag nicht mehr gescannt</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d neue Artikel ansehen</item>
         <item quantity="one">%1$d neuen Artikel ansehen</item>
@@ -53,18 +49,6 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Nächstes Video wird in %d Sek abgespielt</item>
         <item quantity="one">Nächstes Video wird in %d Sek abgespielt</item>
-    </plurals>
-    <plurals name="back_dialog_antivirus_content_des">
-        <item quantity="other">Sie haben Ihr Gerät seit %d Tagen nicht mehr gescannt. Jetzt scannen?</item>
-        <item quantity="one">Sie haben Ihr Gerät seit %d Tag nicht mehr gescannt. Jetzt scannen?</item>
-    </plurals>
-    <plurals name="back_dialog_day">
-        <item quantity="other">Tage</item>
-        <item quantity="one">Tag</item>
-    </plurals>
-    <plurals name="back_dialog_health_check_content_des">
-        <item quantity="other">Sie haben Ihr Gerät seit %d Tagen nicht mehr optimiert. Jetzt optimieren?</item>
-        <item quantity="one">Sie haben Ihr Gerät seit %d Tag nicht mehr optimiert. Jetzt optimieren?</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s gefällt das</item>
@@ -109,10 +93,6 @@
         <item quantity="other">%d Follower</item>
         <item quantity="one">%d Follower</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d Std</item>
-        <item quantity="one">%d Std</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">vor %1$d Stunden</item>
         <item quantity="one">vor %1$d Stunde</item>
@@ -152,10 +132,6 @@
     <plurals name="mins_ago">
         <item quantity="other">Vor %1$d Minuten</item>
         <item quantity="one">Vor %1$d Minute</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d Min</item>
-        <item quantity="one">%d Min</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d Elemente ausgewählt</item>
