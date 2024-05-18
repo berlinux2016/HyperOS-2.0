@@ -41,6 +41,7 @@
     <string name="always_style_symmary">Verbraucht mehr Strom</string>
     <string name="ambient_display_screen_title">Always-On-Display</string>
     <string name="ambient_display_screen_title_sp">Umgebungsanzeige</string>
+    <string name="ambient_display_screen_title_summary">Legen Sie den Stil des inneren Bildschirms fest. Der äußere Bildschirm behält seinen Stil für den Sperrbildschirm bei.</string>
     <string name="animation_clock_panel">Wellenrad</string>
     <string name="aod_app_name">AOD- und Sperrbildschirm-Editor</string>
     <string name="aod_close_color_inversion">Diese Funktion kann nicht mit der Farbumkehr kombiniert werden. Zuerst Farbumkehr ausschalten.</string>
@@ -285,6 +286,7 @@ dd.MM."</string>
     <string name="kg_template_description_classic">Klassisches kommt nie aus der Mode.</string>
     <string name="kg_template_description_magazine">Verwandeln Sie Ihren Sperrbildschirm in ein Magazin-Cover.</string>
     <string name="kg_template_description_rhombus">Zeit ist wichtig. Nutzen Sie sie.</string>
+    <string name="kg_template_preview_content_description">Vorschau Sperrbildschirm</string>
     <string name="kg_template_title_classic">Klassisch</string>
     <string name="kg_template_title_magazine">Magazin</string>
     <string name="kg_template_title_mine">Sperrbildschirm</string>
@@ -466,7 +468,6 @@ dd.MM."</string>
     <string name="settings_view_btn_check_off">Aus</string>
     <string name="settings_view_btn_check_on">An</string>
     <string name="share">Teilen</string>
-    <string name="share_to_community">Mit Xiaomi Community teilen</string>
     <string name="show_battery">Akkustatus anzeigen</string>
     <string name="show_battery_status">Akkustatus anzeigen</string>
     <string name="show_lunar">Traditionellen chinesischen Kalender anzeigen</string>
@@ -477,10 +478,12 @@ dd.MM."</string>
     <string name="side_sheet_accessibility_pane_title">Beiblatt</string>
     <string name="signature">Signatur</string>
     <string name="signature_default_content">Glaub immer daran, dass etwas\nWunderbares passieren wird.</string>
-    <string name="smart_style_summary">Elemente immer anzeigen, außer wenn sich das Gerät in einer Tasche befindet, wenn das Umgebungslicht für längere Zeit schwach ist oder wenn Sie nicht auf Ihr Gerät schauen</string>
+    <string name="smart_style_summary">Nicht anzeigen, wenn sich das Gerät in einer Tasche befindet, das Umgebungslicht lange Zeit schwach ist oder wenn Sie nicht auf den Bildschirm schauen</string>
+    <string name="smart_style_summary_inner">Nicht anzeigen, wenn sich das Gerät in einer Tasche befindet, das Umgebungslicht lange Zeit schwach ist oder wenn Sie nicht auf den inneren Bildschirm schauen</string>
+    <string name="smart_style_summary_outer">Nicht anzeigen, wenn sich das Gerät in einer Tasche befindet, das Umgebungslicht lange Zeit schwach ist oder wenn Sie nicht auf den äußeren Bildschirm schauen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
-    <string name="solar_term_clear_and_bright">Klar und hell</string>
+    <string name="solar_term_clear_and_bright">Qingming-Festival</string>
     <string name="solar_term_cold_dews">Kalter Tau</string>
     <string name="solar_term_grain_buds">Getreideknospen</string>
     <string name="solar_term_grain_in_ear">Getreide im Ohr</string>
@@ -532,11 +535,11 @@ dd.MM."</string>
     <string name="the_armys_day">Tag der Armee</string>
     <string name="the_childrens_day">Kindertag</string>
     <string name="the_chinese_youth_day">Tag der Jugend</string>
-    <string name="the_christmas_day">Weihnachten</string>
+    <string name="the_christmas_day">Weihnachtstag</string>
     <string name="the_double_ninth_festival">Chongyang (Doppel-9-Fest)</string>
     <string name="the_dragon_boat_festival">Drachenbootfest</string>
     <string name="the_easter_day">Ostern</string>
-    <string name="the_eve_of_the_spring_festival">Vorabend des Frühlingsfests</string>
+    <string name="the_eve_of_the_spring_festival">Chinesischer Silvesterabend</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
     <string name="the_fools_day">1. April</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
@@ -548,7 +551,7 @@ dd.MM."</string>
     <string name="the_mid_autumn_festival">Mitte-Herbst-Fest</string>
     <string name="the_national_day">Nationalfeiertag</string>
     <string name="the_national_father_day">Vatertag</string>
-    <string name="the_new_years_day">Neujahr</string>
+    <string name="the_new_years_day">Neujahrstag</string>
     <string name="the_night_of_sevens">Qixi (Doppel-7-Fest)</string>
     <string name="the_partys_day">Tag der Partei</string>
     <string name="the_peace_day">Tag des Friedens</string>
@@ -574,6 +577,13 @@ dd.MM."</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_style">Stil</string>
     <string name="time_style_layout">Anordnung</string>
+    <string name="tiny_camera_content_description">Kamera</string>
+    <string name="tiny_classic_date_format">EEE, dd.MM.</string>
+    <string name="tiny_doodle_clock_date">d. MMMM</string>
+    <string name="tiny_doodle_clock_week_full">EEEE</string>
+    <string name="tiny_pets_date_format">dd.MM.</string>
+    <string name="tiny_splicing_date_content_description">dd.MM.</string>
+    <string name="tiny_splicing_date_format">dd.MM.</string>
     <string name="tip_to_open_aod_mode">Always-On-Display ist aus. Jetzt einschalten?</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>

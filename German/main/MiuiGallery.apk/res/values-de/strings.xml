@@ -72,8 +72,11 @@
     <string name="ai_confirm_delete_image_title">KI-Bild löschen?</string>
     <string name="ai_continue_create_btn">Fortfahren</string>
     <string name="ai_continue_update_image_btn">Fortfahren</string>
+    <string name="ai_continue_upload_photo">Fortfahren</string>
     <string name="ai_create_ai_image">KI-Bild erstellen</string>
     <string name="ai_create_image_fail">KI-Bild wurde wegen eines Serverfehlers nicht erstellt. Erneut versuchen.</string>
+    <string name="ai_create_image_fail_by_illegal_photo">Anscheinend verstoßen die von Ihnen hochgeladenen Fotos gegen unsere Community-Standards. \nVersuchen Sie, das KI-Bild mit anderen Fotos zu erstellen.</string>
+    <string name="ai_create_image_fail_by_net">KI-Bild erstellen fehlgeschlagen. Unsere Server sind im Moment zu sehr beschäftigt. Erneut versuchen.</string>
     <string name="ai_create_image_photo_tip">Fotos werden von unseren Servern gelöscht, sobald das KI-Bild erstellt ist</string>
     <string name="ai_create_image_tip">Fotos werden von unseren Servern gelöscht, sobald das KI-Bild erstellt ist</string>
     <string name="ai_create_remain_time" formatted="false">Wartezeit: %1s %2s</string>
@@ -85,10 +88,15 @@
     <string name="ai_creation_count_limit_msg">Heute können keine weiteren Porträts erstellt werden. Kommen Sie morgen wieder!</string>
     <string name="ai_creation_delete_msg">Diesen Verlaufeintrag jetzt löschen?</string>
     <string name="ai_creation_delete_title">Achtung</string>
+    <string name="ai_creation_record_footer_tips">Sie können nur Elemente anzeigen, die auf diesem Gerät erstellt wurden. Sie werden gelöscht, wenn Sie sich von Ihrem Xiaomi Konto abmelden.</string>
     <string name="ai_creation_recreate_button">Neu beginnen</string>
     <string name="ai_creation_save_failed_msg">Speichern fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_creation_save_success_msg">Erfolgreich gespeichert</string>
     <string name="ai_creation_wait_message">Erstellen… | %1$s | %2$s</string>
+    <string name="ai_cta_agree_btn">Erlauben</string>
+    <string name="ai_cta_dialog_message">Galerie eine Verbindung zum Internet herstellen lassen, um KI-Porträts zu erstellen.</string>
+    <string name="ai_cta_dialog_title">Berechtigungen erforderlich</string>
+    <string name="ai_cta_refuse_btn">Nein danke</string>
     <string name="ai_deal_file_tip">Diese Seite nicht verlassen</string>
     <string name="ai_deal_file_title">Fotos verarbeiten…</string>
     <string name="ai_deal_tile_text">Erforderliche Zeit berechnen…</string>
@@ -96,6 +104,10 @@
     <string name="ai_delete_image_progress_message">Löschen…</string>
     <string name="ai_delete_image_success">KI-Bild erfolgreich gelöscht</string>
     <string name="ai_download_filter_photo_so_confirm_btn">Herunterladen</string>
+    <string name="ai_download_filter_photo_so_downloading">Plugin herunterladen…</string>
+    <string name="ai_download_filter_photo_so_message">Um alle Funktionen des KI-Porträts zu nutzen, laden Sie bitte zuerst das Plugin herunter.</string>
+    <string name="ai_download_filter_photo_so_title">Plugin herunterladen</string>
+    <string name="ai_download_filter_so_fail_toast">Plugin herunterladen fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_enhance_bar_default">HD-Bild erzeugen</string>
     <string name="ai_enhance_bar_failed">HD-Bild erzeugen fehlgeschlagen</string>
     <string name="ai_ensure_exit_select_message">Beim nächsten Mal müssen Sie die Fotos erneut wählen.</string>
@@ -122,12 +134,18 @@
     <string name="ai_image_count_limit_msg">Heute können keine weiteren KI-Bilder erstellt werden. Kommen Sie morgen wieder!</string>
     <string name="ai_image_creating_failed_msg">Bild für %s erstellen fehlgeschlagen</string>
     <string name="ai_image_creating_msg">Bild für %s erstellen</string>
+    <string name="ai_image_creation_over_limit_title">Weitere Porträts können nicht erstellt werden</string>
+    <string name="ai_image_invalid">KI-Bild von %s wurde erfolgreich gelöscht</string>
+    <string name="ai_image_invalid_in_update">KI-Bild von %s wird jetzt aktualisiert. Warten Sie, bis es aktualisiert ist und versuchen Sie es erneut.</string>
+    <string name="ai_image_manager_empty_msg">Fotos, die zur Erstellung von KI-Bildern in älteren Versionen dieses Dienstes verwendet wurden, können auf einem anderen Gerät nicht angezeigt werden</string>
+    <string name="ai_image_manager_empty_msg_net">Keine Fotos hier</string>
     <string name="ai_image_manager_re_create_tip">Hinzufügen oder Löschen von Fotos zur Aktualisierung Ihres KI-Bildes</string>
     <string name="ai_image_manager_title">KI-Bild verwalten</string>
     <string name="ai_image_not_creatable">KI-Bild wird jetzt aktualisiert. Erneut versuchen, wenn es fertig ist.</string>
     <string name="ai_image_over_limit_button_cancel">Verstanden</string>
     <string name="ai_image_over_limit_button_create">Fortfahren</string>
     <string name="ai_image_over_limit_title">KI-Bild erstellen fehlgeschlagen</string>
+    <string name="ai_image_over_limit_title_update">KI-Bilder können jetzt nicht aktualisiert werden</string>
     <string name="ai_image_privacy_message"><Data>Willkommen bei KI-Porträts!&lt;br/>Um Ihnen Dienstleistungen anbieten zu können, müssen wir die notwendigen personenbezogenen Daten erfassen:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Um KI-Porträts zu erstellen, müssen Sie &lt;b>Fotos von Personen&lt;/b> auf unsere Server hochladen. Wir sammeln und verarbeiten die Daten über ihre &lt;b>Gesichter&lt;/b>, um ein KI-Modell zu erstellen.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Wenn Sie &lt;b>Fotos von Personen&lt;/b> hochladen, synchronisieren wir &lt;b>ihre Namen und Profilfotos&lt;/b> aus den entsprechenden Alben und verknüpfen diese Informationen mit KI-Bildern.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Wenn Sie KI-Bilder auf der Grundlage von Text erstellen, erfassen wir die &lt;b>Beschreibung&lt;/b>, die Sie zur Erstellung der Bilder angeben.&lt;br/>Wir erfassen nur personenbezogene Daten, die für die spezifischen Funktionen unserer Produkte und Dienstleistungen, die Sie nutzen, erforderlich sind. Wie wir personenbezogene Daten erfassen und verarbeiten, erfahren Sie in der &lt;a href=\"%4$s\">KI-Porträts Datenschutzerklärung&lt;/a>.&lt;br/>Lesen Sie die &lt;a href=\"%5$s\">KI-Porträts Nutzungsvereinbarung&lt;/a> und &lt;a href=\"%6$s\">KI-Porträts Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="ai_input_name_hint">Name eingeben</string>
     <string name="ai_loading">Einen Moment…</string>
@@ -139,6 +157,7 @@
     <string name="ai_no_net_toast">Netzwerkverbindung fehlgeschlagen. Erneut versuchen.</string>
     <string name="ai_normal_theme_button">Erstellen</string>
     <string name="ai_photo_upload_fail">Hochladen fehlgeschlagen Erneut versuchen.</string>
+    <string name="ai_photos_upload_fail_tip">Fotos von %s wurden noch nicht hochgeladen. Sie können jetzt mit dem Hochladen von Fotos fortfahren.</string>
     <string name="ai_plugin_install_msg">Laden Sie das Plugin herunter, um KI-Porträts zu erstellen.</string>
     <string name="ai_plugin_install_title">Plugin herunterladen</string>
     <string name="ai_plugin_installing_tip">Plugin herunterladen…</string>
@@ -148,6 +167,10 @@
     <string name="ai_privacy_tip_input">Textbeschreibung</string>
     <string name="ai_privacy_title">Datenschutzerklärung</string>
     <string name="ai_re_create_image">Erneut versuchen.</string>
+    <string name="ai_recreate_image_cancel_text_btn">Fortfahren</string>
+    <string name="ai_recreate_image_confirm_text_btn">Auswählen</string>
+    <string name="ai_recreate_image_dialog_msg">Sie können das Hochladen von Fotos fortsetzen oder neue Fotos auswählen.</string>
+    <string name="ai_recreate_image_dialog_title">Fotos von %s wurden nicht hochgeladen</string>
     <string name="ai_refuse_update_toast">Neue Fotos wählen, um dieses KI-Bild zu aktualisieren</string>
     <string name="ai_select_people_sub_title" formatted="false">Die besten %1d-%2d Fotos werden automatisch ausgewählt</string>
     <string name="ai_select_people_title">Person wählen, um ihr KI-Bild zu erstellen</string>
@@ -164,6 +187,7 @@
     <string name="ai_select_photo_manual">Manuell wählen</string>
     <string name="ai_select_photo_need_select_manual">Nicht genug Fotos. Mehr hinzufügen.</string>
     <string name="ai_select_photo_next_step">Weiter</string>
+    <string name="ai_select_photo_no_result_toast">Auf Basis dieser Fotos kann kein KI-Bild erstellt werden. Wählen Sie stattdessen andere Fotos.</string>
     <string name="ai_select_photo_over_time_toast">Die besten Aufnahmen wurden automatisch gewählt. Fügen Sie weitere Fotos manuell hinzu.</string>
     <string name="ai_select_photo_right_guide_face">Nach vorne gerichtet</string>
     <string name="ai_select_photo_right_guide_multi_bg">Diverse Hintergründe</string>
@@ -532,6 +556,7 @@
     <string name="clear_dup_medias">Doppelte Fotos bereinigen</string>
     <string name="clear_dup_success">Erfolgreich bereinigt</string>
     <string name="clear_dup_tip">Löschen doppelter Fotos</string>
+    <string name="clear_gallery_disk_cache_img">Galerie-Cache-Image bereinigen</string>
     <string name="clear_thumbnails_ending_dialog_cancer">Abbrechen</string>
     <string name="clear_thumbnails_ending_dialog_content">Synchronisation mit der Cloud ist in dieser Version der Galerie nicht mehr verfügbar. Sie können keine Elemente mehr anzeigen, die noch nicht auf dieses Gerät heruntergeladen wurden. Sie können sie aber weiterhin auf i.mi.com ansehen und herunterladen.</string>
     <string name="clear_thumbnails_ending_dialog_title">Synchronisation mit der Cloud ist nicht mehr verfügbar</string>
@@ -883,6 +908,7 @@
     <string name="fancy_color_desc">Farben</string>
     <string name="fast_share_auto_render">Verschönerung</string>
     <string name="fast_share_auto_render_finish">Verschönert</string>
+    <string name="father_day">Muttertag</string>
     <string name="feature_guidance_photo_effects">Neue Fotoeffekte verfügbar</string>
     <string name="feature_guidance_video_editor_smart_effects">Neue Effekte verfügbar</string>
     <string name="feedback_problem">Problem melden</string>
@@ -1191,6 +1217,7 @@
     <string name="mark_operation_processing">Verarbeitung…</string>
     <string name="mark_operation_succeeded">Erfolgreich hinzugefügt</string>
     <string name="mark_people_ignore_info_message">Halten Sie Fotos von Personen gedrückt, um sie zu Gruppen hinzuzufügen.</string>
+    <string name="mather_day">Vatertag</string>
     <string name="media_type_burst_photo">Serienbild</string>
     <string name="media_type_cinematic">Filmmodus</string>
     <string name="media_type_clone_photo">Klone</string>
@@ -1335,6 +1362,7 @@
     <string name="new_relation_invalid_char">Gruppennamen dürfen \"%s\" nicht enthalten, Buchstaben, Zahlen oder Zeichen verwenden.</string>
     <string name="new_relation_invalid_name">Gruppe \"%s\" existiert bereits, benennen Sie diese Gruppe um</string>
     <string name="new_relation_invalid_prefix">Gruppenname darf nicht mit \".\" oder \"_\" anfangen</string>
+    <string name="new_year_eve">Silvesterabend</string>
     <string name="next">Weiter</string>
     <string name="night">Abend</string>
     <string name="no">Nein</string>
@@ -1555,6 +1583,7 @@
     <string name="passport_logout_account">Abmelden</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
+    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in Ihrem Browser öffnen.</string>
     <string name="passport_network_timeout">Netzwerkverbindung nicht möglich. Erneut versuchen.</string>
     <string name="passport_next">Weiter</string>
@@ -2195,7 +2224,7 @@
     <string name="solar_new_year_title">Neujahr</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbsttagundnachtgleiche</string>
-    <string name="solar_term_clear_and_bright">Klar und hell</string>
+    <string name="solar_term_clear_and_bright">Qingming-Festival</string>
     <string name="solar_term_cold_dews">Kalter Tau</string>
     <string name="solar_term_grain_buds">Kleine Fülle/Ährenbildung</string>
     <string name="solar_term_grain_in_ear">Körner mit Grannen/Ährenzeit</string>
@@ -2310,6 +2339,7 @@
     <string name="talkback_story_album_playicon">Diese Erinnerung abspielen</string>
     <string name="text_recognition">Text erkennen</string>
     <string name="text_segment">Fotoausschnitt</string>
+    <string name="thanksgiving_day">Erntedankfest</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
@@ -2317,11 +2347,12 @@
     <string name="the_armys_day">Tag der Armee</string>
     <string name="the_childrens_day">Kindertag</string>
     <string name="the_chinese_youth_day">Tag der Jugend</string>
-    <string name="the_christmas_day">Weihnachten</string>
+    <string name="the_christmas_day">Weihnachtstag</string>
+    <string name="the_christmas_eve">Heiligabend</string>
     <string name="the_double_ninth_festival">Chongyang (Doppel-9-Fest)</string>
     <string name="the_dragon_boat_festival">Drachenbootfest</string>
     <string name="the_easter_day">Ostern</string>
-    <string name="the_eve_of_the_spring_festival">Vorabend des Frühlingsfests</string>
+    <string name="the_eve_of_the_spring_festival">Chinesischer Silvesterabend</string>
     <string name="the_fifth_day">Fünfter Tag des chinesischen Neujahrs</string>
     <string name="the_fools_day">1. April</string>
     <string name="the_forth_day">Vierter Tag des chinesischen Neujahrs</string>
@@ -2333,7 +2364,7 @@
     <string name="the_mid_autumn_festival">Mitte-Herbst-Fest</string>
     <string name="the_national_day">Nationalfeiertag</string>
     <string name="the_national_father_day">Vatertag</string>
-    <string name="the_new_years_day">Neujahr</string>
+    <string name="the_new_years_day">Neujahrstag</string>
     <string name="the_night_of_sevens">Qixi (Doppel-7-Fest)</string>
     <string name="the_partys_day">Tag der Partei</string>
     <string name="the_peace_day">Tag des Friedens</string>
