@@ -55,6 +55,7 @@
     <string name="add_wallpaper">Hintergrund hinzufügen</string>
     <string name="addcw_apply_btn_txt">Hintergrund hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="ai_back">Zurück</string>
     <string name="ai_disable_limit_message">Für heute sind keine Versuche mehr übrig. Erstellen Sie morgen mehr KI-Hintergründe!</string>
     <string name="ai_edit_hint">Beschreiben Sie Ihr erwartetes Ergebnis. Eine gute Beschreibung kann unserer KI helfen, eine bessere Kreation mit klaren Worten wie \"Gold\", \"Drache\", \"Segeln\", \"Wolke\" zu erstellen.</string>
     <string name="ai_network_error_message">Keine Netzwerkverbindung. KI-Hintergrund kann nicht verwendet werden.</string>
