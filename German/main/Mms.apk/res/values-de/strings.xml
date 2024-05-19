@@ -436,7 +436,7 @@
     <string name="mms_block_alert_title">MMS blockieren</string>
     <string name="mms_block_hint">Dieser Absender ist nicht in Ihren Kontakten.\nDiese Nachricht kann unerwünscht sein.</string>
     <string name="mms_block_hint_highlight">MMS blockieren</string>
-    <string name="mms_main_purpose_new">Diese App benötigt eine Internetverbindung, um Ihnen grundlegende Dienste zur Verfügung zu stellen. Wir empfehlen, dass Sie Mi Message und Smart Messaging Services aktivieren.</string>
+    <string name="mms_main_purpose_new">Diese App benötigt eine Internetverbindung, um Ihnen Basisdienste zur Verfügung zu stellen. Wir empfehlen, dass Sie Mi Message und Smart Messaging Services aktivieren.</string>
     <string name="mms_mi_message_main_purpose">Willkommen bei Mi Message! Zur Aktivierung von Mi Message ist eine ausgehende SMS erforderlich. Diese wird Ihnen von Ihrem Anbieter in Rechnung gestellt.</string>
     <string name="mms_mi_message_request_notice">Wir möchten, dass Sie das Beste aus Mi Message herausholen.</string>
     <string name="mms_mx_privacy_policy">Mi Message Datenschutzerklärung</string>
@@ -815,7 +815,7 @@
     <string name="rcs_summary_auto_resend_sms">5G-Textnachrichten in SMS umwandeln, wenn die ursprüngliche Nachricht nicht gesendet werden konnte. Ihr Anbieter wird Ihnen diese Nachricht in Rechnung stellen.</string>
     <string name="rcs_summary_silence_message">Nachrichten-Benachrichtigungen stummschalten, wenn der Desktop-Client arbeitet</string>
     <string name="rcs_unable_send_file">Diese Datei wurde nicht gesendet</string>
-    <string name="rcs_unavailable">5G Messaging jetzt nicht möglich. China Mobile SIM-Karte ist nicht Ihre Standard-Datenkarte.</string>
+    <string name="rcs_unavailable">5G Messaging jetzt nicht möglich. Die China Mobile SIM-Karte ist nicht Ihre Standard-Datenkarte.</string>
     <string name="rcs_up_not_online">5G Messaging ist offline. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="rcs_wait_for_retry_text">Warten…</string>
     <string name="received_label">"Empfangen: "</string>
