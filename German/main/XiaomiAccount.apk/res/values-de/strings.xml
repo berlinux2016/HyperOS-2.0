@@ -924,7 +924,7 @@
 %2$d. Wenn Sie Ihr Passwort nicht zurücksetzen können oder jemand Ihr Gerät gesperrt hat, können Sie es auf i.mi.com entsperren.
 %3$d. Ihre Entsperrnummer: %4$s"</string>
     <string name="update_apk_version_later">Jetzt nicht</string>
-    <string name="update_apk_version_now">Aktualisieren</string>
+    <string name="update_apk_version_now">Installieren</string>
     <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die E-Mail aktualisieren.</string>
     <string name="update_email_address_dialog_title">E-Mail aktualisieren</string>
     <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>

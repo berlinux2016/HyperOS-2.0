@@ -55,6 +55,13 @@
     <string name="add_wallpaper">Hintergrund hinzufügen</string>
     <string name="addcw_apply_btn_txt">Hintergrund hinzufügen</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="ai_disable_limit_message">Für heute sind keine Versuche mehr übrig. Erstellen Sie morgen mehr KI-Hintergründe!</string>
+    <string name="ai_edit_hint">Beschreiben Sie Ihr erwartetes Ergebnis. Eine gute Beschreibung kann unserer KI helfen, eine bessere Kreation mit klaren Worten wie \"Gold\", \"Drache\", \"Segeln\", \"Wolke\" zu erstellen.</string>
+    <string name="ai_network_error_message">Keine Netzwerkverbindung. KI-Hintergrund kann nicht verwendet werden.</string>
+    <string name="ai_next">In Galerie speichern</string>
+    <string name="ai_participation">KI-Beteiligung</string>
+    <string name="ai_recommend_keyword">Stile</string>
+    <string name="ai_text_limit">Mehr Text kann nicht eingegeben werden</string>
     <string name="ai_wallpaper_declare_double_link"><Data>Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor Sie fortfahren.</Data></string>
     <string name="allowed">Gewährt</string>
     <string name="app_name">Mi Hintergrundkarussell</string>
@@ -118,6 +125,13 @@
     <string name="create_shortcut">Startbildschirm-Verknüpfung erstellen</string>
     <string name="create_shortcut_btn">Erstellen</string>
     <string name="create_shortcut_title">Startbildschirm-Verknüpfung erstellen</string>
+    <string name="creation_ai_disable_limit_message">Für heute sind keine Versuche mehr übrig. Erstellen Sie morgen mehr KI-Hintergründe!</string>
+    <string name="creation_ai_disable_message">Diese Funktion ist nur für Beta-Tester verfügbar. Sie können sich in der Xiaomi Community bewerben.</string>
+    <string name="creation_ai_disable_title">Beta-Tester-Berechtigung erforderlich</string>
+    <string name="creation_ai_err">Authenticator-Ausnahme</string>
+    <string name="creation_ai_load">Einen Moment…</string>
+    <string name="creation_ai_ok">Verstanden</string>
+    <string name="creation_ai_recreate">Neu beginnen</string>
     <string name="current_connection_invalid">Warten, bis sich das Telefon mit dem Netzwerk verbindet</string>
     <string name="current_data_invalid">Ein Fehler ist aufgetreten</string>
     <string name="current_network_invalid">Zuerst mit dem Netzwerk verbinden</string>
@@ -389,6 +403,9 @@ dd.MM."</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elemente wählen</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbrechen</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Synchronisation mit der Cloud ist aus</string>
+    <string name="miuix_appcompat_cloud_state_finished">Erfolgreich mit der Cloud synchronisiert</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>
     <string name="miuix_appcompat_delete_description">Löschen</string>
     <string name="miuix_appcompat_deselect_all">Alle abwählen</string>
@@ -409,6 +426,11 @@ dd.MM."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Das ist im Moment alles</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Einen Moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
+    <string name="miuix_search_action_mode_cancel">Abbrechen</string>
+    <string name="miuix_search_history_clear">Suchverlauf löschen</string>
+    <string name="miuix_search_history_default_title">Suchverlauf</string>
+    <string name="miuix_search_recommendation_default_title">Das könnte Sie interessieren</string>
+    <string name="miuix_search_recommendation_item_del_des">Löschen</string>
     <string name="mode_auto_desc">Hintergrundkarussell einschalten, um automatisch neue Bilder zu erhalten</string>
     <string name="mode_auto_desc_open">Neue Bilder automatisch erhalten</string>
     <string name="mode_auto_desc_selected">Neue Bilder werden automatisch abgerufen</string>
@@ -705,6 +727,8 @@ dd.MM."</string>
     <string name="privacy_update_summary3">"Sie können Hintergrundkarussell nur dann weiter nutzen, wenn Sie die neue Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a> akzeptieren. Jetzt zustimmen?"</string>
     <string name="privacy_update_title1">Datenschutzerklärung aktualisiert</string>
     <string name="privacy_update_title2">Achtung</string>
+    <string name="prompt_add_origin_pic">Bild hinzufügen</string>
+    <string name="prompt_add_tip">Beschreibung hinzufügen</string>
     <string name="prv_end"><CDATA>Das ist im Moment alles.</CDATA></string>
     <string name="prv_loading"><CDATA>Einen Moment…</CDATA></string>
     <string name="prv_nodata"><CDATA>Keine Daten</CDATA></string>
@@ -762,6 +786,8 @@ dd.MM."</string>
     <string name="select_picture">Bilder wählen</string>
     <string name="select_picture_des">Fügen Sie Ihre Fotos und Online-Bilder zum Mix hinzu, damit sie automatisch in der Diashow erscheinen.</string>
     <string name="send">Senden</string>
+    <string name="sensitive_preview">KI-Hintergrund kann wegen sensibler oder unangemessener Inhalte nicht verarbeitet werden</string>
+    <string name="sensitive_prompt">KI-Hintergrund kann wegen sensibler oder unangemessener Inhalte nicht verarbeitet werden</string>
     <string name="setting_about_item_title">Über Hintergrundkarussell</string>
     <string name="setting_des">Diashow-Dienste werden von Hintergrundkarussell bereitgestellt. In den App-Einstellungen nach \"Hintergrundkarussell\" suchen, um alle verfügbaren Optionen anzuzeigen.</string>
     <string name="setting_des_custom_only">Unsere Diashow-Funktion ist jetzt vollständig anpassbar. Sie können unter Einstellungen > Sperrbildschirm > Hintergrundkarussell-Einstellungen festlegen, wie oft der Hintergrund wechselt.</string>
@@ -819,6 +845,9 @@ dd.MM."</string>
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="sst_ai_wallpaper_Activity_title">KI-Hintergründe erstellen</string>
+    <string name="sst_ai_wallpaper_desc">Handgezeichnete Bilder können verwendet werden, um mittels KI hochauflösende Hintergründe in verschiedenen Stilen zu erstellen</string>
+    <string name="sst_ai_wallpaper_title">KI-Hintergrund-Ersteller</string>
     <string name="sst_auto_recommand_desc">Abonnieren Sie Ihre Lieblingskategorien, um täglich neue Bilder und Geschichten auf Ihrem Sperrbildschirm zu erhalten.</string>
     <string name="sst_auto_recommand_title">Hintergründe empfehlen</string>
     <string name="sst_change_wallpaper_desc">Auswählen, wo Sie den Hintergrund anwenden möchten</string>
@@ -1005,6 +1034,7 @@ dd.MM."</string>
     <string name="view_privacy_policy">Datenschutzerklärung</string>
     <string name="wallpaper">Hintergrund</string>
     <string name="wallpaper_added_success_toast">Hintergrund erfolgreich hinzugefügt</string>
+    <string name="wallpaper_creator_empty_dlg_content">Einfache Schritte, sofortige Erstellung. Importieren Sie ein handgezeichnetes Bild/anderes Bild, machen Sie einige Eingaben und erzeugen Sie sofort vier stilisierte Hintergründe durch KI-Großmodelle. Wählen Sie das geeignetste aus und speichern Sie es im Album.</string>
     <string name="wallpaper_feed_title">Vielleicht gefällt Ihnen das auch</string>
     <string name="wallpaper_relations_title">Empfohlen</string>
     <string name="wednesday">Mittwoch</string>

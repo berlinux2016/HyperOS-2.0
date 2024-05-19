@@ -76,6 +76,8 @@
     <string name="caller_info_name_delimiter">" oder "</string>
     <string name="cancel_action">Abbrechen</string>
     <string name="candy">Süßigkeiten</string>
+    <string name="car_share_return_status">Senden fehlgeschlagen</string>
+    <string name="car_share_view_content">An %s senden</string>
     <string name="carousel">Karussell</string>
     <string name="change_brightness">Helligkeit anpassen</string>
     <string name="child">Kindheit</string>

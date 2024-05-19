@@ -986,6 +986,10 @@ Sie können jetzt eine gratis %d-Tag-Testversion erhalten!"</item>
         <item quantity="other">-mal</item>
         <item quantity="one">-mal</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d-mal</item>
+        <item quantity="one">%d-mal</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d Elemente mit hohem Stromverbrauch</item>
         <item quantity="one">%d Element mit hohem Stromverbrauch</item>

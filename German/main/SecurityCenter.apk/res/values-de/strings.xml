@@ -337,7 +337,7 @@
     <string name="app_behavior_media_volume_bg">%1s hat die Medienlautstärke im Hintergrund angepasst</string>
     <string name="app_behavior_media_volume_bg_single">Diese App hat die Medienlautstärke im Hintergrund angepasst</string>
     <string name="app_behavior_media_volume_single">Diese App hat die Medienlautstärke angepasst</string>
-    <string name="app_behavior_menu_about">Über App-Verhaltensdatensätze</string>
+    <string name="app_behavior_menu_about">Über Aufnahmen</string>
     <string name="app_behavior_monitor_off">Benachrichtigungen ausschalten</string>
     <string name="app_behavior_monitor_off_content">Sie werden keine Benachrichtigungen über sensible Aktionen erhalten, die von dieser App ausgeführt werden. Benachrichtigungen trotzdem ausschalten?</string>
     <string name="app_behavior_monitor_off_positive">Ausschalten</string>
@@ -384,7 +384,7 @@
     <string name="app_behavior_recognition_single">Diese App griff auf Ihre Aktivitätsdaten zu</string>
     <string name="app_behavior_record_cancel">Abbrechen</string>
     <string name="app_behavior_record_close">Ausschalten</string>
-    <string name="app_behavior_record_close_title">Datensätze ausschalten</string>
+    <string name="app_behavior_record_close_title">Aufnahme stoppen</string>
     <string name="app_behavior_record_hide_system">System-Apps ausblenden</string>
     <string name="app_behavior_record_open">Einschalten</string>
     <string name="app_behavior_record_open_content_text">App-Verhaltensdatensätze einschalten, um zu verstehen, wie Apps Ihre personenbezogenen Daten verwenden</string>
@@ -1916,6 +1916,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="fingerprint_verify_failed">Fingerabdruck wurde nicht verifiziert</string>
     <string name="fingerprint_verify_succeed">Fingerabdruck verifiziert</string>
     <string name="fingerprint_verify_try_agin">Fingerabdruck wurde nicht gescannt, erneut versuchen</string>
+    <string name="fingerprint_verify_try_error">Zu viele fehlgeschlagene Versuche. Sperren und entsperren Sie Ihr Gerät, bevor Sie es erneut versuchen.</string>
     <string name="firewall_activity_lable">Netzwerkzugriff</string>
     <string name="firewall_allow_all">Allen Apps erlauben, sich folgendermaßen zu verbinden</string>
     <string name="firewall_allow_data">Mobile Datennutzung erlauben</string>
@@ -2103,7 +2104,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="game_manual_record_setting_setting">Einstellungen</string>
     <string name="game_manual_record_setting_title">Schlüsselmomente</string>
     <string name="game_more_improve">Hintergrundaktivitäten und Downloadgeschwindigkeit einschränken, um Akku und Bandbreite fürs Spielen zu sparen</string>
-    <string name="game_performance_wild_mode">Ultimativer Modus</string>
+    <string name="game_performance_wild_mode">Wilde Steigerung</string>
     <string name="game_performance_wild_mode_tips">Einschalten, um die Geräteleistung zu verbessern \n(Ihr Gerät wird sich erwärmen und mehr Akku verbrauchen)</string>
     <string name="game_setting">Spieleinstellungen</string>
     <string name="game_video_net_data">Mobile Daten</string>
@@ -2121,11 +2122,15 @@ Sie verlieren keine App-Daten."</string>
     <string name="gamebooster_network_dialog_message">Darf sich Sicherheit mit dem Netzwerk verbinden, um alle Funktionen von Game Turbo zu verwenden?</string>
     <string name="gamebooster_network_dialog_title">Einige Funktionen sind nicht verfügbar</string>
     <string name="gamebooster_push_expiring_soon_button">Verlängern</string>
+    <string name="gamebox_ai_accelerate">KI-Schub für mobile Daten</string>
+    <string name="gamebox_ai_accelerate_description">Netzwerkumgebung analysieren, um die Verbindungsgeschwindigkeit des Mobilfunknetzes zu erhöhen und mobile Daten zu sparen</string>
     <string name="gamebox_ai_subtitle">KI-Untertitel</string>
     <string name="gamebox_app_not_find">Erst die App installieren</string>
     <string name="gamebox_brightness">Helligkeit</string>
     <string name="gamebox_browser_not_find">Erst Mi Browser installieren</string>
     <string name="gamebox_bullet_chat">Bildschirmkommentare</string>
+    <string name="gamebox_cellular_network">Mobilfunknetz optimieren</string>
+    <string name="gamebox_cellular_network_description">Automatisch den besten Netzwerkpfad basierend auf der Latenzzeit des Spiels auswählen</string>
     <string name="gamebox_collimator">Visier</string>
     <string name="gamebox_display_1">Nichts</string>
     <string name="gamebox_display_2">Gesättigt</string>
@@ -2157,6 +2162,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gamebox_mem_clean">Speicher löschen</string>
     <string name="gamebox_mem_filter">Spielfilter</string>
     <string name="gamebox_milink">Casting</string>
+    <string name="gamebox_net_optimize_description">WLAN-Latenz und Zittern reduzieren. Verwenden Sie einen Xiaomi- oder Redmi-Router, um spezielle Modi zur Geschwindigkeitssteigerung zu nutzen.</string>
     <string name="gamebox_qq_not_find">QQ installieren und erneut versuchen</string>
     <string name="gamebox_recent_task_expand_fail">Apps, die mit Verknüpfungen arbeiten, werden nicht installiert</string>
     <string name="gamebox_screenrecord">Aufnahme</string>
@@ -2217,6 +2223,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_audition_play_instruction">Kopfhörer verwenden für den besten Effekt</string>
     <string name="gb_award_noti_message">Aktivieren Sie die Hintergrundaktualisierung von Game for Peace in Game Turbo, um Prämien zu erhalten</string>
     <string name="gb_award_noti_title">Die Game for Peace-Prämien sind da!</string>
+    <string name="gb_bar_high">Hoch</string>
+    <string name="gb_bar_low">Niedrig</string>
     <string name="gb_barrage_app_manger">Apps verwalten</string>
     <string name="gb_barrage_chat_desc">Glauben Sie immer daran, dass etwas Wunderbares passieren wird</string>
     <string name="gb_barrage_chat_pre_desc">Vorschau</string>
@@ -2322,6 +2330,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_have_signed">Heute angemeldet</string>
     <string name="gb_manual_record_dialog_del_video_message">Ausgewählte Videos dauerhaft löschen?</string>
     <string name="gb_manual_video_record_title">Aufnahmen</string>
+    <string name="gb_margin_restrain">Versehentliche Berührung an den Rändern ignorieren</string>
+    <string name="gb_margin_restrain_description">Ihr Gerät reagiert weniger empfindlich auf versehentliche Berührungen im Randbereich</string>
+    <string name="gb_margin_restrain_seekbar">Bereich für versehentliche Berührungen</string>
     <string name="gb_msg_completely_shielded">Nachrichten ausblenden</string>
     <string name="gb_msg_completely_shielded_summary">Ausblenden</string>
     <string name="gb_msg_not_shielded_summary">Anzeigen</string>
@@ -2400,6 +2411,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_signed_gift_loading_summary">Einen Moment…</string>
     <string name="gb_signed_title">Diesen Monat angemeldet</string>
     <string name="gb_smart_battery_surplus_new">%1$s %2$s bleiben</string>
+    <string name="gb_smart_shake_description">Empfindlichkeit für kleine Gesten</string>
     <string name="gb_sound_audition">Probieren</string>
     <string name="gb_storage_game_dialog_message">Sie können Spiele automatisch in Game Turbo speichern. Sie werden nicht am Startbildschirm angezeigt, wenn Sie diese Funktion einschalten. Jetzt einschalten?</string>
     <string name="gb_storage_game_uninstall">Spiele deinstallieren</string>
@@ -2623,7 +2635,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gtb_guide_gtb_game_new">Neu</string>
     <string name="gtb_guide_gtb_line_new">Leistungsmodus in Game Turbo probieren!</string>
     <string name="gtb_guide_gtb_line_new_global">Wischen, um Game Turbo zu öffnen</string>
-    <string name="gtb_guide_gtb_line_wilde_mode">Probieren Sie den ultimativen Modus in Game Turbo aus, um Ihr Spielerlebnis auf den nächsten Level zu bringen</string>
+    <string name="gtb_guide_gtb_line_wilde_mode">Probieren Sie Wilde Steigerung in Game Turbo aus, um Ihr Spielerlebnis auf den nächsten Level zu bringen</string>
     <string name="gtb_guide_gtb_line_xspace">Steigern Sie Ihr Spiel mit dem brandneuen Game Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">Andere Apps während des Spiels verwenden</string>
     <string name="gtb_guide_small_window_app_title">Popups</string>
@@ -3469,6 +3481,27 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_camera_printer_notify_subtitle">Verbunden</string>
     <string name="pc_camera_printer_title">Fotodrucker-Set</string>
     <string name="pc_category_charge_settings">Ladeeinstellungen</string>
+    <string name="pc_charge_mode_low_power_fast_speed">Niederspannung</string>
+    <string name="pc_charge_mode_low_power_fast_speed_tips">Gerät könnte sich erwärmen</string>
+    <string name="pc_charge_mode_topspeed">Höchstgeschwindigkeit</string>
+    <string name="pc_charge_mode_topspeed_tips">Gerät könnte sich erwärmen</string>
+    <string name="pc_charge_protection_features_title">Aufladeoptionen</string>
+    <string name="pc_charge_protection_wired_charge">Kabelgebundenes Laden</string>
+    <string name="pc_charge_protection_wired_charge_mode">Kabelgebundener Lademodus</string>
+    <string name="pc_charge_protection_wireless_charge">Drahtloses Laden</string>
+    <string name="pc_charge_protection_wireless_charge_mode">Drahtloser Lademodus</string>
+    <string name="pc_charge_protection_wireless_reverse_charge">Drahtloses Umkehrladen</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">Drahtloses Umkehrladen ausschalten, wenn der Akku des Geräts weniger als %1$s beträgt</string>
+    <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Ladegrenze</string>
+    <string name="pc_charge_wireless_charge_mode_silence_title">Zeit im Lautlosmodus</string>
+    <string name="pc_charge_wireless_charge_select_silence">Stumm</string>
+    <string name="pc_charge_wireless_charge_select_silence_always">Immer</string>
+    <string name="pc_charge_wireless_charge_select_silence_night">Nacht</string>
+    <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s bis %2$s am nächsten Tag</string>
+    <string name="pc_charge_wireless_charge_select_silence_summary">Weniger Lärm und langsameres Laden</string>
+    <string name="pc_charge_wireless_charge_select_topspeed">Höchstgeschwindigkeit</string>
+    <string name="pc_charge_wireless_charge_select_topspeed_summary">Mehr Lärm und erhöhte Gerätetemperatur</string>
+    <string name="pc_charge_wireless_only_mi_charger_work">Funktioniert nur mit den von Xiaomi mitgelieferten Ladegeräten</string>
     <string name="pc_charged_auto_close_summary">Ausschalten, wenn der Akku ​%1$s oder vollständig geladen ist</string>
     <string name="pc_charged_auto_close_title">Ausschalten, wenn geladen</string>
     <string name="pc_close_notifi_action">Ausschalten</string>
@@ -3481,6 +3514,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_endurance_calculation">Berechnen…</string>
     <string name="pc_entered_extreme_mode">Ruhezustand ist an</string>
     <string name="pc_entered_extreme_mode_summary">Der Akku Ihres Geräts ist leer und es ist im Ruhezustand. Apps werden im Hintergrund ausgeführt und senden keine Benachrichtigungen.</string>
+    <string name="pc_extreme_category">Extrem schwacher Akku</string>
     <string name="pc_extreme_exit_and_power_off">Beenden</string>
     <string name="pc_extreme_mode_bg_toast">Im Ruhezustand werden Apps im Hintergrund ausgeführt und senden keine Benachrichtigungen</string>
     <string name="pc_extreme_mode_entering">In den Ruhezustand wechseln…</string>
@@ -3489,6 +3523,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_extreme_mode_exiting">Ruhezustand beenden…</string>
     <string name="pc_extreme_mode_find_charger">Laden Sie Ihr Gerät so schnell wie möglich auf.</string>
     <string name="pc_extreme_mode_runtime">Ruhezustand ist seit %1$s %2$s aktiviert.</string>
+    <string name="pc_extreme_mode_setting_summary">Standby-Zeit verlängern, wenn der Akku extrem schwach ist</string>
+    <string name="pc_extreme_mode_setting_title">Ruhezustand</string>
     <string name="pc_extreme_mode_title">Ruhezustand</string>
     <string name="pc_fast_charge_notifi_action_text_on">Steigern</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Akkustand für Erinnerungen einstellen</string>
@@ -3543,6 +3579,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_low_batterty_got_it">Verstanden</string>
     <string name="pc_low_battery_fast_charge">Laden beschleunigen</string>
     <string name="pc_low_battery_fast_charge_summary">Schließen Sie das mitgelieferte Ladegerät an, um den Ladevorgang zu beschleunigen, wenn der Bildschirm aus und der Akku leer ist. Diese Funktion kann Ihr Gerät erwärmen.</string>
+    <string name="pc_low_temp_charge_summary">Lassen Sie das Ladegerät angeschlossen und warten Sie, bis sich der Akku nach dem Erlöschen des Bildschirms erwärmt hat, um normal zu laden</string>
+    <string name="pc_low_temp_charge_title">Laden bei niedriger Temperatur</string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s m hinzugefügt, ca. %2$s T bleiben</string>
     <string name="pc_main_battery_text_day_hour">%1$s m hinzugefügt, ca. %2$s T %3$s h bleiben</string>
@@ -3868,6 +3906,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="popular_action_anti_spam_title_global">Spam-Anrufe blockieren</string>
     <string name="popular_action_app_lock_title_global">Apps mit App-Sperre schützen</string>
     <string name="popular_action_card_title">Beliebte Funktionen</string>
+    <string name="popular_action_first_aid_title_global">Für neue Nutzer</string>
     <string name="popular_action_net_assistant_title_global">Netzwerkverbindungsgeschwindigkeit überwachen</string>
     <string name="popular_action_video_clean_title_global">Video-Cache löschen, um Speicherplatz freizugeben</string>
     <string name="power_5g_popups_content">5G-Netze bieten hohe Verbindungsgeschwindigkeit und geringere Latenzzeit.</string>
@@ -4920,7 +4959,6 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sim_lock_start_keyguard_dialog_title">Bildschirmsperre festlegen</string>
     <string name="sim_lock_start_lock_summary">PIN manuell bestätigen</string>
     <string name="sim_lock_start_lock_title">USIM sperren</string>
-    <string name="sim_lock_start_notification_message">SIM-Karte mit diesem Gerät verknüpfen, um es weniger anfällig für Sicherheitsrisiken zu machen</string>
     <string name="sim_lock_start_notification_title">Schützen Sie Ihre SIM-Karte</string>
     <string name="sim_lock_start_query_pin">PIN prüfen</string>
     <string name="sim_lock_start_summary">Diese Funktion schützt Sie vor möglichen Risiken, falls Ihre SIM-Karte verloren geht.</string>
@@ -5329,6 +5367,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="storage_menu_mount">Einhängen</string>
     <string name="storage_mount_failure">%1$s einhängen fehlgeschlagen</string>
     <string name="storage_mount_success">%1$s erfolgreich eingehängt</string>
+    <string name="storage_permission_button">Einstellungen</string>
+    <string name="storage_permission_message">Dieser Funktion den Speicherzugriff erlauben, damit sie die Speichernutzung genau berechnen kann. Sie können diese Berechtigung in Einstellungen erteilen.</string>
+    <string name="storage_permission_title">Berechtigungen erforderlich</string>
     <string name="storage_space_release_hint">Benötigen Sie mehr Speicherplatz?</string>
     <string name="storage_system_log">Systemprotokolle</string>
     <string name="storage_system_log_tip">Systemprotokolle werden bei Bedarf aut. gelöscht</string>
@@ -6018,6 +6059,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="verify_sms_ensure_allow">Senden</string>
     <string name="verify_sms_title">%1$s versucht, eine Nachricht zu senden…</string>
     <string name="video_repeat">Erneut abspielen</string>
+    <string name="videobox_double_core_visual">Dual-Core-Grafiken</string>
+    <string name="videobox_double_core_visual_description1">Durch einen speziellen Chip Videoauflösung und Bildrate verbessern sowie HDR optimieren</string>
+    <string name="videobox_double_core_visual_description2">Videoklarrheit und -gleichmäßigkeit verbessern. Wenn Sie diese Funktion aktivieren, erhöht sich der Stromverbrauch leicht.</string>
     <string name="videobox_hangup_tips_content">Ihr Bildschirm wird gesperrt, aber die App läuft weiterhin im Hintergrund, wenn diese Funktion eingeschaltet ist. Drücken Sie die Power-Taste, um den Bildschirm wieder einzuschalten. Diese Funktion jetzt einschalten?</string>
     <string name="videobox_hangup_tips_title">Achtung</string>
     <string name="videobox_settings_line_location">Verknüpfungsort</string>

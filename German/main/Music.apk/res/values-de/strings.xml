@@ -247,7 +247,12 @@
     <string name="columbus_player_speed_title">Video überspringen?</string>
     <string name="columbus_player_speed_video">VIDEO überspringen</string>
     <string name="columbus_player_unit_sec">Sek</string>
+    <string name="columbus_reward_style_access">Mehr erfahren</string>
+    <string name="columbus_reward_style_close_cancel">Beenden</string>
+    <string name="columbus_reward_style_close_desc">Sehen Sie sich das Video zu Ende an, um eine Prämie zu erhalten. Weiterschauen?</string>
+    <string name="columbus_reward_style_speed_confirm">Fortfahren</string>
     <string name="columbus_skip_ad">Überspringen</string>
+    <string name="columbus_skip_ad_time">Überspringen (%d)</string>
     <string name="common_google_play_services_enable_button">Aktivieren</string>
     <string name="common_google_play_services_enable_text">%1$s wird nur laufen, wenn Sie Google Play-Dienste aktivieren.</string>
     <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
@@ -748,6 +753,10 @@
     <string name="local_page_album_more">Alle anzeigen</string>
     <string name="local_page_artist_more">Weitere Titel von %s</string>
     <string name="local_page_playlist">Wiedergabelisten</string>
+    <string name="lock_screen_music_settings">Musik in den Einstellungen Sperrbildschirm</string>
+    <string name="lock_screen_settings">Einstellungen Sperrbildschirm</string>
+    <string name="lock_screen_slide_up">Zum Entsperren hochwischen</string>
+    <string name="lock_screen_switch">Musik am Sperrbildschirm</string>
     <string name="login_instantly">Anmelden</string>
     <string name="login_mi_account_and_gain_more_rights">Mit Xiaomi-Konto anmelden, um auf weitere Funktionen zuzugreifen</string>
     <string name="login_out_tip">Abmelden derzeit nicht möglich. Sie können stattdessen alle App-Daten löschen.</string>
@@ -773,6 +782,15 @@
     <string name="lyric_ai_state_identifying">Einen Momen…</string>
     <string name="lyric_ai_state_use">Verwenden</string>
     <string name="lyric_ai_title">KI Songtexterkennung</string>
+    <string name="lyric_feedback_inaccurate_timing">Text ist nicht synchron</string>
+    <string name="lyric_feedback_lyrics_error">Der ganze Text des Titels ist falsch</string>
+    <string name="lyric_feedback_misspelling">Rechtschreib- und Tippfehler</string>
+    <string name="lyric_feedback_other">Anderes</string>
+    <string name="lyric_feedback_pure_music">Instrumentalstück</string>
+    <string name="lyric_feedback_report_optimization">Reichen Sie einen Bericht ein, um uns bei der Optimierung unserer Dienste zu helfen</string>
+    <string name="lyric_feedback_submit">Einreichen</string>
+    <string name="lyric_feedback_submit_success">Erfolgreich eingereicht</string>
+    <string name="lyric_feedback_title">Beschreiben Sie uns das Problem</string>
     <string name="lyric_is_empty">Keine Songtexte verfügbar</string>
     <string name="lyric_label">Songtexte</string>
     <string name="lyric_open_other_connect">Songtexte über mobile Datenverbindung herunterladen</string>
@@ -1036,6 +1054,7 @@
     <string name="online_switch_message">Deaktivieren der Online-Dienste hat Auswirkungen auf VIP-Dienste und Empfehlungen. Trotzdem ausschalten?</string>
     <string name="online_switch_setting">Einstellungen für Online-Inhalte</string>
     <string name="only_pro_can_choose_hd_sound_quality">HD-Audio ist nur für Gold-Mitglieder verfügbar</string>
+    <string name="open_alarm_clock_recommend_switch">Empfohlener Weckertitel</string>
     <string name="open_online_service">Für diese Funktion müssen Sie die Online-Dienste einschalten. Jetzt einschalten?</string>
     <string name="open_service">Einschalten</string>
     <string name="operation_done_close">Schließen</string>
@@ -1221,7 +1240,7 @@
     <string name="payment_success_message">Dankeschön! Ihre Zahlung wurde erfolgreich verarbeitet. Genießen Sie die Gold-Dienste.</string>
     <string name="payment_success_title">Gratulation!</string>
     <string name="pending_apk">Ausstehend…</string>
-    <string name="permission_declaration_message">Speicherzugriff unter Sicherheit/Rechte/Rechtemanager/Speicher/Musik zulassen, damit Mi Musik ordungsgemäß funktioniert.</string>
+    <string name="permission_declaration_message">Speicherzugriff unter Sicherheit/Rechte/Rechtemanager/Speicher/Musik zulassen, damit Mi Music ordungsgemäß funktioniert.</string>
     <string name="permission_declaration_negative_text">Später</string>
     <string name="permission_declaration_positive_text">Zu Sicherheit gehen</string>
     <string name="permission_declaration_title">Zugriff erlauben</string>
@@ -1279,6 +1298,7 @@
     <string name="privacy_authorize_revoking">Zustimmung widerrufen…</string>
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="privacy_policy_title_asm">Eine Welt voller Musik auf Knopfdruck</string>
     <string name="privacy_request_desc">&lt;Data>Mi Music muss notwendige personenbezogene Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.&lt;/Data></string>
     <string name="privacy_request_subtitle">Willkommen bei Mi Music! Diese App bietet die folgenden Dienste: \n- Ein lokaler Audioplayer \n- Online-Streaming-Dienste</string>
     <string name="privacy_request_subtitle_offline">Willkommen bei Mi Music! Diese App bietet einen lokalen Player für Audiodateien.</string>
@@ -1611,6 +1631,7 @@
     <string name="today">Heute</string>
     <string name="today_hot_playlist">Heutige Top-Wiedergabeliste</string>
     <string name="tomorrow">Morgen</string>
+    <string name="tools_settings">Tool-Einstellungen</string>
     <string name="track_play_history_after_login">Anmelden, um den Wiedergabeverlauf anzuzeigen</string>
     <string name="tt_ad">Werbung</string>
     <string name="tt_ad_clicked_text">Werbung angezeigt</string>
