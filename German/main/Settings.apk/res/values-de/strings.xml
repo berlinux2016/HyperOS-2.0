@@ -2897,7 +2897,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="doze_always_on_summary">Erhöhter Stromverbrauch</string>
     <string name="doze_always_on_title">AOD</string>
     <string name="doze_summary">Wenn der Bildschirm dunkel ist, wird er für neue Benachrichtigungen eingeschaltet</string>
-    <string name="doze_title">Bildschirm für Benachrichtigungen wecken</string>
+    <string name="doze_title">Bildschirm wecken bei Benachrichtigung</string>
     <string name="dpp_before_share_summary">\"%1$s\"-WLAN mit einer anderen Person teilen?</string>
     <string name="dpp_cannot_connect_target">Mit Zielnetzwerk verbinden fehlgeschlagen</string>
     <string name="dpp_connect_success">Erfolgreich verbunden</string>

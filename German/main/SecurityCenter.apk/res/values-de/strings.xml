@@ -4118,7 +4118,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_save_mode_close_aod_display_summary">AOD ausschalten, wenn Stromsparen an ist</string>
     <string name="power_save_mode_close_aod_display_title">AOD ausschalten</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funktioniert, wenn Stromsparen an ist</string>
-    <string name="power_save_mode_close_notification_screenon_title">Bei Benachrichtigungen Bildschirm nicht aufwecken</string>
+    <string name="power_save_mode_close_notification_screenon_title">Bildschirm nicht wecken bei Benachrichtigung</string>
     <string name="power_save_mode_close_warn_text">Stromsparen schränkt Hintergrundaktivitäten und Synchronisation ein. Wenn Sie es beim Laden aktiviert lassen, arbeiten evtl. einige Funktionen nicht richtig. Stromsparen beim Laden trotzdem aktiv lassen?</string>
     <string name="power_save_mode_close_warn_title">Stromsparen</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Funktioniert, wenn Stromsparen an ist</string>
