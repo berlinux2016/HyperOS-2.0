@@ -811,11 +811,13 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="assist_footer">Assistenz-Apps können Ihnen auf Basis der Daten auf dem Bildschirm, den Sie gerade sehen, helfen. Einige Apps unterstützen sowohl den Launcher als auch die Spracheingabe, um Ihnen integrierte Unterstützung zu bieten.</string>
     <string name="assist_gesture_title">Hilfsgeste</string>
     <string name="assistance_category_title">Eingabehilfen</string>
+    <string name="assistant_add_fail">Kann jetzt nicht zuhören. Einen Moment warten und erneut versuchen.</string>
     <string name="assistant_corner_gesture_summary">Von einer unteren Ecke nach oben wischen, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_corner_gesture_title">Wischen zum Aufrufen des Assistenten</string>
     <string name="assistant_gesture_category_title">Digitaler Assistent</string>
     <string name="assistant_long_press_home_gesture_summary">Home-Taste gedrückt halten, um den digitalen Assistenten aufzurufen</string>
     <string name="assistant_long_press_home_gesture_title">Home-Taste für Assistenten halten</string>
+    <string name="assistant_operate_timeout">Anfrage abgebrochen. Erneut versuchen.</string>
     <string name="assistant_security_warning_agree">Zustimmen</string>
     <string name="assisted_gps">Unterstütztes GPS verwenden</string>
     <string name="assisted_gps_disabled">Server für GPS-Unterstützung verwenden (deaktivieren, um GPS-Leistung zu verbessern)</string>
@@ -837,6 +839,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="audio_share_cancel">Nein danke</string>
     <string name="audio_share_confirm">Teilen</string>
     <string name="audio_synced">Audio synchronisiert</string>
+    <string name="auracast_scan_not_support">Nicht mit kompatiblen Kopfhörern verbunden. Keine Übertragungen in der Nähe gefunden.</string>
     <string name="auto_adjst_effect_summary">Farbtemperatur automatisch an das Umgebungslicht anpassen, um optimalen Komfort zu gewährleisten</string>
     <string name="auto_adjust_effect_title">Farbtemperatur automatisch anpassen</string>
     <string name="auto_anc_closed">Aus</string>
@@ -1293,6 +1296,12 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="bluetooth_audio_share_request_disable_title">Gerät wechseln?</string>
     <string name="bluetooth_audio_share_request_disconnect">Wenn Sie jetzt trennen, werden Ihre Geräte bei der nächsten Verbindung nicht mehr automatisch Audio teilen. Trotzdem trennen?</string>
     <string name="bluetooth_audoi_share">" | Audio teilen"</string>
+    <string name="bluetooth_auracast_assist_add_source">Zuhören</string>
+    <string name="bluetooth_auracast_password_input_hint">Verbindungscode eingeben</string>
+    <string name="bluetooth_auracast_source_and_assistant_text">Audio an andere Geräte übertragen und nach Audio-Broadcasts in der Nähe suchen</string>
+    <string name="bluetooth_auracast_source_available_connect">Broadcasts in der Nähe</string>
+    <string name="bluetooth_auracast_source_explain_summary">Wenn eingeschaltet, können Personen in der Nähe Audio von Ihrem Gerät mit einem Verbindungscode empfangen</string>
+    <string name="bluetooth_auracast_source_opend_summary">"Verbindungscode: "</string>
     <string name="bluetooth_battery_level">%1$s Akku</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s Akku, R: %2$s Akku</string>
     <string name="bluetooth_bc_profile_summary_connected">Verbunden mit BA-Server</string>
@@ -1300,6 +1309,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="bluetooth_bcast_rcvr_device_name">Broadcast-Empfänger</string>
     <string name="bluetooth_blacklist_cancel_remove_device">Abbrechen</string>
     <string name="bluetooth_blacklist_remove_device">Entsperren</string>
+    <string name="bluetooth_broadcast_audio">Audio-Broadcast</string>
     <string name="bluetooth_broadcast_audio_dialog_title">Broadcast starten</string>
     <string name="bluetooth_broadcast_audio_onlysource">Audio-Broadcast von diesem Gerät</string>
     <string name="bluetooth_broadcast_audio_started_toast">Vergessen Sie nicht, den Broadcast rechtzeitig zu beenden. Audio-Broadcast verbraucht Akku.</string>
@@ -1433,6 +1443,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="bluetooth_enter_passkey_other_device">Eventuell müssen Sie diesen Passschlüssel auch auf dem anderen Gerät eingeben</string>
     <string name="bluetooth_enter_pin_other_device">Eventuell müssen Sie diese PIN auch auf dem anderen Gerät eingeben</string>
     <string name="bluetooth_fastConnect_key_device_id">Geräte-ID</string>
+    <string name="bluetooth_fastConnect_resource_load">Bluetooth fastConnect Ressourcenlast</string>
     <string name="bluetooth_find_broadcast">Broadcasts finden</string>
     <string name="bluetooth_find_broadcast_button_leave">Broadcast verlassen</string>
     <string name="bluetooth_find_broadcast_button_scan">QR-Code scannen</string>
@@ -3433,6 +3444,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="fiveg_sa_vice_switch_title">SA auf sekundärer SIM</string>
     <string name="fiveg_vonr_switch_summary">VoNR in 5G-Netzwerkumgebung verwenden, um das Anruferlebnis zu verbessern. Diese Funktion wird nur zu Testzwecken bereitgestellt.</string>
     <string name="fiveg_vonr_switch_title">VoNR-Einstellungen</string>
+    <string name="fivega_enhanced_network_summary">Erleben Sie die neue 5G-A-Netztechnologie, nur für Testzwecke</string>
+    <string name="fivega_enhanced_network_title">5G-A Verbessertes Netzwerk</string>
+    <string name="fivega_switch_summary">Erleben Sie die ultimative Geschwindigkeit von 5G. Der tatsächliche Status hängt von der Netz- und Dienstbereitstellung des lokalen Anbieters ab.</string>
     <string name="fix_connectivity">Konnektivität reparieren</string>
     <string name="flash_drive_backup_disable">Erst USB-Laufwerk verbinden</string>
     <string name="flash_drive_backup_enable">USB-Laufwerk zum Sichern oder Wiederherstellen von Elementen verwenden</string>
@@ -3757,6 +3771,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="guest_reset_guest_dialog_title">Gast jetzt zurücksetzen?</string>
     <string name="guest_resetting">Gast zurücksetzen…</string>
     <string name="guide_button_text">Verstanden</string>
+    <string name="guide_summary_1">Audio-Broadcast an Geräte in der Nähe</string>
+    <string name="guide_summary_2">Broadcasts anhören, die von anderen Personen geteilt werden</string>
     <string name="guide_text_center">In der Bildschirmmitte gerade nach oben wischen. \nBereich zur Bestätigung der Bildschirmsperre wird mittig ausgerichtet.</string>
     <string name="guide_text_left">Von der unteren linken Ecke gerade nach oben wischen. \nBereich zur Bestätigung der Bildschirmsperre wird nach links verschoben.</string>
     <string name="guide_text_right">Von der unteren rechten Ecke gerade nach oben wischen. \nBereich zur Bestätigung der Bildschirmsperre wird nach rechts verschoben.</string>
@@ -3967,6 +3983,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="ignore_optimizations_off_desc">Empfohlen für mehr Akkulaufzeit</string>
     <string name="ignore_optimizations_on">Nicht optimieren</string>
     <string name="ignore_optimizations_on_desc">Kann den Akku schneller entladen. App wird nicht mehr daran gehindert, im Hintergrund Akku zu verbrauchen.</string>
+    <string name="illegal_device_name_modification_notification">Gerät umbenennen</string>
+    <string name="illegal_hotspot_name_modification_notification">Hotspot umbenennen</string>
     <string name="ime_security_warning">%1$s kann den gesamten von Ihnen eingegebenen Text erfassen, inkl. Passwörter, Kreditkartennummern und anderer personenbezogener Daten</string>
     <string name="ime_security_warning_global">Eingabemethoden können den von Ihnen eingegebenen Text erfassen, inkl. personenbezogene Daten wie Passwort und Kreditkartennummern. %1$s verwenden?</string>
     <string name="ime_security_warning_title_global">Tastatur einschalten</string>
@@ -5593,6 +5611,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="my_device_info_device_name_preference_title">Gerätename</string>
     <string name="my_device_info_legal_category_title">Rechtlich &amp; regulatorisch</string>
     <string name="n_cacrts">%d CA-Zertifikate</string>
+    <string name="name_modification_no_network_notification">Mit Netzwerk verbinden und erneut versuchen</string>
     <string name="natural_haptic">Natürliches Gefühl</string>
     <string name="natural_haptic_summary">Neue haptische Feedback-Muster bringen eine zusätzliche Dimension zu allem, was Sie auf Ihrem Bildschirm sehen und berühren.</string>
     <string name="natural_scroll">Natürliches Scrollen</string>
@@ -6177,6 +6196,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="passpoint_r1_privacy_dialog_yes">Zustimmen</string>
     <string name="passwordIncorrect">Eingegebenes Passwort ist falsch</string>
     <string name="password_and_security">Passwörter &amp; Sicherheit</string>
+    <string name="password_check_fail">Falscher Code</string>
     <string name="password_entrance_title">Bildschirmsperre festlegen</string>
     <string name="password_guard">Passwort</string>
     <string name="password_security_settings_title">Passwörter &amp; Sicherheit</string>
@@ -6887,6 +6907,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="save">Speichern</string>
     <string name="save_battery_mode">Strom sparen mit WQHD+</string>
     <string name="save_battery_mode_summary">Auflösung automatisch umschalten, um Strom zu sparen</string>
+    <string name="save_device_name_progress_message">Speichern…</string>
     <string name="saved_network">Gespeichert von %1$s</string>
     <string name="saved_wifi">Gespeicherte Netzwerke verwalten</string>
     <string name="saved_wifi_delete">Löschen</string>

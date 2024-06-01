@@ -360,6 +360,7 @@
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mehr</string>
     <string name="miuix_appcompat_cancel_description">Abbrechen</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchronisation mit der Cloud ist aus</string>
+    <string name="miuix_appcompat_cloud_state_encrypt_disabled">Ende-zu-Ende-Schutz für das Synchronisieren von Elementen einschalten</string>
     <string name="miuix_appcompat_cloud_state_finished">Erfolgreich mit der Cloud synchronisiert</string>
     <string name="miuix_appcompat_cloud_state_syncing">Mit der Cloud synchronisieren…</string>
     <string name="miuix_appcompat_confirm_description">Bestätigen</string>

@@ -728,6 +728,7 @@ dd.MM."</string>
     <string name="privacy_update_summary3">"Sie können Hintergrundkarussell nur dann weiter nutzen, wenn Sie die neue Version der &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Datenschutzerklärung&lt;/font>&lt;/a> akzeptieren. Jetzt zustimmen?"</string>
     <string name="privacy_update_title1">Datenschutzerklärung aktualisiert</string>
     <string name="privacy_update_title2">Achtung</string>
+    <string name="prompt_Theme_tip">Themenstil nicht abrufbar, bitte stellen Sie sicher, dass das Netzwerk und die Zeit korrekt sind</string>
     <string name="prompt_add_origin_pic">Bild hinzufügen</string>
     <string name="prompt_add_tip">Beschreibung hinzufügen</string>
     <string name="prv_end"><CDATA>Das ist im Moment alles.</CDATA></string>
@@ -941,9 +942,15 @@ dd.MM."</string>
     <string name="sunday_shortest">S</string>
     <string name="sure_close_gallery">Hintergrundkarussell ausschalten?</string>
     <string name="sure_close_gallery_des">Sie können keine neuen Bilder auf Ihren Start- und Sperrbildschirm erhalten, wenn Sie Hintergrundkarussell ausschalten. Trotzdem ausschalten?</string>
+    <string name="surprise_wallpaper_can_not_open_tip">Bitte öffnen Sie zuerst die Bilddrehung</string>
     <string name="surprise_wallpaper_empty_dlg_content">Überraschungshintergründe generieren benutzerdefinierte Hintergründe basierend auf selbst gewählten Hintergründen (falls aktiviert) oder basierend auf einer Zufallsstrategie, und die Häufigkeit der Bildrotation ist auf 1 Tag begrenzt. Wenn die Generierung fehlschlägt, wird der Hintergrund mit dem Originalbild aktualisiert.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Überraschungshintergrund</string>
     <string name="surprise_wallpaper_generate_failed_toast">Generierung dieses Überraschungshintergrunds fehlgeschlagen</string>
+    <string name="surprise_wallpaper_goto_prompts_error">Es gab eine Netzwerkausnahme. Bitte später erneut versuchen.</string>
+    <string name="surprise_wallpaper_prompts_null">Wenn Sie das Originalbild wählen, wird kein Favorit hinzugefügt</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Speichern fehlgeschlagen, bitte erneut versuchen.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Erfolgreich gespeichert!</string>
+    <string name="surprise_wallpaper_prompts_sending">Senden Ihrer Einstellungen…</string>
     <string name="system_default">Standard</string>
     <string name="tab_user_title_bar_text">Einstellungen</string>
     <string name="tb_collapse_desc">\"Teilen\"-Menü ausblenden</string>

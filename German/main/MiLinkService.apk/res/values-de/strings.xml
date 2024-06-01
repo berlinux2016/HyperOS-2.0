@@ -72,10 +72,9 @@
     <string name="camera_associate_success">Kamera verbunden</string>
     <string name="camera_choose_device">Gerät wählen</string>
     <string name="camera_connecting">%s möchte die Kamera dieses Geräts verwenden</string>
-    <string name="camera_connecting_device">Verbinden mit %s</string>
     <string name="camera_disassociate">Von Kamera getrennt</string>
-    <string name="camera_disconnecting_device">Trennen von %s</string>
     <string name="camera_title">Nach verfügbaren Geräten suchen…</string>
+    <string name="cancel">Abbrechen</string>
     <string name="cancel_button">Abbrechen</string>
     <string name="car_air_con_back_switch_close">AC auf dem Rücksitz ausschalten</string>
     <string name="car_air_con_back_switch_open">AC auf dem Rücksitz einschalten</string>
@@ -224,6 +223,7 @@
     <string name="circulate_headset_error_headset_not_support">Kopfhörer wurden nicht mit diesem Computer verbunden</string>
     <string name="circulate_headset_error_headset_not_worn">Beide Kopfhörer einsetzen und erneut versuchen</string>
     <string name="circulate_headset_error_headset_not_worn_both">Beide Kopfhörer einsetzen und erneut versuchen</string>
+    <string name="circulate_headset_error_headset_not_worn_single">Tragen Sie Ihre Kopfhörer, um diese Funktion zu nutzen</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">Schalten Sie Bluetooth auf Ihrem TV ein\nund melden Sie sich an Ihrem Xiaomi-Konto an</string>
     <string name="circulate_headset_error_self_upgrade">Diese Aktion wurde nicht abgeschlossen. App zuerst aktualisieren.</string>
     <string name="circulate_headset_error_timeout">Zeitüberschreitung der Verbindung</string>
@@ -569,6 +569,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="help_page_text_55_global">Wenn Sie keine Netzwerkverbindung herstellen können, prüfen Sie, ob Ihr externer Monitor die Miracast-Funktionalität unterstützt und diese eingeschaltet ist. Bei einigen Modellen wird diese Funktion als Drahtlose Anzeige, Bildschirmspiegelung oder Mehrere Bildschirme bezeichnet. \n%1$d. Wenn Sie irgendwelche Probleme haben, können Sie diese mit Hilfe unserer App \"Dienste &amp; Feedback\" melden.</string>
     <string name="help_page_text_end">Wenn Ihre Gerätemarke hier nicht aufgeführt ist, wenden Sie sich an den Hersteller, um mehr über die Casting-Funktion zu erfahren.</string>
     <string name="hm_always">Merken</string>
+    <string name="hm_always_execute">Immer</string>
     <string name="hm_conflict_title">Angehaltenes Muster: %1$s</string>
     <string name="hm_conflict_toast">Sie haben eine widersprüchliche Smart Home-Szene oder -Automatisierung. Bearbeiten Sie sie zuerst in der App.</string>
     <string name="hm_go_to_help">Hilfe anzeigen</string>
@@ -577,11 +578,17 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="hm_habit_info_describe">Geräte passen sich an Ihre Bedürfnisse an, \nindem sie lernen, wie Sie sie benutzen</string>
     <string name="hm_habit_info_empty_describe">Benutzen Sie Ihre Geräte weiter, \ndamit Xiaomi HyperMind Muster lernen und verfeinern kann</string>
     <string name="hm_habit_info_list_empty">Muster lernen…</string>
+    <string name="hm_has_ignored">Muster erfolgreich ignoriert</string>
+    <string name="hm_has_remembered">Muster erfolgreich gemerkt</string>
     <string name="hm_help">Hilfe</string>
     <string name="hm_knew">Verstanden</string>
+    <string name="hm_new_habit">Neue Muster</string>
+    <string name="hm_new_habit_empty_title">Keine Muster hier</string>
+    <string name="hm_not_notify">Nicht mehr anzeigen</string>
     <string name="hm_please_login_mi_account">Melden Sie sich an Ihrem Xiaomi-Konto an, um loszulegen</string>
     <string name="hm_remember">Merken</string>
     <string name="hm_resume_habit">Fortsetzen</string>
+    <string name="hm_setstate_error">Abschließen dieser Aktion fehlgeschlagen</string>
     <string name="hm_setup">Einstellungen</string>
     <string name="hm_time_has_paused">Angehalten</string>
     <string name="hm_time_just_remembered">Soeben gelernt</string>
@@ -589,13 +596,20 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="hm_time_not_executed">Noch nicht verwendet</string>
     <string name="hm_time_recent_week">Diese Woche</string>
     <string name="hm_time_today">Heute</string>
+    <string name="hm_time_today_executed">Heute um %s verwendet</string>
+    <string name="hm_time_today_remembered">Heute um %s gemerkt</string>
     <string name="hm_time_yesterday">Gestern</string>
+    <string name="hm_time_yesterday_executed">Gestern um %s verwendet</string>
+    <string name="hm_time_yesterday_remembered">Gestern um %s gemerkt</string>
     <string name="hm_toast_log_in">Zuerst an Ihrem Xiaomi-Konto anmelden</string>
     <string name="hyper_mind_close_warning">Achtung</string>
     <string name="hyper_mind_close_warning_checkbox">Nicht mehr anzeigen</string>
     <string name="hyper_mind_close_warning_content">Wenn Sie diese Funktion deaktivieren, kann HyperMind Ihre Muster nicht mehr lernen oder verwenden. Wenn Sie Ihre Zustimmung zur Datenerfassung widerrufen möchten, tippen Sie &lt;a href=%1$s>hier&lt;/a>.</string>
     <string name="hyper_mind_close_warning_ok">Verstanden</string>
+    <string name="i_see">Verstanden</string>
     <string name="icon_content_description">Dialogsymbol</string>
+    <string name="image_transfer_failed">Bild übertragen fehlgeschlagen</string>
+    <string name="install">Installieren</string>
     <string name="invisible_mode_dialog_content">Im Inkognito-Modus kann Casting nicht verwendet werden. Erst den Inkognito-Modus ausschalten.</string>
     <string name="invisible_mode_dialog_content_audio_relay">Im Inkognito-Modus kann die Wiedergabe nicht übertragen werden. Erst den Inkognito-Modus ausschalten.</string>
     <string name="invisible_mode_dialog_pos">Ausschalten</string>
@@ -617,6 +631,9 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="material_timepicker_hour">Stunde</string>
     <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
     <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="message_connection_interrupted">Stellen Sie sicher, dass sich Ihr Computer und Ihr Tablet in Verbindungsreichweite befinden und dass Bluetooth und WLAN aktiviert sind. Um fortzufahren, starten Sie die Aufgabe erneut auf Ihrem Computer.</string>
+    <string name="message_install">Installieren Sie Mi Canvas, um geräteübergreifend skizzieren zu können.</string>
+    <string name="message_update">Aktualisieren Sie Mi Canvas, um geräteübergreifend skizzieren zu können.</string>
     <string name="midnight">Nacht</string>
     <string name="miplay_accessibility_cast">Gerät auswählen</string>
     <string name="miplay_accessibility_cover">Titelseite</string>
@@ -1034,6 +1051,9 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="tile_label">Casting</string>
     <string name="tile_label_v2">Interkonnektivitätsdienste</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
+    <string name="title_connection_interrupted">Verbindung unterbrochen</string>
+    <string name="title_install">Mi Canvas installieren</string>
+    <string name="title_update">Mi Canvas aktualisieren</string>
     <string name="toast_guide_show_more">Mehr erfahren</string>
     <string name="toast_guide_title">Entdecken Sie unsere neuen Funktionen hier</string>
     <string name="toast_invisible_mode">Sie sind inkognito. Casting jetzt nicht möglich.</string>

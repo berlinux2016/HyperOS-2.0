@@ -614,6 +614,10 @@ Sie können jetzt eine gratis %d-Tag-Testversion erhalten!"</item>
         <item quantity="other">" Min"</item>
         <item quantity="one">" Min"</item>
     </plurals>
+    <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-Tag</item>
+        <item quantity="one">%d-Tag</item>
+    </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d Elemente</item>
         <item quantity="one">%d Element</item>

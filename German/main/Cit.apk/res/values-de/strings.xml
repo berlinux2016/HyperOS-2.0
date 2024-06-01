@@ -205,6 +205,8 @@ Sprechen Sie in das hintere Mikrofon, Sie sollten die Stimme aus dem Lautspreche
     <string name="cit_charge_usb_hvdcp">Aufladen: USB_HVDCP</string>
     <string name="cit_charge_usb_pd">Aufladen: USB_PD</string>
     <string name="cit_charger_check_title">Ladegerättest</string>
+    <string name="cit_charger_hall_test_summary">Bitte bringen Sie den Magneten in die Nähe der hinteren Position, die der grünen rechteckigen Fläche entspricht, halten Sie ihn 1 Sekunde lang und bewegen Sie ihn dann weg</string>
+    <string name="cit_charger_hall_test_title">Ladegerät-Hall</string>
     <string name="cit_charger_in">Ladegerät angeschlossen</string>
     <string name="cit_charger_main_ibat">Haupt-Akkustrom</string>
     <string name="cit_charger_plugin_check_title">Ladegerät (anschließen)</string>
@@ -299,6 +301,7 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_high_accdata_sensor_check_summary">Die Werte für X-, Y- und Z-Koordinaten sollten unten angezeigt werden. Bitte legen Sie Ihr Telefon flach auf die Arbeitsfläche, bevor Sie den Test durchführen</string>
     <string name="cit_high_accdata_sensor_check_title">Hoher Beschleunigungssensor</string>
     <string name="cit_high_accdata_sensor_graph_title">Kurve hoher Beschleunigungssensor</string>
+    <string name="cit_high_accelermeter_sensor_cali_title">Kalibrierungstest Beschleunigungssensor für hohe Reichweite</string>
     <string name="cit_horn_motor_test">Hornmotortest</string>
     <string name="cit_hvdcp_charger_in">Laden über (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Init-Fingerabdruck-Testumgebung</string>
@@ -340,6 +343,8 @@ Bitte tippen Sie auf die entsprechende Taste, je nachdem, welche Nummer Sie hör
     <string name="cit_proximity_data_check_summary">"Infrarot-Näherungssensor: Decken Sie den Geräte-Näherungssensor mit der Hand ab, und dann lassen Sie den Näherungssensor los.
  Ultraschall-Näherungssensor: Bitte simulieren Sie das Annehmen eines Anrufs.
  Wenn der untere Testbereich bei der Annäherung einen Wert von 0,0 und bei Entfernung einen Wert von 5,0 anzeigt, ist der Test erfolgreich. Andernfalls schlägt der Test fehl."</string>
+    <string name="cit_proximity_second_sensor_cali_title">Kalibrierungstest zweiter Näherungssensor</string>
+    <string name="cit_proximity_second_sensor_check_summary">Achten Sie bei der Kalibrierung darauf, dass sich nichts zwischen dem Sensor und Ihrer Hand befindet (z. B. Bildschirmschutz oder Handschuhe).</string>
     <string name="cit_proximity_sensor_cali_title">Kalibrierungstest Näherungssensor</string>
     <string name="cit_proximity_sensor_check_second_screen_title">Zweiter Näherungssensor</string>
     <string name="cit_proximity_sensor_check_summary">"Bedecken Sie den Näherungssensor (oben am Gerät in der Nähe des Empfängers) mit Ihrer Hand und bewegen Sie dann Ihre Hand weg. Der Wert sollte sich von 0,0 erhöhen, wenn Sie Ihre Hand weiter vom Gerät weg bewegen.
@@ -540,13 +545,14 @@ Die zweite Zeile zeigt den Namen und die Versionsnummer des Standard-MBN und des
     <string name="cit_touch_panel_test_title_N8">Berührungssensor</string>
     <string name="cit_touch_thp_mode">THP-Modus</string>
     <string name="cit_touch_work_mode_test_help">"Gebrauchsanweisung:
-Auf die Taste tippen, um den Berührungsmodus auf THP-Modus oder FW-Modus umzuschalten".</string>
+Auf die Taste tippen, um den Berührungsmodus auf THP-Modus oder FW-Modus umzuschalten."</string>
     <string name="cit_touch_work_mode_test_title">Berühren schaltet zum THP-Modus-Test</string>
     <string name="cit_touch_work_summary">Berühren schaltet den THP-Modus um</string>
     <string name="cit_touch_work_switch_tips">Bildschirm nicht berühren und warten, bis der Moduswechsel abgeschlossen ist</string>
     <string name="cit_tt_cali_bin_check_title">Inhaltserkennung Chipkalibrierungsdatei</string>
     <string name="cit_tt_chip_detection_title">Tian-tong Chip-In-Place-Erkennung</string>
-    <string name="cit_tt_description">Chip-bezogene Funktionen werden erkannt, bitte benutzen Sie das Telefon nicht.</string>
+    <string name="cit_tt_close_satelite_tip">Bitte schalten Sie die Satellitentelefonfunktion aus</string>
+    <string name="cit_tt_description">Chip-bezogene Funktionen werden erkannt, bitte benutzen Sie das Telefon nicht</string>
     <string name="cit_tt_rx_check_title">Chip RX-Empfangspfad-Erkennung</string>
     <string name="cit_tt_tx_check_title">Chip TX-Übertragungspfad-Erkennung</string>
     <string name="cit_ultra_camera_check_title">Ultra-Kamera</string>

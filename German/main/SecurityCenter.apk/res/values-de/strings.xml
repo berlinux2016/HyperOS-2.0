@@ -1333,6 +1333,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="continue_set">Fortsetzen</string>
     <string name="convenient_mode">Alle Apps auf einmal entsperren</string>
     <string name="convenient_summary">Passwort einmal eingeben, um alle Apps zu entsperren</string>
+    <string name="conversation_phone_title">Anruf-Toolbox</string>
     <string name="conversation_settings_top">· Schieben Sie bei Audio- und Videoanrufen im Vollbildmodus die Konferenztool-Leiste auf, um auf deren Funktionen zuzugreifen.\n· Art und Anzahl der Funktionen hängt vom Gerätemodell ab.</string>
     <string name="conversation_sider_tips">Nutzen Sie die neuen Konferenztools für ein optimales Anruferlebnis</string>
     <string name="conversation_summary">Verschönerung, Untertitel-Transkription und andere Funktionen bei Audio- und Videoanrufen</string>
@@ -1363,6 +1364,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Trennen Sie externe Geräte und versuchen Sie es erneut</string>
     <string name="cs_pickup_voice_print_desc">Ton nur von einer Person aufnehmen</string>
     <string name="cs_screen_translation_title">Bildschirmübersetzung</string>
+    <string name="cs_simultaneous_interpretation_title">Interpretieren</string>
     <string name="cs_title_pickup">Rauschunterdrückung</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra HD-Modus</string>
@@ -1671,7 +1673,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_alert_help_place_navigation">Navigieren</string>
     <string name="ew_alert_help_safe_title">Gefahren vermeiden</string>
     <string name="ew_alert_help_tips">Ruhig und wachsam bleiben. Von herunterhängenden Gegenständen fernhalten, nicht mit dem Aufzug fahren. Einen sicheren Ort finden, ducken, bedecken und warten.</string>
-    <string name="ew_alert_no_contact">Zuerst einen Notfallkontakt in Sicherheit &gt; Erdbebenwarnung erstellen.</string>
+    <string name="ew_alert_no_contact">Legen Sie Ihren Notfallkontakt unter Einstellungen > Datenschutz &amp; Sicherheit > Notfall-SOS fest</string>
     <string name="ew_alert_no_emergency">Fügen Sie Ihre medizinischen Daten in Sicherheit &gt; Erdbebenwarnung hinzu.</string>
     <string name="ew_alert_text_from">Daten bereitgestellt von %s</string>
     <string name="ew_app_name">Erdbebenwarnung</string>
@@ -1767,10 +1769,14 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_main_place_title">Nächstgelegene Schutzräume</string>
     <string name="ew_main_setting_warning_desc">Mehr erfahren</string>
     <string name="ew_main_settings">Einstellungen</string>
+    <string name="ew_main_subscribe_city">Städte abonnieren</string>
     <string name="ew_main_warning_all_title">Zuvor ausgegebene Warnungen anzeigen</string>
     <string name="ew_main_warning_list">Warnungen anzeigen</string>
     <string name="ew_main_warning_list_tips">Anzeigen</string>
     <string name="ew_main_warning_list_title">Warnungsverlauf anzeigen</string>
+    <string name="ew_merge_contact_button">Verstanden</string>
+    <string name="ew_merge_contact_message">Ihre Notfallkontakte aus Notfall-SOS und Erdbebenwarnung wurden zusammengeführt.</string>
+    <string name="ew_merge_contact_title">Notfallkontakte zusammenführen</string>
     <string name="ew_monitor_bad_request_tips">Sicherheit kann nicht auf Gerätedaten zugreifen</string>
     <string name="ew_monitor_content">Ihr Mobilgerät kann Teil des Erdbeben-Frühwarnnetzes werden. Wenn seine Sensoren seismische Wellen erkennen, werden die Daten vom KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
     <string name="ew_monitor_exit">Abmelden</string>
@@ -2205,11 +2211,17 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_advance_settings_reset_dialog_content">Standardeinstellungen jetzt wiederherstellen?</string>
     <string name="gb_advance_settings_reset_dialog_title">Standardeinstellungen</string>
     <string name="gb_advance_settings_screen_display">Anzeige</string>
+    <string name="gb_advance_settings_screen_display_style_summary">Kontrast erhöhen und Darstellung optimieren, um mehr Details zu zeigen</string>
+    <string name="gb_advance_settings_screen_display_summary">Kontrast verbessern und Darstellung optimieren, um mehr Details zu zeigen</string>
     <string name="gb_advance_settings_screen_hdr">Verbesserte Grafik</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Mäßig</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Stark</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Extrem</string>
     <string name="gb_advance_settings_screen_hdr_summary">Kontrast erhöhen und Details für Spiele verbessern</string>
+    <string name="gb_advance_settings_screen_show_enhancement">Darstellung verbessern</string>
+    <string name="gb_advance_settings_screen_show_enhancement_summary">Bewegung flüssiger und ruckelfreier anzeigen</string>
+    <string name="gb_advance_settings_screen_super_picture_quality">Erstklassige Bildqualität</string>
+    <string name="gb_advance_settings_screen_super_picture_quality_summary">Auflösung und Bildrate für flüssigere Darstellung erhöhen</string>
     <string name="gb_advance_settings_touch">Berührungssteuerung</string>
     <string name="gb_advance_settings_vibration_4d">4D-Vibration</string>
     <string name="gb_advance_settings_vibration_4d_summary">Bei Schüssen im Spiel vibrieren</string>
@@ -2434,6 +2446,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_vision_enhance">Verbesserte Grafik</string>
     <string name="gb_vision_enhance_desc">Bildqualität und Leistung verbessern</string>
     <string name="gb_vision_enhance_frme_insertion_tips">Smarte Bildrate\n%dFPS</string>
+    <string name="gb_vision_enhance_smart_frame_enhance">Bildrate verbessern</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Smarte Bildrate</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Bildrate automatisch anpassen, um die Bewegung flüssiger zu machen</string>
     <string name="gb_vision_enhance_super_resolution">Superauflösung</string>
@@ -3468,6 +3481,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_battery_history_total_consumption_title">Gesamter Stromverbrauch</string>
     <string name="pc_battery_history_usetime_title">Aktiv</string>
     <string name="pc_battery_low_health_reminder">Es ist Zeit, den Akku zu wechseln</string>
+    <string name="pc_battery_replacement_service_title">Testen Sie unseren Akku-Austauschservice. %1$s Original-Hardware mit einer %2$s Garantie.</string>
     <string name="pc_berserk_mode_dialog_title">Ultimativen Modus einschalten</string>
     <string name="pc_berserk_mode_noti_summary">Der ultimative Modus kann den Stromverbrauch erhöhen und zu Überhitzungsproblemen führen</string>
     <string name="pc_berserk_mode_performance_title">Ultimativer Modus</string>
@@ -4099,6 +4113,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="power_optimize_loading">Laden</string>
     <string name="power_optimize_open_hide_mode">Stromsparen einschalten</string>
     <string name="power_optimize_power_save_extend_time">%s hinzufügen</string>
+    <string name="power_optimize_power_save_extend_time_new" formatted="false">Verlängern für %1s %2s</string>
     <string name="power_optimize_power_save_summary">Stromsparen einschalten, um mehrere Systemoptimierungen anzuwenden, die die Hintergrundaktivität begrenzen</string>
     <string name="power_optimize_prohibit_app_autostart">App-Autostart nicht zulassen</string>
     <string name="power_optimize_reduce_fps">Aktualisierungsrate auf %d Hz senken</string>
@@ -4610,7 +4625,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_thumbnail_blur_category_photography">Foto &amp; Video</string>
     <string name="privacy_thumbnail_blur_category_tip">Empfohlen</string>
     <string name="privacy_thumbnail_blur_search_empty">Keine Ergebnisse gefunden</string>
-    <string name="privacy_thumbnail_blur_title">Unscharfe Vorschau</string>
+    <string name="privacy_thumbnail_blur_title">App-Vorschau verwischen</string>
     <string name="privacy_thumbnail_blur_top_tip">Wählen Sie Apps aus, bei denen die Vorschau in Letzte Apps unscharf dargestellt wird</string>
     <string name="privacy_thumbnail_shield_title">Vorschaumaskierung</string>
     <string name="privacy_thumbnail_shield_top_tip">Vorschau für Apps maskieren, die in Letzte Apps angezeigt werden</string>
@@ -6061,7 +6076,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="video_repeat">Erneut abspielen</string>
     <string name="videobox_double_core_visual">Dual-Core-Grafiken</string>
     <string name="videobox_double_core_visual_description1">Durch einen speziellen Chip Videoauflösung und Bildrate verbessern sowie HDR optimieren</string>
-    <string name="videobox_double_core_visual_description2">Videoklarrheit und -gleichmäßigkeit verbessern. Wenn Sie diese Funktion aktivieren, erhöht sich der Stromverbrauch leicht.</string>
+    <string name="videobox_double_core_visual_description2">"Klarheit, Flüssigkeit und Gesamteffekt der Anzeige verbessern.
+Diese Funktion erfordert einen höheren Stromverbrauch.
+Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiviert ist."</string>
     <string name="videobox_hangup_tips_content">Ihr Bildschirm wird gesperrt, aber die App läuft weiterhin im Hintergrund, wenn diese Funktion eingeschaltet ist. Drücken Sie die Power-Taste, um den Bildschirm wieder einzuschalten. Diese Funktion jetzt einschalten?</string>
     <string name="videobox_hangup_tips_title">Achtung</string>
     <string name="videobox_settings_line_location">Verknüpfungsort</string>
