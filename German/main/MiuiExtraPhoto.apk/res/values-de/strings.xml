@@ -225,7 +225,7 @@
     <string name="refocus_type_static">Unschärfe</string>
     <string name="refocus_type_video">Lichtspuren</string>
     <string name="saf_operation_guide_1">"Galerie Editor benötigt die Berechtigung, um Ihre Daten zu schützen und zu verwalten. "</string>
-    <string name="saf_operation_guide_2">Um die Berechtigung zu erteilen, tippen Sie auf \"%1$s\" und wählen dann \"%2$s\".</string>
+    <string name="saf_operation_guide_2">Um die Berechtigung zu erteilen, tippen Sie auf \"%1$s\" und wählen dann \"%2$s\."</string>
     <string name="saf_operation_guide_param1">Weiter</string>
     <string name="saf_operation_guide_param2">Auf diesen Ordner zugreifen</string>
     <string name="saf_requester_cancel">Abbrechen</string>

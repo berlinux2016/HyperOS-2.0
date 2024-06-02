@@ -133,7 +133,7 @@
     <string name="close_twice_auth_note">Hinweis:\nNach Erstellung einer neuen Sicherheitsfrage und Bestätigung Ihres Geburtsdatums wird Ihre Apple ID-Zwei-Faktor-Authentisierung deaktiviert. Wenn Sie die Option zum Deaktivieren der Zwei-Faktor-Authentisierung auf der Apple ID-Kontenseite nicht sehen, können Sie sie nicht deaktivieren.</string>
     <string name="close_twice_auth_operation">URL:\nhttps://appleid.apple.com/#!&amp;page=signin zum Schließen</string>
     <string name="close_twice_auth_step_1">1. Öffnen Sie einen beliebigen Webbrowser auf einem beliebigen Computer und gehen Sie zu appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Melden Sie sich bei der Apple ID an, für die Sie die Zwei-Faktor-Authentisierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" der Kontoeinstellungen und wählen Sie \"Bearbeiten\".</string>
+    <string name="close_twice_auth_step_2">2. Melden Sie sich bei der Apple ID an, für die Sie die Zwei-Faktor-Authentisierung deaktivieren möchten, gehen Sie zum Abschnitt \"Sicherheit\" der Kontoeinstellungen und wählen Sie \"Bearbeiten\."</string>
     <string name="close_twice_auth_step_3">3. Tippen Sie auf \"Zwei-Faktor-Authentisierung deaktivieren\". Zum Bestätigen erneut tippen.</string>
     <string name="close_twice_auth_steps">Deaktivieren Sie die Apple ID Zwei-Faktor-Authentisierung wie folgt:</string>
     <string name="close_twice_auth_tutor">Apple ID Zwei-Faktor-Authentisierung deaktivieren</string>
@@ -853,7 +853,7 @@
     <string name="trans_install_guide_scan_install_tip">Diesen QR-Code mit dem alten Telefon scannen,\num Mi Mover herunterzuladen und zu installieren.</string>
     <string name="trans_install_guide_step1_content">QR-Code mit dem alten Telefon scannen, um Mi Mover herunterzuladen und zu installieren.</string>
     <string name="trans_install_guide_step1_title">Schritt 1</string>
-    <string name="trans_install_guide_step2_content">Wenn die Installation abgeschlossen ist, tippen Sie unten auf \"Start\".</string>
+    <string name="trans_install_guide_step2_content">Wenn die Installation abgeschlossen ist, tippen Sie unten auf \"Start\."</string>
     <string name="trans_install_guide_step2_title">Schritt 2</string>
     <string name="trans_intro_desc_1">Auf einem Mi Telefon mit WLAN verbinden und auf \"Ich bin der Empfänger\" tippen. Wählen Sie Ihr iOS-Gerät, melden Sie sich bei der iCloud an und importieren Sie Daten.</string>
     <string name="trans_intro_desc_10">Tippen Sie auf \"Verbinden über QR-Code\" auf dem neuen Gerät und scannen Sie den QR-Code, um eine Verbindung herzustellen.</string>
@@ -875,8 +875,8 @@
     <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual App-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
     <string name="trans_intro_desc_multiuser">Mi Mover kann nicht auf Elemente im Zweitprofil zugreifen. Verschieben Sie Elemente ins Hauptprofil und starten Sie dort Mi Mover.</string>
     <string name="trans_intro_desc_new">Tippen Sie \"Ich bin der Empfänger\". Ein QR-Code wird generiert.</string>
-    <string name="trans_intro_desc_old">Tippen Sie \"Ich bin der Sender\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet, welche Dateien Sie senden möchten, und tippen Sie auf \"Senden\".</string>
-    <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet, welche Dateien Sie senden möchten, und tippen Sie auf \"Senden\".</string>
+    <string name="trans_intro_desc_old">Tippen Sie \"Ich bin der Sender\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet, welche Dateien Sie senden möchten, und tippen Sie auf \"Senden\."</string>
+    <string name="trans_intro_desc_old_market">Tippen Sie \"Start\". Scannen Sie den QR-Code auf dem neuen Telefon, warten Sie, bis Mi Mover herausfindet, welche Dateien Sie senden möchten, und tippen Sie auf \"Senden\."</string>
     <string name="trans_intro_desc_private">Mi Mover kann nicht auf Fotos im versteckten Album zugreifen, da sie verschlüsselt sind. Sie können diese Fotos aus Xiaomi Cloud auf einem neuen Gerät wiederherstellen.</string>
     <string name="trans_intro_question_1">%d. Wie verwende ich Mi Mover, um Daten von einem iOS-Gerät zu übertragen?</string>
     <string name="trans_intro_question_10">%d. Sie können den Hotspot auf dem alten Gerät nicht finden?</string>

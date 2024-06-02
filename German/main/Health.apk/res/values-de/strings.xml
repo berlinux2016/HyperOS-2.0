@@ -687,7 +687,7 @@
     <string name="location_service_dialog_positive">Einschalten</string>
     <string name="location_service_dialog_title">Standortdienste sind aus</string>
     <string name="location_service_ntfc_title">Nach GPS suchen…</string>
-    <string name="lock_not_support_description">Um Ihre medizinische Notfall-ID am Sperrbildschirm verfügbar zu machen, tippen Sie auf Mehr &gt; Bearbeiten und aktivieren Sie \"Bei Sperre anzeigen\".</string>
+    <string name="lock_not_support_description">Um Ihre medizinische Notfall-ID am Sperrbildschirm verfügbar zu machen, tippen Sie auf Mehr &gt; Bearbeiten und aktivieren Sie \"Bei Sperre anzeigen\."</string>
     <string name="lock_show_dialog_content">Ihre medizinische Notfall-ID ist zugänglich, ohne Ihr Telefon zu entsperren.\nWenn Sie Ihre Daten nicht weitergeben möchten, können Sie diese Funktion deaktivieren.</string>
     <string name="lock_show_dialog_title">Achtung</string>
     <string name="lock_show_solve_description">Um die medizinische Notfall-ID am Sperrbildschirm anzuzeigen, erlauben Sie Health die Anzeige.</string>

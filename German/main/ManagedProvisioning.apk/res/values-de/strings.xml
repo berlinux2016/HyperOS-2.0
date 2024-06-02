@@ -53,8 +53,8 @@
     <string name="error_installation_failed">Admin-App wurde nicht installiert</string>
     <string name="error_package_invalid">Admin-App kann nicht verwendet werden, es gibt fehlende oder beschädigte Komponenten. Für Hilfe wenden Sie sich bitte an Ihren IT-Admin.</string>
     <string name="error_role_holder_download_install_failed">Später noch einmal versuchen oder den IT-Admin um Hilfe bitten</string>
-    <string name="error_role_holder_hash_mismatch">%1$s kann nicht eingerichtet werden. Wenden Sie sich an den IT-Admin und verweisen Sie auf \"Ungültige Prüfsumme\".</string>
-    <string name="error_role_holder_package_invalid">%1$s kann nicht eingerichtet werden. Wenden Sie sich an den IT-Admin und verweisen Sie auf \"Fehlende oder beschädigte Komponenten\".</string>
+    <string name="error_role_holder_hash_mismatch">%1$s kann nicht eingerichtet werden. Wenden Sie sich an den IT-Admin und verweisen Sie auf \"Ungültige Prüfsumme\."</string>
+    <string name="error_role_holder_package_invalid">%1$s kann nicht eingerichtet werden. Wenden Sie sich an den IT-Admin und verweisen Sie auf \"Fehlende oder beschädigte Komponenten\."</string>
     <string name="error_wifi">WLAN-Verbindung fehlgeschlagen</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="financed_device_screen_header">Dieses %1$s wurde auf Kredit bei %2$s gekauft</string>

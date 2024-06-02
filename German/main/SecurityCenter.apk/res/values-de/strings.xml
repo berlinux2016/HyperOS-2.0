@@ -257,7 +257,7 @@
     <string name="apn_exception_summary">APN-Konfigurationen des Anbieters testen</string>
     <string name="apn_exception_title">APN-Konfigurationen prüfen</string>
     <string name="apn_exception_wap_summary">WAP ist jetzt instabil. Zu NET wechseln.</string>
-    <string name="app_behavior_about_content_no_link">Das System kann anzeigen, wann Apps andere Apps starteten, automatisch starteten, Berechtigungen verwendeten und sensible Aktionen durchführten. Wegen Kompatibilitätsproblemen mit der Android-Version sind einige dieser Datensätze evtl. nicht korrekt. Wenn Sie einen Datensatz über das Verhalten einer App finden, der nicht korrekt ist, melden Sie ihn uns über die App \"Dienste &amp; Feedback\".</string>
+    <string name="app_behavior_about_content_no_link">Das System kann anzeigen, wann Apps andere Apps starteten, automatisch starteten, Berechtigungen verwendeten und sensible Aktionen durchführten. Wegen Kompatibilitätsproblemen mit der Android-Version sind einige dieser Datensätze evtl. nicht korrekt. Wenn Sie einen Datensatz über das Verhalten einer App finden, der nicht korrekt ist, melden Sie ihn uns über die App \"Dienste &amp; Feedback\."</string>
     <string name="app_behavior_about_negative">Unstimmigkeiten melden</string>
     <string name="app_behavior_about_positive">Verstanden</string>
     <string name="app_behavior_about_setting">Einstellungen</string>

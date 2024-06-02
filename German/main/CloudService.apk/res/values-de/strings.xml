@@ -358,7 +358,7 @@
     <string name="micloud_manual_reactivate">Reaktivieren</string>
     <string name="micloud_manual_request_permission_cancel">Abbrechen</string>
     <string name="micloud_manual_request_permission_confirm">Einstellungen</string>
-    <string name="micloud_manual_request_permission_content">Um unsere Dienste zu verwenden, Xiaomi Cloud die folgenden Berechtigungen in den Einstellungen erteilen: \"%s\".</string>
+    <string name="micloud_manual_request_permission_content">Um unsere Dienste zu verwenden, Xiaomi Cloud die folgenden Berechtigungen in den Einstellungen erteilen: \"%s\."</string>
     <string name="micloud_manual_request_permission_content_on_provision">Zuerst in Sicherheit die erforderlichen Berechtigungen erteilen</string>
     <string name="micloud_manual_request_permission_title">Berechtigungen erforderlich</string>
     <string name="micloud_manual_sync_all">Alle Elemente synchronisieren</string>

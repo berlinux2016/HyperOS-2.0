@@ -5127,7 +5127,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_fitness_check_result_summary1">Diese Passform ist ideal für Sie!</string>
     <string name="miheadset_fitness_check_result_summary2">Passen Sie die Ohrstöpsel an oder probieren Sie einen anderen und testen Sie erneut.</string>
     <string name="miheadset_fitness_check_summary1">Erfahren Sie, welche Ohrstöpsel den besten Tragekomfort und die beste akustische Leistung bieten.</string>
-    <string name="miheadset_fitness_check_summary2">Setzen Sie die Kopfhörer in beide Ohren und tippen Sie auf \"Start\".</string>
+    <string name="miheadset_fitness_check_summary2">Setzen Sie die Kopfhörer in beide Ohren und tippen Sie auf \"Start\."</string>
     <string name="miheadset_fitness_check_summary3">Lassen Sie die Kopfhörer in den Ohren.</string>
     <string name="miheadset_function_settings">Eigenschaften</string>
     <string name="miheadset_game_mode">Spielemodus</string>
@@ -7763,7 +7763,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="silent_time">Dauer Lautlosmodus</string>
     <string name="silent_total">DND</string>
     <string name="sim_action_cancel">Abbrechen</string>
-    <string name="sim_action_enable_dsds_text">Auf diesem Gerät können 2 SIMs gleichzeitig aktiv sein. Um weiterhin jeweils 1 SIM zu verwenden, tippen Sie \"Nein danke\".</string>
+    <string name="sim_action_enable_dsds_text">Auf diesem Gerät können 2 SIMs gleichzeitig aktiv sein. Um weiterhin jeweils 1 SIM zu verwenden, tippen Sie \"Nein danke\."</string>
     <string name="sim_action_enable_dsds_title">2 SIMs verwenden?</string>
     <string name="sim_action_enable_sim_fail_text">Anbieter kann wegen eines Fehlers nicht gewechselt werden.</string>
     <string name="sim_action_enable_sim_fail_title">Anbieter wechseln fehlgeschlagen</string>

@@ -28,7 +28,7 @@
     <string name="account_change">Konten wechseln</string>
     <string name="account_child_dialog_neg_text">Verlassen</string>
     <string name="account_child_dialog_pos_text">Erziehungsberechtigter stimmt zu</string>
-    <string name="account_child_dialog_text">Wenn Sie minderjährig unter 14 Jahren sind, informieren Sie Ihren Erziehungsberechtigten, dass er die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\" lesen und akzeptieren muss. Sie müssen auch dessen Zustimmung und Anleitung einholen, bevor Sie unsere Dienste nutzen oder personenbezogene Daten an uns übermitteln.\nUm Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verarbeiten, vollständig zu verstehen, lesen Sie die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\".</string>
+    <string name="account_child_dialog_text">Wenn Sie minderjährig unter 14 Jahren sind, informieren Sie Ihren Erziehungsberechtigten, dass er die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\" lesen und akzeptieren muss. Sie müssen auch dessen Zustimmung und Anleitung einholen, bevor Sie unsere Dienste nutzen oder personenbezogene Daten an uns übermitteln.\nUm Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verarbeiten, vollständig zu verstehen, lesen Sie die \"Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen\."</string>
     <string name="account_child_dialog_title">Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
     <string name="account_child_save_statement">Kingsoft-Erklärung zum Schutz personenbezogener Daten von Minderjährigen</string>
     <string name="account_duplicate_dlg_message_fmt">Benutzername wird bereits für das Konto \"%s\" verwendet.</string>
@@ -580,7 +580,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="mail_header_network_not_available">Keine Netzwerkverbindung verfügbar</string>
     <string name="mail_outlook_login_tips">Zur Eingabe des Passworts werden Sie zu Microsoft weitergeleitet</string>
     <string name="mail_outlook_oauth_login">"Mit OAuth anmelden.
-(Persönliche Outlook-Benutzer können ihre Kalender nicht synchronisieren, wenn sie sich mit OAuth anmelden)".</string>
+(Persönliche Outlook-Benutzer können ihre Kalender nicht synchronisieren, wenn sie sich mit OAuth anmelden)."</string>
     <string name="mail_outlook_psw_login">Mit Passwort anmelden</string>
     <string name="mail_spam_notify_title">Über Spam benachrichtigen</string>
     <string name="mailbox_folder">Ordner</string>
@@ -769,7 +769,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="notify_channel_service">Bei Hintergrundsynchronisation informieren</string>
     <string name="ntes_authorization_code_to_login">Mit diesem Verifizierungscode anmelden</string>
     <string name="ntes_copy_and_login">Kopieren und anmelden</string>
-    <string name="ntes_do_not_sms_uplink">Senden Sie eine SMS von der zugehörigen Rufnummer und tippen Sie dann auf \"Nachricht gesendet\".</string>
+    <string name="ntes_do_not_sms_uplink">Senden Sie eine SMS von der zugehörigen Rufnummer und tippen Sie dann auf \"Nachricht gesendet\."</string>
     <string name="ntes_had_send">Nachricht gesendet</string>
     <string name="ntes_had_send_to_content">Wenn Sie bereits eine SMS von der zugehörigen Rufnummer gesendet haben, tippen Sie auf \"Nachricht gesendet\", um fortzufahren.</string>
     <string name="ntes_login_auth_too_much">Mehr als 5 Verifizierungscodes können nicht hinzugefügt werden. Melden Sie sich auf einem Computer an Ihrem Posteingang an und löschen Sie nichtverwendete Codes.</string>
@@ -777,7 +777,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="ntes_password_error_hint">Wenn bei der Eingabe Ihres Passworts Fehler auftreten, schließen Sie diese Seite und öffnen Sie sie erneut.</string>
     <string name="ntes_phone_send">Textnachricht von der zugehörigen Rufnummer senden</string>
     <string name="ntes_send_to">Senden an: %s</string>
-    <string name="ntes_send_to_content">Wenn Ihre aktuelle Rufnummer mit dem Konto verknüpft ist, tippen Sie auf \"SMS senden\".</string>
+    <string name="ntes_send_to_content">Wenn Ihre aktuelle Rufnummer mit dem Konto verknüpft ist, tippen Sie auf \"SMS senden\."</string>
     <string name="ntes_verification_code">Code eingeben: %s</string>
     <string name="oauth_error_description">Authentisierung fehlgeschlagen</string>
     <string name="oauth_find_browser_error_description">Bitte Browser installieren, bevor Sie sich anmelden</string>

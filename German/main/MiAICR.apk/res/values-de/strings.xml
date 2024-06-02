@@ -167,7 +167,7 @@
     <string name="copywriting_closeLight_description_hmind">Licht ausgeschaltet</string>
     <string name="copywriting_closeLight_description_island">Licht ausgeschaltet</string>
     <string name="copywriting_description_button_auto">Merken</string>
-    <string name="copywriting_description_conflict_subtitle">Sie haben bereits eine smarte Heimumgebung oder Automatisierung: \"%1$s\". HyperMind-Muster pausieren: \"%2$s\".</string>
+    <string name="copywriting_description_conflict_subtitle">Sie haben bereits eine smarte Heimumgebung oder Automatisierung: \"%1$s\". HyperMind-Muster pausieren: \"%2$s\."</string>
     <string name="copywriting_description_conflict_title">Muster pausieren</string>
     <string name="copywriting_mute_description_hmind">Gerät stummgeschaltet</string>
     <string name="copywriting_mute_description_island">Gerät stummgeschaltet</string>

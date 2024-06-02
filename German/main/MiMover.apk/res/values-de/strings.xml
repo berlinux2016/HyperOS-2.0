@@ -827,7 +827,7 @@ Mi Mover herunterladen und installieren."</string>
     <string name="trans_sync_transfer_data_list">Zu übertragende Elemente auf dem alten Gerät auswählen</string>
     <string name="trans_sync_transfer_data_list_apple">Auf das iPhone zu übertragende Elemente wählen</string>
     <string name="trans_sync_transfer_data_list_hint">Einen Moment…</string>
-    <string name="trans_sync_transfer_data_list_summary_for_pad">Wählen Sie Elemente auf Ihrem alten Gerät und tippen Sie auf \"Senden\".</string>
+    <string name="trans_sync_transfer_data_list_summary_for_pad">Wählen Sie Elemente auf Ihrem alten Gerät und tippen Sie auf \"Senden\."</string>
     <string name="trans_time_format_second">Weniger als %d Minute</string>
     <string name="trans_time_spent">Zeit: %s</string>
     <string name="transfer_bottom_tip">Während der Übertragung können Sie weder WLAN noch Bluetooth verwenden. Verlassen Sie diese Seite nicht.</string>

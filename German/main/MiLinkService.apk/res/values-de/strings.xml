@@ -928,7 +928,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="screen_projection_example_document_summary">Zeigen Sie Präsentationen auf einem externen Monitor an, während Sie mit Ihrem Telefon zwischen Folien und Notizen wechseln. Gehen Sie zu Dateimanager &gt; Dokumente, um diese Funktion auszuprobieren.</string>
     <string name="screen_projection_example_document_summary_miui15">Präsentationsfolien auf einem TV anzeigen, während dieses Gerät als Fernbedienung verwendet wird</string>
     <string name="screen_projection_example_document_title">Dokumente</string>
-    <string name="screen_projection_example_gallery_hint_miui15">*Um Fotos und Videos zu übertragen, wählen Sie ein Element in der Galerie aus, tippen Sie auf \"Teilen\" und dann auf das Symbol \"Casting\".</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*Um Fotos und Videos zu übertragen, wählen Sie ein Element in der Galerie aus, tippen Sie auf \"Teilen\" und dann auf das Symbol \"Casting\."</string>
     <string name="screen_projection_example_gallery_hint_new"><Data>*Um diese Funktion zu nutzen, gehen Sie zur Galerie, wählen Sie ein Foto aus, tippen Sie auf \"Senden\" in der unteren Leiste und dann auf das Symbol &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
     <string name="screen_projection_example_gallery_summary">Tippen Sie auf die Teilen-Taste unter einem Element in der Galerie-App, um es auf einem externen Monitor anzuzeigen.</string>
     <string name="screen_projection_example_gallery_summary_miui15">Betrachten Sie Ihre Fotos und Videos auf dem TV-Bildschirm</string>

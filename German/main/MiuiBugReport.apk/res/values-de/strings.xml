@@ -74,8 +74,8 @@
     <string name="catch_full_log_add_photo_dialog_content">Wenn das aufgetretene Problem mit der Bildqualität der Kamera zusammenhängt, fügen Sie ein original Beispielfoto (unbeschnitten) hinzu, damit wir das Problem leichter finden können. Jetzt Foto hinzufügen?"</string>
     <string name="catch_full_log_category">Protokolltypen</string>
     <string name="catch_full_log_dialog_confirm_text">Zur Startseite</string>
-    <string name="catch_full_log_dialog_content">Dies kann die Gesamtleistung Ihres Geräts beeinträchtigen. Wenn Sie das aufgetretene Problem nicht reproduzieren können, gehen Sie zurück zu den Protokollen und tippen Sie auf \"Abbrechen\".</string>
-    <string name="catch_full_log_dialog_content_pad">Dies kann die Gesamtleistung Ihres Geräts beeinträchtigen. Wenn Sie das aufgetretene Problem nicht reproduzieren können, gehen Sie zurück zu den Protokollen und tippen Sie auf \"Abbrechen\".</string>
+    <string name="catch_full_log_dialog_content">Dies kann die Gesamtleistung Ihres Geräts beeinträchtigen. Wenn Sie das aufgetretene Problem nicht reproduzieren können, gehen Sie zurück zu den Protokollen und tippen Sie auf \"Abbrechen\."</string>
+    <string name="catch_full_log_dialog_content_pad">Dies kann die Gesamtleistung Ihres Geräts beeinträchtigen. Wenn Sie das aufgetretene Problem nicht reproduzieren können, gehen Sie zurück zu den Protokollen und tippen Sie auf \"Abbrechen\."</string>
     <string name="catch_full_log_dialog_title">Protokolle generieren…</string>
     <string name="catch_full_log_dump_hprof_failed">Verzögerungsprotokoll wurde nicht erstellt</string>
     <string name="catch_full_log_item_content_catching">Protokolle generieren…</string>
