@@ -1019,8 +1019,8 @@ Sie können jetzt eine gratis %d-Tag-Testversion erhalten!"</item>
         <item quantity="one">"%d Min "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
-        <item quantity="other">Batterieverbrauch in %d Szenarien optimieren</item>
-        <item quantity="one">Batterieverbrauch in %d Szenario optimieren</item>
+        <item quantity="other">Akkuverbrauch in %d Szenarien optimieren</item>
+        <item quantity="one">Akkuverbrauch in %d Szenario optimieren</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">%d Akkuprobleme beheben</item>
