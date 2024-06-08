@@ -942,6 +942,7 @@ dd.MM."</string>
     <string name="sunday_shortest">S</string>
     <string name="sure_close_gallery">Hintergrundkarussell ausschalten?</string>
     <string name="sure_close_gallery_des">Sie können keine neuen Bilder auf Ihren Start- und Sperrbildschirm erhalten, wenn Sie Hintergrundkarussell ausschalten. Trotzdem ausschalten?</string>
+    <string name="surprise_wallpaper_auth_failed_tip">Validierung der Benutzerdaten fehlgeschlagen, bitte prüfen Sie Ihren Anmeldestatus und die Systemzeit.</string>
     <string name="surprise_wallpaper_can_not_open_tip">Bitte öffnen Sie zuerst die Bilddrehung</string>
     <string name="surprise_wallpaper_empty_dlg_content">Überraschungshintergründe generieren benutzerdefinierte Hintergründe basierend auf selbst gewählten Hintergründen (falls aktiviert) oder basierend auf einer Zufallsstrategie, und die Häufigkeit der Bildrotation ist auf 1 Tag begrenzt. Wenn die Generierung fehlschlägt, wird der Hintergrund mit dem Originalbild aktualisiert.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Überraschungshintergrund</string>

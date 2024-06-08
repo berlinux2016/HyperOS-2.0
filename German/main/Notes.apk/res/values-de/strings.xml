@@ -29,8 +29,12 @@
     <string name="actionbar_close_description">Schließen</string>
     <string name="actionbar_home_description">Zurück</string>
     <string name="add_account_desc">Notizen mit dem Xiaomi-Konto synchronisieren?</string>
+    <string name="add_excerpt_summary">Zusammenfassende Liste hinzufügen</string>
     <string name="added_to_clipboard">Erfolgreich kopiert</string>
     <string name="afternoon">Nachmittag</string>
+    <string name="ai_chat_declare_double_link"><Data>Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor sie fortfahren.</Data></string>
+    <string name="ai_chat_dlg_content">Für verschiedene Informationsquellen in unterschiedlichen Szenarien (z. B. Links oder Texte, die in Apps wie Browsern, WeChat und Feishu erscheinen) kann die Funktion des schnellen Sammelns und Zusammenfassens von Informationen sowie des automatischen Generierens und Präsentierens in einem einheitlichen Eintrag für die Archivierung erreicht werden.</string>
+    <string name="ai_watermark">Durch KI generieren:</string>
     <string name="alarm_bar_title">Erinnerung</string>
     <string name="alert_action_edit_anyway">Weiter bearbeiten</string>
     <string name="alert_message_delete">%1$s löschen?</string>
@@ -189,8 +193,13 @@
     <string name="evening">Nachmittag</string>
     <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
     <string name="excerpt">Auszüge</string>
+    <string name="excerpt_ares_limit">Wir freuen uns über Ihren Enthusiasmus, aber wir haben derzeit ein hohes Anfrageaufkommen. Bitte klicken Sie auf den ursprünglichen Link oder versuchen Sie es später erneut.</string>
     <string name="excerpt_bubble_tips">Kopierter Text und gespeicherte Bilder werden in Notizen gespeichert</string>
     <string name="excerpt_link_bubble_tips">Tippen, um in Notizen zu speichern</string>
+    <string name="excerpt_original_text">Originaltext:</string>
+    <string name="excerpt_summary_fail">Inhalt parsen fehlgeschlagen. Bitte klicken Sie auf den ursprünglichen Link oder versuchen Sie es später erneut.</string>
+    <string name="excerpt_summary_huangfan">Der Inhalt ist sensibel. Bitte klicken Sie zur Ansicht auf den Original-Link.</string>
+    <string name="excerpt_summary_link_bubble_tips">Tippen, um die Zusammenfassung in Notizen zu speichern</string>
     <string name="excerpted_to_note">Auszug in Notizen gespeichert</string>
     <string name="excerpting">Auszug erstellen…</string>
     <string name="expand_button_title">Erweitert</string>
@@ -549,6 +558,7 @@
     <string name="permlab_accessNote">Zugiff auf Notizen</string>
     <string name="pref_category_title_quick_func">Schnellfunktionen</string>
     <string name="pref_excerpt_link_float">Erinnerung zum Erstellen eines Auszugs erhalten, wenn eine URL kopiert wird</string>
+    <string name="pref_excerpt_summary_link_float">Jedes Mal beim Kopieren des Links wird in der Kurzzeichenleiste eine Erinnerung an die ausstehende Zusammenfassung angezeigt, klicken Sie darauf, um die Zusammenfassung zu extrahieren.</string>
     <string name="pref_permission_allowed">Gewährt</string>
     <string name="pref_permission_manage">Berechtigungsdetails</string>
     <string name="pref_permission_manage_key_contact">Zugriff auf Kontakte</string>
@@ -637,6 +647,7 @@
     <string name="setting_other">ANDERE</string>
     <string name="setting_privacy">Datenschutzerklärung</string>
     <string name="single_link_excerpt_saving">Elemente speichern…</string>
+    <string name="single_link_excerpt_summary_saving">Zusammenfassende Liste erstellen</string>
     <string name="single_new_excerpt_title">Auszüge</string>
     <string name="snippet_audio_stub">Sprachnotiz</string>
     <string name="snippet_image_stub">Bildnotiz</string>
@@ -743,6 +754,8 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
+    <string name="to_be_read_bubble_tips">Kopierter Link und Text extrahieren die Kurzfassung direkt in die Notizen.</string>
+    <string name="to_be_read_link_bubble_tips">Tippen, um die Zusammenfassung in Notizen zu speichern</string>
     <string name="to_view_alarm_content">Tippen zum Anzeigen</string>
     <string name="toast_cancel_to_insert_image">Bild wurde nicht hinzugefügt</string>
     <string name="toast_excerpt_end">Auszug erfolgreich erstellt</string>
@@ -766,6 +779,8 @@
     <string name="toast_refuse_to_use_photos_in_excerpt">Dieser App den Zugriff auf Ihre Fotos erlauben, um Bilder zu Notizen hinzuzufügen</string>
     <string name="toast_refuse_to_use_record_audio">Mikrofonrechte sind eingeschränkt.\nErlauben Sie Notizen, Audio aufzunehmen.</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Notizen den Speicherzugriff erlauben, um Bilder zu Notizen hinzuzufügen</string>
+    <string name="toast_show_no_network">Bitte Netzwerkverbindung herstellen und erneut versuchen.</string>
+    <string name="toast_show_xiaomi_account">Melden Sie sich an Ihrem Xiaomi-Konto an und versuchen Sie es erneut.</string>
     <string name="today">Heute</string>
     <string name="todo_alert_title_delete">Erledigte Aufgaben löschen</string>
     <string name="todo_audio_default_content">"[Sprachaufgabe] "</string>
