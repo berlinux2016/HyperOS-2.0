@@ -103,6 +103,7 @@
     <string name="HIPS_Perm_use_sip">Videodienste</string>
     <string name="HIPS_Perm_use_sip_Desc">Session Initiation Protocol zum Streamen von Videos verwenden</string>
     <string name="HIPS_Perm_write_clipboard">Apps erlauben, Elemente in der Zwischenablage zu speichern</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Apps erlauben, Elemente in der Zwischenablage zu speichern</string>
     <string name="HIPS_SecurityPrompt_Reject">Verweigern (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Never">Ablehnen und nicht erneut fragen (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Einmal verweigern (%d)</string>

@@ -319,6 +319,8 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="download_unable_tip">Element wurde nicht heruntergeladen</string>
     <string name="download_video">Video herunterladen</string>
     <string name="downloading">Herunterladen…</string>
+    <string name="draw_ad_button_click_text">Schütteln oder Tippen zum Öffnen</string>
+    <string name="draw_ad_button_slide_text">Schieben für Details</string>
     <string name="early_morning">Morgen</string>
     <string name="empty_channels">Kanäle verwalten</string>
     <string name="eras_ad">n. Chr.</string>
@@ -387,14 +389,10 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="fcm_push_title">Beliebte Videos</string>
     <string name="feedback_contact_empty">Geben Sie Ihre Kontaktdaten ein</string>
     <string name="feedback_contact_title">Kontaktdaten</string>
-    <string name="feedback_detail_input_hint">Nachricht eingeben</string>
-    <string name="feedback_hint">Beschreiben Sie das aufgetretene Problem.</string>
     <string name="feedback_hint_contact">Telefon/QQ/E-Mail</string>
     <string name="feedback_hint_text">Beschreiben Sie das aufgetretene Problem.</string>
-    <string name="feedback_input_tip">Hier können Sie Probleme beschreiben oder Vorschläge machen.</string>
     <string name="feedback_net_error">Senden fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="feedback_sent">Senden</string>
-    <string name="feedback_success">Erfolgreich gesendet</string>
     <string name="feedback_success_toast">Erfolgreich gesendet. Danke für Ihr Feedback!</string>
     <string name="feedback_tag_title">Kategorie</string>
     <string name="feedback_text_empty_toast">Zuerst Feedback eingeben.</string>
@@ -619,7 +617,6 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="inline_mute_click_tip">Zum Aufheben der Stummschaltung tippen</string>
     <string name="input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
     <string name="input_new_pwd">Neues Passwort eingeben</string>
-    <string name="input_size_tips_new">Sie können bis zu %d Zeichen eingeben</string>
     <string name="isornot_your_mi_account">Ist das Ihr Xiaomi-Konto?</string>
     <string name="item_card_all_replies">Alle Antworten</string>
     <string name="item_card_more_trailers">Mehr Trailer</string>
@@ -718,7 +715,6 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="local_zoom_adjust_button">Anzeigemodus umschalten</string>
     <string name="lock_screen">Bildschirm sperren</string>
     <string name="login">Anmelden</string>
-    <string name="login_tip">Anmelden, um unsere Antworten auf Ihr Feedback zu erhalten</string>
     <string name="logo_neverthink">Kuratiert von Neverthink.tv</string>
     <string name="logout">Abmelden</string>
     <string name="logout_account">Abmelden</string>
@@ -944,7 +940,6 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="music_new_user_dialog_got_it">Verstanden</string>
     <string name="music_new_user_dialog_tip">Willkommen bei Mi Video! Diese App bietet einen lokalen Video-Player sowie Online-Musik- und -Video-Streaming-Dienste.</string>
     <string name="my_favorite_channels">Meine Kanäle</string>
-    <string name="my_feedback_title">Mein Feedback</string>
     <string name="native_body">Körper</string>
     <string name="native_headline">Überschrift</string>
     <string name="native_media_view">Medienansicht</string>
@@ -1138,6 +1133,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="photoPickerNotFoundText">Keine Fotos verfügbar</string>
     <string name="pip_not_supported_toast">Aktualisieren Sie auf die neueste Systemversion, um Bild-in-Bild zu verwenden.</string>
     <string name="play_at_normal_speed">Mit 1X-Geschwindigkeit abspielen</string>
+    <string name="play_at_speed">Mit %.1fX-Geschwindigkeit abspielen</string>
     <string name="play_list_save_dialog_create">Wiedergabeliste erstellen</string>
     <string name="play_list_save_dialog_title">Zur Wiedergabeliste hinzufügen</string>
     <string name="play_list_sign_in_dialog_message">Mit Ihrem Google-Konto anmelden, um alle Ihre Wiedergabelisten anzuzeigen.</string>
@@ -1438,7 +1434,6 @@ Es zeigt nichts an."</string>
     <string name="start_download_tip">Zur Warteschlange hinzugefügt. Fortschritt prüfen unter Profil &gt; Downloads.</string>
     <string name="storage_external_sdcard">SD-Karte</string>
     <string name="storage_internal_sdcard">Interner Speicher</string>
-    <string name="submit">Einreichen</string>
     <string name="subscribe">ABONNIEREN</string>
     <string name="subscribe_author_recommend_btn">Abonnieren</string>
     <string name="subscribe_author_recommend_title">Abonnieren Sie die neuesten Videos von diesen Autoren</string>
@@ -1579,7 +1574,6 @@ Es zeigt nichts an."</string>
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Diese Prämie ist derzeit nicht verfügbar. Später erneut versuchen.</string>
     <string name="toast_m3u8_download_path_tip">Download-Pfad kann für Inhalte im m3u8-Format nicht geändert werden</string>
     <string name="toast_play_error_tip">Diese Datei kann nicht abgespielt werden.</string>
-    <string name="toast_request_too_frequently">Nicht so schnell!</string>
     <string name="toast_share_failed">Teilen fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="today">Heute</string>
     <string name="tomorrow">Morgen</string>
@@ -1668,9 +1662,6 @@ Es zeigt nichts an."</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
-    <string name="type_content">Inhalt</string>
-    <string name="type_issue">Problem</string>
-    <string name="type_suggestion">Empfehlung</string>
     <string name="ugc_no_net">Netzwerkverbindung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="ui_common_title_back">Zurück</string>
     <string name="unknow">Unbekannt</string>

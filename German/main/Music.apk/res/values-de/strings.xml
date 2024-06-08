@@ -124,8 +124,21 @@
     <string name="artist_is_empty">Name Interpret darf nicht leer sein</string>
     <string name="artist_name">Interpret</string>
     <string name="artist_news">Nachrichten</string>
+    <string name="asm_account_exception">Ein Kontofehler ist aufgetreten</string>
     <string name="asm_batch_download_failed">Herunterladen fehlgeschlagen</string>
     <string name="asm_buy_member_success">VIP-Mitgliedschaft erfolgreich erworben</string>
+    <string name="asm_check_video_playing">Video wird abgespielt. Element kann nicht zur Wiedergabeliste hinzugefügt werden.</string>
+    <string name="asm_delete_all">Löschn</string>
+    <string name="asm_delete_all_data">Alle Daten löschen</string>
+    <string name="asm_delete_all_data_failed">Daten wurden nicht gelöscht. Erneut versuchen.</string>
+    <string name="asm_delete_all_data_loading">Einen Moment…</string>
+    <string name="asm_delete_all_data_no_net">Netzwerkverbindung erforderlich, um Ihre Identität zu prüfen und Daten zu löschen. Mit Netzwerk verbinden und erneut versuchen.</string>
+    <string name="asm_delete_all_data_success">Daten erfolgreich gelöscht</string>
+    <string name="asm_delete_all_data_tips">„Wenn Sie fortfahren, werden alle App-Daten gelöscht, einschl. Titel, Wiedergabelisten und Browserverlauf.
+Alle Mitgliedsvorteile und bezahlten Titel werden gelöscht. Sie erhalten keine Rückerstattung für bestehende Mitgliedschaften, aber es werden Ihnen auch keine weiteren Kosten berechnet.
+Wenn Sie sich für die dauerhafte Löschung aller Daten entscheiden, werden Sie von der App abgemeldet. Alle Daten jetzt löschen?"</string>
+    <string name="asm_delete_data">Daten löschen</string>
+    <string name="asm_delete_data_local_and_online">Offline- und Streaming-Dienstdaten löschen</string>
     <string name="asm_dialog_title_tips">VIP-Mitgliedschaft</string>
     <string name="asm_dialog_vip_confirm_text">Beitreten</string>
     <string name="asm_dialog_vip_message">Melden Sie sich für eine VIP-Mitgliedschaft an, um hochwertige Titel zu hören und noch mehr Inhalte herunterzuladen.</string>
@@ -1200,6 +1213,7 @@
     <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
     <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>
     <string name="passport_talkback_voice_captcha">Sprachverifizierungscode abspielen</string>
+    <string name="passport_third_sns_service_unavailable">Dienst nicht verfügbar. Stellen Sie sicher, dass die App installiert und nicht blockiert ist.</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_to_forget_password">Passwort vergessen?</string>
     <string name="passport_to_password_login">Mit Passwort anmelden</string>
@@ -1299,7 +1313,7 @@
     <string name="privacy_desc">Datenschutzerklärung (obligatorisch)</string>
     <string name="privacy_policy">Datenschutzerklärung</string>
     <string name="privacy_policy_title_asm">Eine Welt voller Musik auf Knopfdruck</string>
-    <string name="privacy_request_desc">&lt;Data>Mi Music muss notwendige personenbezogene Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.&lt;/Data></string>
+    <string name="privacy_request_desc"><Data>Mi Music muss notwendige personenbezogene Daten sammeln, um Ihnen Online-Streaming-Dienste anzubieten. Wie wir mit den gesammelten Daten umgehen, erfahren Sie in unserer &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>. Sie können Ihre Zustimmung zur Mi Music Datenschutzerklärung jederzeit in den Einstellungen zurückziehen. \nLesen und akzeptieren Sie unsere &lt;a href=\"%2$s\">Nutzervereinbarung &lt;/a> und &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a>, bevor Sie Mi Music nutzen. \nWenn Sie mit der Nutzung der oben genannten Dienste nicht einverstanden sind, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung.</Data></string>
     <string name="privacy_request_subtitle">Willkommen bei Mi Music! Diese App bietet die folgenden Dienste: \n- Ein lokaler Audioplayer \n- Online-Streaming-Dienste</string>
     <string name="privacy_request_subtitle_offline">Willkommen bei Mi Music! Diese App bietet einen lokalen Player für Audiodateien.</string>
     <string name="privacy_request_title">Allgemeine Geschäftsbedingungen</string>
@@ -1310,10 +1324,10 @@
     <string name="pulluprefreshrecyclerview_loading_finished">Erfolgreich geladen</string>
     <string name="pulluprefreshrecyclerview_loading_running">Laden…</string>
     <string name="queue_is_empty">Warteschlange ist leer</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Lesen und akzeptieren Sie die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Datenschutzerklärung&lt;/a>&lt;/font>, um Online-Musikdienste zu nutzen.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.&lt;/Data></string>
+    <string name="read_and_agree_asm_protocol"><Data>Lesen und akzeptieren Sie die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Datenschutzerklärung&lt;/a>&lt;/font>, um Online-Musikdienste zu nutzen.</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Ich habe die &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>Ich habe die Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a>&lt;/font> und &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font> gelesen und akzeptiert.</Data></string>
     <string name="read_and_agree_protocol">Lesen und akzeptieren Sie unsere Nutzervereinbarung und Datenschutzerklärung, bevor Sie fortfahren.</string>
     <string name="ready_to_play">Als nächstes</string>
     <string name="recently_played">Zuletzt abgespielt</string>
@@ -1812,4 +1826,5 @@
     <string name="youtube_tab_popular">Beliebt</string>
     <string name="youtube_tab_shorts">Kurzvideos</string>
     <string name="youtube_tab_trend">Trends</string>
+    <string name="ytb_turn_on_sound">Tippen, um den Ton einzuschalten</string>
 </resources>

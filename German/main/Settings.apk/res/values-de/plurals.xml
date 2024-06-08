@@ -81,12 +81,20 @@
         <item quantity="other">Eingeschränkte Verbindung für %s Apps</item>
         <item quantity="one">Eingeschränkte Verbindung für %s App</item>
     </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Änderungen werden in %d Sek angewendet</item>
+        <item quantity="one">Änderungen werden in %d Sek angewendet</item>
+    </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d Personen verbunden</item>
         <item quantity="one">%1$d Person verbunden</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
+    </plurals>
+    <plurals name="hom_info">
+        <item quantity="other">%d Sek warten und erneut versuchen</item>
+        <item quantity="one">%d Sek warten und erneut versuchen</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In 1 Stunde</item>

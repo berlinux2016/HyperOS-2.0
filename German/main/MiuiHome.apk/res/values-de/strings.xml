@@ -295,6 +295,7 @@
     <string name="gadget_search_label">Suchen</string>
     <string name="gadget_weather_title">Wetter</string>
     <string name="global_search">Suchen</string>
+    <string name="global_shelf">App-Sucher</string>
     <string name="got_it_botton">Verstanden</string>
     <string name="guide_install_app_msg">Diese App ist nicht installiert. Jetzt suchen und installieren?</string>
     <string name="guide_install_app_title">App suchen und installieren?</string>
@@ -303,6 +304,7 @@
     <string name="hide_apps_title">App-Symbole ausblenden</string>
     <string name="home_gesture_content_center">Inhaltszentrum</string>
     <string name="home_gesture_global_search">Suchen</string>
+    <string name="home_gesture_global_shelf">App-Sucher</string>
     <string name="home_gesture_no_action">Nichts</string>
     <string name="home_gesture_notification_and_control_center">Benachrichtigungsleiste und Kontrollzentrum</string>
     <string name="home_gesture_notification_bar">Benachrichtigungen</string>
@@ -325,7 +327,7 @@
     <string name="international_home_pull_down_sub_content">Sie können diese Geste ändern, um stattdessen das Kontrollzentrum zu öffnen: Einstellungen > Startbildschirm > Auf Startbildschirm herunterwischen.</string>
     <string name="international_home_pull_down_up_btn_get">Verstanden</string>
     <string name="international_home_pull_up_content">Auf Startbildschirm hochwischen, um das Inhaltszentrum zu öffnen.</string>
-    <string name="international_home_pull_up_sub_content">Zum Öffnen der Suche von der Mitte des Startbildschirms herunterwischen.</string>
+    <string name="international_home_pull_up_sub_content">Um Apps und App-Vorschläge zu finden, wischen Sie von der Mitte Ihres Startbildschirms nach unten.</string>
     <string name="jeejen_description">Größere UI-Elemente.\nBesser zugängliches Telefonieren.\nErhöhte Sicherheit.</string>
     <string name="key_shortcut_settings_title">Tastenkürzel</string>
     <string name="keyguard_multi_window_tip">Diese Seite kann nur im Vollbildmodus angezeigt werden</string>

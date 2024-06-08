@@ -1887,10 +1887,21 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="camera_gesture_title">Doppeldrehung, um Kamera zu starten</string>
     <string name="camera_grip_firmware_need_update">Aktualisieren</string>
     <string name="camera_grip_firmware_new_version">Aktuell</string>
+    <string name="camera_grip_firmware_save_button_know">Verstanden</string>
+    <string name="camera_grip_firmware_save_button_negaitive">Jetzt nicht</string>
+    <string name="camera_grip_firmware_save_button_positive">Aktualisieren</string>
+    <string name="camera_grip_firmware_save_channel">Benachrichtigungen Kameragriff</string>
+    <string name="camera_grip_firmware_save_networking_tips">Mit WLAN verbinden oder mobile Daten einschalten und erneut versuchen, die Firmware zu aktualisieren</string>
+    <string name="camera_grip_firmware_save_networking_tips_china">Mit WLAN verbinden oder mobile Daten einschalten und erneut versuchen, die Firmware zu aktualisieren.</string>
+    <string name="camera_grip_firmware_save_text">Firmware aktualisieren, um dieses Gerät weiter zu verwenden</string>
+    <string name="camera_grip_firmware_save_title">Professioneller Kameragriff</string>
     <string name="camera_grip_firmware_title_text">Firmware aktualisieren</string>
     <string name="camera_grip_firmware_update_describe">Halten Sie den Griff während des Aktualisierungsvorgangs verbunden</string>
     <string name="camera_grip_firmware_update_faild">Aktualisieren fehlgeschlagen</string>
+    <string name="camera_grip_firmware_update_handle_low_battery_notify">Entfernen Sie den Kameragriff, laden Sie das Gerät und versuchen Sie dann erneut, die Firmware zu aktualisieren</string>
+    <string name="camera_grip_firmware_update_handle_phone_low_battery_notify">Laden Sie dieses Gerät und Ihren Kameragriff auf, bevor Sie die Firmware aktualisieren</string>
     <string name="camera_grip_firmware_update_ongoing">Aktualisieren. Griff nicht trennen.</string>
+    <string name="camera_grip_firmware_update_phone_low_battery_notify">Schließen Sie das Ladegerät an dieses Gerät an und versuchen Sie erneut, die Firmware zu aktualisieren</string>
     <string name="camera_grip_firmware_update_successful">Erfolgreich aktualisiert</string>
     <string name="camera_key_action_app_title">App öffnen</string>
     <string name="camera_key_action_category_title">Kamera kann nicht verwendet werden</string>
@@ -3699,6 +3710,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gesture_title_switch_apps">Apps wechseln</string>
     <string name="gesture_to_split_screen">Gesten</string>
     <string name="gesture_wakeup_summary">Sie können den Bildschirm durch Doppeltipp nur dann ausschalten, wenn vorinstallierte Themen angewendet werden</string>
+    <string name="gesture_wakeup_summary_2">Sie können den Bildschirm durch Doppeltipp nur dann ausschalten, wenn Sie das Thema \"Klassisch\" verwenden</string>
     <string name="gesture_wakeup_title">Doppeltipp, zum Ein-/Ausschalten des Bildschirms bei gesperrtem Gerät</string>
     <string name="global_change_warning">Diese Einstellung betrifft alle Benutzer dieses Telefons</string>
     <string name="global_locale_change_title">Sprache ändern</string>
@@ -3937,6 +3949,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="history_details_title">Verlaufsdetails</string>
     <string name="history_toggled_on_summary">Hier erscheinen Ihre letzten und schlummernden Benachrichtigungen</string>
     <string name="history_toggled_on_title">Keine aktuellen Benachrichtigungen</string>
+    <string name="hom_switch_summary">Einschalten, um 1024QAM-Modulation hoher Ordnung für Tests zu verwenden. Diese Funktion kann die Netzwerknutzung beeinträchtigen.</string>
+    <string name="hom_switch_title">Modulation hoher Ordnung</string>
     <string name="home">Einstellungen Startbildschirm</string>
     <string name="home_app_uninstall_button">Diese App entfernen</string>
     <string name="home_title">Startbildschirm</string>
@@ -6246,6 +6260,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="photography_handle_button_function_settings">Grifftaste einrichten</string>
     <string name="photography_handle_charge_protected">Laden aut. trennen bei Griff</string>
     <string name="photography_handle_charge_protected_summary">Wenn Ihr Gerät erkennt, dass Sie einen Kameragriff verwenden, beendet das Gerät den Ladevorgang und hält den Akku auf %1$s</string>
+    <string name="photography_handle_charge_state">Aufladen über Kameragriffe</string>
+    <string name="photography_handle_charge_state_summary">Dieses Gerät über die Kameragriffe aufladen, wenn sie angeschlossen sind</string>
     <string name="photography_handle_launch_and_take_photo">Foto machen</string>
     <string name="photography_handle_launch_camera">Kamera öffnen</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Auslöser gedrückt halten, um eine Aktion auszuführen</string>
@@ -6900,6 +6916,8 @@ App-Daten gehen nicht verloren."</string>
     <string name="safety_center_summary">App-Sicherheit, Gerätesperre, Rechte</string>
     <string name="safety_center_title">Sicherheit &amp; Datenschutz</string>
     <string name="sar">RF-Belastungsinformation</string>
+    <string name="satellite_call_assistant">Anrufeinstellungen</string>
+    <string name="satellite_network_title">Funktionen für Satellitenanrufe</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_first_day_of_week">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -7959,6 +7977,13 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="sort_order_frequent_notification">Häufigste</string>
     <string name="sort_order_recent_notification">Letzte</string>
     <string name="sort_order_size">Nach Größe sortieren</string>
+    <string name="sos_add_area_code_switch_summary">Automatisch die Vorwahl zu einer Telefonnummer hinzufügen, wenn ein Notruf mit Tiantong-Satellitenkommunikation getätigt wird</string>
+    <string name="sos_add_area_code_switch_title">Vorwahl automatisch hinzufügen</string>
+    <string name="sos_area_code_settings_hint">Vorwahl eingeben</string>
+    <string name="sos_area_code_settings_summary">Vorwahl der Telefonnummer Ihres Notfallkontakts manuell einstellen</string>
+    <string name="sos_area_code_settings_title">Vorwahl einstellen</string>
+    <string name="sos_navigation_guide_message">Zur Navigation die Taste Lautstärke runter drücken, dann die Taste Lautstärke hoch drücken und gedrückt halten, um die Auswahl zu bestätigen</string>
+    <string name="sos_navigation_guide_title">Lautstärketasten im Notruf-SOS-Modus</string>
     <string name="sos_phone_call_privacy_dialog_message">"Um Ihre Notfallkontakte anzurufen und SOS-Aufnahmen abzuspielen, benötigt diese App folgende Berechtigungen:
 • Telefonieren
 Für Anrufe bei Ihren Notfallkontakten
@@ -8018,6 +8043,12 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_policy_revoke_title_reject">Achtung</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Ein Serverfehler ist aufgetreten. Einen Momnet warten und erneut versuchen.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Zustimmung widerrufen fehlgeschlagen</string>
+    <string name="sos_satellite_dialog_message">Anscheinend sind in diesem Gebiet keine Mobilfunknetze verfügbar. Sie können jetzt nicht telefonieren oder Hilfe anfordern. Tiantong-Satellitenkommunikation jetzt einschalten?</string>
+    <string name="sos_satellite_dialog_title">Tiantong-Satellitenkommunikation einschalten</string>
+    <string name="sos_satellite_enabled_sms_message">"Ich bin in einer Notlage und brauche Hilfe.
+Mein Standort:
+%s
+Diese Nachricht wird über den Tiantong-Satelliten gesendet. Der Absender benötigt möglicherweise sofortige Hilfe."</string>
     <string name="sound_assist_key_summary">Ton für einzelne Apps anpassen, während mehrere Apps gleichzeitig Audio abspielen</string>
     <string name="sound_assist_key_title">Medienton in mehreren Apps anpassen</string>
     <string name="sound_assist_summary">Toneinstellungen anpassen</string>
