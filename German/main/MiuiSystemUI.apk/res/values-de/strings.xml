@@ -1322,9 +1322,15 @@ dd.MM."</string>
     <string name="qr_code_scanner_updating_secondary_label">Aktualisieren</string>
     <string name="qs_alarm_tile_no_alarm">Kein Wecker eingestellt</string>
     <string name="qs_bill_message_balance">%1$s %2$s verbleiben</string>
+    <string name="qs_control_big_tile_click_cellular_tether_tip">Zweitprofil beenden und erneut versuchen</string>
+    <string name="qs_control_big_tile_connect_share_network_fail">Mobile Datennetzverbindung nicht möglich. Einen Moment warten und erneut versuchen.</string>
+    <string name="qs_control_big_tile_state_closed">Aus</string>
     <string name="qs_control_big_tile_state_connected">Verbunden</string>
     <string name="qs_control_big_tile_state_connecting">Verbinden…</string>
     <string name="qs_control_big_tile_state_opening">Einschalten…</string>
+    <string name="qs_control_big_tile_state_tethered_wifi">WLAN-Signal des Telefons verwenden</string>
+    <string name="qs_control_big_tile_state_tethered_wlan">WLAN-Signal des Telefons verwenden</string>
+    <string name="qs_control_big_tile_state_unavailable">Nicht verfügbar</string>
     <string name="qs_customize_remove">Entfernen</string>
     <string name="qs_customize_title">Bearbeiten</string>
     <string name="qs_edit">Bearbeiten</string>
@@ -1368,6 +1374,8 @@ dd.MM."</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Ausschalten</string>
     <string name="quick_settings_cellular_detail_title">Mobile Daten</string>
     <string name="quick_settings_cellular_detail_unable_change">Einstellen während eines Anrufs nicht möglich</string>
+    <string name="quick_settings_cellular_state_change_message_connected">Mit mobilem Datennetz verbunden</string>
+    <string name="quick_settings_cellular_state_change_message_disconnected">Getrennt vom mobilen Datennetz</string>
     <string name="quick_settings_cellular_state_change_message_off">Mobile Daten sind aus</string>
     <string name="quick_settings_cellular_state_change_message_on">Mobile Daten sind an</string>
     <string name="quick_settings_color_correction_label">Farbkorrektur</string>
