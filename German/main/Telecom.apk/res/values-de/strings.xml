@@ -68,6 +68,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">Während eines Sprachanrufes kann kein Videoanruf erfolgen</string>
     <string name="can_not_dial_while_vt_prompt">Während eines laufenden Videoanrufs kann nicht gewählt werden</string>
     <string name="cancel">Abbrechen</string>
+    <string name="cant_call_due_to_dsdstransition_invalid_sub">Anruf kann nicht erfolgen, da das Konto derzeit nicht gültig ist</string>
     <string name="cant_call_due_to_no_supported_service">Telefonieren nicht möglich, weil es keine Anrufkonten gibt, die diese Anrufart unterstützen.</string>
     <string name="cant_call_due_to_ongoing_call">Wegen Ihres %1$s-Anrufs anrufen nicht möglich.</string>
     <string name="cant_call_due_to_ongoing_calls">Anruf nicht möglich. Beenden Sie Ihre %1$s-Anrufe zuerst.</string>

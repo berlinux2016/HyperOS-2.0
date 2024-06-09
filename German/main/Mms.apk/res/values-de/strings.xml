@@ -878,11 +878,6 @@
     <string name="rms_view_vedio_notsupport">Diese Datei kann nicht als Video gesendet werden</string>
     <string name="rsc_chatbot_back">Zurück</string>
     <string name="rsc_chatbot_detail">Herstellerinfo</string>
-    <string name="satellite_location_failed">Standort senden fehlgeschlagen. SMS ohne Standort gesendet.</string>
-    <string name="satellite_location_privacy"><Data>Tiantong Satellite muss auf Ihren Standort zugreifen, um SMS zu senden. Lesen und akzeptieren Sie unsere &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>&lt;/font>, bevor Sie fortfahren.</Data></string>
-    <string name="satellite_location_privacy_title">Standortzugriff</string>
-    <string name="satellite_message_notification_contact_end">(Über Satellit senden)</string>
-    <string name="satellite_sms_notification">Diese Nachricht wurde von Tiantong Satellite Services gesendet. Der Absender benötigt ggf. Ihre Hilfe.</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>

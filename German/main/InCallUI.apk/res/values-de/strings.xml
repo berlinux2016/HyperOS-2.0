@@ -59,6 +59,7 @@
     <string name="call_progress_info_user_busy">Der andere Teilnehmer ist gerade beschäftigt. Bitte rufen Sie später zurück.</string>
     <string name="call_progress_info_user_call_rejected">Ihre Nummer ist derzeit nicht erreichbar</string>
     <string name="call_record_wait_label">Warten</string>
+    <string name="call_recording">Anrufaufnahme läuft</string>
     <string name="call_recording_deny_permission_msg">Aufnahme nicht möglich. Erst in Einstellungen Berechtigungen gewähren.</string>
     <string name="call_recording_error_low_storage">Nicht genügend Speicher</string>
     <string name="call_recording_error_privacy">Im Gastmodus kann nicht aufgenommen werden</string>
@@ -325,7 +326,6 @@
     <string name="satellite_guide_searching_floating">Suchen…</string>
     <string name="satellite_guide_up">Gerät nach oben neigen, \num den Ball in den blauen Bereich zu bringen</string>
     <string name="satellite_incall_tip">Lautsprecher ist an</string>
-    <string name="satellite_satellite_accessory">Ich verwende Tiantong Satellitensignalverstärkungszubehör</string>
     <string name="satellite_state">Gerät nicht bewegen</string>
     <string name="satellite_state_auto_exit">Beenden (%ds)</string>
     <string name="satellite_state_connected">Mit Satellit verbunden. Gerät nicht bewegen.</string>

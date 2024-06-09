@@ -6916,8 +6916,6 @@ App-Daten gehen nicht verloren."</string>
     <string name="safety_center_summary">App-Sicherheit, Gerätesperre, Rechte</string>
     <string name="safety_center_title">Sicherheit &amp; Datenschutz</string>
     <string name="sar">RF-Belastungsinformation</string>
-    <string name="satellite_call_assistant">Anrufeinstellungen</string>
-    <string name="satellite_network_title">Funktionen für Satellitenanrufe</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_first_day_of_week">Samstag</string>
     <string name="saturday_short">Sa</string>
@@ -7977,7 +7975,6 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="sort_order_frequent_notification">Häufigste</string>
     <string name="sort_order_recent_notification">Letzte</string>
     <string name="sort_order_size">Nach Größe sortieren</string>
-    <string name="sos_add_area_code_switch_summary">Automatisch die Vorwahl zu einer Telefonnummer hinzufügen, wenn ein Notruf mit Tiantong-Satellitenkommunikation getätigt wird</string>
     <string name="sos_add_area_code_switch_title">Vorwahl automatisch hinzufügen</string>
     <string name="sos_area_code_settings_hint">Vorwahl eingeben</string>
     <string name="sos_area_code_settings_summary">Vorwahl der Telefonnummer Ihres Notfallkontakts manuell einstellen</string>
@@ -8043,12 +8040,6 @@ Bevor Sie unsere Dienste nutzen, lesen und akzeptieren Sie unsere %s."</string>
     <string name="sos_privacy_policy_revoke_title_reject">Achtung</string>
     <string name="sos_privacy_revoke_failed_dialog_content">Ein Serverfehler ist aufgetreten. Einen Momnet warten und erneut versuchen.</string>
     <string name="sos_privacy_revoke_failed_dialog_title">Zustimmung widerrufen fehlgeschlagen</string>
-    <string name="sos_satellite_dialog_message">Anscheinend sind in diesem Gebiet keine Mobilfunknetze verfügbar. Sie können jetzt nicht telefonieren oder Hilfe anfordern. Tiantong-Satellitenkommunikation jetzt einschalten?</string>
-    <string name="sos_satellite_dialog_title">Tiantong-Satellitenkommunikation einschalten</string>
-    <string name="sos_satellite_enabled_sms_message">"Ich bin in einer Notlage und brauche Hilfe.
-Mein Standort:
-%s
-Diese Nachricht wird über den Tiantong-Satelliten gesendet. Der Absender benötigt möglicherweise sofortige Hilfe."</string>
     <string name="sound_assist_key_summary">Ton für einzelne Apps anpassen, während mehrere Apps gleichzeitig Audio abspielen</string>
     <string name="sound_assist_key_title">Medienton in mehreren Apps anpassen</string>
     <string name="sound_assist_summary">Toneinstellungen anpassen</string>

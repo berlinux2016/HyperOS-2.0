@@ -1284,6 +1284,8 @@
     <string name="networks_title">Mobilfunknetze</string>
     <string name="newPin2Label">Neue PIN2</string>
     <string name="newPinLabel">Neue PIN</string>
+    <string name="new_arrears_sim_summary">Ihr SIM-Karten-Guthaben ist ggf. unzureichend oder unterliegt Netzbeschränkungen. Wenden Sie sich für weitere Infos an Ihren Anbieter.</string>
+    <string name="new_arrears_sim_title">Internetverbindung nicht möglich</string>
     <string name="new_password_label">Neues %d-stelliges Passwort</string>
     <string name="new_pin2_label">Neue PIN%d</string>
     <string name="new_pin_label">Neue PIN</string>
@@ -1732,11 +1734,6 @@
     <string name="sat_location">Sat-Standort:</string>
     <string name="sat_sub_id">Sub-Id:</string>
     <string name="sat_version">Modemversion:</string>
-    <string name="satellite_findout_settings_title">Tiantong-Satellit ermitteln</string>
-    <string name="satellite_mobile_settings_summary">Wird nur von China Telecom SIM-Karten unterstützt</string>
-    <string name="satellite_mobile_settings_title">Satellit öffnen</string>
-    <string name="satellite_select_enable_sim">SIM-Karte wählen</string>
-    <string name="satellite_tiantong_setting">Tiantong-Satellit</string>
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
@@ -1748,6 +1745,10 @@
     <string name="select_apn_list_title">SIM %1$s-Dienst</string>
     <string name="select_automatically">Automatisch Netzwerk wählen</string>
     <string name="select_dds_dialog_title">Standard-SIM für mobile Daten auswählen</string>
+    <string name="select_one_sim_title">Nur SIM %1$d verwendbar</string>
+    <string name="select_one_sim_title_for_heduohao">Nur SIM %1$d Sub %2$d verwendbar</string>
+    <string name="select_sim_hint">SIM %2$d nicht verwendbar, während SIM %1$d in Gebrauch ist</string>
+    <string name="select_sim_hint_for_heduohao">Nicht verwendbar, während SIM %1$d Sub %2$d in Gebrauch ist</string>
     <string name="select_voice_call_sim">SIM wählen</string>
     <string name="send">Senden</string>
     <string name="send_button">Senden</string>
