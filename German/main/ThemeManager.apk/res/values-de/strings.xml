@@ -536,6 +536,7 @@
     <string name="local_mode">Offline-Modus</string>
     <string name="local_mode_close">Offline-Modus ausschalten?</string>
     <string name="local_mode_close_desc">Offline-Modus ausschalten, wenn Sie Online-Dienste nutzen möchten.Jetzt ausschalten?</string>
+    <string name="local_mode_close_tip">Für die Einstellung dieses Hintergrunds ist eine Internetverbindung erforderlich. Wenn Sie den Internetdienst nutzen möchten, müssen Sie den lokalen Modus deaktivieren. Soll er ausgeschaltet werden?</string>
     <string name="local_mode_desc">Offline-Modus verwendet nur lokale Inhalte und nutzt keine Online-Dienste</string>
     <string name="local_mode_hint">Sie verwenden den Offline-Modus.\nTippen zum Ausschalten.</string>
     <string name="local_mode_open">Offline-Modus</string>

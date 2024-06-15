@@ -291,12 +291,14 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
+    <string name="update_notification_info">Datenaktualisierung im Hintergrund…</string>
     <string name="updated_a_moment_ago">Gerade eben aktualisiert</string>
     <string name="view_forecast_item_yesterday">Gestern</string>
     <string name="view_indexes_item_today">Heute</string>
     <string name="view_indexes_item_tommorrow">Morgen</string>
     <string name="wait_for_wlan_china">Auf WLAN warten</string>
     <string name="weather_main_aqi_desc">LQI</string>
+    <string name="weather_service_channel_name">Hintergrunddienste</string>
     <string name="wednesday">Mittwoch</string>
     <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
