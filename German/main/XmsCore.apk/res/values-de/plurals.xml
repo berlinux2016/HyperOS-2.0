@@ -29,10 +29,6 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
-    <plurals name="aqi_all_city_cur_num">
-        <item quantity="other">Durchschnittlich %1$s Stationen</item>
-        <item quantity="one">Durchschnittlich %1$s Station</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
@@ -59,9 +55,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Löschen</item>
-        <item quantity="one">Löschen</item>
     </plurals>
 </resources>

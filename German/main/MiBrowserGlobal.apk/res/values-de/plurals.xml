@@ -74,6 +74,30 @@
         <item quantity="other">Zurückspulen %d Sek</item>
         <item quantity="one">Zurückspulen %d Sek</item>
     </plurals>
+    <plurals name="festival_game_task_gifts">
+        <item quantity="other">verdienen Sie %2$d Geschenkboxen</item>
+        <item quantity="one">verdienen Sie %2$d Geschenkbox</item>
+    </plurals>
+    <plurals name="festival_game_task_tips">
+        <item quantity="other">Spielen Sie %1$d-mal, %2$s</item>
+        <item quantity="one">Spielen Sie %1$d-mal, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_second_task_tips">
+        <item quantity="other">Durchsuchen Sie für %1$d Sek, %2$s</item>
+        <item quantity="one">Durchsuchen Sie für %1$d Sek, %2$s</item>
+    </plurals>
+    <plurals name="festival_news_task_gifts">
+        <item quantity="other">verdienen Sie %2$d Geschenkboxen</item>
+        <item quantity="one">verdienen Sie %2$d Geschenkbox</item>
+    </plurals>
+    <plurals name="festival_news_task_tips">
+        <item quantity="other">Durchsuchen Sie für %1$d Min, %2$s</item>
+        <item quantity="one">Durchsuchen Sie für %1$d Min, %2$s</item>
+    </plurals>
+    <plurals name="festival_task_finish">
+        <item quantity="other">Glückwunsch! Sie haben %d Geschenkboxen verdient.</item>
+        <item quantity="one">Glückwunsch! Sie haben %d Geschenkbox verdient.</item>
+    </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d Elemente</item>
         <item quantity="one">%1$d Element</item>

@@ -23,10 +23,6 @@
         <item>Unterschwellige Werbung</item>
         <item>Das gefällt mir nicht</item>
     </string-array>
-    <string-array name="passport_account_user_gender_name">
-        <item>Männlich</item>
-        <item>Weiblich</item>
-    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Zurück/Vorwärts</item>
         <item>Tabs wechseln</item>

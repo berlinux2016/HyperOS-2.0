@@ -36,7 +36,7 @@
     <string name="anti_flicker_mode">Anti-Flimmer</string>
     <string name="anti_flicker_mode_categroy">Modus</string>
     <string name="anti_flicker_mode_summary">Ausgedehntes Flimmern verhindern und die Belastung der Augen bei schlechten Lichtverhältnissen reduzieren</string>
-    <string name="anti_flicker_mode_summary_new">DC-Dimming bei schwachem Licht zur Verringerung der Augenbelastung verwenden</string>
+    <string name="anti_flicker_mode_summary_new">DC Dimming bei schwachem Licht zur Verringerung der Augenbelastung verwenden</string>
     <string name="anti_flicker_title">Anti-Flimmer-Modus</string>
     <string name="app_use">App-Bildschirmzeit</string>
     <string name="application_sound">App-Benachrichtigungen</string>
@@ -97,6 +97,7 @@
     <string name="control_center_title">Bildschirmzeit heute</string>
     <string name="control_center_title_new">Heute genutzt</string>
     <string name="copy">Kopieren</string>
+    <string name="crazy_mode">Ultra-Modus</string>
     <string name="create">Erstellen</string>
     <string name="create_failed">Erstellen fehlgeschlagen</string>
     <string name="create_shortcut">Startbildschirm-Verknüpfung</string>
@@ -215,7 +216,8 @@
     <string name="focus_time_exception_tip">Anscheinend hat sich die Systemzeit geändert. Fokusmodus wurde ausgeschaltet.</string>
     <string name="follow_apps_settings">Basierend auf App-Einstellungen</string>
     <string name="follow_sim1">Einstellungen SIM1 übernehmen</string>
-    <string name="footer_global_fps">"\n%1$d. Wenn Sie den Leistungsmodus aktivieren, wird die Bildwiederholrate auf das Systemmaximum von %2$d Hz umgestellt. Einstellungen für Apps mit hoher Bildwiederholrate sind dann vorübergehend nicht verfügbar."</string>
+    <string name="footer_global_fps">\n%1$d. Wenn Sie den Leistungsmodus aktivieren, wird die Bildwiederholrate auf das Systemmaximum von %2$d Hz umgestellt. Einstellungen für Apps mit hoher Bildwiederholrate sind dann vorübergehend nicht verfügbar.</string>
+    <string name="footer_global_fps_new">\n%1$d. %2$s erhöht die Aktualisierungsrate auf das Systemmaximum von %3$d Hz. Hohe Aktualisierungsrate-Einstellungen für Apps sind vorübergehend nicht verfügbar.</string>
     <string name="footer_max_fps" formatted="false">\n%d. Bildwiederholrate kann für unterstützte Apps und Spiele auf bis zu %s Hz eingestellt werden.</string>
     <string name="force_rest">Sitzungspausen nutzen</string>
     <string name="force_rest_summary">Zwangspausen einlegen, wenn Sitzungen das festgelegte Limit erreichen</string>
@@ -428,6 +430,7 @@
     <string name="p3_color_region_summary">Alle Bildschirminhalte im P3-Farbraum anzeigen</string>
     <string name="pallas_s_cat">Manul</string>
     <string name="parasitic_jaeger">Schmarotzerraubmöwe</string>
+    <string name="performance_mode">Leistungsmodus</string>
     <string name="personality_hint_ringtone">Personalisierte Töne</string>
     <string name="petaurus_breviceps">Kurzkopfgleitbeutler</string>
     <string name="phoebastria_irrorata">Galapagosalbatros</string>
@@ -476,9 +479,11 @@
     <string name="sea_eagle_info">Seeadler sind mächtige Spitzenraubtiere und opportunistische Aasfresser, die gewöhnlich in der Nähe großer offener Gewässer leben.</string>
     <string name="sea_otter">Seeotter</string>
     <string name="seal_info">Robben sind Meeressäuger, die sich in tiefen Gewässern schnell bewegen können und sich von Fischen und Krabben ernähren.</string>
+    <string name="search_anti_flicker_mode">DC Dimming</string>
     <string name="search_app_name">Nach Apps suchen</string>
     <string name="search_app_tips">Apps suchen</string>
     <string name="search_empty">Keine Apps gefunden</string>
+    <string name="search_low_flicker_mode">DC Dimming</string>
     <string name="search_menu_title">Suchen</string>
     <string name="send">Senden</string>
     <string name="service_ringtone_title">Dienstklingelton</string>
