@@ -60,4 +60,8 @@
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
+    <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">%d Muster ausgeführt</item>
+        <item quantity="one">%d Muster ausgeführt</item>
+    </plurals>
 </resources>

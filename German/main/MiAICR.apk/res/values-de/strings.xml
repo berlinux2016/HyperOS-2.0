@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AI_Customer_service_hotline">Kundendienst-Hotline: 400–100–5678</string>
     <string name="AI_diwbkiad_dekete_model">Modell löschen</string>
     <string name="AI_download_delete_message">Wenn Sie das Mi AI Image Creator-Modell löschen, können Sie seine Funktionen nicht mehr nutzen. Trotzdem löschen?</string>
     <string name="AI_download_delete_neg">Abbrechen</string>
@@ -222,6 +223,10 @@
     <string name="copywriting_scheduleToOpenCurtain_description">%1$s täglich zu einer bestimmten Zeit öffnen</string>
     <string name="copywriting_scheduleToOpenLightOther_description">%1$s-Licht täglich zu einer bestimmten Zeit einschalten</string>
     <string name="copywriting_scheduleToOpenLight_description">%1$s täglich zu einer bestimmten Zeit einschalten</string>
+    <string name="copywriting_scheduleToRegularCloseLightOther_description">Licht von %2$s jeden Tag um %1$s ausschalten</string>
+    <string name="copywriting_scheduleToRegularClose_description">%2$s jeden Tag um %1$s ausschalten</string>
+    <string name="copywriting_scheduleToRegularOpenLightOther_description">Licht von %2$s jeden Tag um %1$s einschalten</string>
+    <string name="copywriting_scheduleToRegularOpen_description">%2$s jeden Tag um %1$s einschalten</string>
     <string name="copywriting_turnDownVolume_description_hmind">Gerätelautstärke verringert</string>
     <string name="copywriting_turnDownVolume_description_island">Gerätelautstärke verringert</string>
     <string name="copywriting_vacuumGocharging_description_hmind">Staubsauger angedockt</string>
@@ -230,8 +235,13 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Für den Zugriff auf im Gerät gespeicherte frühere Standortdaten</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
+    <string name="download_cancel">Abbrechen</string>
     <string name="download_complete">Heruntergeladen</string>
+    <string name="download_done">Fertig</string>
+    <string name="download_notification_title">Verbessern Sie die Stabilität und optimieren Sie Ihr Erlebnis</string>
+    <string name="download_notification_update">Zum Aktualisieren tippen</string>
     <string name="download_paused">Fortsetzen</string>
+    <string name="download_process_content_wenshengtu_title">Mi AI Image Creator Modell herunterladen…</string>
     <string name="download_start">Herunterladen</string>
     <string name="download_updata">Aktualisieren</string>
     <string name="early_morning">Morgen</string>
