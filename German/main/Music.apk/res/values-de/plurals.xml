@@ -77,6 +77,10 @@ insgesamt %2$d Titel"</item>
         <item quantity="other">%1$d Titel zur Download-Warteschlange hinzugefügt</item>
         <item quantity="one">%1$d Titel zur Download-Warteschlange hinzugefügt</item>
     </plurals>
+    <plurals name="asm_download_tasks">
+        <item quantity="other">%d Downloads laufen</item>
+        <item quantity="one">%d Download läuft</item>
+    </plurals>
     <plurals name="asm_main_slide_songlist_num">
         <item quantity="other">%1$d Titel</item>
         <item quantity="one">%1$d Titel</item>

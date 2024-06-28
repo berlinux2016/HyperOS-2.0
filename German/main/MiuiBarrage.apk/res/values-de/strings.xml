@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">AUS</string>
+    <string name="abc_capital_on">AN</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Teilen mit</string>
+    <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
+    <string name="abc_toolbar_collapse_description">Einklappen</string>
+    <string name="actionbar_button_up_description">Zurück</string>
+    <string name="app_not_installed_tips">Bitte aktivieren Sie es nach der Installation der App</string>
+    <string name="barrage_app_name">Bullet-Screen-Benachrichtigung</string>
+    <string name="barrage_background_alpha_item_title">Deckkraft</string>
+    <string name="barrage_bubble_style_bg_edit_hide_bg_title">Hintergrund ausblenden</string>
+    <string name="barrage_bubble_style_title">Blasenstil</string>
+    <string name="barrage_enable_incall_reject_title">Sperrfeuer-Erinnerung, wenn ein Anruf abgewiesen wird</string>
+    <string name="barrage_enable_notification_blocked_title">Verfügbar, sobald die Benachrichtigung blockiert ist</string>
+    <string name="barrage_font_size_big">groß</string>
+    <string name="barrage_font_size_small">klein</string>
+    <string name="barrage_font_size_super_big">größer</string>
+    <string name="barrage_font_size_title">Schriftgröße</string>
+    <string name="barrage_plugin_description">Stellt einige Sperrfeuerfunktionen zur Verfügung, z. B. wird ein Sperrfeuer bei Doppel- oder Dreifachkills im Spiel ausgegeben</string>
+    <string name="barrage_plugin_name">Sperrfeuer</string>
+    <string name="barrage_plugin_send">Sperrfeuer senden</string>
+    <string name="barrage_plugin_send_content">Der Inhalt des Sperrfeuers ist</string>
+    <string name="barrage_quick_reply_title">Schnellantwort</string>
+    <string name="barrage_row_number">Zeilen</string>
+    <string name="barrage_sets_subtitle">Sperrfeuer-Set</string>
+    <string name="barrage_settings_title">Einstellungen</string>
+    <string name="barrage_show_area">Anzeigebereich</string>
+    <string name="barrage_speed_fast">schnell</string>
+    <string name="barrage_speed_size_super_fast">faster</string>
+    <string name="barrage_speed_slow">langsam</string>
+    <string name="barrage_speed_title">Geschwindigkeit</string>
+    <string name="barrage_switch_game_scene_title">Spielszene</string>
+    <string name="barrage_switch_video_scene_summary">"Unterstützt nur Tencent Video,
+iQiyi, Youku, Bilibili, Renren Video,
+Watermelon Video, Mango TV,
+Xiaomi Video"</string>
+    <string name="barrage_switch_video_scene_title">Videoszene</string>
+    <string name="barrage_uses_scene_subtitle">Nutzungsszenario</string>
+    <string name="bubble_style_custom_packages_text">Vorgesehene App</string>
+    <string name="bubble_style_random_text">Zufällig</string>
+    <string name="danmu_item_text_color_title">Schriftfarbe</string>
+    <string name="danmu_packagelist_title">Mit Bullet-Screen-Benachrichtigungen angewandte Apps</string>
+    <string name="danmu_preview">Wir haben auf Sie gewartet</string>
+    <string name="danmu_setting_header_title">Sperrfeuerschalter</string>
+    <string name="danmu_switch_title">Aktivieren</string>
+    <string name="danmu_tip">Tipps: Wenn [Benachrichtigungssperre] aktiviert ist, werden die Bullet-Screen-Benachrichtigung und die Banner-Benachrichtigung nicht angezeigt.</string>
+    <string name="permission_cancel">Abbrechen</string>
+    <string name="permission_dialog_title">Berechtigung erteilt</string>
+    <string name="permission_privacy_agreement"><Data>Bitte lesen und akzeptieren Sie unsere &lt;a href=\"http://bbs.blackshark.com/pages/protocol.html\">《Nutzervereinbarung》&lt;/a>und&lt;a href=\"http://bbs.blackshark.com/pages/privacy.html\">《Datenschutzerklärung》&lt;/a>. Verstehen Sie Ihre Benutzerrechte und die Verarbeitungsmethoden der entsprechenden Nutzungsdaten.</Data></string>
+    <string name="permission_summary">Wird verwendet, um Benachrichtigungen abzufangen und Ihnen die entsprechenden Sperrfeuer-Dienste zur Verfügung zu stellen</string>
+    <string name="permission_type_permission_detail">Benachrichtigungsinhalt lesen</string>
+    <string name="permission_type_permission_title">Erforderliche Berechtigungen (für grundlegende Dienste und Funktionen der App)</string>
+    <string name="permission_type_welcome">Wir werden folgende Berechtigungen von Ihnen anfordern:</string>
+    <string name="search_menu_title">Suche</string>
+    <string name="tip_pig_plugin_lab_game_scene_closed">Schalter für die Sperrfeuer-Spielszene ist nicht an</string>
+    <string name="toast_tips_notification_permisssion">Bitte drücken Sie lange auf die Taste, um zu den Sperrfeuer-Einstellungen zu gelangen und diese zu öffnen und zu autorisieren</string>
+    <string name="txt_scene_toast_tips">Bitte schalten Sie zuerst den Schalter für die Nutzungsszene ein</string>
+    <string name="txt_show_area_bottom">Unten</string>
+    <string name="txt_show_area_middle">Mitte</string>
+    <string name="warning_notification_use_permission">Bitte bestätigen Sie die Berechtigung für die Bullet-Screen-Benachrichtigung, sonst wird sie deaktiviert</string>
+</resources>
