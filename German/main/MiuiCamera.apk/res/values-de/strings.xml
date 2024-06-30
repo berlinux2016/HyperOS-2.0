@@ -1265,6 +1265,8 @@
     <string name="macro_mode_tip">Abstand zwischen dem Objektiv und dem Motiv sollte 10 cm nicht überschreiten</string>
     <string name="macro_mode_use_hint_text_body">Makro-Modus verwenden, um kleine Objekte\nauf Fotos größer aussehen zu lassen</string>
     <string name="macro_mode_use_hint_text_title">Makro</string>
+    <string name="main_back_default_focal">Standardbrennweite Hauptkamera</string>
+    <string name="makeup_effect_entry_dusk_night">Dunkelheit</string>
     <string name="makeup_effect_entry_palm">Palme</string>
     <string name="makeup_reset_toast">Make-up-Effekte erfolgreich gelöscht</string>
     <string name="manual">Manuell</string>
@@ -2503,6 +2505,8 @@
     <string name="time_lapse_error">Videogröße kann nicht für Zeitrafferaufnahme genutzt werden</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_stamp_date_format">dd.MM.yyyy</string>
+    <string name="time_stamp_date_format_minute">dd.MM.yyyy HH:mm</string>
+    <string name="time_stamp_simple_date_format">dd.MM.yyyy HH:mm:ss</string>
     <string name="timefreeze_guide_tip2">Sie können den Hintergrund jederzeit vor oder während der Aufnahme einfrieren und wieder lösen.</string>
     <string name="timefreeze_guide_tip3">Bitten Sie Ihr Motiv, in der Mitte des Bildes zu bleiben.</string>
     <string name="timefreeze_guide_tip4">Halten Sie den Verkehr an.</string>

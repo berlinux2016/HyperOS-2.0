@@ -619,6 +619,10 @@
     <string name="experience_improve">Benutzererfahrungsprogramm</string>
     <string name="exported">Exportiert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
+    <string name="external_app_leave_incognito_leave">Ausschalten</string>
+    <string name="external_app_leave_incognito_stay">Weiter so</string>
+    <string name="external_app_leave_incognito_warning">Diese Webseite versucht, Daten mit einer App außerhalb des Inkognito-Modus zu teilen. Jetzt ausschalten?</string>
+    <string name="external_app_leave_incognito_warning_title">Inkognito-Modus ausschalten?</string>
     <string name="fallback_menu_item_copy_link">Link kopieren</string>
     <string name="fallback_menu_item_open_in_browser">Im Browser öffnen</string>
     <string name="fallback_menu_item_share_link">Link teilen</string>
