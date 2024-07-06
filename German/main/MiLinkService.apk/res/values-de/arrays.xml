@@ -18,7 +18,7 @@
     <string-array name="settings_search_connection_service">
         <item>Xiaomi Interkonnektivität</item>
         <item>Interkonnektivität/Xiaomi Interkonnektivität</item>
-        <item>Xiaomi Interkonnektivitätsdienstem, Xiaomi Interconnect</item>
+        <item>Xiaomi Interkonnektivitätsdienste, Xiaomi Interkonnektivität</item>
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>App-Übergabe</item>
@@ -32,8 +32,18 @@
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Netzwerkassistent</item>
-        <item>Interkonnektivität/Netzwerkassistent</item>
-        <item>Netzwerkassistent, Tethering, Hotspot teilen</item>
+        <item>Interkonnektivität/Netzwerkassistenz</item>
+        <item>Netzwerkassistenz, Tethering, Hotspot teilen, drahtloses Tethering</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Drahtloses Tethering</item>
+        <item>Interkonnektivität/ Drahtloses Tethering</item>
+        <item>Netzwerkassistenz, Tethering, Hotspot teilen, drahtloses Tethering</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Netzwerksynchronisation</item>
+        <item>Interkonnektivität/Netzwerksynchronisation</item>
+        <item>Netzwerkassistenz, Tethering, Hotspot teilen, Netzwerksynchronisation</item>
     </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Startbildschirm+</item>

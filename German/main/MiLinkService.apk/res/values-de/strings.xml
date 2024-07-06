@@ -70,7 +70,7 @@
     <string name="camera_associate_disconnecting">Telefonkamera trennen</string>
     <string name="camera_associate_failed">Kameraverbindung fehlgeschlagen</string>
     <string name="camera_associate_success">Kamera verbunden</string>
-    <string name="camera_choose_device">Gerät wählen</string>
+    <string name="camera_choose_device">Kameras wechseln</string>
     <string name="camera_connecting">%s möchte die Kamera dieses Geräts verwenden</string>
     <string name="camera_disassociate">Von Kamera getrennt</string>
     <string name="camera_title">Nach verfügbaren Geräten suchen…</string>
@@ -80,6 +80,12 @@
     <string name="car_air_con_back_switch_open">AC auf dem Rücksitz einschalten</string>
     <string name="car_air_con_switch_close">Kfz-AC ausschalten</string>
     <string name="car_air_con_switch_open">Kfz-AC einschalten</string>
+    <string name="car_camera_associate_connecting">Mit EV-Kamera verbinden</string>
+    <string name="car_camera_associate_disconnecting">Von EV-Kamera trennen</string>
+    <string name="car_camera_device_name">%1$s Frontkamera</string>
+    <string name="car_camera_unavailable_dialog_message">Stromsparmodus oder Datenschutzmodus ist aktiviert. Sie können das Frontkamera-Bild des Fahrzeugs derzeit nicht auf Ihrem Mobilgerät anzeigen.</string>
+    <string name="car_camera_unavailable_dialog_positive_button">Verstanden</string>
+    <string name="car_camera_unavailable_dialog_title">Kamera kann nicht verwendet werden</string>
     <string name="car_card_air_control_backseat_air">Rücksitze</string>
     <string name="car_card_air_temperature_minus">AC-Temperatur senken</string>
     <string name="car_card_air_temperature_plus">AC-Temperatur erhöhen</string>
@@ -105,6 +111,8 @@
     <string name="chip_text">Chiptext</string>
     <string name="circulate_audio_group_title">Spielen…</string>
     <string name="circulate_back_button_content_description">Zurück</string>
+    <string name="circulate_car_card_use_camera">EV-Kamera verwenden</string>
+    <string name="circulate_car_card_using_camera">EV-Kamera wird verwendet</string>
     <string name="circulate_card_disconnect">Trennen</string>
     <string name="circulate_card_loading_title_audio_stereo">Stereosystem</string>
     <string name="circulate_card_loading_title_bluetooth">Bluetooth-Gerät</string>
@@ -366,6 +374,7 @@
     <string name="device_permission_authorize_dialog_message">Sobald diese Berechtigung erteilt ist, kann dieses Gerät %s für die Aufnahme von Fotos und Videos verwenden.</string>
     <string name="device_permission_authorize_dialog_title">Kamera-Berechtigungen auf %s gewähren</string>
     <string name="device_permission_dialog_message">Öffnen Sie Einstellungen > Interkonnektivität > Interkonnektivität und Berechtigungen auf %s und gewähren Sie erst die Kamera-Berechtigungen.</string>
+    <string name="device_permission_dialog_message_car">Sie können den Kamerazugriff erlauben unter Einstellungen > System > Apps verwalten > Spezielle Berechtigungen > Interkonnektivität auf %s.</string>
     <string name="device_permission_dialog_positive_button">Verstanden</string>
     <string name="device_permission_dialog_title">Berechtigungen auf %s gewähren</string>
     <string name="device_type_name_phone">Telefon</string>

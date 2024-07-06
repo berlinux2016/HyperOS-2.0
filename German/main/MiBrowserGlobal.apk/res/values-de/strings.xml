@@ -192,6 +192,12 @@
     <string name="btn_copied">Kopiert</string>
     <string name="btn_copy">Kopieren</string>
     <string name="btn_open">Öffnen</string>
+    <string name="call_notification_answer_action">Annehmen</string>
+    <string name="call_notification_decline_action">Ablehnen</string>
+    <string name="call_notification_hang_up_action">Auflegen</string>
+    <string name="call_notification_incoming_text">Eingehender Anruf</string>
+    <string name="call_notification_ongoing_text">Laufender Anruf</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
     <string name="camera_permission_name">Kamera verwenden</string>
     <string name="can_not_send_with_too_many">So viele Elemente können nicht auf einmal gesendet werden</string>
     <string name="cancel">Abbrechen</string>

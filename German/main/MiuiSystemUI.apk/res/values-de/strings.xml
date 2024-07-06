@@ -1724,7 +1724,7 @@ dd.MM."</string>
     <string name="tip_close_flares">Sie werden während dieser Sitzung keine Benachrichtigungen über App-Verhalten erhalten</string>
     <string name="title_usb_accessory">USB-Zubehör</string>
     <string name="to_switch_networks_disconnect_ethernet">Zum Wechseln des Netzwerks Ethernet trennen</string>
-    <string name="torch_high_temperature_warning">Ihr Gerät ist überhitzt. Blitzlicht kann jetzt nicht verwendet werden.</string>
+    <string name="torch_high_temperature_warning">Ihr Gerät ist überhitzt. Taschenlampe kann jetzt nicht verwendet werden.</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
