@@ -168,6 +168,11 @@
         <item>Neue Freunde und alte Kumpel</item>
         <item>Treffen vom letzten Jahr</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Verschieben</item>
+        <item>Kopieren</item>
+        <item>Abbrechen</item>
+    </string-array>
     <string-array name="month">
         <item>Januar</item>
         <item>Februar</item>
