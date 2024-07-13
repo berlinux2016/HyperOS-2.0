@@ -1127,9 +1127,12 @@
     <string name="mw_accessibility_date_picker_year">Jahr</string>
     <string name="mw_accessibility_datetime_picker_date">Datum</string>
     <string name="mw_accessibility_datetime_picker_time">Zeit</string>
+    <string name="mw_accessibility_list_menu_button">%1$s Optionen</string>
     <string name="mw_accessibility_time_picker_hour">Stunde</string>
     <string name="mw_accessibility_time_picker_milli">Millisekunde</string>
     <string name="mw_accessibility_time_picker_second">Sekunde</string>
+    <string name="mw_accessibility_toolbar_btn_menu">Google Chrome anpassen und steuern</string>
+    <string name="mw_actionbar_manage_apps">Apps verwalten</string>
     <string name="mw_actionbar_share">Teilen</string>
     <string name="mw_actionbar_textselection_title">Text wählen</string>
     <string name="mw_actionbar_web_search">Websuche</string>
@@ -1170,6 +1173,7 @@
     <string name="mw_elided_url_text_view_url_truncated">URL gekürzt</string>
     <string name="mw_find_next">Nächste suchen</string>
     <string name="mw_find_previous">Vorherige suchen</string>
+    <string name="mw_image_copied">Bild kopiert</string>
     <string name="mw_js_dialog_before_unload">%s \nDiese Seite jetzt verlassen?</string>
     <string name="mw_js_dialog_before_unload_negative_button">Auf dieser Seite bleiben</string>
     <string name="mw_js_dialog_before_unload_positive_button">Diese Seite verlassen</string>
@@ -1997,6 +2001,7 @@
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
+    <string name="swipe_exit_browser_toast">Erneut wischen, um den Browser zu verlassen</string>
     <string name="switchText">JA</string>
     <string name="sync_alert_checkbox_bookmark">Lesezeichen</string>
     <string name="sync_alert_checkbox_history">Browserverlauf</string>

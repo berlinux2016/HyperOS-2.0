@@ -91,6 +91,9 @@
     <string name="create_folder_success">Ordner erfolgreich erstellt</string>
     <string name="create_other_pdf">Neue PDF</string>
     <string name="create_pdf_manual">Neue PDF</string>
+    <string name="creation_dialog_message">Betrachten Sie Leinwände auf Ihrem Tablet.</string>
+    <string name="creation_dialog_positive_btn">Verstanden</string>
+    <string name="creation_dialog_title">Achtung</string>
     <string name="current_speed_content">Aktuelle Geschwindigkeit: %1$s</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
@@ -210,6 +213,7 @@
     <string name="friday_shortest">F</string>
     <string name="h5_ppt_to_pdf_introduce_title">Über die Konvertierung von PPT in PDF</string>
     <string name="home_action_up">Zurück</string>
+    <string name="hybrid_provider">Bereitgestellt von %1$s</string>
     <string name="i_know">Verstanden</string>
     <string name="image_picker_title">Bilder wählen</string>
     <string name="image_preview_cover_failed">Laden fehlgeschlagen. Erneut versuchen.</string>

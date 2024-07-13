@@ -1020,7 +1020,7 @@
     <string name="hdr_switch_show_hint">HDR verwenden, um mehr Details in Lichtern und Schatten zu zeigen</string>
     <string name="hdr_switch_show_title">Pro HDR Display</string>
     <string name="help">Geräte nicht gefunden?</string>
-    <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
+    <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Xiaomi Share einzuschalten.</string>
     <string name="hidden_album_display_name">Verstecktes Album</string>
     <string name="hide_nearby_photos">Fotos und Videos in der Nähe ausblenden</string>
     <string name="holiday_travel_title_one">%1$s Urlaub</string>
@@ -1726,9 +1726,18 @@
     <string name="pic_to_pdf_a4_format">A4-Papier</string>
     <string name="pic_to_pdf_all_not_support">Ausgewählte Bilder können nicht als PDF gespeichert werden</string>
     <string name="pic_to_pdf_exit_notice">Dieses PDF wird nicht gespeichert, wenn Sie jetzt beenden. Trotzdem beenden?</string>
+    <string name="pic_to_pdf_install_dialog_content">Mi Doc Viewer installieren, um PDFs zu erstellen. Jetzt installieren?</string>
+    <string name="pic_to_pdf_install_dialog_positive">Installieren</string>
+    <string name="pic_to_pdf_install_dialog_title">Mi Doc Viewer installieren</string>
     <string name="pic_to_pdf_not_support_video">Videos können nicht als PDF gespeichert werden</string>
+    <string name="pic_to_pdf_permission_dialog_content">Mi Doc Viewer den Zugriff auf Fotos und Videos dieses Geräts gestatten, um PDF-Dateien speichern zu können. Sie können diese Erlaubnis in Einstellungen erteilen.</string>
+    <string name="pic_to_pdf_permission_dialog_positive">Einstellungen</string>
+    <string name="pic_to_pdf_permission_dialog_title">Berechtigungen erforderlich</string>
     <string name="pic_to_pdf_preview_loading">Vorschau laden…</string>
     <string name="pic_to_pdf_saved_in_fileexplorer">Erfolgreich gespeichert. Element im Dateimanager anzeigen.</string>
+    <string name="pic_to_pdf_update_dialog_content">Mi Doc Viewer auf die neueste Version aktualisieren, um PDFs zu erstellen. Jetzt aktualisieren?</string>
+    <string name="pic_to_pdf_update_dialog_positive">Aktualisieren</string>
+    <string name="pic_to_pdf_update_dialog_title">Mi Doc Viewer aktualisieren</string>
     <string name="pick_from_contact">Aus Kontakt auswählen</string>
     <string name="pick_people_cover_fail">Ein Fehler ist aufgetreten. Erneut versuchen.</string>
     <string name="pick_people_cover_page_title">Titelfoto auswählen</string>
@@ -2402,6 +2411,8 @@
     <string name="tip_capture_time">Aufgenommen am:</string>
     <string name="tip_file_info">Dateiinfo:</string>
     <string name="tip_file_path">Lokaler Pfad:</string>
+    <string name="tip_leica_master_portrait">Master Portrait</string>
+    <string name="tip_leica_portrait">Leica Portrait</string>
     <string name="tip_not_download">Nicht auf dem Gerät. Wird beim Abspielen automatisch aus Xiaomi Cloud heruntergeladen.</string>
     <string name="tip_screenshot_package_info">App-Name:</string>
     <string name="tips_for_photo_page_selection">Sie können Elemente antippen, um sie anzuzeigen</string>
@@ -2420,6 +2431,7 @@
     <string name="toast_invalid_prefix">Dateinamen dürfen nicht mit \".\" oder \"_\" beginnen</string>
     <string name="toast_orientation_locked">Ausrichtung erfolgreich gesperrt</string>
     <string name="toast_orientation_unlock">Bildschirmausrichtung entsperrt</string>
+    <string name="toast_pdf_create_failed">Erstellen fehlgeschlagen. Erneut versuchen.</string>
     <string name="toast_rename_exit">Diese Datei existiert bereits</string>
     <string name="today">Heute</string>
     <string name="today_of_year">Am heutigen Tag</string>

@@ -663,7 +663,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="aod_to_close">Ausschalten</string>
     <string name="ap_connect_failed">Verbinden fehlgeschlagen</string>
     <string name="ap_connected_battery_level">" | Akku %1$s"</string>
-    <string name="ap_p2p_dialog_message">Die aktuell freigegebene WLAN-Verbindung wird bereits verwendet. Sie dürfen Wi-Fi Direct, Mi Share, Casting oder andere drahtlose Übertragungsdienste nicht verwenden, bevor Sie Ihren persönlichen Hotspot einschalten.</string>
+    <string name="ap_p2p_dialog_message">Die aktuell freigegebene WLAN-Verbindung wird bereits verwendet. Sie dürfen Wi-Fi Direct, Xiaomi Share, Casting oder andere drahtlose Übertragungsdienste nicht verwenden, bevor Sie Ihren persönlichen Hotspot einschalten.</string>
     <string name="ap_p2p_dialog_yes">Trennen</string>
     <string name="apn_auth_type">Authentisierungstyp</string>
     <string name="apn_edit">APN bearbeiten</string>
@@ -7705,7 +7705,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="shoulder_key_shortcut_settings">Popup-Auslöser</string>
     <string name="shoulder_key_shortcut_settings_summary">Diese Option funktioniert nicht, wenn Sie Spiele spielen</string>
     <string name="shoulder_key_shortcut_single_click">Drücken</string>
-    <string name="shoulder_key_shortcut_turn_on_torch">Taschenlampe</string>
+    <string name="shoulder_key_shortcut_turn_on_torch">Lampe</string>
     <string name="shoulder_key_shortcut_vibrate">Vibrieren</string>
     <string name="shoulder_key_sound_settings">Toneffekte</string>
     <string name="shoulder_key_sound_switch_title">Toneffekte</string>

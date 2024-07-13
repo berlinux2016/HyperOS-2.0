@@ -228,6 +228,8 @@
     <string name="miuix_appcompat_select_item">Elemente wählen</string>
     <string name="miuix_indexer_collect">Sammlungen</string>
     <string name="miuix_indexer_selected">%s ausgewählt</string>
+    <string name="miuix_navigator_category_group_collapse">Einklappen</string>
+    <string name="miuix_navigator_category_group_expand">Erweitern</string>
     <string name="miuix_navigator_content_switch_description">Seitenleiste anzeigen</string>
     <string name="miuix_navigator_multiple_choice">Wählen</string>
     <string name="miuix_navigator_navigator_switch_description">Seitenleiste ausblenden</string>

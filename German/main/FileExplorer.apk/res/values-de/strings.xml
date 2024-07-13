@@ -380,7 +380,7 @@
     <string name="midrive_reset_privacy_and_check_availability_retry">Mi Drive wurde nicht eingeschaltet. Erneut versuchen.</string>
     <string name="midriver_install_button_text">Installieren</string>
     <string name="midriver_not_install_title">Mi Drive ist deinstalliert</string>
-    <string name="mirror_can_not_drag_mask">Ziehen, um Mi Share zu verwenden</string>
+    <string name="mirror_can_not_drag_mask">Ziehen, um Xiaomi Share zu verwenden</string>
     <string name="mirror_can_not_drag_mask_new">Elemente in %s ziehen</string>
     <string name="mirror_new_name">Ordner erstellen (%s)</string>
     <string name="mirror_new_name_first">Ordner erstellen</string>
@@ -722,7 +722,7 @@
     <string name="saturday">Samstag</string>
     <string name="saturday_short">Sa</string>
     <string name="saturday_shortest">S</string>
-    <string name="save_file_to_mishare">Gespeichert im Mi Share-Ordner</string>
+    <string name="save_file_to_mishare">Gespeichert im Xiaomi Share-Ordner</string>
     <string name="search_app">Apps &amp; Ordner</string>
     <string name="search_app_more">Mehr</string>
     <string name="search_category">Kategorien</string>
@@ -879,7 +879,7 @@
     <string name="transfer">Übertragungen &amp; Downloads</string>
     <string name="transfer_done">Dateien erfolgreich verschoben</string>
     <string name="transfer_private_data">Private Dateien von der SD-Karte verschieben…</string>
-    <string name="transfer_summary">Downloads und über Mi Share übertragene Elemente</string>
+    <string name="transfer_summary">Downloads und über Xiaomi Share übertragene Elemente</string>
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>

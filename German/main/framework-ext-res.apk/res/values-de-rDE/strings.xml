@@ -213,7 +213,7 @@
     <string name="handy_mode_title">Einhandmodus</string>
     <string name="harp">Harfe</string>
     <string name="help">Sie können keine Geräte finden?</string>
-    <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
+    <string name="help_content">Wenn Sie das benötigte Gerät nicht finden, bitten Sie die andere Person, Xiaomi Share einzuschalten.</string>
     <string name="high_temperature_brightness_toast">Höhere Bildschirmhelligkeit erhitzt das Gerät und verbraucht mehr Akku</string>
     <string name="hovermode_text_confirm">Verstanden</string>
     <string name="hovermode_text_doubleclick">Doppeltipp für Pause/Wiedergabe</string>

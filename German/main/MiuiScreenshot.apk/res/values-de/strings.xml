@@ -104,7 +104,7 @@
     <string name="global_pc">Mein Laptop</string>
     <string name="global_phone">Mein Telefon</string>
     <string name="help">Keine Geräte gefunden?</string>
-    <string name="help_content">Wenn Sie das gewünschte Gerät nicht finden, bitten Sie die andere Person, Mi Share einzuschalten.</string>
+    <string name="help_content">Wenn Sie das gewünschte Gerät nicht finden, bitten Sie die andere Person, Xiaomi Share einzuschalten.</string>
     <string name="image_decode_failed">Bild entschlüsseln fehlgeschlagen</string>
     <string name="image_not_found">Bild nicht gefunden</string>
     <string name="loading_text_format" formatted="false">Private Daten aus Fotos entfernen (%d/%d)…</string>
