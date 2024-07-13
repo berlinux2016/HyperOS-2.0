@@ -40,7 +40,7 @@
     <string name="circulate_cta_agree">Zustimmen</string>
     <string name="circulate_cta_all_purpose">Startbildschirm+ ist ein Teil der Xiaomi Interkonnektivitätsdienste. Damit können Sie die Startbildschirme anderer verbundener Geräte anzeigen und mit ihnen interagieren. Um normal zu funktionieren, benötigt dieser Dienst eine Internetverbindung und folgende Berechtigungen:</string>
     <string name="circulate_cta_app_name">Xiaomi Interkonnektivität</string>
-    <string name="circulate_cta_desc_phone_miui15_14">Willkommen bei Xiaomi Interkonnektivität! Mit dieser App können Sie Bildschirminhalte übertragen, die Multimedia-Wiedergabe auf andere Geräte verlagern, Mi Smart Play, Interkonnektivitätsfunktionen und App-Weitergabe nutzen. Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um normal zu funktionieren:</string>
+    <string name="circulate_cta_desc_phone_miui15_14">Willkommen bei Xiaomi Interkonnektivität! Mit dieser App können Sie Bildschirminhalte übertragen, die Multimedia-Wiedergabe auf andere Geräte verlagern, Xiaomi Smart Play, Interkonnektivitätsfunktionen und App-Weitergabe nutzen. Diese App benötigt eine Internetverbindung und folgende Berechtigungen, um normal zu funktionieren:</string>
     <string name="circulate_cta_exit">Ablehnen</string>
     <string name="circulate_cta_new_app_name">Startbildschirm+</string>
     <string name="circulate_cta_premission_bluetooth">Zum Verbinden von Geräten und Übertragen von Daten zwischen ihnen über Bluetooth</string>
@@ -70,6 +70,7 @@
     <string name="desktop_switch_is_closed">Startbildschirm+ ist ausgeschaltet</string>
     <string name="device_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
     <string name="device_max_screen_count_toast">Dieses Gerät unterstützt nur das gleichzeitige Öffnen von zwei Fenstern</string>
+    <string name="device_screen_fold_switch_tip">Diese Aktion stattdessen vom inneren Bildschirm aus durchführen</string>
     <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>
     <string name="display_not_support_secondary_toast">Diese App kann nicht in neuem Fenster geöffnet werden</string>
     <string name="download_aborted">Übertragen wegen einer Verbindungsunterbrechung fehlgeschlagen</string>
@@ -128,6 +129,8 @@
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_photograph_prompt_message">Kamera vom inneren Bildschirm aus verwenden</string>
+    <string name="fold_photograph_prompt_notification_title">Geräteübergreifende Kamera für Notizen verwenden</string>
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
@@ -588,6 +591,10 @@
     <string name="tuesday">Dienstag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
+    <string name="upgrade_car_not_tip">Nicht mehr anzeigen</string>
+    <string name="upgrade_car_ok">Verstanden</string>
+    <string name="upgrade_car_version_msg">Um diese Funktion zu nutzen, aktualisieren Sie Ihr EV-System auf Version 1.2.1 oder höher unter Einstellungen > System > Systemversion.</string>
+    <string name="upgrade_car_version_title">Aktualisieren Sie Ihr EV-System</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
     <string name="verbose_mode">Ausführlicher Modus</string>

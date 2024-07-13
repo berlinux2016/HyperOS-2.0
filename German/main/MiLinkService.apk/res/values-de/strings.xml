@@ -304,7 +304,7 @@
     <string name="close_hotspot_hint">Mobilen Hotspot vor dem Casting ausschalten</string>
     <string name="close_hotspot_hint_DFS">Um Elemente auf einen TV zu übertragen, schalten Sie erst den Hotspot aus.</string>
     <string name="close_invisible_mode_dialog_cancel">Abbrechen</string>
-    <string name="close_invisible_mode_dialog_message">Mi Smart Play kann jetzt nicht verwendet werden. Inkognito-Modus in den Einstellungen ausschalten, um diese Funktion zu verwenden.</string>
+    <string name="close_invisible_mode_dialog_message">Xiaomi Smart Play kann jetzt nicht verwendet werden. Inkognito-Modus in den Einstellungen ausschalten, um diese Funktion zu verwenden.</string>
     <string name="close_invisible_mode_dialog_ok">Einstellungen</string>
     <string name="close_invisible_mode_dialog_title">Sie sind inkognito</string>
     <string name="common_google_play_services_enable_button">Aktivieren</string>
@@ -347,7 +347,7 @@
     <string name="connect_settings_summary"><Data>Erkennen Sie automatisch Geräte in Ihrer Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, und verbinden Sie sie miteinander, um eine Vielzahl von Aufgaben auf mehreren Geräten auszuführen. &lt;a href=%1$s>Mehr erfahren&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Erlauben Sie Ihren Geräten, drahtlos miteinander zu interagieren</string>
     <string name="connect_settings_summary_corp_phone">Beantworten Sie Anrufe auf Tablets oder Computern in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind</string>
-    <string name="connect_settings_summary_global"><Data>Entdecken Sie Geräte in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, und fügen Sie sie zu Mi Smart Hub hinzu</Data></string>
+    <string name="connect_settings_summary_global"><Data>Entdecken Sie Geräte in der Nähe, die an Ihrem Xiaomi-Konto angemeldet sind, und fügen Sie sie zu Xiaomi Smart Hub hinzu</Data></string>
     <string name="connect_settings_summary_hyper_mind">Diese Funktion lernt Ihre Muster und nutzt sie, um Ihre Smart Home-Geräte zu steuern. Powered by Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Aufgaben in derselben App auf einem anderen Gerät fortsetzen</string>
     <string name="connect_settings_summary_share_clipboard">Text und Bilder auf anderen Geräten innerhalb von %d Minuten nach dem Kopieren auf diesem Gerät einfügen</string>

@@ -60,8 +60,8 @@
     <string name="all_app_category_shopping">Einkaufen</string>
     <string name="all_app_category_work">Arbeit</string>
     <string name="all_apps">Alle Apps</string>
-    <string name="all_apps_install_contentcenter_msg">Anscheinend wurde Inhaltszentrum deinstalliert. Erneut installieren?</string>
-    <string name="all_apps_install_contentcenter_title">Inhaltszentrum installieren</string>
+    <string name="all_apps_install_contentcenter_msg">Anscheinend wurde Inhaltscenter deinstalliert. Erneut installieren?</string>
+    <string name="all_apps_install_contentcenter_title">Inhaltscenter installieren</string>
     <string name="all_apps_search_app">Nach Apps suchen</string>
     <string name="all_apps_search_market_message">Online suchen</string>
     <string name="all_apps_setting_classic_title">Klassisch</string>
@@ -194,7 +194,7 @@
     <string name="common_home_search_delete_cancle">Abbrechen</string>
     <string name="common_home_search_delete_confirm">Entfernen</string>
     <string name="common_home_search_delete_content">Sie können die Schnellsuche nicht mehr verwenden, wenn Sie die Suchleiste von Ihrem Startbildschirm entfernen. Trotzdem entfernen?</string>
-    <string name="content_center">Inhaltszentrum</string>
+    <string name="content_center">Inhaltscenter</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, geprüft</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, ungeprüft</string>
     <string name="content_description_workspace_thumbnail_item">Bildschirmvorschau, Seite %1$s</string>
@@ -302,7 +302,8 @@
     <string name="guide_permission_title">Berechtigungen erforderlich</string>
     <string name="guide_privacy_dialog_title">Nutzungsbedingungen</string>
     <string name="hide_apps_title">App-Symbole ausblenden</string>
-    <string name="home_gesture_content_center">Inhaltszentrum</string>
+    <string name="home_gesture_content_center">Inhaltscenter</string>
+    <string name="home_gesture_content_center_settings">Einstellungen Inhaltscenter</string>
     <string name="home_gesture_global_search">Suchen</string>
     <string name="home_gesture_global_shelf">App-Sucher</string>
     <string name="home_gesture_no_action">Nichts</string>
@@ -326,7 +327,7 @@
     <string name="international_home_pull_down_content">Auf Startbildschirm herunterwischen, um auf diesem Gerät und im Internet zu suchen.</string>
     <string name="international_home_pull_down_sub_content">Sie können diese Geste ändern, um stattdessen das Kontrollzentrum zu öffnen: Einstellungen > Startbildschirm > Auf Startbildschirm herunterwischen.</string>
     <string name="international_home_pull_down_up_btn_get">Verstanden</string>
-    <string name="international_home_pull_up_content">Auf Startbildschirm hochwischen, um das Inhaltszentrum zu öffnen.</string>
+    <string name="international_home_pull_up_content">Auf Startbildschirm hochwischen, um das Inhaltscenter zu öffnen.</string>
     <string name="international_home_pull_up_sub_content">Um Apps und App-Vorschläge zu finden, wischen Sie von der Mitte Ihres Startbildschirms nach unten.</string>
     <string name="jeejen_description">Größere UI-Elemente.\nBesser zugängliches Telefonieren.\nErhöhte Sicherheit.</string>
     <string name="key_shortcut_settings_title">Tastenkürzel</string>
@@ -660,7 +661,7 @@
     <string name="show_mem_info_title">RAM-Infos anzeigen</string>
     <string name="show_most_popular_apps_you_used">Am häufigsten verwendete Apps in Übersicht anzeigen</string>
     <string name="show_recents_recommend_title">Empfehlungen anzeigen</string>
-    <string name="slide_to_open_newhome">Hochwischen, um Inhaltszentrum zu öffnen</string>
+    <string name="slide_to_open_newhome">Hochwischen, um Inhaltscenter zu öffnen</string>
     <string name="small_window">Popup</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>

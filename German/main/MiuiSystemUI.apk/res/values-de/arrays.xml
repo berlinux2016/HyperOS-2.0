@@ -5,6 +5,12 @@
         <item>Prozent beim Laden anzeigen (Standard)</item>
         <item>Symbol nicht anzeigen</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiv</item>
+        <item>, aktiv (Medien)</item>
+        <item>, aktiv (Telefon)</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Stunde, Minute u. Sekunde anzeigen</item>
         <item>Stunde u. Minute anzeigen (Standard)</item>

@@ -183,7 +183,7 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
     <string name="interconnection_service_global_item_title">Xiaomi Interkonnektivität</string>
     <string name="interconnection_service_global_label">&lt;Data>Durch Xiaomi Interkonnektivität können Ihren Geräte drahtlos miteinander interagieren. Indem Sie diesen Schalter aktivieren, akzeptieren Sie die Xiaomi Interkonnektivität &lt;a href=%1$s>Datenschutzerklärung&lt;/a>.&lt;/Data></string>
     <string name="interconnection_service_summary_china">Durch Xiaomi Interkonnektivitätsdienste können Ihre Geräte drahtlos miteinander interagieren. %1$s Die verfügbaren Interkonnektivitätsdienste können je nach Systemversion und Gerätemodell variieren. Weitere Informationen finden Sie unter %2$s.</string>
-    <string name="interconnection_service_summary_china_fragment1">Zu diesen Diensten gehören Mi Smart Play, Casting, App-Weitergabe, Startbildschirm+, gemeinsame Zwischenablage, drahtloses Tethering (inkl. Netzwerksynchr.), geräteübergreifende Steuerung, geräteübergreifende Kamera und Mi Smart Hub. Damit Xiaomi Interkonnektivitätsdienste normal funktionieren, benötigen sie eine Internetverbindung und folgende Berechtigungen:</string>
+    <string name="interconnection_service_summary_china_fragment1">Zu diesen Diensten gehören Xiaomi Smart Play, Casting, App-Weitergabe, Startbildschirm+, gemeinsame Zwischenablage, drahtloses Tethering (inkl. Netzwerksynchr.), geräteübergreifende Steuerung, geräteübergreifende Kamera und Xiaomi Smart Hub. Damit Xiaomi Interkonnektivitätsdienste normal funktionieren, benötigen sie eine Internetverbindung und folgende Berechtigungen:</string>
     <string name="interconnection_service_summary_china_fragment10">Zum Zugriff auf Daten von Geräten in der Nähe</string>
     <string name="interconnection_service_summary_china_fragment11">Internes Geräteaudio aufnehmen</string>
     <string name="interconnection_service_summary_china_fragment12">Zum Übertragen und Wiedergeben von Audio zwischen Geräten bei Casting und Spiegelung</string>
@@ -194,7 +194,7 @@ Zu Zwecken der Risikoprävention, Statistik und analytischen Verarbeitung benöt
     <string name="interconnection_service_summary_china_fragment17">Zugriff auf Bildschirminhalt</string>
     <string name="interconnection_service_summary_china_fragment18">Zum Zugriff auf Bildschirminhalte während Aufnahme oder Casting, inkl. sensibler Daten wie Audio, Passwörter, Zahlungspasswörter, Fotos, Nachrichten etc.</string>
     <string name="interconnection_service_summary_china_fragment19">App-Übergabe und Startbildschirm+:</string>
-    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play und Casting:</string>
+    <string name="interconnection_service_summary_china_fragment2">Xiaomi Smart Play und Casting:</string>
     <string name="interconnection_service_summary_china_fragment20">Bluetooth ein- oder ausschalten</string>
     <string name="interconnection_service_summary_china_fragment21">Zum Erkennen von Geräten in der Nähe für die Verbindung über Bluetooth</string>
     <string name="interconnection_service_summary_china_fragment22">WLAN ein- oder ausschalten</string>

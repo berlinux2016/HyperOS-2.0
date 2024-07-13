@@ -280,13 +280,15 @@
     <string name="biometric_re_enroll_dialog_confirm">Einrichten</string>
     <string name="biometric_re_enroll_notification_content">Dies ist erforderlich, um Sicherheit und Leistung zu verbessern</string>
     <string name="birthday_status">Geburtstag</string>
-    <string name="birthday_status_content_description">Es ist der Geburtstag von %1$s</string>
+    <string name="birthday_status_content_description">%1$s hat Geburtstag</string>
     <string name="bluetooth_active_battery_level">Aktiv | Akku: %1$s</string>
     <string name="bluetooth_active_battery_level_untethered">Aktiv, L: %1$s Akku, R: %2$s Akku</string>
     <string name="bluetooth_active_no_battery_level">Aktiv</string>
     <string name="bluetooth_battery_level">Akku: %1$s</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s Akku, R: %2$s Akku</string>
     <string name="bluetooth_connected">%1$s verbunden</string>
+    <string name="bluetooth_connected_no_a2dp">Verbunden (keine Medien) %1$s</string>
+    <string name="bluetooth_connected_no_headset">Verbunden (kein Telefon) %1$s</string>
     <string name="bluetooth_connecting">Verbinden…</string>
     <string name="bluetooth_disconnected">Getrennt</string>
     <string name="bluetooth_disconnecting">Trennen…</string>

@@ -8,7 +8,7 @@
     <string-array name="settings_search_connection_home">
         <item>Interkonnektivität</item>
         <item>Interkonnektivität/Interkonnektivität</item>
-        <item>Geräteinterkonnektivität, Geräteinterkonnektivitätsdienste, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, Smarte Verbindung, Mi Smart Hub, Interkonnektivität, Duo, Xiaomi Telefon, Xiaomi Laptop, Multiscreen, Duet, Casting, Apps kombinieren, Übergabe, App-Übergabe, Spiegeln, Xiaomi Okösystem, Geräteverbindung</item>
+        <item>Geräteinterkonnektivität, Geräteinterkonnektivitätsdienste, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, Smarte Verbindung, Xiaomi Smart Hub, Interkonnektivität, Duo, Xiaomi Telefon, Xiaomi Laptop, Multiscreen, Duet, Casting, Apps kombinieren, Übergabe, App-Übergabe, Spiegeln, Xiaomi Okösystem, Geräteverbindung</item>
     </string-array>
     <string-array name="settings_search_connection_privacy">
         <item>Datenschutz</item>
@@ -48,7 +48,7 @@
     <string-array name="settings_search_share_Launcher">
         <item>Startbildschirm+</item>
         <item>Interkonnektivität/Startbildschirm+</item>
-        <item>Startbildschirm+, Mi Smart Hub, Bildschirm teilen</item>
+        <item>Startbildschirm+, Xiaomi Smart Hub, Bildschirm teilen</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">
         <item>Zwischenablage</item>
