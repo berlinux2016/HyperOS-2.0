@@ -36,7 +36,7 @@
     <string name="afternoon">Nachmittag</string>
     <string name="ai_chat_declare_double_link"><Data>Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor sie fortfahren.</Data></string>
     <string name="ai_chat_dlg_content">Für verschiedene Informationsquellen in unterschiedlichen Szenarien (z. B. Links oder Texte, die in Apps wie Browsern, WeChat und Feishu erscheinen) kann die Funktion des schnellen Sammelns und Zusammenfassens von Informationen sowie des automatischen Generierens und Präsentierens in einem einheitlichen Eintrag für die Archivierung erreicht werden.</string>
-    <string name="ai_createing_text">KI generiert...</string>
+    <string name="ai_createing_text">KI generiert…</string>
     <string name="ai_watermark">Durch KI generieren:</string>
     <string name="alarm_bar_title">Erinnerung</string>
     <string name="alert_action_edit_anyway">Weiter bearbeiten</string>

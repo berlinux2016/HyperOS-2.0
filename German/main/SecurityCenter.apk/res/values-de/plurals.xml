@@ -304,10 +304,18 @@
     <plurals name="gb_vision_enhance_desc_detail">
         <item quantity="other">"Hinweis:
 ·Verbesserte Grafik ist nicht verfügbar, wenn Stromsparen aktiviert oder Ihr Gerät überhitzt ist.
-·Smart Frame Rate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bilder pro Sekunde angezeigt werden.</item>
+·Smart Frame Rate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bilder/Sekunde angezeigt werden.</item>
         <item quantity="one">"Hinweis:
 ·Verbesserte Grafik ist nicht verfügbar, wenn Stromsparen aktiviert oder Ihr Gerät überhitzt ist.
-·Smart Frame Rate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bild pro Sekunde angezeigt wird.</item>
+·Smart Frame Rate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bild/Sekunde angezeigt wird.</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Hinweis:
+· Verbesserte Grafik ist nicht verfügbar, wenn Stromsparen aktiviert oder Ihr Gerät überhitzt ist.
+· Verbesserte Bildrate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bilder/Sekunde angezeigt werden."</item>
+        <item quantity="one">"Hinweis:
+· Verbesserte Grafik ist nicht verfügbar, wenn Stromsparen aktiviert oder Ihr Gerät überhitzt ist.
+· Verbesserte Bildrate zeigt die besten Ergebnisse, wenn Ihr Spiel so eingestellt ist, dass mindestens %d Bild/Sekunde angezeigt wird."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Voice Changer jetzt ausprobieren,

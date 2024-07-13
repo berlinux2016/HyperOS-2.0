@@ -753,6 +753,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="apps_list_header_title_sms_access">Zugriff auf Verifizierungscodes einschränken</string>
     <string name="ask_create_shortcut">Startbildschirm-Verknüpfung erstellen?</string>
     <string name="audio_optimization_summary">Klang verbessern und Umgebungsgeräusche in Gesprächen reduzieren</string>
+    <string name="audio_optimization_summary_new">Klangqualität der Kopfhörer beim Spielen optimieren und Rauschen beim Telefonieren reduzieren</string>
     <string name="audio_optimization_title">Besserer Klang</string>
     <string name="auto_atsk_condition_battery_level_text_down">Wenn der Akku %s erreicht</string>
     <string name="auto_atsk_condition_battery_level_text_up">Wenn der Akku zu %s geladen ist</string>
@@ -1346,10 +1347,16 @@ Sie verlieren keine App-Daten."</string>
     <string name="cpu_usage_view_action_btn_text">Tippen zum Anzeigen</string>
     <string name="create_gamebooster_destop">Startbildschirm-Verknüpfung erfolgreich erstellt</string>
     <string name="create_shortcut">Startbildschirm-Verknüpfung für Game Turbo erstellen</string>
+    <string name="cs_close_vt_camera_first_tips">Diese Funktion kann bei Verwendung der geräteübergreifenden Kamera nicht genutzt werden</string>
     <string name="cs_color_sense">Farbtemperatur</string>
+    <string name="cs_conversation_record_using">Aufnehmen</string>
     <string name="cs_func_toast_headset">Trennen Sie Ihr Headset, um diese Funktion zu nutzen</string>
     <string name="cs_func_toast_light">Wechseln Sie zur Frontkamera, um diese Funktion zu nutzen</string>
     <string name="cs_func_toast_pickup">Wechseln Sie zu einem Videoanruf, um diese Funktion zu nutzen</string>
+    <string name="cs_func_unavailable_tips">Diese Funktion bei Anrufen verwenden</string>
+    <string name="cs_light_enhance_physical_options">Farbtemperatur</string>
+    <string name="cs_light_enhance_physical_title">Helligkeit</string>
+    <string name="cs_open_camera_first_tips">Kamera öffnen, um diese Funktion zu verwenden</string>
     <string name="cs_pickup_denoise_desc">Rauschen des eingehenden Tons bei Verwendung von Lautsprechern oder Kopfhörern reduzieren</string>
     <string name="cs_pickup_denoise_title">Rauschunterdrückung</string>
     <string name="cs_pickup_multi_desc">%d Grad Tonaufnahme</string>
@@ -1363,12 +1370,19 @@ Sie verlieren keine App-Daten."</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">Stimmabdruck vor der Auswahl \"Einzelner Teilnehmer\" aufnehmen</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Trennen Sie externe Geräte und versuchen Sie es erneut</string>
     <string name="cs_pickup_voice_print_desc">Ton nur von einer Person aufnehmen</string>
+    <string name="cs_privacy_camera_global_settings_title">Datenschutz für Anrufe</string>
     <string name="cs_screen_translation_title">Bildschirmübersetzung</string>
     <string name="cs_simultaneous_interpretation_title">Interpretieren</string>
     <string name="cs_title_pickup">Rauschunterdrückung</string>
     <string name="cs_title_smart_subtitle">Untertitel-Transkription</string>
     <string name="cs_title_ultraclear">Ultra HD-Modus</string>
+    <string name="cs_tool_box_max_screen_guide_case_1">Probieren Sie das Simultandolmetschen und andere Tools für Telefonkonferenzen in der neuen Anruf-Toolbox aus</string>
+    <string name="cs_tool_box_max_screen_guide_case_2">Probieren Sie eine Reihe von Funktionen für Telefonkonferenzen in der neuen Anruf-Toolbox aus</string>
+    <string name="cs_tool_box_phone_guide_case_1">Probieren Sie das Simultandolmetschen und andere Funktionen in der neuen Anruf-Toolbox aus</string>
+    <string name="cs_tool_box_phone_guide_case_2">Probieren Sie eine Reihe von Funktionen in der neuen Anruf-Toolbox aus</string>
     <string name="cs_voice_print">Stimmabdruck aufnehmen</string>
+    <string name="cs_vt_camera_toast_case1">Kamera in der aktuellen App öffnen</string>
+    <string name="cs_vt_camera_toast_case2">Kein kompatibles Gerät in der Nähe</string>
     <string name="cta_HIPS_Perm_Location_Desc">Zur Bereitstellung der für Ihren Standort relevanten Funktionen in der Warnzentrale, Notfall-SOS, beim App-Stromsparen und im Zahlungssicherheitsscanner sowie beim ungefähren Standortdienst</string>
     <string name="cta_agree_desc">Um unsere Dienste zu nutzen, erlauben Sie dieser App die Internetverbindung und gewähren Sie die oben aufgeführten Berechtigungen.</string>
     <string name="cta_close_dialog_cancel">Abbrechen</string>
@@ -1784,6 +1798,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="ew_monitor_exit_title">Achtung</string>
     <string name="ew_monitor_have_been">"Ich bin stolz darauf, Folgendes zu sein: "</string>
     <string name="ew_monitor_info_title">Wie funktioniert das?</string>
+    <string name="ew_monitor_join">Am Erdbebenüberwachungsprogramm teilnehmen</string>
     <string name="ew_monitor_join_number">Anzahl der Freiwilligen</string>
     <string name="ew_monitor_join_path">Mit einem Xiaomi-Gerät am Programm teilnehmen: Sicherheit &gt; Erdbebenwarnung &gt; Freiwilliger Erdbebenüberwachung</string>
     <string name="ew_monitor_my_content">Mein Mobilgerät ist Teil des Erdbeben-Frühwarnnetzes. Wenn seine Sensoren seismische Wellen erkennen, werden die Daten von einem KI-Algorithmus analysiert und Frühwarnungen für die Menschen in den betroffenen Gebieten ausgegeben.</string>
@@ -2235,8 +2250,11 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_audition_play_instruction">Kopfhörer verwenden für den besten Effekt</string>
     <string name="gb_award_noti_message">Aktivieren Sie die Hintergrundaktualisierung von Game for Peace in Game Turbo, um Prämien zu erhalten</string>
     <string name="gb_award_noti_title">Die Game for Peace-Prämien sind da!</string>
+    <string name="gb_balance_disbale_wild_mode_pad_desc"><Data>Im Game Turbo kann nicht in den ausgeglichenen Modus gewechselt werden, wenn der systemweite ultimative Modus aktiviert ist. Sie können die Akkueinstellungen in Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a></Data></string>
+    <string name="gb_balance_disbale_wild_mode_phone_desc"><Data>Im Game Turbo kann nicht in den ausgeglichenen Modus gewechselt werden, wenn der systemweite ultimative Modus aktiviert ist. Sie können die Akkueinstellungen in Sicherheit ändern.&lt;br>&lt;a href=\"#\">Sicherheit öffnen&lt;/a></Data></string>
     <string name="gb_bar_high">Hoch</string>
     <string name="gb_bar_low">Niedrig</string>
+    <string name="gb_bar_mid">Mittel</string>
     <string name="gb_barrage_app_manger">Apps verwalten</string>
     <string name="gb_barrage_chat_desc">Glauben Sie immer daran, dass etwas Wunderbares passieren wird</string>
     <string name="gb_barrage_chat_pre_desc">Vorschau</string>
@@ -2381,6 +2399,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_predownload_receive_tips">Hintergrundaktualisierung einschalten, um Prämien zu erhalten</string>
     <string name="gb_predownload_receiving">Empfangen…</string>
     <string name="gb_predownload_title">Hintergrundaktualisierungen</string>
+    <string name="gb_setting_dock_toast">Funktionen des Frontkamera-Assistenten sind jetzt in der Anruf-Toolbox verfügbar</string>
+    <string name="gb_setting_dock_toast_2">Funktionen des Frontkamera-Assistenten sind jetzt in der Anruf-Toolbox verfügbar</string>
     <string name="gb_shortcut_pref_title">Startbildschirm-Verknüpfung</string>
     <string name="gb_shoulder_guide_message1">[L] an eine beliebige Funktionsposition bringen, um es über den Popup-Auslöser zu verwenden.</string>
     <string name="gb_shoulder_guide_message2">Aktion [1] wird durch Drücken der Taste aktiviert. Aktion [2] wird durch Loslassen der Taste ausgelöst.</string>
@@ -2445,6 +2465,8 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_turbo_wonder_subtitle">Schlüsselmomente aufnehmen</string>
     <string name="gb_vision_enhance">Verbesserte Grafik</string>
     <string name="gb_vision_enhance_desc">Bildqualität und Leistung verbessern</string>
+    <string name="gb_vision_enhance_frme_insertion_new_tips">"Verbesserte Bildrate
+%dFPS"</string>
     <string name="gb_vision_enhance_frme_insertion_tips">Smarte Bildrate\n%dFPS</string>
     <string name="gb_vision_enhance_smart_frame_enhance">Bildrate verbessern</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Smarte Bildrate</string>
@@ -2510,9 +2532,21 @@ Sie verlieren keine App-Daten."</string>
     <string name="gd_dock_shortcut_splitescreen">Geteilter Bildschirm</string>
     <string name="gd_setting_conversation">Konferenztools</string>
     <string name="gd_setting_conversation_desc">Bietet eine Vielzahl von Funktionen für die Verwendung in Audio- und Videoanrufen im Vollbildmodus</string>
+    <string name="gd_setting_dock_activity_title">Seitliche Toolbox</string>
+    <string name="gd_setting_dock_call_summary">Funktionen für Sprach- und Videoanrufe (z. B. Fülllicht)</string>
+    <string name="gd_setting_dock_call_title">Anruf-Toolbox</string>
+    <string name="gd_setting_dock_game_summary">Anzeige und Leistung beim Spielen verbessern</string>
+    <string name="gd_setting_dock_game_summary_new">Anzeige und Leistung beim Spielen verbessern</string>
+    <string name="gd_setting_dock_summary">Andere Apps in Popups öffnen, während eine App im Vollbildmodus verwendet wird</string>
+    <string name="gd_setting_dock_title">Seitenleiste</string>
+    <string name="gd_setting_dock_video_summary">Effekte wie Dolby Atmos beim Ansehen von Videos verwenden</string>
+    <string name="gd_setting_dock_video_summary_new">Tools und Effekte beim Ansehen von Videos verwenden</string>
+    <string name="gd_setting_group_custom_conversation_apps">Stimmabdruck für Anrufe aufzeichnen</string>
     <string name="gd_setting_group_custom_gtb_apps">Spiele</string>
+    <string name="gd_setting_group_custom_gtb_apps_new">Spiele-Apps verwalten</string>
     <string name="gd_setting_group_custom_settings">Personalisierung</string>
     <string name="gd_setting_group_custom_vtb_apps">Video-Apps</string>
+    <string name="gd_setting_group_custom_vtb_apps_new">Video-Apps verwalten</string>
     <string name="gd_setting_group_title_switch">Szenen</string>
     <string name="gd_setting_gtb">Beim Spielen anzeigen</string>
     <string name="gd_setting_gtb_desc">Besondere Funktionen für Spiele</string>
@@ -2531,11 +2565,17 @@ Sie verlieren keine App-Daten."</string>
     <string name="get_detail_by_click">Tippen für Details</string>
     <string name="get_phone_num_fail">Unbekannte Rufnummer</string>
     <string name="get_sys_info">Info abrufen…</string>
+    <string name="global_dock_guide_desc_pad">Indikator gedrückt halten, um das Fenster zu verschieben</string>
     <string name="global_dock_guide_desc_with_split_screen">"· Tippen Sie auf eine App in der Seitenleiste, um sie in einem Popup zu öffnen.
 · Ziehen Sie eine App in die Bildschirmmitte, um sie in einem Popup zu öffnen, oder an die Seite, um den geteilten Bildschirm zu verwenden.
-· Halten Sie den Indikator gedrückt, um das Fenster zu bewegen."</string>
+· Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Tippen Sie auf eine App in der Seitenleiste, um sie in einem Popup zu öffnen.
+· Ziehen Sie eine App in die Bildschirmmitte, um sie in einem Popup zu öffnen, oder an die Seite, um den geteilten Bildschirm zu verwenden.
+· Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Tippen Sie auf eine App in der Seitenleiste, um sie in einem Popup zu öffnen.
-· Halten Sie den Indikator gedrückt, um das Fenster zu bewegen."</string>
+· Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Wischen Sie, um die Seitenleiste zu öffnen, und tippen Sie auf eine App, um sie in einem Popup zu öffnen.
+Halten Sie den Indikator gedrückt, um das Fenster zu verschieben."</string>
     <string name="global_satisfaction_notification_button">Bewerten</string>
     <string name="global_satisfaction_notification_channel">Umfrage zur Nutzerzufriedenheit</string>
     <string name="global_satisfaction_notification_subhead">Erzählen Sie uns von Ihrer Erfahrung</string>
@@ -3552,6 +3592,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_fast_charge_switch_summary_new">Erinnern, die Ladegeschwindigkeit zu steigern, wenn das mitgelieferte Ladegerät angeschlossen ist und der Akku unter den eingestellten Wert fällt</string>
     <string name="pc_fast_charge_switch_title">Ladegeschwindigkeit steigern</string>
     <string name="pc_fast_charge_switch_toast_message">Änderungen werden beim nächsten Laden des Geräts übernommen</string>
+    <string name="pc_fast_charge_temp_remider">Einschalten, um die Ladegeschwindigkeit automatisch zu regulieren. Diese Funktion funktioniert nur mit den von Xiaomi mitgelieferten Ladegeräten. Ihr Gerät kann sich während des Ladevorgangs erwärmen.</string>
     <string name="pc_fast_charge_title">Ladegeschwindigkeit steigern</string>
     <string name="pc_going_to_exit_extreme_mode">Ruhezustand beenden</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Ihr Gerät wird geladen. Ruhezustand ist aus.</string>
@@ -3639,6 +3680,16 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_search_keywords_capacity">Akkukapazität</string>
     <string name="pc_search_keywords_property">Leistung</string>
     <string name="pc_settings_title">Akku</string>
+    <string name="pc_smart_charge_button_summary">Um die Lebensdauer des Akkus zu verlängern, lernt das System, wie Sie Ihr Gerät aufladen, und beendet den Ladevorgang, wenn der Akkustand %1$s erreicht</string>
+    <string name="pc_smart_charge_notify_summary_high_temp">Ihr Gerät hat sich erwärmt. Ladevorgang wird beendet, wenn der Akkustand %1$s erreicht.</string>
+    <string name="pc_smart_charge_notify_summary_navagition">Navigation… Ladevorgang wird beendet, wenn der Akkustand %1$s erreicht</string>
+    <string name="pc_smart_charge_notify_summary_night_charge">Ladevorgang wird bei %s beendet</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Um die Lebensdauer des Akkus zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Nicht mehr anzeigen</string>
+    <string name="pc_smart_charge_pogo_project_dialog_title">Akkuschutz</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Um die Lebensdauer des Akkus zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
+    <string name="pc_smart_charge_pogo_project_notification_title">Akkuschutz</string>
+    <string name="pc_smart_charge_title">Smartes Laden</string>
     <string name="pc_smart_discharge_checkbox_summary">Bei Verwendung von Navigations-Apps wird der Ladevorgang automatisch gestoppt, wenn der Akku einen bestimmten Wert erreicht. Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiviert sind.</string>
     <string name="pc_smart_discharge_checkbox_title">Laden automatisch trennen</string>
     <string name="pc_smart_discharge_drop_down_title">Einstellungen automatisches Trennen</string>
@@ -3653,6 +3704,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_temperature_too_high">Gerät ist überhitzt</string>
     <string name="pc_timely_charging_summary">Akku ist unter %1$s. Wenn sich das Gerät bei niedrigem Akkustand überhitzt, kann dies den Akku beschädigen.</string>
     <string name="pc_timely_charging_title">Laden Sie Ihr Gerät</string>
+    <string name="pc_this_time_charge_full">Dieses Mal vollständig laden</string>
+    <string name="pc_this_time_charge_full_work">Fast vollständig geladen</string>
     <string name="pc_to_phone_install">Installation von %s via USB blockiert</string>
     <string name="pc_toady_charge_time_title">Anzahl der Ladungen heute</string>
     <string name="pc_wait_device_cools_down">Warten Sie, bis Ihr Gerät abgekühlt ist, um diese Funktion zu nutzen</string>
@@ -3670,6 +3723,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="per_month_pkg_traffic_settings">Datenlimit einstellen</string>
     <string name="perfermance_optimization_summary">Überhitzung und Hardware-Probleme vermeiden</string>
     <string name="perfermance_optimization_title">Leistungsoptimierung</string>
+    <string name="performance_frame_enhance_super_display_tips">Erhöhte Bildrate und Superauflösung können nicht gleichzeitig funktionieren. Das Einschalten des einen schaltet das andere aus.</string>
     <string name="performance_frame_insert_super_display_tips">Smarte Bildrate und Superauflösung können nicht gleichzeitig wirksam sein. Wenn Sie das eine aktivieren, schalten Sie das andere aus.</string>
     <string name="perm_intercept_content">Dieser App folgende Berechtigung erlauben: %1s?</string>
     <string name="perm_intercept_notification_title">Wenn Sie %1s die Verwendung von Benachrichtigungen erlauben, führt diese App folgende Aktionen aus:</string>
@@ -3804,6 +3858,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_permission_control_closed_desc_dialog_title">Rechtemanager</string>
     <string name="permission_precise_location">Genauer Standort</string>
     <string name="permission_precise_location_sumary">Wenn diese Funktion ausgeschaltet ist, können Apps nur auf Ihren ungefähren Standort zugreifen</string>
+    <string name="permission_risk_app_for_desc">Diese App könnte ein Sicherheitsrisiko darstellen. Berechtigungen trotzdem gewähren?</string>
+    <string name="permission_risk_app_for_title">Risiken entdeckt</string>
     <string name="permission_share_uid">Genauer Standort</string>
     <string name="permission_upgrade_more">Mehr Datenschutzfunktionen</string>
     <string name="permission_upgrade_privacy_title">Berechtigungen für Audioaufnahme und Kontaktezugriff haben jetzt eine Option, die es Ihnen erlaubt, solche Berechtigungen nur zu erteilen, während Sie die entsprechenden Apps verwenden. Um Ihre personenbezogenen Daten zu schützen, führen die Apps diese Aktionen nicht im Hintergrund aus.</string>
@@ -3887,6 +3943,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="permission_usage_virtual_contacts_once">%1$s | Diese App hat einen leeren Kontakt zurückgegeben</string>
     <string name="permission_usage_virtual_phone_state_once">%1$s | Diese App hat einen leeren Anrufstatus zurückgegeben</string>
     <string name="permission_usage_virtual_sms_once">%1$s | Diese App hat eine leere SMS zurückgegeben</string>
+    <string name="permission_warning_for_cancel">Abbrechen</string>
+    <string name="permission_warning_for_ensure">Gewähren</string>
+    <string name="permission_warning_for_risk">Wenn Sie sich entscheiden, die Berechtigungen zu gewähren, werden leere Nachrichten an die App zurückgeschickt, um Ihre Privatsphäre zu schützen.</string>
     <string name="permission_with_SMS_and_MMS">SMS-/MMS-Berechtigungen</string>
     <string name="permission_with_call_and_contact">Anruf-, Kontaktdaten- und Anruflistenberechtigungen</string>
     <string name="permission_with_read_write_clipboard">Apps den Zugriff auf und das Speichern von Elementen in der Zwischenablage erlauben</string>
@@ -4441,6 +4500,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_empty_location">Heute kein Standortzugriff</string>
     <string name="privacy_empty_record">Heute keine Audioaufnahme</string>
     <string name="privacy_empty_storage">Heute kein Speicherzugriff</string>
+    <string name="privacy_extra_provision_positive_btn">Zustimmen</string>
+    <string name="privacy_extra_provision_title">Erweiterungsdienste</string>
     <string name="privacy_flares_behavior_recent">App-Verhalten</string>
     <string name="privacy_flares_capsule_current">%1s | Jetzt</string>
     <string name="privacy_flares_capsule_recent">%1s | Kürzlich</string>
@@ -4519,6 +4580,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_provision_summary">Datenschutz ist die Verpflichtung hinter unserem Produktdesign.</string>
     <string name="privacy_provision_text">Wir sind verpflichtet, Ihre Privatsphäre zu respektieren und zu schützen. Xiaomi räumt der Forschung und Entwicklung auf dem Gebiet der Informationssicherheit Priorität ein und arbeitet ständig an der Verbesserung der Methoden, Praktiken und technischen Lösungen zum Schutz Ihrer Daten. Wir teilen unsere neuesten Errungenschaften auch mit unseren Partnern, um Ihre Privatsphäre in allen Bereichen zu gewährleisten.</string>
     <string name="privacy_provision_title">Datenschutz</string>
+    <string name="privacy_provison_no_network">Erst mit dem Netzwerk verbinden</string>
     <string name="privacy_recommend_category">Personalisierung</string>
     <string name="privacy_recommend_summary">Personalisierte Inhaltsempfehlungen erhalten</string>
     <string name="privacy_recommend_title">Personalisierte Inhaltsempfehlungen</string>
@@ -4797,6 +4859,10 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sd_insert_summary">SD-Karte zum Einhängen einlegen</string>
     <string name="sd_mount">SD-Karte einhängen</string>
     <string name="search_menu_title">Suchen</string>
+    <string name="search_keyword_applybar">App-Dock</string>
+    <string name="search_keyword_call">Anruf</string>
+    <string name="search_keyword_sidebar">Seitenleiste</string>
+    <string name="search_keyword_voice">Stimme</string>
     <string name="search_result_text">Keine Apps gefunden</string>
     <string name="section_clear_acc_item_title">%s. Wenn immer noch nicht genügend Speicher vorhanden ist, versuchen Sie Cleaner.</string>
     <string name="section_security_defend_item_title">Schützen Sie Ihre Daten mit der App-Sperre</string>
@@ -4919,7 +4985,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="sim_lock_done_disable">Ihre SIM-Karte ist nicht geschützt</string>
     <string name="sim_lock_done_enable">Ihre SIM-Karte ist geschützt</string>
     <string name="sim_lock_done_title">SIM-Sicherheit</string>
-    <string name="sim_lock_enable_done_message">Ihre SIM-Karte ist nun mit diesem Gerät verknüpft. Die SIM-PIN wird automatisch geprüft. Sie müssen die PIN weiterhin manuell eingeben, wenn Sie diese SIM-Karte mit anderen Geräten verwenden.</string>
+    <string name="sim_lock_enable_done_message">Ihre SIM-Karte ist mit diesem Gerät verknüpft. Sie müssen Ihre PIN bestätigen, wenn Sie die SIM-Karte verwenden oder sie in ein anderes Gerät einlegen."</string>
     <string name="sim_lock_guide_button">Einstellungen</string>
     <string name="sim_lock_guide_message">SIM-Karte mit diesem Gerät verknüpfen, um es weniger anfällig für Sicherheitsrisiken zu machen</string>
     <string name="sim_lock_guide_title">Schützen Sie Ihre SIM-Karte</string>
@@ -5851,6 +5917,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="toast_cleaner_cloudscan">Cleaner nutzt Onlinedefinitionen</string>
     <string name="toast_dark_mode_fixed">Erfolgreich behoben. Diese Seite verlassen, um Änderungen zu übernehmen.</string>
     <string name="toast_flow_notification">Datennutzungsbenachrichtigung aktiviert</string>
+    <string name="toast_gamembox_unenable_pad">Erst Game Turbo in Sicherheit einschalten</string>
+    <string name="toast_gamembox_unenable_phone">>Erst Game Turbo in Sicherheit einschalten</string>
     <string name="toast_garbage_lib">Automatische Updates für Cleaner eingeschaltet</string>
     <string name="toast_keyword_blank">Sie müssen ein Schlüsselwort eingeben</string>
     <string name="toast_keyword_exist">Schlüsselwort hinzugefügt</string>
@@ -6140,7 +6208,15 @@ Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiv
     <string name="wakepath_delete_all_tips">Wenn Sie fortfahren, müssen Sie jeder App die Berechtigung zum Öffnen anderer Apps gewähren. Trotzdem fortfahren?</string>
     <string name="wakepath_delete_app_start_all">Wenn Sie fortfahren, müssen Sie %s erneut die Berechtigung zum Öffnen anderer Apps gewähren. Trotzdem fortfahren?</string>
     <string name="wakepath_delete_app_start_other_app">Wenn Sie fortfahren, müssen Sie %1$s erneut die Berechtigung zum Öffnen von %2$s gewähren. Trotzdem fortfahren?</string>
+    <string name="wakepath_manager_allow_list">Erlaubt</string>
+    <string name="wakepath_manager_allow_start">Erlaubt</string>
+    <string name="wakepath_manager_checkbox_desc">%1$s erlauben, andere Apps zu starten</string>
+    <string name="wakepath_manager_checkbox_title">Kettenstart erlauben</string>
+    <string name="wakepath_manager_empty_list">Keine App darf starten</string>
+    <string name="wakepath_manager_reject_list">Eingeschränkt</string>
+    <string name="wakepath_manager_reject_toast">\"Kettenstart verwalten\" in Einstellungen suchen, damit diese App andere Apps starten darf</string>
     <string name="wakepath_manager_title">Kettenstart verwalten</string>
+    <string name="warningcenter_accurate_area_title">Betroffener Bereich</string>
     <string name="warningcenter_action_check">Anzeigen</string>
     <string name="warningcenter_alert_home">Standort</string>
     <string name="warningcenter_alert_room">Raum</string>
@@ -6155,7 +6231,7 @@ Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiv
     <string name="warningcenter_disaster_detail_suggest">Wir empfehlen Ihnen, Warnungen mit hoher Priorität einzuschalten</string>
     <string name="warningcenter_disaster_guide_title">Sicherheitshinweise</string>
     <string name="warningcenter_disaster_icon_title">Demo-Warnung</string>
-    <string name="warningcenter_disaster_info">Herausgegeben vom CMA-Warnzentrum</string>
+    <string name="warningcenter_disaster_info">Katastrophenwarnungen erhalten, um sicher zu bleiben und Risiken zu minimieren</string>
     <string name="warningcenter_disaster_info_title">Über Warnungen</string>
     <string name="warningcenter_disaster_level_1">Stufe I (Äußerst schwer)</string>
     <string name="warningcenter_disaster_level_2">Stufe II (Schwer)</string>
@@ -6187,6 +6263,7 @@ Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiv
     <string name="warningcenter_disaster_recent">Neueste Warnungen</string>
     <string name="warningcenter_disaster_search_hint">Warntyp/Region/ausgebende Stelle</string>
     <string name="warningcenter_disaster_search_keywords">Wetterwarnungen</string>
+    <string name="warningcenter_disaster_service_area">Umfang des Dienstes</string>
     <string name="warningcenter_disaster_title">Katastrophenwarnung</string>
     <string name="warningcenter_disaster_type_all">Alle Typen</string>
     <string name="warningcenter_disaster_type_cancel">Abgebrochen</string>

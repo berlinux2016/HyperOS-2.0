@@ -814,7 +814,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="mgtv_cd_feed_no_data">Keine Daten</string>
     <string name="mgtv_cd_load_more_fail">Laden fehlgeschlagen</string>
     <string name="mgtv_cd_load_more_finish">Laden abgeschlossen</string>
-    <string name="mgtv_cd_load_more_loading">Laden... </string>
+    <string name="mgtv_cd_load_more_loading">Laden… </string>
     <string name="mgtv_cd_load_more_nothing">Keine weiteren Daten verfügbar</string>
     <string name="mgtv_cd_retry">Wiederholen</string>
     <string name="mgtv_cd_video_err_tips">Ein Fehler ist aufgetreten, bitte erneut versuchen</string>
