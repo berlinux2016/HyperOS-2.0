@@ -196,6 +196,8 @@
     <string name="evening">Nachmittag</string>
     <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
     <string name="excerpt">Auszüge</string>
+    <string name="excerpt_ares_block">Mehrere Verstöße, Funktionen wurden deaktiviert.</string>
+    <string name="excerpt_ares_block_tmp">Mehrere Verstöße, Funktion ist vorübergehend deaktiviert.</string>
     <string name="excerpt_ares_limit">Wir freuen uns über Ihren Enthusiasmus, aber wir haben derzeit ein hohes Anfrageaufkommen. Bitte klicken Sie auf den ursprünglichen Link oder versuchen Sie es später erneut.</string>
     <string name="excerpt_bubble_tips">Kopierter Text und gespeicherte Bilder werden in Notizen gespeichert</string>
     <string name="excerpt_image_ares_limit">Wir freuen uns über Ihren Enthusiasmus, aber wir haben derzeit ein hohes Verkehrsaufkommen. Bitte sehen Sie sich das Originalbild an oder versuchen Sie es später noch einmal.</string>
