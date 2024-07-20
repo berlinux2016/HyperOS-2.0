@@ -64,6 +64,62 @@
         <item quantity="other">Vor %d Minuten</item>
         <item quantity="one">Vor 1 Minute</item>
     </plurals>
+    <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Jetzt nicht (%ds)</item>
+        <item quantity="one">Jetzt nicht (%ds)</item>
+    </plurals>
+    <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Countdown: %d Sek</item>
+        <item quantity="one">Countdown: %d Sek</item>
+    </plurals>
+    <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Mindestens %d Zeichen eingeben</item>
+        <item quantity="one">Mindestens %d Zeichen eingeben</item>
+    </plurals>
+    <plurals name="pcl_number_locked">
+        <item quantity="other">%d Apps gesperrt</item>
+        <item quantity="one">%d App gesperrt</item>
+    </plurals>
+    <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d Apps nicht gesperrt</item>
+        <item quantity="one">%d App nicht gesperrt</item>
+    </plurals>
+    <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Mindestens %d Ziffern eingeben</item>
+        <item quantity="one">Mindestens %d Ziffer eingeben</item>
+    </plurals>
+    <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Erneut senden (%ds)</item>
+        <item quantity="one">Erneut senden (%ds)</item>
+    </plurals>
+    <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Widerrufen (%ds)</item>
+        <item quantity="one">Widerrufen (%ds)</item>
+    </plurals>
+    <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Mindestens %d Punkte verbinden</item>
+        <item quantity="one">Mindestens %d Punkt verbinden</item>
+    </plurals>
+    <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Mindestens %d Punkte verbinden</item>
+        <item quantity="one">Mindestens %d Punkt verbinden</item>
+    </plurals>
+    <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">%d Ziffern eingeben</item>
+        <item quantity="one">%d Ziffer eingeben</item>
+    </plurals>
+    <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d Sek warten und erneut versuchen.</item>
+        <item quantity="one">%d Sek warten und erneut versuchen.</item>
+    </plurals>
+    <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Entfernen (%ds)</item>
+        <item quantity="one">Entfernen (%ds)</item>
+    </plurals>
+    <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Mindestens %d Punkte verbinden</item>
+        <item quantity="one">Mindestens %d Punkt verbinden</item>
+    </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">Sie verwenden Ihr Gerät seit %d Minuten ohne Unterbrechung</item>
         <item quantity="one">Sie verwenden Ihr Gerät seit %d Minute ohne Unterbrechung</item>

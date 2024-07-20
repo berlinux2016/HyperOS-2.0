@@ -55,6 +55,7 @@
     <string name="app_info_version_replace">Version: %1$s -&gt; %2$s</string>
     <string name="app_installing_not_allow">"Sie haben die Installation von %1$s blockiert. "</string>
     <string name="app_installing_not_allow_1">"%1$s wurde an der Installation einer App gehindert. "</string>
+    <string name="app_installing_not_allow_2">Installation wurde blockiert. Suchen Sie in Einstellungen nach \"Unbekannte Apps installieren\", um Ihre Einstellungen zu ändern.</string>
     <string name="app_not_found_dlg_text">App wurde nicht in der Liste der installierten Apps gefunden</string>
     <string name="app_not_found_dlg_title">App nicht gefunden</string>
     <string name="app_store_has_safe_version">Sichere Version von einer vertrauenswürdigen Quelle herunterladen</string>

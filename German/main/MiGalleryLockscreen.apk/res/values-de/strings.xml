@@ -944,10 +944,11 @@ dd.MM."</string>
     <string name="sure_close_gallery_des">Sie können keine neuen Bilder auf Ihren Start- und Sperrbildschirm erhalten, wenn Sie Hintergrundkarussell ausschalten. Trotzdem ausschalten?</string>
     <string name="surprise_wallpaper_auth_failed_tip">Validierung der Benutzerdaten fehlgeschlagen, bitte prüfen Sie Ihren Anmeldestatus und die Systemzeit.</string>
     <string name="surprise_wallpaper_can_not_open_tip">Bitte öffnen Sie zuerst die Bilddrehung</string>
+    <string name="surprise_wallpaper_can_not_support_tip">Ihr Gerät unterstützt diese Funktion zurzeit nicht!</string>
     <string name="surprise_wallpaper_empty_dlg_content">Überraschungshintergründe generieren benutzerdefinierte Hintergründe basierend auf selbst gewählten Hintergründen (falls aktiviert) oder basierend auf einer Zufallsstrategie, und die Häufigkeit der Bildrotation ist auf 1 Tag begrenzt. Wenn die Generierung fehlschlägt, wird der Hintergrund mit dem Originalbild aktualisiert.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Überraschungshintergrund</string>
     <string name="surprise_wallpaper_generate_failed_toast">Generierung dieses Überraschungshintergrunds fehlgeschlagen</string>
-    <string name="surprise_wallpaper_goto_prompts_error">Es gab eine Netzwerkausnahme. Bitte später erneut versuchen.</string>
+    <string name="surprise_wallpaper_goto_prompts_error">Netzwerkausnahme. Bitte später erneut versuchen.</string>
     <string name="surprise_wallpaper_prompts_null">Wenn Sie das Originalbild wählen, wird kein Favorit hinzugefügt</string>
     <string name="surprise_wallpaper_prompts_send_failed">Speichern fehlgeschlagen, bitte erneut versuchen.</string>
     <string name="surprise_wallpaper_prompts_send_succeed">Erfolgreich gespeichert!</string>
