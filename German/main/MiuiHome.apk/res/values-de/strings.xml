@@ -485,7 +485,6 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
     <string name="mtzgadget_missing_text">Widget nicht verfügbar</string>
-    <string name="name_aireco_name">Mi AI-Vorschläge</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Vom unteren Bildschirmrand hochwischen, dann nach links oder rechts</string>
     <string name="navigation_guide_app_quick_switch_summary">Links oder rechts vom Vollbildindikator oder vom unteren Bildschirm wischen</string>
     <string name="navigation_guide_app_quick_switch_title">Zwischen Apps wechseln</string>
@@ -706,7 +705,6 @@
     <string name="switch_screen_button_order">Tasten spiegeln</string>
     <string name="switch_screen_button_order_desc">Zurück- und Menü-Taste spiegeln</string>
     <string name="system_sdk_disabled_toast">System-SDK wurde deaktiviert. Zuerst aktivieren.</string>
-    <string name="system_shortcuts_dislike">Das gefällt mir nicht</string>
     <string name="system_shortcuts_edit">Bearbeiten</string>
     <string name="system_shortcuts_icon_remove">Entfernen</string>
     <string name="system_shortcuts_more_operation">App-Info</string>
