@@ -101,12 +101,12 @@
         <item quantity="one">Mindestens %d Punkt verbinden</item>
     </plurals>
     <plurals name="pcl_recording_intro_header_new">
-        <item quantity="other">Mindestens %d Punkte verbinden</item>
-        <item quantity="one">Mindestens %d Punkt verbinden</item>
+        <item quantity="other">Mindestens %s Punkte verbinden</item>
+        <item quantity="one">Mindestens %s Punkt verbinden</item>
     </plurals>
     <plurals name="pcl_set_unlock_pin_summary_new">
-        <item quantity="other">%d Ziffern eingeben</item>
-        <item quantity="one">%d Ziffer eingeben</item>
+        <item quantity="other">%s Ziffern eingeben</item>
+        <item quantity="one">%s Ziffer eingeben</item>
     </plurals>
     <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d Sek warten und erneut versuchen.</item>
@@ -117,8 +117,8 @@
         <item quantity="one">Entfernen (%ds)</item>
     </plurals>
     <plurals name="pcl_unlock_pattern_summary_new">
-        <item quantity="other">Mindestens %d Punkte verbinden</item>
-        <item quantity="one">Mindestens %d Punkt verbinden</item>
+        <item quantity="other">Mindestens %s Punkte verbinden</item>
+        <item quantity="one">Mindestens %s Punkt verbinden</item>
     </plurals>
     <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">Sie verwenden Ihr Gerät seit %d Minuten ohne Unterbrechung</item>
