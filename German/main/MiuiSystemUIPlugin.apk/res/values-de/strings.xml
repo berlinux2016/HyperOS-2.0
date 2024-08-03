@@ -380,7 +380,7 @@
     <string name="quick_settings_drivemode_label">Auto-Modus</string>
     <string name="quick_settings_edit_label">Bearbeiten</string>
     <string name="quick_settings_extreme_batterysaver_label">Extremes Stromsparen</string>
-    <string name="quick_settings_flashlight_label">Blitzlicht</string>
+    <string name="quick_settings_flashlight_label">Lampe</string>
     <string name="quick_settings_hang_label">Popups</string>
     <string name="quick_settings_hang_on">Sie können jetzt Popups verwenden</string>
     <string name="quick_settings_location_label">Standort</string>

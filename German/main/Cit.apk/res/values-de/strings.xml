@@ -27,9 +27,9 @@
     <string name="auto_bottom_left_low_speaker">Linke Seite unterer Tieftöner</string>
     <string name="auto_bottom_right_low_speaker">Rechte Seite unterer Tieftöner</string>
     <string name="auto_frontflash_description">Alle vorderen Blitzlichter sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
-    <string name="auto_frontflash_title">Blitzlichttest Frontkamera</string>
+    <string name="auto_frontflash_title">Blitztest Frontkamera</string>
     <string name="auto_rearflash_description">Alle Blitzlichter der Rückkamera sind an, zum Bestätigen antippen, andernfalls für Fehlschlag antippen</string>
-    <string name="auto_rearflash_title">Blitzlichttest Rückkamera</string>
+    <string name="auto_rearflash_title">Blitztest Rückkamera</string>
     <string name="auto_top_left_high_speaker">Linke Seite oberer Hochtöner</string>
     <string name="auto_top_left_low_speaker">Linke Seite oberer Tieftöner</string>
     <string name="auto_top_right_low_speaker">Rechter oberer Tieftöner</string>

@@ -1416,9 +1416,9 @@ dd.MM."</string>
     <string name="quick_settings_edit_label">Bearbeiten</string>
     <string name="quick_settings_financed_disclosure_named_management">Dieses Gerät wird von %s bereitgestellt</string>
     <string name="quick_settings_flashlight_camera_in_use">Kamera in Gebrauch</string>
-    <string name="quick_settings_flashlight_label">Blitzlicht</string>
-    <string name="quick_settings_flashlight_state_change_message_off">Blitzlicht ist aus</string>
-    <string name="quick_settings_flashlight_state_change_message_on">Blitzlicht ist an</string>
+    <string name="quick_settings_flashlight_label">Lampe</string>
+    <string name="quick_settings_flashlight_state_change_message_off">Lampe ist aus</string>
+    <string name="quick_settings_flashlight_state_change_message_on">Lampe ist an</string>
     <string name="quick_settings_font_scaling_label">Schriftgöße</string>
     <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Datensparen ist an</string>
     <string name="quick_settings_hotspot_secondary_label_num_devices">{count, plural, =1 {# Gerät} other {# Geräte} }</string>
