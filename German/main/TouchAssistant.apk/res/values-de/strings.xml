@@ -206,7 +206,7 @@
     <string name="status_bar_toggle_data">Mobile Daten</string>
     <string name="status_bar_toggle_lock">Sperren</string>
     <string name="status_bar_toggle_mute">Lautlos</string>
-    <string name="status_bar_toggle_rotate">Ausrichtung sperren</string>
+    <string name="status_bar_toggle_rotate">Drehen aus</string>
     <string name="status_bar_toggle_torch">Lampe</string>
     <string name="status_bar_toggle_vibrate">Vibration</string>
     <string name="status_bar_toggle_wifi">WLAN</string>
