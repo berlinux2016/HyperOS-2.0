@@ -2092,7 +2092,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="codec_low_latency_zmi_summary">Audioverzögerung reduzieren und Toneffekte für Spiele automatisch verbessern</string>
     <string name="codec_low_latency_zmi_title">Niedrige Latenzzeit für Spiele</string>
     <string name="collapsed">Eingeklappt</string>
-    <string name="collect_diagnosis_log">Diagnoseprotokoll sammeln</string>
+    <string name="collect_diagnosis_log">Protokoll sammeln</string>
     <string name="color_black">Schwarz</string>
     <string name="color_blue">Blau</string>
     <string name="color_calibration_none">Dieses Gerät</string>
@@ -2722,8 +2722,8 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="device_theme">Gerätethema</string>
     <string name="device_total_memory">"Gesamter Speicher "</string>
     <string name="devices_title">Geräte</string>
-    <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen.</string>
-    <string name="diagnosis_log_sent_format">Diagnoseprotokoll wurde gesendet.\nID:%s\nBitte diesen Code an den Techniker senden.</string>
+    <string name="diagnosis_log_send_failed">Protokoll senden fehlgeschlagen.</string>
+    <string name="diagnosis_log_sent_format">Protokoll wurde gesendet.\nID:%s\nBitte diesen Code an den Techniker senden.</string>
     <string name="dial_application_title">Wählen</string>
     <string name="dial_pad_tones_title">Wähltastentöne</string>
     <string name="dialog_backup_title">Elemente zuerst sichern?</string>
@@ -7599,7 +7599,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="select_webview_provider_toast_text">Diese Auswahl ist nicht mehr gültig. Erneut versuchen.</string>
     <string name="selected">Gewählt</string>
     <string name="send">Senden</string>
-    <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
+    <string name="send_diagnosis_log">Protokoll senden</string>
     <string name="sending">Senden…</string>
     <string name="sensor_toggle_description">Für alle Apps und Dienste</string>
     <string name="sensors_hal_log_summary">Logs für Hardware Abstraction Layer (HAL) des Sensors verwenden</string>

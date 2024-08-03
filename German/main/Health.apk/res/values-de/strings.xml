@@ -190,7 +190,7 @@
     <string name="close_stand_notice_and_detection_tip">Erinnerungen einschalten</string>
     <string name="close_stand_notice_tip">Aufstehen verfolgen starten</string>
     <string name="collapse">Ausblenden</string>
-    <string name="collect_diagnosis_log">Diagnoseprotokoll erfassen</string>
+    <string name="collect_diagnosis_log">Protokoll erfassen</string>
     <string name="complete_preference_basic_info">Vervollständigen Sie Ihr Profil</string>
     <string name="complete_progress">Fortschritt</string>
     <string name="completed">"Abgeschlossen "</string>
@@ -292,8 +292,8 @@
     <string name="device_list_origin_description">Diese Geräte sind mit dem Xiaomi-Konto %1$s verbunden. Wenn Sie das benötigte Gerät hier nicht finden, prüfen Sie, ob Sie es bereits in der entsprechenden App hinzugefügt haben.</string>
     <string name="device_off_sync_description">Auf diesem Gerät generierte Gesundheitsdaten werden nicht mit Xiaomi Health synchronisiert.</string>
     <string name="device_unbound_from_account">Dieses Gerät ist nicht länger mit Ihrem Konto verbunden</string>
-    <string name="diagnosis_log_send_failed">Diagnoseprotokoll senden fehlgeschlagen</string>
-    <string name="diagnosis_log_sent_format">Diagnoseprotokoll wurde gesendet.\nID:%s\nBitte senden Sie dem Techniker diesen Code.</string>
+    <string name="diagnosis_log_send_failed">Protokoll senden fehlgeschlagen</string>
+    <string name="diagnosis_log_sent_format">Protokoll wurde gesendet.\nID:%s\nBitte senden Sie dem Techniker diesen Code.</string>
     <string name="dialog_abandon">Verwerfen</string>
     <string name="dialog_abandon_sleep_edit">Änderungen verwerfen?</string>
     <string name="dialog_account_perm_desc">Für den Zugriff auf und die Anmeldung am Systemkonto</string>
@@ -1059,7 +1059,7 @@
     <string name="select_swim_posture">Stil auswählen</string>
     <string name="select_target">Ziel auswählen</string>
     <string name="send">Senden</string>
-    <string name="send_diagnosis_log">Diagnoseprotokoll senden</string>
+    <string name="send_diagnosis_log">Protokoll senden</string>
     <string name="sending">Senden…</string>
     <string name="set_emergency_contact">Notfallkontakt</string>
     <string name="setting">Einstellungen</string>
