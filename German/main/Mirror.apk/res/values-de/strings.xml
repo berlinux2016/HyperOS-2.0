@@ -22,6 +22,7 @@
     <string name="accessibility_keyboard_letter_board_caps_lock_button">Feststelltaste</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">Ziffern</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Symbole</string>
+    <string name="accessibility_keyboard_ok_button">Eingabe</string>
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Buchstaben</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbolsperre</string>
     <string name="actionbar_button_up_description">Zurück</string>
@@ -593,7 +594,7 @@
     <string name="tuesday_shortest">D</string>
     <string name="upgrade_car_not_tip">Nicht mehr anzeigen</string>
     <string name="upgrade_car_ok">Verstanden</string>
-    <string name="upgrade_car_version_msg">Um diese Funktion zu nutzen, aktualisieren Sie Ihr EV-System auf Version 1.2.1 oder höher unter Einstellungen > System > Systemversion.</string>
+    <string name="upgrade_car_version_msg">Um Ihr Telefon mit Ihrem EV zu verbinden, aktualisieren Sie Ihr EV-System auf Version 1.2.3 oder höher unter Einstellungen > System > Systemversion.</string>
     <string name="upgrade_car_version_title">Aktualisieren Sie Ihr EV-System</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>

@@ -1101,6 +1101,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="upgrade_now">Aktualisieren</string>
     <string name="upgrade_phone_device_tip">*Updates werden von Xiaomi Phone bereitgestellt</string>
     <string name="upgrade_scan">Nach Updates suchen</string>
+    <string name="upgrade_set_menu">Einstellungen</string>
     <string name="upgrade_start">Aktualisieren</string>
     <string name="upgrade_start_all">Aktualisieren</string>
     <string name="upgrade_title">Verbundene Geräte aktualisieren</string>

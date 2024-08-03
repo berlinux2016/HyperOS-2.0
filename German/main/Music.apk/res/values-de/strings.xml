@@ -66,6 +66,12 @@
     <string name="afternoon">Nachmittag</string>
     <string name="agreement_desc">Nutzervereinbarung (obligatorisch)</string>
     <string name="alaka_required">Sie sollten für diesen Titel bezahlen, um ihn anzuhören</string>
+    <string name="alarm_clock_album_modify_fail">Ändern fehlgeschlagen</string>
+    <string name="alarm_clock_audio_name">Wetter am Morgen</string>
+    <string name="alarm_clock_audio_text_city">Das Wetter in %1$s ist heute: %2$s.</string>
+    <string name="alarm_clock_audio_text_date">Guten Morgen! Heute ist %1$s.</string>
+    <string name="alarm_clock_audio_text_temperature">Temperatur: %1$s</string>
+    <string name="alarm_clock_click_hint">Tippen, um das Wetter von heute zu erfahren</string>
     <string name="alarm_clock_recommend_desc">Jeden Tag mit einem neuen Song aufwachen</string>
     <string name="alarm_clock_recommend_switch">Empfohlener Song-Wecker</string>
     <string name="alarm_clock_ringtones_successful">Wecker erfolgreich gestellt</string>
@@ -1001,6 +1007,7 @@ Wenn Sie sich für die dauerhafte Löschung aller Daten entscheiden, werden Sie 
     <string name="network_error_and_retry">Verbindung fehlgeschlagen, tippen und erneut versuchen</string>
     <string name="network_request_error">Netzwerkverbindung fehlgeschlagen</string>
     <string name="network_settings_error">Netzwerkverbindung fehlgeschlagen</string>
+    <string name="network_tip_title">Streamen Sie eine Welt neuer Musik</string>
     <string name="network_traffic">Datennutzung</string>
     <string name="next_time">Jetzt nicht</string>
     <string name="next_to_play">Weiter</string>
@@ -1434,6 +1441,7 @@ Wenn Sie sich für die dauerhafte Löschung aller Daten entscheiden, werden Sie 
     <string name="set_ringtones_failed">Klingelton wurde nicht eingestellt</string>
     <string name="set_ringtones_successful">%s als Klingelton eingestellt</string>
     <string name="setting_feature_setting">Funktionseinstellungen</string>
+    <string name="setting_open">Einschalten</string>
     <string name="settings">Einstellungen</string>
     <string name="settings_search_key_notification">Musik;Musikbenachrichtigungen;Erinnerungen;Musik;Song;Titel</string>
     <string name="settings_search_path_advance">System-Apps/Musik/Dienste und Einstellungen/Erweiterte Einstellungen</string>

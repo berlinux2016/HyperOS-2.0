@@ -172,6 +172,8 @@
     <string name="ai_recreate_image_dialog_msg">Sie können das Hochladen von Fotos fortsetzen oder neue Fotos auswählen.</string>
     <string name="ai_recreate_image_dialog_title">Fotos von %s wurden nicht hochgeladen</string>
     <string name="ai_refuse_update_toast">Neue Fotos wählen, um dieses KI-Bild zu aktualisieren</string>
+    <string name="ai_search_picker_next_step">Weiter</string>
+    <string name="ai_search_picker_title">Segment wählen</string>
     <string name="ai_select_people_sub_title" formatted="false">Die besten %1d-%2d Fotos werden automatisch ausgewählt</string>
     <string name="ai_select_people_title">Person wählen, um ihr KI-Bild zu erstellen</string>
     <string name="ai_select_photo_complete_description" formatted="false">Wählen Sie %1d-%2d Gesichts- oder Halbkörperaufnahmen. \nDie besten Aufnahmen wurden automatisch gewählt. Sie können weitere Fotos manuell hinzufügen.</string>
@@ -687,16 +689,21 @@
     <string name="delete_album_msg_format_cloud">%1$s %2$s aus der Xiaomi Cloud und von allen synchronisierten Geräten löschen?</string>
     <string name="delete_album_msg_format_local">%1$s %2$s löschen?</string>
     <string name="delete_album_success">Album gelöscht</string>
+    <string name="delete_all_photos">Sie sind dabei, alle Fotos auf diesem Gerät zu löschen. Dabei können wichtige Daten verloren gehen. Trotzdem löschen?</string>
     <string name="delete_from_all_devices_and_cloud">von allen Geräten und aus der Xiaomi Cloud</string>
     <string name="delete_from_cloud">Auch aus der Xiaomi Cloud löschen</string>
     <string name="delete_from_this_album_and_cloud">aus diesem Album und aus der Xiaomi Cloud</string>
     <string name="delete_in_album">Gewählte Elemente werden aus der Cloud und von allen verbundenen Geräten gelöscht und unter den zuletzt gelöschten Elementen für %d Tage gespeichert, wenn Sie einen kostenlosen Cloud-Speichertarif haben. Trotzdem löschen?</string>
     <string name="delete_in_home_page">Gewählte Elemente werden aus der Cloud und von allen verbundenen Geräten gelöscht und unter den zuletzt gelöschten Elementen für %d Tage gespeichert, wenn Sie einen kostenlosen Cloud-Speichertarif haben. Trotzdem löschen?</string>
     <string name="delete_in_process">Löschen…</string>
+    <string name="delete_media_dialog_comment">Diese Elemente werden zunächst nach \"Gelöschte Elemente\" verschoben. Von dort aus können Sie sie wiederherstellen oder endgültig löschen.</string>
     <string name="delete_media_for_cloud">Gewählte Elemente werden aus der Cloud und von allen synchronisierten Geräten nach Zuletzt gelöschte Elemente verschoben.</string>
+    <string name="delete_media_from_cloud">Ausgewählte Elemente werden von allen Geräten und aus der Cloud gelöscht. Trotzdem löschen?</string>
     <string name="delete_origin">Fotos im Originalalbum löschen</string>
     <string name="delete_other_shared_images">Von anderen geteilte Fotos können nicht gelöscht werden</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d gelöscht, %2$d gespeichert</string>
+    <string name="delete_risk_alert_message">Sie haben eine große Anzahl von Elementen zum Löschen ausgewählt. Wenn Sie fortfahren, werden diese Elemente in \"Gelöschte Elemente\" verschoben. Elemente jetzt löschen?</string>
+    <string name="delete_risk_alert_title">Achtung</string>
     <string name="delete_third_party_photo">Dieses Foto löschen?</string>
     <string name="delete_third_party_video">Dieses Video löschen?</string>
     <string name="deny">Ablehnen</string>
@@ -884,6 +891,8 @@
     <string name="ext_sdcard_permission_request_reason">Galerie benötigt Ihre Erlaubnis, auf die SD-Karte zuzugreifen. Dann können Sie Fotos und Videos, die auf Ihrer SD-Karte gespeichert sind, löschen und bearbeiten.</string>
     <string name="ext_sdcard_permission_request_title">Galerie den SD-Kartenzugriff erlauben</string>
     <string name="ext_sdcard_request_succeed_toast_text">Sie sind bereit zu rocken!</string>
+    <string name="external_delete_notification_content">Tippen zum Anzeigen kürzlich gelöschter Elemente, um sicherzustellen, dass nichts Wichtiges verloren geht</string>
+    <string name="external_delete_notification_title">Aus der Galerie gelöschte Elemente</string>
     <string name="face_album_empty">Nicht genug Fotos, um Personen zu erkennen.\nMachen Sie mehr Fotos von Ihren Freunden!</string>
     <string name="face_album_empty_syncing">Datensynchronisation, kommen Sie später wieder</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Mit Netzwerk verbinden, um Infos zu synchronisieren</string>
@@ -946,7 +955,7 @@
     <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="foods_people_title">Paradies für Geschmacksnerven</string>
+    <string name="foods_people_title">Lange nicht gesehen</string>
     <string name="foods_people_travel_title">Wir essen uns durch %2$s mit %1$s</string>
     <string name="foods_travel_title_one">Eine Kostprobe von %1$s</string>
     <string name="foods_travel_title_three">Feinschmecker %1$s</string>
@@ -976,13 +985,19 @@
     <string name="global_pc">Mein Laptop</string>
     <string name="global_phone">Mein Telefon</string>
     <string name="global_trash_vip_info_text_login_medium_or_low_level">Gelöschte gesicherte Elemente können bis zu %1$s Tage in der Cloud bleiben. Nicht gesicherte Elemente werden bis zu %2$s Tage aufbewahrt.</string>
+    <string name="google_banner_back_stop">Sicherung wurde gestoppt</string>
+    <string name="google_banner_back_stop_des">Ihr Speicher im Google-Konto ist erschöpft. Um die Sicherung Ihrer Fotos fortzusetzen, holen Sie sich mehr Speicher oder räumen Sie Ihren Speicher auf.</string>
     <string name="google_banner_backup_des">Starten Sie jetzt und bewahren Sie Ihre Fotos und Videos sicher in Google Fotos auf.</string>
     <string name="google_banner_backup_left_btn_text">Jetzt nicht</string>
     <string name="google_banner_backup_right_btn_text">Sichern einschalten</string>
     <string name="google_banner_backup_title">Sichern Sie Ihre Elemente in Google Fotos</string>
     <string name="google_banner_upgrade_des">Sie können mehr Cloud-Speicher für Ihr Google-Konto kaufen.</string>
+    <string name="google_banner_upgrade_left_btn_clean_space">Speicher aufräumen</string>
     <string name="google_banner_upgrade_left_btn_text">Details anzeigen</string>
+    <string name="google_banner_upgrade_right_btn_get_storage">Speicher holen</string>
     <string name="google_banner_upgrade_right_btn_text">Speicher kaufen</string>
+    <string name="google_banner_upgrade_space_low_des">Bald werden Sie keine neuen Fotos und Videos mehr sichern können</string>
+    <string name="google_banner_upgrade_space_low_title">Ihr Speicher ist %s voll</string>
     <string name="google_banner_upgrade_title">Cloud-Speicher ist voll</string>
     <string name="google_open_backup_error">Verbindung zu Google Fotos fehlgeschlagen</string>
     <string name="google_secret_add_content">Um privat markierte Elemente anzuzeigen, wischen Sie in \"Alben\" nach unten.</string>
@@ -1344,6 +1359,7 @@
     <string name="multi_view_tip_button_text">Verstanden</string>
     <string name="multi_view_tip_sub_title">Zwei Finger auseinander spreizen oder aufeinander zu bewegen, um die Größe der angezeigten Elemente anzupassen</string>
     <string name="multi_view_tip_title">Rein- und rauszoomen</string>
+    <string name="multiwindow_not_support_camera">Kamera kann nicht im Mehrfenstermodus verwendet werden</string>
     <string name="must_pick_file">Foto auswählen</string>
     <string name="my_family">Mein Zuhause</string>
     <string name="national_day">Nationalfeiertag</string>
@@ -2430,7 +2446,7 @@
     <string name="toast_invalid_char">Dateinamen dürfen \"%s\" nicht enthalten</string>
     <string name="toast_invalid_prefix">Dateinamen dürfen nicht mit \".\" oder \"_\" beginnen</string>
     <string name="toast_orientation_locked">Ausrichtung erfolgreich gesperrt</string>
-    <string name="toast_orientation_unlock">Bildschirmausrichtung entsperrt</string>
+    <string name="toast_orientation_unlock">Ausrichtung entsperrt</string>
     <string name="toast_pdf_create_failed">Erstellen fehlgeschlagen. Erneut versuchen.</string>
     <string name="toast_rename_exit">Diese Datei existiert bereits</string>
     <string name="today">Heute</string>
@@ -2439,7 +2455,9 @@
     <string name="today_of_year_function_closed_btn_tip">Einschalten</string>
     <string name="today_of_year_function_closed_tip">Sie haben \"An diesem Tag\" noch nicht eingeschaltet</string>
     <string name="today_of_year_location_num">Orte</string>
+    <string name="today_of_year_next_day">Nächster Tag</string>
     <string name="today_of_year_photo_num">Fotos</string>
+    <string name="today_of_year_pre_day">Voriger Tag</string>
     <string name="tomorrow">Morgen</string>
     <string name="too_many_recipients">Nicht mehr als %2$s Empfänger können hinzugefügt werden (Sie haben derzeit %1$s hinzugefügt).</string>
     <string name="tran_notification_complete_title">Übertragung abgeschlossen</string>
@@ -2571,10 +2589,10 @@
     <string name="video_compress_save_stop_tips">Erneutes Tippen beendet die Komprimierung</string>
     <string name="video_compress_size">≈ %s nach Komprimierung</string>
     <string name="video_edit_file_not_exits_tip">Sie müssen das Video zuerst herunterladen</string>
-    <string name="video_editor_component_delete_btn_content_description">Video %d entfernen</string>
+    <string name="video_editor_component_delete_btn_content_description">Sement %d entfernen</string>
     <string name="video_editor_component_next_step">Weiter %1$d/%2$d</string>
     <string name="video_editor_component_next_step_enabled_content_description">Weiter</string>
-    <string name="video_editor_component_picked_imageview_content_description">Video-Slot %d hinzugefügt</string>
+    <string name="video_editor_component_picked_imageview_content_description">Segment zu Slot %d hinzugefügt</string>
     <string name="video_editor_not_support_8k_tips">%dK-Videos bearbeiten fehlgeschlagen</string>
     <string name="video_editor_picker_duration_too_short">Video ist zu kurz</string>
     <string name="video_err">Video kann nicht abgespielt werden</string>

@@ -47,13 +47,13 @@
     <string name="alert_xiaoai_ringtone_desc">Mi AI spricht…</string>
     <string name="app_label">Uhr</string>
     <string name="auto_silence_entries1">Nie</string>
-    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> Minute</string>
-    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> Minuten</string>
-    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> Minuten</string>
-    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> Minuten</string>
-    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> Minuten</string>
-    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> Minuten</string>
-    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> Minute</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> Minuten</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> Minuten</string>
     <string name="auto_silence_summary">Zeit einstellen, nach der Wecker und Timer stummgeschaltet werden</string>
     <string name="auto_silence_title">Aut. Stummschaltung</string>
     <string name="back">Beenden</string>
@@ -346,9 +346,9 @@
     <string name="not_set_temporarily">Nein danke</string>
     <string name="not_update">Jetzt nicht</string>
     <string name="notification_adv_time_entries1">Zur festgelegten Zeit</string>
-    <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> Minuten im Voraus</string>
-    <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> Minuten im Voraus</string>
-    <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> Stunde im Voraus</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> Minuten im Voraus</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> Minuten im Voraus</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> Stunde im Voraus</string>
     <string name="notification_adv_time_entries5">Keine</string>
     <string name="notification_permission_desc">Wenn Sie die Berechtigung für Benachrichtigungen nicht erteilen, können Sie Wecker nicht ausschalten, wenn sie klingeln. Berechtigung jetzt erteilen?</string>
     <string name="notification_permission_dialog_content">Diese App darf Benachrichtigungen senden, um Weckerbenachrichtigungen zu erhalten. Sie können diese Berechtigung in Einstellungen erteilen.</string>

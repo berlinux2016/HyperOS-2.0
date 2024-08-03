@@ -238,6 +238,14 @@ Hinweis: Datei wird auch von diesem Gerät gelöscht."</item>
         <item quantity="other">Heute %1$d Münzen sammeln</item>
         <item quantity="one">Heute %1$d Münze sammeln</item>
     </plurals>
+    <plurals name="temp_range_c">
+        <item quantity="other">%1$d bis %2$d Grad Celsius</item>
+        <item quantity="one">%1$d bis %2$d Grad Celsius</item>
+    </plurals>
+    <plurals name="temp_range_f">
+        <item quantity="other">%1$d bis %2$d Grad Fahrenheit</item>
+        <item quantity="one">%1$d bis %2$d Grad Fahrenheit</item>
+    </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s Aufrufe</item>
         <item quantity="one">%1$s Aufruf</item>
