@@ -1152,6 +1152,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="special_code_security_exception">Aktion wurde nicht abgeschlossen. Dies ist nicht Ihre Standard-Wähltastatur.</string>
     <string name="splitConfirmation_title">Kontakt aufteilen?</string>
+    <string name="split_screen_fab_toast">Ziehen, um die Wähltastatur zu benutzen</string>
     <string name="starredList">Markiert</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Verfügbar</string>

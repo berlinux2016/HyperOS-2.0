@@ -1162,7 +1162,7 @@
     <string name="video_compressing">Video komprimieren…</string>
     <string name="view">Anzeigen</string>
     <string name="view_message_details">Details anzeigen</string>
-    <string name="vital_signs_cta_body">Vitalwerte (inkl. Puls, SpO₂ und medizinische Kartendaten) werden von Mi Fitness übernommen. Wenn Sie unten ein Häkchen setzen, erklären Sie sich damit einverstanden, dass wir auf diese Daten zugreifen und sie verwenden. \nNur die ersten 50 Zeichen jedes Elements der Krankenversicherungskarte werden beibehalten, um die Länge der Nachricht zu kontrollieren.</string>
+    <string name="vital_signs_cta_body">Vitalwerte (inkl. Puls, SpO₂ und medizinische Kartendaten) werden von Xiaomi Health übernommen. Wenn Sie unten ein Häkchen setzen, erklären Sie sich damit einverstanden, dass wir auf diese Daten zugreifen und sie verwenden. \nNur die ersten 50 Zeichen jedes Elements der Krankenversicherungskarte werden beibehalten, um die Länge der Nachricht zu kontrollieren.</string>
     <string name="vital_signs_cta_title">Vitalwerte</string>
     <string name="vital_signs_data_allergy">Allergien: %s</string>
     <string name="vital_signs_data_disease">Chronische Erkrankungen: %s</string>
@@ -1174,8 +1174,8 @@
     <string name="vital_signs_data_low_spo2_multi">Niedrige SpO₂ mehrmals in der letzten Stunde. Zuletzt: %1$d%%–%2$d%% (%3$s–%4$s)</string>
     <string name="vital_signs_data_medical">Behandlung: %s</string>
     <string name="vital_signs_toast_exception">Vitalwerte nicht abrufbar</string>
-    <string name="vital_signs_toast_health_app_low">Mi Fitness aktualisieren, um Vitalwerte abzurufen</string>
-    <string name="vital_signs_toast_health_app_no_install">Mi Fitness installieren, um Vitalwerte abzurufen</string>
+    <string name="vital_signs_toast_health_app_low">Xiaomi Health aktualisieren, um Vitalwerte abzurufen</string>
+    <string name="vital_signs_toast_health_app_no_install">Xiaomi Health installieren, um Vitalwerte abzurufen</string>
     <string name="vital_signs_toast_no_bpm_spo2">Puls und SpO₂-Daten wurden nicht ermittelt</string>
     <string name="vital_signs_toast_no_data">Vitalwerte nicht abrufbar</string>
     <string name="vital_signs_wait_body">Datenzugriff. Dies kann eine Minute dauern.</string>

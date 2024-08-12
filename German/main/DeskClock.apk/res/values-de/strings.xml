@@ -407,7 +407,7 @@
     <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>
     <string name="sleep_analysis">Statistik</string>
     <string name="sleep_analysis_chart_date_format">dd.MM.</string>
-    <string name="sleep_date_provider_text_new">Schlafdaten bereitgestellt von Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Schlafdaten bereitgestellt von Xiaomi Health</string>
     <string name="sleep_duration">"Schlafdauer: "</string>
     <string name="sleep_duration_avg_text_diff">Durchschnittl. Schlafdauer (%1$s-%2$s)</string>
     <string name="sleep_duration_no_data">Noch nicht genug Daten</string>
@@ -420,7 +420,7 @@
     <string name="sleep_record">Schlaf verfolgen</string>
     <string name="sleep_record_desc">Einschalten, um die Aufnahme von Schlafdaten zu starten</string>
     <string name="sleep_record_desc_detailed">Schlaferfassung wird von Xiaomi Health bereitgestellt. Einmal eingeschaltet, zeichnet Xiaomi Health automatisch Ihren Schlaf auf, basierend auf Ihrer Telefonnutzung, Aktivitätsstatistik und der von Ihnen eingestellten Schlaf- und Aufwachzeit, und zeigt Ihnen die Statistik in Form von Diagrammen an. Um den Schlaf noch genauer zu erfassen, lassen Sie Xiaomi Health automatisch starten. Alle zugehörigen Daten werden zur einfachen Verwaltung lokal auf Ihrem Gerät gespeichert.</string>
-    <string name="sleep_record_desc_detailed_new">Schlaferfassung wird durch die Mi Fitness-Schlaffunktion ermöglicht. Wenn Sie diese Funktion aktivieren, sammelt Mi Fitness automatisch Daten zu Ihrem Schlaf, basierend auf Ihrer Telefonnutzung, Aktivität und der von Ihnen eingestellten Schlaf- und Aufwachzeit, und zeigt diese an. Um den Schlaf genauer zu erfassen, lassen Sie Mi Fitness automatisch starten.</string>
+    <string name="sleep_record_desc_detailed_new">Schlaferfassung wird durch die Xiaomi Health-Schlaffunktion ermöglicht. Wenn Sie diese Funktion aktivieren, sammelt Xiaomi Health automatisch Daten zu Ihrem Schlaf, basierend auf Ihrer Telefonnutzung, Aktivität und der von Ihnen eingestellten Schlaf- und Aufwachzeit, und zeigt diese an. Um den Schlaf genauer zu erfassen, lassen Sie Xiaomi Health automatisch starten.</string>
     <string name="sleep_record_no_data">Ihre Statistik wird hier angezeigt, sobald\nMi Health genügend Daten analysiert hat.</string>
     <string name="sleep_remind">Schlafenszeit-Erinnerung</string>
     <string name="sleep_time">Einschlafen</string>
@@ -542,8 +542,8 @@
     <string name="upcoming_alarm">Anstehender Wecker: %s</string>
     <string name="upcoming_alarm_hint">Sie können diesen Wecker jetzt beenden</string>
     <string name="upcoming_alarm_new">Anstehender Wecker: %s</string>
-    <string name="update_health_app_desc_new">Schlaferfassung wird von Mi Fitness bereitgestellt. Mi Fitness auf die neueste Version aktualisieren, um auf entsprechende Funktionen zuzugreifen.</string>
-    <string name="update_health_app_new">Mi Fitness aktualisieren</string>
+    <string name="update_health_app_desc_new">Schlaferfassung wird von Xiaomi Health bereitgestellt. Xiaomi Health auf die neueste Version aktualisieren, um auf entsprechende Funktionen zuzugreifen.</string>
+    <string name="update_health_app_new">Xiaomi Health aktualisieren</string>
     <string name="update_it">Aktualisieren</string>
     <string name="update_notification_info">Daten im Hintergrund aktualisieren…</string>
     <string name="v7_preference_off">AUS</string>
