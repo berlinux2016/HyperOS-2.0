@@ -20,24 +20,33 @@
     <string name="access_denied_info">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="access_photos_and_videos">Zugriff auf Fotos und Videos</string>
     <string name="action_collapse">Ausblenden</string>
+    <string name="action_copy">Kopieren</string>
     <string name="action_expand">Mehr anzeigen</string>
+    <string name="action_insert">Zusammenfassung einfügen</string>
     <string name="action_mode_switcher_grid_description">Rasteransicht</string>
     <string name="action_mode_switcher_list_description">Listenansicht</string>
+    <string name="action_replace">Original ersetzen</string>
+    <string name="action_retry">Erneuern</string>
     <string name="action_settings_description">Einstellungen</string>
     <string name="action_to_link">URL öffnen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="actionbar_close_description">Schließen</string>
     <string name="actionbar_home_description">Zurück</string>
     <string name="add_account_desc">Notizen mit dem Xiaomi-Konto synchronisieren?</string>
-    <string name="add_excerpt_summary">Zur Übersichtsliste hinzufügen</string>
-    <string name="add_pic_excerpt_summary">Bildzusammenfassung hinzufügen</string>
-    <string name="add_text_excerpt_summary">Textzusammenfassung hinzufügen</string>
+    <string name="add_modifications">Vorschlag: \"%1$s\" hinzufügen</string>
     <string name="added_to_clipboard">Erfolgreich kopiert</string>
+    <string name="adopt">Verwenden</string>
     <string name="afternoon">Nachmittag</string>
-    <string name="ai_chat_declare_double_link"><Data>Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, bevor sie fortfahren.</Data></string>
-    <string name="ai_chat_dlg_content">Für verschiedene Informationsquellen in unterschiedlichen Szenarien (z. B. Links oder Texte, die in Apps wie Browsern, WeChat und Feishu erscheinen) kann die Funktion des schnellen Sammelns und Zusammenfassens von Informationen sowie des automatischen Generierens und Präsentierens in einem einheitlichen Eintrag für die Archivierung erreicht werden.</string>
-    <string name="ai_createing_text">KI generiert…</string>
-    <string name="ai_watermark">Durch KI generieren:</string>
+    <string name="ai_check">KI-Korrekturlesen</string>
+    <string name="ai_failed">Erstellen fehlgeschlagen. Erneut versuchen.</string>
+    <string name="ai_feature_disabled">Sie haben mehrfach gegen unsere Community-Standards verstoßen. Diese Funktion ist nicht mehr verfügbar.</string>
+    <string name="ai_label">KI-Funktionen</string>
+    <string name="ai_layout">KI-Layout</string>
+    <string name="ai_result_warn">Obiger Inhalt ist KI-generiert. Genauigkeit kann variieren.</string>
+    <string name="ai_sensitive_content_warn">KI-Funktionen können nicht für sensible oder unangemessene Inhalte verwendet werden</string>
+    <string name="ai_summary">KI-Zusammenfassung</string>
+    <string name="ai_translate">KI-Übersetzung</string>
+    <string name="ai_watermark">Dieser Inhalt ist KI-generiert und dient nur zu Ihrer Referenz.</string>
     <string name="alarm_bar_title">Erinnerung</string>
     <string name="alert_action_edit_anyway">Weiter bearbeiten</string>
     <string name="alert_message_delete">%1$s löschen?</string>
@@ -70,6 +79,7 @@
     <string name="audio_toast_file_invalid">Audiodatei ist ungültig</string>
     <string name="audio_toast_file_undownload">Audiodatei ist nicht vollständig heruntergeladen oder fehlt</string>
     <string name="audio_toast_network_is_not_available">Netzwerkverbindung fehlgeschlagen</string>
+    <string name="auto_detected">Auto-Erkennung</string>
     <string name="blackboard_note">Smarte Tafel</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="btn_next">Weiter</string>
@@ -89,6 +99,7 @@
     <string name="continuous_default_hint">Text kopieren, Bilder und Screenshots als Auszüge speichern</string>
     <string name="continuous_new_excerpt_title">Neuer Auszug</string>
     <string name="copy">Kopieren</string>
+    <string name="copy_toast_text">Erfolgreich kopiert</string>
     <string name="cta_agree_desc">Dieser App die Internetverbindung erlauben und die optionalen Berechtigungen erteilen, um alle ihre Funktionen zu verwenden.</string>
     <string name="cta_confirm_cancel">Nicht erlauben</string>
     <string name="cta_confirm_ok">Erlauben</string>
@@ -182,6 +193,7 @@
     <string name="empty_folder_no_notes">Keine Notizen hier</string>
     <string name="enable_sync">Synchronisieren</string>
     <string name="enable_sync_desc">Notizen mit dem Xiaomi-Konto synchronisieren (%1$s)?</string>
+    <string name="enter_content">Erst Inhalt eingeben</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_contact_not_exist">Kontakt nicht gefunden</string>
@@ -196,20 +208,8 @@
     <string name="evening">Nachmittag</string>
     <string name="exceed_todo_text_limitation">Aufgabenbeschreibung zu lang</string>
     <string name="excerpt">Auszüge</string>
-    <string name="excerpt_ares_block">Mehrere Verstöße, Funktionen wurden deaktiviert.</string>
-    <string name="excerpt_ares_block_tmp">Mehrere Verstöße, Funktion ist vorübergehend deaktiviert.</string>
-    <string name="excerpt_ares_limit">Wir freuen uns über Ihren Enthusiasmus, aber wir haben derzeit ein hohes Anfrageaufkommen. Bitte klicken Sie auf den ursprünglichen Link oder versuchen Sie es später erneut.</string>
     <string name="excerpt_bubble_tips">Kopierter Text und gespeicherte Bilder werden in Notizen gespeichert</string>
-    <string name="excerpt_image_ares_limit">Wir freuen uns über Ihren Enthusiasmus, aber wir haben derzeit ein hohes Verkehrsaufkommen. Bitte sehen Sie sich das Originalbild an oder versuchen Sie es später noch einmal.</string>
-    <string name="excerpt_image_summary_fail">Inhalt parsen fehlgeschlagen. Originalbild prüfen oder später erneut versuchen.</string>
-    <string name="excerpt_image_summary_huangfan">Der Inhalt ist sensibel, bitte sehen Sie sich das Originalbild an.</string>
     <string name="excerpt_link_bubble_tips">Tippen, um in Notizen zu speichern</string>
-    <string name="excerpt_original_image">Originalbild:</string>
-    <string name="excerpt_original_text">Originaltext:</string>
-    <string name="excerpt_summary_fail">Inhalt parsen fehlgeschlagen. Bitte klicken Sie auf den ursprünglichen Link oder versuchen Sie es später erneut.</string>
-    <string name="excerpt_summary_huangfan">Der Inhalt ist sensibel. Bitte klicken Sie zur Ansicht auf den Original-Link.</string>
-    <string name="excerpt_summary_link_bubble_tips">Tippen, um die Zusammenfassung in Notizen zu speichern</string>
-    <string name="excerpt_text_min">Es gibt zu wenig Text, um eine Zusammenfassung zu erstellen. Bitte sehen Sie sich das Originalbild an.</string>
     <string name="excerpted_to_note">Auszug in Notizen gespeichert</string>
     <string name="excerpting">Auszug erstellen…</string>
     <string name="expand_button_title">Erweitert</string>
@@ -250,6 +250,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
+    <string name="generating">Einen Moment…</string>
     <string name="gesture_guide_cancel">Überspringen</string>
     <string name="gesture_guide_title">Gesten</string>
     <string name="hand_write_only_support_tablet_editing">Handschriftliche Notizen können nur auf Tablets bearbeitet werden</string>
@@ -275,6 +276,7 @@
     <string name="last_excerpt_unfinish_hint">Der letzte Auszug ist unvollständig</string>
     <string name="loading_text">Einen Moment…</string>
     <string name="login_sync">Anmelden &amp; Synchronisieren</string>
+    <string name="main_body">Volltext</string>
     <string name="manage_folders">Ordner verwalten</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_hour_selection">Stunde auswählen</string>
@@ -466,6 +468,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="net_error">Ein Netzwerkfehler ist aufgetreten</string>
     <string name="network_error_info">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="network_timeout_info">Netzwerkverbindung fehlgeschlagen. Erneut versuchen.</string>
     <string name="new_alert_title_delete">Notizen löschen</string>
@@ -511,6 +514,7 @@
     <string name="option_menu_save_as">Speichern unter</string>
     <string name="option_menu_save_as_pic">Als Bild speichern</string>
     <string name="option_menu_share">Teilen</string>
+    <string name="original_empty_content">Kein Inhalt in der Originalversion</string>
     <string name="pad_collpase_navigation">Navigationsleiste ausblenden</string>
     <string name="pad_dialog_take_photo_by_device">Foto mit %1$s machen</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Kamera verwenden…</string>
@@ -551,6 +555,8 @@
     <string name="pc_todo_fast_create_hint">Text eingeben und \"Eingabe\" antippen, um eine nicht beendete Aufgabe hinzuzufügen</string>
     <string name="pc_todo_set_remind_time_hint">Zeit festlegen</string>
     <string name="permdesc_accessNote">Schädliche Apps können dies nutzen, um auf Ihre personenbezogenen Daten zuzugreifen.</string>
+    <string name="permission_ai_desc_n">&lt;Data>Um Ihnen die Notizen KI-Dienste anbieten zu können, sammelt Notizen den von Ihnen eingegebenen Text, um Zusammenfassungen zu erstellen und den Text zu optimieren. Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung und Erklärung zur Weitergabe von Daten an Dritte&lt;/a>, bevor Sie fortfahren.&lt;/Data></string>
+    <string name="permission_ai_title">Notizen KI-Dienste</string>
     <string name="permission_data_shared_desc">Notizen Erklärung zur Weitergabe von Daten an Dritte</string>
     <string name="permission_intro_contact">Zur Markierung von Notizen, die während eines Anrufs gemacht werden</string>
     <string name="permission_intro_microphone">Zur Aufnahme von Sprachnotizen</string>
@@ -568,7 +574,6 @@
     <string name="permlab_accessNote">Zugiff auf Notizen</string>
     <string name="pref_category_title_quick_func">Schnellfunktionen</string>
     <string name="pref_excerpt_link_float">Erinnerung zum Erstellen eines Auszugs erhalten, wenn eine URL kopiert wird</string>
-    <string name="pref_excerpt_summary_link_float">Jedes Mal beim Kopieren des Links wird in der Kurzzeichenleiste eine Erinnerung an die ausstehende Zusammenfassung angezeigt, klicken Sie darauf, um die Zusammenfassung zu extrahieren.</string>
     <string name="pref_permission_allowed">Gewährt</string>
     <string name="pref_permission_manage">Berechtigungsdetails</string>
     <string name="pref_permission_manage_key_contact">Zugriff auf Kontakte</string>
@@ -612,6 +617,8 @@
     <string name="repeat_mode_set_title">Wiederholen</string>
     <string name="repeat_mode_week">Wöchentlich</string>
     <string name="repeat_mode_year">Jährlich</string>
+    <string name="retry">Erneut versuchen</string>
+    <string name="revoke_modifications">Rückgängig</string>
     <string name="rich_text_bold_description">Fett</string>
     <string name="rich_text_bulleted_list_description">Kontrollkästchen</string>
     <string name="rich_text_center_description">Zentriert</string>
@@ -649,6 +656,7 @@
     <string name="select_account_prompt">Notizen sychronisieren</string>
     <string name="send">Senden</string>
     <string name="send_notifications_for_reminder">Zum Senden von Erinnerungen</string>
+    <string name="sensitive_content_warn">KI-Zusammenfassung für sensible Inhalte nicht möglich</string>
     <string name="set_alarm_description">Wecker einstellen</string>
     <string name="setting_big_screen_layout_columns">Seitenleiste</string>
     <string name="setting_big_screen_layout_flat">Kacheln</string>
@@ -657,8 +665,6 @@
     <string name="setting_other">ANDERE</string>
     <string name="setting_privacy">Datenschutzerklärung</string>
     <string name="single_link_excerpt_saving">Elemente speichern…</string>
-    <string name="single_link_excerpt_summary_saving">Zusammenfassende Liste erstellen</string>
-    <string name="single_link_pic_excerpt_summary_saving">Erstellung einer Bildzusammenfassung läuft</string>
     <string name="single_new_excerpt_title">Auszüge</string>
     <string name="snippet_audio_stub">Sprachnotiz</string>
     <string name="snippet_image_stub">Bildnotiz</string>
@@ -692,6 +698,9 @@
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
     <string name="splash_note">Stift</string>
     <string name="stealth_mode_tip">Sie sind inkognito. Mikrofon kann jetzt nicht benutzt werden.</string>
+    <string name="suggested_delete">Vorschlag: \"%1$s\" löschen</string>
+    <string name="suggested_modifications">Vorschlag: \"%1$s\" auf \"%2$s\" abändern</string>
+    <string name="summary">Zusammenfassung</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
@@ -765,10 +774,6 @@
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
-    <string name="to_be_read_bubble_tips">Kopierter Link und Text extrahieren die Kurzfassung direkt in die Notizen.</string>
-    <string name="to_be_read_image_list">Bildzusammenfassung</string>
-    <string name="to_be_read_link_bubble_tips">Tippen, um die Zusammenfassung in Notizen zu speichern</string>
-    <string name="to_be_read_text_list">Textzusammenfassung</string>
     <string name="to_view_alarm_content">Tippen zum Anzeigen</string>
     <string name="toast_cancel_to_insert_image">Bild wurde nicht hinzugefügt</string>
     <string name="toast_excerpt_end">Auszug erfolgreich erstellt</string>
@@ -792,8 +797,6 @@
     <string name="toast_refuse_to_use_photos_in_excerpt">Dieser App den Zugriff auf Ihre Fotos erlauben, um Bilder zu Notizen hinzuzufügen</string>
     <string name="toast_refuse_to_use_record_audio">Mikrofonrechte sind eingeschränkt.\nErlauben Sie Notizen, Audio aufzunehmen.</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Notizen den Speicherzugriff erlauben, um Bilder zu Notizen hinzuzufügen</string>
-    <string name="toast_show_no_network">Bitte Netzwerkverbindung herstellen und erneut versuchen.</string>
-    <string name="toast_show_xiaomi_account">Melden Sie sich an Ihrem Xiaomi-Konto an und versuchen Sie es erneut.</string>
     <string name="today">Heute</string>
     <string name="todo_alert_title_delete">Erledigte Aufgaben löschen</string>
     <string name="todo_audio_default_content">"[Sprachaufgabe] "</string>

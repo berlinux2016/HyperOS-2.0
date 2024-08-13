@@ -4833,6 +4833,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="long_background_tasks_title">Lange Hintergrundaufgaben</string>
     <string name="long_press_back_key">Zurück-Taste lange drücken</string>
     <string name="long_press_buttom_key">Home-Taste am Sperrbildschirm lange drücken</string>
+    <string name="long_press_editor_style_summary">Sperrbildschirm gedrückt halten, um Uhr und Hintergrund zu bearbeiten</string>
+    <string name="long_press_editor_style_title">Zum Bearbeiten gedrückt halten</string>
     <string name="long_press_home_key">Home-Taste lange drücken</string>
     <string name="long_press_menu_key">Menü-Taste lange drücken</string>
     <string name="long_press_menu_key_when_lock">Menü-Taste am Sperrbildschirm lange drücken</string>
@@ -5966,7 +5968,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="notification_history_view_settings">Benachrichtigungseinstellungen anzeigen</string>
     <string name="notification_importance_high_title">Auf Bildschirm einblenden</string>
     <string name="notification_importance_min_title">Minimieren</string>
-    <string name="notification_importance_title">Wichtigkeit</string>
+    <string name="notification_importance_title">Verhalten</string>
     <string name="notification_listener_allowed">Erlaubt</string>
     <string name="notification_listener_disable_warning_cancel">Abbrechen</string>
     <string name="notification_listener_disable_warning_confirm">Ausschalten</string>

@@ -3654,6 +3654,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_low_battery_fast_charge_summary">Schließen Sie das mitgelieferte Ladegerät an, um den Ladevorgang zu beschleunigen, wenn der Bildschirm aus und der Akku leer ist. Diese Funktion kann Ihr Gerät erwärmen.</string>
     <string name="pc_low_temp_charge_summary">Lassen Sie das Ladegerät angeschlossen und warten Sie, bis sich der Akku nach dem Erlöschen des Bildschirms erwärmt hat, um normal zu laden</string>
     <string name="pc_low_temp_charge_title">Laden bei niedriger Temperatur</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Begrenzen Sie die Geräteleistung, um die Lebensdauer des Akkus zu verlängern, wenn die Umgebungstemperatur extrem niedrig ist</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Kälteschutzmodus </string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s m hinzugefügt, ca. %2$s T bleiben</string>
     <string name="pc_main_battery_text_day_hour">%1$s m hinzugefügt, ca. %2$s T %3$s h bleiben</string>
@@ -5571,6 +5573,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="superpower_dialog_button_disable_dialog">Nicht mehr anzeigen</string>
     <string name="superpower_dialog_massage">Ultra-Stromsparen schränkt die meisten stromfressenden Funktionen ein und verringert die Leistung Ihres Geräts, um Grundfunktionen (z. B. Anrufe, SMS und Netzwerkverbindungen) so lange wie möglich verfügbar zu halten. Ultra-Stromsparen einschalten?</string>
     <string name="superpower_dialog_title">Ultra-Stromsparen</string>
+    <string name="superpower_notification_low_temp_btn_txt">Einschalten</string>
+    <string name="superpower_notification_low_temp_summary">Kälteschutzmodus kann mehr Akku sparen, wenn Ultra-Stromsparen aktiviert und die Umgebungstemperatur extrem niedrig ist</string>
+    <string name="superpower_notification_low_temp_title">Ultra-Stromsparen einschalten?</string>
     <string name="superpower_notification_new_title_new">Weniger als %s Akku bleiben</string>
     <string name="superpower_notification_summary">Laden Sie Ihr Gerät oder schalten Sie Ultra-Stromsparen ein</string>
     <string name="superpower_notification_time_12">EEEE, d. MMMM </string>
@@ -5578,6 +5583,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="superpower_notification_title_new">Weniger als %s Akku übrig</string>
     <string name="superpower_progress_content">Ultra-Stromsparen einschalten…</string>
     <string name="superpower_progress_left_time">%1$d h %2$d m</string>
+    <string name="superpower_progress_low_temp_content">Kälteschutzmodus einschalten…</string>
     <string name="superpower_progress_switch_home">Zu dunklem Thema wechseln</string>
     <string name="superpower_progress_title">Verbleibende Zeit</string>
     <string name="superpower_progress_turndown_brightness">Bildschirmhelligkeit verringern</string>

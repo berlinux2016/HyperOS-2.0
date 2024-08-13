@@ -29,6 +29,10 @@
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
     </plurals>
+    <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">Inhalt dieser Notiz überschreitet die KI-Verarbeitungsgrenzen. Bis zu %1$s Zeichen eingeben und erneut versuchen.</item>
+        <item quantity="one">Inhalt dieser Notiz überschreitet die KI-Verarbeitungsgrenzen. Bis zu %1$s Zeichen eingeben und erneut versuchen.</item>
+    </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">%1$s Elemente löschen?</item>
         <item quantity="one">%1$s Element löschen?</item>
@@ -36,6 +40,10 @@
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s Elemente wurden nicht synchronisiert</item>
         <item quantity="one">%1$s Element wurde nicht synchronisiert</item>
+    </plurals>
+    <plurals name="corrected_title">
+        <item quantity="other">%1$s Korrekturen</item>
+        <item quantity="one">%1$s Korrektur</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d Tage später</item>

@@ -242,8 +242,8 @@
     <string name="description_uploadtime">Aktualisieren</string>
     <string name="description_version_szie">Version: %1$s | Größe: %2$s</string>
     <string name="desk_loop_will_change">Achtung!</string>
-    <string name="desktop_effects">Live-Hintergründe</string>
-    <string name="desktop_wallpaper">Hintergrund</string>
+    <string name="desktop_effects">Startbildschirm-Effekte</string>
+    <string name="desktop_wallpaper">Startbildschirm</string>
     <string name="detail_author_attention_head">Folgen Sie einigen unserer herausragendsten Designer</string>
     <string name="detail_author_fans">"Follower: "</string>
     <string name="detail_author_works">"Elemente: "</string>
@@ -527,7 +527,7 @@
     <string name="large_icon_warning_not_install">%s istallieren</string>
     <string name="large_icon_warning_not_install_msg">%s installieren, um ein Supersymbol zu verwenden. Jetzt installieren?</string>
     <string name="like_list">Meine Likes</string>
-    <string name="live_wallpaper">Dynamische Hintergründe</string>
+    <string name="live_wallpaper">Dynamischer Hintergrund</string>
     <string name="load_from_local_photos">Galerie</string>
     <string name="loading">Einen Moment…</string>
     <string name="loading_picture">Bild laden…</string>
@@ -1396,7 +1396,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="theme_component_title_photo_frame">Bilderrahmen</string>
     <string name="theme_component_title_ringtone">Klingelton</string>
     <string name="theme_component_title_statusbar">Statusleiste</string>
-    <string name="theme_component_title_wallpaper">Hintergrund</string>
+    <string name="theme_component_title_wallpaper">Startbildschirm</string>
     <string name="theme_component_video_wallpaper">Dynamische Hintergründe</string>
     <string name="theme_current_using_has_update">Thema-Update verfügbar</string>
     <string name="theme_description_title_customized">Eigenes</string>
@@ -1452,7 +1452,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="tips_theme_gate_transfer_fail">Seite öffnen fehlgeschlagen. Etwas warten und erneut versuchen.</string>
     <string name="title_component">Themenkomponenten</string>
     <string name="title_my_audio_resource">Meine Klingeltöne</string>
-    <string name="title_my_miwallpaper_desktop_effects">Live-Hintergünde</string>
+    <string name="title_my_miwallpaper_desktop_effects">Startbildschirm-Effekte</string>
     <string name="title_my_miwallpaper_resource">Meine dynamischen Hintergründe</string>
     <string name="title_my_miwallpaper_video_file_resource">Meine Hintergrundfilme</string>
     <string name="title_my_wallpaper">Meine Hintergründe</string>

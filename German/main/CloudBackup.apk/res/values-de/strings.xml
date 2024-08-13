@@ -33,13 +33,14 @@
     <string name="backup_action_buy_cloud_space">Mehr Speicherplatz erhalten</string>
     <string name="backup_action_check_network">Netzwerkeinstellungen prüfen</string>
     <string name="backup_action_clean_disk_space">Platz freigeben</string>
+    <string name="backup_action_long_time_not_backup_action">Sichern</string>
+    <string name="backup_action_long_time_not_backup_title">Keine aktuellen Sicherungen</string>
     <string name="backup_action_no_space_with_wechat_off_content">Nicht genügend Cloud-Speicher, um Elemente von diesem Gerät zu sichern. Tippen, um die für Sie verfügbaren Cloud-Speicheroptionen anzuzeigen.</string>
     <string name="backup_action_no_space_with_wechat_off_title">Elemente wurden nicht gespeichert</string>
     <string name="backup_action_no_space_with_wechat_on_content">Nicht genügend Cloud-Speicher zum Sichern von WeChat-Daten. Erhöhen Sie Ihren Speichertarif, um Elemente zu sichern.</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat-Daten wurden nicht gesichert</string>
     <string name="backup_action_retry_now">Erneut versuchen</string>
-    <string name="backup_action_long_time_not_backup_action">Sichern</string>
-    <string name="backup_action_long_time_not_backup_title">Keine aktuellen Sicherungen</string>
+    <string name="backup_app_prominent_disclosure_dialog_message">Cloud-Sicherung erfasst die Liste der auf Ihrem Gerät installierten Apps und speichert diese Infos auf unseren Servern. Wir speichern diese Daten, damit Sie sie bei Bedarf herunterladen und wiederherstellen können. Wenn Sie mit der Erfassung dieser Daten einverstanden sind, tippen Sie unten auf \" Erlauben\".</string>
     <string name="backup_failed_reason_app_data_error">WeChat-Daten sichern nicht möglich</string>
     <string name="backup_failed_reason_app_usage_denied">Erforderliche Berechtigungen zum Sichern von Elementen gewähren</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nicht mehr genug Cloud-Speicher vorhanden, um diese Sicherung zu speichern. Erweitern Sie Ihr Limit oder geben Sie Cloud-Speicher frei.</string>
@@ -136,8 +137,8 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="cloud_backup_detail_manage">Sicherungen verwalten</string>
     <string name="cloud_backup_detail_no_time">Kein Sicherungssatz</string>
     <string name="cloud_backup_detail_state">Automatische Sicherungen</string>
-    <string name="cloud_backup_detail_state_summary">Xiaomi Cloud-Sicherungen bei bestehender WLAN-Verbindung automatisch erstellen</string>
-    <string name="cloud_backup_detail_state_summary_china">Gerät muss mit WLAN verbunden, geladen und gesperrt sein</string>
+    <string name="cloud_backup_detail_state_summary">Erforderlich: WLAN-Verbindung, Akkustand von mind. %s und ausgeschalteter Bildschirm</string>
+    <string name="cloud_backup_detail_state_summary_china">Erforderlich: WLAN-Verbindung, Akkustand von mind. %s und ausgeschalteter Bildschirm</string>
     <string name="cloud_backup_detail_time">Letzte Sicherung: %1$s</string>
     <string name="cloud_backup_detail_title">Elemente sichern</string>
     <string name="cloud_backup_get_installed_apps_summary">Zum Sichern und Wiederherstellen von Startbildschirm-Apps</string>
