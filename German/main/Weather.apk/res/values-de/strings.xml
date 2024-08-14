@@ -61,10 +61,10 @@
     <string name="alert_weather_enable_settings_title">Wetterwarnungen</string>
     <string name="already_voted_toast">Sie haben heute bereits abgestimmt</string>
     <string name="app_name">Wetter</string>
-    <string name="aqi_15_days_desc">15-Tage LQI-Vorhersage</string>
-    <string name="aqi_24_hours_desc">24-Stunden LQI-Vorhersage</string>
-    <string name="aqi_48_hours_desc">48-Stunden LQI-Vorhersage</string>
-    <string name="aqi_5_days_desc">5-Tage LQI-Vorhersage</string>
+    <string name="aqi_15_days_desc">15-Tage-Vorhersage LQI</string>
+    <string name="aqi_24_hours_desc">24-Std-Vorhersage LQI</string>
+    <string name="aqi_48_hours_desc">48-Std-Vorhersage LQI</string>
+    <string name="aqi_5_days_desc">5-Tage-Vorhersage LQI</string>
     <string name="aqi_alert_channel_name">LQI-Warnungen</string>
     <string name="aqi_desc">Luftqualitätsindex</string>
     <string name="aqi_detail_24_hours">24-Std-Vorhersage</string>
@@ -79,8 +79,8 @@
     <string name="aqi_quality_ambient_air_quality">Luftqualität in der Nähe</string>
     <string name="aqi_quality_co_desc">Kohlenmonoxid</string>
     <string name="aqi_quality_detail_15_days">15-Tage-Vorhersage</string>
-    <string name="aqi_quality_detail_24_hours">24-Stunden-Vorhersage</string>
-    <string name="aqi_quality_detail_48_hours">48-Stunden-Vorhersage</string>
+    <string name="aqi_quality_detail_24_hours">24-Std-Vorhersage</string>
+    <string name="aqi_quality_detail_48_hours">48-Std-Vorhersage</string>
     <string name="aqi_quality_detail_5_days">5-Tage-Vorhersage</string>
     <string name="aqi_quality_major_pollutants">Hauptschadstoffe</string>
     <string name="aqi_quality_map_title">Luftqualitätskarte</string>
@@ -246,7 +246,7 @@
     <string name="hourly_forecast_detail_chart_view_max_temperature_text">Hoch</string>
     <string name="hourly_forecast_detail_chart_view_min_temperature_text">Niedrig</string>
     <string name="hourly_forecast_detail_current_day_max_min_temperature_text">Hoch %1$s° | Niedrig %2$s°</string>
-    <string name="hourly_forecast_title_24_hours_desc">24-Stunden-Vorhersage</string>
+    <string name="hourly_forecast_title_24_hours_desc">24-Std-Vorhersage</string>
     <string name="hourly_forecast_title_hourly_desc">Stündliche Vorhersage</string>
     <string name="incognito_mode_dialog_confirm_text">Ausschalten</string>
     <string name="incognito_mode_dialog_summary">Sie sind inkognito. Standortdienste können jetzt nicht verwendet werden.</string>
