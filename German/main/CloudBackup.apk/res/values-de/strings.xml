@@ -354,7 +354,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="no_account">Nicht am Xiaomi-Konto angemeldet</string>
     <string name="no_backup">Keine Sicherungen in Xiaomi Cloud</string>
     <string name="noon">Mittag</string>
-    <string name="not_backup_reason">Grund für die fehlgeschlagene Sicherung: %s</string>
+    <string name="not_backup_reason">Grund für fehlgeschlagene Sicherung: %s</string>
     <string name="not_backup_reason_battery_exception">Akku unter %s</string>
     <string name="not_backup_reason_cancel">Manuell abgebrochen</string>
     <string name="not_backup_reason_dialog_cancle_button">Abbrechen</string>
