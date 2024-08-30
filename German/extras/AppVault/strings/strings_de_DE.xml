@@ -8,7 +8,7 @@
     <string name="search_filter_size_all">Alle Größen</string>
     <string name="widget_apps">Apps mit Widget-Unterstützung</string>
     <string name="widget_num_limit">Weitere Widgets zu Infoassistent hinzufügen nicht möglich. Ältere Widgets löschen, um neue hinzuzufügen.</string>
-    <string name="widget_num_warn">Erfolgreich hinzugefügt. Beachten Sie, dass zu viele Widgets auf Ihrem Startbildschirm Ihr Gerät verlangsamen können.</string>
+    <string name="widget_num_warn">Erfolgreich hinzugefügt. Beachte, dass zu viele Widgets auf deinem Startbildschirm dein Gerät verlangsamen können.</string>
     <!-- Categories -->
     <string name="theme_clock">Eigene Uhren</string>
     <string name="theme_pals">Haustiere</string>
@@ -28,6 +28,7 @@
     <string name="app_weather">Wetter</string>
     <!-- Shortcut groups -->
     <string name="shortcuts_external">Externe Verknüpfungen</string>
+<string name="shortcuts_popular">Häufig verwendet</string>
     <string name="shortcuts_system">Systemverknüpfungen</string>
     <!-- Shortcut names -->
     <string name="auto_optimize">Optimieren</string>
@@ -54,16 +55,18 @@
     <string name="widget_browser_search">Suche</string>
     <string name="widget_browser_search_desc">Websuche mit einem Fingertipp</string>
     <string name="widget_browser_shortcuts">Verknüpfungen</string>
-    <string name="widget_browser_shortcuts_desc">Die wichtigsten Funktionen auf Knopfdruck</string>
+    <string name="widget_browser_shortcuts_desc">Zentrale Funktionen auf Knopfdruck</string>
     <string name="widget_calculator_basic">Einfach</string>
+<string name="widget_calculator_basic_desc">Grundrechenarten durchführen</string>
     <string name="widget_calculator_currency">Währung</string>
+<string name="widget_calculator_currency_desc">Währungskurse verschiedener Länder umrechnen</string>
     <string name="widget_calendar_agenda">Kommende Termine</string>
-    <string name="widget_calendar_agenda_desc">Infos zu bevorstehenden Terminen anzeigen</string>
+    <string name="widget_calendar_agenda_desc">Info zu bevorstehenden Terminen anzeigen</string>
     <string name="widget_calendar_agenda_special">Besondere Termine</string>
     <string name="widget_calendar_agenda_special_desc">Geburtstage, Countdowns und Jahrestage anzeigen</string>
     <string name="widget_calendar_countdown_desc">Countdown-Info anzeigen</string>
     <string name="widget_calendar_date">Datum</string>
-    <string name="widget_calendar_date_desc">Infos zum heutigen Datum anzeigen</string>
+    <string name="widget_calendar_date_desc">Info zum heutigen Datum anzeigen</string>
     <string name="widget_camera_filter">Leica-Filter</string>
     <string name="widget_camera_filter_desc">Vier Sätze Leica-Filter</string>
     <string name="widget_camera_lens">Pro-Objektive</string>
@@ -83,7 +86,9 @@
     <string name="widget_gallery_custom">Ausgewählte Bilder</string>
     <string name="widget_gallery_custom_desc">Widget hinzufügen und dann tippen, um Fotos auszuwählen</string>
     <string name="widget_gallery_recommend">Erinnerungen</string>
-    <string name="widget_gallery_recommend_desc">An Ihre schönsten Momente erinnern</string>
+    <string name="widget_gallery_recommend_desc">Erlebe deine schönsten Momente noch einmal</string>
+<string name="widget_health_mens">Zyklen</string>
+<string name="widget_health_mens_desc">Daten zur Menstruation anzeigen</string>
     <string name="widget_health_sleep">Schlaf</string>
     <string name="widget_health_sleep_desc">Schlafdaten anzeigen</string>
     <string name="widget_health_stats">Statistik</string>
@@ -92,6 +97,7 @@
     <string name="widget_health_steps_desc">Schritte und Zielfortschritt anzeigen</string>
     <string name="widget_mivideo_local">Lokale Videos</string>
     <string name="widget_mivideo_local_desc">Schnellzugriff auf lokale Audio- und Videodateien</string>
+    <string name="widget_music_play_desc">Schnelles Steuern der Musikwiedergabe</string>
     <string name="widget_notes_quick">Verknüpfungen</string>
     <string name="widget_notes_quick_desc">Notizen und Aufgaben schnell erstellen und abrufen</string>
     <string name="widget_notes_quick_note">Notizen erstellen</string>
