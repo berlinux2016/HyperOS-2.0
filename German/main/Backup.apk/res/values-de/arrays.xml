@@ -7,13 +7,6 @@
         <item>Klarheit der Anweisungen</item>
         <item>Diese Funktion ist nützlich</item>
     </string-array>
-    <string-array name="trans_succeed_rating_hint">
-        <item>Sehr unzufrieden</item>
-        <item>Etwas unzufrieden</item>
-        <item>Neutral</item>
-        <item>Etwas zufrieden</item>
-        <item>Sehr zufrieden</item>
-    </string-array>
     <string-array name="trans_succeed_survey_title">
         <item>Gesamtbewertung</item>
         <item>Übertragungsdauer</item>
