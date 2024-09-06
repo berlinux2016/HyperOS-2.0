@@ -348,6 +348,8 @@
     <string name="three_selected_holiday">%1$s, %2$s und %3$s sind freie Tage</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
+    <string name="time_picker_label_hour">Std</string>
+    <string name="time_picker_label_minute">Min</string>
     <string name="today_icon_voice_contentdescription">Zum heutigen Tag</string>
     <string name="today_no_event">Heute keine Termine</string>
     <string name="today_no_events">Keine Termine</string>

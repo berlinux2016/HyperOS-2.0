@@ -585,6 +585,8 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="the_night_of_sevens">Qixi (Doppel-7-Fest)</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
+    <string name="time_picker_label_hour">Std</string>
+    <string name="time_picker_label_minute">Min</string>
     <string name="titleJoinContactDataWith">Kontakte zusammenführen</string>
     <string name="toast_call_no_SoundRecorder">Recorder nicht verfügbar</string>
     <string name="toast_for_failed_saving_nickname">Spitzname speichern fehlgeschlagen</string>

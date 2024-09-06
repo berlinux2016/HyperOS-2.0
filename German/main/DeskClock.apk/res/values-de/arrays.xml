@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture_new_array">
-        <item>Wecker in weniger als %d Minute</item>
-        <item>Wecker in %1$s</item>
-        <item>Wecker in %2$s</item>
-        <item>Wecker in %1$s %2$s</item>
-        <item>Wecker in %3$s</item>
-        <item>Wecker in %1$s %3$s</item>
-        <item>Wecker in %2$s %3$s</item>
-        <item>Wecker in %1$s %2$s %3$s</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Einmal</item>
         <item>Täglich</item>
         <item>Werktags</item>
         <item>An freien Tagen</item>
         <item>Mo - Fr</item>
-        <item>Eigene</item>
+        <item>Eigener</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Einmal</item>
         <item>Täglich</item>
         <item>Mo - Fr</item>
-        <item>Eigene</item>
+        <item>Eigener</item>
     </string-array>
     <string-array name="alarm_set_new_array">
         <item>Wecker klingelt in weniger als %d Minute.</item>
@@ -54,13 +44,13 @@
     <string-array name="bedtime_repeat_entires_international">
         <item>Täglich</item>
         <item>Mo - Fr</item>
-        <item>Eigene</item>
+        <item>Eigener</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Täglich</item>
         <item>Mo - Fr</item>
         <item>Werktags</item>
-        <item>Eigene</item>
+        <item>Eigener</item>
     </string-array>
     <string-array name="cities_names_miui">
         <item>Abidjan</item>
@@ -88,7 +78,7 @@
         <item>Nairobi</item>
         <item>São Tomé</item>
         <item>Timbuktu</item>
-        <item>Tripoli</item>
+        <item>Tripolis</item>
         <item>Tunis</item>
         <item>Anchorage</item>
         <item>Mendoza</item>
@@ -131,7 +121,7 @@
         <item>Managua</item>
         <item>Fort-de-France</item>
         <item>Metlakatla</item>
-        <item>Mexico City</item>
+        <item>Mexiko-Stadt</item>
         <item>Monterrey</item>
         <item>Montevideo</item>
         <item>Montreal</item>
@@ -192,7 +182,7 @@
         <item>Taipeh</item>
         <item>Teheran</item>
         <item>Tel Aviv</item>
-        <item>Tokyo</item>
+        <item>Tokio</item>
         <item>Ulaanbaatar</item>
         <item>Hamilton</item>
         <item>Kanarische Inseln</item>
@@ -308,7 +298,7 @@
         <item>Peking</item>
         <item>Mumbai</item>
         <item>Delhi</item>
-        <item>New Delhi</item>
+        <item>Neu-Delhi</item>
         <item>Osaka</item>
         <item>Lahore</item>
         <item>"Sana'a"</item>
@@ -413,7 +403,7 @@
         <item>USA</item>
         <item>USA</item>
         <item>USA</item>
-        <item>Jamaica</item>
+        <item>Jamaika</item>
         <item>Bolivien</item>
         <item>Peru</item>
         <item>USA</item>

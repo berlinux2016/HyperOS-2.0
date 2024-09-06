@@ -313,6 +313,8 @@
     <string name="the_night_of_sevens">Qixi (Doppel-7-Fest)</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
+    <string name="time_picker_label_hour">Std</string>
+    <string name="time_picker_label_minute">Min</string>
     <string name="trans_calculating_app_sd_description">Daten auf SD-Karte</string>
     <string name="trans_calculating_tip">%s berechnen…</string>
     <string name="trans_cancel_selection_message">Beim Beenden von Mi Mover wird die laufende Übertragung unterbrochen. Warten, bis die Übertragung abgeschlossen ist.</string>

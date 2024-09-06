@@ -172,6 +172,8 @@
     <string name="thin">Untergewicht</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
+    <string name="time_picker_label_hour">Std</string>
+    <string name="time_picker_label_minute">Min</string>
     <string name="tuesday_shortest">D</string>
     <string name="uninstall_warning_content">Rechner ist eine System-App. Nach der Deinstallation kannst du die Grundfunktionen nicht mehr nutzen, Währungen und Maßeinheiten umrechnen, Hypothekenrückzahlungen berechnen oder andere Funktionen verwenden.</string>
     <string name="unit_data_display_area_sq.chi">Chi-Quadrat</string>
