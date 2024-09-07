@@ -692,7 +692,7 @@
     <string name="removingSpace">Löschen</string>
     <string name="repeat_scanner_fingerprint">Erneut hinzufügen</string>
     <string name="reset_passwd_success">Passwort wurde erfolgreich zurückgesetzt</string>
-    <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das Haupt- und Zweitprofil. Das Zweitprofil sollte den gleichen Kennworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
+    <string name="reset_password_dialog_message">Sie verwenden verschiedene Passworttypen für das Haupt- und Zweitprofil. Das Zweitprofil sollte den gleichen Passworttyp wie das Hauptprofil verwenden, damit die Verknüpfung ausgeblendet wird.</string>
     <string name="reset_password_dialog_positve_btn_title">Ändern</string>
     <string name="reset_password_dialog_title">Zweitprofil-Verknüpfung kann nicht ausgeblendet werden</string>
     <string name="restore_normal_show">Persönliche Nachrichten nicht anzeigen</string>

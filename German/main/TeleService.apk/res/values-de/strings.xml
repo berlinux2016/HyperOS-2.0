@@ -471,7 +471,7 @@
     <string name="change_default_data_card">Standard-SIM für mobile Daten</string>
     <string name="change_default_data_card_summary">Anscheinend haben Sie die SIM gewechselt. Diese SIM als Standarddatenkarte nutzen?</string>
     <string name="change_num">Aktualisieren</string>
-    <string name="change_password">Sperrkennwort ändern</string>
+    <string name="change_password">Sperrpasswort ändern</string>
     <string name="change_pin">SIM-PIN ändern</string>
     <string name="change_pin2">PIN2 ändern</string>
     <string name="change_pin_cancel_label">Abbrechen</string>

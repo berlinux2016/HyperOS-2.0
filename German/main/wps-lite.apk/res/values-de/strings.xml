@@ -177,7 +177,7 @@
     <string name="public_crash_dialog_title">Fehlerbericht absenden</string>
     <string name="public_cut">Ausschneiden</string>
     <string name="public_decryptDocument">Entschlüsseln</string>
-    <string name="public_displayPasswd">Kennwort anzeigen</string>
+    <string name="public_displayPasswd">Passwort anzeigen</string>
     <string name="public_display_privacy_policy">Datenschutzerklärung anzeigen</string>
     <string name="public_doc_end_preview_tip">Bereitgestellt von WPS Office</string>
     <string name="public_edit">Bearbeiten</string>

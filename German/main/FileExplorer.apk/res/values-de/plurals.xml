@@ -1,37 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Vor 1 Stunde</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Vor %d Std</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Vor einer halben Std</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In %d Std</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In einer halben Std</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Sofort</item>
-    </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">In %d Min</item>
         <item quantity="one">In %d Min</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Gerade eben</item>
-    </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
-    </plurals>
-    <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d Videos in WeChat-Unterhaltungen laufen bald ab. Sichern Sie sie auf dem internen Speicher Ihres Geräts?</item>
-        <item quantity="one">%1$d Video in WeChat-Unterhaltungen läuft bald ab. Sichern Sie es auf dem internen Speicher Ihres Geräts?</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">%1$s Tage in Folge eingecheckt, weiter so!</item>
@@ -41,92 +16,25 @@
         <item quantity="other">%1$s Tage in Folge eingecheckt.</item>
         <item quantity="one">%1$s Tag in Folge eingecheckt.</item>
     </plurals>
-    <plurals name="clockin_new_chip">
-        <item quantity="other">Sie haben &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> Punkte.</item>
-        <item quantity="one">Sie haben &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> Punkt.</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">vor %1$d Tagen</item>
-        <item quantity="one">gestern</item>
-    </plurals>
     <plurals name="delete_cloud_files">
-        <item quantity="other">%1$d Dateien von all Ihren Geräten und aus der Cloud löschen? Mi Drive-Dateien können aus Ihren kürzlich gelöschten Elementen wiederhergestellt werden.</item>
-        <item quantity="one">%1$d Datei von all Ihren Geräten und aus der Cloud löschen? Mi Drive-Dateien können aus Ihren kürzlich gelöschten Elementen wiederhergestellt werden.</item>
-    </plurals>
-    <plurals name="delete_files">
-        <item quantity="other">%1$d Dateien löschen?</item>
-        <item quantity="one">%1$d Datei löschen?</item>
+        <item quantity="other">%1$d Dateien von all deinen Geräten und aus der Cloud löschen? Mi Drive-Dateien können aus deinen kürzlich gelöschten Elementen wiederhergestellt werden.</item>
+        <item quantity="one">%1$d Datei von all deinen Geräten und aus der Cloud löschen? Mi Drive-Dateien können aus deinen kürzlich gelöschten Elementen wiederhergestellt werden.</item>
     </plurals>
     <plurals name="delete_files_confirm">
         <item quantity="other">%1$d Dateien löschen</item>
         <item quantity="one">%1$d Datei löschen</item>
     </plurals>
-    <plurals name="delete_folders">
-        <item quantity="other">%1$d Ordner löschen?</item>
-        <item quantity="one">%1$d Ordner löschen?</item>
-    </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" und %1$d Ordner?"</item>
         <item quantity="one">" und %1$d Ordner?"</item>
     </plurals>
-    <plurals name="directory_item_count">
-        <item quantity="other">%d Elemente</item>
-        <item quantity="one">%d  Element</item>
-    </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d Elemente</item>
-        <item quantity="one"> %1$d Element</item>
-    </plurals>
-    <plurals name="follow_count">
-        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> Follower</item>
-        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> Follower</item>
-    </plurals>
-    <plurals name="found_new_files">
-        <item quantity="other">%1$d neue Dateien gefunden</item>
-        <item quantity="one">%1$d neue Datei gefunden</item>
-    </plurals>
-    <plurals name="gems">
-        <item quantity="other">%1$s Edelsteine</item>
-        <item quantity="one">%1$s Edelstein</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Vor einer halben Stunde</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">vor %1$d Stunden</item>
-        <item quantity="one">vor %1$d Stunde</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">In 1 Stunde</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">In einer halben Stunde</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Sofort</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">In %d Minuten</item>
-        <item quantity="one">In 1 Minute</item>
-    </plurals>
-    <plurals name="items_picture">
-        <item quantity="other"> (%1$d Elemente)</item>
-        <item quantity="one"> (%1$d Element)</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Gerade eben</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">vor %1$d Minuten</item>
-        <item quantity="one">vor %1$d Minute</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d Elemente ausgewählt</item>
-        <item quantity="one">%d Element ausgewählt</item>
+        <item quantity="other"> %1$d Elemente</item>
+        <item quantity="one"> %1$d Element</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Sammeln Sie &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> Edelsteine mehr, um an der Verlosung teilzunehmen.</item>
-        <item quantity="one">Sammeln Sie &lt;font color=#fc7050>&lt;b>einen&lt;/b>&lt;/font> Edelstein mehr, um an der Verlosung teilzunehmen.</item>
+        <item quantity="other">Sammle &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> Edelsteine mehr, um an der Verlosung teilzunehmen.</item>
+        <item quantity="one">Sammle &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> Edelstein mehr, um an der Verlosung teilzunehmen.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d neue Benachrichtigungen</item>
@@ -136,10 +44,6 @@
         <item quantity="other">%1$s Dateien wurden nicht synchronisiert</item>
         <item quantity="one">%1$s Datei wurde nicht synchronisiert</item>
     </plurals>
-    <plurals name="notification_message_sync_result_success">
-        <item quantity="other">"%1$s Dateien synchronisiert | "</item>
-        <item quantity="one">"%1$s Datei synchronisiert | "</item>
-    </plurals>
     <plurals name="notification_title_syncing_with_count_no_network">
         <item quantity="other">Auf Netzwerkverbindung warten. %1$s Dateien verbleiben.</item>
         <item quantity="one">Auf Netzwerkverbindung warten. %1$s Datei verbleibt.</item>
@@ -148,84 +52,28 @@
         <item quantity="other">%1$d Elemente ausgewählt</item>
         <item quantity="one">%1$d Element ausgewählt</item>
     </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">Vor %d Minuten</item>
-        <item quantity="one">Vor 1 Minute</item>
-    </plurals>
-    <plurals name="number_of_comment_flow">
-        <item quantity="other">%1$s Kommentare</item>
-        <item quantity="one">%1$s Kommentar</item>
-    </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> Tage</item>
-        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> Tag</item>
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> Tage"</item>
+        <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> Tag"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Follower!</item>
-        <item quantity="one">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Follower!</item>
-    </plurals>
-    <plurals name="original_user_play_1">
-        <item quantity="other">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Videos hochgeladen.</item>
-        <item quantity="one">• Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Video hochgeladen.</item>
-    </plurals>
-    <plurals name="original_user_play_2">
-        <item quantity="other">Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Personen glücklich gemacht!</item>
-        <item quantity="one">Sie haben &lt;font color=#fc7050>%1$s&lt;/font> Person glücklich gemacht!</item>
-    </plurals>
-    <plurals name="remote_video_update">
-        <item quantity="other">%1$s neue Videos gefunden</item>
-        <item quantity="one">%1$s neues Video gefunden</item>
-    </plurals>
-    <plurals name="search_head_hint_all">
-        <item quantity="other">Suchergebnisse (%1$d Einträge)</item>
-        <item quantity="one">Suchergebnis (%1$d Eintrag)</item>
+        <item quantity="other">" • Du hast &lt;font color=#fc7050>%1$s&lt;/font> Follower!"</item>
+        <item quantity="one">" • Du hast &lt;font color=#fc7050>%1$s&lt;/font> Follower!"</item>
     </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">Der App %1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="one">Der App %1$s verwandte Datei (%2$d Element)</item>
+        <item quantity="one">Der App %1$s verwandte Dateien (%2$d Element)</item>
     </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%1$s verwandte Dateien (%2$d Elemente)</item>
-        <item quantity="one">%1$s verwandte Datei (%2$d Element)</item>
+        <item quantity="one">%1$s verwandte Dateien (%2$d Element)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
         <item quantity="other">%1$s verwandte Dateien (%2$d Elemente) markieren</item>
-        <item quantity="one">%1$s verwandte Datei (%2$d Element) markieren</item>
-    </plurals>
-    <plurals name="text_group_count">
-        <item quantity="other">%d Elemente</item>
-        <item quantity="one">%d Element</item>
-    </plurals>
-    <plurals name="total_topic_num">
-        <item quantity="other">%1$s Themen</item>
-        <item quantity="one">%1$s Thema</item>
-    </plurals>
-    <plurals name="total_user_num">
-        <item quantity="other">%1$s Personen</item>
-        <item quantity="one">%1$s Person</item>
-    </plurals>
-    <plurals name="user_sign_limt">
-        <item quantity="other">Sie können %d Zeichen eingeben.</item>
-        <item quantity="one">Sie können %d Zeichen eingeben.</item>
-    </plurals>
-    <plurals name="video_ad_download_tip">
-        <item quantity="other">Downloads</item>
-        <item quantity="one">Download</item>
-    </plurals>
-    <plurals name="video_count">
-        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> Videos</item>
-        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> Video</item>
-    </plurals>
-     <plurals name="video_items">
-        <item quantity="other">%1$d Elemente</item>
-        <item quantity="one">%1$d Element</item>
-    </plurals>
-    <plurals name="video_play_num">
-        <item quantity="other">%1$s Aufrufe</item>
-        <item quantity="one">%1$s Aufruf</item>
+        <item quantity="one">%1$s verwandte Dateien (%2$d Element) markieren</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
-        <item quantity="other">Erhalten Sie %1$d Follower mehr, um Ihren Status upzugraden.</item>
-        <item quantity="one">Erhalten Sie %1$d Follower mehr, um Ihren Status upzugraden.</item>
+        <item quantity="other">Hol dir %1$d Follower mehr, um deinen Status upzugraden.</item>
+        <item quantity="one">Hol dir %1$d Follower mehr, um deinen Status upzugraden.</item>
     </plurals>
 </resources>

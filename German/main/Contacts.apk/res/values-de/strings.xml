@@ -266,6 +266,7 @@
 %2$d. Einstellungen in der Kontakte-App öffnen, dann zu \"Kontakte im-/exportieren\" -- \"Von SIM-Karte importieren"\ gehen, einen SIM-Kontakt zum Auswählen gedrückt halten, alle erforderlichen Kontakte auswählen und \"Importieren\" tippen."</string>
     <string name="device_version_header_bluetooth">Über Bluetooth importieren</string>
     <string name="device_version_header_no_bluetooth">Von SIM-Karte importieren</string>
+    <string name="dialerIconLabel">Zuletzt</string>
     <string name="dialer_empty_text_no_call_log">Keine kürzlichen Kontakte</string>
     <string name="dialog_sync_add">Synchronisationsgruppe hinzufügen</string>
     <string name="display_only_phones">Unvollständige Nummern ausblenden</string>
@@ -444,7 +445,8 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="preference_show_yellowpage_tab_title">Gelbe Seiten anzeigen</string>
     <string name="preference_simple_mode_title">Fotos und Infos anzeigen</string>
     <string name="preference_smart_group_company_summary">Nach Firma gruppieren</string>
-    <string name="preference_smart_group_frequency_summary">Nach zuletzt verwendfet gruppieren</string>
+    <string name="preference_smart_group_frequency_summary">Nach zuletzt verwendet gruppieren</string>
+    <string name="preference_smart_group_frequency_title">Zuletzt</string>
     <string name="preference_smart_group_location_summary">Nach Vorwahl gruppieren</string>
     <string name="preference_smart_group_location_title">Orte</string>
     <string name="preference_smart_group_title">Smarte Gruppen</string>
@@ -518,6 +520,7 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="sim_indexed_contact_not_exist">Position %1$d auf der SIM-Karte ungültig. Sie muss zwischen %2$d und %3$d liegen.</string>
     <string name="sim_unloaded">SIM-Karte nicht eingelegt</string>
     <string name="smart_group_company_unavailable">Keine Firmeninfos</string>
+    <string name="smart_group_frequency_label">Zuletzt</string>
     <string name="smart_group_label">Smarte Gruppen</string>
     <string name="smart_group_location_label">Orte</string>
     <string name="smart_group_location_unavailable">Keine Standortdaten</string>
