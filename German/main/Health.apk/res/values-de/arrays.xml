@@ -31,10 +31,6 @@
         <item>Nicht zu lange sitzen</item>
         <item>Mehr erfahren</item>
     </string-array>
-    <string-array name="arr_time_label">
-        <item>1 Stunde</item>
-        <item>2 Stunden</item>
-    </string-array>
     <string-array name="contact_relation_array">
         <item>Nicht festgelegt</item>
         <item>Eltern</item>
@@ -57,11 +53,6 @@
         <item>B</item>
         <item>AB</item>
         <item>O</item>
-    </string-array>
-    <string-array name="pager_titles">
-        <item>Tag</item>
-        <item>Woche</item>
-        <item>Monat</item>
     </string-array>
     <string-array name="repeat_mode_mild_abnormal_array">
         <item>Mo, Mi, Fr</item>
@@ -86,16 +77,16 @@
         <item>Keine Einschränkungen</item>
         <item>Hintergrundaktivität einschränken</item>
         <item>Nach 10 Minuten stoppen</item>
-        <item>Niemals</item>
+        <item>Nie</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>Sitzen ist nicht gut für Ihre Gesundheit. Selbst wenn Sie die Zeit, die Sie im Sitzen verbringen, nicht verkürzen können, ist es eine gute Idee, ab und zu aufzustehen.</item>
-        <item>Diese Funktion erinnert Sie daran, jede Stunde mindestens 1 Minute im Stehen zu verbringen. 12 Stunden mit Stehpausen täglich helfen Ihnen, die Risiken einer sitzenden Lebensweise zu vermeiden.</item>
-        <item>Tippen Sie auf \"Weiter\", um mehr zu erfahren und diese Funktion zu aktivieren.</item>
+        <item>Sitzen ist nicht gut für deine Gesundheit. Selbst wenn du die Zeit, die du im Sitzen verbringst, nicht verkürzen kannst, ist es eine gute Idee, ab und zu aufzustehen.</item>
+        <item>Diese Funktion erinnert dich daran, jede Stunde mindestens 1 Minute im Stehen zu verbringen. 12 Stunden mit Stehpausen täglich helfen dir, die Risiken einer sitzenden Lebensweise zu vermeiden.</item>
+        <item>Auf \"Weiter\" tippen, um mehr zu erfahren und diese Funktion zu aktivieren.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health erkennt und zeichnet auf, wenn Sie aufstehen. Sie können auch Erinnerungen zum Aufstehen nach 1 Stunde Inaktivität erhalten.</item>
-        <item>Diese Funktion verfolgt Ihre Bewegungen und sendet Erinnerungen basierend auf den Ergebnissen.</item>
+        <item>Xiaomi Health erkennt und zeichnet auf, wenn du aufstehst. Du kannst auch Erinnerungen ans Aufstehen nach 1 Stunde Inaktivität erhalten.</item>
+        <item>Diese Funktion verfolgt deine Bewegungen und sendet Erinnerungen basierend auf den Ergebnissen.</item>
     </string-array>
     <string-array name="week">
         <item>Sonntag</item>
@@ -105,15 +96,6 @@
         <item>Donnerstag</item>
         <item>Freitag</item>
         <item>Samstag</item>
-    </string-array>
-    <string-array name="week_label">
-        <item>So</item>
-        <item>Mo</item>
-        <item>Di</item>
-        <item>Mi</item>
-        <item>Do</item>
-        <item>Fr</item>
-        <item>Sa</item>
     </string-array>
     <string-array name="week_short">
         <item>So</item>

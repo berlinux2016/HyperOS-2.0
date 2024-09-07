@@ -10,11 +10,11 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">In %d Min</item>
-        <item quantity="one">In %d Min</item>
+        <item quantity="one">In 1 Min</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Vor %d Min</item>
-        <item quantity="one">Vor %d Min</item>
+        <item quantity="one">Vor 1 Min</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Jahrestag: %2$d Jahre seit %1$s in %3$d Tagen</item>
