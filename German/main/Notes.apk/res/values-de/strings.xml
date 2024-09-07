@@ -711,7 +711,7 @@
     <string name="sync_desc_state_running">Synchronisieren mit der Cloud</string>
     <string name="sync_folder_todo">%1$s und %2$s</string>
     <string name="sync_note_todo">%1$s und %2$s</string>
-    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>

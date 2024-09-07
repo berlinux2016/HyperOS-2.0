@@ -689,7 +689,7 @@
     <string name="passport_skip_setup_account_title">Xiaomi-Konto und Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Gesendet</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
-    <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="passport_system_error">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
     <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
     <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>

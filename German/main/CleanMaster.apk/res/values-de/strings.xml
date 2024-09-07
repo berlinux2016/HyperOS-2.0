@@ -236,7 +236,7 @@
     <string name="month_october_shortest">O</string>
     <string name="month_september_shortest">S</string>
     <string name="msg_update_error_code_already_running">Aktualisieren…</string>
-    <string name="msg_update_error_code_unknown_error">Server sind beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="msg_update_error_code_unknown_error">Server sind ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="native_headline">Überschrift</string>
     <string name="nb_clear_set">Cache bereinigen, Akku- und Sperrlisteninfos in der Statusleiste anzeigen</string>
     <string name="notification_checker_installed_apk_hint">Nicht nötig, APKs nach der Installation zu behalten</string>

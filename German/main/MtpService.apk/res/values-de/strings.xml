@@ -24,7 +24,7 @@
     <string name="call_notification_incoming_text">Eingehender Anruf</string>
     <string name="call_notification_ongoing_text">Laufender Anruf</string>
     <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
-    <string name="error_busy_device">Das andere Gerät ist beschäftigt. Sie können keine Dateien übertragen, bis es verfügbar ist.</string>
+    <string name="error_busy_device">Das andere Gerät ist ausgelastet. Sie können keine Dateien übertragen, bis es verfügbar ist.</string>
     <string name="error_locked_device">Keine Dateien gefunden. Das andere Gerät ist evtl. gesperrt. Wenn ja, entsperren und erneut versuchen.</string>
     <string name="search_menu_title">Suchen</string>
 </resources>

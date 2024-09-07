@@ -80,9 +80,9 @@
     <string name="error_receive_user_interrupted">Die andere Person hat den Transfer abgebrochen.</string>
     <string name="error_refuse_receive">Transfer abgebrochen</string>
     <string name="error_remote_ap_working">Andere Person bitten, den mobilen Hotspot auszuschalten</string>
-    <string name="error_remote_busy">Anscheinend ist das andere Gerät beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="error_remote_busy">Anscheinend ist das andere Gerät ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="error_remote_mirror_working">Das andere Gerät kann bei Bildschirm teilen keine Elemente annehmen.</string>
-    <string name="error_self_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="error_self_busy">Gerät ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="error_send_file_cannot_read">Datei senden fehlgeschlagen. Erneut versuchen.</string>
     <string name="error_send_file_no_enough_space">Senden fehlgeschlagen. Nicht genügend Speicherplatz auf dem anderen Gerät.</string>
     <string name="error_send_file_not_found">Datei nicht gefunden. Erneut versuchen.</string>

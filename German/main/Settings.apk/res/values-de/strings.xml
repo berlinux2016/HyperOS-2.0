@@ -4262,7 +4262,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_display_night_display">Bildschirm dimmen, Nacht, Tönung, Nachtabsenkung, Helligkeit, Bildschirmfarbe, Farbe</string>
     <string name="keywords_display_size">Bildschirmgröße, großer Bildschirm</string>
     <string name="keywords_display_wallpaper">Hintergrund, personalisieren, Anzeige anpassen</string>
-    <string name="keywords_do_not_disturb">DND, DND Modus, Nicht stören, Schlafen, Nacht, Beschäftigt</string>
+    <string name="keywords_do_not_disturb">DND, DND Modus, Nicht stören, Schlafen, Nacht, beschäftigt</string>
     <string name="keywords_draw_overlay">Chat-Kopf, System, Alarm, Wecker, Fenster, Dialog, Anzeige, über anderen Apps, andere Apps überlagern, zeichnen</string>
     <string name="keywords_enhance_4g_lte">Volte, erweitertes Anrufen, 4G-Anrufe</string>
     <string name="keywords_face_settings">Gesicht</string>
@@ -8458,7 +8458,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="system_backup_section_title_new">Lokal</string>
     <string name="system_dashboard_summary">Sprachen, Gesten, Zeit, Sicherung</string>
     <string name="system_default_app_subtext">Systemstandard</string>
-    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="system_haptic_feedback">Haptisches Feedback</string>
     <string name="system_language">Systemsprachen</string>
     <string name="system_navigation_title">Navigationsmodus</string>

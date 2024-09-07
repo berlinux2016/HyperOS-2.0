@@ -32,7 +32,7 @@
     <string name="afternoon">Nachmittag</string>
     <string name="appchooser_description">App zum Scannen wählen</string>
     <string name="ask_nfc_tap">Tippen Sie zum Abschließen auf ein anderes Gerät</string>
-    <string name="beam_busy">Beam ist jetzt beschäftigt. Erneut versuchen, wenn die laufende Übertragung abgeschlossen ist.</string>
+    <string name="beam_busy">Beam ist jetzt ausgelastet. Erneut versuchen, wenn die laufende Übertragung abgeschlossen ist.</string>
     <string name="beam_canceled">Beam abgebrochen</string>
     <string name="beam_complete">Beam erfolgreich</string>
     <string name="beam_failed">Beam nicht möglich</string>

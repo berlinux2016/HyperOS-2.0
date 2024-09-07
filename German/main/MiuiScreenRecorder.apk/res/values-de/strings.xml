@@ -184,7 +184,7 @@
     <string name="record_time_too_short">Aufgenommenes Video ist zu kurz</string>
     <string name="recording_failure">Aufnahme fehlgeschlagen, neu beginnen</string>
     <string name="recording_max_size">Aufnahme wurde gestoppt und gespeichert, da die maximale Videogröße erreicht wurde. Beginnen Sie mit der Aufnahme dort, wo Sie aufgehört haben, wenn Sie noch nicht fertig sind.</string>
-    <string name="recording_without_mic">Mikrofon ist beschäftigt und kann jetzt nicht aufnehmen</string>
+    <string name="recording_without_mic">Mikrofon ist ausgelastet und kann jetzt nicht aufnehmen</string>
     <string name="resolution">Auflösung</string>
     <string name="resolution_summary">Videos in besserer Qualität sehen schärfer aus</string>
     <string name="saturday">Samstag</string>

@@ -22,7 +22,7 @@
     <string name="not_encrypted_request">Dieser Drucker akzeptiert keine verschlüsselten Aufträge mehr. Drucken fortsetzen?</string>
     <string name="print">Drucken</string>
     <string name="printer_bad_certificate">Fehlerhaftes Zertifikat</string>
-    <string name="printer_busy">Beschäftigt</string>
+    <string name="printer_busy">Ausgelastet</string>
     <string name="printer_check">Drucker prüfen</string>
     <string name="printer_door_open">Klappe geöffnet</string>
     <string name="printer_jammed">Papierstau</string>

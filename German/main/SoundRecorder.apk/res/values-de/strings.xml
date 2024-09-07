@@ -504,7 +504,7 @@
     <string name="recognition_error_download_title">Kein Umwandlungsprogramm</string>
     <string name="recognition_error_downloading">"Herunterladen "</string>
     <string name="recognition_error_engine">Fehler Umwandlungsprogramm</string>
-    <string name="recognition_error_engine_singleton">Umwandlungsprogramm ist beschäftigt</string>
+    <string name="recognition_error_engine_singleton">Umwandlungsprogramm ist ausgelastet</string>
     <string name="recognition_error_format">Ungültiges Audioformat</string>
     <string name="recognition_error_internal">Interner Fehler</string>
     <string name="recognition_error_stopped">Umwandlung gestoppt</string>
@@ -658,7 +658,7 @@
     <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
     <string name="sync_desc_state_complete">Mit Cloud synchronisiert: %1$s</string>
-    <string name="system_error_info">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="system_error_info">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="tab_all">Alles</string>
     <string name="tab_call">Anrufe</string>
     <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>

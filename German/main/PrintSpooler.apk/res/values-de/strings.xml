@@ -212,7 +212,7 @@
     <string name="print_title">Drucken…</string>
     <string name="print_write_error_message">Datei wurde nicht erstellt</string>
     <string name="printer">Drucker</string>
-    <string name="printer_busy">Drucker ist beschäftigt</string>
+    <string name="printer_busy">Drucker ist ausgelastet</string>
     <string name="printer_error">Druckerfehler</string>
     <string name="printer_error_msg">Druckerfehler: %1$s</string>
     <string name="printer_info_desc">Mehr Info über diesen Drucker</string>

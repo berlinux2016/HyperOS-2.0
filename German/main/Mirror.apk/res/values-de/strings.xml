@@ -69,7 +69,7 @@
     <string name="default_boss_terminal_name">Xiaomi Computer</string>
     <string name="default_error_msg">Unbekannter Fehler</string>
     <string name="desktop_switch_is_closed">Startbildschirm+ ist ausgeschaltet</string>
-    <string name="device_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="device_busy">Gerät ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="device_max_screen_count_toast">Dieses Gerät unterstützt nur das gleichzeitige Öffnen von zwei Fenstern</string>
     <string name="device_screen_fold_switch_tip">Diese Aktion stattdessen vom inneren Bildschirm aus durchführen</string>
     <string name="display_max_screen_count_toast">In dieser Version können Sie bis zu 3 Fenster öffnen</string>

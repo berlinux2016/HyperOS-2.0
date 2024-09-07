@@ -369,7 +369,7 @@
     <string name="current_wifi_tv">Aktuelles Netzwerk</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-    <string name="device_busy">Gerät ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="device_busy">Gerät ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="device_desc_trust">Vertrauenswürdige Geräte</string>
     <string name="device_permission_authorize_dialog_message">Sobald diese Berechtigung erteilt ist, kann dieses Gerät %s für die Aufnahme von Fotos und Videos verwenden.</string>
     <string name="device_permission_authorize_dialog_title">Kamera-Berechtigungen auf %s gewähren</string>
@@ -895,7 +895,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="prompt_camera_associate_failed">Verbindung fehlgeschlagen</string>
     <string name="prompt_camera_disassociate">Getrennt</string>
     <string name="prompt_camera_guide">%s-Kamera ist verfügbar</string>
-    <string name="prompt_camera_ocuppied">Kamera ist beschäftigt</string>
+    <string name="prompt_camera_ocuppied">Kamera ist ausgelastet</string>
     <string name="prompt_camera_prepare">Verbinden…</string>
     <string name="prompt_camera_success">Verbunden</string>
     <string name="quick_settings">Einstellungen</string>
@@ -956,7 +956,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="send">Senden</string>
     <string name="server_activity_task_tips">Kamera wird von %s verwendet</string>
     <string name="server_camera_disconnected">Verbindung zum anderen Gerät wurde wegen eines Fehlers getrennt</string>
-    <string name="server_camera_occupied">Kamera ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="server_camera_occupied">Kamera ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="server_toast_camera_prepare">Vorbereiten der Freigabe des Kamera-Feed…</string>
     <string name="set_negative_button">Einstellungen</string>
     <string name="settings_cross_notify">Geräteübergreifende Benachrichtigungen</string>

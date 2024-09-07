@@ -237,7 +237,7 @@
     <string name="c_iwlan_exit_notification_positive_button">EINSTELLUNGEN ÖFFNEN</string>
     <string name="c_iwlan_exit_notification_title">Voice Over Cellular Internet nicht verfügbar</string>
     <string name="callEnded_pulled">Anruf zu anderem Gerät übertragen</string>
-    <string name="callFailed_NetworkBusy">Netzwerk beschäftigt. Anruf bitte später erneut versuchen.</string>
+    <string name="callFailed_NetworkBusy">Netzwerk ausgelastet. Anruf bitte später erneut versuchen.</string>
     <string name="callFailed_NetworkCongested">Netzwerk überlastet. Wenden Sie sich an Ihren Anbieter, um Hilfe zu erhalten.</string>
     <string name="callFailed_QOS_unavailable">Servicequalität nicht verfügbar</string>
     <string name="callFailed_access_information_discarded">Zugangsdaten verworfen</string>
@@ -254,7 +254,7 @@
     <string name="callFailed_channel_unacceptable">Kanal unzulässig</string>
     <string name="callFailed_concurrent_calls_not_possible">Anruf beendet. Parallele Aufrufe werden nicht unterstützt.</string>
     <string name="callFailed_conditional_IE_error">Bedingter IE-Fehler</string>
-    <string name="callFailed_congestion">Netzwerk beschäftigt</string>
+    <string name="callFailed_congestion">Netzwerk ausgelastet</string>
     <string name="callFailed_data_disabled">Anruf beendet wegen deaktivierter mobiler Daten</string>
     <string name="callFailed_data_limit_reached">Datenlimit erreicht. Anruf beendet.</string>
     <string name="callFailed_data_limit_reached_description">Anruf beendet wegen Erreichen des Datenlimits</string>

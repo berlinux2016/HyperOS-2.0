@@ -76,7 +76,7 @@
     <string name="ai_create_ai_image">KI-Bild erstellen</string>
     <string name="ai_create_image_fail">KI-Bild wurde wegen eines Serverfehlers nicht erstellt. Erneut versuchen.</string>
     <string name="ai_create_image_fail_by_illegal_photo">Anscheinend verstoßen die von Ihnen hochgeladenen Fotos gegen unsere Community-Standards. \nVersuchen Sie, das KI-Bild mit anderen Fotos zu erstellen.</string>
-    <string name="ai_create_image_fail_by_net">KI-Bild erstellen fehlgeschlagen. Unsere Server sind im Moment zu sehr beschäftigt. Erneut versuchen.</string>
+    <string name="ai_create_image_fail_by_net">KI-Bild erstellen fehlgeschlagen. Unsere Server sind im Moment zu sehr ausgelastet. Erneut versuchen.</string>
     <string name="ai_create_image_photo_tip">Fotos werden von unseren Servern gelöscht, sobald das KI-Bild erstellt ist</string>
     <string name="ai_create_image_tip">Fotos werden von unseren Servern gelöscht, sobald das KI-Bild erstellt ist</string>
     <string name="ai_create_remain_time" formatted="false">Wartezeit: %1s %2s</string>
@@ -1639,7 +1639,7 @@
     <string name="passport_skip_query_account">Überspringen</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
-    <string name="passport_system_error">System ist beschäftigt. Etwas warten und erneut versuchen.</string>
+    <string name="passport_system_error">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
     <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
     <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
     <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>

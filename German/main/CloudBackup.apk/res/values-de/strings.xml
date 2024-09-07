@@ -459,7 +459,7 @@ Wichtig: Daten der einzelnen Apps werden dabei nicht in Xiaomi Cloud gesichert."
     <string name="save_not_backup_reason_disk_space_not_enough_dialog_title">Nicht genügend Gerätespeicher</string>
     <string name="save_not_backup_reason_get_installed_apps_denied_message">Gewähren Sie die erforderlichen Berechtigungen, um diese Funktion zu nutzen. Wenn Sie dazu aufgefordert werden, wählen Sie \"Immer erlauben\". Einstellungen jetzt öffnen?</string>
     <string name="save_not_backup_reason_network_error">Netzwerkfehler</string>
-    <string name="save_not_backup_reason_no_server_response">Server ist beschäftigt. Versuchen Sie eine manuelle Sicherung.</string>
+    <string name="save_not_backup_reason_no_server_response">Server ist ausgelastet. Versuchen Sie eine manuelle Sicherung.</string>
     <string name="save_not_backup_reason_override">Manuelle Sicherung für diese Geräte erforderlich</string>
     <string name="save_not_backup_reason_permission_denied">Berechtigungen erforderlich</string>
     <string name="save_not_backup_reason_permission_denied_dialog_title">Berechtigungen erforderlich</string>

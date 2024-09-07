@@ -527,7 +527,7 @@
     <string name="download_retry_download">Erneut versuchen</string>
     <string name="download_router_tip">Auf Mi Router herunterladen</string>
     <string name="download_save_dialog_title">Speichern</string>
-    <string name="download_sdcard_busy_dlg_msg">SD-Karte ist beschäftigt. Um Downloads zu erlauben, bitte USB-Speicher in Benachrichtigungsleiste ausschalten.</string>
+    <string name="download_sdcard_busy_dlg_msg">SD-Karte ist ausgelastet. Um Downloads zu erlauben, bitte USB-Speicher in Benachrichtigungsleiste ausschalten.</string>
     <string name="download_sdcard_busy_dlg_title">SD-Karte nicht verfügbar</string>
     <string name="download_sdcard_no_space">Herunterladen fehlgeschlagen. Nicht genügend Speicher.</string>
     <string name="download_secure_download_in_xiaomi_market">In GetApps herunterladen</string>
