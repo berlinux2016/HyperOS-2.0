@@ -2530,7 +2530,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">Schlüsselmomente Ihrer \nSpielsitzungen aufnehmen</string>
     <string name="gb_wonderful_video_cancel">Abbrechen</string>
     <string name="gb_wonderful_video_checkall">Alle wählen</string>
-    <string name="gb_wonderful_video_date_format">dd. MMM.</string>
+    <string name="gb_wonderful_video_date_format">dd. MMM</string>
     <string name="gb_wonderful_video_delete">Löschen</string>
     <string name="gb_wonderful_video_goto_box">Game Turbo öffnen</string>
     <string name="gb_wonderful_video_header_title">Heute</string>
