@@ -436,7 +436,7 @@
     <string name="sound_id_test_select_note">Beide Demos abspielen und das wählen, welches Ihnen besser gefällt</string>
     <string name="sound_id_wired_analog_headset">Kabelgebundene Kopfhörer</string>
     <string name="sound_test_title">Hörwahrnehmungstest</string>
-    <string name="sound_transmission_cancel">Nein danke</string>
+    <string name="sound_transmission_cancel">Nein, danke</string>
     <string name="sound_transmission_confirm">Erlauben</string>
     <string name="sound_transmission_continue">Wiederaufnehmen</string>
     <string name="sound_transmission_device">Gerät</string>

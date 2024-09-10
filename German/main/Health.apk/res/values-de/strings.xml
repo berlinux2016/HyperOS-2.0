@@ -895,7 +895,7 @@
     <string name="skipping_reset_time">Ausruhen</string>
     <string name="skipping_start_counting">Starten</string>
     <string name="skipping_time">Dauer</string>
-    <string name="skipping_upload_dialog_reject_not_remind">Nein danke</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Nein, danke</string>
     <string name="skipping_upload_tips">Audio hochladen, um Statistiken genauer zu machen</string>
     <string name="sleep_and_get_up_time">Schlafenszeitplan</string>
     <string name="sleep_chart_loading">Einen Moment…</string>

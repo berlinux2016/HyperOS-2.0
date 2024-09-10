@@ -280,7 +280,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="dialog_privacy_info_new5">Willkommen bei Mi Video! Diese App bietet folgende Dienste:&lt;br>&lt;/br> - Online-Streaming-Dienste&lt;br>&lt;/br>- Lokaler Video-Player&lt;br>&lt;/br>Diese App muss notwendige personenbezogene Daten sammeln, um Ihnen grundlegende Dienste anzubieten. Details erfahren Sie in unserer Datenschutzerklärung. Sie können Ihre Einstellungen jederzeit unter Profil > Einstellungen ändern.&lt;br>&lt;/br>Lesen und akzeptieren Sie unsere &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, bevor Sie Mi Video verwenden.</string>
     <string name="dialog_privacy_revoke_cancel">Abbrechen</string>
     <string name="dialog_privacy_revoke_count_down">Widerrufen (%1$ds)</string>
-    <string name="dialog_privacy_revoke_description">Sie sind im Begriff, Ihre Zustimmung zur Datenschutzerklärung von Mi Video zu widerrufen. Wir werden aufhören, personenbezogene Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Verweigerung der Annahme von Online-Diensten, die auf gesammelten personenbezogenen Daten basieren, betrachtet.</string>
+    <string name="dialog_privacy_revoke_description">Sie sind im Begriff, Ihre Zustimmung zur Datenschutzerklärung von Mi Video zu widerrufen. Wir werden aufhören, personenbezogene Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Ihr Widerruf der Zustimmung zur Datenschutzerklärung wird als Ablehnung von Online-Diensten, die auf gesammelten personenbezogenen Daten basieren, betrachtet.</string>
     <string name="dialog_privacy_revoke_fail">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="dialog_privacy_revoke_ok">Widerrufen</string>
     <string name="dialog_privacy_revoke_success">Erfolgreich widerrufen</string>
@@ -289,7 +289,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="dialog_privacy_title">Allgemeine Geschäftsbedingungen</string>
     <string name="dialog_select_folder_content">Alle zukünftigen Downloads in diesem Ordner speichern?</string>
     <string name="dialog_select_folder_title">Ordner wählen</string>
-    <string name="dialog_set_default_later">Nein danke</string>
+    <string name="dialog_set_default_later">Nein, danke</string>
     <string name="dialog_set_default_set">Festlegen</string>
     <string name="dialog_set_default_text">Mi Video als Standard-Videoplayer festlegen?</string>
     <string name="dialog_title_delete_folder">Wenn Sie diesen Ordner löschen, werden auch alle darin enthaltenen Dateien endgültig gelöscht. Ordner jetzt löschen?</string>
@@ -344,7 +344,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
     <string name="exo_controls_repeat_all_description">Aktueller Modus: Alle wiederholen. Wiederholungsmodus umschalten.</string>
-    <string name="exo_controls_repeat_off_description">Aktueller Modus: Keinen wiederholen. Wiederholungsmodus umschalten.</string>
+    <string name="exo_controls_repeat_off_description">Aktueller Modus: Nichts wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_repeat_one_description">Aktueller Modus: Einen wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
@@ -575,7 +575,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="history_local_video">Lokal</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="identity">Identifikation</string>
-    <string name="incentive_dialog_cancel_not_interested">Nein danke</string>
+    <string name="incentive_dialog_cancel_not_interested">Nein, danke</string>
     <string name="incentive_dialog_ok_receive_task">Vollständig</string>
     <string name="incentive_exchange">Einlösen</string>
     <string name="incentive_exchange_code_copy">Kopieren</string>
@@ -988,7 +988,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="offline_notification_text">Zum Öffnen der Werbung antippen</string>
     <string name="offline_notification_title">Werbung anzeigen, die Sie gespeichert haben, als Sie offline waren</string>
     <string name="offline_opt_in_confirmation">Sie erhalten eine Benachrichtigung mit dem Link, wenn Sie wieder online sind</string>
-    <string name="offline_opt_in_decline">Nein danke</string>
+    <string name="offline_opt_in_decline">Nein, danke</string>
     <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Webseite des Inserenten.</string>
     <string name="offline_opt_in_title">Werbung öffnen, wenn Sie wieder online sind</string>
     <string name="online_play_hint">Beispiel: http://www.example.com/video.mp4</string>
@@ -1622,7 +1622,7 @@ Es zeigt nichts an."</string>
     <string name="tt_net_error">Netzwerkfehler</string>
     <string name="tt_no_ad">Keine Werbung</string>
     <string name="tt_no_network">Netzwerk nicht verfügbar, bitte später erneut versuchen.</string>
-    <string name="tt_no_thank_you">Nein danke</string>
+    <string name="tt_no_thank_you">Nein, danke</string>
     <string name="tt_permission_denied">Sie haben verboten, den Vorgang zu autorisieren, bitte autorisieren Sie ihn</string>
     <string name="tt_playable_btn_play">Jetzt ausprobieren</string>
     <string name="tt_postiveBtnText">Fortsetzen</string>

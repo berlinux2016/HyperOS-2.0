@@ -71,7 +71,7 @@
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_clicked">Ziehpunkt doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="bundle_app_learn_how_to_install">So installieren Sie \"%1$s\" </string>
     <string name="bundle_app_market__tips_install">Dies ist eine sichere Version, bereitgestellt von GetApps</string>
@@ -117,7 +117,7 @@
     <string name="close_enhance_safe_guard">Erhöhten Schutz ausschalten</string>
     <string name="close_mi_protect_lockscreen_authorize_cancel">Abbrechen</string>
     <string name="close_mi_protect_lockscreen_authorize_ok">Fortfahren</string>
-    <string name="close_mi_protected_second_tip_dialog_cancel">Nein danke</string>
+    <string name="close_mi_protected_second_tip_dialog_cancel">Nein, danke</string>
     <string name="close_mi_protected_second_tip_dialog_msg">Sie können alternative Verifizierungsmethoden anstelle einer normalen Bildschirmsperre verwenden</string>
     <string name="close_mi_protected_second_tip_dialog_ok">Hinzufügen</string>
     <string name="close_mi_protected_second_tip_dialog_title">Weitere Verifizierungsmethoden hinzufügen?</string>
@@ -751,7 +751,7 @@
     <string name="pure_introduction_title4">Datenschutz</string>
     <string name="pure_introduction_title5">Betrugsbekämpfung</string>
     <string name="pure_mode_des">Mi Protect gewährleistet, dass jede auf Ihrem Gerät installierte App die Xiaomi- Sicherheitstests bestanden hat.</string>
-    <string name="pure_mode_give_up_protect">Nein danke</string>
+    <string name="pure_mode_give_up_protect">Nein, danke</string>
     <string name="pure_mode_install_completed_setting"><u>Diese App verwalten</u></string>
     <string name="pure_mode_install_completed_tip1">· Identifikatoren verbergen und Rückverfolgung verhindern</string>
     <string name="pure_mode_install_completed_tip2">· Daten jeder App unabhängig voneinander speichern</string>

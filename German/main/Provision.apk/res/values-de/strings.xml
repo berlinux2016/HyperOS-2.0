@@ -765,7 +765,7 @@ Sie müssen die Mint Keyboard Datenschutzerklärung akzeptieren, bevor Sie diese
     <string name="wc_dialog_summary">Hintergrundkarussell liefert täglich atemberaubende Bilder und spannende Geschichten auf Ihren Sperrbildschirm.</string>
     <string name="wc_dialog_title">Neuauflage des Sperrbildschirms</string>
     <string name="wc_double_check_agree">Probieren</string>
-    <string name="wc_double_check_reject">Nein danke</string>
+    <string name="wc_double_check_reject">Nein, danke</string>
     <string name="wc_double_check_summary">Sie können Hintergrundkarussell einschalten, um zu sehen, ob es für Sie passt. Bedenken Sie, dass Sie das Hintergrundkarussell jederzeit unter Einstellungen &lt; Sperrbildschirm ein- und ausschalten können.</string>
     <string name="wc_double_check_title">Hintergrundkarussell probieren</string>
     <string name="wc_notice_link_announcement_summary">Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> des Inhalte-Drittanbieters, bevor Sie diese Funktion nutzen.</string>

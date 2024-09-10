@@ -71,7 +71,7 @@
     <string name="controls_dialog_message">%s schlug vor, diese Steuerung zu Ihren Favoriten hinzuzufügen.</string>
     <string name="controls_dialog_ok">Zu Favoriten hinzufügen</string>
     <string name="controls_dialog_title">Zur Gerätesteuerung hinzufügen</string>
-    <string name="controls_dismiss_dialog_cancel">Nein danke</string>
+    <string name="controls_dismiss_dialog_cancel">Nein, danke</string>
     <string name="controls_dismiss_dialog_cancel_international">Abbrechen</string>
     <string name="controls_dismiss_dialog_confirm">Einstellungen</string>
     <string name="controls_dismiss_dialog_confirm_international">Entfernen</string>

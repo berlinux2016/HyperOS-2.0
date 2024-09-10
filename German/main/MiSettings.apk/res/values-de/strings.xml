@@ -158,7 +158,7 @@
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
     <string name="exo_controls_repeat_all_description">Aktueller Modus: Alle wiederholen. Wiederholungsmodus umschalten.</string>
-    <string name="exo_controls_repeat_off_description">Aktueller Modus: Keinen wiederholen. Wiederholungsmodus umschalten.</string>
+    <string name="exo_controls_repeat_off_description">Aktueller Modus: Nichts wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_repeat_one_description">Aktueller Modus: Einen wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_rewind_by_amount_description">%d Sekunden zurückspulen</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>

@@ -27,7 +27,7 @@
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_clicked">Ziehpunkt doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="bt_audio_share_notification_content">Tippen, um Optionen anzuzeigen</string>
     <string name="bt_audio_share_notification_title">Audio teilen</string>

@@ -217,7 +217,7 @@
     <string name="no_visiable_calendar_message">Du musst ein Kalenderkonto hinzufügen. Zum Fortfahren auf Konto hinzufügen tippen.</string>
     <string name="none">Nichts</string>
     <string name="notes_hint">Tippen, um eine Aufgabe hinzuzufügen</string>
-    <string name="notification_open_setting_button_exit">Nein danke</string>
+    <string name="notification_open_setting_button_exit">Nein, danke</string>
     <string name="notification_open_setting_message">Du erhältst keine Termin-Benachrichtigungen, wenn du Kalender nicht erlaubst, Benachrichtigungen zu senden.</string>
     <string name="notification_open_setting_title">Kalenderbenachrichtigungen zulassen?</string>
     <string name="panchang_hindu_lunar_month">Hindu-Mondmonat</string>

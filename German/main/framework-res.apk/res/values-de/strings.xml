@@ -293,7 +293,7 @@ Sie können dieses Kürzel unter Einstellungen > Eingabehilfen in eine andere Fu
     <string name="autofill_picker_some_suggestions">{count, plural, =1 {Ein Vorschlag für Autovervollständigen} other {# Vorschläge für Autovervollständigen} }</string>
     <string name="autofill_save_accessibility_title">Für Autovervollständigen speichern</string>
     <string name="autofill_save_never">Nie</string>
-    <string name="autofill_save_no">Nein danke</string>
+    <string name="autofill_save_no">Nein, danke</string>
     <string name="autofill_save_notnow">Jetzt nicht</string>
     <string name="autofill_save_title">Unter &lt;b&gt;%1$s&lt;/b&gt; speichern?</string>
     <string name="autofill_save_title_with_2types">%1$s und %2$s unter &lt;b&gt;%3$s&lt;/b&gt; speichern?</string>

@@ -836,7 +836,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="auto_task_nearby_device">Verfügbare Geräte</string>
     <string name="auto_task_nearby_wlan">Verfügbare Netzwerke</string>
     <string name="auto_task_no_in_call">Wenn kein Anruf vorliegt</string>
-    <string name="auto_task_no_need">Nein danke</string>
+    <string name="auto_task_no_need">Nein, danke</string>
     <string name="auto_task_notification_tips">Benachrichtigungen</string>
     <string name="auto_task_notify_do_task_title">Automatisierte Aufgabe gestartet</string>
     <string name="auto_task_notify_exit_task_title">Automatisierte Aufgabe beendet</string>
@@ -984,7 +984,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="beauty_fun_privacy">Datenschutzkamera</string>
     <string name="beauty_fun_privacy_dialog_message">Wenn Sie die Kamera für die Gesichtserkennungsfunktionen verwenden, wird Ihr Gesicht automatisch erkannt und andere erfasste Bereiche werden maskiert.</string>
     <string name="beauty_fun_privacy_dialog_tips">Diese funktion kann die Erfolgsquote der Gesichtserkennung senken</string>
-    <string name="beauty_fun_privacy_ingnore">Nein danke</string>
+    <string name="beauty_fun_privacy_ingnore">Nein, danke</string>
     <string name="beauty_fun_privacy_message">Erkennen von Gesichtern und Ausblenden anderer erfasster Bereiche, wenn die Kamera mit Gesichtserkennungsfunktionen verwendet wird</string>
     <string name="beauty_fun_privacy_open">Einschalten</string>
     <string name="beauty_fun_privacy_open_tips">Datenschutzkamera ist an</string>
@@ -1247,7 +1247,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="choose_gs_show_way">Ausrichtung Startseite wählen</string>
     <string name="clean_immediately">Löschen</string>
     <string name="clean_master_icon_recall_button_text">Hinzufügen</string>
-    <string name="clean_master_icon_recall_dialog_button_negative">Nein danke</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">Nein, danke</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Hinzufügen</string>
     <string name="clean_master_icon_recall_dialog_summary">Startbildschirm-Verknüpfung hinzufügen, um den Papierkorb jederzeit zu leeren</string>
     <string name="clean_master_icon_recall_dialog_title">Papierkorb schneller löschen</string>
@@ -1287,7 +1287,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Xiaomi-Konto hinzufügen</string>
     <string name="confirm_close">Ausschalten</string>
     <string name="confirm_fingerprint_msg">Fingerabdruck verifizieren</string>
-    <string name="confirm_leave">Nein danke</string>
+    <string name="confirm_leave">Nein, danke</string>
     <string name="confirm_open">Einschalten</string>
     <string name="confirm_open_shut_down_password_content">Bildschirmsperre einstellen, bevor Sie die Abschaltbestätigung einschalten</string>
     <string name="confirm_open_shut_down_password_title">Bildschirmsperre einstellen</string>
@@ -1897,7 +1897,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
     <string name="exo_controls_repeat_all_description">Aktueller Modus: Alle wiederholen. Wiederholungsmodus umschalten.</string>
-    <string name="exo_controls_repeat_off_description">Aktueller Modus: Keinen wiederholen. Wiederholungsmodus umschalten.</string>
+    <string name="exo_controls_repeat_off_description">Aktueller Modus: Nichts wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_repeat_one_description">Aktueller Modus: Einen wiederholen. Wiederholungsmodus umschalten.</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
@@ -2400,7 +2400,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_performance_mode">Spielmodus</string>
     <string name="gb_performance_tips">Leistungsmodus verbessert die Grafikleistung,\nerhöht aber auch den Stromverbrauch und führt zu einer Überhitzung des Geräts</string>
     <string name="gb_predownload_check">Prämien ansehen</string>
-    <string name="gb_predownload_dialog_cancel">Nein danke</string>
+    <string name="gb_predownload_dialog_cancel">Nein, danke</string>
     <string name="gb_predownload_dialog_checked">Nicht mehr anzeigen</string>
     <string name="gb_predownload_dialog_confirm">Einschalten</string>
     <string name="gb_predownload_dialog_message_china"><Data>Aktualisierte Inhalte für dieses Spiel können automatisch auf dieses Gerät heruntergeladen werden, sobald Sie eine WLAN-Verbindung herstellen und den Bildschirm ausschalten. So können Sie die neue Version nutzen, sobald sie veröffentlicht wird.&lt;br>&lt;br>Lesen und akzeptieren Sie die &lt;a href=\"%1$s\">Erklärung zu Hintergrundaktualisierungen&lt;/a>, bevor Sie diese Funktion nutzen.</Data></string>
@@ -4601,7 +4601,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_recommend_summary">Personalisierte Inhaltsempfehlungen erhalten</string>
     <string name="privacy_recommend_title">Personalisierte Inhaltsempfehlungen</string>
     <string name="privacy_revoke_category_title">Zustimmung widerrufen und Dienst kündigen</string>
-    <string name="privacy_revoke_dialog_content">Durch Schalter aus widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Sicherheit. Wir werden die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Die Sicherheitsabteilung muss die notwendigen personenbezogenen Daten sammeln, um Ihnen grundlegende Dienstleistungen anzubieten. Wenn Sie Ihre Zustimmung zur Datenschutzrichtlinie zurückziehen, wird dies als Verweigerung der Annahme der Dienste auf der Grundlage der gesammelten personenbezogenen Daten gewertet.</string>
+    <string name="privacy_revoke_dialog_content">Durch Schalter aus widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Sicherheit. Wir werden die Erfassung Ihrer personenbezogenen Daten einstellen. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des von den geltenden Gesetzen vorgeschriebenen Zeitraums gelöscht. Die Sicherheitsabteilung muss die notwendigen personenbezogenen Daten sammeln, um Ihnen grundlegende Dienstleistungen anzubieten. Wenn Sie Ihre Zustimmung zur Datenschutzrichtlinie zurückziehen, wird dies als Ablehnung der Dienste auf der Grundlage der gesammelten personenbezogenen Daten gewertet.</string>
     <string name="privacy_revoke_dialog_content_cn">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von %1$s. Wir werden aufhören, Ihre personenbezogenen Daten zu sammeln. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des eingestellten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert.\nDa %2$s die Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="privacy_revoke_dialog_negetive_text">Abbrechen</string>
     <string name="privacy_revoke_dialog_positive_text">Widerrufen</string>
@@ -6055,7 +6055,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="uninstall_danagerous_title">Bösartige Apps deinstallieren</string>
     <string name="unknown_operator">Sie können %2$s anrufen, um die Tarifdetails mit %1$s zu bestätigen.</string>
     <string name="unknown_package">Nicht sicher, welchen Tarif Sie haben?</string>
-    <string name="unlike">Nein danke</string>
+    <string name="unlike">Nein, danke</string>
     <string name="unlimited_cellular_data_monthly">Unbegrenzter Tarif</string>
     <string name="unlock_failed">Interner Fehler</string>
     <string name="unlock_pattern"><u>Muster</u></string>

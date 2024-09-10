@@ -55,7 +55,7 @@
     <string name="cd_check_box_unchecked">nicht angekreuzt</string>
     <string name="cd_list_item_collapse">minimiert</string>
     <string name="cd_list_item_expanded">erweitert</string>
-    <string name="clean_master_icon_recall_dialog_button_negative">Nein danke</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">Nein, danke</string>
     <string name="clean_master_icon_recall_dialog_summary">Verknüpfung zum Startbildschirm hinzufügen, um den Papierkorb jederzeit zu leeren</string>
     <string name="clean_master_icon_recall_dialog_title">Papierkorb schneller leeren</string>
     <string name="clean_master_icon_recall_hint">Verknüpfung zum Startbildschirm hinzufügen</string>
@@ -378,7 +378,7 @@
     <string name="toast_scaning_similar_image">Fotos prüfen…</string>
     <string name="toast_select_white_need_remove">Zu löschende Elemente wählen</string>
     <string name="tuesday_shortest">D</string>
-    <string name="unlike">Nein danke</string>
+    <string name="unlike">Nein, danke</string>
     <string name="update_date_format">dd.MM.yyyy</string>
     <string name="wechat_chat_data_type_cache">WeChat-Cache</string>
     <string name="wechat_chat_data_type_other_desc">Vorsicht, du kannst diese Dateien nach dem Löschen eventuell nicht wiederherstellen.</string>

@@ -74,7 +74,7 @@
     <string name="anonymous_resource_linking">Hinzufügen…</string>
     <string name="anonymous_resource_login_confirm">Anmelden</string>
     <string name="anonymous_resource_login_title">Zuerst anmelden</string>
-    <string name="anonymous_resource_unlink">Nein danke</string>
+    <string name="anonymous_resource_unlink">Nein, danke</string>
     <string name="anonymous_resource_unlink_cancel">Abbrechen</string>
     <string name="anonymous_resource_unlink_confirm">Nicht hinzufügen</string>
     <string name="anonymous_resource_unlink_hint">Wenn Sie keine Elemente hinzufügen, werden diese nicht mit Ihrem Konto verknüpft.</string>
@@ -163,7 +163,7 @@
     <string name="common_skip">Überspringen</string>
     <string name="community_community_message_trigger_summary">Benachrichtigungen über Antworten, Likes und Xiaomi Community-Statusaktualisierungen mittels Ihrer Xiaomi-Konto-ID erhalten</string>
     <string name="community_community_message_trigger_title">Über Aktivität benachrichtigen</string>
-    <string name="community_cta_dialog_cancel">Nein danke</string>
+    <string name="community_cta_dialog_cancel">Nein, danke</string>
     <string name="community_cta_dialog_des">Drittanbieter-Themen unterstützen jetzt das Xiaomi Community-Widget. Themen den Zugriff auf Ihre Xiaomi-Konto-ID und den mit dem Konto verbundenen Xiaomi Community-Status erlauben, um sie hier anzuzeigen.</string>
     <string name="community_cta_dialog_ok">Erlauben</string>
     <string name="community_cta_dialog_title">Berechtigungen erforderlich</string>
@@ -311,7 +311,7 @@
     <string name="exo_controls_playback_speed">Geschwindigkeit</string>
     <string name="exo_controls_previous_description">Vorheriger</string>
     <string name="exo_controls_repeat_all_description">Alle wiederholen</string>
-    <string name="exo_controls_repeat_off_description">Keinen wiederholen</string>
+    <string name="exo_controls_repeat_off_description">Nichts wiederholen</string>
     <string name="exo_controls_repeat_one_description">Einen wiederholen</string>
     <string name="exo_controls_rewind_description">Zurückspulen</string>
     <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
@@ -388,7 +388,7 @@
     <string name="fold_restore_default_success">Erfolgreich wiederhergestellt</string>
     <string name="fold_restore_default_theme_dialog_agree">Wiederherstellen</string>
     <string name="fold_restore_default_theme_dialog_content">Themen können auf diesem Gerät jetzt nicht verwendet werden. Wenn Sie Ihr Thema zuvor geändert haben, können Sie jetzt das Standardthema wiederherstellen. Danach können Sie Ihr Thema nicht mehr ändern.</string>
-    <string name="fold_restore_default_theme_dialog_disagree">Nein danke</string>
+    <string name="fold_restore_default_theme_dialog_disagree">Nein, danke</string>
     <string name="fold_restore_default_theme_dialog_title">Standardthema wiederherstellen</string>
     <string name="fold_sensor_video_wallpaper_group">Dynamische Hintergründe für faltbare Geräte</string>
     <string name="font_compat_dialog_buy_confirm">Kaufen</string>
@@ -1221,7 +1221,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="share_theme_content_text">"Sie können das erstaunliche Thema \"%1$s\" hier herunterladen: %2$s. Von "</string>
     <string name="share_wallpaper_content_text">"Sie können den erstaunlichen Hintergrund \"%1$s\" hier herunterladen: %2$s. Von "</string>
     <string name="shortcut_add">Hinzufügen</string>
-    <string name="shortcut_cancel">Nein danke</string>
+    <string name="shortcut_cancel">Nein, danke</string>
     <string name="shortcut_message">Verknüpfung im Startbildschirm hinzufügen!</string>
     <string name="shortcut_show_tip">Nicht mehr anzeigen</string>
     <string name="shortcut_title">Sie mögen unsere Hintergründe?</string>

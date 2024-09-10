@@ -96,7 +96,7 @@
     <string name="ai_cta_agree_btn">Erlauben</string>
     <string name="ai_cta_dialog_message">Galerie eine Verbindung zum Internet herstellen lassen, um KI-Porträts zu erstellen.</string>
     <string name="ai_cta_dialog_title">Berechtigungen erforderlich</string>
-    <string name="ai_cta_refuse_btn">Nein danke</string>
+    <string name="ai_cta_refuse_btn">Nein, danke</string>
     <string name="ai_deal_file_tip">Diese Seite nicht verlassen</string>
     <string name="ai_deal_file_title">Fotos verarbeiten…</string>
     <string name="ai_deal_tile_text">Erforderliche Zeit berechnen…</string>
@@ -370,7 +370,7 @@
     <string name="back">Zurück</string>
     <string name="back_up_gp_btn_no">Jetzt nicht</string>
     <string name="back_up_gp_btn_no_again">Nicht mehr anzeigen</string>
-    <string name="back_up_gp_btn_no_migrating">Nein danke</string>
+    <string name="back_up_gp_btn_no_migrating">Nein, danke</string>
     <string name="back_up_gp_btn_setup">Sicherung einschalten</string>
     <string name="back_up_gp_btn_setup_migrating">Einstellungen</string>
     <string name="back_up_gp_msg">Speichern Sie Ihre Fotos und Videos automatisch in Ihrem Google-Konto, indem Sie die Sicherung in Google Fotos aktivieren. \n• Zukünftige Funktionen können zusätzliche Berechtigungen in der Xiaomi Galerie und Google Fotos erfordern.</string>
@@ -1829,7 +1829,7 @@
     <string name="privacy_reject_map_detail_new"><Data>Ihr Widerruf der Zustimmung zur &lt;a href=\"%1$s\">Gallery Map Erklärung zur Weitergabe von Daten an Dritte&lt;/a> wird als Ablehnung der Gallery Map-Dienste gewertet. Sie können andere Galeriefunktionen weiterhin normal nutzen. Zustimmung jetzt widerrufen?</Data></string>
     <string name="privacy_rejected">Zustimmung widerrufen</string>
     <string name="privacy_rejected_map">Zustimmung zur Datenschutzerklärung von Gallery Map widerrufen</string>
-    <string name="privacy_rejected_map_detail">Der Widerruf Ihrer Zustimmung zur Datenschutzerklärung von Gallery Map wird als Verweigerung der Annahme der Dienstleistungen betrachtet. Andere grundlegende Funktionen und Dienste von Galerie sind davon nicht betroffen. Trotzdem widerrufen?</string>
+    <string name="privacy_rejected_map_detail">Der Widerruf Ihrer Zustimmung zur Datenschutzerklärung von Gallery Map wird als Ablehnung der Dienstleistungen betrachtet. Andere grundlegende Funktionen und Dienste von Galerie sind davon nicht betroffen. Trotzdem widerrufen?</string>
     <string name="privacy_rejected_map_new">Zustimmung zur Erklärung über die Weitergabe von Daten an Dritte durch Gallery Map widerrufen</string>
     <string name="privacy_rejected_pos_btn">Widerrufen</string>
     <string name="privacy_share_album_confirm">Allgemeine Geschäftsbedingungen</string>

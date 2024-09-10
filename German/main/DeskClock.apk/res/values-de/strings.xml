@@ -111,7 +111,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Einen Moment…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Elemente laden nicht möglich</string>
     <string name="module_dialog_negative">Ablehnen</string>
-    <string name="module_download_cancel">Nein danke</string>
+    <string name="module_download_cancel">Nein, danke</string>
     <string name="module_download_failure">Audio herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="module_download_no_network">Uhr benötigt eine Internetverbindung, um Audio herunterzuladen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="module_unzipping">Audio entpacken…</string>
@@ -156,7 +156,7 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
     <string name="network_privacy"><Data>Um relevante Infos über lokale Feiertage zu erhalten und Wecker einzustellen, benötigt Uhr eine Internetverbindung. Vor der Nutzung von Uhr musst du auch unsere &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
     <string name="network_privacy_global"><Data>Um personalisierte Dienste anzubieten, benötigt Uhr eine Internetverbindung. Vor der Nutzung von Uhr musst du auch unsere &lt;a href=\"2$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%3$s\">Datenschutzerklärung&lt;/a> lesen und akzeptieren. Zustimmen?</Data></string>
-    <string name="not_set_temporarily">Nein danke</string>
+    <string name="not_set_temporarily">Nein, danke</string>
     <string name="not_update">Jetzt nicht</string>
     <string name="notification_permission_desc">Wenn du die Berechtigung für Benachrichtigungen nicht erteilst, kannst du Wecker nicht ausschalten, wenn sie klingeln. Berechtigung jetzt erteilen?</string>
     <string name="notification_permission_dialog_content">Diese App darf Benachrichtigungen senden, um Weckerbenachrichtigungen zu erhalten. Du kannst diese Berechtigung in Einstellungen erteilen.</string>

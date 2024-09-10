@@ -773,7 +773,7 @@ E-Mail: service.jp@xiaomi.com"</string>
     <string name="submit_dialog_not_show_again">Nicht mehr anzeigen</string>
     <string name="submit_dialog_title">Bericht senden</string>
     <string name="submit_feedback_info_failed">Bericht senden fehlgeschlagen</string>
-    <string name="suggest_upload_log_dialog_cancel">Nein danke</string>
+    <string name="suggest_upload_log_dialog_cancel">Nein, danke</string>
     <string name="suggest_upload_log_dialog_confirm">Hochladen</string>
     <string name="suggest_upload_log_dialog_content">Um unseren Ingenieuren zu helfen, das von Ihnen gefundene Problem so schnell wie möglich zu lokalisieren und zu lösen, empfehlen wir, die entsprechenden Protokolle hochzuladen. Protokolle werden nur zur Problemanalyse und nicht für andere Zwecke verwendet.</string>
     <string name="suggest_upload_log_dialog_title">Entsprechende Protokolle hochladen</string>

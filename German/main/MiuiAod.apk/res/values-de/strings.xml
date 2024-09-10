@@ -79,7 +79,7 @@ dd.MM."</string>
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_clicked">Ziehpunkt doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="btn_know">Verstanden</string>
     <string name="call_notification_answer_action">Annehmen</string>
@@ -184,7 +184,7 @@ dd.MM."</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="kg_activity_label">Sperrbildschirm bearbeiten</string>
     <string name="kg_apply">Anwenden</string>
-    <string name="kg_apply_to_aod_alert_dialog_negative_text">Nein danke</string>
+    <string name="kg_apply_to_aod_alert_dialog_negative_text">Nein, danke</string>
     <string name="kg_apply_to_aod_alert_dialog_positive_text">Einschalten</string>
     <string name="kg_apply_to_aod_alert_dialog_title">Auch das Always-on-Display einschalten?</string>
     <string name="kg_applying">Anwenden…</string>

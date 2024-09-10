@@ -836,7 +836,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="audio_not_synced">Audio nicht synchronisiert</string>
     <string name="audio_profile_settings_title">Audioprofile</string>
     <string name="audio_share_abs_volume_message">Lautstärke kann nicht unabhängig eingestellt werden, wenn Audio-Sharing verwendet wird</string>
-    <string name="audio_share_cancel">Nein danke</string>
+    <string name="audio_share_cancel">Nein, danke</string>
     <string name="audio_share_confirm">Teilen</string>
     <string name="audio_synced">Audio synchronisiert</string>
     <string name="auracast_scan_not_support">Nicht mit kompatiblen Kopfhörern verbunden. Keine Übertragungen in der Nähe gefunden.</string>
@@ -1722,7 +1722,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_clicked">Ziehpunkt doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="breathing_light_color_menu_title">LED-Farbe</string>
     <string name="breathing_light_color_summary">LED-Farbe bei Eingang einer Benachrichtigung</string>
@@ -3299,7 +3299,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="face_unlock_skip_face">Ohne Gesichtserkennung fortfahren</string>
     <string name="face_unlock_stay_away_screen">25 bis 40 cm vom Bildschirm entfernt bleiben</string>
     <string name="face_unlock_success_show_message_dialog_msg">Benachrichtigungen am Sperrbildschirm erlauben, um sie auf diesem anzuzeigen</string>
-    <string name="face_unlock_success_show_message_dialog_negative_btn">Nein danke</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">Nein, danke</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Erlauben</string>
     <string name="face_unlock_success_show_message_dialog_title">Sperrbildschirm-Benachrichtigungen</string>
     <string name="face_unlock_success_show_message_msg">Nur Benachrichtigungsquelle anzeigen, wenn das Gerät gesperrt ist, und Benachrichtigungsdetails hinzufügen, wenn die Gesichtsdaten verifiziert wurden</string>
@@ -7420,7 +7420,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Gesicht verwenden, um Ihr Telefon zu entsperren, Einkäufe zu bestätigen oder sich bei Apps anzumelden</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">Gesicht verwenden, um Ihr Telefon zu entsperren oder Einkäufe zu bestätigen.\n\nHinweis: Sie können Ihr Gesicht nicht verwenden, um dieses Gerät zu entsperren. Weitere Infos erhalten Sie beim Admin Ihrer Firma.</string>
     <string name="security_settings_face_enroll_introduction_more">Mehr</string>
-    <string name="security_settings_face_enroll_introduction_no_thanks">Nein danke</string>
+    <string name="security_settings_face_enroll_introduction_no_thanks">Nein, danke</string>
     <string name="security_settings_face_enroll_introduction_title">Mit Gesicht entsperren</string>
     <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Mit dem Gesicht authentifizieren</string>
     <string name="security_settings_face_enroll_must_re_enroll_subtitle">Sicherheit und Leistung verbessern</string>
@@ -7497,7 +7497,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_2">Nicht vergessen</string>
     <string name="security_settings_fingerprint_enroll_introduction_footer_title_consent_1">Sie und Ihr Kind haben die Kontrolle</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">Benutzen Sie Ihren Fingerabdruck, um Ihr Telefon zu entsperren oder Einkäufe zu bestätigen.\nHinweis: Sie können Ihren Fingerabdruck nicht verwenden, um dieses Gerät zu entsperren. Weitere Infos erhalten Sie beim Admin Ihrer Firma.</string>
-    <string name="security_settings_fingerprint_enroll_introduction_no_thanks">Nein danke</string>
+    <string name="security_settings_fingerprint_enroll_introduction_no_thanks">Nein, danke</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">Fingerabdruck einrichten</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Fingerabdruck verwenden</string>
     <string name="security_settings_fingerprint_enroll_introduction_v3_message">Verwenden Sie Ihren Fingerabdruck, um Ihr %s zu entsperren oder zu verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden oder einen Einkauf bestätigen.</string>
@@ -7782,14 +7782,14 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="silent_time">Dauer Lautlosmodus</string>
     <string name="silent_total">DND</string>
     <string name="sim_action_cancel">Abbrechen</string>
-    <string name="sim_action_enable_dsds_text">Auf diesem Gerät können 2 SIMs gleichzeitig aktiv sein. Um weiterhin jeweils 1 SIM zu verwenden, tippen Sie \"Nein danke\."</string>
+    <string name="sim_action_enable_dsds_text">Auf diesem Gerät können 2 SIMs gleichzeitig aktiv sein. Um weiterhin jeweils 1 SIM zu verwenden, tippen Sie \"Nein, danke\."</string>
     <string name="sim_action_enable_dsds_title">2 SIMs verwenden?</string>
     <string name="sim_action_enable_sim_fail_text">Anbieter kann wegen eines Fehlers nicht gewechselt werden.</string>
     <string name="sim_action_enable_sim_fail_title">Anbieter wechseln fehlgeschlagen</string>
     <string name="sim_action_enable_sub_dialog_title">%1$s einschalten?</string>
     <string name="sim_action_enable_sub_dialog_title_without_carrier_name">SIM einschalten?</string>
     <string name="sim_action_enabling_sim_without_carrier_name">Mit Netzwerk verbinden…</string>
-    <string name="sim_action_no_thanks">Nein danke</string>
+    <string name="sim_action_no_thanks">Nein, danke</string>
     <string name="sim_action_reboot">Neustart</string>
     <string name="sim_action_restart_title">Gerät neu starten?</string>
     <string name="sim_action_switch_psim_dialog_title">Zur SIM-Nutzung wechseln?</string>
@@ -8304,7 +8304,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="structure_face_unlock_model3d_dialog_msg">2D-Erkennung wird abgeschaltet. Ihre 2D-Gesichtsdaten werden gelöscht. Sie müssen Ihre 3D-Gesichtsdaten hinzufügen. 3D-Erkennung einschalten?</string>
     <string name="structure_face_unlock_model3d_dialog_title">3D-Erkennung einschalten</string>
     <string name="structure_face_unlock_model_dialog_enable">Einschalten</string>
-    <string name="structure_face_unlock_model_dialog_notenable">Nein danke</string>
+    <string name="structure_face_unlock_model_dialog_notenable">Nein, danke</string>
     <string name="structure_face_unlock_model_other">Andere</string>
     <string name="structure_face_unlock_model_other_msg_2d">2D-Erkennung</string>
     <string name="structure_face_unlock_model_other_msg_3d">3D-Erkennung</string>
@@ -9414,7 +9414,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="welcome">Willkommen</string>
     <string name="wellbing_title">Digital Wellbeing &amp; Jugendschutz</string>
     <string name="wfc_disclaimer_agree_button_text">FORTFAHREN</string>
-    <string name="wfc_disclaimer_disagree_text">NEIN DANKE</string>
+    <string name="wfc_disclaimer_disagree_text">NEIN, DANKE</string>
     <string name="wfc_disclaimer_emergency_limitation_desc_text">Notrufe über WLAN-Anrufe werden von Ihrem Anbieter nicht unterstützt.\nGerät wechselt automatisch zum Mobilfunknetz, um einen Notruf zu tätigen.\nNotrufe sind nur in Gebieten mit Mobilfunkabdeckung möglich.</string>
     <string name="wfc_disclaimer_emergency_limitation_title_text">Notrufe</string>
     <string name="wfc_disclaimer_location_desc_text">Ihr Anbieter kann Ihren Standort erfassen, wenn Sie diesen Dienst für Notrufe nutzen.\n\nDetails finden Sie in der Datenschutzerklärung Ihres Anbieters.</string>
@@ -9486,8 +9486,8 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifi_assistant_explicitly_confirm_data_message">WLAN hat aktuell keinen Internetzugriff. Zu mobilen Daten wechseln?</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Vom WLAN trennen?</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">Anscheinend sind andere Netzwerke verfügbar. Netzwerke wechseln?</string>
-    <string name="wifi_assistant_keep_connection">Nein danke</string>
-    <string name="wifi_assistant_keep_wifi_connection">Nein danke</string>
+    <string name="wifi_assistant_keep_connection">Nein, danke</string>
+    <string name="wifi_assistant_keep_wifi_connection">Nein, danke</string>
     <string name="wifi_assistant_off">Aus</string>
     <string name="wifi_assistant_on">An</string>
     <string name="wifi_assistant_prompt">Verbunden bleiben</string>

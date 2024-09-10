@@ -582,7 +582,7 @@
     <string name="retry">Erneut versuchen</string>
     <string name="retry_toast">Ein Netzwerkfehler ist aufgetreten. Erneut versuchen.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Einstellungen</string>
-    <string name="saf_permission_dialog_later">Nein danke</string>
+    <string name="saf_permission_dialog_later">Nein, danke</string>
     <string name="saf_permission_dialog_no_more_tip">Nicht mehr anzeigen</string>
     <string name="saf_permission_dialog_title">Berechtigungen erforderlich</string>
     <string name="same_new_and_old_pwd">Darf nicht mit dem aktuellen Passwort identisch sein</string>

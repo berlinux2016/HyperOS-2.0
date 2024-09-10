@@ -422,7 +422,7 @@
     <string name="wifi_is_not_enabled">Erst WLAN einschalten</string>
     <string name="wifi_is_not_enabled_china">Erst WLAN einschalten</string>
     <string name="withdraw">Widerrufen</string>
-    <string name="withdraw_consent_message">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Xiaomi Share. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Xiaomi Share seine Dienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Verweigerung der Annahme der Dienste von Xiaomi Share gewertet.</string>
+    <string name="withdraw_consent_message">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von Xiaomi Share. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums in Übereinstimmung mit den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Xiaomi Share seine Dienste anhand der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von Xiaomi Share gewertet.</string>
     <string name="withdraw_consent_title">Zustimmung widerrufen</string>
     <string name="withdraw_with_time">Widerrufen (%1$ds)</string>
     <string name="yesterday">Gestern</string>

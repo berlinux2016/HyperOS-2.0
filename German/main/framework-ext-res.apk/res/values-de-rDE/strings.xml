@@ -164,7 +164,7 @@
     <string name="force_exit_skip_message">Systemkomponente %1$s kann nicht beendet werden</string>
     <string name="fourhours">2 Std</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Durch leichtes Antippen der Home-Taste können Sie zurück zum Startildschirm gehen. Sie können diese Funktion ein- und ausschalten unter Einstellungen > Weitere Einstellungen > Tasten > Home-Taste antippen, um zum Startbildschirm zurückzukehren</string>
-    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein danke</string>
+    <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nein, danke</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Einschalten</string>
     <string name="fp_nav_center_action_choose_dlg_title">Schnelltipp einschalten</string>
     <string name="free_form_recommend_tip">Popup</string>

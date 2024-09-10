@@ -72,7 +72,7 @@
     <string name="audio_create_normal_state">Loslassen zum Erstellen. Hochschieben zum Abbrechen.</string>
     <string name="audio_create_will_cancel_state">Loslassen zum Abbrechen</string>
     <string name="audio_dialog_mode_meeting">Konferenzmodus (Beta)</string>
-    <string name="audio_dialog_mode_meeting_exit">Nein danke</string>
+    <string name="audio_dialog_mode_meeting_exit">Nein, danke</string>
     <string name="audio_dialog_mode_meeting_recognize_close">Spracherkennung ist aus</string>
     <string name="audio_dialog_mode_meeting_recognize_fail">Spracherkennung abschließen nicht möglich</string>
     <string name="audio_dialog_mode_meeting_sum">Im Konferenzmodus können Sie Stimmen von bis zu %1$d-%2$d verschiedenen Teilnehmern erkennen. In der Beta-Version können einige Erkennungsfehler auftreten.</string>

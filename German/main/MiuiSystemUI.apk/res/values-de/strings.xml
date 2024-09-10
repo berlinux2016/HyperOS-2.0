@@ -228,7 +228,7 @@
     <string name="aqi_format_desc">Luftqualitätsindex: %s</string>
     <string name="assistant_attention_content_description">Assistentenbetreuung ein</string>
     <string name="audio_status">Anhören</string>
-    <string name="auto_data_switch_dialog_negative_button">Nein danke</string>
+    <string name="auto_data_switch_dialog_negative_button">Nein, danke</string>
     <string name="auto_data_switch_dialog_positive_button">Ja, wechseln</string>
     <string name="auto_data_switch_disable_message">Mobile Daten werden nicht automatisch je nach Verfügbarkeit umgeschaltet</string>
     <string name="auto_data_switch_disable_title">Zurück zu %s wechseln?</string>
@@ -244,7 +244,7 @@
     <string name="battery_saver_confirmation_ok">Einschalten</string>
     <string name="battery_saver_confirmation_title">Stromsparen einschalten?</string>
     <string name="battery_saver_confirmation_title_generic">Über Stromsparen</string>
-    <string name="battery_saver_dismiss_action">Nein danke</string>
+    <string name="battery_saver_dismiss_action">Nein, danke</string>
     <string name="battery_saver_start_action">Einschalten</string>
     <string name="battery_state_unknown_notification_text">Tippen für mehr Info</string>
     <string name="battery_state_unknown_notification_title">Problem beim Lesen der Akkuanzeige</string>
@@ -308,7 +308,7 @@
     <string name="bottomsheet_action_collapse">Unteres Blatt einklappen</string>
     <string name="bottomsheet_action_expand">Unteres Blatt ausklappen</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="bottomsheet_drag_handle_clicked">Ziehgriff doppelt getippt</string>
+    <string name="bottomsheet_drag_handle_clicked">Ziehpunkt doppelt getippt</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
     <string name="bt_is_off">Bluetooth ist aus</string>
     <string name="bt_le_audio_broadcast_dialog_different_output">Ausgabe ändern</string>
@@ -431,7 +431,7 @@
     <string name="controls_providers_title">App wählen, um Steuerungen hinzuzufügen</string>
     <string name="controls_removed">Entfernt</string>
     <string name="controls_seeding_in_progress">Empfehlungen laden</string>
-    <string name="controls_settings_dialog_neutral_button">Nein danke</string>
+    <string name="controls_settings_dialog_neutral_button">Nein, danke</string>
     <string name="controls_settings_dialog_positive_button">Ja</string>
     <string name="controls_settings_show_controls_dialog_message">Sie können dem Sperrbildschirm Steuerungen für Ihre externen Geräte hinzufügen. \n\nMit Ihrer Geräte-App können Sie ggf. einige Geräte steuern, ohne Ihr Telefon oder Tablet zu entsperren. \n\nSie können jederzeit in Einstellungen Änderungen vornehmen.</string>
     <string name="controls_settings_show_controls_dialog_title">Geräte am Sperrbildschirm anzeigen und steuern?</string>
@@ -1164,7 +1164,7 @@ dd.MM."</string>
     <string name="new_story_status_content_description">%1$s hat eine neue Geschichte geteilt</string>
     <string name="next">Weiter</string>
     <string name="night">Abend</string>
-    <string name="no_auto_saver_action">Nein danke</string>
+    <string name="no_auto_saver_action">Nein, danke</string>
     <string name="no_conversations_text">Ihre letzten Unterhaltungen werden hier angezeigt</string>
     <string name="no_shortcut">%1$s unterstützt keine Unterhaltungsfunktionen</string>
     <string name="no_unseen_notif_text">Keine neuen Benachrichtigungen</string>
