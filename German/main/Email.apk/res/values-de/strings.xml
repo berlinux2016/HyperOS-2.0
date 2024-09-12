@@ -234,7 +234,7 @@
     <string name="changepw_dialog_auth_tips">Code für %s erneut eingeben</string>
     <string name="changepw_dialog_tips">Passwort für %s erneut eingeben</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="chat_item_msg_people_unit">Leute</string>
     <string name="check_setup_data">"    Servereinstellungen prüfen…"</string>
     <string name="chip_text">Chiptext</string>

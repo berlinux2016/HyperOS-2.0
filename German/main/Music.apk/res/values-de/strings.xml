@@ -259,7 +259,7 @@ Wenn Sie sich für die dauerhafte Löschung aller Daten entscheiden, werden Sie 
     <string name="card_content_descriptor">Karte</string>
     <string name="change_download_quality">Downloadqualität ändern</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten %1$d von %2$d</string>
     <string name="checking_new_version">Nach Updates suchen…</string>
     <string name="chip_text">Chiptext</string>
     <string name="choose_download_quality">Downloadqualität einstellen</string>

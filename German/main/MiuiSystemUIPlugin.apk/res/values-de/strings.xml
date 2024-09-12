@@ -53,7 +53,7 @@
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigationstasten aktiviert</string>
     <string name="bt_is_off">Bluetooth ist aus</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="chip_text">Chiptext</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="clearable_edittext_clear_description">Löschen</string>

@@ -26,7 +26,7 @@
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="can_you_here">Können Sie den Klang hören?</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="chip_text">Chiptext</string>
     <string name="choose_bluetooth_device">Gerät wählen</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>

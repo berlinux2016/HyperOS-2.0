@@ -30,7 +30,7 @@
     <string name="card_manager_no_data">Noch keine Abos</string>
     <string name="cards_language_hint">Einige Karten sind evtl. nicht in der ausgewählten Sprache verfügbar.</string>
     <string name="change_response_title">Antwort ändern</string>
-    <string name="character_counter_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="choose_your_holidays">Urlaub wählen</string>
     <string name="clear_text_end_icon_content_description">Text löschen</string>
     <string name="common_google_play_services_install_text">%1$s läuft nicht ohne Google Play-Dienste, die auf deinem Gerät fehlen.</string>

@@ -2009,7 +2009,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="channel_group_notifications_off_desc">Wunschgemäß verhindert Android, dass diese Benachrichtigungsgruppe auf diesem Gerät erscheint.</string>
     <string name="channel_notifications_off_desc">Wunschgemäß verhindert Android, dass diese Benachrichtigungskategorie auf diesem Gerät erscheint</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="charge_animation_style_lollipop">Fließen</string>
     <string name="charge_animation_style_none">Aus</string>
     <string name="charge_animation_style_summary">Wählen Sie Ihre bevorzugte Ladeanimation am Sperrbildschirm</string>

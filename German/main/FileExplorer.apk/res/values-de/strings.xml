@@ -20,8 +20,7 @@
     <string name="category_recent">Zuletzt</string>
     <string name="cdd_message">Wegen Android 11-Einschränkungen kannst du einige der Dateien, die in den Apps von Drittanbietern erzeugt werden, nicht im Dateimanager anzeigen.</string>
     <string name="cdd_title">Achtung</string>
-    <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="chip_text">Chiptext</string>
     <string name="clean_hint">Tippen, um Speicherplatz freizugeben</string>
     <string name="clean_hint_pad">Papierkorb löschen, um Speicherplatz freizugeben</string>

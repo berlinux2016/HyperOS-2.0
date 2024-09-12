@@ -1759,8 +1759,8 @@
     <string name="portrait_bokeh_first_tips">Verwenden Sie Hochformat,\num den Hintergrund Ihrer Fotos zu verwischen.</string>
     <string name="portrait_bokeh_text">Hochformat</string>
     <string name="portrait_bokeh_tips">Platzieren Sie das Motiv innerhalb von 1,5 Metern.</string>
-    <string name="portrait_cvtype_item_title1">Porträtstil: Leica Portrait</string>
-    <string name="portrait_cvtype_item_title2">Porträtstil: Master Portrait</string>
+    <string name="portrait_cvtype_item_title1">Porträtstil: Leica Porträt</string>
+    <string name="portrait_cvtype_item_title2">Porträtstil: Master Porträt</string>
     <string name="portrait_deblur_tips">HD-Porträt</string>
     <string name="portrait_india_effect_entry_memory">Erinnerung</string>
     <string name="portrait_india_effect_entry_portrait">Porträt</string>
@@ -1774,8 +1774,8 @@
     <string name="portrait_mode_hint_title">Porträtstil wählen</string>
     <string name="portrait_mode_item_item1">Elegant und dezent</string>
     <string name="portrait_mode_item_item2">Natürlich und realistisch</string>
-    <string name="portrait_mode_item_title1">Master Portrait</string>
-    <string name="portrait_mode_item_title2">Leica Portrait</string>
+    <string name="portrait_mode_item_title1">Master Porträt</string>
+    <string name="portrait_mode_item_title2">Leica Porträt</string>
     <string name="portrait_mode_lowlight_hint">Jetzt ist es zu dunkel</string>
     <string name="portrait_mode_too_close_hint">Weiter vom Motiv entfernen</string>
     <string name="portrait_mode_too_far_hint">Motiv innerhalb von 2 Metern platzieren</string>

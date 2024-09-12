@@ -102,7 +102,7 @@
     <string name="cannot_do_app_check">Sicherheitsprüfung fehlgeschlagen</string>
     <string name="cb_back">Zurück-Taste</string>
     <string name="character_counter_content_description">Zeichen eingegeben: %1$d von %2$d</string>
-    <string name="character_counter_overflowed_content_description">Zeichenlimit überschritten: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="check_virus_app">Viren erkannt</string>
     <string name="checked_unknow_app">Sicherheitstests nicht bestanden</string>
     <string name="child_account_install_parent_auth">Verifizieren</string>
