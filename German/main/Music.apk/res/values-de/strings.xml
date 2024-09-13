@@ -529,7 +529,7 @@ Wenn Sie sich für die dauerhafte Löschung aller Daten entscheiden, werden Sie 
     <string name="exo_media_action_repeat_all_description">Alle wiederholen</string>
     <string name="exo_media_action_repeat_off_description">Keinen wiederholen</string>
     <string name="exo_media_action_repeat_one_description">Einen wiederholen</string>
-    <string name="exo_track_role_alternate">Abwechselnd</string>
+    <string name="exo_track_role_alternate">Abwechseln</string>
     <string name="exo_track_role_commentary">Kommentar</string>
     <string name="exo_track_role_supplementary">Ergänzend</string>
     <string name="exo_track_selection_none">Nichts</string>

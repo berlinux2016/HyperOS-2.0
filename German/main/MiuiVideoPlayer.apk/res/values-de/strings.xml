@@ -361,7 +361,7 @@ Senden Sie diesen Code an den Supervisor."</string>
     <string name="exo_download_paused_for_network">Downloads warten auf Netzwerk</string>
     <string name="exo_download_paused_for_wifi">Downloads warten auf WLAN</string>
     <string name="exo_download_removing">Downloads löschen</string>
-    <string name="exo_track_role_alternate">Abwechselnd</string>
+    <string name="exo_track_role_alternate">Abwechseln</string>
     <string name="exo_track_role_commentary">Kommentar</string>
     <string name="exo_track_role_supplementary">Ergänzend</string>
     <string name="exo_track_selection_none">Nichts</string>
