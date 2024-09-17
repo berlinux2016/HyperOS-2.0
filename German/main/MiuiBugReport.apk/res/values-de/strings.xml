@@ -55,7 +55,7 @@
     <string name="diagnosis_log_sent_format">Protokolle erfolgreich gesendet.\nID:%s\nSende diesen Code an den Supervisor.</string>
     <string name="discard_draft_dialog_button_cancel">Hier bleiben</string>
     <string name="doing_query_account">Kontodaten prüfen…</string>
-    <string name="dynamic_dialog_content">Du bist dabei, dynamische Protokolle zu erstellen. Sie enthalten Aufzeichnungen von Software-Operationen (z. B. Systemaufrufe). Während der Erstellung der dynamischen Protokolle kann dein Gerät einfrieren oder sich aufheizen, was normal ist. Sobald die Protokolle erstellt sind, wird diese Funktion ausgeschaltet. Denke daran, dein Feedback rechtzeitig einzureichen, wenn das Problem erneut auftritt. Indem du unten auf \" Zustimmen\" tippst, stimmst du zu, dass wir die o. g. Daten während der Protokollerstellung sammeln und diese dann auf unsere Server hochladen, um die von dir gemeldeten Probleme zu finden und zu beheben.</string>
+    <string name="dynamic_dialog_content">Du bist dabei, dynamische Protokolle zu erstellen. Sie enthalten Aufzeichnungen von Software-Operationen (z. B. Systemaufrufe). Während der Erstellung der dynamischen Protokolle kann dein Gerät einfrieren oder sich aufheizen, was normal ist. Sobald die Protokolle erstellt sind, wird diese Funktion ausgeschaltet. Denk daran, dein Feedback rechtzeitig einzureichen, wenn das Problem erneut auftritt. Indem du unten auf \" Zustimmen\" tippst, stimmst du zu, dass wir die o. g. Daten während der Protokollerstellung sammeln und diese dann auf unsere Server hochladen, um die von dir gemeldeten Probleme zu finden und zu beheben.</string>
     <string name="dynamic_dialog_negative_text">Ablehnen</string>
     <string name="dynamic_dialog_notification_title">Dynamische Protokolle erstellen…</string>
     <string name="err_type_hardware_summary">Tasten, Aufladen, Sensoren usw.</string>
@@ -176,7 +176,7 @@
     <string name="miui_feedback_edit_select_suggestion_select_desc">\"Vorschläge\" ausgewählt</string>
     <string name="miui_feedback_edit_storage_permission_name">Zugriff auf Gerätespeicher</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">Ablehnen</string>
-    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>Du musst unsere &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Nutzervereinbarung&lt;/a> akzeptieren, um Feedback zu verwenden. Die Probleme, die du zusammen mit den von dir angehängten Elementen meldest (die personenbezogene Daten sowie Daten über dein Gerät und Netzwerk enthalten können), werden auf die MIUI-Server hochgeladen. Dies wird uns helfen, die von dir gemeldeten Probleme zu finden und zu beheben.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>Du musst unsere &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Nutzervereinbarung&lt;/a> akzeptieren, um Feedback zu verwenden. Die Probleme, die du zusammen mit deinen Anhängen meldest (die personenbezogene Daten sowie Daten über dein Gerät und Netzwerk enthalten können), werden auf die MIUI-Server hochgeladen. Dies wird uns helfen, die von dir gemeldeten Probleme zu finden und zu beheben.&lt;/Data></string>
     <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>Dein Feedback wird zusammen mit Anhängen (falls vorhanden) und Protokollen (Du kannst die entsprechenden Kästchen für die Elemente, die du nicht hochladen möchtest, deaktivieren) an die MIUI-Server gesendet. Protokolle können personenbezogene Daten und deine Standortdaten enthalten. Die Auswahl von \"Zustimmen\" bedeutet, dass du unsere &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert hast.&lt;/Data></string>
     <string name="miui_feedback_edit_toast_description_required">Beschreibe zunächst das Problem</string>
     <string name="miui_feedback_main_item_customer_service">Kundendienst</string>
@@ -262,14 +262,13 @@
     <string name="passport_error_network">Netzwerkverbindung nicht möglich</string>
     <string name="passport_error_no_password_user">Passwort wurde noch nicht festgelegt. Mit SMS anmelden.</string>
     <string name="passport_error_phone">Rufnummer ungültig</string>
-    <string name="passport_error_sms_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. Später erneut versuchen.</string>
     <string name="passport_error_user_name">Eingegebener Benutzername ist ungültig</string>
     <string name="passport_identification_expired">Verifizierungscode abgelaufen. Neu beginnen.</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
     <string name="passport_input_verify_code">Verifizierungscode eingeben</string>
     <string name="passport_input_voice_captcha_hint">Sprachverifizierungscode eingeben</string>
-    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in deinem Browser öffnen.</string>
+    <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten.</string>
+    <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und im Browser öffnen.</string>
     <string name="passport_password_req_notice">Passwort muss 8-16 Zeichen lang sein und mind. zwei der folgenden Elemente enthalten: Ziffern, Buchstaben und Sonderzeichen (z. B. 123abc@# oder 123abc oder abc@#).</string>
     <string name="passport_querying_phone_info">Kontodaten anfordern…</string>
     <string name="passport_reging">Konto erstellen…</string>
@@ -301,46 +300,24 @@
     <string name="please_agree_protocal">Bitte dem Protokoll zustimmen</string>
     <string name="please_download_gallery">Zum Anzeigen Galerie installieren</string>
     <string name="pm">PM</string>
-    <string name="post_miui_bbs_failed">Posten im Xiaomi Forum fehlgeschlagen</string>
+    <string name="post_miui_bbs_failed">Posten im MIUI-Forum fehlgeschlagen</string>
     <string name="privacy_policy_update_hint">%1$s Datenschutzerklärung wurde aktualisiert:\n%2$s\nLies und akzeptiere die neue Version von %3$s, bevor du fortfährst.</string>
     <string name="privacy_policy_update_title">Datenschutzerklärung aktualisiert</string>
     <string name="public_net_error_sub_title">Netzwerkeinstellungen prüfen und erneut versuchen</string>
-    <string name="public_welcome_use_feedback_service">Willkommen bei Dienste &amp; Feedback. Mit dieser App können Sie Feedback abgeben, häufig gestellte Fragen einsehen, Rückgabe und Umtausch von Produkten beantragen und vieles mehr.</string>
-    <string name="qq_login_btn_content_description">Mit QQ anmelden</string>
-    <string name="refresh">Aktualisieren</string>
-    <string name="register_by_local_phone_long_text">Konto erstellen</string>
-    <string name="register_by_local_phone_short_text">Konto erstellen</string>
+    <string name="public_welcome_use_feedback_service">Willkommen bei Dienste &amp; Feedback. Mit dieser App kannst du Feedback abgeben, häufig gestellte Fragen einsehen, Rückgabe und Umtausch von Produkten beantragen und vieles mehr.</string>
     <string name="related_question_answer_details">Ähnliches Problem</string>
-    <string name="reply_failed">Antworten fehlgeschlagen</string>
-    <string name="reply_select_log_hint">Protokoll wählen</string>
-    <string name="reply_successful">Erfolgreich beantwortet</string>
-    <string name="report_miui">Feedback senden</string>
     <string name="request_agree">Zulassen</string>
-    <string name="request_camera_permission_message">Wir schützen personenbezogene Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen Ihres Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn Sie der Erteilung solcher Berechtigungen nicht zustimmen, können Sie einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen Ihnen jedoch weiterhin zur Verfügung. Sie können jederzeit die Berechtigungen einschränken oder Ihre Autorisierung in den Einstellungen widerrufen.</string>
-    <string name="request_cancel">Abbrechen</string>
-    <string name="request_error_invalid_token">Verifizieren nicht möglich</string>
-    <string name="request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="request_camera_permission_message">Wir schützen personenbezogene Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen deines Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn du nicht zustimmst, solche Berechtigungen zu erteilen, kannst du einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen dir jedoch weiterhin zur Verfügung. Du kannst Berechtigungen jederzeit einschränken oder deine Berechtigung in den Einstellungen widerrufen.</string>
     <string name="request_error_unknown">Ein Systemfehler ist aufgetreten. Zurückgehen und erneut versuchen.</string>
-    <string name="request_gallery_permission_message">Zugriff auf Galerie zulassen:&lt;br />Für die Einrichtung von Profilfotos</string>
-    <string name="resend_active_email">Erneut senden</string>
-    <string name="resend_email_reach_limit_message">Zu viele Verifizierungs-E-Mails wurden angefordert. Prüfen Sie, ob sich die Verifizierungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
-    <string name="resend_email_reach_limit_title">Zu viele Versuche</string>
-    <string name="resend_email_success">Erfolgreich gesendet</string>
-    <string name="same_new_and_old_pwd">Darf nicht mit dem aktuellen Passwort identisch sein</string>
-    <string name="saturday">Samstag</string>
-    <string name="saturday_short">Sa</string>
+    <string name="resend_email_reach_limit_message">Zu viele Verifizierungs-E-Mails wurden angefordert. Prüfe, ob sich die Verifizierungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
     <string name="saturday_shortest">S</string>
-    <string name="search_menu_title">Suchen</string>
-    <string name="section_description">Beschreibung</string>
-    <string name="send">Senden</string>
-    <string name="send_diagnosis_log">Protokolle senden</string>
+    <string name="section_screenshot">Screenshot</string>
     <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich gesendet</string>
     <string name="service_error">Serverfehler</string>
-    <string name="service_unavailiable">Keine Infos erhalten, später erneut versuchen</string>
-    <string name="skip_query_account">Überspringen</string>
+    <string name="service_unavailiable">Infos abrufen nicht möglich, später erneut versuchen</string>
     <string name="sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="sns_bind_limit">Zu viele Versuche. Andere Art der Anmeldung probieren.</string>
-    <string name="sns_sign_in">Andere Art der Anmeldung</string>
+    <string name="sns_sign_in">Andere Arten der Anmeldung</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
     <string name="solar_term_clear_and_bright">Qingming-Festival</string>
@@ -365,86 +342,44 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
+    <string name="special_log_catch">Protokolle erstellen</string>
+    <string name="special_log_catch_tips">*Der Prozess der Protokollerstellung kann die Gerätefunktionen vorübergehend beeinträchtigen. Wenn diese Probleme weiterhin bestehen, breche diesen Vorgang in der Benachrichtigungsleiste ab.</string>
     <string name="stop_full_log_dialog_cancel">Jetzt nicht</string>
-    <string name="stop_full_log_dialog_confirm">Hochladen</string>
     <string name="stop_full_log_dialog_content">Anscheinend werden jetzt Protokolle erstellt. Erstellen stoppen und die fertigen Protokolle hochladen?</string>
     <string name="stop_full_log_dialog_title">Protokolle erstellen…</string>
-    <string name="submit_dialog_cancel">Ablehnen</string>
-    <string name="submit_dialog_confirm">Zustimmen</string>
-    <string name="submit_dialog_content">&lt;Data>Lesen und akzeptieren Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a>, bevor Sie Feedback übermitteln. Die von Ihnen gemeldeten Probleme werden zusammen mit den von Ihnen angehängten Elementen (inkl. der Protokolle, die personenbezogene Daten enthalten können, sowie der Informationen über Ihr Gerät und Netzwerk) auf unsere Server hochgeladen. Dies wird uns helfen, die von Ihnen gemeldeten Probleme zu lokalisieren und zu beheben. Wenn Sie Probleme im Zusammenhang mit mehreren Geräten melden, werden auch die Protokolle von anderen Geräten, auf denen Ihr Xiaomi-Konto verwendet wird, hochgeladen.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>Ihr Feedback wird zusammen mit Anhängen (falls vorhanden) und Protokollen (Sie können die Häkchen bei den Elementen, die Sie nicht hochladen möchten, entfernen) an unsere Server gesendet. Protokolle können personenbezogene Daten und Ihre Standortdaten enthalten. \"Zustimmen"\ bedeutet, dass Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert haben.&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Ihr Feedback wird zusammen mit Anhängen (falls vorhanden) und Protokollen (Sie können die Häkchen bei den Elementen, die Sie nicht hochladen möchten, entfernen) an unsere Server gesendet. Protokolle können personenbezogene Daten und Ihre Standortdaten enthalten. \"Zustimmen\" bedeutet, dass Sie unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert haben.&lt;/Data></string>
-    <string name="submit_dialog_not_show_again">Nicht mehr anzeigen</string>
-    <string name="submit_dialog_title">Meldung senden</string>
+    <string name="submit_dialog_content">&lt;Data>Lies und akzeptiere unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a>, bevor du Feedback sendest. Die von dir gemeldeten Probleme werden zusammen mit den Anhängen (inkl. der Protokolle, die personenbezogene Daten enthalten können, sowie der Daten über dein Gerät und Netzwerk) auf unsere Server hochgeladen. Dies wird uns helfen, die gemeldeten Probleme zu lokalisieren und zu beheben. Wenn du Probleme im Zusammenhang mit mehreren Geräten meldest, werden auch die Protokolle von anderen Geräten, auf denen dein Xiaomi-Konto verwendet wird, hochgeladen.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>Dein Feedback wird zusammen mit Anhängen (falls vorhanden) und Protokollen (Du kannst die Häkchen bei den Elementen, die du nicht hochladen möchtest, entfernen.) an unsere Server gesendet. Protokolle können personenbezogene Daten und deine Standortdaten enthalten. \"Zustimmen"\ bedeutet, dass du unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert hast.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Dein Feedback wird zusammen mit Anhängen (falls vorhanden) und Protokollen (Du kannst die Häkchen bei den Elementen, die du nicht hochladen möchtest, entfernen.) an unsere Server gesendet. Protokolle können personenbezogene Daten und deine Standortdaten enthalten. \"Zustimmen\" bedeutet, dass du unsere &lt;a href=\"%1$s\">Datenschutzerklärung&lt;/a> und &lt;a href=\"%2$s\">Nutzervereinbarung&lt;/a> gelesen und akzeptiert hast.&lt;/Data></string>
     <string name="submit_feedback_info_failed">Meldung senden fehlgeschlagen</string>
     <string name="suggest_upload_log_dialog_cancel">Nein, danke</string>
-    <string name="suggest_upload_log_dialog_confirm">Hochladen</string>
-    <string name="suggest_upload_log_dialog_content">Um unseren Ingenieuren zu helfen, das von Ihnen gefundene Problem so schnell wie möglich zu lokalisieren und zu beheben, empfehlen wir, die entsprechenden Protokolle hochzuladen. Protokolle werden nur zur Problemanalyse und nicht für andere Zwecke verwendet.</string>
+    <string name="suggest_upload_log_dialog_content">Um unseren Technikern zu helfen, dein aufgetretenes Problem so schnell wie möglich zu lokalisieren und zu beheben, empfehlen wir dir, die entsprechenden Protokolle hochzuladen. Protokolle werden nur zur Problemanalyse und nicht für andere Zwecke verwendet.</string>
     <string name="suggest_upload_log_dialog_title">Entsprechende Protokolle hochladen</string>
-    <string name="suggestion_description">Hier Beschreibung ergänzen</string>
-    <string name="sunday">Sonntag</string>
-    <string name="sunday_short">So</string>
     <string name="sunday_shortest">S</string>
-    <string name="system_app_select">System-Apps</string>
     <string name="system_error_info">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
-    <string name="tab_title_my_reports">Mein Feedback</string>
-    <string name="tab_title_preferences">Einstellungen</string>
-    <string name="temporary_not_available">Diese Funktion ist noch nicht verfügbar.</string>
     <string name="the_double_ninth_festival">Chongyang (Doppel-9-Fest)</string>
     <string name="the_dragon_boat_festival">Drachenbootfest</string>
     <string name="the_fools_day">1. April</string>
     <string name="the_international_womens_day">Weltfrauentag</string>
     <string name="the_labour_day">1. Mai</string>
     <string name="the_night_of_sevens">Qixi (Doppel-7-Fest)</string>
-    <string name="thursday">Donnerstag</string>
-    <string name="thursday_short">Do</string>
     <string name="thursday_shortest">D</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
-    <string name="title_answer_feedback_main">Wir haben Antworten gefunden!</string>
-    <string name="title_catch_full_log">Protokolle</string>
-    <string name="title_customer_service">Kundendienst</string>
-    <string name="title_first_aid">Erste Hilfe</string>
-    <string name="title_mi_family">Mi Home in der Nähe</string>
-    <string name="title_nonsystem_app">Andere Apps</string>
-    <string name="title_same_question_feedback_main">Ähnliche Probleme im Xiaomi Forum</string>
     <string name="title_system_app">MIUI Apps</string>
-    <string name="title_user_guide">Benutzerhandbuch</string>
     <string name="toast_app_tag_required">Erst Problem auswählen</string>
-    <string name="toast_catch_full_log_catching">Sie können immer nur ein Protokoll auf einmal erstellen.</string>
+    <string name="toast_catch_full_log_catching">Du kannst immer nur ein Protokoll auf einmal erstellen.</string>
     <string name="toast_catch_full_log_open_failed">Protokollaufnahme wurde nicht gestartet</string>
-    <string name="toast_description_required">Beschreiben Sie zunächst das Problem</string>
+    <string name="toast_description_required">Beschreibe zunächst das Problem</string>
     <string name="toast_feedback_collect_store">Protokollierung…</string>
     <string name="toast_feedback_network_unavailable">Netzwerkverbindung nicht möglich</string>
     <string name="toast_feedback_submitted">Meldung wurde gesendet</string>
-    <string name="toast_feedback_submitting">Senden…</string>
-    <string name="toast_file_format_not_support">Dieses Dateiformat wird nicht unterstützt. Probieren Sie eine andere Datei.</string>
-    <string name="toast_log_not_exists">Angefordertes Protokoll wurde gelöscht oder existiert nicht</string>
-    <string name="toast_min_description_count">Ihre Beschreibung sollte länger sein</string>
-    <string name="toast_module_required">Element wählen</string>
+    <string name="toast_file_format_not_support">Dieses Dateiformat wird nicht unterstützt. Versuch eine andere Datei.</string>
     <string name="toast_network_unavailable">Senden fehlgeschlagen. Keine Netzwerkverbindung.</string>
     <string name="toast_pending_log_collection">Protokollierung läuft noch…</string>
-    <string name="toast_pic_not_exists">Zwischengespeichertes Bild wurde gelöscht</string>
-    <string name="toast_post_deleted">Dieses Thema existiert nicht, wurde gelöscht oder bearbeitet.</string>
-    <string name="toast_problem_class_required">Kategorie wählen</string>
-    <string name="toast_report_copied_to_clipboard">Meldung in die Zwischenablage kopiert</string>
     <string name="toast_report_sent_failed">Senden der Meldung fehlgeschlagen</string>
-    <string name="toast_report_sent_succeed">Meldung wurde gesendet</string>
     <string name="toast_screenshot_too_large">Upload von Bildern oder Videos über %d MB nicht möglich</string>
-    <string name="toast_third_packagename_required">App-Name eingeben</string>
-    <string name="today">Heute</string>
-    <string name="tomorrow">Morgen</string>
-    <string name="tuesday">Dienstag</string>
-    <string name="tuesday_short">Di</string>
-    <string name="tuesday_shortest">D</string>
-    <string name="unknown_error_info">Unbekannter Fehler</string>
-    <string name="update_dialog_cancel">Abbrechen</string>
-    <string name="update_dialog_content_log">Was ist neu:\n%1$s\nGröße: %2$s</string>
-    <string name="update_dialog_content_version">Sie können jetzt auf die Version %1$s updaten.</string>
-    <string name="update_dialog_title">Update verfügbar</string>
-    <string name="update_email_address_dialog_message">Sie müssen Ihre Identität verifizieren, bevor Sie die Wiederherstellungs-E-Mail aktualisieren.</string>
-    <string name="update_email_address_dialog_title">Wiederherstellungs-E-Mail aktualisieren</string>
+    <string name="update_dialog_content_version">Du kannst jetzt auf die Version %1$s aktualisieren.</string>
     <string name="upload_log_failed">Protokolle senden nicht möglich</string>
     <string name="user_agreement_hint_3rd_app">&lt;Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> sowie die Xiaomi-Konto &lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.&lt;/Data></string>
     <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a>, die Xiaomi-Konto &lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a> sowie die &lt;a href=\"%5$s\">allgemeinen Geschäftsbedingungen der China Mobile Verifikationsdienste&lt;/a> gelesen und akzeptiert.&lt;/Data></string>
@@ -453,33 +388,20 @@
     <string name="user_agreement_hint_default">&lt;Data>Ich habe die Xiaomi-Konto &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert.&lt;/Data></string>
     <string name="user_agreement_hint_default_1">&lt;Data>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung gelesen und akzeptiert.&lt;/a>&lt;/Data></string>
     <string name="user_agreement_hint_default_extra">&lt;Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung.&lt;/a> gelesen und akzeptiert. Bei der ersten Anmeldung wird automatisch ein Xiaomi-Konto erstellt.&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">Wir erstellen automatisch ein Konto, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="user_agreement_hint_with_mobile">&lt;Data>Ich habe die Xiaomi-Konto &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> sowie die &lt;a href=\"%3$s\">allgemeinen Geschäftsbedingungen der China Mobile Verifikationsdienste&lt;/a> gelesen und akzeptiert.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>Ich habe die Xiaomi-Konto &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> sowie die &lt;a href=\"%3$s\">allgemeinen Geschäftsbedingungen der eSurfing account Verifikationsdienste&lt;/a> gelesen und akzeptiert.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Ich habe die Xiaomi-Konto &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> sowie die &lt;a href=\"%3$s\">allgemeinen Geschäftsbedingungen der China Unicom Verifikationsdienste&lt;/a> gelesen und akzeptiert.&lt;/Data></string>
-    <string name="user_avatar_update_title">Profilbild ändern</string>
-    <string name="user_avatar_uploading">Einen Moment…</string>
-    <string name="user_must_known">Achtung</string>
-    <string name="user_must_known_content">Sie können unsere Dienste nicht weiter nutzen, wenn Sie der neuen Version unserer %s nicht zustimmen. Jetzt der aktualisierten Datenschutzerklärung zustimmen?</string>
+    <string name="user_must_known_content">Du kannst unsere Dienste nicht weiter nutzen, wenn du der neuen Version unserer %s nicht zustimmst. Jetzt der aktualisierten Datenschutzerklärung zustimmen?</string>
     <string name="user_name_phone_number">Rufnummer</string>
-    <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">AN</string>
-    <string name="wednesday">Mittwoch</string>
-    <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="weibo_login_btn_content_description">Mit Weibo anmelden</string>
-    <string name="weixin_login_btn_content_description">Mit WeChat anmelden</string>
-    <string name="withdraw">Widerrufen</string>
     <string name="withdraw_consent">Zustimmung widerrufen</string>
     <string name="withdraw_consent_failed">Zustimmung widerrufen fehlgeschlagen</string>
     <string name="withdraw_consent_failed_hint">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Ihr Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="withdraw_consent_hint">Wenn Sie fortfahren, widerrufen Sie Ihre Zustimmung zur Datenschutzerklärung von %1$s. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird Ihr Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?"</string>
-    <string name="withdrawing">Zustimmung widerrufen…</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Dein Gerät benötigt eine Netzwerkverbindung, um die Zustimmung zu widerrufen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
+    <string name="withdraw_consent_hint">Wenn du fortfährst, widerrufst du deine Zustimmung zur Datenschutzerklärung von %1$s. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden gemäß den geltenden Gesetzen und Vorschriften innerhalb des festgelegten Zeitraums gelöscht, sofern nicht anders gefordert. Da %2$s seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird dein Widerruf der Zustimmung als Ablehnung der Dienste von %3$s gewertet. Zustimmung jetzt widerrufen?</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbinden mit Download-Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
     <string name="xiaomi_update_sdk_dialog_message">Vorgestellte Version %1$s\nGröße: %2$s</string>
     <string name="xiaomi_update_sdk_dialog_message_diff">Vorgestellte Version %1$s\nDelta-Update-Größe: %2$s</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s Update!</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Speicherplatz nicht verfügbar, bitte SD-Karte prüfen.</string>
-    <string name="yesterday">Gestern</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s-Update!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Kein Speicherplatz verfügbar, bitte SD-Karte prüfen.</string>
 </resources>
