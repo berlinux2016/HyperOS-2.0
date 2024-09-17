@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Vor 1 Stunde</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Vor %d Std</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Vor einer halben Std</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In %d Std</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In einer halben Std</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Sofort</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d Min</item>
-        <item quantity="one">In %d Min</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Gerade eben</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Vor %d Min</item>
-        <item quantity="one">Vor %d Min</item>
-    </plurals>
     <plurals name="accessibility_auto_night_tip">
         <item quantity="other">%d-Sek-Timer für den Nachtmodus</item>
         <item quantity="one">%d-Sek-Timer für den Nachtmodus</item>
@@ -37,29 +8,13 @@
         <item quantity="other">Fokussiert, %d Gesichter erkannt</item>
         <item quantity="one">Fokussiert, %d Gesicht erkannt</item>
     </plurals>
-    <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d Fotos in einer Serienaufnahme</item>
-        <item quantity="one">%d Foto in einer Sereienaufnahme</item>
-    </plurals>
-    <plurals name="accessibility_timer_burst_interval">
-        <item quantity="other">Interval: %d Sekunden</item>
-        <item quantity="one">Interval: %d Sekunde</item>
-    </plurals>
-    <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Dauer: %d Sekunden</item>
-        <item quantity="one">Dauer: %d Sekunde</item>
-      </plurals>
     <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">Sie können bis zu %d Kameras mit demselben Netzwerk verbinden</item>
-        <item quantity="one">Sie können bis zu %d Kamera mit demselben Netzwerk verbinden</item>
+        <item quantity="other">Du kannst bis zu %d Kameras mit demselben Netzwerk verbinden</item>
+        <item quantity="one">Du kannst bis zu %d Kamera mit demselben Netzwerk verbinden</item>
     </plurals>
     <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">Sie können bis zu %d Monitore mit demselben Netzwerk verbinden</item>
-        <item quantity="one">Sie können bis zu %d Monitor mit demselben Netzwerk verbinden</item>
-    </plurals>
-    <plurals name="clone_guide_tip2">
-        <item quantity="other">Sie können bis zu %d Klone auf einmal erstellen.</item>
-        <item quantity="one">Sie können bis zu %d Klon auf einmal erstellen.</item>
+        <item quantity="other">Du kannst bis zu %d Monitore mit demselben Netzwerk verbinden</item>
+        <item quantity="one">Du kannst bis zu %d Monitor mit demselben Netzwerk verbinden</item>
     </plurals>
     <plurals name="exit_camera_hint">
         <item quantity="other">&lt;Data>Kameraverbindung nicht möglich.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Danach etwas warten und erneut versuchen.&lt;/Data></item>
@@ -70,8 +25,8 @@
         <item quantity="one">&lt;Data>Dieses Gerät ist jetzt zu heiß.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Aktueller Fortschritt wurde automatisch gespeichert.&lt;/Data></item>
     </plurals>
     <plurals name="exit_version_hint">
-        <item quantity="other">&lt;Data>Die von Ihnen verwendete Kameraversion ist nicht mit Ihrem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Die von Ihnen verwendete Kameraversion ist nicht mit Ihrem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
+        <item quantity="other">&lt;Data>Die von dir verwendete Kameraversion ist nicht mit deinem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Die von dir verwendete Kameraversion ist nicht mit deinem Gerätemodell kompatibel.&lt;br>App wird in &lt;font color=#FFCE16>&lt;b>%1$d Sek&lt;/b>&lt;/font> beendet. Kamera-Updates deinstallieren und erneut versuchen.&lt;/Data></item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Schnellvorlauf %d Sek</item>
@@ -81,60 +36,17 @@
         <item quantity="other">Zurückspulen %d Sek</item>
         <item quantity="one">Zurückspulen %d Sek</item>
     </plurals>
-    <plurals name="fastmotion_pro_min_unit">
-        <item quantity="other">%1$d Min</item>
-        <item quantity="one">%1$d Min</item>
-    </plurals>
-    <plurals name="fastmotion_pro_sec_unit">
-        <item quantity="other">%1$d Sek</item>
-        <item quantity="one">%1$d Sek</item>
-    </plurals>
     <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">Timer eingeschaltet (%1$d Sek). Fotos werden auf dieses Gerät übertragen.</item>
-        <item quantity="one">Timer eingeschaltet (%1$d Sek). Fotos werden auf dieses Gerät übertragen.</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Vor einer halben Stunde</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">In 1 Stunde</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">In einer halben Stunde</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Sofort</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">In %d Minuten</item>
-        <item quantity="one">In 1 Minute</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Gerade eben</item>
-    </plurals>
-    <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">%1$d Entwürfe löschen?</item>
-        <item quantity="one">%1$d Entwurf löschen?</item>
+        <item quantity="other">Timer aktiviert (%1$d Sek). Fotos werden auf dieses Gerät übertragen.</item>
+        <item quantity="one">Timer aktiviert (%1$d Sek). Fotos werden auf dieses Gerät übertragen.</item>
     </plurals>
     <plurals name="manual_picture_style_desc_custom_add_max">
         <item quantity="other">Bis zu %d Voreinstellungen hinzufügen</item>
         <item quantity="one">Bis zu %d Voreinstellung hinzufügen</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d Elemente ausgewählt</item>
-        <item quantity="one">%d Element ausgewählt</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d neue Benachrichtigungen</item>
-        <item quantity="one">%d neue Benachrichtigung</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">Vor %d Minuten</item>
-        <item quantity="one">Vor 1 Minute</item>
-    </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Ihr Gerät ist überhitzt. Kamera wird in %d Sek beendet. Ihre Fotos oder Videos werden automatisch gespeichert.</item>
-        <item quantity="one">Ihr Gerät ist überhitzt. Kamera wird in %d Sek beendet. Ihre Fotos oder Videos werden automatisch gespeichert.</item>
+        <item quantity="other">Dein Gerät ist überhitzt. Kamera wird in %d Sek beendet. Deine Fotos oder Videos werden automatisch gespeichert.</item>
+        <item quantity="one">Dein Gerät ist überhitzt. Kamera wird in %d Sek beendet. Deine Fotos oder Videos werden automatisch gespeichert.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s Min</item>
@@ -145,12 +57,8 @@
         <item quantity="one">%d Sek aufnehmen</item>
     </plurals>
     <plurals name="timefreeze_guide_tip1">
-        <item quantity="other">Sie können Zeitraffervideos mit bis zu %d Motiven aufnehmen.</item>
-        <item quantity="one">Sie können Zeitraffervideos nur mit %d Motiv aufnehmen.</item>
-    </plurals>
-    <plurals name="timer_burst_setting_total_count">
-        <item quantity="other">%1$s Fotos</item>
-        <item quantity="one">%1$s Foto</item>
+        <item quantity="other">Du kannst Zeitraffervideos mit bis zu %d Motiven aufnehmen.</item>
+        <item quantity="one">Du kannst Zeitraffervideos nur mit %d Motiv aufnehmen.</item>
     </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Serienbild fertig, %1$s Fotos gemacht</item>
