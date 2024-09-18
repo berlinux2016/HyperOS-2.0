@@ -462,7 +462,7 @@
     <string name="play_speed">%1$.1fX-Geschwindigkeit</string>
     <string name="playback_delete_records">Aufnahme löschen</string>
     <string name="playback_menu_hide_speaker">Lautsprechernamen ausblenden</string>
-    <string name="playback_menu_rerecognize">Erneut transkribieren </string>
+    <string name="playback_menu_rerecognize">Erneut transkribieren</string>
     <string name="playback_menu_share">Teilen</string>
     <string name="playback_menu_show_speaker">Lautsprechernamen anzeigen</string>
     <string name="playback_menu_to_note">In Notizen speichern</string>

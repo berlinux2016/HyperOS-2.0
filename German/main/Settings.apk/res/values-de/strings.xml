@@ -609,7 +609,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="allow_oaid_used_desc">Das System stellt installierten Apps keine virtuelle ID (OAID) zur Verfügung. Einige Funktionen für persönliche Empfehlungen könnten deshalb nicht richtig funktionieren.</string>
     <string name="allow_ongoing_title">Dauerhafte Benachrichtigungen erlauben</string>
     <string name="allow_overlay_description">Diese App darf andere verwendete Apps überlagern. Sie kann sehen, wo Sie tippen oder was auf dem Bildschirm angezeigt wird.</string>
-    <string name="allow_sound_title">Ton </string>
+    <string name="allow_sound_title">Ton</string>
     <string name="allow_turn_screen_on">Bildschirm einschalten erlauben</string>
     <string name="allow_turn_screen_on_description">App darf den Bildschirm einschalten. Wenn diese Berechtigung erteilt wird, kann die App den Bildschirm jederzeit ohne Ihre ausdrückliche Absicht einschalten.</string>
     <string name="allow_vibrate_title">Vibration</string>
@@ -1198,7 +1198,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="bcast_update_code_title">Broadcast-Code aktualisieren</string>
     <string name="bear_mismatch">Anbieter wird wegen Netzwerkfehler ausgeblendet</string>
     <string name="bearer">Träger</string>
-    <string name="beauty_camera">Verschönern für Videoanrufe </string>
+    <string name="beauty_camera">Verschönern für Videoanrufe</string>
     <string name="beauty_camera_summary">Verschönern für WeChat-Videoanrufe verwenden</string>
     <string name="beauty_camera_switch">Verschönern</string>
     <string name="beauty_fc_assistant">Frontkamera-Assistent</string>
@@ -3414,7 +3414,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="fingerprint_removal_failed">Fingerabdruck löschen fehlgeschlagen, später erneut versuchen</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Benachrichtigungen schnell sehen</string>
     <string name="fingerprint_swipe_for_notifications_summary">Um Ihre Benachrichtigungen zu prüfen, wischen Sie auf dem Fingerabdrucksensor auf der Rückseite Ihres Telefons nach unten.</string>
-    <string name="fingerprint_swipe_for_notifications_title">Fingerabdruck wischen für Benachrichtigungen </string>
+    <string name="fingerprint_swipe_for_notifications_title">Fingerabdruck wischen für Benachrichtigungen</string>
     <string name="fingerprint_unlock_press_type">Drücken</string>
     <string name="fingerprint_unlock_set_unlock_password">Passwort • Fingerabdruck</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Muster • Fingerabdruck</string>
@@ -4089,7 +4089,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="input_pattern_hint_text">Zeichnen Sie Ihr Entsperrmuster</string>
     <string name="input_settings">Eingabeeinstellungen</string>
     <string name="input_text">Texteingabeleiste</string>
-    <string name="inputdebuglog_select_level">Eingabeprotokoll-Level </string>
+    <string name="inputdebuglog_select_level">Eingabeprotokoll-Level</string>
     <string name="inputdebuglog_select_level_summary">Level wählen</string>
     <string name="install_all_warning">Ihr Telefon und Ihre personenbezogenen Daten sind anfälliger für Angriffe durch unbekannte Apps. Durch die Installation von Apps aus dieser Quelle akzeptieren Sie, dass Sie für alle Schäden an Ihrem Telefon oder Datenverluste verantwortlich sind, die aus deren Nutzung resultieren können.</string>
     <string name="install_applications">Unbekannte Quellen</string>

@@ -428,7 +428,7 @@
     <string name="health_data_cloud_sync_subtitle">Gesundheitsdaten mit der Cloud synchronisieren und von jedem Gerät darauf zugreifen</string>
     <string name="health_data_cloud_sync_title">Mit der Cloud synchronisieren</string>
     <string name="health_data_sync">Gesundheitsdaten synchronisieren</string>
-    <string name="health_score">Gesundheitswert </string>
+    <string name="health_score">Gesundheitswert</string>
     <string name="health_score_tips">Der Gesundheitswert wird auf Basis deines BMI (Body-Mass-Index) sowie deiner Schlaf- und Aktivitätsdaten berechnet. Je näher du deinen Zielen bist, desto höher ist dein Gesundheitswert.</string>
     <string name="health_setting">Health-Einstellungen</string>
     <string name="health_uninstall_dialog_content">Xiaomi Health ist eine System-App. Mit dieser App kannst du Schritte zählen, Schlaf, Menstruation und Gewicht verfolgen sowie deine Statistik mit der Cloud synchronisieren. Nach der Deinstallation kannst du diese App nicht mehr verwenden.</string>
@@ -1215,7 +1215,7 @@
     <string name="tb_go_next_30_day">30 Tage zurück</string>
     <string name="tb_go_next_7_day">7 Tage zurück</string>
     <string name="tb_go_next_a_day">Vorheriger Tag</string>
-    <string name="tb_go_on_detection">Fortsetzen </string>
+    <string name="tb_go_on_detection">Fortsetzen</string>
     <string name="tb_has_snore_dream_talk">Sprechen und Schnarchen erkannt</string>
     <string name="tb_hearing_card">Gehör | Kopfhörerbelastung: %1$s | Aufgenommen: %2$s</string>
     <string name="tb_hearing_column">%1$s | Kopfhörerbelastung: %2$s | Laute Geräusche: %3$s</string>

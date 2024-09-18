@@ -24,7 +24,7 @@
     <string name="abc_searchview_description_submit">Anfrage senden</string>
     <string name="abc_searchview_description_voice">Sprachsuche</string>
     <string name="abc_slice_more">Mehr</string>
-    <string name="abc_slice_permission_allow">Erlauben </string>
+    <string name="abc_slice_permission_allow">Erlauben</string>
     <string name="abc_slice_permission_deny">Verweigern</string>
     <string name="abc_slice_permission_text_1">- Sie kann Informationen von %1$s lesen</string>
     <string name="abc_slice_permission_text_2">- Sie kann Aktionen in %1$s ausführen</string>
@@ -184,7 +184,7 @@
     <string name="accessibility_rotate_button">Bildschirm drehen</string>
     <string name="accessibility_rotation_lock_on_landscape">Bildschirm ist im Querformat gesperrt</string>
     <string name="accessibility_rotation_lock_on_portrait">Bildschirm ist im Hochformat gesperrt</string>
-    <string name="accessibility_send_smart_reply">Senden </string>
+    <string name="accessibility_send_smart_reply">Senden</string>
     <string name="accessibility_sensors_off_active">Sensoren aus aktiviert</string>
     <string name="accessibility_settings">Einstellungen</string>
     <string name="accessibility_split_bottom">Unten teilen</string>
@@ -1678,7 +1678,7 @@ dd.MM."</string>
     <string name="status_bar_alarm">Wecker</string>
     <string name="status_bar_clock_date_format">E, d. MMM</string>
     <string name="status_bar_clock_date_format_12">E, d. MMM</string>
-    <string name="status_bar_clock_date_time_format">H:mm E, d. MMM </string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d. MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d. MMM</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Eingabemethoden einstellen</string>
     <string name="status_bar_settings_auto_rotation">Bildschirm automatisch drehen</string>

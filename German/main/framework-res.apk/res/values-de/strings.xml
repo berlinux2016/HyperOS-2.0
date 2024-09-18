@@ -937,7 +937,7 @@ Wenden Sie sich an Ihren Anbieter, um eine andere SIM zu erhalten."</string>
     <string name="lockscreen_screen_locked">Bildschirm gesperrt</string>
     <string name="lockscreen_sim_locked_message">SIM ist gesperrt</string>
     <string name="lockscreen_sim_puk_locked_instructions">Lesen Sie die Bedienungsanleitung oder wenden Sie sich an den Kundendienst.</string>
-    <string name="lockscreen_sim_puk_locked_message">SIM ist PUK-gesperrt. </string>
+    <string name="lockscreen_sim_puk_locked_message">SIM ist PUK-gesperrt.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">SIM entsperren…</string>
     <string name="lockscreen_sound_off_label">Ton aus</string>
     <string name="lockscreen_sound_on_label">Ton ein</string>

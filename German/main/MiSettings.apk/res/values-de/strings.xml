@@ -25,7 +25,7 @@
     <string name="area_australia">Australien</string>
     <string name="asian_badger">Asiatischer Dachs</string>
     <string name="asian_black_bear">Asiatischer Schwarzbär</string>
-    <string name="atarctic_shag">Antarktikscharbe </string>
+    <string name="atarctic_shag">Antarktikscharbe</string>
     <string name="australia_introduction">Der australische Kontinent ist ein Paradies für seltene endemische Arten.</string>
     <string name="australian_magpie">Australische Elster</string>
     <string name="baboon_info">Der Olivpavian lebt in Gruppen mit ausgeprägter sozialer Rangordnung, die von der Dominanz der einzelnen Individuen abhängt.</string>
@@ -194,7 +194,7 @@
     <string name="lion_info">Löwen sind wilde und starke Raubtiere. Sie leben in Gruppen und haben einen ausgeprägten Sinn für Territorien.</string>
     <string name="loading_error">Elemente laden fehlgeschlagen</string>
     <string name="lock_summary">Schützen Sie Ihre personenbezogenen Daten</string>
-    <string name="long_tai1ed_iaeger">Falkenraubmöwe </string>
+    <string name="long_tai1ed_iaeger">Falkenraubmöwe</string>
     <string name="low_flicker_mode">Schwachlicht</string>
     <string name="low_flicker_mode_summary">Flimmern bei schlechten Lichtverhältnissen verhindern, um die Augen zu schonen</string>
     <string name="low_fps_description">Niedrige Bildwiederholrate. Niedrigerer Stromverbrauch.</string>
@@ -440,7 +440,7 @@ Diese App muss außerdem eine Internetverbindung herstellen und benötigt folgen
     <string name="usage_new_category_limit_summary">Tägliche Nutzungslimits für alle Apps in dieser Kategorie festlegen</string>
     <string name="usage_new_home_app_limit_summary">Tägliches Bildschirmzeitlimit für diese Apps festlegen</string>
     <string name="usage_new_home_app_limit_title">Bildschirmzeitlimit</string>
-    <string name="usage_new_home_avg_usage_day">Tagesdurchschnitt %s </string>
+    <string name="usage_new_home_avg_usage_day">Tagesdurchschnitt %s</string>
     <string name="usage_new_home_compare_text1">%.2f mehr als am Vortag</string>
     <string name="usage_new_home_compare_text2">%.2f weniger als am Vortag</string>
     <string name="usage_new_home_compare_text3">Wie am Vortag</string>

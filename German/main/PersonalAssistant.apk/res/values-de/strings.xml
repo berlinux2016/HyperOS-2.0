@@ -289,7 +289,7 @@
     <string name="pa_express_phone_binding_send_verifacation_code">Code senden</string>
     <string name="pa_express_phone_binding_title">Rufnummer hinzufügen</string>
     <string name="pa_express_provider_banner">Bereitgestellt von %s</string>
-    <string name="pa_express_query_fail_content_input_again">Keine Infos über Ihre Expresslieferung gefunden. Sendungsnummer prüfen und erneut versuchen. </string>
+    <string name="pa_express_query_fail_content_input_again">Keine Infos über Ihre Expresslieferung gefunden. Sendungsnummer prüfen und erneut versuchen.</string>
     <string name="pa_express_query_fail_content_manual_select">Keine Infos über Ihre Expresslieferung finden. Stattdessen versuchen, einen Zustelldienst manuell auszuwählen.</string>
     <string name="pa_express_query_fail_title">Info nicht abrufbar</string>
     <string name="pa_express_query_history">Bestellhistorie</string>

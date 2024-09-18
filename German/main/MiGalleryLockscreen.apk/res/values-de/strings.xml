@@ -915,7 +915,7 @@ dd.MM."</string>
     <string name="sst_wifi_only_title">Hintergründe mit mobilen Daten aktualisieren</string>
     <string name="status_wallpaper_loop_not_start">Aus</string>
     <string name="status_wallpaper_loop_start">An</string>
-    <string name="subscribe_apply_wp">Sperrbildschirmhintergrund erfolgreich angewendet </string>
+    <string name="subscribe_apply_wp">Sperrbildschirmhintergrund erfolgreich angewendet</string>
     <string name="subscribe_dlg_btn_txt">Abonnieren</string>
     <string name="subscribe_dlg_content">Mit einem Abo erhalten Sie täglich neue Hintergründe auf Ihren Sperrbildschirm sowie Morgengrüße.</string>
     <string name="subscribe_dlg_content2">\"%1$s\" abonnieren</string>
@@ -935,7 +935,7 @@ dd.MM."</string>
     <string name="summary2">"Mit der Nutzung dieser Funktion stimmen Sie unserer &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Nutzervereinbarung&lt;/font>&lt;/a> und &lt;font color='#0D84FF'>&lt;a href='%2$s'>Datenschutzerklärung&lt;/font>&lt;/a> zu. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren."</string>
     <string name="summary3">"Willkommen bei Hintergrundkarussell! Hier können Sie Ihre Lieblings-Hintergrundkategorien abonnieren und bekommen regelmäßig neue Bilder auf Ihren Sperrbildschirm geliefert. Diese App benötigt eine Internetverbindung und sammelt die erforderlichen personenbezogenen Daten, um normal zu funktionieren.&lt;br>Um zusätzliche Dienste anzubieten, bitten wir Sie ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern. Um Ihre Rechte als Nutzer sowie die Art und Weise, wie wir Ihre Daten verwenden, vollständig zu verstehen, lesen und akzeptieren Sie unsere &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Nutzervereinbarung&lt;/font>&lt;/a> und &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Datenschutzerklärung&lt;/font>&lt;/a>, bevor Sie diese App verwenden.</string>
     <string name="summary4">Willkommen bei Hintergrundkarussell! Hier können Sie Ihre Lieblingshintergrundkategorien abonnieren und bekommen regelmäßig neue Bilder auf Ihren Sperrbildschirm geliefert.</string>
-    <string name="summary5">Um zusätzliche Dienste anzubieten, bitten wir ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern. </string>
+    <string name="summary5">Um zusätzliche Dienste anzubieten, bitten wir ggf. um die Erlaubnis, auf den Gerätespeicher zuzugreifen und dort Elemente zu speichern.</string>
     <string name="summary_international">"Mit der Nutzung dieser Funktion stimmen Sie unserer &lt;a href ='%1$s'>Nutzervereinbarung&lt;/a> und &lt;a href='%2$s'>Datenschutzerklärung&lt;/a> zu. Diese Funktion benötigt eine Internetverbindung, um normal zu funktionieren."</string>
     <string name="sunday">Sonntag</string>
     <string name="sunday_short">So</string>

@@ -437,7 +437,7 @@ Achten Sie beim Kalibrieren darauf, dass sich nichts zwischen dem Sensor und Ihr
     <string name="cit_tool_bluetooth_rx_error">Beim Ausführen des Programms ist ein Fehler aufgetreten</string>
     <string name="cit_tool_bluetooth_tx_chain">Antenne:</string>
     <string name="cit_tool_bluetooth_tx_channel">Kanal:</string>
-    <string name="cit_tool_bluetooth_tx_rse_run">STARTEN </string>
+    <string name="cit_tool_bluetooth_tx_rse_run">STARTEN</string>
     <string name="cit_tool_check_cal">Abbrechen</string>
     <string name="cit_tool_check_opt">Sicher?</string>
     <string name="cit_tool_check_opt_with_reboot">Wird neu starten, sicher?</string>

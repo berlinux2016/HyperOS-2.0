@@ -328,7 +328,7 @@
     <string name="messenger_send_button_text">Senden</string>
     <string name="mi_account">Mein Konto</string>
     <string name="midnight">Nacht</string>
-    <string name="mipay_identitiy_no">Nicht verifiziert </string>
+    <string name="mipay_identitiy_no">Nicht verifiziert</string>
     <string name="mipay_identity">ID-Verifikation</string>
     <string name="mipay_indentity_done">Verifiziert</string>
     <string name="miuix_access_state_desc">Ausgewählt</string>
@@ -501,7 +501,7 @@
     <string name="passport_btn_change_account">Konto ändern</string>
     <string name="passport_can_not_receive_verification_code">Verifizierungscode nicht erhalten?</string>
     <string name="passport_can_not_recevie_verify_code">Keinen Code erhalten?</string>
-    <string name="passport_change_account"> &lt;u&gt;Konto ändern&lt;/u&gt; </string>
+    <string name="passport_change_account"> &lt;u&gt;Konto ändern&lt;/u&gt;</string>
     <string name="passport_change_password">Passwort ändern</string>
     <string name="passport_change_phone_number">Nummern tauschen</string>
     <string name="passport_check_security">Auf Sicherheitsprobleme prüfen…</string>
@@ -682,7 +682,7 @@
     <string name="passport_set">Festgelegt</string>
     <string name="passport_set_password_no_phone_msg">Rufnummer hinzufügen, um Ihr Konto zu schützen</string>
     <string name="passport_setting">Einrichten…</string>
-    <string name="passport_skip_login">Überspringen </string>
+    <string name="passport_skip_login">Überspringen</string>
     <string name="passport_skip_query_account">Überspringen</string>
     <string name="passport_skip_register">Anmeldung überspringen</string>
     <string name="passport_skip_setup_account_msg">Wenn Sie sich am Xiaomi-Konto anmelden, können Sie Xiaomi Cloud-Dienste nutzen. Diesen Schritt trotzdem überspringen?</string>

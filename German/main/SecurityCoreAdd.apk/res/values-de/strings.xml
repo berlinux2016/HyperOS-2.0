@@ -305,7 +305,7 @@
     <string name="gpg_title"> Duale App für Google Play Games</string>
     <string name="green_guard_des1">Geräte hinzufügen, um sie aus der Ferne zu verwalten</string>
     <string name="green_guard_des2">Wissen, wo genau sich alle verwalteten Geräte befinden</string>
-    <string name="green_guard_des3">Installierte Apps steuern und Nutzung einschränken </string>
+    <string name="green_guard_des3">Installierte Apps steuern und Nutzung einschränken</string>
     <string name="green_guard_title2">Standortdaten anzeigen</string>
     <string name="green_guard_title3">Apps verwalten</string>
     <string name="greenguard_child_des">Verwalten Sie die Geräte Ihrer Freunde und Familie</string>

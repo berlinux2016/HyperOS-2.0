@@ -801,7 +801,7 @@
     <string name="enable_secret_album_upload_message">Alle privaten Elemente werden mit der Cloud synchronisiert, wenn Sie diese Funktion einschalten. Jetzt einschalten?</string>
     <string name="enter_choice_mode">Teilen-Dialog aufgerufen</string>
     <string name="enter_email_hint">E-Mail-Adresse eingeben</string>
-    <string name="equivalent_focal_length">(Äquivalente Brennweite %dmm) </string>
+    <string name="equivalent_focal_length">(Äquivalente Brennweite %dmm)</string>
     <string name="eras_ad">n. Chr.</string>
     <string name="eras_bc">v. Chr.</string>
     <string name="error_album_not_exist">Album existiert nicht</string>
@@ -1798,7 +1798,7 @@
     <string name="privacy_cloud_confirm_detail_positive">Zustimmen</string>
     <string name="privacy_cloud_confirm_rejected">Die Zustimmung zur Datenschutzerklärung von Xiaomi Cloud wurde für dieses Konto widerrufen. Versuchen Sie es mit einem anderen Konto.</string>
     <string name="privacy_detail">Datenschutzerklärung anzeigen</string>
-    <string name="privacy_detail_map">Datenschutzerklärung Gallery Map anzeigen </string>
+    <string name="privacy_detail_map">Datenschutzerklärung Gallery Map anzeigen</string>
     <string name="privacy_entrance">Datenschutz</string>
     <string name="privacy_map">Galerie-Karte</string>
     <string name="privacy_map_detail"><Data>Dieser Dienst erlaubt Ihnen, Fotos und Videos mit Standortdaten auf einer Karte anzuzeigen. Wir verwenden Baidu Map Open SDK, um Ihnen diesen Dienst zur Verfügung zu stellen. Lesen und akzeptieren Sie die &lt;a href=\"%1$s\"&gt;Baidu Map Datenschutzerklärung für Produkte und Dienste der offenen Plattform&lt;/a&gt;, bevor Sie fortfahren.</Data></string>

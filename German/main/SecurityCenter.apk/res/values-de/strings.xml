@@ -148,7 +148,7 @@
     <string name="ad_text_develop">Entwickler: %1$s</string>
     <string name="ad_text_introduce">Über</string>
     <string name="ad_text_permission">Rechte</string>
-    <string name="ad_text_privacy">Datenschutz </string>
+    <string name="ad_text_privacy">Datenschutz</string>
     <string name="ad_update_time">Zuletzt aktualisiert: %s</string>
     <string name="ad_update_time_unKnown">Letztes Update unbekannt</string>
     <string name="adb_install_no_network">Mit Netzwerk verbinden und erneut versuchen</string>
@@ -483,7 +483,7 @@
     <string name="app_manager_card_permission_title">Rechte</string>
     <string name="app_manager_clear_all_data">Alle Daten löschen</string>
     <string name="app_manager_clear_cache">Cache löschen</string>
-    <string name="app_manager_clear_data_dlg_message">Alle App-Daten - inkl. Dateien, Einstellungen, Konten, Datenbanken und Cache - werden dauerhaft gelöscht. </string>
+    <string name="app_manager_clear_data_dlg_message">Alle App-Daten - inkl. Dateien, Einstellungen, Konten, Datenbanken und Cache - werden dauerhaft gelöscht.</string>
     <string name="app_manager_clear_data_dlg_title">Alle Daten löschen?</string>
     <string name="app_manager_clear_dlg_title">Daten löschen</string>
     <string name="app_manager_clear_failed_dlg_message">App-Daten löschen fehlgeschlagen</string>
@@ -3655,7 +3655,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_low_temp_charge_summary">Lassen Sie das Ladegerät angeschlossen und warten Sie, bis sich der Akku nach dem Erlöschen des Bildschirms erwärmt hat, um normal zu laden</string>
     <string name="pc_low_temp_charge_title">Laden bei niedriger Temperatur</string>
     <string name="pc_low_temperature_extreme_endurance_summary">Begrenzen Sie die Geräteleistung, um die Lebensdauer des Akkus zu verlängern, wenn die Umgebungstemperatur extrem niedrig ist</string>
-    <string name="pc_low_temperature_extreme_endurance_title">Kälteschutzmodus </string>
+    <string name="pc_low_temperature_extreme_endurance_title">Kälteschutzmodus</string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s m hinzugefügt, ca. %2$s T bleiben</string>
     <string name="pc_main_battery_text_day_hour">%1$s m hinzugefügt, ca. %2$s T %3$s h bleiben</string>
@@ -4535,7 +4535,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_flares_recent_detail_cam_loc">App benutzte dieKamera und hat auf Ihren Standort zugegriffen</string>
     <string name="privacy_flares_recent_detail_cam_mic">App benutzte Kamera und Mikrofon</string>
     <string name="privacy_flares_recent_detail_loc">App hat auf Ihren Standort zugegriffen</string>
-    <string name="privacy_flares_recent_detail_mic">App benutzte das Mikrofon </string>
+    <string name="privacy_flares_recent_detail_mic">App benutzte das Mikrofon</string>
     <string name="privacy_flares_recent_detail_mic_loc">App benutzte das Mikrofon und hat auf Ihren Standort zugegriffen</string>
     <string name="privacy_flares_recent_detail_more">App benutzte eine sensible Berechtigung</string>
     <string name="privacy_global_guide_permission_guide_text">Sie erhalten eine Benachrichtigung in der Statusleiste, wenn Apps Audio aufnehmen oder die Kamera verwenden. Um zu erfahren, welche App das tut, tippen Sie auf die Warnung.</string>
@@ -5344,7 +5344,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="st_sms_intercept_oversea">Internationale SMS</string>
     <string name="st_sub_title_whiteblack_list_group">Sperrliste</string>
     <string name="st_sum_call_wait">Ihre Abwesenheitsnotiz wird auch als Besetztzeichen für eingehende Anrufe abgespielt</string>
-    <string name="st_summary_blacklist_numbers">Anrufe und Nachrichten von bestimmten Nummern und Regionen blockieren </string>
+    <string name="st_summary_blacklist_numbers">Anrufe und Nachrichten von bestimmten Nummern und Regionen blockieren</string>
     <string name="st_summary_blacklist_numbers_international">Anrufe und Nachrichten von bestimmten Nummern blockieren</string>
     <string name="st_summary_keywords_blacklist">Schlüsselwörter zur Sperrliste hinzufügen</string>
     <string name="st_summary_special_numbers">Markierte Rufnummern blockieren</string>
@@ -5578,7 +5578,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="superpower_notification_low_temp_title">Ultra-Stromsparen einschalten?</string>
     <string name="superpower_notification_new_title_new">Weniger als %s Akku bleiben</string>
     <string name="superpower_notification_summary">Laden Sie Ihr Gerät oder schalten Sie Ultra-Stromsparen ein</string>
-    <string name="superpower_notification_time_12">EEEE, d. MMMM </string>
+    <string name="superpower_notification_time_12">EEEE, d. MMMM</string>
     <string name="superpower_notification_time_24">EEEE, d. MMMM</string>
     <string name="superpower_notification_title_new">Weniger als %s Akku übrig</string>
     <string name="superpower_progress_content">Ultra-Stromsparen einschalten…</string>

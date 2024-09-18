@@ -240,7 +240,7 @@
     <string name="permdesc_handoverStatus">Erlaubt das Empfangen übertagener Statusinformationen von Bluetooth</string>
     <string name="permlab_bluetoothAcceptlist">Akzeptanzliste Bluetooth-Gerätezugriff</string>
     <string name="permlab_bluetoothShareManager">Auf Downloadmanager zugreifen</string>
-    <string name="permlab_handoverStatus">Empfangen von BT-Broadcast-Sendungen </string>
+    <string name="permlab_handoverStatus">Empfangen von BT-Broadcast-Sendungen</string>
     <string name="phonebook_advance_feature_support">Erweiterte Telefonbuchfunktion unterstützt</string>
     <string name="remote_pbap_version_change">Versionsänderung des Remote-Telefonbuchprofils</string>
     <string name="remote_phonebook_feature_downgrade">Remote-Telefonbuchfunktion downgraden</string>

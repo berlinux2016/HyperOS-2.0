@@ -547,7 +547,7 @@
     <string name="power_off_locate_summary">Standortdaten durch langes Drücken der Power-Taste melden.\nWenn die Netzwerkverbindung schlecht ist, werden Standortdaten ggf. nicht gemeldet.</string>
     <string name="power_off_locate_title">Standort vor dem Ausschalten melden</string>
     <string name="pre_privacy_policy">Datenschutzerklärung</string>
-    <string name="pre_user_agreement">Nutzervereinbarung </string>
+    <string name="pre_user_agreement">Nutzervereinbarung</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Nur bei aktiver WLAN-Verbindung Profilbilder synchronisieren</string>
     <string name="pref_title_sync_contacts_title">Kontakte synchronisieren</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Nur WLAN nutzen, um Fotos zu synchronisieren</string>

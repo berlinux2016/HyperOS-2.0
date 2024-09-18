@@ -1716,7 +1716,7 @@
     <string name="roaming_enabled_message">Roaming-Kosten können anfallen. Tippen zum Ändern.</string>
     <string name="roaming_notification_content">Sie können Ländervorwahlen automatisch hinzufügen, um das Wählen komfortabler zu machen</string>
     <string name="roaming_notification_title">Anscheinend ist Roaming aktiv</string>
-    <string name="roaming_on_notification_title">Datenroaming ist eingeschaltet </string>
+    <string name="roaming_on_notification_title">Datenroaming ist eingeschaltet</string>
     <string name="roaming_reenable_message">Versuchen Sie, mit Roaming wieder eine Verbindung herzustellen.</string>
     <string name="roaming_user_package_summary_kr">Kaufen, stornieren und bearbeiten Sie Ihr Roaming-Paket. Die Nutzung dieses Menüs während des Roamings wird Ihnen nicht berechnet.</string>
     <string name="roaming_user_package_title_kr">Roaming-Paket nutzen</string>
@@ -1762,7 +1762,7 @@
     <string name="set_primary_summary">Für ausgehende Anrufe nutzen</string>
     <string name="set_primary_title">Als primäres Konto festlegen</string>
     <string name="set_smsc_address_error">Nummer einstellen nicht möglich</string>
-    <string name="set_smsc_address_timeout">Zeitüberschreitung der Verbindung </string>
+    <string name="set_smsc_address_timeout">Zeitüberschreitung der Verbindung</string>
     <string name="set_smsc_address_title">SMS-Zentrale (SMSC)</string>
     <string name="set_time_period">Zeitspanne festlegen</string>
     <string name="settings_label">Netzwerkeinstellungen</string>
