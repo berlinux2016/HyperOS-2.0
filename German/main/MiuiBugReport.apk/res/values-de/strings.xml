@@ -86,7 +86,7 @@
     <string name="feedback_detail_waiting">Erstellen…</string>
     <string name="feedback_empty_report_list">Keine Meldungen bis jetzt</string>
     <string name="feedback_evaluation_invitation_content">Bewerte deine Erfahrung, um uns zu helfen, die Feedback-Bearbeitung in Zukunft zu verbessern.</string>
-    <string name="feedback_history_remind_login_desc">Am Xiaomi Konto anmelden zur Anzeige von Details und Fortschritt der Meldung</string>
+    <string name="feedback_history_remind_login_desc">Am Xiaomi-Konto anmelden zur Anzeige von Details und Fortschritt der Meldung</string>
     <string name="feedback_jira_key_place_holder">JIRA erstellen…</string>
     <string name="feedback_report_remind_login_desc">Am Xiaomi-Konto anmelden, damit unsere Techniker dich kontaktieren können.</string>
     <string name="feedback_report_remind_login_desc2">Außerdem kannst du den Fortschritt deiner Meldung unter \"Mein Feedback\" einsehen.</string>
