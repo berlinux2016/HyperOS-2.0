@@ -3,28 +3,12 @@
     <string-array name="activities_title">
         <item>Besonderer Tag</item>
         <item>Unvergesslicher Tag</item>
-        <item>Lebhafte Momente</item>
-    </string-array>
-    <string-array name="annual_foods_title">
-        <item>Ein köstliches Jahr</item>
-        <item>Drei Gänge. Vier Jahreszeiten.</item>
+        <item>Bewegende Momente</item>
     </string-array>
     <string-array name="annual_travel_title">
         <item>Hallo Welt!</item>
         <item>Unterwegs</item>
-        <item>Ein Kaleidoskop der Orte</item>
-    </string-array>
-    <string-array name="autumn_season_title">
-        <item>Herbstliche Pracht</item>
-        <item>Strahlender Herbst</item>
-    </string-array>
-    <string-array name="baby_sexy">
-        <item>Junge</item>
-        <item>Mädchen</item>
-    </string-array>
-    <string-array name="backup_automatically_key_words">
-        <item>Fotos sichern</item>
-        <item>Fotos mit der Cloud synchronisieren</item>
+        <item>Ein Kaleidoskop von Orten</item>
     </string-array>
     <string-array name="card_last_week_day">
         <item>Letzten Montag</item>
@@ -37,26 +21,21 @@
         <item>Letzten chinesischer Silvesterabend</item>
         <item>Letztes chinesisches Neujahrsfest</item>
         <item>Letztes Laternenfest</item>
-        <item>Letztes Drachenboot-Festival</item>
-        <item>Letztes Qixi-Festival</item>
+        <item>Letztes Drachenbootfest</item>
+        <item>Letztes Qixi-Fest</item>
         <item>Letztes Mittherbstfest</item>
     </string-array>
     <string-array name="chinese_holiday_past_year">
         <item>Chinesischer Silvesterabend im Laufe der Jahre</item>
         <item>Chinesisches Neujahr im Laufe der Jahre</item>
         <item>Laternenfest im Laufe der Jahre</item>
-        <item>Drachenboot-Festival im Laufe der Jahre</item>
-        <item>Qixi Festival im Laufe der Jahre</item>
+        <item>Drachenbootfest im Laufe der Jahre</item>
+        <item>Qixi-Fest im Laufe der Jahre</item>
         <item>Mittherbstfest im Laufe der Jahre</item>
-    </string-array>
-    <string-array name="chinese_new_year_eve_title">
-        <item>Eine unvergessliche Nacht</item>
-        <item>Neue Seite</item>
-        <item>Feuerwerk</item>
     </string-array>
     <string-array name="chinese_new_year_title">
         <item>Frohes neues Jahr!</item>
-        <item>Anbruch des neuen Jahres</item>
+        <item>Beginn des neuen Jahres</item>
     </string-array>
     <string-array name="chinese_zodiac_year">
         <item>Jahr des Affen</item>
@@ -70,19 +49,7 @@
         <item>Jahr des Drachen</item>
         <item>Jahr der Schlange</item>
         <item>Jahr des Pferdes</item>
-        <item>Jahr des Schafes</item>
-    </string-array>
-    <string-array name="city_title">
-        <item>Stadtansichten</item>
-        <item>Straßen und Ecken</item>
-    </string-array>
-    <string-array name="flowers_title">
-        <item>Zarte Blütenblätter</item>
-        <item>In voller Blüte</item>
-    </string-array>
-    <string-array name="forest_title">
-        <item>In die Wildnis</item>
-        <item>Wild und frei</item>
+        <item>Jahr der Ziege</item>
     </string-array>
     <string-array name="group_people_title">
         <item>Unsere Treffen</item>
@@ -106,7 +73,7 @@
         <item>Weihnachten im Laufe der Jahre</item>
     </string-array>
     <string-array name="important_people_title">
-        <item>Ihre Lieblingsthemen</item>
+        <item>Deine Lieblingsthemen</item>
         <item>Gleichgesinnte</item>
         <item>Die schönen Momente des Lebens</item>
     </string-array>
@@ -138,10 +105,6 @@
         <item>Noch einen Bissen?</item>
         <item>Guten Appetit!</item>
     </string-array>
-    <string-array name="last_some_day_playground_title">
-        <item>Lächeln und winken!</item>
-        <item>Spielzeit</item>
-    </string-array>
     <string-array name="last_some_day_ski_title">
         <item>Die weite Natur</item>
         <item>Spuren im Schnee</item>
@@ -157,7 +120,7 @@
     <string-array name="last_week_baby_title">
         <item>Zeit zum Spielen</item>
         <item>Kinderwochenende</item>
-        <item>Der Kleine</item>
+        <item>Das Kleine</item>
     </string-array>
     <string-array name="last_weekend_title">
         <item>Meine Wochenenden</item>
@@ -172,20 +135,6 @@
         <item>Verschieben</item>
         <item>Kopieren</item>
         <item>Abbrechen</item>
-    </string-array>
-    <string-array name="month">
-        <item>Januar</item>
-        <item>Februar</item>
-        <item>März</item>
-        <item>April</item>
-        <item>Mai</item>
-        <item>Juni</item>
-        <item>Juli</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Oktober</item>
-        <item>November</item>
-        <item>Dezember</item>
     </string-array>
     <string-array name="month_last_year">
         <item>Letzten Januar</item>
@@ -257,20 +206,14 @@
         <item>Familie</item>
         <item>Kollege</item>
         <item>Mitschüler</item>
-        <item>Freund</item>
-        <item>Unbekannt</item>
-    </string-array>
-    <string-array name="season">
-        <item>Frühling</item>
-        <item>Sommer</item>
-        <item>Herbst</item>
-        <item>Winter</item>
+        <item>Freunde</item>
+        <item>Ungruppiert</item>
     </string-array>
     <string-array name="season_last_year">
-         <item>Letzten Frühling</item>
-         <item>Letzten Sommer</item>
-         <item>Letzten Herbst</item>
-         <item>Letzten Winter</item>
+        <item>Letzten Frühling</item>
+        <item>Letzten Sommer</item>
+        <item>Letzten Herbst</item>
+        <item>Letzten Winter</item>
     </string-array>
     <string-array name="sharer_relation_addressive">
         <item>Vater</item>
@@ -289,10 +232,6 @@
         <item>Frühling liegt in der Luft</item>
         <item>Hallo Frühling!</item>
     </string-array>
-    <string-array name="summer_season_title">
-        <item>Ein bisschen Sommer</item>
-        <item>Wo der Sommer nie endet</item>
-    </string-array>
     <string-array name="sunrise_sunset_title">
         <item>Goldene Stunden</item>
         <item>Goldene Strahlen</item>
@@ -305,10 +244,6 @@
         <item>Vergangene Wochenenden</item>
         <item>Tage zum Erinnern</item>
         <item>Tägliche Termine</item>
-        <item>Gewöhnlich &amp; außerordentlich</item>
-    </string-array>
-    <string-array name="winter_season_title">
-        <item>Wintertage</item>
-        <item>Winterwunderland</item>
+        <item>Gewöhnlich &amp; Außerordentlich</item>
     </string-array>
 </resources>
