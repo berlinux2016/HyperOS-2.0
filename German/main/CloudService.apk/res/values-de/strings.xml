@@ -190,10 +190,10 @@
     <string name="gallery_auto_sync_fail_noti_content">Nicht genügend Cloud-Speicher. Aktualisieren Sie Ihren Speichertarif, um Fotos und Videos zu synchronisieren.</string>
     <string name="gallery_auto_sync_fail_noti_content_lite">Cloud-Speicher unzureichend. Fotos werden nicht gespeichert.</string>
     <string name="gallery_data_transfer_ddl">Stichtag: %s</string>
-    <string name="gallery_data_transfer_summary">Galerieelemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen und deren Dienste zu nutzen, um Ihre Elemente zu sichern.</string>
+    <string name="gallery_data_transfer_summary">Galerie-Elemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen und deren Dienste zu nutzen, um Ihre Elemente zu sichern.</string>
     <string name="gallery_data_transfer_title">Synchronisierte Fotos und Videos zu Google Fotos übertragen</string>
     <string name="gallery_service_termination_announcement">Hinweis auf die Beendigung der Xiaomi Cloud-Synchronisation für Galerie-Elemente und Übertragung zu Google Fotos</string>
-    <string name="gallery_service_termination_announcement_title">Galerieelemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen, oder i.mi.com zu besuchen, um synchronisierte Fotos und Videos auf Ihr Gerät herunterzuladen. Die Übertragungs- und Download-Dienste sind bis %s verfügbar. Danach werden alle mit Ihrem Xiaomi Cloud-Konto synchronisierten Galerieelemente dauerhaft gelöscht.</string>
+    <string name="gallery_service_termination_announcement_title">Galerie-Elemente können nicht mehr mit Xiaomi Cloud synchronisiert werden. Wir empfehlen, Fotos und Videos, die Sie mit der Cloud synchronisiert haben, zu Google Fotos zu übertragen, oder i.mi.com zu besuchen, um synchronisierte Fotos und Videos auf Ihr Gerät herunterzuladen. Die Übertragungs- und Download-Dienste sind bis %s verfügbar. Danach werden alle mit Ihrem Xiaomi Cloud-Konto synchronisierten Galerie-Elemente dauerhaft gelöscht.</string>
     <string name="gallery_service_termination_btn_continue">Fortfahren</string>
     <string name="gallery_service_termination_more_info">Mehr Details finden Sie unter \"%s\"</string>
     <string name="help_and_feedback">Hilfe &amp; Feedback</string>

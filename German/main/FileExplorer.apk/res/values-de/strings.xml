@@ -287,7 +287,7 @@
     <string name="qq_msg">Wegen Android 11-Einschränkungen kann Dateimanager nicht auf QQ-Dokumente zugreifen und diese anzeigen.</string>
     <string name="qq_title">Kein Zugriff auf WeChat-Dokumente</string>
     <string name="query_quota_exception">Ein Serverfehler ist aufgetreten. Etwas warten und erneut versuchen.</string>
-    <string name="recent_hide_camera_and_screenshots">Galerieelemente und Screenshots nicht unter zuletzt verwendete Dateien anzeigen</string>
+    <string name="recent_hide_camera_and_screenshots">Galerie-Elemente und Screenshots nicht unter zuletzt verwendete Dateien anzeigen</string>
     <string name="recent_hide_cloud_drive_files">Mi Drive-Dateien nicht unter Zuletzt anzeigen</string>
     <string name="rename_alert">Wenn du die Dateierweiterung änderst, kannst du sie nicht mehr öffnen.</string>
     <string name="rename_alert2">Datei wird ausgeblendet, wenn du die Dateierweiterung änderst.</string>
