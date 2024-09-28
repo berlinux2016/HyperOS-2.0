@@ -211,7 +211,7 @@
     <string name="mobile_data_note_dialog_content_with_file_size">Anscheinend bist du mit einem kostenpflichtigen Netzwerk verbunden. Hochladen von Protokollen erfordert %s MB mobile Daten.</string>
     <string name="modem_tool_log_dumping_title">Modemprotokolle erstellen</string>
     <string name="modem_tool_log_finish_title">Modemprotokoll erstellt</string>
-    <string name="module_data">Speicher &amp; Dual Apps</string>
+    <string name="module_data">Speicher &amp; Duale Apps</string>
     <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Abstürze &amp; Neustarts\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Erhitzen\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobilfunknetze\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"WLAN\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Andere Fehler\",\"categoryId\":10,\"order\":2}]</string>
     <string name="module_desktop">Startbildschirm &amp; Einstellungen</string>
     <string name="module_finance">Finanzen &amp; Mi Wallet</string>

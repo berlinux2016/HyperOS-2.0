@@ -579,7 +579,7 @@
     <string name="wireless_charging_notification_message2">Akku ist weniger als %s geladen. Drahtloses Umkehrladen ist nun deaktiviert.</string>
     <string name="wireless_charging_notification_message3">Beim Laden ist ein Fehler aufgetreten. Drahtloses Umkehrladen ist nun deaktiviert.</string>
     <string name="wireless_charging_notification_titile">Drahtloses Umkehrladen ausgeschaltet</string>
-    <string name="xspace_head">Dual App</string>
+    <string name="xspace_head">Duale App</string>
     <string name="xspace_resolver_activity_title">App wählen</string>
     <string name="zone_volume_automatic_change_optimization_text">Wenden Sie sich für Reparaturen an den Kundendienst. Lautstärketasten deaktivieren und Standardlautstärke einstellen?</string>
     <string name="zone_volume_automatic_change_optimization_title">Fehler Lautstärketaste</string>

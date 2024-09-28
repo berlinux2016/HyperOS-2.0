@@ -377,7 +377,7 @@
     <string name="trans_intro_desc_9_method_3_dec">"Mi Mover's QQ Gruppe: 687338378"</string>
     <string name="trans_intro_desc_account">Aus Sicherheitsgründen musst du dich auf einem neuen Gerät erneut an deinen Konten (z. B. Xiaomi-Konto, Exchange, Google etc.) anmelden.</string>
     <string name="trans_intro_desc_gms">Wegen hoher Wahrscheinlichkeit erfolgloser Übertragungen durch Kompatibilitätsprobleme unterstützt Mi Mover nicht die Übertragung der von Google-Apps generierten Daten.</string>
-    <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine Dual App-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
+    <string name="trans_intro_desc_multiapp">Mi Mover überträgt keine duale App-Daten, um Konflikte zwischen Dateien zu vermeiden.</string>
     <string name="trans_intro_desc_multiuser">Mi Mover kann nicht auf Elemente im Zweitprofil zugreifen. Verschiebe Elemente ins Hauptprofil und starte Mi Mover dort.</string>
     <string name="trans_intro_question_1">%d. Wie verwende ich Mi Mover, um Daten von einem iOS-Gerät zu übertragen?</string>
     <string name="trans_intro_question_2">%d. Wie verwende ich Mi Mover, um Daten von einem Android-Gerät zu übertragen?</string>
@@ -387,7 +387,7 @@
     <string name="trans_intro_title">FAQ</string>
     <string name="trans_intro_title_account">Konten &amp; Passwörter:</string>
     <string name="trans_intro_title_gms">Von Google Apps generierte Daten:</string>
-    <string name="trans_intro_title_multiapp">Dual App-Daten:</string>
+    <string name="trans_intro_title_multiapp">Duale App-Daten:</string>
     <string name="trans_intro_title_multiuser">Zweitprofildaten:</string>
     <string name="trans_intro_title_new">Auf einem neuen Telefon:</string>
     <string name="trans_main_tutor">Kontakte, Anrufliste, Nachrichten, Startbildschirmlayout, Apps, Einstellungen usw. auf ein neues Gerät verschieben</string>

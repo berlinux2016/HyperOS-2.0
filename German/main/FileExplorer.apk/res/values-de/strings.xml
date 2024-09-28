@@ -61,7 +61,7 @@
     <string name="display_mode">Anzeigen</string>
     <string name="enable_usb">USB-Gerät anschließen</string>
     <string name="encrypt_error">Privat markieren fehlgeschlagen. Erneut versuchen.</string>
-    <string name="entry_storage_cloned_app">Dual Apps</string>
+    <string name="entry_storage_cloned_app">Duale Apps</string>
     <string name="error_contains_sharer_path">Dateien aus \"/MIUI/Gallery/cloud/sharer\" können nicht privat markiert werden. Datei in anderen Ordner verschieben und erneut versuchen.</string>
     <string name="error_filename_too_long">Dateiname zu lang</string>
     <string name="error_hint_copy_folder_to_self_or_sub">Ordner können nicht in sich selbst oder ihre Unterordner verschoben oder kopiert werden</string>

@@ -1538,7 +1538,7 @@ Wenn Sie sich für die dauerhafte Löschung aller Daten entscheiden, werden Sie 
     <string name="start_to_download">Herunterladen…</string>
     <string name="start_to_play">Zum Abspielen vorbereiten…</string>
     <string name="start_update">Neue Version installieren…</string>
-    <string name="storage_cloned_app">Speicher für Dual Apps</string>
+    <string name="storage_cloned_app">Speicher für duale Apps</string>
     <string name="storage_internal">Interner Speicher</string>
     <string name="storage_sd_card">SD-Karte</string>
     <string name="storage_space_permissions_for_display">Zugriff auf Gerätespeicher: zum Scannen, Anzeigen und Abspielen von lokalen Dateien</string>

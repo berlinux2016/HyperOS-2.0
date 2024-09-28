@@ -119,7 +119,7 @@
     <string name="dialog_msg_load_cleanup_engine_error">Cleaner-Modul beschädigt.</string>
     <string name="dialog_msg_stop_scan">Scannen jetzt stoppen?</string>
     <string name="dialog_msg_uninstall_apps">Diese Apps deinstallieren?</string>
-    <string name="dialog_msg_uninstall_apps_xspace">Diese Apps samt Dual Apps deinstallieren?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Diese Apps samt duale Apps deinstallieren?</string>
     <string name="dialog_title_backup_and_uninstall_apps">Sichern und deinstallieren</string>
     <string name="dialog_title_delete_image">Ausgewählte Bilder löschen</string>
     <string name="dialog_title_esc_cleanmaster">Cleaner beenden</string>

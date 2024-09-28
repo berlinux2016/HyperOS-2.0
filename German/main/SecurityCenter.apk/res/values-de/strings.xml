@@ -479,7 +479,7 @@
     <string name="app_manager_as_dlg_msg_new">Wenn Sie einer App den Autostart erlauben, kann dies den Speicherbedarf und den Akkuverbrauch erhöhen. Ihr Gerät optimiert die Autostart-Berechtigungen von Apps, die Sie nicht häufig verwenden, um die Leistung Ihres Geräts zu verbessern.</string>
     <string name="app_manager_as_dlg_title">Achtung</string>
     <string name="app_manager_back">Zurück</string>
-    <string name="app_manager_bipartition">Dual Apps</string>
+    <string name="app_manager_bipartition">Duale Apps</string>
     <string name="app_manager_card_permission_title">Rechte</string>
     <string name="app_manager_clear_all_data">Alle Daten löschen</string>
     <string name="app_manager_clear_cache">Cache löschen</string>
@@ -574,9 +574,9 @@ Sie verlieren keine App-Daten."</string>
     <string name="app_manager_uninstall_notify_title">Selten verwendete Apps deinstallieren</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Deinstallation von System-Apps kann dazu führen, dass einige Systemkomponenten nicht richtig funktionieren. Trotzdem deinstallieren?</string>
     <string name="app_manager_uninstall_protected_dlg_title">System-Apps deinstallieren</string>
-    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Entsprechende Dual Apps werden zusammen mit den App-Daten gelöscht</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_msg">Bei Deinstallation der Dual App werden alle App-Daten gelöscht</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_title">Dual App deinstallieren?</string>
+    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Entsprechende duale Apps werden zusammen mit den App-Daten gelöscht</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">Bei Deinstallation der dualen App werden alle App-Daten gelöscht</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_title">Duale App deinstallieren?</string>
     <string name="app_manager_unstall_application">Deinstallieren</string>
     <string name="app_managere_not_have_app">Leer</string>
     <string name="app_mobile">Mobile Daten</string>
@@ -1209,7 +1209,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="card_main_whatsappclean_title">WhatsApp-Cleaner</string>
     <string name="card_main_xspace_action">Erstellen</string>
     <string name="card_main_xspace_summary">Duale Konten für jede App erstellen</string>
-    <string name="card_main_xspace_title">Dual Apps</string>
+    <string name="card_main_xspace_title">Duale Apps</string>
     <string name="card_tc_failed">Kalibrieren fehlgeschlagen</string>
     <string name="card_uninstall_button_text">Verwalten</string>
     <string name="card_uninstall_summary">Selten verwendete Apps deinstallieren, um Speicherplatz freizugeben</string>
@@ -2300,7 +2300,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_dialog_game_uninstall_deleting">Deinstallieren…</string>
     <string name="gb_dialog_game_uninstall_loading">Spiele laden…</string>
     <string name="gb_dialog_game_uninstall_tips_message">Alle App-Daten werden gelöscht.</string>
-    <string name="gb_dialog_game_uninstall_tips_message_xspace">Alle App-Daten und damit zusammenhängende Dual Apps werden gelöscht.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Alle App-Daten und damit zusammenhängende duale Apps werden gelöscht.</string>
     <string name="gb_dialog_game_uninstall_tips_title">%s deinstallieren</string>
     <string name="gb_dialog_record_way_ai">KI-Aufnahmen werden in der Gamebox gespeichert und dort für 7 Tage aufbewahrt.</string>
     <string name="gb_dialog_record_way_ai_new">KI-Aufnahmen werden in der Gamebox gespeichert und dort für %d Tage aufbewahrt.</string>
@@ -4667,7 +4667,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="privacy_risk_sensitive_second_title">Sie haben sensible Berechtigungen erteilt</string>
     <string name="privacy_risk_sensitive_storage">Apps erlauben, auf Dateien zuzugreifen oder sie zu speichern</string>
     <string name="privacy_risk_sensitive_top_tip">Um Ihre Privatsphäre zu schützen, erteilen Sie sensible Berechtigungen nur, wenn es notwendig ist.</string>
-    <string name="privacy_risk_space_uninstall_dialog_msg">Ausgewählte Apps inkl. deren Dual Apps deinstallieren?</string>
+    <string name="privacy_risk_space_uninstall_dialog_msg">Ausgewählte Apps inkl. deren duale Apps deinstallieren?</string>
     <string name="privacy_risk_uninstall_dialog_msg">Ausgewählte Apps jetzt deinstallieren?</string>
     <string name="privacy_risk_uninstall_title">Apps deinstallieren</string>
     <string name="privacy_risk_work_encryption">Social Media- und Office-Dateien sind nicht geschützt</string>
@@ -5430,9 +5430,9 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="storage_app_manager_uninstall_application">Deinstallieren</string>
     <string name="storage_app_manager_uninstall_protected_dlg_msg">Deinstallation von Systemplugins kann dazu führen, dass einige Funktionen nicht korrekt funktionieren. Trotzdem deinstallieren?</string>
     <string name="storage_app_manager_uninstall_protected_dlg_title">Achtung</string>
-    <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Die Dual App dieser App wird ebenfalls deinstalliert.</string>
+    <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">Die duale App dieser App wird ebenfalls deinstalliert.</string>
     <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Wenn Sie die App deinstallieren, werden auch alle App-Daten gelöscht.</string>
-    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Dual App deinstallieren?</string>
+    <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Duale App deinstallieren?</string>
     <string name="storage_app_public_desc">Belegt %s, inkl. der im gemeinsamen Speicher erzeugten Dateien</string>
     <string name="storage_app_public_title">Geteilte Dateien</string>
     <string name="storage_app_space_details_entry">App-Details anzeigen</string>

@@ -7335,7 +7335,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="search_wifi_wapi_cert_uninstall">WAPI-Zertifikat löschen;WAPI-Zertifikate;WAPI</string>
     <string name="search_wps_connect_title">WPS-Push-Taste;WPS verbinden;WPS</string>
     <string name="search_xiaomi_account">Mi-Konto; Mi-Konto-ID;Konto;Konto ID;Konto-ID;Xiaomi-Konto;Xiaomi-Konto-ID;Mi Konto; Mi Konto ID;Xiaomi Konto;Xiaomi Konto ID</string>
-    <string name="search_xspace">Dual App;Dual Apps;Doppelte App;Doppelte Apps;Geklonte App;Geklonte Apps;Appklone;Zwei Konten;2 Konten</string>
+    <string name="search_xspace">Duale App;Duale Apps;Doppelte App;Doppelte Apps;Geklonte App;Geklonte Apps;Appklone;Zwei Konten;2 Konten</string>
     <string name="second_space">Zweitprofil</string>
     <string name="secondspace_category">Zweitprofil</string>
     <string name="secondspace_delete_space_title">Zweitprofil löschen</string>
@@ -8820,9 +8820,9 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="uninstall_protected_dlg_msg">Deinstallation von System-Apps kann dazu führen, dass einige Systemkomponenten nicht mehr richtig funktionieren. Trotzdem deinstallieren?</string>
     <string name="uninstall_protected_dlg_title">System-Apps deinstallieren</string>
     <string name="uninstall_text">Deinstallieren</string>
-    <string name="uninstall_with_xspace_app_dlg_msg">Entsprechende Dual Apps werden zusammen mit deren Daten entfernt</string>
-    <string name="uninstall_xspace_app_dlg_msg">Deinstallieren von Dual App wird auch deren Daten löschen</string>
-    <string name="uninstall_xspace_app_dlg_title">Dual App deinstallieren?</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">Entsprechende duale Apps werden zusammen mit deren Daten entfernt</string>
+    <string name="uninstall_xspace_app_dlg_msg">Deinstallieren von dualen Apps wird auch deren Daten löschen</string>
+    <string name="uninstall_xspace_app_dlg_title">Duale App deinstallieren?</string>
     <string name="unknown">Unbekannt</string>
     <string name="unknown_error_info">Unbekannter Fehler</string>
     <string name="unlock_change_lock_pin_title">PIN ändern</string>
@@ -10083,7 +10083,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="xiaomi_router_available_notif_title">Mi Router verfügbar</string>
     <string name="xiaomi_router_notif_summary">Benachrichtigen, wenn ein Mi Router verfügbar ist</string>
     <string name="xiaomi_router_notif_title">Mi Router-Benachrichtigung</string>
-    <string name="xspace">Dual Apps</string>
+    <string name="xspace">Duale Apps</string>
     <string name="yes">Ja</string>
     <string name="yesterday">Gestern</string>
     <string name="zen_access_detail_switch">Nicht stören erlauben</string>

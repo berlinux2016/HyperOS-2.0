@@ -1104,7 +1104,7 @@ Die besten Fotos werden automatisch ausgewählt. Du kannst mehr Fotos manuell hi
     <string name="start_debug">Galerie debuggen</string>
     <string name="start_to_use_face_albumset">Nach Personen sortieren</string>
     <string name="stop_use_secret_cancel">Jetzt nicht</string>
-    <string name="storage_description_xspace">Dual App-Daten</string>
+    <string name="storage_description_xspace">Duale App-Daten</string>
     <string name="story_action_share">Teilen</string>
     <string name="story_back_stop_download">Erneut tippen, um Download zu stoppen</string>
     <string name="story_download">Herunterladen</string>
