@@ -16,8 +16,4 @@
         <item>System</item>
         <item>Beides</item>
     </string-array>
-    <string-array name="screenrecorder_settings_storage_location">
-        <item>Interner Speicher</item>
-        <item>Externer Speicher</item>
-    </string-array>
 </resources>
