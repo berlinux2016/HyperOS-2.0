@@ -672,9 +672,9 @@
     <string name="text_btn_wave">Wellen</string>
     <string name="text_finish">Bestätigen</string>
     <string name="text_play_speed_0_5">0.5X Abspielschwindigkeit</string>
-    <string name="text_play_speed_1_0">Normale Abspielgeschwindigkeit</string>
-    <string name="text_play_speed_1_5">1.5X Abspielgeschwindigkeit</string>
-    <string name="text_play_speed_2_0">2X Abspielgeschwindigkeit</string>
+    <string name="text_play_speed_1_0">Normale Wiedergabegeschwindigkeit</string>
+    <string name="text_play_speed_1_5">1.5X Wiedergabegeschwindigkeit</string>
+    <string name="text_play_speed_2_0">2X Wiedergabegeschwindigkeit</string>
     <string name="the_anniversary_of_lifting_martial_law">Jahrestag der Aufhebung des Kriegsrechts</string>
     <string name="the_anti_aggression_day">Antiaggressionstag</string>
     <string name="the_arbor_day">Tag des Baumes</string>
