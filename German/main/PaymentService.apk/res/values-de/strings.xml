@@ -617,7 +617,7 @@
     <string name="passport_next_step">WEITER</string>
     <string name="passport_oauth_actionbar_title">Xiaomi-Konto</string>
     <string name="passport_oauth_sucess_tip">Autorisierung erfolgreich</string>
-    <string name="passport_password_req_notice">Passwort muss 8-16 Zeichen lang sein und mindestens zwei der folgenden Elemente kombinieren: Ziffern, Buchstaben und Sonderzeichen (z. B. 123abc@#, oder 123abc, oder abc@#).</string>
+    <string name="passport_password_req_notice">Passwort muss 8-16 Zeichen lang sein und mindestens zwei der folgenden Elemente enthalten: Ziffern, Buchstaben und Sonderzeichen (z. B. 123abc@#, oder 123abc, oder abc@#).</string>
     <string name="passport_querying_phone_info">Kontodaten abrufen…</string>
     <string name="passport_quick_login_dialog_step2_title">2-Schritt-Verifizierung</string>
     <string name="passport_quick_login_dialog_title">Passwort verifizieren</string>
@@ -680,7 +680,7 @@
     <string name="passport_user_agreement_hint_with_telecom"><Data>Ich habe die Xiaomi-Konto &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%3$s>allgemeinen Geschäftsbedingungen von eSurfing Kontoverifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="passport_user_agreement_hint_with_unicom"><Data>Ich habe die Xiaomi-Konto &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%3$s>allgemeinen Geschäftsbedingungen von China Unicom Verifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="passport_user_agreement_link">&lt;Data>Ich habe die &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> von Xiaomi gelesen akzeptiert.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Ich habe die folgenden Dokumente gelesen und akzeptiert: Xiaomi's &lt;a href=%1$s>Nutzervereinbarung&lt;/a> and &lt;a href=%4$s>Datenschutzerklärung&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link_more">&lt;Data>Ich habe die folgenden Dokumente gelesen und akzeptiert: Xiaomi &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%4$s>Datenschutzerklärung&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_avatar_update_title">Profilbild ändern</string>
     <string name="passport_user_avatar_uploading">Einen Moment…</string>
     <string name="passport_user_id_hint">E-Mail/Rufnummer/Xiaomi-Konto-ID</string>
