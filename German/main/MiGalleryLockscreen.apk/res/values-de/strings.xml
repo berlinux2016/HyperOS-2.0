@@ -596,7 +596,7 @@ dd.MM."</string>
     <string name="passport_error_no_password_user">Sie haben das Passwort noch nicht festgelegt. Mit SMS anmelden.</string>
     <string name="passport_error_phone">Rufnummer ungültig</string>
     <string name="passport_error_server">Serverfehler</string>
-    <string name="passport_error_sms_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. Später erneut versuchen.</string>
+    <string name="passport_error_sms_limit">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. Später erneut versuchen.</string>
     <string name="passport_error_ticket_invalid">Dieser Code ist falsch</string>
     <string name="passport_error_timeout_network_error">Zeitüberschreitung Anfrage</string>
     <string name="passport_error_token_expired">Code abgelaufen. Erneut versuchen.</string>
@@ -610,18 +610,18 @@ dd.MM."</string>
     <string name="passport_facebook_login_btn_content_description">Mit Facebook anmelden</string>
     <string name="passport_frequency_try_later">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
     <string name="passport_get_login_type_next">Weiter</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="passport_google_login_btn_content_description">Mit Google anmelden</string>
     <string name="passport_help">Hilfe</string>
     <string name="passport_i_know">Verstanden</string>
-    <string name="passport_identification_expired">Verifizierungscode abgelaufen. Neu beginnen.</string>
+    <string name="passport_identification_expired">Bestätigungsgscode abgelaufen. Neu beginnen.</string>
     <string name="passport_input_captcha_hint">Code eingeben</string>
     <string name="passport_input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
     <string name="passport_input_password_hint">Passwort eingeben</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
-    <string name="passport_input_vcode_hint">Verifizierungscode eingeben</string>
-    <string name="passport_input_verify_code">Verifizierungscode eingeben</string>
-    <string name="passport_input_voice_captcha_hint">Sprachverifizierungscode eingeben</string>
+    <string name="passport_input_vcode_hint">Bestätigungsgscode eingeben</string>
+    <string name="passport_input_verify_code">Bestätigungsgscode eingeben</string>
+    <string name="passport_input_voice_captcha_hint">SprachBestätigungsgscode eingeben</string>
     <string name="passport_input_voice_hint">Sprachcode eingeben</string>
     <string name="passport_login_by_local_phone_long_text">Jetzt anmelden</string>
     <string name="passport_login_by_local_phone_short_text">Anmelden</string>
@@ -666,7 +666,7 @@ dd.MM."</string>
     <string name="passport_retry">Erneut versuchen</string>
     <string name="passport_same_new_and_old_pwd">Darf nicht identisch mit dem aktuellen Passwort sein</string>
     <string name="passport_send_sms_to">Code an %1$s gesendet</string>
-    <string name="passport_send_too_many_code">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
+    <string name="passport_send_too_many_code">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="passport_sending_vcode">Code senden…</string>
     <string name="passport_service_error">Serverfehler</string>
     <string name="passport_set_password_no_phone_msg">Rufnummer hinzufügen, um Ihr Konto zu schützen</string>
@@ -674,10 +674,10 @@ dd.MM."</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
-    <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>
-    <string name="passport_talkback_voice_captcha">Sprachverifizierungscode abspielen</string>
+    <string name="passport_talkback_image_captcha">BildBestätigungsgscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum BildBestätigungsgscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum SprachBestätigungsgscode wechseln</string>
+    <string name="passport_talkback_voice_captcha">SprachBestätigungsgscode abspielen</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_to_forget_password">Passwort vergessen?</string>
     <string name="passport_to_password_login">Mit Passwort anmelden</string>
@@ -698,7 +698,7 @@ dd.MM."</string>
     <string name="passport_user_id_hint">E-Mail/Rufnummer/Xiaomi-Konto-ID</string>
     <string name="passport_user_name_phone_number">Rufnummer</string>
     <string name="passport_user_password_hint">Passwort</string>
-    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Bestätigungsgscode wird an Ihr Wiederherstellungstelefon gesendet (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Erst WeChat installieren</string>
     <string name="passport_weibo_login_btn_content_description">Mit Weibo anmelden</string>
     <string name="passport_weixin_login_btn_content_description">Mit WeChat anmelden</string>

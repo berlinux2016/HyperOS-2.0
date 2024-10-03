@@ -439,7 +439,7 @@ Wenn die beiden Geräte nicht mit demselben Netzwerk verbunden werden können, a
     <string name="passport_register_restricted">Zu viele Konten mit dieser Nummer verknüpft, versuch eine andere</string>
     <string name="passport_request_camera_permission_message">Wir schützen deine personenbezogenen Daten gemäß den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen deines Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn du solchen Berechtigungen nicht zustimmst, kannst du einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen dir jedoch weiterhin zur Verfügung. Du kannst in den Einstellungen jederzeit die Berechtigungen einschränken oder deine Zustimmung widerrufen.</string>
     <string name="passport_request_error_unknown">Ein Systemfehler ist aufgetreten. Zurückgehen und erneut versuchen.</string>
-    <string name="passport_resend_email_reach_limit_message">Du hast zu viele Bestätigungs-E-Mails angefordert. Prüfe, ob die Bestätigungs-E-Mail nicht in deinem Spam-Ordner ist.</string>
+    <string name="passport_resend_email_reach_limit_message">Du hast zu viele Bestätigungs-E-Mails angefordert. Sieh nach, ob die Bestätigungs-E-Mail nicht in deinem Spam-Ordner ist.</string>
     <string name="passport_retry">Erneut versuchen</string>
     <string name="passport_send_sms_to">Code an %1$s gesendet</string>
     <string name="passport_sending_vcode">Code senden…</string>

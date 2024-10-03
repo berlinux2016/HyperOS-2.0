@@ -17,7 +17,7 @@
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
     <string name="dialog_body_no_network">Mit WLAN verbinden oder mobile Daten einschalten</string>
     <string name="dialog_body_no_network_china">Mit WLAN verbinden oder mobile Daten einschalten</string>
-    <string name="error_camera_unavailable">Prüfe, ob eine andere App gerade die Kamera verwendet</string>
+    <string name="error_camera_unavailable">Sieh nach, ob eine andere App gerade die Kamera verwendet</string>
     <string name="first_using_dialog_message">Kompass benötigt eine Netzwerkverbindung, die Kamera und den Standortservice, um ordnungsgemäß zu funktionieren</string>
     <string name="first_using_dialog_message_no_camera">Kompass benötigt eine Internetverbindung und Zugriff auf Standortdaten, um normal zu funktionieren. Zustimmen?</string>
     <string name="fmt_chinese_date">dd.MM.</string>

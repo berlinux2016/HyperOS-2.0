@@ -162,7 +162,7 @@
     <string name="friday">Freitag</string>
     <string name="friday_short">Fr</string>
     <string name="friday_shortest">F</string>
-    <string name="get_phone_verifycode_exceed_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
+    <string name="get_phone_verifycode_exceed_limit">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="google_login_btn_content_description">Mit Google anmelden</string>
     <string name="guide_update_confirm_dialog_message">Wenn Sie sich entscheiden, Mi AI Translate nicht zu aktualisieren, können Sie auf einige Funktionen nicht zugreifen.</string>
     <string name="guide_update_confirm_dialog_negative_button">Jetzt nicht</string>
@@ -366,7 +366,7 @@
     <string name="passport_empty_password">Passwort darf nicht leer sein</string>
     <string name="passport_error_auth_fail">Sitzung abgelaufen. Erneut anmelden</string>
     <string name="passport_error_device_id">Geräte-ID nicht erhalten</string>
-    <string name="passport_error_dynamic_token_error">Verifizierungscode ist falsch</string>
+    <string name="passport_error_dynamic_token_error">Bestätigungsgscode ist falsch</string>
     <string name="passport_error_email">Eingegebene E-Mail-Adresse ist ungültig</string>
     <string name="passport_error_empty_email">E-Mail-Adresse eingeben</string>
     <string name="passport_error_empty_password">Passwort eingeben</string>
@@ -377,7 +377,7 @@
     <string name="passport_error_no_password_user">Passwort wurde noch nicht festgelegt. Mit SMS anmelden.</string>
     <string name="passport_error_phone">Rufnummer ungültig</string>
     <string name="passport_error_server">Serverfehler</string>
-    <string name="passport_error_sms_limit">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. Später erneut versuchen.</string>
+    <string name="passport_error_sms_limit">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. Später erneut versuchen.</string>
     <string name="passport_error_ticket_invalid">Dieser Code ist falsch</string>
     <string name="passport_error_timeout_network_error">Zeitüberschreitung der Anfrage</string>
     <string name="passport_error_token_expired">Code abgelaufen. Erneut versuchen.</string>
@@ -390,12 +390,12 @@
     <string name="passport_error_user_password">Passwörter stimmen nicht überein</string>
     <string name="passport_get_login_type_next">Weiter</string>
     <string name="passport_header_back">Zurück</string>
-    <string name="passport_identification_expired">Verifizierungscode abgelaufen. Neu beginnen.</string>
+    <string name="passport_identification_expired">Bestätigungsgscode abgelaufen. Neu beginnen.</string>
     <string name="passport_input_captcha_hint">Code eingeben</string>
     <string name="passport_input_password_hint">Passwort eingeben</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
-    <string name="passport_input_verify_code">Verifizierungscode eingeben</string>
-    <string name="passport_input_voice_captcha_hint">Sprachverifizierungscode eingeben</string>
+    <string name="passport_input_verify_code">Bestätigungsgscode eingeben</string>
+    <string name="passport_input_voice_captcha_hint">SprachBestätigungsgscode eingeben</string>
     <string name="passport_input_voice_hint">Sprachcode eingeben</string>
     <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
@@ -415,14 +415,14 @@
     <string name="passport_resend_ticket">Code erneut senden</string>
     <string name="passport_retry">Erneut versuchen</string>
     <string name="passport_send_sms_to">Code an %1$s gesendet</string>
-    <string name="passport_send_too_many_code">Zu viele Verifizierungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
+    <string name="passport_send_too_many_code">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="passport_sending_vcode">Code senden…</string>
     <string name="passport_set_password">Passwort festlegen</string>
     <string name="passport_set_password_no_phone_msg">Rufnummer hinzufügen, um Ihr Konto zu schützen</string>
-    <string name="passport_talkback_image_captcha">Bildverifizierungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zum Bildverifizierungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zum Sprachverifizierungscode wechseln</string>
-    <string name="passport_talkback_voice_captcha">Sprachverifizierungscode abspielen</string>
+    <string name="passport_talkback_image_captcha">BildBestätigungsgscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum BildBestätigungsgscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum SprachBestätigungsgscode wechseln</string>
+    <string name="passport_talkback_voice_captcha">SprachBestätigungsgscode abspielen</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_to_forget_password">Passwort vergessen?</string>
     <string name="passport_to_password_login">Mit Passwort anmelden</string>
@@ -431,7 +431,7 @@
     <string name="passport_user_id_hint">E-Mail/Rufnummer/Xiaomi-Konto-ID</string>
     <string name="passport_user_id_intro">Passwort für %1$s eingeben</string>
     <string name="passport_user_password_hint">Passwort</string>
-    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Verifizierungscode wird an Ihr Wiederherstellungstelefon (&lt;font color=#1F93FF>%s&lt;/font>) gesendet.</string>
+    <string name="passport_vcode_what_app_send_prompt">Ihr WhatsApp-Bestätigungsgscode wird an Ihr Wiederherstellungstelefon (&lt;font color=#1F93FF>%s&lt;/font>) gesendet.</string>
     <string name="passport_wechat_not_install">Erst WeChat installieren</string>
     <string name="passport_wrong_captcha">Eingegebener Code ist falsch</string>
     <string name="passport_wrong_phone_number_format">Format der eingegebenen Rufnummer ist ungültig</string>

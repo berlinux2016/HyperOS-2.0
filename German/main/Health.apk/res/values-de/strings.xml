@@ -821,7 +821,7 @@
     <string name="remind_subtitle_record">Erinnerung erhalten, wenn du Start- und Enddaten deiner Periode erfassen musst</string>
     <string name="remind_time">Erinnern um</string>
     <string name="remind_time_index">Erinnern um (%1$d)</string>
-    <string name="remind_weight_content">Prüfe, wie sich dein Gewicht im Vergleich zum vorherigen Wiegen verändert hat.</string>
+    <string name="remind_weight_content">Sieh nach, wie sich dein Gewicht im Vergleich zum vorherigen Wiegen verändert hat.</string>
     <string name="remind_weight_title">Gewicht</string>
     <string name="remove">Entfernen</string>
     <string name="repeat_mode">Wiederholen</string>

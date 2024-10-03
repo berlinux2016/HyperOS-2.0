@@ -84,7 +84,7 @@
     <string name="account_setup_basics_manual_setup_action">Manuell einrichten</string>
     <string name="account_setup_basics_mi_mail_login_help">Eventuell müssen Sie Ihr Konto per SMS bestätigen, um E-Mails zu erhalten</string>
     <string name="account_setup_basics_password_label">Passwort</string>
-    <string name="account_setup_basics_password_label_authcode">Passwort oder Verifizierungscode eingeben</string>
+    <string name="account_setup_basics_password_label_authcode">Passwort oder Bestätigungsgscode eingeben</string>
     <string name="account_setup_basics_title">Konto hinzufügen</string>
     <string name="account_setup_check_settings_check_incoming_msg">Servereinstellungen prüfen…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">SMTP-Einstellungen prüfen…</string>
@@ -400,14 +400,14 @@
     <string name="error">Fehler</string>
     <string name="error_icon_content_description">Fehler</string>
     <string name="error_message_account_or_password">Konto-ID oder Passwort falsch</string>
-    <string name="error_message_auth_error">Verifizierungscode zum Anmelden verwenden</string>
+    <string name="error_message_auth_error">Bestätigungsgscode zum Anmelden verwenden</string>
     <string name="error_message_blacklist">Ihr Konto wurde zur Sperrliste hinzugefügt. Kontaktieren Sie Ihren E-Mail-Anbieter, um dieses Problem zu lösen.</string>
     <string name="error_message_imap_or_pop3_service_not_open">IMAP oder POP3 einschalten und erneut versuchen.</string>
     <string name="error_message_imap_service_not_open">IMAP einschalten und erneut versuchen.</string>
     <string name="error_message_outlook_error">Zunächst Ihre Identität in der Webversion von Outlook prüfen.</string>
     <string name="error_message_respond_revert_03">Dieser Domainname existiert nicht. URL prüfen und erneut versuchen.</string>
     <string name="error_message_respond_revert_06">Ihr eingegebenes Passwort ist falsch.</string>
-    <string name="error_message_respond_revert_07">Ihre Identität konnte nicht verifiziert werden. Verifizierungscode zum Anmelden verwenden.</string>
+    <string name="error_message_respond_revert_07">Ihre Identität konnte nicht verifiziert werden. Bestätigungsgscode zum Anmelden verwenden.</string>
     <string name="error_message_respond_revert_16">Ihr Passwort ist abgelaufen. Passwort aktualisieren und erneut anmelden.</string>
     <string name="error_message_respond_revert_21">POP3 einschalten und erneut veruchen.</string>
     <string name="error_message_respond_revert_24">Ihre IP-Adresse wurde blockiert. Wenden Sie sich an den Sohu Mail-Kundendienst, um dieses Problem zu beheben.</string>
@@ -767,12 +767,12 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="notify_channel_permission_notice">Berechtigungen erforderlich</string>
     <string name="notify_channel_send_fail">Bei fehlerhafter Sendung informieren</string>
     <string name="notify_channel_service">Bei Hintergrundsynchronisation informieren</string>
-    <string name="ntes_authorization_code_to_login">Mit diesem Verifizierungscode anmelden</string>
+    <string name="ntes_authorization_code_to_login">Mit diesem Bestätigungsgscode anmelden</string>
     <string name="ntes_copy_and_login">Kopieren und anmelden</string>
     <string name="ntes_do_not_sms_uplink">Senden Sie eine SMS von der zugehörigen Rufnummer und tippen Sie dann auf \"Nachricht gesendet\."</string>
     <string name="ntes_had_send">Nachricht gesendet</string>
     <string name="ntes_had_send_to_content">Wenn Sie bereits eine SMS von der zugehörigen Rufnummer gesendet haben, tippen Sie auf \"Nachricht gesendet\", um fortzufahren.</string>
-    <string name="ntes_login_auth_too_much">Mehr als 5 Verifizierungscodes können nicht hinzugefügt werden. Melden Sie sich auf einem Computer an Ihrem Posteingang an und löschen Sie nichtverwendete Codes.</string>
+    <string name="ntes_login_auth_too_much">Mehr als 5 Bestätigungsgscodes können nicht hinzugefügt werden. Melden Sie sich auf einem Computer an Ihrem Posteingang an und löschen Sie nichtverwendete Codes.</string>
     <string name="ntes_login_error_message" formatted="false">Keine Kontodaten erhalten (Fehler %s). %s.</string>
     <string name="ntes_password_error_hint">Wenn bei der Eingabe Ihres Passworts Fehler auftreten, schließen Sie diese Seite und öffnen Sie sie erneut.</string>
     <string name="ntes_phone_send">Textnachricht von der zugehörigen Rufnummer senden</string>
@@ -894,7 +894,7 @@ Dieses Problem wird evtl. durch die Zwei-Faktor-Authentisierung des Kontos verur
     <string name="qq_authorization_help_get">Code erhalten</string>
     <string name="qq_authorization_tips">Nicht mehr anzeigen</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Erfolgreich kopiert. Gehen Sie zurück zur Anmeldeseite und fügen Sie den Code in das Passwortformular ein.</string>
-    <string name="qq_auto_login_failed_dialog_message">Bitte kopieren Sie den Verifizierungscode, tippen Sie auf \"Geben Sie Benutzername und Passwort ein, um sich einzuloggen.\" auf der Anmeldeseite und fügen Sie den Code in das Passwortformular ein.</string>
+    <string name="qq_auto_login_failed_dialog_message">Bitte kopieren Sie den Bestätigungsgscode, tippen Sie auf \"Geben Sie Benutzername und Passwort ein, um sich einzuloggen.\" auf der Anmeldeseite und fügen Sie den Code in das Passwortformular ein.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Code kopieren</string>
     <string name="qq_bar_open_imap">Hilfe</string>
     <string name="qq_bar_send_message">SMS senden</string>
@@ -1165,7 +1165,7 @@ oder sehen Sie sich sie auf Ihrem Computer an."</string>
     <string name="user_privacy_settings_title">Mi Mail Datenschutzrechterinnerung</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>
-    <string name="verify_code">Verifizierungscode</string>
+    <string name="verify_code">Bestätigungsgscode</string>
     <string name="wait_for_manual_sync_body">"Für dieses Konto ist keine automatische Synchronisation eingerichtet.
 Tippen Sie auf "<b>Jetzt synchronisieren</b>, um Ihre E-Mails einmalig zu synchronisieren oder <b>Synchronisationseinstellungen ändern</b>, um dieses Konto automatisch zu synchronisieren."</string>
     <string name="wait_for_sync_title">Auf Synchronisation warten</string>

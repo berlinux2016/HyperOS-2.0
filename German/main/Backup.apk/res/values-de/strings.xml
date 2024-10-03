@@ -291,7 +291,7 @@
     <string name="start_backup">Sichern</string>
     <string name="state_mounting">Zugriff auf Routerspeicher…</string>
     <string name="summary_err_backup_encrypting">Am Xiaomi-Konto anmelden</string>
-    <string name="summary_err_restore_encrypting">Wiederherstellen fehlgeschlagen. Prüfe, ob diese Sicherung mit deinem Xiaomi-Konto erstellt wurde.</string>
+    <string name="summary_err_restore_encrypting">Wiederherstellen fehlgeschlagen. Sieh nach, ob diese Sicherung mit deinem Xiaomi-Konto erstellt wurde.</string>
     <string name="summary_err_restore_no_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="sunday_shortest">S</string>
     <string name="system_backup_info">Systemeinstellungen und Startbildschirm-Layout</string>
