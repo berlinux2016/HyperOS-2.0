@@ -660,7 +660,7 @@ Wenn du alle Daten gelöscht hast, wird die App beendet. Diese Daten werden daue
     <string name="passport_error_sms_limit">Zu viele Bestätigungscodes wurden an diese Nummer gesendet. Später erneut versuchen.</string>
     <string name="passport_exceed_binded_phone_times_notice">Diese Rufnummer ist bereits mit einem anderen Xiaomi-Konto verbunden.</string>
     <string name="passport_frequency_try_later">Zu viele Versuche. Etwas warten und erneut versuchen.</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">Zu viele Bestätigungsgscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Zu viele Bestätigungscodes wurden an diese Nummer gesendet. 24 Stunden warten und erneut versuchen.</string>
     <string name="passport_input_email_address_notice">Wir werden diese E-Mail zur Verifizierung deines Kontos verwenden</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
     <string name="passport_login_other">Anderes Xiaomi-Konto</string>

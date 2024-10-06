@@ -283,7 +283,7 @@
     <string name="pcl_header_text_less_than_half">Zu klein. Etwas weiter ziehen.</string>
     <string name="pcl_install_app_message">%s versucht, eine App zu installieren</string>
     <string name="pcl_need_to_unlock_wrong">Passwörter stimmen nicht überein. Erneut versuchen.</string>
-    <string name="pcl_net_code_frequently">Zu viele Bestätigungsgscode-Anfragen</string>
+    <string name="pcl_net_code_frequently">Zu viele Bestätigungscode-Anfragen</string>
     <string name="pcl_net_code_verify_fail">E-Mail-Adresse verifizieren fehlgeschlagen</string>
     <string name="pcl_net_time_error">Systemzeitfehler. Standardzeit für deine Standort verwenden.</string>
     <string name="pcl_not_add_account"><u>Jetzt nicht</u></string>
