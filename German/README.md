@@ -1,6 +1,6 @@
 ## Regular updates
 
-All phrases are copied and then translated from the English base repository [ingbrzy/Xiaomi.eu-HyperOS-1.0-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-HyperOS-1.0-XML-Compare).
+All phrases are copied and then translated from the English base repository [ingbrzy/Xiaomi.eu-HyperOS-2.0-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-HyperOS-2.0-XML-Compare).
 
 ## Automated XML Validation
 
