@@ -686,8 +686,8 @@ Auf die Kamerataste tippen, um zu sehen, ob die Kamera einfährt."</string>
     <string name="receiver_on_off_tips">Empfänger Ein/Aus-Schalter</string>
     <string name="remove_finger">Testfinger entfernen</string>
     <string name="sar_algo_data_check_description">SAR Algo Datenerfassung</string>
-    <string name="sar_authentation_test_title">SAR-Authentisierungstest</string>
-    <string name="sar_mtk_test_title">SAR MTK Authentisierungstest</string>
+    <string name="sar_authentation_test_title">SAR-Authentifizierungstest</string>
+    <string name="sar_mtk_test_title">SAR MTK Authentifizierungstest</string>
     <string name="sar_off">SAR Aus</string>
     <string name="sar_on">SAR Ein</string>
     <string name="sar_sensor_calibrate_fail">Kalibrierung SAR-Sensor fehlgeschlagen</string>

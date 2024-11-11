@@ -1,61 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_mode_done">Fertig</string>
-    <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">AN</string>
-    <string name="abc_search_hint">Suchen…</string>
-    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
-    <string name="abc_searchview_description_search">Suchen</string>
-    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
-    <string name="abc_searchview_description_voice">Sprachsuche</string>
-    <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="add">Hinzufügen</string>
-    <string name="allow">Erlauben</string>
-    <string name="app_label">Medienspeicher</string>
-    <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
     <string name="bottomsheet_drag_handle_content_description">Ziehgriff</string>
-    <string name="cache_clearing_dialog_text">%s würde gerne einige temporäre Dateien löschen. Dies kann zu einer erhöhten Nutzung des Akkus oder der Mobilfunkdaten führen.</string>
-    <string name="cache_clearing_dialog_title">Temporäre App-Dateien löschen</string>
     <string name="cache_clearing_in_progress_title">Temporäre App-Dateien löschen…</string>
-    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
     <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
-    <string name="chip_text">Chiptext</string>
-    <string name="clear">Löschen</string>
-    <string name="clear_text_end_icon_content_description">Text löschen</string>
-    <string name="copy">Kopieren</string>
     <string name="deny">Verweigern</string>
     <string name="deselect">Abwählen</string>
     <string name="deselected">Abgewählt</string>
     <string name="error_a11y_label">Fehler: ungültig</string>
-    <string name="error_icon_content_description">Fehler</string>
     <string name="exo_controls_play_description">Abspielen</string>
-    <string name="exo_track_selection_auto">Automatisch</string>
-    <string name="exo_track_selection_none">Ohne</string>
-    <string name="expand_button_title">Erweitert</string>
     <string name="exposed_dropdown_menu_content_description">Dropdown-Menü anzeigen</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
-    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
     <string name="mtrl_picker_a11y_next_month">Zum Folgemonat wechseln</string>
     <string name="mtrl_picker_a11y_prev_month">Zum Vormonat wechseln</string>
-    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
-    <string name="mtrl_picker_cancel">Abbrechen</string>
     <string name="mtrl_picker_day_of_week_column_header">Tagesspalte: %1$s</string>
     <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s navigieren</string>
-    <string name="mtrl_picker_save">Speichern</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Zum Kalendereingabemodus wechseln</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Zum Texteingabemodus wechseln</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
-    <string name="not_selected">Nicht gewählt</string>
-    <string name="not_set">Nicht festgelegt</string>
-    <string name="password_toggle_content_description">Passwort anzeigen</string>
-    <string name="permission_delete_audio">{count, plural, =1 {^1 erlauben, diese Audiodatei zu löschen?} other {^1 erlauben, ^2 Audiodateien zu löschen?} }</string>
-    <string name="permission_delete_generic">{count, plural, =1 {^1 erlauben, dieses Element zu löschen?} other {^1 erlauben, ^2 Elemente zu löschen?} }</string>
-    <string name="permission_delete_image">{count, plural, =1 {^1 erlauben, dieses Foto zu löschen?} other {^1 erlauben, ^2 Fotos zu löschen?} }</string>
-    <string name="permission_delete_video">{count, plural, =1 {^1 erlauben, dieses Video zu löschen?} other {^1 erlauben, ^2 Videos zu löschen?} }</string>
-    <string name="permission_more_text">{count, plural, =1 {Plus ^1 zusätzliches Element} other {Plus ^1 zusätzliche Elemente} }</string>
-    <string name="permission_progress_delete_audio">{count, plural, =1 {Audiodatei löschen…} other {Löschen von ^1 Audiodateien…} }</string>
+    <string name="permission_more_text">{count, plural, =1 {Plus ^1 weiteres Element} other {Plus ^1 weitere Elemente} }</string>
+    <string name="permission_progress_delete_audio">{count, plural, =1 {Audiodatei löschen…} other {^1 Audiodateien löschen…} }</string>
     <string name="permission_progress_delete_generic">{count, plural, =1 {Element löschen…} other {^1 Elemente löschen…} }</string>
     <string name="permission_progress_delete_image">{count, plural, =1 {Foto löschen…} other {^1 Fotos löschen…} }</string>
     <string name="permission_progress_delete_video">{count, plural, =1 {Video löschen…} other {^1 Videos löschen…} }</string>
@@ -72,94 +34,44 @@
     <string name="permission_progress_write_image">{count, plural, =1 {Foto ändern…} other {^1 Fotos ändern…} }</string>
     <string name="permission_progress_write_video">{count, plural, =1 {Video ändern…} other {^1 Videos ändern…} }</string>
     <string name="permission_required">Berechtigung zum Ändern oder Löschen dieses Elements erforderlich</string>
-    <string name="permission_required_action">Fortfahren</string>
-    <string name="permission_trash_audio">{count, plural, =1 {^1 erlauben, diese Audiodatei in den Papierkorb zu verschieben?} other {^1 erlauben, ^2 Audiodateien in den Papierkorb zu verschieben?} }</string>
-    <string name="permission_trash_generic">{count, plural, =1 {^1 erlauben, dieses Element in den Papierkorb zu verschieben?} other {^1 erlauben, ^2 Elemente in den Papierkorb zu verschieben?} }</string>
-    <string name="permission_trash_image">{count, plural, =1 {^1 erlauben, dieses Foto in den Papierkorb zu verschieben?} other {^1 erlauben, ^2 Fotos in den Papierkorb zu verschieben?} }</string>
-    <string name="permission_trash_video">{count, plural, =1 {^1 erlauben, dieses Video in den Papierkorb zu verschieben?} other {^1 erlauben, ^2 Videos in den Papierkorb zu verschieben?} }</string>
-    <string name="permission_untrash_audio">{count, plural, =1 {^1 erlauben, diese Audiodatei aus dem Papierkorb zu verschieben?} other {^1 erlauben, ^2 Audiodateien aus dem Papierkorb zu verschieben?} }</string>
-    <string name="permission_untrash_generic">{count, plural, =1 {^1 erlauben, dieses Element aus dem Papierkorb zu verschieben?} other {^1 erlauben, ^2 Elemente aus dem Papierkorb zu verschieben?} }</string>
-    <string name="permission_untrash_image">{count, plural, =1 {^1 erlauben, dieses Foto aus dem Papierkorb zu verschieben?} other {^1 erlauben, ^2 Fotos aus dem Papierkorb zu verschieben?} }</string>
-    <string name="permission_untrash_video">{count, plural, =1 {^1 erlauben, dieses Video aus dem Papierkorb zu verschieben?} other {^1 erlauben, ^2 Videos aus dem Papierkorb zu verschieben?} }</string>
-    <string name="permission_write_audio">{count, plural, =1 {^1 erlauben, diese Audiodatei zu ändern?} other {^1 erlauben, ^2 Audiodateien zu ändern?} }</string>
-    <string name="permission_write_generic">{count, plural, =1 {^1 erlauben, dieses Element zu ändern?} other {^1 erlauben, ^2 Elemente zu ändern?} }</string>
-    <string name="permission_write_image">{count, plural, =1 {^1 erlauben, dieses Foto zu ändern?} other {^1 erlauben, ^2 Fotos zu ändern?} }</string>
-    <string name="permission_write_video">{count, plural, =1 {^1 erlauben, dieses Video zu ändern?} other {^1 erlauben, ^2 Videos zu ändern?} }</string>
-    <string name="picker_add_button_multi_select">Hinzufügen (^1)</string>
-    <string name="picker_add_button_multi_select_permissions">Erlauben (^1)</string>
-    <string name="picker_album_item_count">{count, plural, =1 {^1 Element} other {^1 Elemente} }</string>
-    <string name="picker_album_media_empty_message">Keine unterstützten Fotos oder Videos</string>
-    <string name="picker_albums">Alben</string>
-    <string name="picker_albums_empty_message">Kein Alben</string>
-    <string name="picker_app_label">Medien</string>
     <string name="picker_banner_cloud_account_changed_desc">Fotos von %1$s sind jetzt hier enthalten</string>
-    <string name="picker_banner_cloud_account_changed_title">%1$s-Konto aktualisiert</string>
-    <string name="picker_banner_cloud_choose_account_desc">Um Fotos von %1$s hier einzubinden, wählen Sie ein Konto in der App</string>
-    <string name="picker_banner_cloud_choose_account_title">%1$s-Konto wählen</string>
-    <string name="picker_banner_cloud_choose_app_button">App wählen</string>
-    <string name="picker_banner_cloud_choose_app_desc">Um gesicherte Fotos hier einzuschließen, wählen Sie eine App für Cloud-Medien in den Einstellungen</string>.
-    <string name="picker_banner_cloud_choose_app_title">Cloud-Medien-App wählen</string>
-    <string name="picker_banner_cloud_dismiss_button">Ablehnen</string>
-    <string name="picker_banner_cloud_first_time_available_desc">Sie können Fotos vom %1$s-Konto %2$s wählen</string>
+    <string name="picker_banner_cloud_choose_account_desc">Um Fotos von %1$s hier einzubinden, wähle ein Konto in der App</string>
+    <string name="picker_banner_cloud_choose_app_desc">Um gesicherte Fotos hier einzuschließen, wähle eine App für Cloud-Medien in den Einstellungen</string>.
+    <string name="picker_banner_cloud_dismiss_button">Verwerfen</string>
     <string name="picker_banner_cloud_first_time_available_title">Gesicherte Fotos jetzt enthalten</string>
-    <string name="picker_browse">Durchsuchen…</string>
-    <string name="picker_category_camera">Kamera</string>
-    <string name="picker_category_favorites">Favoriten</string>
     <string name="picker_cloud_sync">Cloud-Medien von %1$s jetzt verfügbar</string>
     <string name="picker_error_dialog_body">Internetverbindung prüfen und erneut versuchen</string>
-    <string name="picker_error_dialog_positive_action">Wiederholen</string>
-    <string name="picker_error_dialog_title">Probleme beim Abspielen des Videos</string>
     <string name="picker_error_snackbar">Video kann nicht abgespielt werden</string>
     <string name="picker_header_permissions">Elemente wählen, um den Zugriff zu erlauben</string>
     <string name="picker_item_content_desc">%1$s aufgenommen am %2$s</string>
     <string name="picker_motion_photo">Bewegungsfoto</string>
     <string name="picker_motion_photo_text">Bewegungsfoto</string>
-    <string name="picker_mute_video">Video stummschalten</string>
     <string name="picker_personal_profile">Zu privat wechseln</string>
-    <string name="picker_photo">Foto</string>
-    <string name="picker_photos">Fotos</string>
-    <string name="picker_photos_empty_message">Keine Fotos oder Videos</string>
     <string name="picker_play_video">Abspielen</string>
-    <string name="picker_preview">Vorschau</string>
-    <string name="picker_privacy_message">Diese App kann nur auf von Ihnen ausgewählte Fotos zugreifen</string>
+    <string name="picker_privacy_message">Diese App kann nur auf von dir ausgewählte Fotos zugreifen</string>
     <string name="picker_profile_admin_msg_from_personal">Zugriff auf Arbeitsdaten von einer privaten App ist nicht erlaubt</string>
     <string name="picker_profile_admin_msg_from_work">Zugriff auf private Daten über eine Arbeits-App ist nicht erlaubt</string>
-    <string name="picker_profile_admin_title">Von Ihrem Admin blockiert</string>
+    <string name="picker_profile_admin_title">Von deinem Admin blockiert</string>
     <string name="picker_profile_work_paused_msg">Um Arbeitsfotos zu öffnen, Arbeits-Apps einschalten und erneut versuchen</string>
     <string name="picker_profile_work_paused_title">Arbeits-Apps werden angehalten</string>
     <string name="picker_settings">Cloud-Medien-App</string>
-    <string name="picker_settings_description">Auf Ihre Cloud-Medien zugreifen, wenn eine App oder Webseite Sie auffordert, Fotos oder Videos auszuwählen</string>
+    <string name="picker_settings_description">Auf deine Cloud-Medien zugreifen, wenn eine App oder Webseite dich auffordert, Fotos oder Videos auszuwählen</string>
     <string name="picker_settings_no_provider">Nichts</string>
     <string name="picker_settings_selection_message">Zugriff auf Cloud-Medien von</string>
     <string name="picker_settings_system_settings_menu_title">Cloud-Medien-App</string>
     <string name="picker_settings_title">Cloud-Medien-App</string>
     <string name="picker_settings_toast_error">Cloud-Medien-App kann derzeit nicht geändert werden.</string>
     <string name="picker_unmute_video">Videostummschaltung aufheben</string>
-    <string name="picker_video_item_content_desc">Video aufgenommen am %1$s mit einer Dauer von %2$s</string>
-    <string name="picker_view_selected">Gewähltes anzeigen</string>
+    <string name="picker_video_item_content_desc">Video aufgenommen am %1$s, Dauer %2$s</string>
+    <string name="picker_view_selected">Auswahl anzeigen</string>
     <string name="picker_work_profile">Zur Arbeit umschalten</string>
-    <string name="preference_copied">\"%1$s\" in Zwischenablage kopiert</string>
-    <string name="preloading_progress_message">%1$d von %2$d fertig</string>
     <string name="recent">Zuletzt</string>
-    <string name="root_documents">Dokumente</string>
-    <string name="root_images">Bilder</string>
     <string name="safety_protection_icon_label">Sicherheitsschutz</string>
-    <string name="select">Wählen</string>
     <string name="select_up_to">{count, plural, =1 {Bis zu ^1 Element auswählen} other {Bis zu ^1 Elemente auswählen} }</string>
-    <string name="selected">Gewählt</string>
-    <string name="settings_label">Einstellungen</string>
-    <string name="settingslib_category_personal">Privat</string>
     <string name="settingslib_category_work">Arbeit</string>
-    <string name="storage_description">Lokaler Speicher</string>
-    <string name="transcode_alert_channel">Native Transcode-Warnungen</string>
+    <string name="transcode_alert_channel">Nativer Transcode-Warnungen</string>
     <string name="transcode_denied">%s kann keine Mediendateien verarbeiten</string>
     <string name="transcode_processing">Medien verarbeiten…</string>
-    <string name="transcode_processing_cancelled">Medienverarbeitung abgebrochen</string>
     <string name="transcode_processing_error">Fehler Medienverarbeitung</string>
-    <string name="transcode_processing_started">Medienverarbeitung gestartet</string>
-    <string name="transcode_processing_success">Medienverarbeitung erfolgreich</string>
     <string name="transcode_progress_channel">Nativer Transcode-Fortschritt</string>
-    <string name="unknown">Unbekannt</string>
-    <string name="v7_preference_off">AUS</string>
-    <string name="v7_preference_on">AN</string>
 </resources>

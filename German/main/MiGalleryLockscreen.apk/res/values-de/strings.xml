@@ -48,7 +48,7 @@
     <string name="add_first_cw_toast2">Einige ausgewählte Hintergründe erfolgreich hinzugefügt</string>
     <string name="add_first_cw_toast3">Hintergründe erfolgreich hinzugefügt.</string>
     <string name="add_first_cw_toast4">Hintergrundkarussell ist an. Ihre ausgewählten Hintergründe werden angezeigt.</string>
-    <string name="add_launch_hint_text">Verknüpfung zum Startbildschirm hinzufügen</string>
+    <string name="add_launch_hint_text">Startbildschirm-Verknüpfung hinzufügen</string>
     <string name="add_local_picture">Galerie</string>
     <string name="add_online_picture">Online-Bilder</string>
     <string name="add_to_cw">Zur eigenen Diashow hinzufügen</string>
@@ -621,7 +621,7 @@ dd.MM."</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
     <string name="passport_input_vcode_hint">Bestätigungscode eingeben</string>
     <string name="passport_input_verify_code">Bestätigungscode eingeben</string>
-    <string name="passport_input_voice_captcha_hint">SprachBestätigungscode eingeben</string>
+    <string name="passport_input_voice_captcha_hint">Sprachbestätigungscode eingeben</string>
     <string name="passport_input_voice_hint">Sprachcode eingeben</string>
     <string name="passport_login_by_local_phone_long_text">Jetzt anmelden</string>
     <string name="passport_login_by_local_phone_short_text">Anmelden</string>
@@ -660,7 +660,7 @@ dd.MM."</string>
     <string name="passport_request_error_network">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_request_error_unknown">Ein Systemfehler ist aufgetreten. Zurückgehen und erneut versuchen.</string>
     <string name="passport_request_gallery_permission_message">Zugriff auf Galerie zulassen:&lt;br />Für die Einstellung von Profilfotos</string>
-    <string name="passport_resend_email_reach_limit_message">Sie haben zu viele Verifizierungs-E-Mails angefordert. Prüfen Sie, ob die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs ist.</string>
+    <string name="passport_resend_email_reach_limit_message">Sie haben zu viele Bestätigungs-E-Mails angefordert. Prüfen Sie, ob die Bestätigungs-E-Mail nicht im Spam-Ordner Ihres Posteingangs ist.</string>
     <string name="passport_resend_email_reach_limit_title">Zu viele Versuche</string>
     <string name="passport_resend_ticket">Code erneut senden</string>
     <string name="passport_retry">Erneut versuchen</string>
@@ -674,10 +674,10 @@ dd.MM."</string>
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
-    <string name="passport_talkback_image_captcha">BildBestätigungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zum BildBestätigungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zum SprachBestätigungscode wechseln</string>
-    <string name="passport_talkback_voice_captcha">SprachBestätigungscode abspielen</string>
+    <string name="passport_talkback_image_captcha">Bildbestätigungscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum Bildbestätigungscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum Sprachbestätigungscode wechseln</string>
+    <string name="passport_talkback_voice_captcha">Sprachbestätigungscode abspielen</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_to_forget_password">Passwort vergessen?</string>
     <string name="passport_to_password_login">Mit Passwort anmelden</string>
@@ -890,7 +890,7 @@ dd.MM."</string>
     <string name="sst_selected_tip">Aktuell</string>
     <string name="sst_shield_tag_desc">Blockierte Kategorien verwalten</string>
     <string name="sst_shield_tag_title">Blockierte Elemente</string>
-    <string name="sst_show_lockscreen_entry_desc">Verknüpfung am Sperrbildschirm anzeigen</string>
+    <string name="sst_show_lockscreen_entry_desc">Sperrbildschirm-Verknüpfung anzeigen</string>
     <string name="sst_show_lockscreen_entry_title">Sperrbildschirm-Verknüpfung</string>
     <string name="sst_sliding_checkbox_checked">An</string>
     <string name="sst_sliding_checkbox_unchecked">Aus</string>
@@ -1037,7 +1037,7 @@ dd.MM."</string>
     <string name="uninstall_introduction_text_title">Über Hintergrundkarussell</string>
     <string name="uninstall_warning_text_desc">Ohne Hintergrundkarussell erhalten Sie nicht regelmäßig neue Sperrbildschirmhintergründe. Sie können die App jedoch erneut herunterladen und installieren. Hintergrundkarussell löschen?</string>
     <string name="uninstall_warning_text_title">Hintergrundkarussell löschen</string>
-    <string name="user_ac_click_to_login">Tippen zum Anmelden</string>
+    <string name="user_ac_click_to_login">Zum Anmelden tippen</string>
     <string name="user_ac_not_login">Nicht angemeldet</string>
     <string name="v7_preference_off">AUS</string>
     <string name="v7_preference_on">AN</string>

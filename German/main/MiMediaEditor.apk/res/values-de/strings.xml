@@ -145,7 +145,7 @@
     <string name="grant_permission_text">Galerie-Editor benötigt folgende Berechtigungen, um normal zu arbeiten: %s.</string>
     <string name="grant_permission_write_clipboard">Erlaube dieser App den Zugriff auf die Zwischenablage, um Elemente kopieren zu können.</string>
     <string name="help">Gerät wurde nicht gefunden?</string>
-    <string name="help_content">Falls du das benötigte Gerät nicht findest, bitte die andere Person, Mi Share einzuschalten.</string>
+    <string name="help_content">Falls du das benötigte Gerät nicht findest, bitte die andere Person, Xiaomi Share einzuschalten.</string>
     <string name="icon_content_description">Dialogsymbol</string>
     <string name="id_photo_download">Herunterladen</string>
     <string name="id_photo_download_failed_for_notwork">Herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
@@ -291,7 +291,7 @@ Behalte das ursprüngliche Seitenverhältnis bei, wähle dein eigenes oder lass 
     <string name="photo_editor_remover2_download_failed">Al Erase 2.0 wurde nicht heruntergeladen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="photo_editor_remover2_download_failed_msg">Herunterladen fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_msg">Du bist anscheinend nicht mit WLAN verbunden. Willst du %1$d MB mobile Daten nutzen, um Al Erase 2.0 herunterzuladen?</string>
-    <string name="photo_editor_remover2_download_with_metered_network_msg">Dein Gerät scheint mit einem kostenpflichtigen Netzwerk verbunden zu sein. Jetzt Elemente herunterzuladen kann zu weiteren Gebühren führen. Trotzdem herunterladen?</string>
+    <string name="photo_editor_remover2_download_with_metered_network_msg">Dein Gerät scheint mit einem kostenpflichtigen Netzwerk verbunden zu sein. Jetzt Elemente herunterzuladen kann zu weiteren Kosten führen. Trotzdem herunterladen?</string>
     <string name="photo_editor_remover2_edit_type_people">Personen entfernen</string>
     <string name="photo_editor_remover2_no_people_to_remover">Personen können hier nicht gelöscht werden</string>
     <string name="photo_editor_remover2_people_removering">Personen löschen…</string>
@@ -318,7 +318,7 @@ Tippe zum Verwenden auf Pro."</string>
     <string name="photo_editor_talkback_undo">Rückgängig</string>
     <string name="photo_font_download">Herunterladen</string>
     <string name="photo_font_download_failed_for_notwork">Herunterladen fehlgeschlagen. Mit Netzwerk verbinden und erneut versuchen.</string>
-    <string name="photo_font_download_without_wifi_msg">Die Verwendung einer mobilen Datenverbindung zum Herunterladen von Dateien wird deine Datennutzung erhöhen. Wenn du das Datenlimit deines Tarifs überschreitest, könnte dein Anbieter dir zusätzliche Gebühren berechnen.</string>
+    <string name="photo_font_download_without_wifi_msg">Die Verwendung einer mobilen Datenverbindung zum Herunterladen von Dateien wird deine Datennutzung erhöhen. Wenn du das Datenlimit deines Tarifs überschreitest, könnte dein Anbieter dir zusätzliche Kosten berechnen.</string>
     <string name="photo_portrait_color_download_fail">Herunterladen fehlgeschlagen. Mit Netzwerk verbinden und erneut versuchen.</string>
     <string name="photo_portrait_download_sdk_without_wifi_msg">Dein Gerät ist anscheinend nicht mit WLAN verbunden. Du kannst Filter über mobile Daten herunterladen (%1$d MB).</string>
     <string name="photo_print_menu_loading">Plugin laden…</string>

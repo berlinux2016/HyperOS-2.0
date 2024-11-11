@@ -1083,7 +1083,7 @@ Entscheide, ob du schärfere Details oder eine geringere Schärfe für ein feine
     <string name="saturday_shortest">S</string>
     <string name="scan_install_prompt_loading">Scanner installieren…</string>
     <string name="scan_install_prompt_message">Scanner installieren und erneut versuchen.</string>
-    <string name="screen_on_proximity_sensor_hint">Zum Deaktivieren der Funktion die Tasten Lautstärke hoch und Zurück gleichzeitig drücken</string>
+    <string name="screen_on_proximity_sensor_hint">Zum Deaktivieren der Funktion die Lauter-Taste und Zurück gleichzeitig drücken</string>
     <string name="screen_on_proximity_sensor_summary">Decke den Kopfhörerbereich nicht ab</string>
     <string name="sdsr_capture_reprocess_toast">Verarbeitung Ultra-Zoom…</string>
     <string name="search_settings">Kameraeinstellungen;Qualität;Bildqualität;Aufnahmeort;Bildort;Gesichtserkennung;Kameraton</string>

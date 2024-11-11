@@ -489,9 +489,9 @@
     <string name="mx_activate_status_desc_prepare_sending_sms">Aktivierungsnachricht senden…</string>
     <string name="mx_activate_status_desc_query_activte_info">SIM-Karteninfos prüfen…</string>
     <string name="mx_auto_resend_mms">Als MMS senden</string>
-    <string name="mx_auto_resend_mms_summary">Senden Sie Multimedia-Nachrichten als MMS über eine mobile Datenverbindung, wenn Sie nicht mit WLAN verbunden sind. Dabei fallen reguläre Gebühren Ihres Anbieters an.</string>
+    <string name="mx_auto_resend_mms_summary">Senden Sie Multimedia-Nachrichten als MMS über eine mobile Datenverbindung, wenn Sie nicht mit WLAN verbunden sind. Dabei fallen reguläre Kosten Ihres Anbieters an.</string>
     <string name="mx_auto_resend_sms">Als SMS senden</string>
-    <string name="mx_auto_resend_sms_summary">Senden Sie Nachrichten als SMS über eine mobile Datenverbindung, wenn Sie nicht mit WLAN verbunden sind. Dabei fallen reguläre Gebühren Ihres Anbieters an.</string>
+    <string name="mx_auto_resend_sms_summary">Senden Sie Nachrichten als SMS über eine mobile Datenverbindung, wenn Sie nicht mit WLAN verbunden sind. Dabei fallen reguläre Kosten Ihres Anbieters an.</string>
     <string name="mx_btn_enable_now">Aktivieren</string>
     <string name="mx_count_dspt">Sie haben %1$d SMS und %2$d MMS kostenlos gesendet</string>
     <string name="mx_current_status">Einstellungen</string>
@@ -616,7 +616,7 @@
     <string name="pref_summary_privacy_authority">Diesen Schalter betätigen, um die Berechtigung zu erteilen oder zu widerrufen</string>
     <string name="pref_summary_send_delivery_reports">Zustellbestätigung an den Absender senden, wenn Sie eine MMS erhalten</string>
     <string name="pref_summary_switch_aim_card">Nachrichten, die Videos, Bilder und komplexe Formatierungen enthalten, als Karten anzeigen</string>
-    <string name="pref_summary_voice_report">Einschalten, um Nachrichten beim Empfang laut vorzulesen. Lautstärke runter-Taste oder Power-Taste drücken, um die Wiedergabe zu stoppen.</string>
+    <string name="pref_summary_voice_report">Einschalten, um Nachrichten beim Empfang laut vorzulesen. Leiser-Taste oder Power-Taste drücken, um die Wiedergabe zu stoppen.</string>
     <string name="pref_summary_voice_report_disable">Mi AI Speech Engine installieren, um diese Funktion zu nutzen</string>
     <string name="pref_switch_sdk_setting">Smart SMS-Dienstanbieter ändern</string>
     <string name="pref_title_allow_si_sl_push">WAP-Push-Mitteilungen erlauben (SI/SL)</string>

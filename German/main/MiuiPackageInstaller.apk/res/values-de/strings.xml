@@ -578,7 +578,7 @@
     <string name="passport_input_password_hint">Passwort eingeben</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
     <string name="passport_input_verify_code">Bestätigungscode eingeben</string>
-    <string name="passport_input_voice_captcha_hint">SprachBestätigungscode eingeben</string>
+    <string name="passport_input_voice_captcha_hint">Sprachbestätigungscode eingeben</string>
     <string name="passport_input_voice_hint">Sprachcode eingeben</string>
     <string name="passport_login_by_local_phone_long_text">Jetzt anmelden</string>
     <string name="passport_login_by_local_phone_short_text">Anmelden</string>
@@ -586,7 +586,7 @@
     <string name="passport_login_register_by_local_phone_long_text">Konto erstellen</string>
     <string name="passport_login_with_sns">Andere Arten der Anmeldung</string>
     <string name="passport_logout_account">Abmelden</string>
-    <string name="passport_mi_account_first_title">Wir richten automatisch ein Konto ein, wenn Sie Ihre Rufnummer zum ersten Mal verwenden.</string>
+    <string name="passport_mi_account_first_title">Bei erstmaliger Verwendung deiner Rufnummer erstellen wir automatisch ein Konto.</string>
     <string name="passport_mi_account_title">Mit Xiaomi-Konto anmelden</string>
     <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und in Ihrem Browser öffnen.</string>
@@ -629,10 +629,10 @@
     <string name="passport_sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
     <string name="passport_sns_bind_limit">Zu viele Versuche. Andere Arten der Anmeldung versuchen.</string>
     <string name="passport_system_error">System ist ausgelastet. Etwas warten und erneut versuchen.</string>
-    <string name="passport_talkback_image_captcha">BildBestätigungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zum BildBestätigungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zum SprachBestätigungscode wechseln</string>
-    <string name="passport_talkback_voice_captcha">SprachBestätigungscode abspielen</string>
+    <string name="passport_talkback_image_captcha">Bildbestätigungscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum Bildbestätigungscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum Sprachbestätigungscode wechseln</string>
+    <string name="passport_talkback_voice_captcha">Sprachbestätigungscode abspielen</string>
     <string name="passport_ticket_send_by_second">In %d senden</string>
     <string name="passport_to_forget_password">Passwort vergessen?</string>
     <string name="passport_to_password_login">Mit Passwort anmelden</string>

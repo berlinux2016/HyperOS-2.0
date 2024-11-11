@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Zur Startseite</string>
-    <string name="abc_action_bar_up_description">Nach oben</string>
-    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
-    <string name="abc_action_mode_done">Fertig</string>
-    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
-    <string name="abc_activitychooserview_choose_application">App auswählen</string>
-    <string name="abc_capital_off">AUS</string>
-    <string name="abc_capital_on">AN</string>
-    <string name="abc_search_hint">Suchen…</string>
-    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
-    <string name="abc_searchview_description_query">Suchanfrage</string>
-    <string name="abc_searchview_description_search">Suchen</string>
-    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
-    <string name="abc_searchview_description_voice">Sprachsuche</string>
-    <string name="abc_shareactionprovider_share_with">Teilen mit</string>
-    <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
-    <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="app_name">Xiaomi Service Framework</string>
     <string name="app_update_dialog_btn_bg_update">Aktualisieren</string>
     <string name="app_update_dialog_btn_cancel">Jetzt nicht</string>
@@ -24,14 +7,19 @@
     <string name="app_update_dialog_desc_title">Was ist neu</string>
     <string name="app_update_dialog_support">Updates werden von GetApps bereitgestellt</string>
     <string name="app_update_dialog_title">Ein Update ist verfügbar</string>
+    <string name="call_notification_screening_text">Eingehende Anrufe prüfen</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit den Google Play-Diensten. Bitte erneut versuchen.</string>
     <string name="error_device_id_message">Ungültige Geräte ID: %s\nGeräte-ID muss eine gültige IMEI oder MAC-Adresse sein. Ohne Geräte-ID sind einige Xiaomi-Konto- und Xiaomi Cloud-Funktionen nicht verfügbar.</string>
     <string name="error_device_id_title">Gültige Geräte-ID kann nicht ermittelt werden</string>
     <string name="explain_send_sms_permission_button">Verifizieren</string>
-    <string name="explain_send_sms_permission_msg">Um %s einzuschalten, sendet Xiaomi Service Framework eine SMS, um Ihre Rufnummer zu verifizieren. Die normale SMS wird Ihnen vom Anbieter in Rechnung gestellt.</string>
-    <string name="explain_send_sms_permission_title">Verifizieren Sie Ihre Rufnummer</string>
-    <string name="pop_up_allow_notify_dialog">Erlauben</string>
+    <string name="explain_send_sms_permission_msg">Um %s einzuschalten, sendet Xiaomi Service Framework eine SMS, um deine Rufnummer zu verifizieren. Die normale SMS wird dir vom Anbieter in Rechnung gestellt.</string>
+    <string name="explain_send_sms_permission_title">Rufnummer verifizieren</string>
     <string name="pop_up_deny_notify_dialog">Ablehnen</string>
-    <string name="search_menu_title">Suchen</string>
+    <string name="search_menu_title">Suche</string>
     <string name="sync_notification_title_format">Aktuell synchronisiert: %1$s</string>
+    <string name="terms_of_use_label_info_assistant">Infoassistent</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Bevor du das System verwendest, lies und akzeptiere unsere Nutzervereinbarung und Datenschutzerklärung, die sich auf die auf deinem Gerät vorinstallierten Xiaomi-Apps beziehen (z. B. Galerie, Mi Music, Mi Browser, Mi Video, Themen, etc.). Wir schützen deine personenbezogenen Daten in Übereinstimmung mit den einschlägigen Gesetzen, Vorschriften und Datenschutzrichtlinien. Wenn dein Gerät aktiviert ist, verbinden sich folgende Dienste mit dem Netzwerk und greifen auf deinen Standort zu:</string>
+    <string name="terms_of_use_lable_gms">Google Play-Dienste</string>
+    <string name="terms_of_use_lable_xmsf">Xiaomi Service Framework</string>
     <string name="xmsf_activate_info">XMSF Aktivierungsinfo</string>
 </resources>

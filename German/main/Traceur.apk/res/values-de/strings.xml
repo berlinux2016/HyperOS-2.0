@@ -145,7 +145,7 @@
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Mit Gerät verbunden. Internet nicht verfügbar.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Deaktiviert</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentisierungsproblem</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentifizierungsproblem</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Mit aktuellen Sicherheitseinstellungen nicht verfügbar</string>
     <string name="wifitrackerlib_wifi_disconnected">Getrennt</string>
     <string name="wifitrackerlib_wifi_limited_connection">Eingeschränkte Verbindung</string>

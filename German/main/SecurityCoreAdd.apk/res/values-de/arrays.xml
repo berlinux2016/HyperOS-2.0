@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="choose_ask_type">
-        <item>Immer fragen</item>
-        <item>Standard-App</item>
-        <item>Dual App</item>
-    </string-array>
-    <string-array name="screen_key_position_action">
-        <item>Menü-Taste links, Zurück-Taste rechts</item>
-        <item>Zurück-Taste links, Menü-Taste rechts</item>
-    </string-array>
     <string-array name="screen_key_press_action">
         <item>Letzte Apps anzeigen</item>
         <item>Menü anzeigen</item>
@@ -19,8 +10,8 @@
         <item>In beiden Profilen verwendet</item>
     </string-array>
     <string-array name="switch_apps_msg_confirms">
-        <item>Nach Verschieben ins Hauptprofil werden die App-Daten gelöscht</item>
-        <item>Nach Verschieben ins aktuelle Profil werden die App-Daten gelöscht</item>
+        <item>Beim Verschieben ins Hauptprofil werden die App-Daten gelöscht</item>
+        <item>Beim Verschieben ins aktuelle Profil werden die App-Daten gelöscht</item>
         <item>Apps werden in beiden Profilen verwendet</item>
     </string-array>
     <string-array name="switch_apps_title_confirms">

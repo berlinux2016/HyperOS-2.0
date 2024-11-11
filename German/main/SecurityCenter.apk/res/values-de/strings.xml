@@ -2470,7 +2470,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_super_follow_up_msg">Bessere Echtzeit-Reaktion während der gesamten Geste erhalten</string>
     <string name="gb_super_motion">Verbesserte Berührungssteuerung</string>
     <string name="gb_super_shake">Stabilisierungsalgorithmus</string>
-    <string name="gb_super_shake_msg">Kleinere Gesten mit Hilfe des speziellen Algorithmus reaktionsschneller machen</string>
+    <string name="gb_super_shake_msg">Kleinere Gesten mithilfe des speziellen Algorithmus reaktionsschneller machen</string>
     <string name="gb_turbo_collimator_subtitle">Zielgerät verwenden</string>
     <string name="gb_turbo_macro_subtitle">Hochrangige Aktionen durchführen</string>
     <string name="gb_turbo_new_flag">NEU</string>
@@ -3654,7 +3654,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_low_battery_fast_charge_summary">Schließen Sie das mitgelieferte Ladegerät an, um den Ladevorgang zu beschleunigen, wenn der Bildschirm aus und der Akku leer ist. Diese Funktion kann Ihr Gerät erwärmen.</string>
     <string name="pc_low_temp_charge_summary">Lassen Sie das Ladegerät angeschlossen und warten Sie, bis sich der Akku nach dem Erlöschen des Bildschirms erwärmt hat, um normal zu laden</string>
     <string name="pc_low_temp_charge_title">Laden bei niedriger Temperatur</string>
-    <string name="pc_low_temperature_extreme_endurance_summary">Begrenzen Sie die Geräteleistung, um die Lebensdauer des Akkus zu verlängern, wenn die Umgebungstemperatur extrem niedrig ist</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Begrenzen Sie die Geräteleistung, um die Akkulaufzeit zu verlängern, wenn die Umgebungstemperatur extrem niedrig ist</string>
     <string name="pc_low_temperature_extreme_endurance_title">Kälteschutzmodus</string>
     <string name="pc_main_activity_back">Zurück</string>
     <string name="pc_main_battery_text_day">%1$s m hinzugefügt, ca. %2$s T bleiben</string>
@@ -3700,14 +3700,14 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_search_keywords_capacity">Akkukapazität</string>
     <string name="pc_search_keywords_property">Leistung</string>
     <string name="pc_settings_title">Akku</string>
-    <string name="pc_smart_charge_button_summary">Um die Lebensdauer des Akkus zu verlängern, lernt das System, wie Sie Ihr Gerät aufladen, und beendet den Ladevorgang, wenn der Akkustand %1$s erreicht</string>
+    <string name="pc_smart_charge_button_summary">Um die Akkulaufzeit zu verlängern, lernt das System, wie Sie Ihr Gerät aufladen, und beendet den Ladevorgang, wenn der Akkustand %1$s erreicht</string>
     <string name="pc_smart_charge_notify_summary_high_temp">Ihr Gerät hat sich erwärmt. Ladevorgang wird beendet, wenn der Akkustand %1$s erreicht.</string>
     <string name="pc_smart_charge_notify_summary_navagition">Navigation… Ladevorgang wird beendet, wenn der Akkustand %1$s erreicht</string>
     <string name="pc_smart_charge_notify_summary_night_charge">Ladevorgang wird bei %s beendet</string>
-    <string name="pc_smart_charge_pogo_project_dialog_content">Um die Lebensdauer des Akkus zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
+    <string name="pc_smart_charge_pogo_project_dialog_content">Um die Akkulaufzeit zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
     <string name="pc_smart_charge_pogo_project_dialog_not_show_again">Nicht mehr anzeigen</string>
     <string name="pc_smart_charge_pogo_project_dialog_title">Akkuschutz</string>
-    <string name="pc_smart_charge_pogo_project_notification_content">Um die Lebensdauer des Akkus zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
+    <string name="pc_smart_charge_pogo_project_notification_content">Um die Akkulaufzeit zu verlängern, wird der Akku dieses Geräts nicht über den aktuellen Stand hinausgehen, während er mit dem Auto verbunden ist.</string>
     <string name="pc_smart_charge_pogo_project_notification_title">Akkuschutz</string>
     <string name="pc_smart_charge_title">Smartes Laden</string>
     <string name="pc_smart_discharge_checkbox_summary">Bei Verwendung von Navigations-Apps wird der Ladevorgang automatisch gestoppt, wenn der Akku einen bestimmten Wert erreicht. Diese Funktion funktioniert nicht, wenn Stromsparen oder Ultra-Stromsparen aktiviert sind.</string>

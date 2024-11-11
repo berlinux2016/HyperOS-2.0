@@ -137,7 +137,7 @@
     <string name="sign_in_title">Mit Xiaomi-Konto anmelden</string>
     <string name="skip_query_account">Überspringen</string>
     <string name="sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
-    <string name="sns_bind_limit">Zu viele Versuche. Versuch eine andere Art der Anmeldung.</string>
+    <string name="sns_bind_limit">Zu viele Versuche. Andere Art der Anmeldung probieren.</string>
     <string name="sns_sign_in">Andere Arten der Anmeldung</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
     <string name="solar_term_autumn_equinox">Herbst-Tagundnachtgleiche</string>
@@ -207,22 +207,10 @@
     <string name="the_valentines_day">Valentinstag</string>
     <string name="the_water_lantern_festival">Wasserlaternenfest</string>
     <string name="thursday_shortest">D</string>
-    <string name="ticket_hint">Bestätigungscode</string>
-    <string name="ticket_invalid">Der eingegebene Code ist falsch</string>
-    <string name="ticket_sign_in">Mit SMS anmelden</string>
     <string name="time_picker_dialog_title">Zeit einstellen</string>
     <string name="time_picker_label_hour">Std</string>
     <string name="time_picker_label_minute">Min</string>
-    <string name="today">Heute</string>
-    <string name="tomorrow">Morgen</string>
-    <string name="tuesday">Dienstag</string>
-    <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">D</string>
-    <string name="unknown_error_info">Unbekannter Fehler</string>
-    <string name="update_email_address_dialog_message">Du musst deine Identität verifizieren, bevor du die Wiederherstellungs-E-Mail aktualisierst.</string>
-    <string name="update_email_address_dialog_title">Wiederherstellungs-E-Mail aktualisieren</string>
-    <string name="update_phone_notice">Sicherheitseinstellungen ändern</string>
-    <string name="upload_error_log">Protokoll hochladen</string>
     <string name="user_agreement_hint_3rd_app"><Data>Ich habe die &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> sowie die Xiaomi-Konto &lt;a href=%3$s>Nutzervereinbarung&lt;/a> und &lt;a href=%4$s>Datenschutzerklärung&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="user_agreement_hint_3rd_app_mobile"><Data>Ich habe die &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, die Xiaomi-Konto &lt;a href=%3$s>Nutzervereinbarung&lt;/a> und &lt;a href=%4$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%5$s>allgemeinen Geschäftsbedingungen von China Mobile Verifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>Ich habe die &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a>, die Xiaomi-Konto &lt;a href=%3$s>Nutzervereinbarung&lt;/a> und &lt;a href=%4$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%5$s>allgemeinen Geschäftsbedingungen von eSurfing Kontoverifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
@@ -234,19 +222,11 @@
     <string name="user_agreement_hint_with_mobile"><Data>Ich habe die Xiaomi-Konto &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%3$s>allgemeinen Geschäftsbedingungen von China Mobile Verifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="user_agreement_hint_with_telecom"><Data>Ich habe die Xiaomi-Konto &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%3$s>allgemeinen Geschäftsbedingungen von eSurfing Kontoverifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
     <string name="user_agreement_hint_with_unicom"><Data>Ich habe die Xiaomi-Konto &lt;a href=%1$s>Nutzervereinbarung&lt;/a> und &lt;a href=%2$s>Datenschutzerklärung&lt;/a> sowie die &lt;a href=%3$s>allgemeinen Geschäftsbedingungen von China Unicom Verifikationsdienste&lt;/a> gelesen und akzeptiert.</Data></string>
-    <string name="user_agreement_protocal_dialog_hint_default">&lt;Data>&lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> sowie die Xiaomi-Konto &lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert."&lt;/Data></string>
-    <string name="user_avatar_update_title">Profilbild ändern</string>
-    <string name="user_avatar_uploading">Einen Moment…</string>
+    <string name="user_agreement_protocal_dialog_hint_default">&lt;Data>Ich habe die &lt;a href=\"%1$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%2$s\">Datenschutzerklärung&lt;/a> sowie die Xiaomi-Konto &lt;a href=\"%3$s\">Nutzervereinbarung&lt;/a> und &lt;a href=\"%4$s\">Datenschutzerklärung&lt;/a> gelesen und akzeptiert."&lt;/Data></string>
     <string name="user_id_hint">E-Mail/Telefon/Xiaomi-Konto-ID</string>
     <string name="user_name_phone_number">Rufnummer</string>
-    <string name="v_code_title">Bestätigungscode eingeben</string>
     <string name="web_sso_login_fail">Du musst dich erneut anmelden</string>
     <string name="web_sso_login_message">Anmelden…</string>
     <string name="webview_reload">Erneut versuchen</string>
-    <string name="wednesday">Mittwoch</string>
-    <string name="wednesday_short">Mi</string>
     <string name="wednesday_shortest">M</string>
-    <string name="weibo_login_btn_content_description">Mit Weibo anmelden</string>
-    <string name="weixin_login_btn_content_description">Mit WeChat anmelden</string>
-    <string name="yesterday">Gestern</string>
 </resources>

@@ -91,7 +91,7 @@
     <string name="accessibility_enter_lock_setting">Tippen, um Einstellungen für Hintergrundkarussell zu öffnen</string>
     <string name="accessibility_enter_lock_wallpaper">Tippen, um Hintergrundkarussell zu öffnen</string>
     <string name="accessibility_ethernet_disconnected">Ethernet getrennt</string>
-    <string name="accessibility_fingerprint_bouncer">Authentisierung erforderlich. Fingerabdrucksensor berühren zur Authentisierung.</string>
+    <string name="accessibility_fingerprint_bouncer">Authentifizierung erforderlich. Fingerabdrucksensor berühren zur Authentifizierung.</string>
     <string name="accessibility_fingerprint_label">Fingerabdrucksensor</string>
     <string name="accessibility_floating_button_action_double_tap_to_toggle">Umschalten</string>
     <string name="accessibility_floating_button_action_move_bottom_left">Nach unten links</string>
@@ -252,7 +252,7 @@
     <string name="biometric_dialog_confirm">Bestätigen</string>
     <string name="biometric_dialog_credential_attempts_before_wipe">Erneut versuchen. Versuch %1$d von %2$d.</string>
     <string name="biometric_dialog_credential_too_many_attempts">Zu viele Fehlversuche. \nIn %d Sekunden erneut versuchen.</string>
-    <string name="biometric_dialog_empty_space_description">Tippen, um Authentisierung abzubrechen</string>
+    <string name="biometric_dialog_empty_space_description">Tippen, um Authentifizierung abzubrechen</string>
     <string name="biometric_dialog_face_icon_description_authenticated">Gesicht authentifiziert</string>
     <string name="biometric_dialog_face_icon_description_authenticating">Suche nach Ihrem Gesicht</string>
     <string name="biometric_dialog_face_icon_description_confirmed">Bestätigt</string>
@@ -975,7 +975,7 @@
     <string name="media_output_status_track_unsupported">Dieses Medium kann hier nicht abgespielt werden</string>
     <string name="media_output_status_try_after_ad">Nach der Werbung erneut versuchen</string>
     <string name="media_output_status_unauthorized">Gerät nicht zum Abspielen zugelassen</string>
-    <string name="media_output_status_unknown_error">Auf diesem Gerät kann nicht abgespielt werden</string>
+    <string name="media_output_status_unknown_error">Wiedergabe auf diesem Gerät nicht möglich</string>
     <string name="media_projection_action_text">Jetzt beginnen</string>
     <string name="media_projection_dialog_title">Aufnahme oder Casting mit %s starten?</string>
     <string name="media_projection_dialog_warning">%s hat Zugriff auf alle Daten, die während Aufnahme oder Casting auf Ihrem Bildschirm zu sehen sind oder von Ihrem Gerät wiedergegeben werden. Dazu gehören Daten wie Passwörter, Zahlungsdetails, Fotos, Nachrichten und Audio, das Sie abspielen.</string>
@@ -1854,7 +1854,7 @@ dd.MM."</string>
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tippen, um das Abo zu verlängern und zu verbinden</string>
-    <string name="wifitrackerlib_tap_to_sign_up">Tippen zum Anmelden</string>
+    <string name="wifitrackerlib_tap_to_sign_up">Zum Anmelden tippen</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Zugangspunkt vorübergehend voll</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Passwort prüfen und erneut versuchen</string>
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Mit Gerät verbunden. Internet nicht verfügbar.</string>

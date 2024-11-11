@@ -104,7 +104,7 @@
     <string name="error_no_get_send_sms_permission">Erst SIM %d erlauben, SMS zu senden</string>
     <string name="error_no_get_send_sms_permission_one_sim">Erst den Versand von SMS zulassen.</string>
     <string name="error_sim_not_in_service_tip">SIM %d kann keine Netzwerkverbindung herstellen. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
-    <string name="error_sim_not_in_service_tip_one_sim">Netzwerkverbindung nicht möglich. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
+    <string name="error_sim_not_in_service_tip_one_sim">Netzwerkverbindung fehlgeschlagen. Prüfen Sie, ob die SIM-Karte richtig funktioniert, und versuchen Sie es erneut.</string>
     <string name="evening">Nachmittag</string>
     <string name="explain_activate_register_xiaomi_account_title">Xiaomi-Konto erstellen</string>
     <string name="explain_activate_send_sms_permission_msg">Um %s zu aktivieren, benötigt Ihr Gerät die Berechtigung zum Senden von Aktivierungs-SMS. Diese Nachricht wird Ihnen von Ihrem Anbieter berechnet.</string>

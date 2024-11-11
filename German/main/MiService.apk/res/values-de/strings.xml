@@ -28,7 +28,7 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="friday_shortest">F</string>
-    <string name="icon_add_description">Verknüpfung zum Startbildschirm hinzufügen</string>
+    <string name="icon_add_description">Startbildschirm-Verknüpfung hinzufügen</string>
     <string name="icon_remove_description_content">\"Dienste &amp; Feedback\" ist eine System-App. Nach Löschen der Startbildschirm-Verknüpfung kannst du sie weiterhin über Einstellungen verwenden.</string>
     <string name="icon_remove_description_title">\"Dienste &amp; Feedback\" vom Startbildschirm entfernen?</string>
     <string name="mi_service_app_name">Dienste &amp; Feedback</string>

@@ -532,7 +532,7 @@ Sende diesen Code an den Supervisor."</string>
     <string name="report_content_other">Anderes</string>
     <string name="report_content_sexy">Sexuell eindeutiger Inhalt</string>
     <string name="request_camera_permission_message">Für diesen Dienst müssen wir dich um folgende Berechtigungen bitten. Wir halten uns streng an die einschlägigen Gesetze zum Schutz deiner personenbezogenen Daten: &lt;br>&lt;br>&lt;b>Kamerazugriff: Erlebe Echtzeit-Aufnahmedienste zur Einstellung des Avatars&lt;/b>&lt;br>&lt;br> Wenn du den oben genannten Berechtigungen nicht zustimmst, wird diese Funktion nicht ordnungsgemäß funktionieren, aber es wird deine Nutzung der grundlegenden Funktionen dieser App nicht beeinträchtigen. Du kannst den obigen Berechtigungsaufruf in den Systemeinstellungen deaktivieren, um deine Zustimmung zu widerrufen.</string>
-    <string name="resend_email_reach_limit_message">Zu viele Verifizierungs-E-Mails wurden angefordert. Sieh nach, ob sich die Verifizierungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
+    <string name="resend_email_reach_limit_message">Zu viele Bestätigungs-E-Mails wurden angefordert. Sieh nach, ob sich die Bestätigungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
     <string name="restart_action">Neu beginnen</string>
     <string name="restart_phone_bind_message">Empfang von SMS kann einige Zeit dauern. Trotzdem neu beginnen?</string>
     <string name="s2">Darf die Werbung Bilder in der Galerie speichern?</string>
@@ -545,7 +545,7 @@ Sende diesen Code an den Supervisor."</string>
     <string name="save_cancel_toast">Erneut tippen, um Speichern abzubrechen</string>
     <string name="search_result_download_error">Herunterladen fehlgeschlagen</string>
     <string name="search_result_startdownload">Herunterladen…</string>
-    <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich gesendet</string>
+    <string name="send_email_activate_message">Bestätigungs-E-Mail erfolgreich gesendet</string>
     <string name="sending">Senden…</string>
     <string name="service_error">Serverfehler</string>
     <string name="setting_privacy_title">Allgemeine Geschäftsbedingungen</string>

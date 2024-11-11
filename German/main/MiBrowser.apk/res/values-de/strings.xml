@@ -9,7 +9,6 @@
     <string name="action_menu_text_nightmode_off">Nachtmodus aus</string>
     <string name="action_menu_text_nightmode_on">Nachtmodus an</string>
     <string name="adblock_force_updating_rules_toast">Werbeblocker aktualisieren</string>
-    <string name="adblock_rules_restore">Freigeben</string>
     <string name="adjust_text_zoom_toast">Ändern der Textgröße kann dazu führen, dass einige Webseiten falsch angezeigt werden</string>
     <string name="agree_label">Zustimmen</string>
     <string name="ai_summery_too_long">Originaltext ist zu lang. Qualität der smarten Zusammenfassung kann variieren.</string>
@@ -270,7 +269,7 @@
     <string name="geolocation_settings_page_dialog_message">Standortzugriff für diese Webseite löschen?</string>
     <string name="geolocation_settings_page_title">Standortzugriff löschen</string>
     <string name="go_supermarket_button">Los</string>
-    <string name="go_supermarket_title">Weitere Apps, höhere Geschwindigkeit und weniger Datenverbrauch im App Store</string>
+    <string name="go_supermarket_title">Weitere Apps, höhere Geschwindigkeit und weniger Datennutzung im App Store</string>
     <string name="goto_browser">Surfen</string>
     <string name="gps_prompt_context">Über Mobilfunknetz herunterladen?</string>
     <string name="gps_prompt_title">Tipps</string>
@@ -497,34 +496,14 @@
     <string name="mw_miuichromium_error_page_diagnose_certificate">Netzwerkprotokoll wurde nicht verifiziert</string>
     <string name="mw_miuichromium_error_page_diagnose_dns">URL inkorrekt</string>
     <string name="mw_miuichromium_error_page_diagnose_proxy_server">Proxyserverfehler</string>
-    <string name="mw_miuichromium_error_page_diagnose_website">Webseite ist nicht erreichbar</string>
     <string name="mw_miuichromium_error_page_diagnosing">Netzwerk prüfen</string>
-    <string name="mw_miuichromium_error_page_problem_access_denied">Zugriff auf %s0 wurde verweigert</string>
-    <string name="mw_miuichromium_error_page_problem_cache_miss">Zwischengespeicherte Version dieser Seite kann nicht geladen werden</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page">Seite kann nicht geöffnet werden</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">Seite kann nicht geöffnet werden, Zugriff verweigert durch %s0 .</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">Seite kann nicht geöffnet werden, %s0 hat die Verbindung unterbrochen.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">Seite kann nicht geöffnet werden, %s0 verweigerte die Verbindung.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">Seite kann nicht geöffnet werden, Verbindung wurde zurückgesetzt.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">Seite kann nicht geöffnet werden, weil die URL ungültig ist.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">Seite kann nicht geöffnet werden, %s0 ist aktuell nicht erreichbar.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">Seite kann nicht geöffnet werden, %s0 will dich unsicher umleiten.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">Seite ist nicht erreichbar. Diese Intranet-Seite hat dieselbe URL wie eine externe Webseite.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">Seite ist nicht erreichbar, DNS-Adresse für %s0 nicht gefunden.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">Seite ist nicht erreichbar, IP-Adresse oder Portnummer ist ungültig.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">Seite ist nicht erreichbar, %s0 hat zu lange nicht geantwortet.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">Seite ist nicht erreichbar, %s0 nutzt eine unsichere Portnummer.</string>
-    <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Verbindung wurde unterbrochen wegen eines Netzwerkwechsels.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">Datei wurde nicht gefunden. Sie wurde entweder verschoben oder gelöscht.</string>
     <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Datei wurde nicht gelesen. Dateiberechtigungen können den Zugriff verhindern.</string>
     <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 braucht zu lange, um zu antworten.</string>
-    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Internetverbindung nicht möglich, etwas stimmt nicht mit dem Proxyserver oder Proxyadresse ist inkorrekt.</string>
+    <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">Internetverbindung fehlgeschlagen, etwas stimmt nicht mit dem Proxyserver oder Proxyadresse ist inkorrekt.</string>
     <string name="mw_miuichromium_error_page_problem_page_moved">Diese Seite auf %s0 wurde entweder verschoben oder gelöscht.</string>
     <string name="mw_miuichromium_error_page_problem_page_not_found">Diese Seite auf %s0 wurde nicht gefunden.</string>
-    <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">Diese Seite funktioniert nicht, %s0 hat die Verbindung unterbrochen.</string>
-    <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">Diese Seite kann keine sichere Verbindung herstellen, weil %s0 dein Zertifikat nicht akzeptiert hat.</string>
-    <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">Diese Seite kann keine sichere Verbindung herstellen, %s0 hält sich nicht an Sicherheitsstandards.</string>
-    <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">Diese Seite kann keine sichere Verbindung herstellen, %s0 nutzt ein nicht unterstütztes Protokoll.</string>
+    <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">Diese Seite kann keine sichere Verbindung herstellen, weil %s0 dein Zertifikat nicht akzeptiert.</string>
     <string name="mw_miuichromium_error_page_server_error">Zu viele Geräte versuchen, eine Verbindung herzustellen</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Prüfe die Einstellungen der auf deinem Gerät installierten Proxy-Apps</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Prüfe deine Internetverbindung</string>
@@ -578,11 +557,9 @@
     <string name="notification_category_stickcard">Quicktools</string>
     <string name="notify_rencet_play">Zuletzt abgespielt</string>
     <string name="offline_notification_text">Zum Öffnen der Werbung antippen</string>
-    <string name="offline_notification_title">Werbung anzeigen, die Sie gespeichert hatten, als Sie offline waren</string>
-    <string name="offline_opt_in_confirmation">Sie erhalten eine Benachrichtigung mit dem Link, wenn Sie wieder online sind</string>
+    <string name="offline_opt_in_confirmation">Du erhältst eine Benachrichtigung mit dem Link, wenn du wieder online bist</string>
     <string name="offline_opt_in_decline">Nein, danke</string>
-    <string name="offline_opt_in_message">Wir schicken Ihnen eine Benachrichtigung mit einem Link zur Webseite des Inserenten.</string>
-    <string name="offline_opt_in_title">Werbung öffnen, wenn Sie wieder online sind</string>
+    <string name="offline_opt_in_message">Wir schicken dir eine Benachrichtigung mit einem Link zur Webseite des Inserenten.</string>
     <string name="one_prefect_author">Autor</string>
     <string name="open_google_gaid">Um diese Funktion zu nutzen, darfst du die Werbepersonalisierung unter Einstellungen > Google > Werbung nicht deaktivieren.</string>
     <string name="open_personalized_services">Aktiviere personalisierte Dienste, um diese Funktion zu nutzen.</string>
@@ -673,7 +650,7 @@
     <string name="pref_site_settings_cookie_allow_summary">Seiten werden normal funktionieren</string>
     <string name="pref_site_settings_cookie_block_summary">Die meisten Seitenfunktionen funktionieren evtl. nicht richtig</string>
     <string name="pref_site_settings_cookie_block_third_party_summary">Einige Seitenfunktionen funktionieren evtl. nicht richtig</string>
-    <string name="pref_site_settings_cookie_summary">Cookies sind von den besuchten Webseiten erstellte Dateien, um Ihre Präferenzen zu speichern. Drittanbieter-Cookies werden von anderen Webseiten erstellt, die Eigentümer der Inhalte (z. B. Werbung oder Bilder) sind, die Sie auf den besuchten Seiten sehen.</string>
+    <string name="pref_site_settings_cookie_summary">Cookies sind von den besuchten Webseiten erstellte Dateien, um deine Präferenzen zu speichern. Drittanbieter-Cookies werden von anderen Webseiten erstellt, die Eigentümer der Inhalte (z. B. Werbung oder Bilder) sind, die du auf den besuchten Seiten siehst.</string>
     <string name="pref_site_settings_location_ask">Seiten müssen deine Erlaubnis für den Standortzugriff einholen (empfohlen)</string>
     <string name="pref_site_settings_location_permission">Standortberechtigungen in &lt;font color=#247BFF>Android-Einstellungen&lt;/font> aktivieren</string>
     <string name="pref_site_settings_mic_ask">Seiten müssen deine Erlaubnis für den Mikrofonzugriff einholen (empfohlen)</string>
@@ -932,7 +909,7 @@
     <string name="vpn_detail_guide3">Du hast bald keinen Traffic mehr. Teste unseren %1$d-Monatstarif! Tippe, um mehr über deine Möglichkeiten zu erfahren.</string>
     <string name="vpn_detail_guide4">Du hast keinen Traffic mehr. Teste unseren %1$d-Monatstarif! Tippe, um mehr über deine Möglichkeiten zu erfahren.</string>
     <string name="vpn_guide_popup_window_text">Mit VPN versuchen</string>
-    <string name="vpn_privacy_dialog_content">Dieser Dienst wird von Tai Xin bereitgestellt. Lies und akzeptieren die &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Tai Xin Datenschutzerklärung&lt;/a>&lt;/font>, bevor du diesen Dienst nutzt.</string>
+    <string name="vpn_privacy_dialog_content">Dieser Dienst wird von Tai Xin bereitgestellt. Lies und akzeptiere die &lt;font color=#4086f5>&lt;a href=%1$s style=color:#4086f5; >Tai Xin Datenschutzerklärung&lt;/a>&lt;/font>, bevor du diesen Dienst nutzt.</string>
     <string name="vpn_privacy_dialog_disagree">Nein, danke</string>
     <string name="vpn_subscribe_tips_2">Greife auf weitere Webseiten zu</string>
     <string name="weather_card_aqi">LQI</string>
@@ -968,7 +945,7 @@
     <string name="web_permission_setting_page_intercept_subtitle">Downloads schützen</string>
     <string name="web_permission_setting_page_intercept_title">Downloads verwalten</string>
     <string name="web_permission_setting_page_permission_title">Datenschutz</string>
-    <string name="web_permission_setting_page_privcay_des">Webseiten nicht erlauben, Daten zu sammeln und Ihre Aktivitäten zu verfolgen</string>
+    <string name="web_permission_setting_page_privcay_des">Webseiten nicht erlauben, Daten zu sammeln und deine Aktivitäten zu verfolgen</string>
     <string name="web_permission_setting_page_privcay_title">Verfolgen</string>
     <string name="web_permission_setting_page_title">Einstellungen Webseite</string>
     <string name="web_preload_hint_dialog_btn_good">Ich merke den Unterschied</string>

@@ -138,7 +138,7 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="friday_shortest">F</string>
-    <string name="icon_add_description">Verknüpfung zum Startbildschirm hinzufügen</string>
+    <string name="icon_add_description">Startbildschirm-Verknüpfung hinzufügen</string>
     <string name="icon_remove_description_content">\"Dienste &amp; Feedback\" ist eine System-App. Nach Löschen der Startbildschirm-Verknüpfung kannst du sie weiterhin über Einstellungen verwenden.</string>
     <string name="icon_remove_description_title">\"Dienste &amp; Feedback\" vom Startbildschirm entfernen?</string>
     <string name="input_email_address_notice">Wir werden diese E-Mail zur Verifizierung Ihres Kontos verwenden</string>
@@ -259,14 +259,14 @@
     <string name="passport_error_empty_password">Passwort eingeben</string>
     <string name="passport_error_empty_user_id">Benutzername eingeben</string>
     <string name="passport_error_length_limit">Eingegebener Text ist zu lang</string>
-    <string name="passport_error_network">Netzwerkverbindung nicht möglich</string>
+    <string name="passport_error_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="passport_error_no_password_user">Passwort wurde noch nicht festgelegt. Mit SMS anmelden.</string>
     <string name="passport_error_phone">Rufnummer ungültig</string>
     <string name="passport_error_user_name">Eingegebener Benutzername ist ungültig</string>
     <string name="passport_identification_expired">Bestätigungscode abgelaufen. Neu beginnen.</string>
     <string name="passport_input_phone_number_hint">Rufnummer eingeben</string>
     <string name="passport_input_verify_code">Bestätigungscode eingeben</string>
-    <string name="passport_input_voice_captcha_hint">SprachBestätigungscode eingeben</string>
+    <string name="passport_input_voice_captcha_hint">Sprachbestätigungscode eingeben</string>
     <string name="passport_network_error">Ein Netzwerkfehler ist aufgetreten.</string>
     <string name="passport_network_error_hint">URL prüfen und erneut versuchen, oder URL kopieren und im Browser öffnen.</string>
     <string name="passport_password_req_notice">Passwort muss 8-16 Zeichen lang sein und mind. zwei der folgenden Elemente enthalten: Ziffern, Buchstaben und Sonderzeichen (z. B. 123abc@# oder 123abc oder abc@#).</string>
@@ -277,10 +277,10 @@
     <string name="passport_send_sms_to">Code an %1$s gesendet</string>
     <string name="passport_sending_vcode">Code senden…</string>
     <string name="passport_set_password_no_phone_msg">Rufnummer hinzufügen, um dein Konto zu schützen</string>
-    <string name="passport_talkback_image_captcha">BildBestätigungscode</string>
-    <string name="passport_talkback_switch_image_captcha">Zum BildBestätigungscode wechseln</string>
-    <string name="passport_talkback_switch_voice_captcha">Zum SprachBestätigungscode wechseln</string>
-    <string name="passport_talkback_voice_captcha">SprachBestätigungscode abspielen</string>
+    <string name="passport_talkback_image_captcha">Bildbestätigungscode</string>
+    <string name="passport_talkback_switch_image_captcha">Zum Bildbestätigungscode wechseln</string>
+    <string name="passport_talkback_switch_voice_captcha">Zum Sprachbestätigungscode wechseln</string>
+    <string name="passport_talkback_voice_captcha">Sprachbestätigungscode abspielen</string>
     <string name="passport_unknow_host_network_error">Netzwerkeinstellungen prüfen und erneut versuchen</string>
     <string name="passport_user_id_hint">E-Mail/Rufnummer/Xiaomi-Konto-ID</string>
     <string name="passport_vcode_what_app_send_prompt">Dein WhatsApp-Bestätigungscode wird an dein Wiederherstellungstelefon (&lt;font color=#1F93FF>%s&lt;/font>) gesendet.</string>
@@ -309,10 +309,10 @@
     <string name="request_agree">Zulassen</string>
     <string name="request_camera_permission_message">Wir schützen personenbezogene Daten in Übereinstimmung mit den einschlägigen Gesetzen und Vorschriften. Diese App benötigt folgende Berechtigungen, um normal zu funktionieren:&lt;br>&lt;br>&lt;b>Kamera verwenden (zum Einstellen deines Profilfotos)&lt;/b>&lt;br>&lt;br>Wenn du nicht zustimmst, solche Berechtigungen zu erteilen, kannst du einige Funktionen dieser App nicht nutzen; die Grundfunktionen stehen dir jedoch weiterhin zur Verfügung. Du kannst Berechtigungen jederzeit einschränken oder deine Berechtigung in den Einstellungen widerrufen.</string>
     <string name="request_error_unknown">Ein Systemfehler ist aufgetreten. Zurückgehen und erneut versuchen.</string>
-    <string name="resend_email_reach_limit_message">Zu viele Verifizierungs-E-Mails wurden angefordert. Sieh nach, ob sich die Verifizierungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
+    <string name="resend_email_reach_limit_message">Zu viele Bestätigungs-E-Mails wurden angefordert. Sieh nach, ob sich die Bestätigungs-E-Mail im Spam-Ordner des Posteingangs befindet.</string>
     <string name="saturday_shortest">S</string>
     <string name="section_screenshot">Screenshot</string>
-    <string name="send_email_activate_message">Verifizierungs-E-Mail erfolgreich gesendet</string>
+    <string name="send_email_activate_message">Bestätigungs-E-Mail erfolgreich gesendet</string>
     <string name="service_error">Serverfehler</string>
     <string name="service_unavailiable">Infos abrufen nicht möglich, später erneut versuchen</string>
     <string name="sns_access_token_expired_warning">Sitzung abgelaufen. Erneut anmelden, um dieses Konto wieder zu verbinden.</string>
@@ -407,7 +407,7 @@
     <string name="toast_catch_full_log_open_failed">Protokollaufnahme wurde nicht gestartet</string>
     <string name="toast_description_required">Beschreibe zunächst das Problem</string>
     <string name="toast_feedback_collect_store">Protokollierung…</string>
-    <string name="toast_feedback_network_unavailable">Netzwerkverbindung nicht möglich</string>
+    <string name="toast_feedback_network_unavailable">Netzwerkverbindung fehlgeschlagen</string>
     <string name="toast_feedback_submitted">Meldung wurde gesendet</string>
     <string name="toast_file_format_not_support">Dieses Dateiformat wird nicht unterstützt. Versuch eine andere Datei.</string>
     <string name="toast_network_unavailable">Senden fehlgeschlagen. Keine Netzwerkverbindung.</string>

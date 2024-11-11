@@ -324,7 +324,7 @@
     <string name="group_add_fail_toast">Empfänger wurden nicht hinzugefügt</string>
     <string name="group_create_fail_toast">Gruppe wurde nicht erstellt</string>
     <string name="group_rename_fail_toast">Gruppe wurde nicht umbenannt</string>
-    <string name="hide_app_description_content">Kontakte ist eine System-App. Du kannst sie weiterhin über die Telefon-App verwenden, wenn du die Verknüpfung vom Startbildschirm entfernst.</string>
+    <string name="hide_app_description_content">Kontakte ist eine System-App. Du kannst sie weiterhin über die Telefon-App verwenden, wenn du die Startbildschirm-Verknüpfung entfernst.</string>
     <string name="hint_distance">Beide Geräte während des Importvorgangs nahe beieinander halten, damit sie verbunden bleiben.</string>
     <string name="hint_more_contact">Wenn der Import doppelte Kontakte erzeugt, verwende die Funktion \"Doppelte Kontakte zusammenführen\."</string>
     <string name="hybrid_locating_fail">Standort kann nicht ermittelt werden</string>
@@ -499,8 +499,8 @@ Auf \"%1$s\" tippen und dann \"%2$s\" wählen."</string>
     <string name="scanning_sdcard_failed_message">Grund: \"%s\"</string>
     <string name="scanning_sdcard_failed_title">Speicher wurde nicht gescannt</string>
     <string name="searching_vcard_message">Nach vCard-Daten im Gerät suchen…</string>
-    <string name="send_contact_shortcut_todesktop_failed">Verknüpfung am Startbildschirm nicht möglich</string>
-    <string name="send_contact_shortcut_todesktop_overflow">Weitere Verknüpfungen am Startbildschirm nicht möglich</string>
+    <string name="send_contact_shortcut_todesktop_failed">Startbildschirm-Verknüpfung nicht möglich</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Weitere Startbildschirm-Verknüpfungen nicht möglich</string>
     <string name="service_provider">Ordner</string>
     <string name="service_provider_detail">Ordnerdetails</string>
     <string name="share_contact_as">Kontakt teilen als</string>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="emailAddressTypes">
-        <item>Privat</item>
-        <item>Geschäftlich</item>
-        <item>Andere</item>
-        <item>Eigene</item>
-    </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Erneut versuchen</item>
         <item></item>
@@ -33,56 +27,12 @@
         <item></item>
         <item></item>
         <item>Finger leicht bewegen</item>
-        <item>Dieser Fingerabdruck wurde hinzugefügt, verwenden Sie einen anderen Finger</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Privat</item>
-        <item>Geschäftlich</item>
-        <item>Andere</item>
-        <item>Eigene</item>
-    </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo!</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
-    <string-array name="network_switch_type_name">
-        <item>Mobile Daten</item>
-        <item>WLAN</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
-    </string-array>
-    <string-array name="organizationTypes">
-        <item>Geschäftlich</item>
-        <item>Andere</item>
-        <item>Eigene</item>
-    </string-array>
-    <string-array name="phoneTypes">
-        <item>Privat</item>
-        <item>Mobil</item>
-        <item>Geschäftlich</item>
-        <item>Fax (geschäftl.)</item>
-        <item>Fax (privat)</item>
-        <item>Pager</item>
-        <item>Andere</item>
-        <item>Eigene</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
-        <item>Privat</item>
-        <item>Geschäftlich</item>
-        <item>Andere</item>
-        <item>Eigene</item>
+        <item>Dieser Fingerabdruck wurde hinzugefügt, verwende einen anderen Finger</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Um über WLAN zu telefonieren und Nachrichten zu versenden, bitten Sie zunächst Ihren Anbieter, diesen Dienst einzurichten. Dann schalten Sie WLAN-Anrufe wieder über Einstellungen ein. (Fehlercode: %1$s)</item>
+        <item>Um über WLAN zu telefonieren und Nachrichten zu versenden, bitte zunächst deinen Anbieter, diesen Dienst einzurichten. Dann schalte WLAN-Telefonie wieder über Einstellungen ein. (Fehlercode: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Problem bei der Registrierung von WLAN-Anrufen bei Ihrem Anbieter: %1$s</item>
+        <item>Problem beim Registrieren von WLAN-Telefonie bei deinem Anbieter: %1$s</item>
     </string-array>
 </resources>

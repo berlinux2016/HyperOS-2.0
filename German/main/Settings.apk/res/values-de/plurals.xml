@@ -198,8 +198,8 @@
         <item quantity="one">Sie sind %1$d Schritt von den Fehlerberichten entfernt.</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">%d Apps können unbeschränkt Daten verwenden</item>
-        <item quantity="one">1 App kann unbeschränkt Daten verwenden</item>
+        <item quantity="other">%d Apps können unbegrenzt Daten verwenden</item>
+        <item quantity="one">1 App kann unbegrenzt Daten verwenden</item>
     </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">%s Apps dürfen keine Benachrichtigungen anzeigen</item>

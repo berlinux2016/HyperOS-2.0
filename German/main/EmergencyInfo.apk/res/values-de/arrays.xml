@@ -22,49 +22,49 @@
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>16 bits/sample</item>
         <item>24 bits/sample</item>
         <item>32 bits/sample</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>Mono</item>
         <item>Stereo</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>Mono</item>
         <item>Stereo</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimiert für Audioqualität</item>
         <item>Ausgewogene Audio- und Verbindungsqualität</item>
         <item>Optimiert für Verbindungsqualität</item>
-        <item>Beste Leistung (Adaptive Bitrate)</item>
-      </string-array>
+        <item>Beste Leistung (adaptive Bitrate)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimiert für Audioqualität (990kbps/909kbps)</item>
-        <item>Ausgewogene Audio- und Verbindungsqualität (660kbps/606kbps)</item>
-        <item>Optimiert für Verbindungsqualität (330kbps/303kbps)</item>
-        <item>Beste Leistung (Adaptive Bitrate)</item>
-      </string-array>
+        <item>Optimiert für Audioqualität (990 kbps/909 kbps)</item>
+        <item>Ausgewogene Audio- und Verbindungsqualität (660 kbps/606 kbps)</item>
+        <item>Optimiert für Verbindungsqualität (330 kbps/303 kbps)</item>
+        <item>Beste Leistung (adaptive Bitrate)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>SBC</item>
@@ -76,7 +76,7 @@
         <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive Audio</item>
         <item>Qualcomm® aptX™ TWS+ Audio</item>
-      </string-array>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Systemauswahl nutzen (Standard)</item>
         <item>SBC</item>
@@ -88,23 +88,6 @@
         <item>Opus</item>
         <item>Qualcomm® aptX™ Adaptive Audio</item>
         <item>Qualcomm® aptX™ TWS+ Audio</item>
-      </string-array>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>, aktiv</item>
-        <item>, aktiv (Medien)</item>
-        <item>, aktiv (Telefon)</item>
-      </string-array>
-    <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.5 (Standard)</item>
-        <item>AVRCP 1.3</item>
-        <item>AVRCP 1.4</item>
-        <item>AVRCP 1.6</item>
-      </string-array>
-    <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (Standard)</item>
-        <item>MAP 1.3</item>
-        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Deaktiviert</item>
@@ -113,11 +96,6 @@
         <item>Kopfzeilen gefiltert aktiviert</item>
         <item>Media Pkts gefiltert aktiviert</item>
         <item>Profile gefiltert aktiviert</item>
-      </string-array>
-    <string-array name="bt_hci_snoop_log_filters_entries">
-        <item>Nur ACL-Header belassen</item>
-        <item>A2DP-Medienpakete filtern</item>
-        <item>RFCOMM-Kanal filtern</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_profile_filter_entries">
         <item>Deaktivieren</item>
@@ -135,26 +113,11 @@
         <item>Natürlich</item>
         <item>Standard</item>
     </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Aus</item>
-        <item>Überschneidungsbereiche anzeigen</item>
-        <item>Bereiche für Farbfehlsichtige anzeigen</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nichts</item>
         <item>Logcat</item>
         <item>Systrace (Grafik)</item>
         <item>Call stack on glGetError</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Nie HDCP-Prüfung verwenden</item>
-        <item>HDCP-Prüfung nur für DRM-Inhalte verwenden</item>
-        <item>Immer HDCP-Prüfung verwenden</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Nie prüfen</item>
-        <item>Nur DRM-Inhalte prüfen</item>
-        <item>Immer prüfen</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nichts</item>
@@ -182,7 +145,7 @@
         <item>256K pro Log-Puffer</item>
         <item>1M pro Log-Puffer</item>
         <item>4M pro Log-Puffer</item>
-        <item>16M pro Log-Puffer</item>
+        <item>8M pro Log-Puffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Aus</item>
@@ -190,24 +153,19 @@
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>16M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Aus</item>
         <item>Alle Logpuffer</item>
         <item>Alle außer Funk-Logpuffer</item>
         <item>Nur Kernel-Logpuffer</item>
-      </string-array>
+    </string-array>
     <string-array name="select_logpersist_titles">
         <item>Aus</item>
         <item>Alle</item>
         <item>Alle außer Funk</item>
         <item>Nur Kernel</item>
-      </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Aus</item>
-        <item>Nicht rechteckigen Clipbereich blau zeichnen</item>
-        <item>Getestete Zeichenbefehle grün hervorheben</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Aus</item>
@@ -222,12 +180,6 @@
         <item>Skala 2x</item>
         <item>Skala 5x</item>
         <item>Skala 10x</item>
-    </string-array>
-    <string-array name="udfps_accessibility_touch_hints">
-        <item>Nach links bewegen</item>
-        <item>Nach unten bewegen</item>
-        <item>Nach rechts bewegen</item>
-        <item>Nach oben bewegen</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Laden</item>
@@ -278,7 +230,7 @@
         <item>Fehlgeschlagen</item>
         <item>Blockiert</item>
         <item>Temporär schlechte Verbindung vermeiden</item>
-      </string-array>
+    </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation aus</item>
         <item>Skala 0.5x</item>

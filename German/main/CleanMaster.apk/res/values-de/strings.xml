@@ -56,10 +56,10 @@
     <string name="cd_list_item_collapse">minimiert</string>
     <string name="cd_list_item_expanded">erweitert</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Nein, danke</string>
-    <string name="clean_master_icon_recall_dialog_summary">Verknüpfung zum Startbildschirm hinzufügen, um den Papierkorb jederzeit zu leeren</string>
+    <string name="clean_master_icon_recall_dialog_summary">Startbildschirm-Verknüpfung hinzufügen, um den Papierkorb jederzeit zu leeren</string>
     <string name="clean_master_icon_recall_dialog_title">Papierkorb schneller leeren</string>
-    <string name="clean_master_icon_recall_hint">Verknüpfung zum Startbildschirm hinzufügen</string>
-    <string name="clean_master_icon_recall_summary">Verknüpfung zum Startbildschirm hinzufügen, um den Papierkorb jederzeit zu leeren</string>
+    <string name="clean_master_icon_recall_hint">Startbildschirm-Verknüpfung hinzufügen</string>
+    <string name="clean_master_icon_recall_summary">Startbildschirm-Verknüpfung hinzufügen, um den Papierkorb jederzeit zu leeren</string>
     <string name="clean_master_icon_recall_title">Papierkorb schneller leeren</string>
     <string name="clean_master_icon_recall_toast_text">Cleaner-Verknüpfung erfolgreich zum Startbildschirm hinzugefügt</string>
     <string name="clean_summary">%1$s bereinigt</string>

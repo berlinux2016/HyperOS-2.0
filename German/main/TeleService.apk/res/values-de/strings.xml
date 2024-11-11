@@ -2022,7 +2022,7 @@
     <string name="third_party_account_summary">Dieses Konto wird aktuell von der App %s genutzt</string>
     <string name="throttle_current_usage">Im aktuellen Zeitraum genutzte Daten</string>
     <string name="throttle_data_rate_reduced_subtext">%1$s Maximum überschritten\nDrosselung auf %2$d KB/s</string>
-    <string name="throttle_data_usage">Datenverbrauch</string>
+    <string name="throttle_data_usage">Datennutzung</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d%%) von %3$s maximalem Datenzeitraum</string>
     <string name="throttle_help">Mehr erfahren</string>
     <string name="throttle_help_subtext">Mehr Infos über die Richtlinien für die Nutzung von Mobilfunknetzdaten Ihres Anbieters</string>

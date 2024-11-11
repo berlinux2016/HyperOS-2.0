@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="battery_authentic_failed_message">
-        <item quantity="other">Anscheinend wurde der Akku getrennt. Ihr Gerät wird innerhalb von %d Sek ausgeschaltet. Wenden Sie sich an den Kundensupport, um dieses Problem zu lösen.</item>
-        <item quantity="one">Anscheinend wurde der Akku getrennt. Ihr Gerät wird innerhalb von %d Sek ausgeschaltet. Wenden Sie sich an den Kundensupport, um dieses Problem zu lösen.</item>
-    </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d Dateien</item>
-        <item quantity="one">%1$d Datei</item>
+        <item quantity="other">Anscheinend wurde der Akku getrennt. Dein Gerät wird innerhalb von %d Sek ausgeschaltet. Wende dich an den Kundensupport, um dieses Problem zu beheben.</item>
+        <item quantity="one">Anscheinend wurde der Akku getrennt. Dein Gerät wird innerhalb von %d Sek ausgeschaltet. Wende dich an den Kundensupport, um dieses Problem zu beheben.</item>
     </plurals>
 </resources>

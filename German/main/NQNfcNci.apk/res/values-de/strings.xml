@@ -259,7 +259,7 @@
     <string name="solar_term_white_dews">Weißer Tau</string>
     <string name="solar_term_winter_begins">Winteranfang</string>
     <string name="solar_term_winter_solstice">Wintersonnenwende</string>
-    <string name="status_unable_to_connect">Netzwerkverbindung nicht möglich</string>
+    <string name="status_unable_to_connect">Netzwerkverbindung fehlgeschlagen</string>
     <string name="status_wifi_connected">Verbunden</string>
     <string name="summary_confirm_url_open">"Ihr Telefon hat einen Link per NFC empfangen: "</string>
     <string name="sunday">Sonntag</string>

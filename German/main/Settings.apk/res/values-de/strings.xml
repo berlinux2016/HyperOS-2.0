@@ -511,7 +511,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="add_fingerprint_text">Fingerabdruck hinzufügen</string>
     <string name="add_fingerprint_toast_text">Legen Sie Ihren Finger auf den Scanner</string>
     <string name="add_front_fingerprint_instruction_msg">Fingerabdrucksensor befindet sich in der Home-Taste Ihres Geräts</string>
-    <string name="add_guest_failed">Neuen Gast erstellen fehlgeschalgen</string>
+    <string name="add_guest_failed">Neuen Gast erstellen fehlgeschlagen</string>
     <string name="add_new">Hinzufügen</string>
     <string name="add_one_text_app_name_once">Sie können jeweils ein Paket hinzufügen</string>
     <string name="add_rule">Regeln hinzufügen</string>
@@ -665,7 +665,7 @@ Sie können nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="ap_connected_battery_level">" | Akku %1$s"</string>
     <string name="ap_p2p_dialog_message">Die aktuell freigegebene WLAN-Verbindung wird bereits verwendet. Sie dürfen Wi-Fi Direct, Xiaomi Share, Casting oder andere drahtlose Übertragungsdienste nicht verwenden, bevor Sie Ihren persönlichen Hotspot einschalten.</string>
     <string name="ap_p2p_dialog_yes">Trennen</string>
-    <string name="apn_auth_type">Authentisierungstyp</string>
+    <string name="apn_auth_type">Authentifizierungstyp</string>
     <string name="apn_edit">APN bearbeiten</string>
     <string name="apn_general">Allgemein</string>
     <string name="apn_mms_port">MMS-Port</string>
@@ -1125,9 +1125,9 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="battery_tip_dialog_message">Ihr Telefon wurde mehr als üblich benutzt, daher kann Ihr Akku schneller leer sein als erwartet.\n\nApps mit höchstem Akkuverbrauch:</string>
     <string name="battery_tip_dialog_message_footer">Inkl. intensiver Hintergrundaktivität</string>
     <string name="battery_tip_dialog_summary_message">Ihre Apps verbrauchen den Akku normal. Wenn Apps zu viel Akku verbrauchen, schlägt Ihnen Ihr Telefon entsprechende Maßnahmen vor.\n\nSie können Stromsparen jederzeit einschalten, wenn der Akku knapp wird.</string>
-    <string name="battery_tip_dock_defender_active_summary">Um die Lebensdauer des Akkus zu verlängern, wird der Ladevorgang im angedockten Zustand optimiert</string>
+    <string name="battery_tip_dock_defender_active_summary">Um die Akkulaufzeit zu verlängern, wird der Ladevorgang im angedockten Zustand optimiert</string>
     <string name="battery_tip_dock_defender_active_title">Ladevorgang zum Schutz des Akkus optimiert</string>
-    <string name="battery_tip_dock_defender_future_bypass_summary">Um die Lebensdauer des Akkus zu verlängern, wird der Ladevorgang im angedockten Zustand optimiert</string>
+    <string name="battery_tip_dock_defender_future_bypass_summary">Um die Akkulaufzeit zu verlängern, wird der Ladevorgang im angedockten Zustand optimiert</string>
     <string name="battery_tip_dock_defender_future_bypass_title">Ladevorgang zum Schutz des Akkus optimiert</string>
     <string name="battery_tip_dock_defender_temporarily_bypassed_summary">Um Ihren Akku zu schonen, wird der Ladevorgang optimiert, wenn Ihr Tablet das nächste Mal angedockt wird</string>
     <string name="battery_tip_dock_defender_temporarily_bypassed_title">Voll laden</string>
@@ -1145,7 +1145,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="battery_tip_limited_temporarily_sec_button_content_description">Erfahren Sie mehr über das Anhalten des Ladevorgangs</string>
     <string name="battery_tip_limited_temporarily_summary">Um die Lebensdauer Ihres Akkus zu verlängern, wurde der Ladevorgang optimiert</string>
     <string name="battery_tip_limited_temporarily_title">Ladevorgang zum Schutz des Akkus optimiert</string>
-    <string name="battery_tip_low_battery_summary">Stromsparen einschalten, um die Lebensdauer des Akkus zu verlängern</string>
+    <string name="battery_tip_low_battery_summary">Stromsparen einschalten, um die Akkulaufzeit zu verlängern</string>
     <string name="battery_tip_low_battery_title">Niedriger Akkustand</string>
     <string name="battery_tip_restrict_app_dialog_message">Um den Akku zu schonen, hindern Sie %1$s am Akkuverbrauch im Hintergrund. Diese App funktioniert ggf. nicht richtig und Benachrichtigungen können sich verzögern.</string>
     <string name="battery_tip_restrict_app_dialog_ok">Einschränken</string>
@@ -2567,7 +2567,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="debug_applications_category">Apps</string>
     <string name="debug_drawing_category">Zeichnen</string>
     <string name="debug_hw_drawing_category">Hardware-beschleunigtes Rendering</string>
-    <string name="debug_hw_overdraw">GPU-Überzeichnung debuggen</string>
+    <string name="debug_hw_overdraw">GPU-Overdraw debuggen</string>
     <string name="debug_input_category">Eingabe</string>
     <string name="debug_layout">Layoutgrenzen einblenden</string>
     <string name="debug_layout_summary">Clip-Grenzen, Ränder etc. anzeigen</string>
@@ -3692,7 +3692,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="gesture_preference_title">Gesten</string>
     <string name="gesture_prevent_ringing_screen_title">Klingeln verhindern</string>
     <string name="gesture_prevent_ringing_sound_title">Verknüpfung, um Klingeln zu verhindern</string>
-    <string name="gesture_prevent_ringing_title">Power &amp; Lautstärke hoch gleichzeitig drücken</string>
+    <string name="gesture_prevent_ringing_title">Power &amp; Lauter-Taste gleichzeitig drücken</string>
     <string name="gesture_setting_off">Aus</string>
     <string name="gesture_setting_on">An</string>
     <string name="gesture_settings_activity_title">Empfindlichkeit Gestensteuerung</string>
@@ -3941,7 +3941,7 @@ Sicherungen werden in der Xiaomi Cloud gespeichert und können drahtlos aufgeruf
     <string name="high_power_filter_on">Nicht optimiert</string>
     <string name="high_power_off">Akkuverbrauch optimieren</string>
     <string name="high_power_on">Nicht optimiert</string>
-    <string name="high_power_prompt_body">Wenn Sie %1$s immer im Hintergrund laufen lassen, kann sich die Lebensdauer des Akkus verringern. \n\nSie können dies später unter Einstellungen > Apps ändern.</string>
+    <string name="high_power_prompt_body">Wenn Sie %1$s immer im Hintergrund laufen lassen, kann sich die Akkulaufzeit verringern. \n\nSie können dies später unter Einstellungen > Apps ändern.</string>
     <string name="high_power_prompt_title">App immer im Hintergrund laufen lassen?</string>
     <string name="high_power_system">Akkuoptimierung nicht verfügbar</string>
     <string name="high_temperature_toast">Ihr Gerät ist überhitzt. Funktion kann jetzt nicht verwendet werden.</string>
@@ -4238,7 +4238,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="keywords_battery_saver_sticky">Batteriesparen, Akkusparen, Stromsparen, sticky, haftend, dauerhaft, Batterie, Akku</string>
     <string name="keywords_battery_usage">Akkuverbrauch anzeigen, Akkuverbrauch, Stromverbrauch</string>
     <string name="keywords_biometric_settings">Gesicht, Fingerabdruck, Fingerabdruck hinzufügen</string>
-    <string name="keywords_biometric_unlock">Gesicht, entsperren, Authentisierung, Anmelden, Fingerabdruck, biometrisch</string>
+    <string name="keywords_biometric_unlock">Gesicht, entsperren, Authentifizierung, Anmelden, Fingerabdruck, biometrisch</string>
     <string name="keywords_bluetooth_settings">verbunden, Gerät, Kopfhörer, Headset, Lautsprecher, drahtlos, koppeln, Ohrhörer, Kopfhörer,Musik, Medien</string>
     <string name="keywords_bold_text">Hoher Kontrast, Sehschwäche, fette Schrift, fette Schriftart</string>
     <string name="keywords_button_navigation_settings">Navigation, Home-Taste</string>
@@ -4842,7 +4842,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="long_press_power_key_half_of_second">Power-Taste 0,5 Sek gedrückt halten, um Google Assistant einzuschalten</string>
     <string name="long_press_power_key_half_second">Power-Taste %s Sek gedrückt halten</string>
     <string name="long_press_power_key_tips">&lt;Data>Power-Taste lange drücken ist &lt;font color=\"#999999\">schneller und komfortabler&lt;/font>&lt;/Data></string>
-    <string name="long_press_volume_down">Lautstärke runter lange drücken</string>
+    <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
     <string name="lost_internet_access_cancel">Auf WLAN bleiben</string>
     <string name="lost_internet_access_persist">Nicht mehr anzeigen</string>
     <string name="lost_internet_access_switch">Auf mobil umstellen</string>
@@ -4990,7 +4990,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="media_output_status_track_unsupported">Dieses Medium kann hier nicht abgespielt werden</string>
     <string name="media_output_status_try_after_ad">Nach der Werbung erneut versuchen</string>
     <string name="media_output_status_unauthorized">Gerät nicht zum Abspielen zugelassen</string>
-    <string name="media_output_status_unknown_error">Auf diesem Gerät kann nicht abgespielt werden</string>
+    <string name="media_output_status_unknown_error">Wiedergabe auf diesem Gerät nicht möglich</string>
     <string name="media_output_title">Medien abspielen auf</string>
     <string name="media_transfer_default_device_name">Verbundenes Gerät</string>
     <string name="media_transfer_dock_speaker_device_name">Dock-Lautsprecher</string>
@@ -5173,8 +5173,8 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_key_config_trans_summary">Externe Geräusche erlauben</string>
     <string name="miheadset_key_config_triple_left">Linken Kopfhörer dreifach antippen</string>
     <string name="miheadset_key_config_triple_right">Rechten Kopfhörer dreifach antippen</string>
-    <string name="miheadset_key_config_volume_down">Lautstärke runter</string>
-    <string name="miheadset_key_config_volume_up">Lautstärke hoch</string>
+    <string name="miheadset_key_config_volume_down">Leiser-Taste</string>
+    <string name="miheadset_key_config_volume_up">Lauter-Taste</string>
     <string name="miheadset_key_config_volume_up_down">Lautstärke einstellen</string>
     <string name="miheadset_last_version">Firmware ist aktuell</string>
     <string name="miheadset_local_ota">Aktualisieren</string>
@@ -5185,7 +5185,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_longpress_temple_when_idle">Gedrückt halten, wenn nicht telefoniert wird</string>
     <string name="miheadset_low_latency">Geringe Latenzzeit</string>
     <string name="miheadset_manual">Über das Gerät</string>
-    <string name="miheadset_minus">Lautstärke runter</string>
+    <string name="miheadset_minus">Leiser-Taste</string>
     <string name="miheadset_moreSettingsInAi">Weitere Einstellungen</string>
     <string name="miheadset_multi_connect_mode_summary">Mehr als ein Gerät gleichzeitig anschließen</string>
     <string name="miheadset_network_not_available">Netzwerkeinstellungen prüfen und erneut versuchen</string>
@@ -5197,7 +5197,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="miheadset_phone_connected_hangup">Anruf annehmen oder beenden</string>
     <string name="miheadset_phone_play_pause">Abspielen oder Pause</string>
     <string name="miheadset_play_pause">Abspielen/Pause</string>
-    <string name="miheadset_plus">Lautstärke hoch</string>
+    <string name="miheadset_plus">Lauter-Taste</string>
     <string name="miheadset_preferences">Voreinstellungen</string>
     <string name="miheadset_rename">Umbenennen</string>
     <string name="miheadset_rename_device">Umbenennen</string>
@@ -6292,7 +6292,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="platform_compat_target_sdk_title">Aktiviert für targetSdkVersion &gt;= %d</string>
     <string name="please_connect_to_the_network">Mit WLAN oder mobilen Daten verbinden, um die Löschung der eSIM-Daten abzuschließen</string>
     <string name="please_connect_to_the_wifi">Mit WLAN verbinden, um die Löschung der eSIM-Daten abzuschließen</string>
-    <string name="please_select_phase2">Phase 2-Authentisierung</string>
+    <string name="please_select_phase2">Phase 2-Authentifizierung</string>
     <string name="please_stop_broadcast_audio">Bitte beenden Sie zuerst den Broadcast des lokalen Audios</string>
     <string name="please_stop_listen_broadcast_audio">Bitte beenden Sie das Anhören des aktuellen Broadcasts</string>
     <string name="please_type_passphrase">Passwort</string>
@@ -6344,7 +6344,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="power_menu_long_press_for_power_menu_title">Power-Menü</string>
     <string name="power_menu_none">Keinen Inhalt anzeigen</string>
     <string name="power_menu_power_prevent_ringing_hint">Klingeln verhindern:\nEine Lautstärketaste für die Verknüpfung drücken</string>
-    <string name="power_menu_power_volume_up_hint">Power-Menü:\nGleichzeitig Power-Taste und Lautstärke hoch drücken</string>
+    <string name="power_menu_power_volume_up_hint">Power-Menü:\nGleichzeitig Power-Taste und Lauter-Taste drücken</string>
     <string name="power_menu_setting_name">Power-Taste gedrückt halten</string>
     <string name="power_menu_summary_long_press_for_assistant">Zugriff digitaler Assistenten</string>
     <string name="power_menu_summary_long_press_for_power_menu">Zugriff Power-Menü</string>
@@ -6389,7 +6389,7 @@ Xiaomi Cloud öffnen und Elemente von dort aus wiederherstellen."</string>
     <string name="pref_show_lunar_calendar_title">Traditionellen chin. Kalender am Sperrbildschirm anzeigen.</string>
     <string name="pref_title_network_details">Netzwerkdetails</string>
     <string name="pref_title_update_notification">Benachrichtigungen Datennutzung</string>
-    <string name="pref_volume_launch_camera_summary">Lautstärke runter zweimal drücken, um Kamera zu starten</string>
+    <string name="pref_volume_launch_camera_summary">Leiser-Taste zweimal drücken, um Kamera zu starten</string>
     <string name="pref_volume_launch_camera_title">Kamera starten</string>
     <string name="pref_volume_wake_summary">Lautstärketasten drücken weckt das Telefon auf</string>
     <string name="pref_volume_wake_title">Mit Lautstärketasten aufwecken</string>
@@ -7400,7 +7400,7 @@ App-Daten gehen nicht verloren."</string>
     <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Einrichtung fortsetzen</string>
     <string name="security_settings_face_enroll_education_title">So richten Sie Gesichtssperre ein</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Gesichtssperre einrichten</string>
-    <string name="security_settings_face_enroll_education_title_unlock_disabled">Benutzen Sie Ihr Gesicht zur Authentisierung</string>
+    <string name="security_settings_face_enroll_education_title_unlock_disabled">Benutzen Sie Ihr Gesicht zur Authentifizierung</string>
     <string name="security_settings_face_enroll_enrolling_skip">Überspringen</string>
     <string name="security_settings_face_enroll_error_dialog_title">Registrierung wurde nicht abgeschlossen</string>
     <string name="security_settings_face_enroll_error_generic_dialog_message">Gesichtsregistrierung hat nicht funktioniert</string>
@@ -7532,7 +7532,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_message_consent_6">Die besten Ergebnisse erzielen Sie, wenn Sie einen Bildschirmschutz verwenden, der Made for Google-zertifiziert ist. Bei anderem Bildschirmschutz funktioniert der Fingerabdruck Ihres Kindes evtl. nicht.</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_1">Nicht vergessen</string>
     <string name="security_settings_fingerprint_v2_enroll_introduction_footer_title_2">So funktioniert es</string>
-    <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Wenn Sie dieses Symbol sehen, verwenden Sie Ihren Fingerabdruck zur Authentisierung, z. B. wenn Sie sich bei Apps anmelden oder einen Einkauf bestätigen.</string>
+    <string name="security_settings_fingerprint_v2_enroll_introduction_message_setup">Wenn Sie dieses Symbol sehen, verwenden Sie Ihren Fingerabdruck zur Authentifizierung, z. B. wenn Sie sich bei Apps anmelden oder einen Einkauf bestätigen.</string>
     <string name="security_settings_fingerprint_v2_home_screen_text">Verwenden Sie Ihren Fingerabdruck, um Ihr Telefon zu entsperren oder zu verifizieren, dass Sie es sind, z. B. wenn Sie sich bei Apps anmelden</string>
     <string name="security_settings_require_screen_on_to_auth_description">Berühren Sie den Sensor zum Entsperren, auch wenn der Bildschirm ausgeschaltet ist. Dies macht ein versehentliches Entsperren wahrscheinlicher.</string>
     <string name="security_settings_require_screen_on_to_auth_keywords">Bildschirm, Entsperren</string>
@@ -7982,7 +7982,7 @@ Sie können jeweils nur ein Gesicht einrichten. Um ein weiteres Gesicht hinzuzuf
     <string name="sos_area_code_settings_hint">Vorwahl eingeben</string>
     <string name="sos_area_code_settings_summary">Vorwahl der Telefonnummer Ihres Notfallkontakts manuell einstellen</string>
     <string name="sos_area_code_settings_title">Vorwahl einstellen</string>
-    <string name="sos_navigation_guide_message">Zur Navigation die Taste Lautstärke runter drücken, dann die Taste Lautstärke hoch drücken und gedrückt halten, um die Auswahl zu bestätigen</string>
+    <string name="sos_navigation_guide_message">Zur Navigation die Leiser-Taste drücken, dann die Lauter-Taste drücken und gedrückt halten, um die Auswahl zu bestätigen</string>
     <string name="sos_navigation_guide_title">Lautstärketasten im Notruf-SOS-Modus</string>
     <string name="sos_phone_call_privacy_dialog_message">"Um Ihre Notfallkontakte anzurufen und SOS-Aufnahmen abzuspielen, benötigt diese App folgende Berechtigungen:
 • Telefonieren
@@ -8477,8 +8477,8 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="talkback_ocr_title">Text erkennen</string>
     <string name="talkback_summary">Bildschirmleser in erster Linie für Blinde und Menschen mit eingeschränkten Sehvermögen</string>
     <string name="talkback_watermark_enable">TalkBack Wassrzeichen</string>
-    <string name="tap_to_sign_up">Tippen zum Anmelden</string>
-    <string name="tap_to_wake">Tippen zum Aufwecken</string>
+    <string name="tap_to_sign_up">Zum Anmelden tippen</string>
+    <string name="tap_to_wake">Zum Aufwecken tippen</string>
     <string name="tap_to_wake_summary">2x irgendwo auf den Bildschirm tippen, um das Gerät aufzuwecken</string>
     <string name="tare_actions_base_price">Aktionen (Grundpreis)</string>
     <string name="tare_actions_ctp">Aktionen (Produktionskosten)</string>
@@ -8827,22 +8827,22 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="unknown_error_info">Unbekannter Fehler</string>
     <string name="unlock_change_lock_pin_title">PIN ändern</string>
     <string name="unlock_disable_frp_warning_content_password">Ein Passwort schützt Ihr Telefon bei Verlust oder Diebstahl</string>
-    <string name="unlock_disable_frp_warning_content_password_face">Ein Passwort schützt das Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">Ein Passwort schützt das Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">Ein Passwort schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_password_face">Ein Passwort schützt das Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint">Ein Passwort schützt das Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">Ein Passwort schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_pattern">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl</string>
-    <string name="unlock_disable_frp_warning_content_pattern_face">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Ein Muster schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_pin">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl</string>
-    <string name="unlock_disable_frp_warning_content_pin_face">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_pin_face">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Eine PIN schützt Ihr Telefon bei Verlust oder Diebstahl.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_content_profile">Profilschutzfunktionen funktionieren nicht ohne Ihr Passwort</string>
     <string name="unlock_disable_frp_warning_content_unknown">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre</string>
-    <string name="unlock_disable_frp_warning_content_unknown_face">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentisierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.\n\nIhr Gesichtsmodell wird außerdem dauerhaft und sicher gelöscht. Sie können Ihr Gesicht nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_face_fingerprint">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.\n\nDadurch wird das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Ihr Gesichtsmodell wird ebenfalls dauerhaft und sicher gelöscht. Sie können Ihr Gesicht oder Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Geräteschutzfunktionen funktionieren nicht ohne Ihre Bildschirmsperre.\n\nDadurch wird auch das auf Ihrem Gerät gespeicherte Fingerabdruckmodell gelöscht. Sie können Ihren Fingerabdruck nicht mehr zur Authentifizierung in Apps verwenden.</string>
     <string name="unlock_disable_frp_warning_ok">Löschen</string>
     <string name="unlock_disable_frp_warning_title">Bildschirmsperre löschen?</string>
     <string name="unlock_disable_frp_warning_title_profile">Profilschutz entfernen?</string>
@@ -9562,7 +9562,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifi_disabled_generic">Deaktiviert</string>
     <string name="wifi_disabled_help">WLAN wurde wegen schlechter Verbindung getrennt. Sie können diese Funktion ausschalten unter Einstellungen &gt; WLAN &gt; Weitere Einstellungen.</string>
     <string name="wifi_disabled_network_failure">IP konfigurieren fehlgeschlagen</string>
-    <string name="wifi_disabled_password_failure">Authentisierungsproblem</string>
+    <string name="wifi_disabled_password_failure">Authentifizierungsproblem</string>
     <string name="wifi_disconnect_button_text">Trennen</string>
     <string name="wifi_disconnected">Getrennt</string>
     <string name="wifi_disconnected_from">Von %1$s getrennt</string>
@@ -9731,7 +9731,7 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifi_no_sim_card">Keine SIM</string>
     <string name="wifi_no_user_cert_warning">Zertifikat erforderlich</string>
     <string name="wifi_non_persistent_mac_randomization">WLAN nicht-persistente MAC-Randomisierung</string>
-    <string name="wifi_non_persistent_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts jedes Mal ändern, wenn es sich mit einem Netzwerk verbindet, in dem die MAC-Randomisierung aktiviert ist.</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">Wenn dieser Modus aktiviert ist, kann sich die MAC-Adresse dieses Geräts bei jeder Verbindung mit einem Netzwerk ändern, bei dem die MAC-Randomisierung aktiviert ist.</string>
     <string name="wifi_not_in_range">Nicht in Reichweite</string>
     <string name="wifi_not_in_range_message">Netzwerk nicht in Reichweite</string>
     <string name="wifi_notify_cmcc_connected_summary">Benachrichtigung anzeigen, wenn mit CMCC-Netzwerk verbunden</string>
@@ -9992,14 +9992,14 @@ Alle auf diesem ^1 gespeicherten Apps werden deinstalliert und ihre Daten gelös
     <string name="wifitrackerlib_private_dns_broken">Private DNS-Server nicht erreichbar</string>
     <string name="wifitrackerlib_saved_network">Gespeichert von %1$s</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Tippen, um das Abo zu verlängern und zu verbinden</string>
-    <string name="wifitrackerlib_tap_to_sign_up">Tippen zum Anmelden</string>
+    <string name="wifitrackerlib_tap_to_sign_up">Zum Anmelden tippen</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Zugangspunkt vorübergehend voll</string>
     <string name="wifitrackerlib_wifi_band_unknown">Unbekannt</string>
     <string name="wifitrackerlib_wifi_check_password_try_again">Passwort prüfen und erneut versuchen</string>
     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Mit Gerät verbunden. Internet nicht verfügbar.</string>
     <string name="wifitrackerlib_wifi_disabled_generic">Deaktiviert</string>
     <string name="wifitrackerlib_wifi_disabled_network_failure">IP-Konfigurationsfehler</string>
-    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentisierungsproblem</string>
+    <string name="wifitrackerlib_wifi_disabled_password_failure">Authentifizierungsproblem</string>
     <string name="wifitrackerlib_wifi_disabled_transition_disable_indication">Mit aktuellen Sicherheitseinstellungen nicht verfügbar</string>
     <string name="wifitrackerlib_wifi_disconnected">Getrennt</string>
     <string name="wifitrackerlib_wifi_limited_connection">Begrenzte Verbindung</string>

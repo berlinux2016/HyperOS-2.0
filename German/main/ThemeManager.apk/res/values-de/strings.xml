@@ -1222,7 +1222,7 @@ Sie können diese Erlaubnis unter Einstellungen > Datenschutz erteilen."</string
     <string name="share_wallpaper_content_text">"Sie können den erstaunlichen Hintergrund \"%1$s\" hier herunterladen: %2$s. Von "</string>
     <string name="shortcut_add">Hinzufügen</string>
     <string name="shortcut_cancel">Nein, danke</string>
-    <string name="shortcut_message">Verknüpfung im Startbildschirm hinzufügen!</string>
+    <string name="shortcut_message">Startbildschirm-Verknüpfung hinzufügen!</string>
     <string name="shortcut_show_tip">Nicht mehr anzeigen</string>
     <string name="shortcut_title">Sie mögen unsere Hintergründe?</string>
     <string name="show_exchange">Verknüpfung zum Rücknahmezentrum</string>
@@ -1512,7 +1512,7 @@ Gehen Sie zu Themen > Mein Konto > Themenlabor für weitere Optionen.</string>
     <string name="uid_change_dialog_title">Gerät neu starten</string>
     <string name="unable_connect_network">Netzwerkverbindung fehlgeschlagen</string>
     <string name="uninstall_theme">\"Themen\" vom Startbildchirm entfernen?</string>
-    <string name="uninstall_theme_description">Themen ist eine System-App. Sie bietet Hintergründe und viele Personalisierungsoptionen. Sie können Themen weiterhin über Einstellungen verwenden, wenn Sie die Verknüpfung für den Startbildschirm entfernen.</string>
+    <string name="uninstall_theme_description">Themen ist eine System-App. Sie bietet Hintergründe und viele Personalisierungsoptionen. Sie können Themen weiterhin über Einstellungen verwenden, wenn Sie die Startbildschirm-Verknüpfung entfernen.</string>
     <string name="up_to_the_end">Das ist im Moment alles. Kommen Sie später wieder.</string>
     <string name="update">Aktualisierung</string>
     <string name="update_btn">JETZT AKTUALISIEREN</string>

@@ -14,20 +14,15 @@
         <item>Hoch</item>
         <item>Am höchsten</item>
     </string-array>
-    <string-array name="gb_gpu_custom_cut_texture">
-        <item>Ausgewogen</item>
-        <item>Hochwertig</item>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
     </string-array>
     <string-array name="gb_gpu_custom_frame_rate_gear">
         <item>Niedrig</item>
-        <item>Standard</item>
+        <item>Normal</item>
         <item>Hoch</item>
         <item>Am höchsten</item>
-        <item>Voreinstellung</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_texture">
-        <item>Hochgeschwindigkeit</item>
-        <item>Ausgewogen</item>
-        <item>Hochwertig</item>
+        <item>Standard</item>
     </string-array>
 </resources>

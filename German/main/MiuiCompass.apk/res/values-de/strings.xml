@@ -95,7 +95,7 @@
     <string name="permission_camera_desc">Für Azimutanzeige in der Live-Vorschau</string>
     <string name="permission_location_desc">Zur Koordinatenanzeige</string>
     <string name="pm">PM</string>
-    <string name="remove_icon_description_content">Kompass ist eine System-App. Du kannst sie nicht mehr zum Prüfen von Richtung, Koordinaten, Luftdruck und aktueller Höhe verwenden, wenn du die Verknüpfung vom Startbildschirm entfernst.</string>
+    <string name="remove_icon_description_content">Kompass ist eine System-App. Du kannst sie nicht mehr zum Prüfen von Richtung, Koordinaten, Luftdruck und aktueller Höhe verwenden, wenn du die Startbildschirm-Verknüpfung entfernst.</string>
     <string name="saturday_shortest">S</string>
     <string name="search_menu_title">Suchen</string>
     <string name="solar_term_autumn_begins">Herbstanfang</string>
