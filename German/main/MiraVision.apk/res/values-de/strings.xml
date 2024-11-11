@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="automatic_smart_backlight">Automatische smarte Hintergrundbeleuchtung</string>
+    <string name="blue_light_item">BluLight Defender</string>
+    <string name="content_sensitive_bright_title">Inhaltsangepasste Stromeinsparung</string>
+    <string name="intro_str">MiraVision™ ermöglicht eine einfache Echtzeit-Verbesserung der Bildqualität. Für fortgeschrittene Benutzer stehen unter Bildmodus-Benutzermodus weitere Einstellmöglichkeiten zur Verfügung.</string>
+    <string name="lcd_header">Bildschirm-OverDrive</string>
+    <string name="light_sensitive_bright_summary">Helligkeit an die Umgebung anpassen</string>
+    <string name="light_sensitive_bright_title">Lichtadaptive Helligkeit</string>
+    <string name="not_remind_again">Nicht mehr erinnern.</string>
+    <string name="overdrive_intro">Schnelle LCD-Antwort und Übersteuerung des Bildschirms</string>
+    <string name="picture_mode_user">Benutzermodus</string>
+    <string name="readability_enhancer_summary">Lesbarkeit je nach Umgebungslicht verbessern.</string>
+    <string name="readability_enhancer_title">Verbesserung der Lesbarkeit</string>
+    <string name="reset_dialog_message">Alle MiraVision™-Einstellungen werden zurückgesetzt</string>
+    <string name="user_mode_warning_msg">Benutzermodus ermöglicht die manuelle Einstellung der Anzeige für den gewünschten Effekt.</string>
+    <string name="video_enhance_header">Videoverbesserung</string>
+</resources>

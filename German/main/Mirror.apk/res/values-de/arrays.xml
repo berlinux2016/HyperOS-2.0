@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="desktop_positions">
-        <item>Links</item>
-        <item>Rechts</item>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Geräte-Interkonnektivitätsdienste</item>
+        <item>Verbinden &amp; Teilen/Geräte-Interkonnektivitätsdienste</item>
+        <item>Screen Combo;Duett;Mehrfachbildschirm;Duo;Computer;spiegeln;Geräte-Interkonnektivitätsdienste</item>
     </string-array>
     <string-array name="settings_search_mirror_desktop">
-        <item>Starbildschirm+</item>
-        <item>Interkonnektivität/Starbildschirm+</item>
-        <item>Starbildschirm+, Starbildschirm, Xiaomi Smart Hub, Screen Combo, Geräteinterkonnektivität</item>
+        <item>Startbildschirm+</item>
+        <item>Interkonnektivität/Startbildschirm+</item>
+        <item>Startbildschirm+, Startbildschirm, Xiaomi Smart Hub, Bildschirm-Combo, Geräteinterkonnektivität</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Verbindung über QR-Code nicht möglich?</item>
+        <item>Du kannst mit deinem Computer keine Mobilgeräte finden?</item>
+        <item>Du kannst dein Mobilgerät nicht sperren?</item>
+        <item>Kompatibilität</item>
     </string-array>
 </resources>
