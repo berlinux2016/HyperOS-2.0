@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="abc_slice_duration_days">
-        <item quantity="other">Vor %d Tagen</item>
-        <item quantity="one">Vor %d Tag</item>
-    </plurals>
     <plurals name="abc_slice_duration_min">
         <item quantity="other">Vor %d Min</item>
         <item quantity="one">Vor %d Min</item>
@@ -12,25 +8,9 @@
         <item quantity="other">Vor %d Jr</item>
         <item quantity="one">Vor %d Jr</item>
     </plurals>
-    <plurals name="atmospheric_pressure_desc">
-        <item quantity="other">Atmosphärischer Druck: %s Hektopascal</item>
-        <item quantity="one">Atmosphärischer Druck: %s Hektopascal</item>
-    </plurals>
-    <plurals name="health_chart_calories_burned_schedule_format_desc">
-        <item quantity="other">%1$s Kalorien verbrannt</item>
-        <item quantity="one">%1$s Kalorie verbrannt</item>
-    </plurals>
     <plurals name="health_chart_calories_goal_schedule_format_desc">
         <item quantity="other">Kalorienziel: %1$s Kalorien</item>
         <item quantity="one">Kalorienziel: %1$s Kalorie</item>
-    </plurals>
-    <plurals name="health_chart_sport_time_current_schedule_format_desc">
-        <item quantity="other">Aktivitätszeit: %1$s Minuten</item>
-        <item quantity="one">Aktivitätszeit: %1$s Minute</item>
-    </plurals>
-    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
-        <item quantity="other">Aktivitätsziel: %1$s Minuten</item>
-        <item quantity="one">Aktivitätsziel: %1$s Minute</item>
     </plurals>
     <plurals name="health_chart_sport_time_schedule_format">
         <item quantity="other">%1$s/%2$s Min</item>
@@ -40,10 +20,6 @@
         <item quantity="other">Innerhalb von %1$s Stunden aufgestanden</item>
         <item quantity="one">Innerhalb von %1$s Stunde aufgestanden</item>
     </plurals>
-    <plurals name="health_chart_stand_goal_schedule_format_desc">
-        <item quantity="other">Aufstehziel: %1$s Stunden</item>
-        <item quantity="one">Aufstehziel: %1$s Stunde</item>
-    </plurals>
     <plurals name="health_chart_stand_schedule_format">
         <item quantity="other">%1$s/%2$s Std</item>
         <item quantity="one">%1$s/%2$s Std</item>
@@ -52,21 +28,9 @@
         <item quantity="other">Aktuelle Schrittzahl: %1$s Schritte</item>
         <item quantity="one">Aktuelle Schrittzahl: %1$s Schritt</item>
     </plurals>
-    <plurals name="health_chart_step_count_goal_schedule_format_desc">
-        <item quantity="other">Schrittziel: %1$s Schritte</item>
-        <item quantity="one">Schrittziel: %1$s Schritt</item>
-    </plurals>
-    <plurals name="health_chart_step_count_schedule_format">
-        <item quantity="other">%1$s/%2$s Schritte</item>
-        <item quantity="one">%1$s/%2$s Schritt</item>
-    </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Geben Sie Ihr Muster mind. einmal alle %d Stunden ein, um es immer zu behalten.</item>
-        <item quantity="one">Geben Sie Ihr Muster mind. einmal pro %d Stunde ein, um es immer zu behalten.</item>
-    </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d neue Benachrichtigungen</item>
-        <item quantity="one">%d neue Benachrichtigung</item>
+        <item quantity="other">Gib dein Passwort mind. einmal alle %d Stunden ein, damit du es nicht vergisst</item>
+        <item quantity="one">Gib dein Passwort mind. einmal in %d Stunde ein, damit du es nicht vergisst</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">In %d Min erneut versuchen</item>
@@ -75,9 +39,5 @@
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">In %d Sek erneut versuchen</item>
         <item quantity="one">In %d Sek erneut versuchen</item>
-    </plurals>
-    <plurals name="weather_temperature_desc">
-        <item quantity="other">Temperatur: %1$s Grad, %2$s</item>
-        <item quantity="one">Temperatur: %1$s Grad, %2$s</item>
     </plurals>
 </resources>
