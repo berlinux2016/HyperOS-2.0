@@ -1995,7 +1995,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="first_aid_card_kadun_button3">Ausschalten</string>
     <string name="first_aid_card_kadun_summary1">Geben Sie Speicherplatz frei, damit Ihr Gerät normal arbeiten kann.</string>
     <string name="first_aid_card_kadun_summary2">Einige Apps haben Administratorrechte. Dies könnte Ihr Gerät verlangsamen.</string>
-    <string name="first_aid_card_kadun_summary3">Zu viele Eingabehilfen arbeiten gleichzeitig. Dies könnte Ihr Gerät verlangsamen.</string>
+    <string name="first_aid_card_kadun_summary3">Zu viele Bedienungshilfen arbeiten gleichzeitig. Dies könnte Ihr Gerät verlangsamen.</string>
     <string name="first_aid_card_kadun_title">Gerät wird langsamer</string>
     <string name="first_aid_card_system_root_button">Einschränken</string>
     <string name="first_aid_card_system_root_summary">Root-Zugriff einschränken, um Sicherheitsrisiken zu vermeiden</string>
@@ -5228,7 +5228,7 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="special_perm_intercept_app_title">Alle Benachrichtigungen lesen</string>
     <string name="special_perm_intercept_autostart_msg">App darf jederzeit ohne Einschränkungen im Hintergrund starten</string>
     <string name="special_perm_intercept_autostart_title">Unbegrenzter Autostart</string>
-    <string name="special_perm_intercept_barrier_free">Eingabehilfen</string>
+    <string name="special_perm_intercept_barrier_free">Bedienungshilfen</string>
     <string name="special_perm_intercept_camera_msg">Jegliche Kameraaktivität einschränken</string>
     <string name="special_perm_intercept_camera_title">Kameranutzung einschränken</string>
     <string name="special_perm_intercept_chat_msg">Inkl. Benachrichtigungen aus WeChat und QQ</string>

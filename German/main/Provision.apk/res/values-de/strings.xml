@@ -19,7 +19,7 @@
     <string name="abc_toolbar_collapse_description">Einklappen</string>
     <string name="access_calendar">Kalenderzugriff</string>
     <string name="access_non_personal_data">Wenn Sie Ihre Zustimmung zum Zugriff auf und zur Verwendung von nicht-personenbezogenen Daten von Ihrem Gerät widerrufen, werden die Hintergrundkarussell-Dienste deaktiviert und alle erfassten Daten innerhalb der in den geltenden Gesetzen und Vorschriften festgelegten Frist gelöscht.</string>
-    <string name="accessibility_enabled">Eingabehilfen aktiviert</string>
+    <string name="accessibility_enabled">Bedienungshilfen aktiviert</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activate_esim_tips">Aktivieren fehlgeschlagen. Erneut versuchen.</string>
     <string name="activating_esim_tips">Aktivieren…</string>
@@ -83,7 +83,7 @@
     <string name="congratulation_title">Einrichtung abgeschlossen</string>
     <string name="content_description_complete">Fertig</string>
     <string name="content_introduction">Inhaltscenter führt Inhalte und Dienste aus mehreren Kanälen zusammen. Hier können Sie Artikel lesen, Videos ansehen, die täglichen Sonderthemen betrachten und Inhaltsempfehlungen erhalten.</string>
-    <string name="continue_to_enable_accessibility">Zwei Finger gedrückt halten, um Eingabehilfen zu aktivieren</string>
+    <string name="continue_to_enable_accessibility">Zwei Finger gedrückt halten, um Bedienungshilfen zu aktivieren</string>
     <string name="cookies_content_one">Wenn Sie auf die Bilder und Geschichten im Hintergrundkarussell tippen, öffnen wir deren Vollversionen in Ihrem Browser. Taboola, unser vertrauenswürdiger Inhalte-Drittanbieter, kann dann zusätzliche Inhalte und Anzeigen empfehlen, die auf Ihre Interessen zugeschnitten sind. Wenn Sie der Aktivierung dieser Funktion zustimmen, wird Taboola über den Browser Cookies auf Ihrem Gerät platzieren, wie in der &lt;a href =%1$s>Cookie-Richtlinie&lt;/a> von Taboola beschrieben. Wenn Sie die Verwendung von Cookies ablehnen, werden die Hintergrundkarussell-Elemente weiterhin auf Ihrem Sperrbildschirm angezeigt und die vollständigen Geschichten werden in Ihrem Browser geöffnet, aber zusätzliche Empfehlungen werden nicht speziell für Sie ausgewählt. Sie können Ihre Präferenzen jederzeit in den Einstellungen ändern.</string>
     <string name="cookies_content_two">Entscheiden Sie, ob Sie möchten, dass unsere vertrauenswürdigen Inhalte-Drittanbieter Cookies verwenden, um Inhaltsempfehlungen und Werbung auf der Grundlage Ihrer Interessen zu personalisieren.</string>
     <string name="cookies_title">Personalisierte Inhalte und Cookies</string>
@@ -120,7 +120,7 @@
     <string name="disagreement_terminate_service">Wenn Sie nicht zustimmen, solche Berechtigungen zu erteilen oder Ihre personenbezogenen Daten weiterzugeben und hochzuladen, können Sie diese App nicht verwenden. In Einstellungen können Sie sie in solchen Fällen deinstallieren, sich abmelden oder ihre Berechtigungen einschränken.</string>
     <string name="download_introduction">Download ist eine von Xunlei bereitgestellte App zum Herunterladen und Verwalten von heruntergeladenen Inhalten (inkl. App-Store-Inhalten, Videos, Systemupdates, Themen und Browser-Inhalten) für Benutzer von Xiaomi-Geräten.</string>
     <string name="early_morning">Morgen</string>
-    <string name="enable_accessibility_canceled">Eingabehilfen deaktiviert</string>
+    <string name="enable_accessibility_canceled">Bedienungshilfen deaktiviert</string>
     <string name="enable_accessibility_dialog_message">Sie haben TalkBack aktiviert, indem Sie den Bildschirm mit %1$d Fingern länger als %2$d Sekunden gedrückt haben. TalkBack liefert Sprachfeedback für Personen mit Sehbehinderung. Wenn Sie diese Funktion versehentlich aktiviert haben, tippen Sie auf Abbrechen und dann 2x auf den Bildschirm.</string>
     <string name="enable_accessibility_dialog_negative_btn">Abbrechen</string>
     <string name="enable_or_disable_bluetooth">Bluetooth ein- und ausschalten</string>

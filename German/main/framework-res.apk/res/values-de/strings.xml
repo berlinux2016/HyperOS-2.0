@@ -121,47 +121,47 @@
     <string name="RuacMmi">Abweisen unerwünschter Anrufe</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Dieses Video ist für das Streaming auf diesem Gerät nicht zulässig.</string>
     <string name="VideoView_error_title">Videoproblem</string>
-    <string name="accessibility_binding_label">Eingabehilfen</string>
-    <string name="accessibility_button_instructional_text">Um zwischen Funktionen zu wechseln, Eingabehilfentaste gedrückt halten.</string>
-    <string name="accessibility_button_prompt_text">Wähle eine Funktion, die verwendet wird, wenn du auf die Eingabehilfe tippst:</string>
-    <string name="accessibility_edit_shortcut_menu_button_title">Funktionen wählen, die mit der Eingabehilfentaste verwendet werden sollen</string>
+    <string name="accessibility_binding_label">Bedienungshilfen</string>
+    <string name="accessibility_button_instructional_text">Um zwischen Funktionen zu wechseln, Bedienungshilfentaste gedrückt halten.</string>
+    <string name="accessibility_button_prompt_text">Wähle eine Funktion, die verwendet wird, wenn du auf die Bedienungshilfe tippst:</string>
+    <string name="accessibility_edit_shortcut_menu_button_title">Funktionen wählen, die mit der Bedienungshilfentaste verwendet werden sollen</string>
     <string name="accessibility_enable_service_title">%1$s die vollständige Kontrolle über dein Gerät geben?</string>
     <string name="accessibility_freeform_caption">Untertitelzeile von %1$s</string>
     <string name="accessibility_gesture_3finger_instructional_text">Um zwischen Funktionen zu wechseln, mit drei Fingern hochwischen und halten.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Funktion wählen, die mit der Eingabehilfengeste verwendet werden soll (mit drei Fingern vom unteren Bildschirmrand hochwischen):</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Funktion wählen, die mit der Bedienungshilfengeste verwendet werden soll (mit drei Fingern vom unteren Bildschirmrand hochwischen):</string>
     <string name="accessibility_gesture_instructional_text">Um zwischen Funktionen zu wechseln, mit zwei Fingern hochwischen und halten.</string>
-    <string name="accessibility_gesture_prompt_text">Funktion wählen, die mit der Eingabehilfengeste verwendet werden soll (mit zwei Fingern vom unteren Bildschirmrand hochwischen):</string>
+    <string name="accessibility_gesture_prompt_text">Funktion wählen, die mit der Bedienungshilfengeste verwendet werden soll (mit zwei Fingern vom unteren Bildschirmrand hochwischen):</string>
     <string name="accessibility_service_action_perform_description">Deine Interaktionen mit einer App oder einem Hardwaresensor können verfolgt und in deinem Namen mit Apps interagiert werden.</string>
     <string name="accessibility_service_action_perform_title">Anzeigen und Ausführen von Aktionen</string>
     <string name="accessibility_service_screen_control_description">Alle Inhalte am Bildschirm können gelesen und Inhalte über anderen Apps angezeigt werden.</string>
     <string name="accessibility_service_screen_control_title">Bildschirm anzeigen und steuern</string>
-    <string name="accessibility_service_warning_description">Volle Kontrolle ist nur für Apps geeignet, die dich als Eingabehilfen unterstützen, jedoch nicht für die meisten Apps.</string>
+    <string name="accessibility_service_warning_description">Volle Kontrolle ist nur für Apps geeignet, die dich als Bedienungshilfen unterstützen, jedoch nicht für die meisten Apps.</string>
     <string name="accessibility_shortcut_disabling_service">Lautstärketasten gehalten. %1$s ausgeschaltet.</string>
     <string name="accessibility_shortcut_enabling_service">Lautstärketasten gehalten. %1$s eingeschaltet.</string>
-    <string name="accessibility_shortcut_multiple_service_warning">"Durch Drücken beider Lautstärketasten für einige Sekunden werden die Eingabehilfen aktiviert. Dies kann die Funktionsweise deines Geräts ändern.
+    <string name="accessibility_shortcut_multiple_service_warning">"Durch Drücken beider Lautstärketasten für einige Sekunden werden die Bedienungshilfen aktiviert. Dies kann die Funktionsweise deines Geräts ändern.
 
 Aktuelle Funktionen:
 %1$s
-Du kannst ausgewählte Funktionen unter Einstellungen > Eingabehilfen ändern."</string>
-    <string name="accessibility_shortcut_multiple_service_warning_title">Kürzel für Eingabehilfenfunktionen einschalten?</string>
+Du kannst ausgewählte Funktionen unter Einstellungen > Bedienungshilfen ändern."</string>
+    <string name="accessibility_shortcut_multiple_service_warning_title">Kürzel für Bedienungshilfenfunktionen einschalten?</string>
     <string name="accessibility_shortcut_off">Nicht einschalten</string>
     <string name="accessibility_shortcut_on">Einschalten</string>
-    <string name="accessibility_shortcut_single_service_warning">"Durch Drücken beider Lautstärketasten für einige Sekunden wird %1$s eingeschaltet, eine Eingabehilfe. Dies kann die Funktionsweise deines Geräts ändern.
+    <string name="accessibility_shortcut_single_service_warning">"Durch Drücken beider Lautstärketasten für einige Sekunden wird %1$s eingeschaltet, eine Bedienungshilfe. Dies kann die Funktionsweise deines Geräts ändern.
 
-Unter Einstellungen > Eingabehilfen kannst du diesem Kürzel eine andere Funktion zuweisen."</string>
+Unter Einstellungen > Bedienungshilfen kannst du diesem Kürzel eine andere Funktion zuweisen."</string>
     <string name="accessibility_shortcut_single_service_warning_title">%1$s-Kürzel einschalten?</string>
     <string name="accessibility_shortcut_spoken_feedback">Lautstärketasten loslassen. Um %1$s einzuschalten, halte beide Lautstärketasten erneut für 3 Sekunden gedrückt.</string>
-    <string name="accessibility_shortcut_toogle_warning">Wenn das Kürzel aktiviert ist, wird durch 3 Sekunden langes Drücken beider Lautstärketasten eine Eingabehilfenfunktion gestartet.</string>
-    <string name="accessibility_shortcut_warning_dialog_title">Eingabehilfenverküpfung verwenden?</string>
+    <string name="accessibility_shortcut_toogle_warning">Wenn das Kürzel aktiviert ist, wird durch 3 Sekunden langes Drücken beider Lautstärketasten eine Bedienungshilfenfunktion gestartet.</string>
+    <string name="accessibility_shortcut_warning_dialog_title">Bedienungshilfenverküpfung verwenden?</string>
     <string name="accessibility_system_action_dpad_center_label">Dpad Mitte</string>
     <string name="accessibility_system_action_dpad_down_label">Dpad unten</string>
     <string name="accessibility_system_action_dpad_left_label">Dpad links</string>
     <string name="accessibility_system_action_dpad_right_label">Dpad rechts</string>
     <string name="accessibility_system_action_dpad_up_label">Dpad oben</string>
-    <string name="accessibility_system_action_hardware_a11y_shortcut_label">Eingabehilfenverküpfung</string>
+    <string name="accessibility_system_action_hardware_a11y_shortcut_label">Bedienungshilfenverküpfung</string>
     <string name="accessibility_system_action_lock_screen_label">Bildschirm sperren</string>
-    <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Auswahl Eingabehilfenverküpfung am Bildschirm</string>
-    <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Eingabehilfenverküpfung am Bildschirm</string>
+    <string name="accessibility_system_action_on_screen_a11y_shortcut_chooser_label">Auswahl Bedienungshilfenverküpfung am Bildschirm</string>
+    <string name="accessibility_system_action_on_screen_a11y_shortcut_label">Bedienungshilfenverküpfung am Bildschirm</string>
     <string name="accessibility_system_action_power_dialog_label">Power-Dialog</string>
     <string name="accessibility_system_action_recents_label">Letzte Apps</string>
     <string name="accessibility_uncheck_legacy_item_warning">%s wurde ausgeschaltet</string>
@@ -188,7 +188,7 @@ Unter Einstellungen > Eingabehilfen kannst du diesem Kürzel eine andere Funktio
     <string name="android_upgrading_title">Telefon aktualisieren…</string>
     <string name="anr_process">Prozess %1$s reagiert nicht</string>
     <string name="app_blocked_message">%1$s ist derzeit nicht verfügbar</string>
-    <string name="app_category_accessibility">Eingabehilfen</string>
+    <string name="app_category_accessibility">Bedienungshilfen</string>
     <string name="app_category_productivity">Produktivität</string>
     <string name="app_category_social">Soziale Medien &amp; Kommunikation</string>
     <string name="app_info">App-Info</string>
@@ -672,7 +672,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="no_recent_tasks">Keine zuletzt geöffneten Apps</string>
     <string name="not_checked">nicht angewählt</string>
     <string name="notification_appops_overlay_active">am Bildschirm andere Apps überlagern</string>
-    <string name="notification_channel_accessibility_security_policy">Verwendung Eingabehilfen</string>
+    <string name="notification_channel_accessibility_security_policy">Verwendung Bedienungshilfen</string>
     <string name="notification_channel_alerts">Warnungen</string>
     <string name="notification_channel_call_forward">Rufumleitung</string>
     <string name="notification_channel_car_mode">Auto-Modus</string>

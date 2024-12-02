@@ -4,7 +4,7 @@
     <string name="abbrev_month_day_no_year">dMMM</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
     <string name="abc_slice_updated">%1$s aktualisiert</string>
-    <string name="accessibility_accessibility_button">Eingabehilfen</string>
+    <string name="accessibility_accessibility_button">Bedienungshilfen</string>
     <string name="accessibility_action_pip_stash">Verstecken</string>
     <string name="accessibility_action_pip_unstash">Anzeigen</string>
     <string name="accessibility_airplane_mode">Flugmodus</string>
@@ -48,7 +48,7 @@
     <string name="accessibility_floating_button_action_move_top_left">Nach oben links</string>
     <string name="accessibility_floating_button_action_move_top_right">Nach oben rechts</string>
     <string name="accessibility_floating_button_docking_tooltip">Taste an den Rand schieben, um sie vorübergehend auszublenden</string>
-    <string name="accessibility_floating_button_migration_tooltip">Tippen, um Eingabehilfen zu öffnen. Pass diese Taste in Einstellungen an oder ersetze sie.<br></br><br></br>"<annotation id="link">Einstellungen anzeigen</annotation></string>
+    <string name="accessibility_floating_button_migration_tooltip">Tippen, um Bedienungshilfen zu öffnen. Pass diese Taste in Einstellungen an oder ersetze sie.<br></br><br></br>"<annotation id="link">Einstellungen anzeigen</annotation></string>
     <string name="accessibility_floating_button_undo">Rückgängig</string>
     <string name="accessibility_floating_button_undo_message_label_text">%s-Verknüpfung entfernt</string>
     <string name="accessibility_key">Eigene Navigationstaste</string>
@@ -1026,7 +1026,7 @@ dd.MM."</string>
     <string name="status_bar_clock_date_format_12">E, d. MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d. MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d. MMM</string>
-    <string name="stream_accessibility">Eingabehilfen</string>
+    <string name="stream_accessibility">Bedienungshilfen</string>
     <string name="stream_assistant">Sprachassistent</string>
     <string name="stream_dtmf">Duale Multiton-Frequenz</string>
     <string name="stream_ring">Klingeln</string>
@@ -1083,7 +1083,7 @@ dd.MM."</string>
     <string name="usb_device_permission_prompt_warn">%1$s den Zugriff auf %2$s erlauben?\nDiese App hat keine Aufnahmeberechtigung erhalten, könnte aber über dieses USB-Gerät Audio aufnehmen."</string>
     <string name="usb_port_enabled">USB-Port aktiviert, um Ladegeräte und Zubehör zu erkennen</string>
     <string name="user_add_user">Benutzer hinzufügen</string>
-    <string name="user_add_user_message_long">Du kannst dieses Gerät mit anderen Personen teilen, indem du weitere Benutzer anlegst. Jeder Benutzer hat sein eigenes Profil, das er mit Apps, Hintergründen usw. anpassen kann. Benutzer können auch Geräteeinstellungen wie WLAN anpassen, die für alle gelten.\n\nWenn du einen neuen Benutzer hinzufügst, muss diese Person ihr Profil einrichten.\n\nJeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Eingabehilfen-Einstellungen und Dienste werden evtl. nicht auf den neuen Benutzer übertragen.</string>
+    <string name="user_add_user_message_long">Du kannst dieses Gerät mit anderen Personen teilen, indem du weitere Benutzer anlegst. Jeder Benutzer hat sein eigenes Profil, das er mit Apps, Hintergründen usw. anpassen kann. Benutzer können auch Geräteeinstellungen wie WLAN anpassen, die für alle gelten.\n\nWenn du einen neuen Benutzer hinzufügst, muss diese Person ihr Profil einrichten.\n\nJeder Benutzer kann Apps für alle anderen Benutzer aktualisieren. Bedienungshilfen-Einstellungen und Dienste werden evtl. nicht auf den neuen Benutzer übertragen.</string>
     <string name="user_add_user_message_short">Wenn du einen neuen Benutzer hinzufügst, muss diese Person ihr Profil einrichten.\n\nJeder Benutzer kann Apps für alle anderen Benutzer aktualisieren.</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_grant_admin_message">Admins haben besondere Privilegien, die andere Benutzer nicht haben. Ein Admin kann alle Benutzer verwalten, dieses Gerät aktualisieren oder zurücksetzen, Einstellungen ändern, alle installierten Apps sehen und Admin-Rechte für andere gewähren oder entziehen.</string>
@@ -1104,8 +1104,8 @@ dd.MM."</string>
     <string name="volume_ringer_hint_unmute">Stummschaltung aufheben</string>
     <string name="volume_ringer_hint_vibrate">Vibrieren</string>
     <string name="volume_ringer_status_normal">Klingeln</string>
-    <string name="volume_stream_content_description_mute">%1$s. Zum Stummschalten tippen. Eingabehilfen könnten stummgeschaltet werden.</string>
-    <string name="volume_stream_content_description_vibrate">%1$s. Tippen, um Vibrieren einzustellen. Eingabehilfen könnten stummgeschaltet werden.</string>
+    <string name="volume_stream_content_description_mute">%1$s. Zum Stummschalten tippen. Bedienungshilfen könnten stummgeschaltet werden.</string>
+    <string name="volume_stream_content_description_vibrate">%1$s. Tippen, um Vibrieren einzustellen. Bedienungshilfen könnten stummgeschaltet werden.</string>
     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Tippen, um Vibrieren einzustellen.</string>
     <string name="wallet_empty_state_label">Richte dich ein, um schneller und sicherer mit deinem Telefon einzukaufen</string>
     <string name="wallet_error_generic">Es gab ein Problem beim Abrufen deiner Karten, bitte später erneut versuchen.</string>

@@ -127,7 +127,7 @@
     <string name="abc_shareactionprovider_share_with">Teilen mit</string>
     <string name="abc_shareactionprovider_share_with_application">Teilen mit %s</string>
     <string name="abc_toolbar_collapse_description">Einklappen</string>
-    <string name="accessibility_settings_activity_title">Eingabehilfen</string>
+    <string name="accessibility_settings_activity_title">Bedienungshilfen</string>
     <string name="according_to_carrier">Einstellungen anzeigen</string>
     <string name="actionbar_button_up_description">Zurück</string>
     <string name="activity_title_fakecell">Vor gefälschten Basisstationen schützen</string>

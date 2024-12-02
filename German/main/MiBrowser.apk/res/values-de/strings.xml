@@ -601,8 +601,8 @@
     <string name="pm">PM</string>
     <string name="popular_game_video">Beliebtes Videospiel</string>
     <string name="popup_window_attempt">Dieser Seite erlauben, ein Popup zu öffnen?</string>
-    <string name="pref_accessibility">Eingabehilfen</string>
-    <string name="pref_accessibility_title">Eingabehilfen</string>
+    <string name="pref_accessibility">Bedienungshilfen</string>
+    <string name="pref_accessibility_title">Bedienungshilfen</string>
     <string name="pref_adblock_summary">Seiten laden evtl. langsamer, wenn diese Funktion eingeschaltet ist</string>
     <string name="pref_automatic_matching_searchengines_title">Zur häufigsten Suchmaschine wechseln</string>
     <string name="pref_check_security_url_summary">Zur Sicherheitsprüfung Webseiten-URL an Mi Server senden</string>
