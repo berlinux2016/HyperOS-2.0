@@ -625,11 +625,11 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="mime_type_spreadsheet_ext">%1$s-Tabellenkalkulation</string>
     <string name="mime_type_video_ext">%1$s-Video</string>
     <string name="miniresolver_call_in_work">Mit der Arbeits-App anrufen?</string>
-    <string name="miniresolver_call_information">Deine Firma erlaubt dir nur Anrufe aus Arbeits-Apps</string>
+    <string name="miniresolver_call_information">Dein Arbeitgeber erlaubt dir nur Anrufe aus Arbeits-Apps</string>
     <string name="miniresolver_open_in_personal">In privater %s-Instanz öffnen?</string>
     <string name="miniresolver_open_in_work">In Arbeits-%s öffnen?</string>
     <string name="miniresolver_open_work">Arbeits-%s öffnen?</string>
-    <string name="miniresolver_sms_information">Deine Firma erlaubt dir nur Nachrichtenversand aus Arbeits-Apps</string>
+    <string name="miniresolver_sms_information">Dein Arbeitgeber erlaubt dir nur Nachrichtenversand aus Arbeits-Apps</string>
     <string name="miniresolver_switch_to_work">Zur Arbeits-App wechseln?</string>
     <string name="miniresolver_use_work_browser">Arbeits-Browser verwenden</string>
     <string name="minute_picker_description">Kreisförmiger Minutenregler</string>
@@ -658,7 +658,7 @@ In %2$d Sekunden erneut versuchen."</string>
     <string name="needPuk">Deine SIM ist PUK-gesperrt. Zum Entsperren PUK-Code eingeben.</string>
     <string name="needPuk2">PUK2 zum Entsperren der SIM eingeben</string>
     <string name="network_available_sign_in">Am Netzwerk anmelden</string>
-    <string name="network_logging_notification_text">Deine Firma verwaltet dieses Gerät und kann den Netzwerkverkehr überwachen. Tippen für Details.</string>
+    <string name="network_logging_notification_text">Dein Arbeitgeber verwaltet dieses Gerät und kann den Netzwerkverkehr überwachen. Tippen für Details.</string>
     <string name="network_logging_notification_title">Gerät wird verwaltet</string>
     <string name="network_partial_connectivity">%1$s hat eine begrenzte Konnektivitä</string>
     <string name="network_partial_connectivity_detailed">Tippen, um trotzdem zu verbinden</string>

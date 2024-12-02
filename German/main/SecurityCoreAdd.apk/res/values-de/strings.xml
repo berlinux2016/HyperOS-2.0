@@ -84,7 +84,7 @@
     <string name="edge_mode_state_summary">Der Bereich um abgerundete Kanten reagiert nicht auf Berührungen</string>
     <string name="edge_mode_state_title">Versehentliche Berührung an den Rändern ignorieren</string>
     <string name="ent_activation_hint">Gib deinen Firmencode zusammen mit dem Lizenzcode ein, um den Unternehmensmodus zu aktivieren. Danach werden benutzerdefinierte Unternehmensdienste aktiviert.</string>
-    <string name="ent_activation_hint_whit_licence">Aktiviere den Unternehmensmodus, um benutzerdefinierte Unternehmensdienste zu aktivieren. \nDer Name deines Unternehmens muss korrekt sein. Lies und akzeptiere die entsprechende Datenschutzerklärung vor dem Aktivieren.</string>
+    <string name="ent_activation_hint_whit_licence">Aktiviere den Unternehmensmodus, um benutzerdefinierte Unternehmensdienste zu aktivieren. \nDer Name deines Arbeitgebers muss korrekt sein. Lies und akzeptiere die entsprechende Datenschutzerklärung vor dem Aktivieren.</string>
     <string name="ent_agency_code">Firmencode</string>
     <string name="ent_agency_code_invalid">Eingegebener Firmencode ist ungültig.</string>
     <string name="ent_app_verified">Anscheinend sind auf deinem Gerät Arbeits-Apps installiert. Unternehmensmodus aktivieren?</string>
@@ -98,7 +98,7 @@
     <string name="ent_licence_code_invalid">Eingegebener Lizenzcode ist ungültig.</string>
     <string name="ent_mode_activated">Unternehmensmodus ist aktiviert</string>
     <string name="ent_network_error">Netzwerkverbindung fehlgeschlagen. Netzwerkeinstellungen prüfen und erneut versuchen.</string>
-    <string name="ent_privacy_policy_notice">* Personenbezogene Daten werden in diesem Modus gemäß den von deinem Unternehmen festgelegten Richtlinien erhoben. Xiaomi sammelt in diesem Modus keine personenbezogenen Daten.</string>
+    <string name="ent_privacy_policy_notice">* Personenbezogene Daten werden in diesem Modus gemäß den von deinem Arbeitgeber festgelegten Richtlinien erhoben. Xiaomi sammelt in diesem Modus keine personenbezogenen Daten.</string>
     <string name="enter_air_space">Zum Arbeitsprofil gehen</string>
     <string name="enterprise_mode">Unternehmensmodus</string>
     <string name="err_copy_contacts">Kontakte kopieren fehlgeschlagen</string>
@@ -253,7 +253,7 @@
     <string name="long_press_volume_down">Leiser-Taste lange drücken</string>
     <string name="master_clear_apply_step_1">Der Widerruf der Autorisierung erfordert einen Werksreset auf deinem Gerät. Alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, werden dauerhaft gelöscht. Sichere alle wichtigen Elemente auf deinem Computer, bevor du die Autorisierung widerrufst.</string>
     <string name="master_clear_apply_step_2">Alle wichtigen Elemente auf deinem Computer müssen gesichert sein. Nach dem Tippen auf \"OK\" wird ein Werksreset auf deinem Gerät durchgeführt, wobei alle Dateien und Daten, inkl. Konten, Kontakte, Fotos und Apps, dauerhaft gelöscht werden.</string>
-    <string name="master_clear_not_available">Werksreset ist von deinem Unternehmen eingeschränkt.</string>
+    <string name="master_clear_not_available">Werksreset ist von deinem Arbeitgeber eingeschränkt.</string>
     <string name="master_clear_not_available_ep">Du darfst jetzt keinen Werksreset durchführen oder die Autorisierung widerrufen. Wende dich an deinen Vorgesetzten.</string>
     <string name="material_clock_toggle_content_description">Vor- oder nachmittags auswählen</string>
     <string name="material_slider_range_end">Bereichsende</string>
@@ -555,7 +555,7 @@
     <string name="transferImage">Fotos aus dem Zweitprofil werden in das Album \"Zweitprofil\" im Hauptprofil verschoben</string>
     <string name="transferMessage">Nachrichten werden vom Zweitprofil ins Hauptprofil verschoben</string>
     <string name="tuesday_shortest">D</string>
-    <string name="undo_activated_dialog_message">Der Widerruf der Autorisierung deaktiviert den Unternehmensmodus und führt ein Werksreset auf deinem Gerät durch. Alle damit verbundenen Funktionen sind nicht mehr verfügbar. Außerdem wird Xiaomi keine für den Unternehmensmodus erforderlichen Daten mehr sammeln (IMEI, Geräte-ID, Systemversion, Region etc.). Wir möchten dich daran erinnern, dass Xiaomi die für den Unternehmensmodus gesammelten Daten nicht verwaltet. Wir werden unser Bestes tun, alle beteiligten Parteien zu informieren, empfehlen dir aber, dich an die Vorgesetzten deines Unternehmens zu wenden, um diesen Widerruf zu genehmigen. Autorisierung widerrufen und einen Werksreset durchführen?</string>
+    <string name="undo_activated_dialog_message">Der Widerruf der Autorisierung deaktiviert den Unternehmensmodus und führt ein Werksreset auf deinem Gerät durch. Alle damit verbundenen Funktionen sind nicht mehr verfügbar. Außerdem wird Xiaomi keine für den Unternehmensmodus erforderlichen Daten mehr sammeln (IMEI, Geräte-ID, Systemversion, Region etc.). Wir möchten dich daran erinnern, dass Xiaomi die für den Unternehmensmodus gesammelten Daten nicht verwaltet. Wir werden unser Bestes tun, alle beteiligten Parteien zu informieren, empfehlen dir aber, dich an die Vorgesetzten bei deinem Arbeitgeber zu wenden, um diesen Widerruf zu genehmigen. Autorisierung widerrufen und einen Werksreset durchführen?</string>
     <string name="undo_grant_dialog_message">Xiaomi wird keine für diese Funktion erforderlichen Daten mehr sammeln (IMEI, Geräte-ID, Systemversion, Region etc.), wenn du die Autorisierung widerrufst. Jetzt widerrufen?</string>
     <string name="undo_success">Erfolgreich widerrufen</string>
     <string name="wake_suppression_summary">Dein Gerät reagiert besser auf versehentliche Berührungen, aber auch auf die meisten Gestensteuerungen in Randnähe</string>

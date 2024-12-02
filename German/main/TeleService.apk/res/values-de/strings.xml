@@ -1754,7 +1754,7 @@
     <string name="send_button">Senden</string>
     <string name="send_from_work_profile_action_str">Zum Arbeitsprofil wechseln</string>
     <string name="send_from_work_profile_cancel">Abbrechen</string>
-    <string name="send_from_work_profile_description">Ihr Unternehmen erlaubt Ihnen nur das Senden von Nachrichten aus Arbeits-Apps</string>
+    <string name="send_from_work_profile_description">Dein Arbeitgeber erlaubt dir nur das Senden von Nachrichten aus Arbeits-Apps</string>
     <string name="send_from_work_profile_title">Nachricht kann nicht von einer persönlichen App gesendet werden</string>
     <string name="sensor_answer_summary">Halten Sie das Telefon an Ihr Ohr, um einen eingehenden Anruf automatisch anzunehmen</string>
     <string name="sensor_answer_title">Anheben zum Antworten</string>

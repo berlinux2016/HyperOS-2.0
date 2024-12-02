@@ -181,7 +181,7 @@
     <string name="bubbles_user_education_manage">Auf Verwalten tippen, um Sprechblasen dieser App zu deaktivieren</string>
     <string name="bubbles_user_education_manage_title">Sprechblasen jederzeit steuern</string>
     <string name="bubbles_user_education_title">Chatten mit Sprechblasen</string>
-    <string name="call_from_work_profile_text">Deine Firma erlaubt dir nur Anrufe mit beruflichen Apps</string>
+    <string name="call_from_work_profile_text">Dein Arbeitgeber erlaubt dir nur Anrufe mit beruflichen Apps</string>
     <string name="camera_compat_dismiss_button_description">Keine Kameraprobleme? Zum Verwerfen tippen.</string>
     <string name="camera_compat_treatment_applied_button_description">Problem nicht behoben? \nZum Rückgängigmachen tippen.</string>
     <string name="camera_compat_treatment_suggested_button_description">Kameraprobleme? \nZum Anpassen tippen.</string>
@@ -256,7 +256,7 @@
     <string name="dnd_is_off">Nicht stören ist aus</string>
     <string name="dnd_is_on">Nicht stören ist an</string>
     <string name="dnd_suppressing_shade_text">Benachrichtigungen angehalten durch Nicht stören</string>
-    <string name="do_disclosure_generic">Dieses Gerät gehört deiner Firma</string>
+    <string name="do_disclosure_generic">Dieses Gerät gehört deinem Arbeitgeber</string>
     <string name="do_financed_disclosure_with_name">Dieses Gerät wird von %s bereitgestellt</string>
     <string name="dock_forced_resizable">App funktioniert evtl. im geteilten Bildschirm nicht</string>
     <string name="dock_multi_instances_not_supported_text">Diese App kann nur in 1 Fenster geöffnet werden</string>
@@ -665,13 +665,13 @@ dd.MM."</string>
     <string name="monitoring_button_view_policies">Richtlinien anzeigen</string>
     <string name="monitoring_description_ca_certificate">Auf diesem Gerät ist eine Zertifizierungsstelle installiert. Dein sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
     <string name="monitoring_description_managed_device_named_vpn">Dieses Gerät ist über %1$s mit dem Internet verbunden. Deine Netzwerkaktivitäten, inkl. E-Mails und Browsing-Daten, sind für deinen IT-Admin sichtbar.</string>
-    <string name="monitoring_description_managed_profile_ca_certificate">Deine Firma hat in deinem Arbeitsprofil eine Zertifizierung eingerichtet. Dein sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">Dein Arbeitgeber hat in deinem Arbeitsprofil eine Zertifizierung eingerichtet. Dein sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Deine Arbeits-Apps sind über %1$s mit dem Internet verbunden. Deine Netzwerkaktivitäten in Arbeits-Apps, inkl. E-Mails und Browsing-Daten, sind für deinen IT-Admin und VPN-Anbieter sichtbar.</string>
     <string name="monitoring_description_managed_profile_network_logging">Dein Admin hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr in deinem Arbeitsprofil, aber nicht in deinem Privatprofil überwacht.</string>
-    <string name="monitoring_description_management">Dein Gerät gehört deiner Firma.\n\nDein IT-Admin kann Einstellungen, Unternehmenszugriff, Apps, mit deinem Telefon verknüpfte Daten und Standortdaten überwachen und verwalten.\nFür weitere Informationen wende dich bitte an deinen IT-Admin.</string>
-    <string name="monitoring_description_management_ca_certificate">Deine Firma hat eine Zertifizierung auf diesem Telefon installiert. Dein sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
+    <string name="monitoring_description_management">Dein Gerät gehört deinem Arbeitgeber.\n\nDein IT-Admin kann Einstellungen, Unternehmenszugriff, Apps, mit deinem Telefon verknüpfte Daten und Standortdaten überwachen und verwalten.\nFür weitere Informationen wende dich bitte an deinen IT-Admin.</string>
+    <string name="monitoring_description_management_ca_certificate">Dein Arbeitgeber hat eine Zertifizierung auf diesem Telefon installiert. Dein sicherer Netzwerkverkehr kann überwacht oder verändert werden.</string>
     <string name="monitoring_description_management_network_logging">Dein Admin hat die Netzwerkprotokollierung aktiviert, die den Datenverkehr auf deinem Telefon überwacht.</string>
-    <string name="monitoring_description_named_management">Dein Gerät gehört deiner Firma.\n\nDein IT-Admin kann Einstellungen, Unternehmenszugriff, Apps, mit deinem Telefon verknüpfte Daten und Standortdaten überwachen und verwalten.\n\nFür weitere Informationen wende dich bitte an deinen IT-Admin.</string>
+    <string name="monitoring_description_named_management">Dein Gerät gehört deinem Arbeitgeber.\n\nDein IT-Admin kann Einstellungen, Unternehmenszugriff, Apps, mit deinem Telefon verknüpfte Daten und Standortdaten überwachen und verwalten.\n\nFür weitere Informationen wende dich bitte an deinen IT-Admin.</string>
     <string name="monitoring_description_named_vpn">Dieses Gerät ist über %1$s mit dem Internet verbunden. Deine Netzwerkaktivitäten, inkl. E-Mails und Browsing-Daten, sind für den VPN-Anbieter sichtbar.</string>
     <string name="monitoring_description_parental_controls">Dieses Gerät wird von deinen Eltern verwaltet. Deine Eltern können Informationen wie die von dir verwendeten Apps, deinen Standort und deine Bildschirmzeit sehen und verwalten.</string>
     <string name="monitoring_description_personal_profile_named_vpn">Deine persönlichen Apps sind über %1$s mit dem Internet verbunden. Deine Netzwerkaktivitäten, inkl. E-Mails und Browsing-Daten, sind für den VPN-Anbieter sichtbar.</string>
@@ -847,13 +847,13 @@ dd.MM."</string>
     <string name="quick_settings_connecting">Verbinden…</string>
     <string name="quick_settings_dark_mode_secondary_label_battery_saver">Stromsparen</string>
     <string name="quick_settings_dark_mode_secondary_label_on_at_bedtime">Zur Schlafenszeit an</string>
-    <string name="quick_settings_disclosure_managed_profile_monitoring">Deine Firma kann den Netzwerkverkehr in deinem Arbeitsprofil überwachen</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">Dein Arbeitgeber kann den Netzwerkverkehr in deinem Arbeitsprofil überwachen</string>
     <string name="quick_settings_disclosure_managed_profile_named_vpn">Deine Arbeits-Apps sind über %1$s mit dem Internet verbunden</string>
     <string name="quick_settings_disclosure_managed_profile_network_activity">Netzwerkaktivitäten des Arbeitsprofils sind für deinen IT-Admin sichtbar</string>
-    <string name="quick_settings_disclosure_management">Dieses Gerät gehört deiner Firma</string>
-    <string name="quick_settings_disclosure_management_monitoring">Dieses Gerät gehört deiner Firma und sie überwacht ggf. den Netzwerkverkehr</string>
-    <string name="quick_settings_disclosure_management_named_vpn">Dieses Gerät gehört deiner Firma und ist über %1$s mit dem Internet verbunden</string>
-    <string name="quick_settings_disclosure_management_vpns">Dieses Gerät gehört deiner Firma und ist über VPNs mit dem Internet verbunden</string>
+    <string name="quick_settings_disclosure_management">Dieses Gerät gehört deinem Arbeitgeber</string>
+    <string name="quick_settings_disclosure_management_monitoring">Dieses Gerät gehört deinem Arbeitgeber und er überwacht ggf. den Netzwerkverkehr</string>
+    <string name="quick_settings_disclosure_management_named_vpn">Dieses Gerät gehört deinem Arbeitgeber und ist über %1$s mit dem Internet verbunden</string>
+    <string name="quick_settings_disclosure_management_vpns">Dieses Gerät gehört deinem Arbeitgeber und ist über VPNs mit dem Internet verbunden</string>
     <string name="quick_settings_disclosure_monitoring">Netzwerk kann überwacht werden</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">Deine persönlichen Apps sind über %1$s mit dem Internet verbunden</string>
     <string name="quick_settings_dnd_label">Nicht stören</string>
@@ -950,7 +950,7 @@ dd.MM."</string>
     <string name="screenshot_dismiss_description">Screenshot verwerfen</string>
     <string name="screenshot_dismiss_work_profile">Arbeitsprofilnachricht verwerfen</string>
     <string name="screenshot_failed_title">Screenshot speichern fehlgeschlagen</string>
-    <string name="screenshot_failed_to_capture_text">Erstellen von Screenshots ist weder von der App noch von deiner Firma erlaubt</string>
+    <string name="screenshot_failed_to_capture_text">Erstellen von Screenshots ist weder von der App noch von deinem Arbeitgeber erlaubt</string>
     <string name="screenshot_failed_to_save_text">Screenshot speichern fehlgeschlagen</string>
     <string name="screenshot_failed_to_save_unknown_text">Screenshot aufnehmen erneut versuchen</string>
     <string name="screenshot_failed_to_save_user_locked_text">Gerät muss entsperrt sein, um den Screenshot zu speichern</string>
@@ -1124,7 +1124,7 @@ dd.MM."</string>
     <string name="wifi_scan_notify_message">Um die Geräteerfahrung zu verbessern, können Apps und Dienste jederzeit nach WLANs scannen, auch wenn WLAN ausgeschaltet ist. Du kannst dies in den WLAN-Scan-Einstellungen ändern. <annotation id="link">Ändern</annotation></string>
     <string name="wifi_unavailable_dream_overlay_content_description">WLAN nicht verfügbar</string>
     <string name="wifi_wont_autoconnect_for_now">WLAN verbindet sich zurzeit nicht automatisch</string>
-    <string name="wifitrackerlib_admin_restricted_network">Von deiner Firma nicht erlaubt</string>
+    <string name="wifitrackerlib_admin_restricted_network">Von deinem Arbeitgeber nicht erlaubt</string>
     <string name="wifitrackerlib_auto_connect_disable">Auto-Verbinden ist aus</string>
     <string name="wifitrackerlib_available_via_app">Verfügbar über %1$s</string>
     <string name="wifitrackerlib_checking_for_internet_access">Auf Internetzugriff prüfen…</string>

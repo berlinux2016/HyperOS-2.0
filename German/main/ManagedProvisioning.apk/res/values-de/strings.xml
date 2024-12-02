@@ -2,11 +2,11 @@
 <resources>
     <string name="access_list_of_links">Auf Linkliste zugreifen</string>
     <string name="account_management_disclaimer_subheader">Dein IT-Admin verwendet Mobilgeräteverwaltung zur Durchsetzung von Sicherheitsrichtlinien</string>
-    <string name="admin_has_ability_to_monitor_device">Dein IT-Admin hat die Möglichkeit, Einstellungen, Unternehmenszugriff, Apps, Berechtigungen und Daten, die mit diesem Gerät (%1$s) verknüpft sind, zu überwachen und zu verwalten, inkl. deine Netzwerkaktivitäten sowie Gerätestandort, Anrufverlauf und Verlauf der Kontaktsuche. \nWende dich an deinen IT-Admin, um weitere Infos zu erhalten, auch über die Datenschutzerklärung in deinem Unternehmen.</string>
-    <string name="admin_has_ability_to_monitor_profile">Dein IT-Admin kann Einstellungen, Unternehmenszugriff, Apps, Berechtigungen, Daten und Netzwerkaktivitäten, die mit diesem Profil verknüpft sind, sowie deinen Anruf- und Kontaktesuchverlauf überwachen und verwalten. \nWende dich an deinen IT-Admin, um weitere Infos zu erhalten und mehr über die Datenschutzerklärung in deinem Unternehmen zu erfahren.</string>
+    <string name="admin_has_ability_to_monitor_device">Dein IT-Admin hat die Möglichkeit, Einstellungen, Unternehmenszugriff, Apps, Berechtigungen und Daten, die mit diesem Gerät (%1$s) verknüpft sind, zu überwachen und zu verwalten, inkl. deine Netzwerkaktivitäten sowie Gerätestandort, Anrufverlauf und Verlauf der Kontaktsuche. \nWende dich an deinen IT-Admin, um weitere Infos zu erhalten, auch über die Datenschutzerklärung deines Arbeitgebers.</string>
+    <string name="admin_has_ability_to_monitor_profile">Dein IT-Admin kann Einstellungen, Unternehmenszugriff, Apps, Berechtigungen, Daten und Netzwerkaktivitäten, die mit diesem Profil verknüpft sind, sowie deinen Anruf- und Kontaktesuchverlauf überwachen und verwalten. \nWende dich an deinen IT-Admin, um weitere Infos zu erhalten und mehr über die Datenschutzerklärung deines Arbeitgebers zu erfahren.</string>
     <string name="app_label">Arbeitsprofil-Einrichtung</string>
     <string name="bottomsheet_action_expand_halfway">Zur Hälfte erweitern</string>
-    <string name="brand_screen_header">Dieses Gerät gehört deinem Unternehmen</string>
+    <string name="brand_screen_header">Dieses Gerät gehört deinem Arbeitgeber</string>
     <string name="character_counter_content_description">%1$d von %2$d Zeichen eingegeben</string>
     <string name="character_counter_overflowed_content_description">Zeichengrenze überschritten: %1$d von %2$d</string>
     <string name="chip_text">Chiptext</string>

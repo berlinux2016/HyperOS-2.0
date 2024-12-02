@@ -400,7 +400,7 @@
     <string name="wifi_unmetered_label">Kostenfrei</string>
     <string name="wifi_verbose_logging">Ausführliche Protokollierung für WLAN aktivieren</string>
     <string name="wifi_verbose_logging_summary">WLAN-Logging-Level erhöhen, Anzeige per SSID RSSI im WLAN-Picker</string>
-    <string name="wifitrackerlib_admin_restricted_network">Von deiner Firma nicht erlaubt</string>
+    <string name="wifitrackerlib_admin_restricted_network">Von deinem Arbeitgeber nicht erlaubt</string>
     <string name="wifitrackerlib_auto_connect_disable">Auto-Verbinden ist aus</string>
     <string name="wifitrackerlib_available_via_app">Verfügbar über %1$s</string>
     <string name="wifitrackerlib_checking_for_internet_access">Auf Internetzugriff prüfen…</string>
