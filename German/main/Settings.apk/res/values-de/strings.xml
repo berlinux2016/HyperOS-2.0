@@ -69,46 +69,33 @@
     <string name="accessibility_disable_animations_summary">Bewegung am Bildschirm verringern</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Farbkorrektur kann hilfreich sein, wenn du Folgendes möchtest:<ol><li><br/><br/> Farben genauer sehen</li><li> Farben entfernen, um dich besser zu konzentrieren</li></ol></string>
     <string name="accessibility_display_inversion_preference_intro_text">Farbumkehr macht helle Bildschirme dunkel. Sie macht auch dunkle Bildschirme hell.</string>
-    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Nicht vergessen&lt;/b>&lt;br/> &lt;ol> &lt;li> Farben ändern sich in Medien und Bildern&lt;/li> &lt;li> Farbumkehr funktioniert bei allen Apps&lt;/li> &lt;li> Um einen dunklen Hintergrund anzuzeigen, kann stattdessen das dunkle Thema verwendet werden&lt;/li> &lt;/ol></string>
-    <string name="accessibility_display_inversion_preference_title">Farbumkehr</string>
+    <string name="accessibility_display_inversion_preference_subtitle">&lt;b>Nicht vergessen:&lt;/b>&lt;br/> &lt;ol> &lt;li> Farben ändern sich in Medien und Bildern.&lt;/li> &lt;li> Farbumkehr funktioniert bei allen Apps.&lt;/li> &lt;li> Ein dunkler Hintergrund kann stattdessen mit einem dunklen Thema angezeigt werden.&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_inversion_shortcut_title">Farbumkehr-Kürzel</string>
     <string name="accessibility_display_inversion_switch_title">Farbumkehr verwenden</string>
     <string name="accessibility_enable">Bedienungshilfen</string>
     <string name="accessibility_ethernet_disconnected">Ethernet getrennt</string>
-    <string name="accessibility_feature_state_off">Aus</string>
-    <string name="accessibility_feature_state_on">An</string>
-    <string name="accessibility_fingerprint_label">Fingerabdrucksensor</string>
     <string name="accessibility_font_scaling_auto_added_qs_tooltip_content">Schriftgröße zu Schnelleinstellungen hinzugefügt. Herunterwischen, um die Schriftgröße jederzeit zu ändern.</string>
-    <string name="accessibility_found_all_devices">Du siehst dein Hörgerät nicht?</string>
-    <string name="accessibility_found_hearing_devices">Verfügbare Hörgeräte</string>
+    <string name="accessibility_force_invert_summary">Gilt für Apps ohne eigenes dunkles Thema. Einige Apps können Anzeigeprobleme haben, wie z. B. invertierte Farben.</string>
+    <string name="accessibility_force_invert_title">Alle Apps dunkel schalten</string>
     <string name="accessibility_global_gesture_preference_title">Lautstärke-Kürzel</string>
     <string name="accessibility_hac_mode_summary">Verbessert die Kompatibilität mit Telecoils und reduziert unerwünschtes Rauschen</string>
     <string name="accessibility_hac_mode_title">Hörgerätekompatibilität</string>
-    <string name="accessibility_haptic">Bedienungshilfen</string>
     <string name="accessibility_hearing_device_about_title">Über Hörgeräte</string>
-    <string name="accessibility_hearing_device_connected_title">Hörgeräte</string>
     <string name="accessibility_hearing_device_control">Hörgerätesteuerung</string>
-    <string name="accessibility_hearing_device_footer_summary">Dein Hörgerät muss eingeschaltet und bereit zum Koppeln sein</string>
-    <string name="accessibility_hearing_device_pairing_page_title">Hörgerät koppeln</string>
-    <string name="accessibility_hearing_device_pairing_title">Neues Gerät koppeln</string>
-    <string name="accessibility_hearing_device_saved_title">Gespeicherte Geräte</string>
-    <string name="accessibility_hearing_device_shortcut_title">Hörgerät-Kürzel</string>
+    <string name="accessibility_hearing_device_footer_summary">Tippe zum Suchen nach anderen Hörgeräten, die nicht mit ASHA oder LE Audio kompatibel sind, auf <b>Neues Gerät koppeln</b> > <b>Mehr Geräte anzeigen</b></string>
+    <string name="accessibility_hearing_device_shortcut_title">Hörgeräte-Kürzel</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s aktuell aktiv</string>
     <string name="accessibility_hearingaid_adding_summary">Hörgerät hinzufügen</string>
-    <string name="accessibility_hearingaid_instruction_continue_button">Fortfahren</string>
-    <string name="accessibility_hearingaid_intro">Du kannst Hörgeräte, Cochlea-Implantate und andere Verstärkungsgeräte mit deinem Telefon verwenden</string>
+    <string name="accessibility_hearingaid_intro">Du kannst Hörgeräte, Cochlea-Implantate und andere Verstärker mit deinem Telefon verwenden</string>
     <string name="accessibility_hearingaid_left_and_right_side_device_summary">%1$s, links und rechts</string>
     <string name="accessibility_hearingaid_left_side_device_summary">%1$s, nur links</string>
-    <string name="accessibility_hearingaid_more_device_summary">%1$s +1 mehr</string>
-    <string name="accessibility_hearingaid_not_connected_summary">Keine Hörgeräte verbunden</string>
     <string name="accessibility_hearingaid_pair_instructions_message">Tippe auf dem nächsten Bildschirm auf dein Hörgerät. Evtl. musst du das linke und rechte Ohr separat koppeln. \n\nDein Hörgerät muss eingeschaltet und bereit zum Koppeln sein.</string>
     <string name="accessibility_hearingaid_pair_instructions_title">Hörgerät koppeln</string>
     <string name="accessibility_hearingaid_right_side_device_summary">%1$s, nur rechts</string>
-    <string name="accessibility_hearingaid_title">Hörgeräte</string>
     <string name="accessibility_interactive_haptics_category_title">Interaktive Haptik</string>
     <string name="accessibility_introduction_title">Über %1$s</string>
     <string name="accessibility_list_all_devices_title">Mehr Geräte anzeigen</string>
-    <string name="accessibility_long_press_timeout_preference_title">Verzögerung Berühren &amp; Halten</string>
+    <string name="accessibility_long_press_timeout_preference_title">Reaktionszeit Berühren &amp; Halten</string>
     <string name="accessibility_magnification_area_settings_all_summary">Umschalten zwischen Voll- und Teilbildschirm</string>
     <string name="accessibility_magnification_area_settings_full_screen_summary">Vollbildschirm</string>
     <string name="accessibility_magnification_area_settings_message">Vergrößere den gesamten Bildschirm, einen bestimmten Bereich oder wechsle zwischen beiden Optionen</string>
@@ -117,83 +104,62 @@
     <string name="accessibility_magnification_mode_dialog_option_full_screen">Vollbildschirm vergrößern</string>
     <string name="accessibility_magnification_mode_dialog_option_switch">Umschalten zwischen Voll- und Teilbildschirm</string>
     <string name="accessibility_magnification_mode_dialog_option_window">Teilbildschirm vergrößern</string>
-    <string name="accessibility_magnification_mode_dialog_title">Wählen, wie vergrößert werden soll</string>
     <string name="accessibility_magnification_mode_title">Vergrößerungstyp</string>
-    <string name="accessibility_magnification_service_settings_title">Vergrößerungseinstellungen</string>
-    <string name="accessibility_magnification_switch_shortcut_message">Einen Teil des Bildschirms durch Dreifachtippen zu vergrößern verursacht Verzögerungen beim Tippen und anderen Dingen.\n\nDie Bedienungshilfentaste schwebt auf deinem Bildschirm über anderen Apps. Darauf tippen zum Vergrößern.</string>
+    <string name="accessibility_magnification_switch_shortcut_message">Einen Teil des Bildschirms durch Dreifachtippen zu vergrößern verursacht Verzögerungen beim Tippen und anderen Aktionen.\n\nDie Bedienungshilfentaste schwebt auf deinem Bildschirm über anderen Apps. Darauf tippen zum Vergrößern.</string>
     <string name="accessibility_magnification_switch_shortcut_negative_button">Dreifachtippen verwenden</string>
     <string name="accessibility_magnification_switch_shortcut_positive_button">Auf Bedienungshilfentaste umschalten</string>
     <string name="accessibility_magnification_switch_shortcut_title">Auf Bedienungshilfentaste umschalten?</string>
     <string name="accessibility_magnification_triple_tap_warning_message">Wenn du einen Teil deines Bildschirms durch Dreifachtippen vergrößerst, kann es zu Problemen mit der Tastatur kommen.\n\nUm dies zu vermeiden, kannst du das Tastenkürzel für Vergrößerung von Dreifachtippen auf eine andere Option ändern. \n<annotation id="link">Einstellung ändern</annotation></string>
-    <string name="accessibility_magnification_triple_tap_warning_negative_button">Abbrechen</string>
-    <string name="accessibility_magnification_triple_tap_warning_positive_button">Trotzdem fortfahren</string>
-    <string name="accessibility_magnification_triple_tap_warning_title">Dies kann deine Tastatur verlangsamen</string>
-    <string name="accessibility_manual_zen_less_time">Weniger Zeit</string>
-    <string name="accessibility_manual_zen_more_time">Mehr Zeit</string>
     <string name="accessibility_media_vibration_title">Medienvibration</string>
     <string name="accessibility_menu_description">Das Menü Bedienungshilfen bietet praktische Tastenkürzel, mit denen du dein Gerät steuern kannst.\n\nSchalte diese Funktion ein und tippe auf die Bedienungshilfentaste unten auf deinem Bildschirm, um das Menü zu öffnen.</string>
     <string name="accessibility_menu_description_pad">Das Menü Bedienungshilfen bietet praktische Tastenkürzel, mit denen du dein Gerät steuern kannst.\n\nSchalte diese Funktion ein und tippe auf die Bedienungshilfentaste unten auf deinem Bildschirm, um das Menü zu öffnen.</string>
-    <string name="accessibility_menu_item_settings">Einstellungen</string>
     <string name="accessibility_menu_service_name">Menü Bedienungshilfen</string>
     <string name="accessibility_menu_summary">Steuere dein Gerät über praktische Tastenkürzel</string>
     <string name="accessibility_menu_summary_pad">Steuere dein Gerät über praktische Tastenkürzel</string>
-    <string name="accessibility_more_settings">Weitere Einstellungen</string>
     <string name="accessibility_no_calling">Keine Anrufe</string>
-    <string name="accessibility_no_data">Keine Daten</string>
-    <string name="accessibility_no_phone">Kein Telefon</string>
-    <string name="accessibility_no_service_selected">Kein Dienst gewählt</string>
-    <string name="accessibility_no_services_installed">Keine Dienste installiert</string>
-    <string name="accessibility_no_wifi">WLAN getrennt</string>
     <string name="accessibility_notification_alarm_vibration_category_title">Benachrichtigungen &amp; Wecker</string>
     <string name="accessibility_notification_vibration_title">Benachrichtigungsvibration</string>
     <string name="accessibility_one_handed_mode_auto_added_qs_tooltip_content">Einhandmodus zu Schnelleinstellungen hinzugefügt. Herunterwischen, um ihn jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_one_handed_mode_qs_tooltip_content">Du kannst Einhandmodus auch zu Schnelleinstellungen vom oberen Bildschirmrand hinzufügen</string>
-    <string name="accessibility_pair_hearing_device_about_title">Über neues Gerät koppeln</string>
-    <string name="accessibility_personal_account_title">Persönliches Konto - %s</string>
+    <string name="accessibility_pair_hearing_device_about_title">Über Neues Gerät koppeln</string>
     <string name="accessibility_phone_one_bar">Telefonie 1 Balken</string>
     <string name="accessibility_phone_signal_full">Telefonie volles Signal</string>
     <string name="accessibility_phone_three_bars">Telefonie 3 Balken</string>
     <string name="accessibility_phone_two_bars">Telefonie 2 Balken</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Power-Taste beendet Anruf</string>
-    <string name="accessibility_preference_magnification_summary">Am Bildschirm hereinzoomen</string>
+    <string name="accessibility_preference_magnification_summary">Am Bildschirm heranzoomen</string>
     <string name="accessibility_quick_settings_tooltip_dismiss">Verwerfen</string>
     <string name="accessibility_reduce_bright_colors_auto_added_qs_tooltip_content">Extra-Dimmen zu Schnelleinstellungen hinzugefügt. Herunterwischen, um es jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_reduce_bright_colors_qs_tooltip_content">Du kannst Extra-Dimmen auch zu Schnelleinstellungen vom oberen Bildschirmrand hinzufügen</string>
     <string name="accessibility_ring_vibration_title">Klingelvibration</string>
     <string name="accessibility_screen_magnification_about_title">Über Vergrößerung</string>
     <string name="accessibility_screen_magnification_always_on_summary">Lupe bleibt an und zoomt heraus, wenn du die App wechselst</string>
-    <string name="accessibility_screen_magnification_always_on_title">Beim Wechsel der App an bleiben</string>
-    <string name="accessibility_screen_magnification_enable">Vergrößerungsgesten</string>
-    <string name="accessibility_screen_magnification_follow_typing_summary">Lupe folgt dem Text, während du tippst</string>
+    <string name="accessibility_screen_magnification_always_on_title">Beim Wechsel der App an lassen</string>
     <string name="accessibility_screen_magnification_follow_typing_title">Tippen vergrößern</string>
     <string name="accessibility_screen_magnification_footer_learn_more_content_description">Mehr über Vergrößerung erfahren</string>
-    <string name="accessibility_screen_magnification_gesture_navigation_warning">Die Bedienungshilfengeste ist auf %1$s eingestellt. Um Vergrößerung zu verwenden, wisch mit 2 Fingern vom unteren Bildschirmrand hoch und halte dort. Wähle dann Vergrößerung.</string>
+    <string name="accessibility_screen_magnification_gesture_navigation_warning">Die Bedienungshilfengeste ist auf %1$s eingestellt. Um Vergrößerung zu verwenden, wische mit 2 Fingern vom unteren Bildschirmrand hoch und halte dort. Wähle dann Vergrößerung.</string>
     <string name="accessibility_screen_magnification_gestures_title">Vergrößern mit Dreifachtippen</string>
-    <string name="accessibility_screen_magnification_intro_text">Schnelles Hereinzoomen am Bildschirm, um den Inhalt zu vergrößern</string>
+    <string name="accessibility_screen_magnification_intro_text">Schnelles Heranzoomen am Bildschirm, um den Inhalt zu vergrößern</string>
     <string name="accessibility_screen_magnification_joystick_summary">Aktiviere und bewege die Lupe mit einem Bildschirm-Joystick. Tippe und halte den Joystick und zieh ihn dann, um die Lupe zu steuern. Tippe und ziehe, um den Joystick selbst zu bewegen.</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Bedienungshilfentaste ist auf %1$s festgelegt. Um Vergrößerung zu verwenden, Bedienungshilfentaste tippen &amp; halten, dann Vergrößerung wählen.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Taste antippen zum Zoomen</string>
-    <string name="accessibility_screen_magnification_navbar_summary">"Wenn Vergrößerung eingeschaltet ist, kannst du am Bildschirm hereinzoomen.
+    <string name="accessibility_screen_magnification_navbar_summary">"Wenn Vergrößerung eingeschaltet ist, kannst du am Bildschirm heranzoomen.
 
 "<b>Zum Zoomen</b>" Vergrößerung starten, dann irgendwo auf den Bildschirm tippen.
-"<ul><li>• 2 oder mehr Finger zum Scrollen ziehen</li>"
-"<li>• 2 oder mehr Finger drücken, um den Zoom einzustellen</li></ul>"
+"<ul><li>Zum Scollen 2 oder mehr Finger ziehen</li>"
+"<li>Zum Anpassen des Zooms 2 oder mehr Finger zusammendrücken</li></ul>"
 
 "<b>Zum temporären Zoomen</b>" Vergrößerung starten, dann irgendwo auf dem Bildschirm gedrückt halten.
-"<ul><li>• Ziehen zum Bewegen auf dem Bildschirm</li>"
-"<li>• Finger heben, um herauszuzoomen</li></ul>"
+"<ul><li>Ziehen zum Bewegen auf dem Bildschirm</li>"
+"<li>Finger heben, um herauszuzoomen</li></ul>"
 
 Du kannst nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
-    <string name="accessibility_screen_magnification_navbar_title">Vergrößern mit Geste</string>
+    <string name="accessibility_screen_magnification_navbar_title">Vergrößern mit Kürzel</string>
     <string name="accessibility_screen_magnification_short_summary">Dreifachtippen zum Vergrößern</string>
     <string name="accessibility_screen_magnification_shortcut_title">Vergrößerungskürzel</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">Vergrößern mit Kürzel &amp; Dreifachtippen</string>
-    <string name="accessibility_screen_magnification_summary">&lt;b>Hereinzoomen:&lt;/b>&lt;br/> {0,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {1,number,integer}. Auf den Bildschirm tipppen&lt;br/> {2,number,integer}. 2 Finger zum Bewegen auf dem Bildschirm ziehen&lt;br/> {3,number,integer}. 2 Finger drücken, um den Zoom einzustellen&lt;br/> {4,number,integer}. Kürzel zum Stoppen der Vergrößerung verwenden&lt;br/>&lt;br/> &lt;b>Zum temporären Hereinzoomen:&lt;/b>&lt;br/> {0,number,integer}. Vergrößerungstyp muss auf Vollbild eingestellt sein&lt;br/> {1,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {2,number,integer}. Irgendwo auf dem Bildschirm gedrückt halten&lt;br/> {3,number,integer}. Finger ziehen, um sich auf dem Bildschirm zu bewegen&lt;br/> {4,number,integer}. Finger heben zum Stoppen der Vergrößerung</string>
-    <string name="accessibility_screen_magnification_title">Vergrößerung</string>
-    <string name="accessibility_screen_option">Optionen</string>
-    <string name="accessibility_screen_reader_haptic_title">Bildschirmleser</string>
-    <string name="accessibility_service_action_perform_description">Deine Interaktionen mit einer App oder einem HW-Sensor können verfolgt und in deinem Namen mit Apps interagiert werden.</string>
-    <string name="accessibility_service_action_perform_title">Anzeigen und Ausführen von Aktionen</string>
+    <string name="accessibility_screen_magnification_summary">&lt;b>Heranzoomen:&lt;/b>&lt;br/> {0,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {1,number,integer}. Auf den Bildschirm tipppen&lt;br/> {2,number,integer}. 2 Finger zum Bewegen auf dem Bildschirm ziehen&lt;br/> {3,number,integer}. 2 Finger zusammendrücken, um den Zoom einzustellen&lt;br/> {4,number,integer}. Kürzel zum Stoppen der Vergrößerung verwenden&lt;br/>&lt;br/> &lt;b>Zum temporären Heranzoomen:&lt;/b>&lt;br/> {0,number,integer}. Vergrößerungstyp muss auf Vollbild eingestellt sein&lt;br/> {1,number,integer}. Kürzel zum Starten der Vergrößerung verwenden&lt;br/> {2,number,integer}. Irgendwo auf dem Bildschirm gedrückt halten&lt;br/> {3,number,integer}. Finger ziehen, um sich auf dem Bildschirm zu bewegen&lt;br/> {4,number,integer}. Finger heben zum Stoppen der Vergrößerung</string>
+    <string name="accessibility_service_action_perform_description">Die Funktion kann deine Interaktionen mit einer App oder einem HW-Sensor verfolgen und in deinem Namen mit Apps interagieren.</string>
     <string name="accessibility_service_auto_added_qs_tooltip_content">%1$s zu Schnelleinstellungen hinzugefügt. Herunterwischen, um dies jederzeit ein- oder auszuschalten.</string>
     <string name="accessibility_service_default_description">Keine Beschreibung verfügbar</string>
     <string name="accessibility_service_primary_open_title">%1$s öffnen</string>
