@@ -5,7 +5,7 @@
     <string name="accessibility_ai_scene_off">KI-Kamera aus</string>
     <string name="accessibility_ai_scene_on">KI-Kamera an</string>
     <string name="accessibility_ambilight_panel_on">Panel Langzeitbelichtung öffnen</string>
-    <string name="accessibility_aperture_default">Aut. Blendeneinstellung</string>
+    <string name="accessibility_aperture_default">Autom. Blendeneinstellung</string>
     <string name="accessibility_aperture_panel_on">Panel Blende öffnen</string>
     <string name="accessibility_auto_macro_off">Auto-Nahfokus ist aus</string>
     <string name="accessibility_auto_macro_on">Auto-Nahfokus ist an</string>

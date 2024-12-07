@@ -23,7 +23,7 @@
     <string name="aqi_quality_index_moderate">Angemessen</string>
     <string name="aqi_quality_index_unhealthy">Gesundheitsschädlich</string>
     <string name="autoSwithcingSearchEngineTips">Zur meistgenutzten Suchmaschine gewechselt</string>
-    <string name="auto_play_permission_name">Aut. Wiedergabe</string>
+    <string name="auto_play_permission_name">Autom. Wiedergabe</string>
     <string name="back_home">Loslassen für Startseite</string>
     <string name="batch_download">Herunterladen</string>
     <string name="batch_download_tip">Anscheinend werden mehrere Elemente gleichzeitig heruntergeladen. Diese Downloads blockieren?</string>
