@@ -608,7 +608,6 @@ Du kannst nicht auf der Tastatur oder Navigationsleiste zoomen."</string>
     <string name="background_activity_disabled_dialog_text">Da diese App nicht auf Akkuoptimierung eingestellt ist, kannst du sie nicht einschränken.\n\nUm die App einzuschränken, schalte zuerst Akkuoptimierung ein.</string>
     <string name="background_activity_summary">App darf im Hintergrund laufen</string>
     <string name="background_activity_warning_dialog_text">Bei Einschränkung der Hintergrundaktivität für eine App kann es zu Fehlverhalten kommen</string>
-    <string name="background_blur_enable_summary">Fügt Rendering-Effekte wie Unschärfe im gesamten System hinzu, um ein besseres visuelles Erlebnis zu bieten</string>
     <string name="background_blur_message">Wenn du diese Funktion einschaltest, verbraucht dein Gerät ggf. mehr Strom und erwärmt sich dadurch. Trotzdem einschalten?</string>
     <string name="background_blur_title">Erweiterte Texturen einschalten</string>
     <string name="background_data_dialog_message">Ausschalten von Hintergrunddaten verlängert die Akkulaufzeit und die verringert die Datennutzung. Ggf. verwenden einige Apps die Hintergrunddatenverbindung weiterhin.</string>
