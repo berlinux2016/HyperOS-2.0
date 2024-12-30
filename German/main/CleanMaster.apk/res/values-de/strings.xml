@@ -428,5 +428,5 @@
     <string name="whatsapp_group_wallpaper">Hintergründe</string>
     <string name="whatsapp_title">WhatsApp-Cleaner</string>
     <string name="white_list_cache_header">Cache-Dateien: %d</string>
-    <string name="year_month_day_format">d. MMM yyyy</string>
+    <string name="year_month_day_format">dd.MM.yyyy</string>
 </resources>

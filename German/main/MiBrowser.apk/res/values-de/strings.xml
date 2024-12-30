@@ -965,6 +965,6 @@
     <string name="whatsapp_status_saver">WhatsApp Statussicherung</string>
     <string name="whatsapp_webpage_tips">WhatsApp Statussicherung</string>
     <string name="withdraw_dia_content">Wenn du deine Zustimmung zur Inhaltscenter Datenschutzerklärung widerrufst, wird diese Funktion deine personenbezogenen Daten nicht mehr erfassen. Alle zuvor erfassten und auf unsere Server hochgeladenen personenbezogenen Daten werden gelöscht. Sobald du deine Zustimmung widerrufst, kannst du Inhaltscenter nicht mehr nutzen. Zustimmung jetzt widerrufen?</string>
-    <string name="year_month_day_format">d. MMM yyyy</string>
+    <string name="year_month_day_format">dd.MM.yyyy</string>
     <string name="ytb_login_fail">Anmelden fehlgeschlagen</string>
 </resources>

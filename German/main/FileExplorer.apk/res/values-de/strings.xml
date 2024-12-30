@@ -418,5 +418,5 @@
     <string name="withdraw_consent">Zustimmung widerrufen</string>
     <string name="withdraw_consent_content">Wenn du fortfährst, widerrufst du deine Zustimmung zur Datenschutzerklärung von Dateimanager. Die bereits gesammelten und gespeicherten personenbezogenen Daten werden innerhalb des festgelegten Zeitraums gemäß den geltenden Gesetzen und Vorschriften gelöscht, sofern nicht anders gefordert. Da Dateimanager seine Dienste auf der Grundlage der Erfassung der erforderlichen personenbezogenen Daten erbringt, wird dein Widerruf der Zustimmung als Ablehnung der Dienste von Dateimanager gewertet.</string>
     <string name="withdraw_consent_summary">Zustimmung zur Datenschutzerklärung von Dateimanager widerrufen</string>
-    <string name="year_month_day_format">d. MMM yyyy</string>
+    <string name="year_month_day_format">dd.MM.yyyy</string>
 </resources>
