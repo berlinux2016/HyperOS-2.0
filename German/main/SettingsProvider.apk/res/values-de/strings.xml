@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_label">Einstellungsspeicher</string>
-    <string name="wifi_softap_config_change">Hotspot-Einstellungen wurden geändert</string>
-    <string name="wifi_softap_config_change_summary">Tippen, um Details anzuzeigen</string>
-</resources>

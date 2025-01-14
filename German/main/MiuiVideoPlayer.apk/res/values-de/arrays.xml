@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="feedback_tag_list">
-        <item>Bug</item>
-        <item>Vorschlag</item>
-        <item>Sonstiges</item>
-    </string-array>
-</resources>
