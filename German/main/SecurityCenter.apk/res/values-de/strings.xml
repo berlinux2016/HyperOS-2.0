@@ -2256,7 +2256,7 @@ Sie verlieren keine App-Daten."</string>
     <string name="gb_advance_settings_vibration_4d">4D-Vibration</string>
     <string name="gb_advance_settings_vibration_4d_summary">Bei Schüssen im Spiel vibrieren</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Bei Abschüssen im Spiel vibrieren</string>
-    <string name="gb_all_hight_display">Hohe Bildwiederholrate</string>
+    <string name="gb_all_hight_display">Hohe Bildfrequenz</string>
     <string name="gb_all_hight_display_sub_title">120 Hz für alle Szenarien</string>
     <string name="gb_already_in_game_list_tips">Dieses Element ist bereits unter den hinzugefügten Spielen. Kann hier nicht hinzugefügt werden.</string>
     <string name="gb_already_in_video_list_tips">Dieses Element ist bereits unter den hinzugefügten Video-Apps. Kann hier nicht hinzugefügt werden.</string>
@@ -3628,8 +3628,8 @@ Versuchen Sie ein anderes LAN-Kabel am Router. Wenn Sie vermuten, dass der Fehle
     <string name="pc_high_temp_protection_noti_summary">Hotspots, mobile Daten und Standortdienste können jetzt nicht verwendet werden</string>
     <string name="pc_high_temp_protection_noti_summary2">Hotspots können jetzt nicht verwendet werden</string>
     <string name="pc_high_temp_protection_noti_tile">Ihr Gerät ist überhitzt</string>
-    <string name="pc_hight_refresh_rate_reminder_content">Ihr Gerät verwendet eine höhere Bildwiederholrate für eine bessere Bildqualität. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
-    <string name="pc_hight_refresh_rate_reminder_summary">Verwendung einer höheren Bildwiederholrate. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
+    <string name="pc_hight_refresh_rate_reminder_content">Ihr Gerät verwendet eine höhere Bildfrequenz für eine bessere Bildqualität. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
+    <string name="pc_hight_refresh_rate_reminder_summary">Verwendung einer höheren Bildfrequenz. Dies kann den Akkuverbrauch und die Gerätetemperatur erhöhen.</string>
     <string name="pc_hight_refresh_rate_reminder_title">Video mit hoher Bildrate ansehen</string>
     <string name="pc_install_manager">Installation via USB</string>
     <string name="pc_intellect_charge_protect_summary">Laden anpassen anhand von Nutzungsszenarien</string>

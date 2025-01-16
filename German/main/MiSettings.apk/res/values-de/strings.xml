@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="adaptive_fps_tip">- Erzielt die beste Balance zwischen flüssigen Bewegungen und Akkulaufzeit, indem die Bildwiederholrate dynamisch angepasst wird.</string>
+    <string name="adaptive_fps_tip">- Erzielt die beste Balance zwischen flüssigen Bewegungen und Akkulaufzeit, indem die Bildfrequenz dynamisch angepasst wird.</string>
     <string name="africa_introduction">Die Tierwelt gedeiht in Afrika - der Heimat vieler der berühmtesten Tiere der Welt.</string>
     <string name="african_bush_elephant">Afrikanischer Buschelefant</string>
     <string name="africans_white_backed_vulture">Weißrückengeier</string>
@@ -58,8 +58,8 @@
     <string name="create_failed">Erstellen fehlgeschlagen</string>
     <string name="create_shortcut">Startbildschirm-Verknüpfung</string>
     <string name="crowned_hornbill">Malabarhornvogel</string>
-    <string name="customize_high_refresh_summary">Diese Funktion unterstützt eine Bildwiederholrate von bis zu %d Hz. Die geeignete Bildwiederholrate kann automatisch basierend auf den Geräteeinstellungen ausgewählt werden.</string>
-    <string name="customize_radio_btn_summary">Ausgewählte Bildwiederholrate bevorzugen</string>
+    <string name="customize_high_refresh_summary">Diese Funktion unterstützt eine Bildfrequenz von bis zu %d Hz. Die geeignete Bildfrequenz kann automatisch basierend auf den Geräteeinstellungen ausgewählt werden.</string>
+    <string name="customize_radio_btn_summary">Ausgewählte Bildfrequenz bevorzugen</string>
     <string name="customize_radio_btn_title">Eigene</string>
     <string name="dall_sheep">Dall-Schaf</string>
     <string name="dart_frog_info">Seine leuchtend blaue Haut und seine giftigen Drüsen sind Verteidigungsmechanismen gegen potenzielle Fressfeinde.</string>
@@ -68,11 +68,11 @@
     <string name="dc_light_hint_enable_title">Achtung</string>
     <string name="dc_light_hint_normal">DC Dimming kann die Anzeige einiger Elemente beeinflussen.</string>
     <string name="dc_light_hint_normal_anit">Anti-Flimmer-Modus kann die Anzeige einiger Elemente beeinflussen.</string>
-    <string name="dc_light_hint_normal_other">Anti-Flimmer-Modus kann die Bildwiederholrate und die Anzeige einiger Elemente beeinflussen.</string>
-    <string name="dc_light_hint_other">DC Dimming kann die Bildwiederholrate und die Anzeige einiger Elemente beeinflussen.</string>
+    <string name="dc_light_hint_normal_other">Anti-Flimmer-Modus kann die Bildfrequenz und die Anzeige einiger Elemente beeinflussen.</string>
+    <string name="dc_light_hint_other">DC Dimming kann die Bildfrequenz und die Anzeige einiger Elemente beeinflussen.</string>
     <string name="dc_light_hint_unnormal_low">Anti-Flimmer-Modus bei schwachem Licht kann die Anzeige einiger Elemente beeinflussen.</string>
-    <string name="dc_light_hint_unnormal_other">Anti-Flimmer-Modus bei schwachem Licht kann die Bildwiederholrate und die Anzeige einiger Elemente beeinflussen.</string>
-    <string name="dc_lignt_enable_hint">Im Anti-Flimmer-Modus wird die Bildwiederholrate auf 60 Hz gesetzt. In den Anti-Flimmer-Modus wechseln?</string>
+    <string name="dc_light_hint_unnormal_other">Anti-Flimmer-Modus bei schwachem Licht kann die Bildfrequenz und die Anzeige einiger Elemente beeinflussen.</string>
+    <string name="dc_lignt_enable_hint">Im Anti-Flimmer-Modus wird die Bildfrequenz auf 60 Hz gesetzt. In den Anti-Flimmer-Modus wechseln?</string>
     <string name="delete_first_to_add_animal">Um ein neues Element hinzuzufügen, lösche zuerst eins.</string>
     <string name="desktop_widget_authorization">Tippen, um Berechtigungen für die Statistikanzeige zu erteilen</string>
     <string name="desktop_widget_authorization_new">Tippen, um die Bildschirmzeitstatistik anzuzeigen</string>
@@ -135,11 +135,11 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d bis %d Minuten</string>
     <string name="focus_time_exception_tip">Anscheinend hat sich die Systemzeit geändert. Fokusmodus wurde ausgeschaltet.</string>
     <string name="force_rest_summary">Zwangspausen einlegen, wenn Sitzungen das festgelegte Limit erreichen</string>
-    <string name="fps_nature_summary">Maximale Bildwiederholrate zeigt alles klar und deutlich</string>
-    <string name="fps_save_battery_tips">Stromsparen ist an. Bildwiederholrate auf %d Hz eingestellt.</string>
-    <string name="fps_smooth_summary">Hohe Bildwiederholrate sorgt für mehr Klarheit bei Details</string>
-    <string name="fps_standard_summary">Standard-Bildwiederholrate spart Akku</string>
-    <string name="fps_user_tip_footer">%1$d. Damit du den Unterschied zwischen höheren und niedrigeren Bildwiederholraten verstehen kannst, werden die Demos hier langsamer abgespielt. Bei normaler Nutzung wirst den Unterschied vielleicht nicht so schnell bemerken.\n%2$d. In einigen Fällen kann die Bildwiederholrate dynamisch angepasst werden, je nachdem, welche Elemente angezeigt werden.</string>
+    <string name="fps_nature_summary">Maximale Bildfrequenz zeigt alles klar und deutlich</string>
+    <string name="fps_save_battery_tips">Stromsparen ist an. Bildfrequenz auf %d Hz eingestellt.</string>
+    <string name="fps_smooth_summary">Hohe Bildfrequenz sorgt für mehr Klarheit bei Details</string>
+    <string name="fps_standard_summary">Standard-Bildfrequenz spart Akku</string>
+    <string name="fps_user_tip_footer">%1$d. Damit du den Unterschied zwischen höheren und niedrigeren Bildfrequenzn verstehen kannst, werden die Demos hier langsamer abgespielt. Bei normaler Nutzung wirst den Unterschied vielleicht nicht so schnell bemerken.\n%2$d. In einigen Fällen kann die Bildfrequenz dynamisch angepasst werden, je nachdem, welche Elemente angezeigt werden.</string>
     <string name="friday_shortest">F</string>
     <string name="galapagos_cormorant">Galapagosscharbe</string>
     <string name="galapagos_dove">Galapagostaube</string>
@@ -159,7 +159,7 @@
     <string name="harpy_eagle">Harpyie</string>
     <string name="has_applied">Angewendet</string>
     <string name="helmeted_guineafowl">Perlhuhn</string>
-    <string name="high_fps_description">Hohe Bildwiederholrate. Höherer Stromverbrauch.</string>
+    <string name="high_fps_description">Hohe Bildfrequenz. Höherer Stromverbrauch.</string>
     <string name="hippopotamus">Flusspferd</string>
     <string name="intelligent_radio_btn_title">Standard (empfohlen)</string>
     <string name="item_anura">Froschlurche</string>
@@ -197,7 +197,7 @@
     <string name="long_tai1ed_iaeger">Falkenraubmöwe</string>
     <string name="low_flicker_mode">Schwachlicht</string>
     <string name="low_flicker_mode_summary">Flimmern bei schlechten Lichtverhältnissen verhindern, um die Augen zu schonen</string>
-    <string name="low_fps_description">Niedrige Bildwiederholrate. Niedrigerer Stromverbrauch.</string>
+    <string name="low_fps_description">Niedrige Bildfrequenz. Niedrigerer Stromverbrauch.</string>
     <string name="low_light_preview">Vorschau Schwachlicht</string>
     <string name="lynx">Luchs</string>
     <string name="magnificent_frigatebird">Prachtfregattvogel</string>
@@ -316,8 +316,8 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="saturday_shortest">S</string>
     <string name="scarlet_macaw">Ara</string>
     <string name="scarlet_macaw_info">Aras sind langschwänzige, oft farbenprächtige Neuwelt-Papageien.</string>
-    <string name="screen_fps_summary_power_save">Durch eine feste Bildwiederholrate wird weniger Strom verbraucht</string>
-    <string name="screen_fps_summary_smooth">Einige Apps erhöhen die Bildwiederholrate automatisch, um die Bildqualität zu verbessern</string>
+    <string name="screen_fps_summary_power_save">Durch eine feste Bildfrequenz wird weniger Strom verbraucht</string>
+    <string name="screen_fps_summary_smooth">Einige Apps erhöhen die Bildfrequenz automatisch, um die Bildqualität zu verbessern</string>
     <string name="screen_original_gamut_summary">Alle Bildschirminhalte in einem möglichst breiten Farbraum anzeigen</string>
     <string name="screen_time_lock">Bildschirmzeitsperre</string>
     <string name="sea_eagle_info">Seeadler sind mächtige Spitzenraubtiere und opportunistische Aasfresser, die gewöhnlich in der Nähe großer offener Gewässer leben.</string>
@@ -376,7 +376,7 @@ Zustimmung jetzt widerrufen?"</string>
     <string name="stop_app_timer_success">Bildschirmzeit erfolgreich deaktiviert</string>
     <string name="stop_app_timer_tip">Nach Deaktivierung der Bildschirmzeit werden deren Daten und Berechtigungen gelöscht, inkl. individuelle Einstellungen, lokal gespeicherte und mit der Cloud synchronisierte Elemente.</string>
     <string name="stop_summary">Nach Deaktivierung der Bildschirmzeit werden deren Daten und Statistiken gelöscht.</string>
-    <string name="summary_max_fps_for_intelligent">Bildwiederholrate je nach Szenario dynamisch auf bis zu %s Hz anpassen, um Leistung und Stromverbrauch auszugleichen.</string>
+    <string name="summary_max_fps_for_intelligent">Bildfrequenz je nach Szenario dynamisch auf bis zu %s Hz anpassen, um Leistung und Stromverbrauch auszugleichen.</string>
     <string name="sunday_shortest">S</string>
     <string name="superb_starling">Dreifarben-Glanzstar</string>
     <string name="tasmanian_devil">Tasmanischer Teufel</string>
