@@ -145,7 +145,7 @@
     <string name="notification_action_dismiss">Abweisen</string>
     <string name="notification_action_earpiece">Ohrhörer</string>
     <string name="notification_dialing">Wählen</string>
-    <string name="notification_incoming_call">Ankommender Anruf</string>
+    <string name="notification_incoming_call">Eingehender Anruf</string>
     <string name="notification_on_hold">Halten</string>
     <string name="notification_ongoing_call">Laufender Anruf</string>
     <string name="notification_requesting_video_call">Eingehende Videoanfrage</string>
