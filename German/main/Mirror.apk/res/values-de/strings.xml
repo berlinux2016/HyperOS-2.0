@@ -290,7 +290,7 @@
     <string name="settings_feature_characteristics_summary_2">Elemente können per \"Ziehen &amp; Einfügen\" auf dein Gerät gezogen und von dort übertragen werden.</string>
     <string name="settings_feature_characteristics_summary_3">Bring dein Telefon einfach in die Nähe eines bereits verbundenen Computers, um die Verbindung automatisch wiederherzustellen.</string>
     <string name="settings_feature_characteristics_title_1">Nahtlose Synchronisation und Übergabe</string>
-    <string name="settings_feature_dnd_summary">Benachrichtigungen stumm schalten, wenn dein Gerät an einen PC angeschlossen ist</string>
+    <string name="settings_feature_dnd_summary">Benachrichtigungen stummschalten, wenn dein Gerät an einen PC angeschlossen ist</string>
     <string name="settings_handoff_enable_bluetooth">Bluetooth einschalten</string>
     <string name="settings_history_full_time_format">dd.MM.yyyy HH:mm</string>
     <string name="settings_home_device_disconnect">Trennen</string>
