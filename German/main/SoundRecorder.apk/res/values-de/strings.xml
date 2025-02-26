@@ -32,7 +32,6 @@
     <string name="add_to_trust_device">Dies ist ein vertrauenswürdiges Gerät</string>
     <string name="agree_description">Diese App darf eine Internetverbindung herstellen, um alle ihre Funktionen zu nutzen.</string>
     <string name="ai_watermark">Dieser Inhalt ist KI-generiert und dient nur zu deiner Referenz.</string>
-    <string name="airecorder_month_day_hour_minute_format">dd.MM. HH:mm</string>
     <string name="am">AM</string>
     <string name="app_record_preference_title">Sprachanruf-Rekorder</string>
     <string name="auth_fail_warning">Sitzung abgelaufen. Erneut anmelden.</string>
@@ -54,7 +53,6 @@
     <string name="data_connection_title">Datennutzungswarnung</string>
     <string name="date_picker_lunar">Traditioneller chin. Kalender</string>
     <string name="date_time_picker_dialog_title">Datum und Zeit einstellen</string>
-    <string name="day_in_week_hour_minute_format">EE HH:mm</string>
     <string name="delete_cloud_data_at_same_time">Auch aus der Cloud löschen</string>
     <string name="diagnosis_log_send_failed">Protokolle nicht gesendet. Erneut versuchen.</string>
     <string name="diagnosis_log_sent_format">Protokolle erfolgreich gesendet.\nID: %s\nSende diesen Code an den Supervisor.</string>
@@ -148,7 +146,6 @@
     <string name="monday_shortest">M</string>
     <string name="month_april_shortest">A</string>
     <string name="month_august_shortest">A</string>
-    <string name="month_day_format">dd.MM.</string>
     <string name="month_december_shortest">D</string>
     <string name="month_february_shortest">F</string>
     <string name="month_january_shortest">J</string>
@@ -437,7 +434,4 @@
     <string name="xiaomi_market_sdk_update_dialog_cancel">Jetzt nicht</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualisieren</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Ein Update ist verfügbar</string>
-    <string name="year_month_day_format">dd.MM.yyyy</string>
-    <string name="year_month_day_hour_minute_format">dd.MM.yyyy HH:mm</string>
-    <string name="year_month_format">MM/yyyy</string>
 </resources>
