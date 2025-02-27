@@ -104,7 +104,7 @@
     <string name="apply_theme_with_ringtones">Themenklingelton verwenden</string>
     <string name="apply_wallpaper_after_three_theme">Sie verwenden derzeit ein Drittanbieter-Thema. Wenn Sie den Sperrbildschirmhintergrund ändern, kann dies dazu führen, dass der Stil der Sperrbildschirmuhr auf Standard zurückgesetzt wird. Jetzt anwenden?</string>
     <string name="apply_wallpaper_dialog_title">Dieses Hintergrundbild anwenden?</string>
-    <string name="apply_wallpaper_only_home">Nur Home Bildschirm</string>
+    <string name="apply_wallpaper_only_home">Nur Startbildschirm</string>
     <string name="apply_wallpaper_to_lockscreen">Dieses Hintergrundbild auch auf den Sperrbildschirm anwenden?</string>
     <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Sie verwenden derzeit einen Superhintergrund. Wenn Sie einen neuen Hintergrund wählen, wird er sowohl auf den Start- als auch auf den Sperrbildschirm angewendet, und das Always-on-Display wird auf seine vorherige Einstellung zurückgesetzt. Jetzt anwenden?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Sie verwenden derzeit einen Superhintergrund. Wenn Sie einen neuen Hintergrund wählen, wird er sowohl auf den Start- als auch auf den Sperrbildschirm angewendet. Jetzt anwenden?</string>
